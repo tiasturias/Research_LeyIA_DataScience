@@ -1,0 +1,87 @@
+iso3,has_gdpr_like_law,gdpr_similarity_level,dp_law_name,dp_law_year,has_dpa,eu_status,enforcement_active
+ARE,1,2,Federal PDPL Law No. 45 of 2021,2021,1,none,1
+ARG,1,3,Law 25.326 Personal Data Protection,2000,1,adequacy,1
+ARM,1,2,Law on Protection of Personal Data,2015,1,none,1
+AUS,1,2,Privacy Act 1988 (amended),1988,1,none,1
+AUT,1,3,GDPR + Datenschutzgesetz (DSG),2018,1,eu_member,1
+BEL,1,3,GDPR + Law of 30 July 2018,2018,1,eu_member,1
+BGD,1,2,Data Protection Act,2023,0,none,0
+BGR,1,3,GDPR + Personal Data Protection Act,2018,1,eu_member,1
+BHR,1,2,Personal Data Protection Law No. 30/2018,2018,1,none,1
+BLR,1,2,Law on Personal Data Protection,2021,1,none,1
+BLZ,1,2,Data Protection Act,2021,0,none,0
+BRA,1,2,LGPD Law 13.709/2018,2018,1,none,1
+BRB,1,2,Data Protection Act,2019,1,none,1
+CAN,1,3,PIPEDA + provincial laws,2000,1,adequacy,1
+CHE,1,3,Federal Act on Data Protection (revised nFADP),2023,1,adequacy,1
+CHL,1,2,Law 21.719 Personal Data Protection,2024,1,none,0
+CHN,1,2,Personal Information Protection Law (PIPL),2021,1,none,1
+CMR,0,1,Sectoral frameworks only (Law 2010/012 on electronic communications),2010,0,none,0
+COL,1,2,Law 1581 of 2012 + Decree 1377/2013,2012,1,none,1
+CRI,1,2,Law 8968 Protection of Persons,2011,1,none,1
+CYP,1,3,GDPR + Law 125(I)/2018,2018,1,eu_member,1
+CZE,1,3,GDPR + Act 110/2019,2018,1,eu_member,1
+DEU,1,3,GDPR + BDSG,2018,1,eu_member,1
+DNK,1,3,GDPR + Data Protection Act,2018,1,eu_member,1
+ECU,1,2,Ley Organica de Proteccion de Datos Personales (LOPDP),2021,1,none,1
+EGY,1,2,Law 151/2020 Personal Data Protection,2020,0,none,0
+ESP,1,3,GDPR + LOPDGDD,2018,1,eu_member,1
+EST,1,3,GDPR + Personal Data Protection Act,2018,1,eu_member,1
+FIN,1,3,GDPR + Data Protection Act,2018,1,eu_member,1
+FRA,1,3,GDPR + Loi Informatique et Libertes (amended),2018,1,eu_member,1
+GBR,1,3,UK GDPR + Data Protection Act 2018,2018,1,adequacy,1
+GHA,1,2,Data Protection Act 843,2012,1,none,1
+GRC,1,3,GDPR + Law 4624/2019,2018,1,eu_member,1
+HRV,1,3,GDPR + Data Protection Implementation Act,2018,1,eu_member,1
+HUN,1,3,GDPR + Act CXII of 2011 (amended),2018,1,eu_member,1
+IDN,1,2,Personal Data Protection Law 27/2022,2022,0,none,0
+IND,1,2,Digital Personal Data Protection Act,2023,0,none,0
+IRL,1,3,GDPR + Data Protection Act 2018,2018,1,eu_member,1
+ISL,1,3,GDPR (EEA) + Act 90/2018,2018,1,eea_member,1
+ISR,1,3,Protection of Privacy Law 5741-1981 (amended),1981,1,adequacy,1
+ITA,1,3,GDPR + Legislative Decree 196/2003 (amended),2018,1,eu_member,1
+JOR,1,2,Personal Data Protection Law,2023,0,none,0
+JPN,1,3,Act on the Protection of Personal Information (APPI) amended,2022,1,adequacy,1
+KAZ,1,2,Law 94-V On Personal Data,2013,1,none,1
+KEN,1,2,Data Protection Act,2019,1,none,1
+KOR,1,3,Personal Information Protection Act (PIPA) amended,2023,1,adequacy,1
+LBN,1,2,Law 81/2018 Electronic Transactions and Personal Data,2018,0,none,0
+LKA,1,2,Personal Data Protection Act No. 9,2022,0,none,0
+LTU,1,3,GDPR + Law on Legal Protection of Personal Data,2018,1,eu_member,1
+LUX,1,3,GDPR + Law of 1 August 2018,2018,1,eu_member,1
+LVA,1,3,GDPR + Personal Data Processing Law,2018,1,eu_member,1
+MAR,1,2,Law 09-08 on Protection of Individuals,2009,1,none,1
+MEX,1,2,LFPDPPP (private) + LGPDPPSO (public),2010,1,none,1
+MLT,1,3,GDPR + Data Protection Act 2018,2018,1,eu_member,1
+MNG,1,2,Law on Personal Data Protection,2021,0,none,0
+MUS,1,2,Data Protection Act,2017,1,none,1
+MYS,1,2,Personal Data Protection Act (PDPA) amended,2010,1,none,1
+NGA,1,2,Nigeria Data Protection Act (NDPA),2023,1,none,1
+NLD,1,3,GDPR + Implementation Act (UAVG),2018,1,eu_member,1
+NOR,1,3,GDPR (EEA) + Personal Data Act,2018,1,eea_member,1
+NZL,1,3,Privacy Act,2020,1,adequacy,1
+PAK,0,1,Draft Personal Data Protection Bill (pending),2020,0,none,0
+PAN,1,2,Law 81 of 2019 Personal Data Protection,2019,1,none,1
+PER,1,2,Law 29733 Personal Data Protection,2011,1,none,1
+PHL,1,2,Data Privacy Act of 2012 (RA 10173),2012,1,none,1
+POL,1,3,GDPR + Personal Data Protection Act,2018,1,eu_member,1
+PRT,1,3,GDPR + Law 58/2019,2018,1,eu_member,1
+ROU,1,3,GDPR + Law 190/2018,2018,1,eu_member,1
+RUS,1,2,Federal Law 152-FZ On Personal Data,2006,1,none,1
+SAU,1,2,Personal Data Protection Law (PDPL),2021,1,none,1
+SGP,1,2,Personal Data Protection Act,2012,1,none,1
+SRB,1,2,Law on Personal Data Protection,2018,1,none,1
+SVK,1,3,GDPR + Act 18/2018,2018,1,eu_member,1
+SVN,1,3,GDPR + ZVOP-2,2018,1,eu_member,1
+SWE,1,3,GDPR + Data Protection Act,2018,1,eu_member,1
+SYC,1,2,Data Protection Act (revised),2023,1,none,0
+THA,1,2,Personal Data Protection Act (PDPA),2019,1,none,1
+TUN,1,2,Law 2004-63 Personal Data Protection,2004,1,none,1
+TUR,1,2,Law on Protection of Personal Data (KVKK),2016,1,none,1
+TWN,1,2,Personal Data Protection Act (amended),2023,1,none,1
+UGA,1,2,Data Protection and Privacy Act,2019,1,none,1
+UKR,1,2,Law 2297-VI On Personal Data Protection,2010,1,none,1
+URY,1,3,Law 18.331 Personal Data Protection,2008,1,adequacy,1
+USA,0,1,Sectoral laws (HIPAA COPPA GLBA FCRA) + state laws (CCPA VCDPA),1996,0,none,1
+VNM,1,2,Personal Data Protection Decree 13/2023,2023,0,none,0
+ZAF,1,2,Protection of Personal Information Act (POPIA),2013,1,none,1
