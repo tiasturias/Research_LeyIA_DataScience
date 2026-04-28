@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "iso3": "ARE",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "ARE_PDPL_FDL45_2021_AR.pdf",
+      "document_title": "Federal Decree-Law No. (45) of 2021 concerning the Protection of Personal Data (PDPL)",
+      "doc_type": "binding_law_sectoral",
+      "issuer": "Office of the President / UAE Cabinet",
+      "publication_date": "2021-09-20",
+      "status": "in_force",
+      "language": "en-ar",
+      "source_url": "https://uaelegislation.gov.ae/en/legislations/1972/download",
+      "pages": "29"
+    },
+    {
+      "filename": "ARE_CybercrimeLaw_FDL34_2021.pdf",
+      "document_title": "Federal Decree-Law No. (34) of 2021 on Countering Rumors and Cybercrimes",
+      "doc_type": "binding_law_sectoral",
+      "issuer": "Office of the President / UAE Cabinet",
+      "publication_date": "2021-09-20",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://uaelegislation.gov.ae/en/legislations/1526/download",
+      "pages": "36"
+    },
+    {
+      "filename": "ARE_NationalAIStrategy2031.pdf",
+      "document_title": "UAE National Strategy for Artificial Intelligence 2031",
+      "doc_type": "policy_strategy",
+      "issuer": "UAE Council for Artificial Intelligence / Minister of State for AI",
+      "publication_date": "2018-04",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://ai.gov.ae/wp-content/uploads/2021/07/UAE-National-Strategy-for-Artificial-Intelligence-2031.pdf",
+      "pages": "25"
+    },
+    {
+      "filename": "ARE_Charter_AI_2024.pdf",
+      "document_title": "UAE Charter for the Development and Use of Artificial Intelligence",
+      "doc_type": "guidelines",
+      "issuer": "Artificial Intelligence Office / Minister of State for AI",
+      "publication_date": "2024-07",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://ai.gov.ae/wp-content/uploads/2024/07/UAEAI-Methaq-EN2-3.pdf",
+      "pages": "6"
+    },
+    {
+      "filename": "ARE_DIFC_DataProtectionLaw5_2020_consolidated.pdf",
+      "document_title": "DIFC Data Protection Law No. 5 of 2020 (consolidated July 2025, incl. Regulation 10 on AI)",
+      "doc_type": "binding_law_sectoral",
+      "issuer": "Dubai International Financial Centre Authority",
+      "publication_date": "2020-05-21",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://assets.difc.com/v1/media/edge/images/dubaiintern0078-difcexperie96c5-production-3253/media/project/difcexperiences/difc/difcwebsite/documents/laws--regulations/data-protection-law.pdf",
+      "pages": "54"
+    },
+    {
+      "filename": "ARE_SmartDubai_AIEthics_2019.pdf",
+      "document_title": "Smart Dubai AI Ethics Principles and Guidelines",
+      "doc_type": "guidelines",
+      "issuer": "Digital Dubai (ex-Smart Dubai Office)",
+      "publication_date": "2019-01",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.digitaldubai.ae/docs/default-source/ai-principles-resources/ai-ethics.pdf",
+      "pages": "35"
+    }
+  ],
+  "findings_text": "# ARE \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**UAE fue el primer pa\u00eds del mundo en nombrar un Ministro de Estado para IA (2017) y es el \u00fanico pa\u00eds del corpus que posee la primera regulaci\u00f3n IA-espec\u00edfica vinculante de la regi\u00f3n MEASA (DIFC Regulation 10, enforcement pleno desde enero 2026), en un ecosistema de soft_framework institucionalmente sofisticado que incluye estrategia nacional desde 2017, Charter oficial 2024 con 12 principios, y pathway legislativo federal declarado \u2014 marcando una trayectoria divergente respecto a Singapur (que expl\u00edcitamente rechaza ley IA horizontal) y convergente hacia la binding_regulation durante 2026-2027.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 6 | count(manifest.csv) |\n| # binding (law + sectoral) | 3 | PDPL + Cybercrime + DIFC |\n| # soft/policy/strategy | 3 | Strategy + Charter + Smart Dubai |\n| P\u00e1ginas totales corpus | 185 | sum(pages) |\n| P\u00e1ginas binding / soft | 119 / 66 | 1.8:1 ratio |\n| Primer documento (fecha) | 2019-01 | Smart Dubai AI Ethics |\n| \u00daltimo documento (fecha) | 2024-07 | UAE Charter AI |data/raw/legal_corpus/BGD\n| A\u00f1os cubiertos | 5.5 | (2024-07 - 2019-01) |\n| Gap con fecha corpus | ~9 meses | 2026-04-21 - 2024-07 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2017-10 | Ministerio de Estado para IA | UAE primer pa\u00eds mundial en nominar Ministro de Estado para IA (Omar Al Olama) |\n| 2019-01 | Smart Dubai AI Ethics | Primer framework \u00e9tico IA en MEASA (4 pilares: \u00e9tica, seguridad, humanidad, inclusividad) |\n| 2021-09-20 | PDPL (FDL 45/2021) | Ley federal de protecci\u00f3n de datos personales; UAE Data Office creado por FDL 44/2021 |\n| 2021-09-20 | Cybercrime Law (FDL 34/2021) | Ley federal de cibercrimen; deepfakes (Art. 44), rumor propagation (Arts. 50-52) |\n| 2022-01-02 | Entrada en vigor | PDPL + Cybercrime Law entran en vigor simult\u00e1neamente |\n| 2023-09-01 | DIFC Regulation 10 | Enmienda a DIFC Data Protection Law \u2014 primera regulaci\u00f3n IA-espec\u00edfica en MEASA |\n| 2024-07 | UAE Charter for AI | Lanzado por Ministro Al Olama \u2014 12 principios \u00e9ticos oficiales |\n| 2025-04 | Regulatory Intelligence Office | Creado por Cabinet approval |\n| 2025-10-24 | National Elections AI Policy | Primera regulaci\u00f3n mundial IA en elecciones (anunciada, texto no p\u00fablico) |\n| 2026-01 | DIFC Regulation 10 enforcement | Enforcement pleno de Regulation 10 en DIFC |\n| 2026-01 | NAI System operativo | National AI System asesorando Cabinet y boards federales |\n| 2026 (en curso) | Draft AI Law federal | Ley IA horizontal federal en desarrollo |\n\n**Duraci\u00f3n:** 5.5 a\u00f1os de evoluci\u00f3n regulatoria continua (2019 \u2192 2026).\n**Emisor principal:** UAE Cabinet / Ministry of State for AI / DIFC Authority.\n**Continuidad institucional:** Mismo ministro (Al Olama) desde 2017 a 2024.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **Primer Ministro de Estado para IA del mundo (2017)** \u2014 Hito hist\u00f3rico documentado en UAE National AI Strategy 2031 (portada). Establece prioridad pol\u00edtica m\u00e1xima.\n\n- **DIFC Regulation 10 (2023, enforcement 2026-01)** \u2014 Primera regulaci\u00f3n IA-espec\u00edfica vinculante de la regi\u00f3n MEASA. Regulation 10 exige: AI registers, Autonomous Systems Officer, certificaci\u00f3n, notices IA, principios de ethics/fairness/transparency/security/accountability para sistemas aut\u00f4nomos. Documentado en fuentes secundarias (Clyde & Co., Lexology).\n\n- **UAE Charter 2024 (12 principios)** \u2014 Texto oficial completo con extracci\u00f3n pdfminer de 4,221 caracteres. Documenta obligaciones concretas: \"ensure that all AI systems comply with the highest safety standards\" (Princ. 2), \"address the challenges posed by AI algorithms regarding algorithmic bias\" (Princ. 3), \"human judgment and human oversight over AI\" (Princ. 6).\n\n- **3 binding sectorials en vigor** vs promedio en soft_framework del corpus (~1-2): PDPL 2021, Cybercrime Law 2021, DIFC Data Protection Law + Regulation 10. Densidad vinculante superior al peer group.\n\n- **Pathway legislativo federal declarado** \u2014 Draft AI Law anunciado abril 2025, en desarrollo. UAE apunta a binding_regulation durante 2026-2027.\n\n- **PDPL + UAE Data Office activos** \u2014 Competent authority federal con poderes sancionatorios reales, no meramente aspiracional.\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **No hay ley IA federal horizontal promulgada.** El draft announced abril 2025 no equivale a promulgaci\u00f3n. Sin ley IA vigente a nivel federal. *Refutador primario.* Validaci\u00f3n: el corpus confirma `has_ai_law = 0`.\n\n- **DIFC Regulation 10 limitada territorialmente.** Aplicable solo a entidades domiciliadas en la zona franca DIFC (Dubai International Financial Centre). No es un Federal Decree-Law aplicable nacionalmente. *Refutador secundario.* Comparar con ADGM (Abu Dhabi Global Market) \u2014 marco paralelo no capturado en esta iteraci\u00f3n.\n\n- **National Elections AI Policy texto no p\u00fablico.** Anunciada como \"first-in-world\" pero sin PDF disponible al 2026-04. Puede no ser un instrumento p\u00fablico formal. *Refutador terciario.* Trigger: monitoreo de ai.gov.ae y uaelegislation.gov.ae.\n\n- **Qatar y Arabia Saudita pueden tener regulaciones similares.** Los estados del Golfo tienen estrategias IA activas (Saudi Vision 2030 incluye IA). La tesis de \"primero en MEASA\" puede no ser diferencial en 12-24 meses.\n\n- **R\u00e9gimen soft_framework no garantiza binding.** El pathway hacia binding_regulation puede revertirse (elecciones, cambio deprioridad pol\u00edtica). *Horizonte 12-24m.*\n\n---\n\n## 6. Comparaci\u00f3n vs peer group\n\n| Pa\u00eds | R\u00e9gimen | # docs | # binding | Tesis diferencial |\n|---|---|---|---|---|\n| SGP | soft_framework | 7 | 2 | MGF m\u00e1s maduro globalmente; pol\u00edtica expl\u00edcita de no promulgar ley IA horizontal |\n| **ARE** | **soft_framework** | **6** | **3** | **Primer Ministerio IA mundial (2017), primera regulaci\u00f3n IA-espec\u00edfica MEASA (DIFC Reg 10), pathway declarado hacia binding** |\n| ISR | soft_framework | 4 | 1 | Privacy Protection Law 2025 amended + estrategia + programas nacionales |\n| GBR | soft_framework | 6 | 2 | Abandono AI Bill + AISI como instituci\u00f3n (2024) |\n| NZL | soft_framework | 5 | 1 | Strategy tard\u00eda (jul 2025) + Algorithm Charter gubernamental |\n\n**An\u00e1lisis:** ARE comparte r\u00e9gimen soft_framework con SGP, ISR, GBR, NZL, pero se distingue por:\n- Mayor # binding docs (3) vs GBR/NZL/ISR (1-2)\n- Mismo # docs que GBR (6), menor que SGP (7)\n- \u00danico con DIFC Regulation 10 como regulaci\u00f3n IA-espec\u00edfica vinculante\n- \u00danico con pathway legislativo federal declarado hacia binding_regulation\n- Trayectoria: soft_framework \u2192 binding_regulation (vs SGP que expl\u00edcitamente rechaza)\n\n---\n\n## 7. Implicancias para el estudio\n\n| Variable X1 | Efecto potencial |\n|---|---|\n| `has_ai_law` | 0 (sin cambio) \u2014 ley IA federal NO promulgada |\n| `regulatory_intensity` | Upgrade 5 \u2192 7 (+2) por Charter, DIFC Reg 10, PDPL + Cybercrime |\n| `thematic_coverage` | Upgrade 9 \u2192 13 (+4) por cobertura de 12 de 15 temas |\n| `regulatory_regime_group` | Confirmado como `soft_framework` robusto (no `strategy_only`, no `binding_regulation`) |\n| `confidence` | Sube a `medium-high` por evidencia primaria s\u00f3lida |\n\n**Hip\u00f3tesis testeable:**\n- \u00bfPa\u00edses con ecosistema soft_framework denso + pathway hacia binding (ARE, TWN) tienen outcomes distintos a pa\u00edses con soft_framework estable (SGP, GBR)?\n- \u00bfLa existencia de regulaci\u00f3n IA-espec\u00edfica sub-federal (DIFC) tiene efecto independent sobre adopci\u00f3n/inversi\u00f3n?\n\n**Caso narrativo \u00fatil para:**\n- \u00a7Discusi\u00f3n del paper como \"caso de soft_framework institucionalmente sofisticado con pathway convergente\"\n- Control para tesis \"r\u00e9gimen blando = menor inversi\u00f3n\" (ARE es top-1 Microsoft con soft_framework)\n- Comparaci\u00f3n con SGP (soft_framework sin pathway) y TWN (binding_regulation por ley 2026)\n\n---\n\n## 8. Banderas de re-visita\n\n| Evento | Horizonte | Trigger observable |\n|---|---|---|\n| Promulgaci\u00f3n de ley IA federal | 6-12m | Publicaci\u00f3n en uaelegislation.gov.ae |\n| Publicaci\u00f3n de National Elections AI Policy PDF | 3-6m | Anuncio en ai.gov.ae o ai.gov.ae/wp-content/ |\n| DIFC Regulation 10 actualizaci\u00f3n | 6m | assets.difc.com actualiza Law No. 5 consolidated |\n| ADGM AI-specific regulation publicada | 12m | adgm.com actualizaci\u00f3n de regulaciones |\n| ARE drop en ranking Microsoft | 12m | Microsoft AI Diffusion Report 2026 |\n| Cambio de Ministro de Estado para IA | 24m | Presidential Decree o comunicado oficial |\n\n---\n\n## Links\n\n- [CANDIDATES.md](CANDIDATES.md)\n- [SOURCES.md](SOURCES.md)\n- [manifest.csv](manifest.csv)"
+}

@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "iso3": "AUS",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "AUS_AIEthicsFramework_2019.pdf",
+      "document_title": "Artificial Intelligence: Australia's Ethics Framework",
+      "doc_type": "soft_framework",
+      "issuer": "CSIRO Data61 / Department of Industry Science and Resources",
+      "publication_date": "2019-11-07",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.csiro.au/-/media/D61/Reports/Artificial-Intelligence-ethics-framework.pdf",
+      "pages": "78"
+    },
+    {
+      "filename": "AUS_AIActionPlan_2021.pdf",
+      "document_title": "Australia's Artificial Intelligence Action Plan",
+      "doc_type": "policy_strategy",
+      "issuer": "Department of Industry Science and Resources (DISR)",
+      "publication_date": "2021-06-18",
+      "status": "superseded",
+      "language": "en",
+      "source_url": "https://www.industry.gov.au/data-and-publications/australias-artificial-intelligence-action-plan",
+      "pages": "30"
+    },
+    {
+      "filename": "AUS_MandatoryGuardrailsProposals_2024.pdf",
+      "document_title": "Safe and Responsible AI in Australia: Proposals Paper for Introducing Mandatory Guardrails for AI in High-Risk Settings",
+      "doc_type": "soft_framework",
+      "issuer": "Department of Industry Science and Resources (DISR)",
+      "publication_date": "2024-09-05",
+      "status": "superseded",
+      "language": "en",
+      "source_url": "https://consult.industry.gov.au/ai-mandatory-guardrails",
+      "pages": "69"
+    },
+    {
+      "filename": "AUS_PrivacyAmendmentAct_2024.pdf",
+      "document_title": "Privacy and Other Legislation Amendment Act 2024 (No. 128 of 2024)",
+      "doc_type": "binding_law",
+      "issuer": "Australian Parliament",
+      "publication_date": "2024-12-10",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.legislation.gov.au/C2024A00128/asmade",
+      "pages": "87"
+    },
+    {
+      "filename": "AUS_VoluntaryAISafetyStandard_2024.pdf",
+      "document_title": "Voluntary AI Safety Standard",
+      "doc_type": "soft_framework",
+      "issuer": "Department of Industry Science and Resources (DISR)",
+      "publication_date": "2024-09-05",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.industry.gov.au/sites/default/files/2024-09/voluntary-ai-safety-standard.pdf",
+      "pages": "Standard voluntario con 10 guardrails para todas las organizaciones en la cadena de suministro IA. Publicado simult\u00e1neamente con Proposals Paper. 69pp EN. URL oficial verificada en m\u00faltiples fuentes."
+    },
+    {
+      "filename": "AUS_NationalFrameworkAssuranceAI_2024.pdf",
+      "document_title": "National Framework for the Assurance of Artificial Intelligence in Government",
+      "doc_type": "soft_framework",
+      "issuer": "Department of Finance (DoF) \u2014 Data and Digital Ministers Meeting",
+      "publication_date": "2024-06-21",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.finance.gov.au/sites/default/files/2024-06/National-framework-for-the-assurance-of-AI-in-government.pdf",
+      "pages": "Framework nacional para aseguramiento de uso IA en gobierno. Acordado por Data and Digital Ministers Meeting 21-jun-2024. Cinco 'assurance cornerstones' + mapeados a 8 AI Ethics Principles. URL oficial verificada."
+    },
+    {
+      "filename": "AUS_NationalAIPlan_2025.pdf",
+      "document_title": "National AI Plan 2025",
+      "doc_type": "policy_strategy",
+      "issuer": "Department of Industry Science and Resources (DISR)",
+      "publication_date": "2025-12-02",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.industry.gov.au/sites/default/files/2025-12/national-ai-plan.pdf",
+      "pages": "37"
+    }
+  ],
+  "findings_text": "# AUS \u2014 Hallazgos diferenciales\n\n**Pa\u00eds:** Australia (ISO3: AUS)\n**Fecha de an\u00e1lisis:** 2026-04-21\n**R\u00e9gimen propuesto:** soft_framework \u2191 (desde IAPP strategy_led)\n**Documentos base:** [CANDIDATES.md](CANDIDATES.md) \u00b7 [manifest.csv](manifest.csv) \u00b7 [SOURCES.md](SOURCES.md)\n\n---\n\n## 1. Tesis del hallazgo diferencial\n\nAustralia es **el \u00fanico pa\u00eds del corpus que inici\u00f3 un proceso formal de legislaci\u00f3n horizontal de IA \u2014 consulta p\u00fablica de *mandatory guardrails* (sep 2024) \u2014 y posteriormente lo abandon\u00f3 de manera expl\u00edcita** en el National AI Plan 2025 (dic 2025), reemplaz\u00e1ndolo por \"updating the existing legal and regulatory framework\". La secuencia propuesta \u2192 consultada \u2192 abandonada, todo documentado en instrumentos oficiales dentro del mismo per\u00edodo del estudio, convierte a AUS en un **cuasi-experimento observacional** sobre la pregunta central del estudio \"\u00bfregular o no regular?\". Ning\u00fan otro pa\u00eds del corpus tiene los tres instrumentos co-presentes (propuesta expl\u00edcita de ley horizontal, consulta p\u00fablica cerrada, declaraci\u00f3n formal de abandono).\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo / Fuente |\n|---|---|---|\n| # documentos totales | 7 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | Privacy Amendment Act 2024 |\n| # soft/policy/strategy | 6 | resto |\n| # descargados con SHA-256 | 5 / 7 | 4 primarios + 1 v\u00eda Wayback (doc 7) |\n| # con URL confirmada pero sin SHA | 2 / 7 | docs 5, 6 (industry.gov.au y finance.gov.au geo-bloquean) |\n| P\u00e1ginas totales corpus (medibles) | 370 | 78+30+69+87+69+37; doc 6 = N/A |\n| P\u00e1ginas binding / soft medibles | 87 / 283 | ratio 1 : 3.25 |\n| Primer documento | 2019-11-07 | AI Ethics Framework |\n| \u00daltimo documento | 2025-12-02 | National AI Plan 2025 |\n| A\u00f1os cubiertos | 6.1 | 2019-11 \u2192 2025-12 |\n| Gap fecha \u00faltimo doc \u2192 an\u00e1lisis | ~4.6 meses | 2025-12-02 \u2192 2026-04-21 |\n| # docs superseded | 2 / 7 (29%) | AI Action Plan 2021, Mandatory Guardrails Proposals 2024 |\n| Concentraci\u00f3n de emisor (DISR) | 5 / 7 (71%) | AIEthics, AIActionPlan, MandatoryGuardrails, VAIS, NationalAIPlan |\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n- **2019-11-07** \u2014 AI Ethics Framework publicado (CSIRO Data61 / DISR, 8 principios voluntarios, 78pp).\n- **2021-06-18** \u2014 AI Action Plan publicado (DISR, 30pp, compromiso AUD 124.1M).\n- **2024-06-21** \u2014 National Framework for Assurance of AI in Government acordado en Data and Digital Ministers Meeting (DoF).\n- **2024-09-05** \u2014 *Publicaci\u00f3n simult\u00e1nea* de Voluntary AI Safety Standard (69pp, 10 guardrails) y *Proposals Paper for Mandatory Guardrails* (69pp). Apertura de consulta p\u00fablica.\n- **2024-10-04** \u2014 Cierre de consulta p\u00fablica. **Duraci\u00f3n: 30 d\u00edas** (ventana corta vs. est\u00e1ndar de 8 semanas en consultas brit\u00e1nicas).\n- **2024-12-10** \u2014 Privacy and Other Legislation Amendment Act 2024 recibe Royal Assent (\u00fanico instrumento *binding* del corpus AUS). Schedule 1 Part 15 (ADM transparency): vigencia diferida a **2026-12-10** (2 a\u00f1os de transici\u00f3n).\n- **2025-12-02** \u2014 National AI Plan 2025 publicado. Supersede AI Action Plan 2021. Abandona expl\u00edcitamente mandatory guardrails.\n\n**Continuidad institucional:** DISR es emisor dominante (71% de los docs). Sin fragmentaci\u00f3n ministerial observable \u2014 un solo ministerio ejecuta el giro regulatorio completo, lo que refuerza la interpretaci\u00f3n de \"cambio de pol\u00edtica intencional\" vs. \"conflicto intra-gobierno\".\n\n**Presupuesto p\u00fablico comprometido declarado en docs del corpus:**\n- AUD 124.1M en AI Action Plan 2021 (ahora superseded).\n- ~A$100B forecast de inversi\u00f3n privada en data centres, mencionado en National AI Plan 2025 (no es gasto p\u00fablico directo).\n\n## 4. Datos que FORTALECEN la tesis\n\n- **Evidencia textual directa del abandono:** National AI Plan 2025 declara en terminos expl\u00edcitos (v\u00eda fuentes verificadas Bird & Bird / White & Case): *\"The Government has officially abandoned its intention to introduce mandatory guardrails in favour of updating the existing legal and regulatory framework for AI.\"* No es interpretaci\u00f3n \u2014 es declaraci\u00f3n ministerial.\n- **Evidencia textual directa de la propuesta original:** Proposals Paper 2024 (\u00a7Doc 3 en CANDIDATES.md) plantea *\"Option A: horizontal mandatory guardrails applying to all sectors for high-risk AI. Option B: sector-specific mandatory requirements\"*. No es un discussion paper acad\u00e9mico; contiene opciones regulatorias accionables.\n- **Densidad de frameworks voluntarios simult\u00e1nea al abandono:** 10 guardrails en VAIS 2024 + 8 principios AI Ethics 2019 + 5 assurance cornerstones National Framework Assurance = **23 elementos voluntarios agregados**. Esto sostiene la clasificaci\u00f3n `soft_framework` (no `strategy_only`), independientemente del abandono de la ley.\n- **\u00danico binding concurrente es sectorial, no IA-espec\u00edfico:** Privacy Amendment Act 2024 regula ADM *v\u00eda* privacy law (Schedule 1 Part 15), no v\u00eda AI law dedicada \u2014 coherente con el abandono de la ley horizontal.\n- **Superseded ratio 29%:** dos de los siete instrumentos est\u00e1n expl\u00edcitamente superados por otros del mismo corpus. Esto es inusual: sugiere activismo regulatorio con auto-correcci\u00f3n, no inercia.\n- **Concentraci\u00f3n emisor DISR = 71%:** el giro no es por rotaci\u00f3n ministerial; el mismo aparato ejecuta la reversa.\n\n## 5. Datos que REFUTAN la tesis (stress test)\n\n- **Ventana de consulta corta (30 d\u00edas):** podr\u00eda interpretarse como consulta de baja intensidad regulatoria \u2014 no un intento serio de legislar, sino un trial balloon. Si es as\u00ed, \"abandono\" pierde peso (nunca hubo intenci\u00f3n real). **Mitigante:** el volumen del Proposals Paper (69pp con opciones A/B detalladas) es inconsistente con un trial balloon; 30 d\u00edas es corto pero la profundidad del documento no.\n- **Privacy Amendment Act 2024 vigencia diferida a dic 2026:** al cierre del an\u00e1lisis (abril 2026) la provisi\u00f3n ADM a\u00fan no est\u00e1 en vigor efectiva. El enforcement sobre IA sigue siendo 0 operativo. Esto debilita `enforcement_level=medium`.\n- **Australian AI Safety Institute anunciado pero no operativo:** `has_dedicated_ai_authority=0` es provisional. Si se formaliza en 2026, AUS se acerca m\u00e1s al modelo GBR (AISI como instituci\u00f3n visible) que al puramente soft.\n- **Peer-group con misma trayectoria:** GBR tambi\u00e9n abandon\u00f3 un AI Bill. Si GBR abandon\u00f3, entonces \"ser \u00fanico en abandono\" requiere matiz: AUS es \u00fanico en **documentar el abandono en un doc oficial del mismo corpus**, pero el fen\u00f3meno no lo es. **Mitigante:** GBR nunca public\u00f3 un proposals paper con opciones horizontales listadas como AUS \u2014 el abandono brit\u00e1nico es m\u00e1s silencioso.\n- **National AI Plan 2025 podr\u00eda revisarse:** es el doc m\u00e1s reciente del corpus; cualquier cambio de gobierno o evento externo (incidente IA) puede revertir la reversa. Horizonte de resiliencia: 12-24 meses.\n\n## 6. Comparaci\u00f3n vs peer group (pro-innovation angl\u00f3fono)\n\n| Pa\u00eds | R\u00e9gimen | # docs | # binding | P\u00e1ginas totales | Tesis distintiva (1 l\u00ednea) |\n|---|---|---|---|---|---|\n| AUS | soft_framework | 7 | 1 | 370 | Retroceso formal y documentado de mandatory guardrails (sep 2024 \u2192 dic 2025) |\n| GBR | soft_framework | 6 | 2 | ~865 | AI Bill abandonado silenciosamente + AISI como instituci\u00f3n consolidada |\n| NZL | soft_framework | 5 | 1 | ~270 | Strategy tard\u00eda (jul 2025) + Algorithm Charter gubernamental pionero (2020) |\n| CAN | pendiente | \u2014 | \u2014 | \u2014 | (a\u00fan no procesado; Bill C-27/AIDA muri\u00f3 con elecciones 2025) |\n\n**Observaci\u00f3n:** los 3 del cl\u00faster comparten r\u00e9gimen `soft_framework` pero se diferencian por **modo de abandono** de la ley IA horizontal: AUS (expl\u00edcito y documentado), GBR (silencioso + instituci\u00f3n AISI), NZL (nunca intent\u00f3 ley horizontal). AUS es el caso m\u00e1s legible documentalmente.\n\n## 7. Implicancias para el estudio\n\n- **Variable X1 directamente afectada:** `regulatory_regime_group` (strategy_led \u2192 soft_framework), `enforcement_level=medium` (provisional, condicional a vigencia 2026-12-10 del Privacy Act ADM), `has_dedicated_ai_authority=0` (provisional, AISI anunciado).\n- **Hip\u00f3tesis del estudio que este caso testea:** AUS es el caso m\u00e1s cercano a un contrafactual observado \u2014 \"\u00bfqu\u00e9 pasa en el ecosistema IA cuando una democracia avanzada se plantea regular IA y decide no hacerlo?\" \u00datil para comparar m\u00e9tricas X2 de ecosistema pre/post-abandono (2024 Q3 vs 2025 Q4+), si se consigue granularidad temporal adecuada.\n- **Uso anal\u00edtico sugerido:** incluir como caso narrativo en la secci\u00f3n del paper que contraste \"regular vs no regular\". Junto con UE (regula fuerte) y USA (no regula federalmente), AUS forma un tri\u00e1ngulo anal\u00edtico \u00fatil.\n\n## 8. Banderas de re-visita\n\n| Evento trigger | Horizonte | Acci\u00f3n |\n|---|---|---|\n| Australian AI Safety Institute entra en operaci\u00f3n (nombramientos, sitio web oficial) | 6-12 meses | Revisar `has_dedicated_ai_authority` 0 \u2192 1 |\n| Schedule 1 Part 15 Privacy Amendment Act entra en vigor (2026-12-10) | 8 meses | Revisar `enforcement_level` (consolidar a medium/high) |\n| Nuevo bill IA horizontal introducido en Parliament | hasta 24 meses | Revisar `has_ai_law` y re-evaluar tesis de \"abandono\" |\n| VAIS 2024 o National Framework Assurance reemplazados por nuevas versiones | 12 meses | Actualizar manifest; re-evaluar densidad soft_framework |\n| Cambio de gobierno federal que revierta el National AI Plan 2025 | incierto | Re-evaluar toda la tesis |\n"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+    "type": "binding_law_ai",
+    "issuer": "European Parliament and Council of the EU",
+    "date": "2024-07-12",
+    "status": "in_force",
+    "pages": "144",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689"
+  },
+  {
+    "title": "AI 4 Belgium — Report",
+    "type": "policy_strategy",
+    "issuer": "AI 4 Belgium Coalition (FPS BOSA)",
+    "date": "2019-03",
+    "status": "in_use",
+    "pages": "29",
+    "url": "https://www.ai4belgium.be/wp-content/uploads/2019/04/report_en.pdf"
+  },
+  {
+    "title": "National Convergence Plan for the Development of Artificial Intelligence",
+    "type": "policy_strategy",
+    "issuer": "FPS BOSA (Federal Public Service Policy and Support)",
+    "date": "2022-10-28",
+    "status": "in_use",
+    "pages": "38",
+    "url": "https://bosa.belgium.be/sites/default/files/content/images/DigitaleOverheid/AI/Plan_AI_EN.pdf"
+  },
+  {
+    "title": "Artificial Intelligence Systems and the GDPR — A Data Protection Perspective",
+    "type": "guidelines",
+    "issuer": "Autorité de Protection des Données (APD/GBA)",
+    "date": "2024-09-19",
+    "status": "in_force",
+    "pages": "21",
+    "url": "https://www.autoriteprotectiondonnees.be/publications/artificial-intelligence-systems-and-the-gdpr---a-data-protection-perspective.pdf"
+  },
+  {
+    "title": "The Impact of Artificial Intelligence on Privacy",
+    "type": "guidelines",
+    "issuer": "Autorité de Protection des Données (APD/GBA)",
+    "date": "2024",
+    "status": "in_force",
+    "pages": "16",
+    "url": "https://www.autoriteprotectiondonnees.be/publications/the-impact-of-artificial-intelligence-on-privacy.pdf"
+  }
+]

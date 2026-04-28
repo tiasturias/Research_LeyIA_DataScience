@@ -23,6 +23,8 @@
 - [DEU](../data/raw/legal_corpus/DEU/FINDINGS.md) — Patrón dual: retraso legal (KI-MIG bill_pending) + adelanto administrativo (BNetzA MSA de facto sept 2024).
 - [TWN](../data/raw/legal_corpus/TWN/FINDINGS.md) — Primera ley IA horizontal Asia (AI Basic Act 2026), contrafactual natural de SGP.
 - [BGR](../data/raw/legal_corpus/BGR/FINDINGS.md) — Único P1-TOP30 sin ley IA nacional propia (EU AI Act propagado), enforcement pending, AI Readiness Index=49/100.
+- [FIN](../data/raw/legal_corpus/FIN/FINDINGS.md) — Primer nórdico EU con ley nacional vigente (Law 1377/2025, 1-ene-2026): "implementación pura" Traficom CCP + National Sanctions Board, sin marco IA horizontal nacional.
+- [JPN](../data/raw/legal_corpus/JPN/FINDINGS.md) — Primera ley IA de Asia Oriental promocional sin penalidades (AI Promotion Act 2025): binding_regulation en forma pero soft_framework en contenido.
 
 ### soft_framework
 
@@ -43,6 +45,11 @@
 - [JOR](../data/raw/legal_corpus/JOR/FINDINGS.md) — Líder regional MENA sin ley IA: ecosistema estrategia+ética+datos con autoridad operativa (PDPL Directorate).
 - [BHR](../data/raw/legal_corpus/BHR/FINDINGS.md) — Caso MENA avanzado: General Policy 2025 + Shura AI Law (pending) + AI RAM UNESCO, triple combo sin ley vigente.
 - [USA](../data/raw/legal_corpus/USA/FINDINGS.md) — Único con gobernanza ejecutiva federal específica (CAIOs, inventories, risk management) + DOJ Litigation Task Force para neutralizar state AI laws.
+- [BLR](../data/raw/legal_corpus/BLR/FINDINGS.md) — Único país del corpus con 100% leyes sectorales sin instrumento IA-explícito: PDP Law + HTP sandbox, sin estrategia, framework o bill IA.
+- [IND](../data/raw/legal_corpus/IND/FINDINGS.md) — País más poblado del corpus: advisory vinculante sobre IA sin ley horizontal + DPDP Act con Data Protection Board + 25 años de marco digital.
+- [IND](../data/raw/legal_corpus/IND/FINDINGS.md) — País más poblado del corpus: advisory vinculante sobre IA sin ley horizontal + DPDP Act con Data Protection Board + 25 años de marco digital (IT Act 2000).
+
+- [BLR](../data/raw/legal_corpus/BLR/FINDINGS.md) — Único país del corpus con 100% leyes sectorales sin instrumento IA-explícito: PDP Law + HTP sandbox, sin estrategia, framework o bill IA.
 
 ### strategy_only
 
@@ -75,8 +82,8 @@ _(pendiente)_
 
 ## Última actualización
 
-**Fecha:** 2026-04-23
-**Países con FINDINGS.md:** 34 / 86 (POL, CHE, AUS, CAN, ARE, AUT, BEL, SWE, NLD, NOR, GBR, NZL, ISR, IRL, FRA, ESP, HUN, DNK, DEU, SGP, TWN, BGD, GHA, MNG, QAT, BGR, CRI, JOR, USA, ARM, BHR, LBN, KAZ, CMR)
-**Contador binding_regulation:** 14
-**Contador soft_framework:** 17
-**Contador strategy_only:** 3 (añadido AMR, LBN, CMR)
+**Fecha:** 2026-04-27
+**Países con FINDINGS.md:** 38 / 86 (POL, CHE, AUS, CAN, ARE, AUT, BEL, SWE, NLD, NOR, GBR, NZL, ISR, IRL, FRA, ESP, HUN, DNK, DEU, SGP, TWN, BGD, GHA, MNG, QAT, BGR, CRI, JOR, USA, ARM, BHR, LBN, KAZ, CMR, FIN, JPN, BLR, IND)
+**Contador binding_regulation:** 16
+**Contador soft_framework:** 19
+**Contador strategy_only:** 3 (ARM, LBN, CMR)

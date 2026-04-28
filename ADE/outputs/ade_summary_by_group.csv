@@ -1,0 +1,7 @@
+,ai_readiness_score,ai_readiness_score,ai_readiness_score,ai_adoption_rate,ai_adoption_rate,ai_investment_usd_bn_cumulative,ai_investment_usd_bn_cumulative,ai_startups_cumulative,ai_startups_cumulative,regulatory_intensity,regulatory_intensity,gdp_per_capita_ppp,gdp_per_capita_ppp,internet_penetration,internet_penetration,gii_score,gii_score
+,mean,std,count,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+regulatory_status_group,,,,,,,,,,,,,,,,,
+binding_regulation,66.76,8.46,27,27.43,8.87,6.8,22.78,149.89,318.56,9.52,1.12,59331.06,21148.32,91.28,4.76,45.81,9.73
+no_framework,34.58,0.46,2,16.75,12.66,0.01,0.01,1.0,0.0,0.0,0.0,9081.91,4939.74,61.27,27.38,20.9,3.84
+soft_framework,50.17,14.83,9,16.33,11.63,3.35,5.76,121.22,200.59,1.89,1.36,30513.09,29188.94,71.43,27.89,33.13,16.32
+strategy_only,60.61,11.02,34,23.43,13.93,15.85,80.59,269.71,1193.82,3.38,1.28,39091.92,31771.61,83.55,15.81,35.02,11.27

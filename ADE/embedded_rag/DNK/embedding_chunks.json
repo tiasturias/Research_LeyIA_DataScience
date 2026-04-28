@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "DNK: binding_regulation, intensity 10/10, comprehensive, enforcement high",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "DNK: AI readiness 74.75, adoption 28.7%, investment $0.8178B, 59.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "DNK: regulatory quality 1.8395, rule of law 1.9089, FH 97/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "DNK: Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) (binding_law_ai) - European Parliament and Council of the EU, 2024-07-12, 144pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "DNK: Lov om supplerende bestemmelser til forordningen om kunstig intelligens (Act on Supplementary Provisions to the Regulation on Artificial Intelligence, Lov nr. 467 af 14. maj 2025) (binding_regulation) - Folketing (Parlamento dan\u00e9s), 2025-05-14, 178pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "DNK: National Strategy for Artificial Intelligence (Nationalt strategi for kunstig intelligens) (policy_strategy) - Ministry of Finance + Ministry of Industry, Business and Financial Affairs, 2019-03, 74pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "DNK: Strategic Approach to Artificial Intelligence (Strategisk tilgang til kunstig intelligens) (policy_strategy) - Ministry of Digitalisation (Digitaliseringsministeriet), 2024-12-02, 28pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# DNK \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Dinamarca presenta el caso \u00fanico de \"implementaci\u00f3n m\u00e1s temprana del AI Act a nivel mundial\": su Lov nr. 467/2025 (ley nacional de implementaci\u00f3n) entr\u00f3 en vigor el 2 de agosto de 2025, convirti\u00e9ndola en la primera ley nacional de implementaci\u00f3n del AI Act en vigor de todo el corpus procesado, superando a Hungr\u00eda (dic 2025), IRL (General Scheme pendiente) y ESP (Anteproyecto pendiente), con Digitaliseringsstyrelsen formalmente designada como autoridad de vigilancia de mercado y punto de contacto nacional.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 4 | count(manifest.csv) |\n| # binding (law + sectoral) | 2 | EU AI Act + Lov nr. 467/2025 |\n| # soft/policy/strategy | 2 | 2 estrategias IA |\n| P\u00e1ginas totales corpus | 424 | sum(pages) |\n| P\u00e1ginas binding / soft | 322 / 102 | 3.16:1 |\n| Primer documento (fecha) | 2019-03 | National AI Strategy |\n| \u00daltimo documento (fecha) | 2025-05 | Lov nr. 467 |\n| A\u00f1os cubiertos | 6 | (2025-05 - 2019-03) |\n| Gap con fecha corpus | ~11 meses | 2026-04-21 - 2025-05 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2019-03 | National AI Strategy | Primera estrategia nacional IA. 74pp, 24 iniciativas, DKK 60M. |\n| 2024-07-12 | EU AI Act publication | Regulation (EU) 2024/1689. Entrada en vigor 01-08-2024. |\n| 2024-12-02 | Strategic Approach to AI | Actualizaci\u00f3n estrat\u00e9gica post-AI Act. Digital Taskforce, Advisory Centre, plataforma modelos daneses. |\n| 2025-05-14 | Lov nr. 467/2025 | Ley nacional de implementaci\u00f3n AI Act. Adoptada 8-may-2025. |\n| 2025-08-02 | Lov nr. 467 vigor | Entrada en vigor. Primera ley de implementaci\u00f3n AI Act en vigor del corpus. |\n\n**Duraci\u00f3n:** 6 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** Ministry of Finance / Ministry of Digitalisation / Folketing.\n**Diferencial:** Primera ley de implementaci\u00f3n AI Act en vigor.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **Lov nr. 467/2025 \u2014 primera ley de implementaci\u00f3n AI Act en vigor** \u2014 Citado: \"Loven fasts\u00e6tter supplerende bestemmelser til Europa-Parlamentets og R\u00e5dets forordning (EU) 2024/1689 af 13. juni 2024 om harmoniserede regler for kunstig intelligens (AI-forordningen).\" Vigente desde 2-ago-2025.\n\n- **Autoridades formalmente designadas** \u2014 Citado: \"Digitaliseringsstyrelsen er markedsoverv\u00e5gningsmyndighed efter AI-forordningens artikel 70 og national kontaktpunkt efter AI-forordningens artikel 70, stk. 2.\"\n\n- **Estructura institucional tripartita** \u2014 Digitaliseringsstyrelsen (MSA central), Datatilsynet (MSA datos), Domstolsstyrelsen (MSA judicial).\n\n- **Strategic Approach 2024** \u2014 Tres iniciativas: Digital Taskforce, Advisory Centre for Responsible AI, plataforma para modelos de lenguaje daneses.\n\n- **National AI Strategy 2019** \u2014 24 iniciativas, DKK 60M. Tres objetivos: lideraz",
+    "relevance": 0.99
+  }
+]

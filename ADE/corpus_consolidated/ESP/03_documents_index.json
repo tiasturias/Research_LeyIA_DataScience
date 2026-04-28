@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+    "type": "binding_law_ai",
+    "issuer": "European Parliament and Council of the EU",
+    "date": "2024-07-12",
+    "status": "in_force",
+    "pages": "144",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689"
+  },
+  {
+    "title": "Real Decreto 729/2023, de 22 de agosto, por el que se aprueba el Estatuto de la Agencia Española de Supervisión de Inteligencia Artificial",
+    "type": "binding_regulation",
+    "issuer": "Gobierno de España (Ministerio de Asuntos Económicos y Transformación Digital)",
+    "date": "2023-09-02",
+    "status": "in_force",
+    "pages": "30",
+    "url": "https://www.boe.es/buscar/pdf/2023/BOE-A-2023-18911-consolidado.pdf"
+  },
+  {
+    "title": "Real Decreto 817/2023, de 8 de noviembre, que establece un entorno controlado de pruebas para el ensayo del cumplimiento de la propuesta de Reglamento IA",
+    "type": "binding_regulation",
+    "issuer": "Gobierno de España (Ministerio de Asuntos Económicos y Transformación Digital)",
+    "date": "2023-11-09",
+    "status": "in_force",
+    "pages": "31",
+    "url": "https://www.boe.es/boe/dias/2023/11/09/pdfs/BOE-A-2023-22767.pdf"
+  },
+  {
+    "title": "Estrategia de Inteligencia Artificial 2024",
+    "type": "policy_strategy",
+    "issuer": "Gobierno de España (Secretaría de Estado de Digitalización e Inteligencia Artificial, SEDIA)",
+    "date": "2024-05-14",
+    "status": "in_use",
+    "pages": "68",
+    "url": "https://portal.mineco.gob.es/es-es/digitalizacionIA/Documents/Estrategia_IA_2024.pdf"
+  },
+  {
+    "title": "Anteproyecto de Ley para el buen uso y la gobernanza de la Inteligencia Artificial",
+    "type": "bill_pending",
+    "issuer": "Gobierno de España (Consejo de Ministros)",
+    "date": "2025-03-11",
+    "status": "bill_pending",
+    "pages": "35",
+    "url": "https://avance.digital.gob.es/_layouts/15/HttpHandlerParticipacionPublicaAnexos.ashx?k=19128"
+  }
+]

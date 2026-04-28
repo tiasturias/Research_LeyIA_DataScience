@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "iso3": "NLD",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "NLD_EUAIAct_Reg2024_1689.pdf",
+      "document_title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+      "doc_type": "binding_law_ai",
+      "issuer": "European Parliament and Council of the EU",
+      "publication_date": "2024-07-12",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689",
+      "pages": "144"
+    },
+    {
+      "filename": "NLD_SAPAI_2019.pdf",
+      "document_title": "Strategisch Actieplan voor Artifici\u00eble Intelligentie (SAPAI)",
+      "doc_type": "policy_strategy",
+      "issuer": "Ministerie van Economische Zaken en Klimaat (EZK)",
+      "publication_date": "2019-10-08",
+      "status": "in_use",
+      "language": "nl",
+      "source_url": "https://www.rijksoverheid.nl/documenten/beleidsnotas/2019/10/08/strategisch-actieplan-voor-artificiele-intelligentie",
+      "pages": "64"
+    },
+    {
+      "filename": "NLD_GenAIVision_2024.pdf",
+      "document_title": "Government-wide Vision on Generative AI of the Netherlands (Overheidsbrede visie Generatieve AI)",
+      "doc_type": "policy_strategy",
+      "issuer": "Rijksoverheid (cabinet-wide) \u2014 Ministerie van Binnenlandse Zaken en Koninkrijksrelaties coordinador",
+      "publication_date": "2024-01-17",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.government.nl/binaries/government/documenten/parliamentary-documents/2024/01/17/government-wide-vision-on-generative-ai-of-the-netherlands/Government-wide+vision+on+generative+AI+of+the+Netherlands.pdf",
+      "pages": "54"
+    },
+    {
+      "filename": "NLD_AP_ToezichtAIAlgoritmes.pdf",
+      "document_title": "Toezicht op AI & Algoritmes \u2014 Visie van de Autoriteit Persoonsgegevens",
+      "doc_type": "guidelines",
+      "issuer": "Autoriteit Persoonsgegevens (AP)",
+      "publication_date": "2023",
+      "status": "in_force",
+      "language": "nl",
+      "source_url": "https://autoriteitpersoonsgegevens.nl/uploads/imported/toezicht_op_ai_en_algoritmes.pdf",
+      "pages": "11"
+    },
+    {
+      "filename": "NLD_AIImpactAssessment_2024.pdf",
+      "document_title": "AI Impact Assessment \u2014 The tool for a responsible AI project (version 2.0)",
+      "doc_type": "guidelines",
+      "issuer": "Ministerie van Infrastructuur en Waterstaat (IenW)",
+      "publication_date": "2024-03",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.government.nl/binaries/government/documenten/publications/2023/03/02/ai-impact-assessment/2024-IWM-AI-Impact-assessment-2.0-EN.pdf",
+      "pages": "43"
+    }
+  ],
+  "findings_text": "# NLD \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Pa\u00edses Bajos es el \u00fanico pa\u00eds de la UE-27 con un departamento dedicado exclusivamente a la supervisi\u00f3n algor\u00edtmica (DCA \u2014 Department for Coordination of Algorithmic Oversight) dentro de su DPA desde enero de 2023, en un ecosistema de gobernanza algor\u00edtmica gubernamental catalizado por el scandal del \"Toeslagenaffaire\" (auxilios a la infancia) donde un algoritmo discriminatorio de la Belastingdienst provoc\u00f3 la ca\u00edda del Gabinete Rutte III en enero 2021 \u2014 un caso \u00fanico de trauma institucional dom\u00e9stico que impuls\u00f3 supervisi\u00f3n algor\u00edtmica proactiva, distingui\u00e9ndolo de todos sus pares EU que carecen de este catalizador y estructura.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 5 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | EU AI Act |\n| # soft/policy/strategy | 4 | SAPAI + GenAI Vision + 2 guidelines |\n| P\u00e1ginas totales corpus | 316 | sum(pages) |\n| P\u00e1ginas binding / soft | 144 / 172 | 0.84:1 |\n| Primer documento (fecha) | 2019-10 | SAPAI |\n| \u00daltimo documento (fecha) | 2024-03 | AIIA 2.0 |\n| A\u00f1os cubiertos | 4.5 | (2024-03 - 2019-10) |\n| Gap con fecha corpus | ~13 meses | 2026-04-21 - 2024-03 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2019-10-08 | SAPAI | Plan estrat\u00e9gico IA original. 3 pilares: oportunidades socioecon\u00f3micas, ecosistema, condiciones marco. |\n| 2020-2021 | Toeslagenaffaire | Algoritmo Belastingdienst discrimina familias; revela fallas en automated decision-making. |\n| 2021-01-14 | Ca\u00edda Gabinete Rutte III | Toeslagenaffaire provoca dimisi\u00f3n del Primer Ministro Rutte. |\n| 2021 | Creaci\u00f3n IAMA | Instrumento de AI Impact Assessment para sector p\u00fablico (Utrecht University + Min BZK). |\n| 2022-03-29 | Motie parlamentaria | Tweede Kamer aprueba uso obligatorio de IAMA para proyectos IA gubernamentales. |\n| 2023 | AP Toezicht op AI & Algoritmes | DPA crea visi\u00f3n de supervisi\u00f3n algor\u00edtmica. |\n| 2023-01-01 | DCA operativo | Department for Coordination of Algorithmic Oversight dentro de AP con presupuesto estructural. |\n| 2024-01-17 | Government-wide Vision on GenAI | Visi\u00f3n gubernamental sobre IA generativa. 4 principios, 6 l\u00edneas de acci\u00f3n. |\n| 2024-03 | AIIA 2.0 | AI Impact Assessment actualizado a AI Act final + GenAI. |\n| 2024 | Algoritmeregister | Registro p\u00fablico obligatorio de algoritmos gubernamentales. |\n\n**Duraci\u00f3n:** 4.5 a\u00f1os de evoluci\u00f3n regulatoria.\n**Catalizador institucional:** Toeslagenaffaire (2019-2021).\n**Emisor principal:** Autoriteit Persoonsgegevens / Ministerie van EZK / Ministerie van BZK.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **DCA \u00fanico en la UE** \u2014 Department for Coordination of Algorithmic Oversight dentro de AP operativo desde 01-01-2023 con presupuesto estructural. Citado: \"Met ingang van 1 januari 2023 heeft de AP structureel budget gekregen om het toezicht op algoritmes en AI te versterken.\"\n\n- **Toeslagenaffaire como catalizador** \u2014 Esc\u00e1ndalo donde algoritmo de la Belastingdienst discrimin\u00f3 sistem\u00e1ticamente a familias de bajos ingresos (mayor\u00eda de origen migrante). Costo: 20,000+ familias afectadas, ni\u00f1os sacados de guarder\u00edas, suicidios. Ca\u00edda del Gabinete Rutte III.\n\n- **Algoritmeregister obligatorio** \u2014 Registro p\u00fablico de algoritmos gubernamentales (desde 2024). \u00danico en su tipo globally. Transparencia algor\u00edtmica institucionalizada.\n\n- **AIIA 2.0 + IAMA** \u2014 Dos instrumentos de AI Impact Assessment para sector p\u00fablico. IAMA con mandato parlamentario de uso obligatorio (Motie 2022). AIIA 2.0 adaptada al AI Act.\n\n- **SAPAI + GenAI Vision** \u2014 Dos documentos rectores simult\u00e1neos: estrategia IA general (2019) + visi\u00f3n espec\u00edfica GenAI (2024). Cobertura comprehensiva.\n\n- **Tradici\u00f3n de enforcement DP** \u2014 AP tiene historial riguroso de enforcement RGPD. Multas significativas a Uber (2022), Booking.com (2023), TikTok (2023).\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **Sin agencia IA dedicada** \u2014 DCA es un departamento dentro de AP, no una agencia aut\u00f3noma como AESIA (Espa\u00f1a) o AISI (UK). *Refutador primario.* Sin embargo, es la \u00fanica estructura dedicada a supervisi\u00f3n algor\u00edtmica en la UE.\n\n- **Aplicaci\u00f3n del AI Act igual que otros pa\u00edses** \u2014 El EU AI Act es directamente aplicable. La diferencia de NLD est\u00e1 en la gobernanza dom\u00e9stica, no en la regulaci\u00f3n supranacional.\n\n- **Alemania tiene BSI** \u2014 Alemania tiene agencia federal de ciberseguridad (BSI) con rol en AI Act. Diferencia: NLD tiene supervisi\u00f3n algor\u00edtmica, no ciberseguridad.\n\n- **Otros pa\u00edses tienen instrumentos similares** \u2014 Espa\u00f1a tiene AESIA + sandbox, Pa\u00edses Bajos tiene AIIA. La tesis se basa en la combinaci\u00f3n \u00fanica: DCA + Toeslagenaffaire + Algoritmeregister.\n\n- **El Toeslagenaffaire es un evento hist\u00f3rico** \u2014 No es replicable. Otros pa\u00edses no tienen el mismo catalizador.\n\n---\n\n## 6. Comparaci\u00f3n vs peer group\n\n| Pa\u00eds | R\u00e9gimen | # docs | # binding | Tesis diferencial |\n|---|---|---|---|---|\n| **NLD** | **binding_regulation** | **5** | **1** | **DCA \u00fanico en UE + Toeslagenaffaire como catalizador + Algoritmeregister obligatorio** |\n| ESP | binding_regulation | 5 | 1 | AESIA + sandbox IA + supervisi\u00f3n AEPD |\n| SWE | binding_regulation | 5 | 1 | Ciclo de pol\u00edtica \u00e1gil (Commission \u2192 estrategia) |\n| AUT | binding_regulation | 4 | 1 | Estrategia madura (82%) pero incumplimiento plazo AI Act |\n| BEL | binding_regulation | 5 | 1 | Sin agencia dedicada + estructura federal compleja |\n\n**An\u00e1lisis:** NLD es \u00fanico en el bucket binding_regulation por:\n- \u00danico DPA con departamento dedicado supervisi\u00f3n algor\u00edtmica (DCA)\n- \u00danico con catalizador institucional dom\u00e9stico (Toeslagenaffaire)\n- \u00danico con Algoritmeregister p\u00fablico obligatorio\n- Enforcement level high confirmado por historial de enforcement DP\n\n**Distinci\u00f3n clave:** NLD \u2260 ESP/NLD/SWE/AUT/BEL \u2014 diferencia no est\u00e1 en el AI Act (igual para todos) sino en la gobernanza dom\u00e9stica impulsada por trauma institucional.\n\n---\n\n## 7. Implicancias para el estudio\n\n| Variable X1 | Efecto potencial |\n|---|---|\n| `has_ai_law` | 1 (EU AI Act directamente aplicable) |\n| `regulatory_intensity` | 10/10 (sin cambio vs IAPP) |\n| `thematic_coverage` | 14/15 (sin cambio) |\n| `enforcement_level` | `high` (\u00fanico DPA con DCA dedicado) |\n| `regulatory_regime_group` | `binding_regulation` (confirmado) |\n| `has_dedicated_ai_authority` | 0 (DCA es departamento dentro de AP, no agencia aut\u00f3noma) |\n\n**Hip\u00f3tesis testeable:**\n- \u00bfPa\u00edses con supervisi\u00f3n algor\u00edtmica dedicada (NLD) tienen mejor governance que pa\u00edses sin ella (AUT, BEL)?\n- \u00bfEl trauma institucional (Toeslagenaffaire) tiene efecto permanente sobre la gobernanza IA?\n\n**Caso narrativo \u00fatil para:**\n- \u00a7Discusi\u00f3n como \"caso \u00fanico de governance algor\u00edtmica impulsada por trauma institucional\"\n- Control para tesis \"EU AI Act igual para todos\" \u2014 NLD tiene governanza dom\u00e9stica superior\n- Comparaci\u00f3n con ESP (AESIA), SWE (agilidad), AUT/BEL (rezagos)\n\n---\n\n## 8. Banderas de re-visita\n\n| Evento | Horizonte | Trigger observable |\n|---|---|---|\n| DCA expande competencias AI Act | 6m | AP publica nuevo guidance |\n| Efectividad Algoritmeregister | 6-12m | Evaluaci\u00f3n p\u00fablica del registro |\n| Sanciones AI Act por AP | 12-24m | Decisiones AP publicadas |\n| Nueva legislaci\u00f3n IA nacional | 12-24m |Overheid.nl nuevo documento |\n| Reformas post-Toeslagenaffaire | 24m | Evaluaciones parlamentarias |\n\n---\n\n## Links\n\n- [CANDIDATES.md](CANDIDATES.md)\n- [SOURCES.md](SOURCES.md)\n- [manifest.csv](manifest.csv)"
+}

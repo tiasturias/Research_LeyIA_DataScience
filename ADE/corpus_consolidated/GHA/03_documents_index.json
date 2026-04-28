@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Data Protection Act, 2012 (Act 843)",
+    "type": "binding_law_sectoral",
+    "issuer": "Parliament of the Republic of Ghana",
+    "date": "2012",
+    "status": "in_force",
+    "pages": "",
+    "url": "https://nita.gov.gh/wp-content/uploads/2017/12/Data-Protection-Act-2012-Act-843.pdf"
+  },
+  {
+    "title": "Cybersecurity Act, 2020 (Act 1038)",
+    "type": "binding_law_sectoral",
+    "issuer": "Parliament of the Republic of Ghana",
+    "date": "2020-12-29",
+    "status": "in_force",
+    "pages": "",
+    "url": "https://www.csa.gov.gh/resources/cybersecurity_Act_2020(Act_1038).pdf"
+  },
+  {
+    "title": "Republic of Ghana National Artificial Intelligence Strategy: 2023-2033",
+    "type": "strategy",
+    "issuer": "Ministry of Communications and Digitalisation (MoCD), Republic of Ghana (co-developed with Smart Africa, GIZ FAIR Forward, The Future Society)",
+    "date": "2022-10",
+    "status": "in_use_launched_2026-04-24",
+    "pages": "",
+    "url": "https://moc.gov.gh/"
+  },
+  {
+    "title": "Ghana Digital Economy Policy and Strategy",
+    "type": "policy_strategy",
+    "issuer": "Ministry of Communications and Digitalisation (MoCD), Republic of Ghana",
+    "date": "2024-05",
+    "status": "approved_cabinet_2024-05-14",
+    "pages": "",
+    "url": "https://moc.gov.gh/wp-content/uploads/2023/03/Ghana-Digital-Economy-Policy-Strategy.pdf"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "SWE: binding_regulation, intensity 10/10, comprehensive, enforcement high",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "SWE: AI readiness 69.45, adoption 33.3%, investment $7.268B, 112.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "SWE: regulatory quality 1.718, rule of law 1.604, FH 100/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "SWE: Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) (binding_law_ai) - European Parliament and Council of the EU, 2024-07-12, 144pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "SWE: The AI Commission's Roadmap for Sweden (SOU 2025:12) (policy_strategy) - Swedish AI Commission (Statens offentliga utredningar), 2024-11-26, 136pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "SWE: Sweden's AI Strategy (policy_strategy) - Government of Sweden (Regeringskansliet), 2026-02, 24pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "SWE: Action Plan for Sweden's AI Strategy (policy_strategy) - Government of Sweden (Regeringskansliet), 2026-02, 13pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "SWE: Integritetsskyddsmyndighetens AI-strategi (IMY AI Strategy) (guidelines) - Integritetsskyddsmyndigheten (IMY), 2024, 5pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# SWE \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Suecia presenta el caso de \"policy acceleration under binding regulation\": el ciclo de pol\u00edtica IA m\u00e1s \u00e1gil del corpus UE-27 \u2014 la AI Commission (creada en 2023) gener\u00f3 75 propuestas en noviembre 2024, lo que deriv\u00f3 en la primera estrategia IA integral de Suecia en febrero 2026 (objetivo: top-10 global), todo en\u4ec5 14 meses \u2014 un proceso de pol\u00edtica exhibe una velocidad y articulaci\u00f3n notable que la distingue de sus pares AUT y BEL (con delays institucionales) y la alinea con NLD/ESP en t\u00e9rminos de implementaci\u00f3n robusta, aunque sin agencia IA dedicada.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 5 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | EU AI Act |\n| # soft/policy/strategy | 4 | AI Commission + Strategy + Action Plan + IMY |\n| P\u00e1ginas totales corpus | 322 | sum(pages) |\n| P\u00e1ginas binding / soft | 144 / 178 | 0.81:1 |\n| Primer documento (fecha) | 2024 | IMY AI Strategy |\n| \u00daltimo documento (fecha) | 2026-02 | Sweden's AI Strategy + Action Plan |\n| A\u00f1os cubiertos | ~2 | (2026-02 - 2024) |\n| Gap con fecha corpus | ~2 meses | 2026-04-21 - 2026-02 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2023 | AI Commission establecida | \u00d3rgano gubernamental ad hoc creado por el Gobierno de Suecia |\n| 2024 | IMY AI Strategy | DPA sueco publica estrategia interna sobre IA + RGPD/AI Act |\n| 2024-08 | Mandato Digg + IMY | Gobierno comisiona \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0443 riktlinjer (directrices) para IA generativa en administraci\u00f3n p\u00fablica |\n| 2024-11-26 | AI Commission Roadmap / SOU 2025:12 | 75 propuestas presentadas al Gobierno. 136pp. |\n| 2025-02 | AI Act deadline | Fecha l\u00edmite para designaci\u00f3n de autoridades competentes (Art. 70) |\n| 2026-02 | Sweden's AI Strategy | Primera estrategia IA integral. Objetivo: top-10 global. 3 \u00e1reas: societal, sostenible, competitividad. |\n| 2026-02 | Action Plan | Plan de acci\u00f3n con medidas concretas, plazos y responsables |\n| 2026-04 | Estado del corpus | Implementaci\u00f3n inicial del Action Plan en curso |\n\n**Duraci\u00f3n del ciclo de pol\u00edtica:** ~14 meses (nov 2024 \u2192 feb 2026)\n**Velocidad:** Proceso de pol\u00edtica m\u00e1s r\u00e1pido del corpus UE-27\n**Emisor principal:** Government of Sweden / AI Commission / IMY\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **AI Commission con 75 propuestas formalizadas (SOU 2025:12)** \u2014 documento de 136pp con roadmap concreto. Citado: \"Sweden is falling behind in AI development. This is alarming and requires the Government to take a number of urgent steps to avoid Sweden being left behind.\"\n\n- **Sweden's AI Strategy (feb 2026): primera estrategia integral** \u2014citado: \"For the first time ever, Sweden has a holistic AI strategy. The strategy aims for Sweden to be among the world's top ten countries in the field of artificial intelligence.\"\n\n- **Action ",
+    "relevance": 0.99
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "iso3": "ISR",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "ISR_AIPolicy_2023.pdf",
+      "document_title": "Responsible Innovation: Israel's Policy on Artificial Intelligence Regulation and Ethics",
+      "doc_type": "policy_strategy",
+      "issuer": "Ministry of Innovation, Science and Technology / Ministry of Justice",
+      "publication_date": "2023-12",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.gov.il/BlobFolder/policy/ai_2023/en/Israels%20AI%20Policy%202023.pdf",
+      "pages": "11"
+    },
+    {
+      "filename": "ISR_NationalAIProgram_2024.pdf",
+      "document_title": "Israel National AI Program 2024: Shaping the Future",
+      "doc_type": "policy_strategy",
+      "issuer": "Israel Innovation Authority / National AI Directorate",
+      "publication_date": "2024",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://innovationisrael.org.il/ai/wp-content/uploads/sites/4/2024/04/Israel-National-AI-Program-Booklet.pdf",
+      "pages": "13"
+    },
+    {
+      "filename": "ISR_NationalAIProgram_2025.pdf",
+      "document_title": "National Program for Artificial Intelligence: Program and Snapshot \u2013 April 2025",
+      "doc_type": "policy_strategy",
+      "issuer": "Israel Innovation Authority / National AI Directorate",
+      "publication_date": "2025-04",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://innovationisrael.org.il/wp-content/uploads/2025/05/AI-National-Program-en-14.5.25.pdf",
+      "pages": "83"
+    },
+    {
+      "filename": "ISR_PrivacyProtectionLaw_2025_amended.pdf",
+      "document_title": "Privacy Protection Law, 5741-1981 (as amended to August 14, 2025 incl. Amendment 13)",
+      "doc_type": "binding_law_sectoral",
+      "issuer": "Knesset of Israel",
+      "publication_date": "1981-02-19",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://www.trustiz.ai/wp-content/uploads/2025/09/English-Translation-of-the-Israeli-Privacy-Protection-Law-5741%E2%80%931981-as-amended-to-August-14-2025-2.pdf",
+      "pages": "18"
+    }
+  ],
+  "findings_text": "# ISR \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Israel presenta el caso de \"soft_framework filos\u00f3ficamente articulado\": su AI Policy 2023 (\"Responsible Innovation\") es el documento m\u00e1s expl\u00edcito del corpus en rechazar una ley IA horizontal a favor de regulaci\u00f3n sectorial y \"soft regulatory tools\", posicion\u00e1ndolo como el equivalente mediterr\u00e1neo de Singapur \u2014 sin embargo, la Privacy Protection Law con Amendment 13 (vigente agosto 2025) introduce obligaciones IA concretas (DPO obligatorio, consentimiento informado, prohibici\u00f3n de web scraping para training) que justifican el upgrade a soft_framework, distingui\u00e9ndolo de casos puramente strategy_only y creando un ecosistema \u00fanico en la regi\u00f3n MENA.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 4 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | Privacy Protection Law + Amendment 13 |\n| # soft/policy/strategy | 3 | AI Policy 2023 + 2 National AI Programs |\n| P\u00e1ginas totales corpus | 125 | sum(pages) |\n| P\u00e1ginas binding / soft | 18 / 107 | 0.17:1 |\n| Primer documento (fecha) | 2023-12 | AI Policy |\n| \u00daltimo documento (fecha) | 2025-04 | National AI Program 2025 |\n| A\u00f1os cubiertos | 1.5 | (2025-04 - 2023-12) |\n| Gap con fecha corpus | ~12 meses | 2026-04-21 - 2025-04 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2023-12 | AI Policy \"Responsible Innovation\" | Primera pol\u00edtica IA nacional. 7 retos, 5 recomendaciones. Enfoque sectoral, soft law. |\n| 2024 | National AI Program 2024 | Programa nacional. NIS 1B presupuesto. National AI Directorate. |\n| 2025-04 | National AI Program 2025 Snapshot | Segunda fase. NIS 500M adicionales. 83pp. Roadmap 2025-2027. |\n| 2025-08-14 | PPL Amendment 13 vigor | Enmienda introduce: DPO obligatorio, consentimiento IA, prohibici\u00f3n scraping para training. |\n| 2025-04-28 | PPA Draft AI Guidance | Borrador de gu\u00eda IA del Privacy Protection Authority. Solo en hebreo. |\n\n**Duraci\u00f3n:** 1.5 a\u00f1os de evoluci\u00f3n regulatoria (m\u00e1s corto del corpus).\n**Emisor principal:** Ministry of Innovation, Science and Technology / Innovation Authority / Privacy Protection Authority.\n**Postura deliberada:** \"Responsible Innovation, sectoral regulation, soft law.\"\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **AI Policy 2023 rechaza expl\u00edcitamente ley IA horizontal** \u2014 Citado: \"Using 'soft' regulatory tools intended to allow for an incremental development of the regulatory framework.\" Documento m\u00e1s claro de rechazo a regulaci\u00f3n horizontal en el corpus.\n\n- **Privacy Protection Law + Amendment 13 binding** \u2014 Introduce obligaciones IA concretas: DPO obligatorio, consentimiento informado para IA, prohibici\u00f3n de web scraping para training. Vigente desde agosto 2025.\n\n- **National AI Program 2025 \u2014 83 p\u00e1ginas** \u2014 Snapshot completo con NIS 500M adicionales, roadmap 2025-2027, comparativa internacional.\n\n- **Presupuesto significativo** \u2014 NIS 1B (2024) + NIS 500M (2025 fase 2) = inversi\u00f3n p\u00fablica sustancial en IA.\n\n- **National AI Directorate** \u2014 Estructura institucional dedicada dentro de Innovation Authority.\n\n- **Similar a Singapur** \u2014 Enfoque filos\u00f3fico id\u00e9ntico (pro-innovaci\u00f3n, sectoral, rechazo ley horizontal). Diferencia: menor densidad de soft law.\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **PPL es ley de privacidad, no IA-espec\u00edfica** \u2014 La tesis de \"soft_framework\" se basa en una ley sectorial (privacidad), no una ley IA. Podr\u00eda argumentarse que es similar a strategy_only.\n\n- **Amendment 93 vigencia reciente** \u2014 Las obligaciones IA concretas (DPO, consentimiento, scraping) entraron en vigor apenas 8 meses antes del cierre del corpus. Efectividad por verificar.\n\n- **Singapur tiene m\u00e1s frameworks** \u2014 Singapur tiene 3+ frameworks IA espec\u00edficos vs. Israel con 1-2. La densidad de soft law es menor.\n\n- **No hay sandbox IA operativo** \u2014 A diferencia de NOR (sandbox desde 2020) o UAE (DIFC Reg 10), Israel no tiene sandbox documentado.\n\n- **La regi\u00f3n MENA tiene casos similares** \u2014 Qatar, Emiratos tienen enfoques light-touch. Israel no es \u00fanico en la regi\u00f3n.\n\n---\n\n## 6. Comparaci\u00f3n vs peer group\n\n| Pa\u00eds | R\u00e9gimen | # docs | # binding | Tesis diferencial |\n|---|---|---|---|---|\n| SGP | soft_framework | 7 | 2 | MGF m\u00e1s maduro globalmente; pol\u00edtica expl\u00edcita de no promulgar ley IA horizontal |\n| ARE | soft_framework | 6 | 3 | Primer Ministerio IA mundial; DIFC Reg 10 binding |\n| **ISR** | **soft_framework** | **4** | **1** | **Rechazo expl\u00edcito ley IA horizontal (AI Policy 2023) + PPL Amendment 13 con obligaciones IA concretas** |\n| QAT | soft_framework | 6 | 1 | Marco ligero golfo |\n| TWN | binding_regulation | 7 | 3 | Ley IA 2026 |\n\n**An\u00e1lisis:** ISR es \u00fanico en el bucket soft_framework por:\n- Documento m\u00e1s expl\u00edcito de rechazo a ley IA horizontal\n- PPL Amendment 13 con obligaciones IA concretas\n- Presupuesto nacional significativo (NIS 1.5B total)\n- Nacional AI Directorate como estructura dedicada\n\n**Contraste:** ISR \u2248 SGP (filosof\u00eda id\u00e9ntica) pero ISR con menor densidad de soft law.\n\n---\n\n## 7. Implicancias para el estudio\n\n| Variable X1 | Efecto potencial |\n|---|---|\n| `has_ai_law` | 0 (sin cambio \u2014 sin ley IA espec\u00edfica) |\n| `regulatory_intensity` | Upgrade 4 \u2192 5 (+1 por Amendment 13) |\n| `thematic_coverage` | Upgrade 8 \u2192 10 (+2) |\n| `enforcement_level` | `medium` (confirmado) |\n| `regulatory_regime_group` | Upgrade `strategy_only` \u2192 `soft_framework` |\n\n**Hip\u00f3tesis testeable:**\n- \u00bfPa\u00edses con rechazo expl\u00edcito a regulaci\u00f3n horizontal tienen mayor adopci\u00f3n IA?\n- \u00bfEl Amendment 13 de PPL tendr\u00e1 enforcement activo?\n\n**Caso narrativo \u00fatil para:**\n- \u00a7Discusi\u00f3n como \"Singapur del Mediterr\u00e1neo\" \u2014 mismo enfoque filos\u00f3fico\n- Control para tesis \"soft_framework sin ley sectorial binding\"\n- Comparaci\u00f3n con ARE/QAT (MENA), SGP (Asia)\n\n---\n\n## 8. Banderas de re-visita\n\n| Evento | Horizonte | Trigger observable |\n|---|---|---|\n| PPA AI Guidance publicado | 3-6m | privacy.org.il |\n| Enforcement PPL Amendment 13 | 6-12m | Decisiones PPA |\n| Sandbox IA anunciado | 6-12m | Innovation Authority |\n| Cambio de pol\u00edtica IA | 12-24m | Nuevo documento estrat\u00e9gico |\n\n---\n\n## Links\n\n- [CANDIDATES.md](CANDIDATES.md)\n- [SOURCES.md](SOURCES.md)\n- [manifest.csv](manifest.csv)"
+}

@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "iso3": "BGR",
+    "source": "IAPP",
+    "data_year": "2024"
+  },
+  "regulatory_status": {
+    "group": "binding_regulation",
+    "has_ai_law": true
+  },
+  "regulatory_approach": {
+    "value": "comprehensive"
+  },
+  "regulatory_intensity": {
+    "value": 10,
+    "scale": "0-10"
+  },
+  "year_enacted": 2024.0,
+  "enforcement_level": {
+    "value": "high"
+  },
+  "thematic_coverage": {
+    "value": 14,
+    "max": 15
+  },
+  "data_protection": {
+    "has_gdpr_like_law": true,
+    "gdpr_similarity_level": 3,
+    "has_dpa": true,
+    "enforcement_active": true
+  }
+}

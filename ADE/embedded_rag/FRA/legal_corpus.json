@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "iso3": "FRA",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "FRA_EUAIAct_Reg2024_1689.pdf",
+      "document_title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+      "doc_type": "binding_law_ai",
+      "issuer": "European Parliament and Council of the EU",
+      "publication_date": "2024-07-12",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689",
+      "pages": "144"
+    },
+    {
+      "filename": "FRA_CommissionIA_Ambition2024.pdf",
+      "document_title": "IA : notre ambition pour la France \u2014 Rapport de la Commission de l'Intelligence Artificielle",
+      "doc_type": "policy_strategy",
+      "issuer": "Commission de l'Intelligence Artificielle (Aghion/Bouverot) \u2014 mandat pr\u00e9sidentiel",
+      "publication_date": "2024-03-13",
+      "status": "in_use",
+      "language": "fr",
+      "source_url": "https://www.info.gouv.fr/upload/media/content/0001/09/4d3cc456dd2f5b9d79ee75feea63b47f10d75158.pdf",
+      "pages": "130"
+    },
+    {
+      "filename": "FRA_StrategieIA_Phase2_2021.pdf",
+      "document_title": "Strat\u00e9gie Nationale pour l'Intelligence Artificielle \u2014 2e phase (Dossier de presse)",
+      "doc_type": "policy_strategy",
+      "issuer": "Minist\u00e8re de l'Enseignement Sup\u00e9rieur, de la Recherche et de l'Innovation (MESRI)",
+      "publication_date": "2021-11",
+      "status": "in_use",
+      "language": "fr",
+      "source_url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2021-11/dossier-de-presse---strat-gie-nationale-pour-l-intelligence-artificielle-2e-phase-14920.pdf",
+      "pages": "28"
+    },
+    {
+      "filename": "FRA_StrategieIA_CourComptes2025.pdf",
+      "document_title": "La strat\u00e9gie nationale pour l'intelligence artificielle : consolider les succ\u00e8s de la politique publique de l'IA, \u00e9largir son champ",
+      "doc_type": "policy_strategy",
+      "issuer": "Cour des comptes",
+      "publication_date": "2025-11",
+      "status": "in_use",
+      "language": "fr",
+      "source_url": "https://www.vie-publique.fr/files/rapport/pdf/300981.pdf",
+      "pages": "102"
+    },
+    {
+      "filename": "FRA_CNIL_FichesIA_Synthese2025.pdf",
+      "document_title": "Synth\u00e8se des contributions \u2014 Consultation publique sur les fiches pratiques IA (int\u00e9r\u00eat l\u00e9gitime)",
+      "doc_type": "guidelines",
+      "issuer": "Commission Nationale de l'Informatique et des Libert\u00e9s (CNIL)",
+      "publication_date": "2025-06",
+      "status": "in_force",
+      "language": "fr",
+      "source_url": "https://www.cnil.fr/sites/cnil/files/2025-06/synthese_des_contributions_fiches_ia_interet_legitime.pdf",
+      "pages": "17"
+    }
+  ],
+  "findings_text": "# FRA \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Francia presenta el caso de \"binding regulation con soberan\u00eda IA estrat\u00e9gica\": segundo hub IA de la UE tras Irlanda, con ecosistema dom\u00e9stico \u00fanico (Mistral AI, Hugging Face, Kyutai), inversi\u00f3n acumulada de \u20ac109B anunciada en el AI Action Summit 2025, y estrategia nacional en 3 fases (Villani 2018, Phase 2 2021, Phase 3 2025), pero con arquitectura nacional del AI Act menos formalizada que Irlanda \u2014 sin AI Office nacional creado y con la CNIL como autoridad coordinadora de facto, posicion\u00e1ndola como caso de binding regulation con mayor ambici\u00f3n IA dom\u00e9stica que sus pares EU pero menor institucionalizaci\u00f3n que IRL.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 5 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | EU AI Act |\n| # soft/policy/strategy | 4 | Commission IA + Phase 2 + Cour des Comptes + CNIL guidelines |\n| P\u00e1ginas totales corpus | 421 | sum(pages) |\n| P\u00e1ginas binding / soft | 144 / 277 | 0.52:1 |\n| Primer documento (fecha) | 2021-11 | SNIA Phase 2 |\n| \u00daltimo documento (fecha) | 2025-11 | Cour des Comptes |\n| A\u00f1os cubiertos | 4 | (2025-11 - 2021-11) |\n| Gap con fecha corpus | ~5 meses | 2026-04-21 - 2025-11 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2018-03 | SNIA Phase 1 (Villani) | Plan Villani. \u20ac1.5B inversi\u00f3n. |\n| 2021-11 | SNIA Phase 2 | \u20ac2.22B adicionales. 4 institutes 3IA (Grenoble, C\u00f4te d'Azur, Toulouse, Paris). |\n| 2024-03 | Commission IA Ambition | 25 recomendaciones al Presidente Macron. |\n| 2024-07-12 | EU AI Act | Regulation 2024/1689 aplicable directamente. |\n| 2025-02 | AI Action Summit | Anuncio Phase 3. \u20ac109B inversi\u00f3n total. Campus Stargate FR. |\n| 2025-06 | CNIL Fiches IA | S\u00edntesis guidance sobre IA + inter\u00e9s leg\u00edtimo + scraping. |\n| 2025-11 | Cour des Comptes | Evaluaci\u00f3n oficial Phase 1+2. |\n\n**Duraci\u00f3n:** 4 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** MESRI / CNIL / Commission IA.\n**Diferencial:** Ecosistema IA dom\u00e9stico (Mistral, Hugging Face) + \u20ac109B inversi\u00f3n.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **EU AI Act directamente aplicable** \u2014 Reg. 2024/1689, en vigor desde 01-08-2024, aplicaci\u00f3n plena 02-08-2026.\n\n- **SNIA Phase 3 con \u20ac109B** \u2014 Anunciado en AI Action Summit febrero 2025. Mayor inversi\u00f3n comprometida que cualquier otro pa\u00eds EU. Campus Stargate FR.\n\n- **Ecosistema IA dom\u00e9stico \u00fanico** \u2014 Mistral AI, Hugging Face, Kyutai. Francia es el \u00fanico pa\u00eds EU con startups IA dom\u00e9sticas de escala global.\n\n- **Commission IA 2024 con 25 recomendaciones** \u2014 Mandato presidencial. Base de la Phase 3. Enfoque: souverainet\u00e9, compute, attractivit\u00e9.\n\n- **Cour des Comptes 2025 (102pp)** \u2014 Evaluaci\u00f3n oficial de Phase 1+2. Balance: \u00e9xitos en investigaci\u00f3n/formaci\u00f3n, \u00e1reas de mejora en difusi\u00f3n econom\u00eda/administraci\u00f3n.\n\n- **CNIL Plan d'action IA desde 2023** \u2014 Anterior al AI Act. Guidance sobre inter\u00e9s leg\u00edtimo y web scraping. Track record de enforcement RGPD (multas a Google, Amazon, Microsoft \u2014 hasta \u20ac150M).\n\n- **4 institutes 3IA** \u2014 MIAI Grenoble, 3IA C\u00f4te d'Azur, ANITI Toulouse, PRAIRIE Paris. Infraestructura de investigaci\u00f3n \u00fanica.\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **Sin AI Office nacional** \u2014 A diferencia de IRL (AI Bill 2026 creando AI Office), Francia no ha legislado arquitectura formal del AI Act. *Refutador primario.*\n\n- **CNIL no es autoridad IA espec\u00edfica** \u2014 CNIL es DPA, no agencia IA dedicada. Coordinaci\u00f3n v\u00eda CNIL + DGE.\n\n- **Aplicaci\u00f3n plena AI Act no iniciada** \u2014 Francia no ha publicado legislaci\u00f3n nacional espec\u00edfica de implementaci\u00f3n como IRL.\n\n- **Cour des Comptes identifica deficiencias** \u2014 Evaluaci\u00f3n oficial se\u00f1ala \"m\u00e1rgenes de mejora en la difusi\u00f3n de IA en la econom\u00eda y administraci\u00f3n.\"\n\n- **DPC irlandesa tiene mayor jurisdicci\u00f3n Big Tech** \u2014 Francia no tiene sede de las principales Big Tech (sedes en Irlanda/Luxemburgo).\n\n---\n\n## 6. Comparaci\u00f3n vs peer group\n\n| Pa\u00eds | R\u00e9gimen | # docs | # binding | Tesis diferencial |\n|---|---|---|---|---|\n| IRL | binding_regulation | 4 | 1 | AI Act + DPC jurisdicci\u00f3n Big Tech + AI Bill 2026 creando AI Office |\n| **FRA** | **binding_regulation** | **5** | **1** | **AI Act + ecosistema dom\u00e9stico (Mistral, Hugging Face) + \u20ac109B inversi\u00f3n + CNIL activa sin AI Office nacional** |\n| ESP | binding_regulation | 5 | 1 | AI Act + AESIA activa + sandbox IA |\n| NLD | binding_regulation | 5 | 1 | AI Act + DCA dedicado + Toeslagenaffaire |\n\n**An\u00e1lisis:** FRA comparte bucket binding_regulation con IRL, ESP, NLD. Se distingue por:\n- Mayor ecosistema IA dom\u00e9stico (Mistral, Hugging Face)\n- Mayor inversi\u00f3n comprometida (\u20ac109B)\n- CNIL con m\u00e1s larga historia de enforcement que DPC\n- Sin AI Office nacional creado (vs IRL)\n- 5 documentos, 1 binding = mayor densidad documental\n\n**Contraste:** FRA \u2248 IRL (ambos binding) pero FRA sin institucionalidad AI Office vs IRL con AI Bill avanzado.\n\n---\n\n## 7. Implicancias para el estudio\n\n| Variable X1 | Efecto potencial |\n|---|---|\n| `has_ai_law` | 1 (EU AI Act directamente aplicable) |\n| `regulatory_intensity` | 10/10 (confirmado \u2014 m\u00e1ximo) |\n| `thematic_coverage` | 14/15 (confirmado) |\n| `enforcement_level` | `high` (CNIL con historial enforcement) |\n| `regulatory_regime_group` | `binding_regulation` (confirmado) |\n| `has_dedicated_ai_authority` | 0 (sin AI Office nacional creado) |\n\n**Hip\u00f3tesis testeable:**\n- \u00bfPa\u00edses con mayor ecosistema IA dom\u00e9stico tienen mejor adopci\u00f3n que pa\u00edses sin \u00e9l?\n- \u00bfLa ausencia de AI Office formal afecta enforcement?\n\n**Caso narrativo \u00fatil para:**\n- \u00a7Discusi\u00f3n como \"caso de binding regulation con soberan\u00eda IA estrat\u00e9gica\"\n- Control para tesis \"hub IA = mejor outcomes\"\n- Comparaci\u00f3n con IRL (ambos binding, diferente institucionalizaci\u00f3n)\n\n---\n\n## 8. Banderas de re-visita\n\n| Evento | Horizonte | Trigger observable |\n|---|---|---|\n| SNIA Phase 3 documento formal | 3-6m | Publications government.fr |\n| AI Office France creado | 6-12m | L\u00e9gifrance nouveau organisme |\n| CNIL enforcement casos AI Act | 6-12m | D\u00e9cisions CNIL publi\u00e9es |\n| Stargate FR operativo | 12-18m | Anuncio oficial |\n\n---\n\n## Links\n\n- [CANDIDATES.md](CANDIDATES.md)\n- [SOURCES.md](SOURCES.md)\n- [manifest.csv](manifest.csv)"
+}

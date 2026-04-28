@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Personal Information Protection and Electronic Documents Act (PIPEDA, S.C. 2000, c. 5)",
+    "type": "binding_law_sectoral",
+    "issuer": "Parliament of Canada",
+    "date": "2000-04-13",
+    "status": "in_force",
+    "pages": "66",
+    "url": "https://laws-lois.justice.gc.ca/pdf/p-8.6.pdf"
+  },
+  {
+    "title": "Pan-Canadian Artificial Intelligence Strategy (Phase 2)",
+    "type": "policy_strategy",
+    "issuer": "Innovation, Science and Economic Development Canada (ISED)",
+    "date": "2022-06-22",
+    "status": "in_use",
+    "pages": "6",
+    "url": "https://ised-isde.canada.ca/site/ai-strategy/en/pan-canadian-artificial-intelligence-strategy"
+  },
+  {
+    "title": "The Artificial Intelligence and Data Act (AIDA) \u2013 Companion Document",
+    "type": "bill_pending",
+    "issuer": "Innovation, Science and Economic Development Canada (ISED)",
+    "date": "2023-03-13",
+    "status": "died_prorogation",
+    "pages": "8",
+    "url": "https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document"
+  },
+  {
+    "title": "Directive on Automated Decision-Making",
+    "type": "binding_law_sectoral",
+    "issuer": "Treasury Board of Canada Secretariat (TBS)",
+    "date": "2019-04-01",
+    "status": "in_force",
+    "pages": "8",
+    "url": "https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592"
+  },
+  {
+    "title": "Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems",
+    "type": "soft_framework",
+    "issuer": "Innovation, Science and Economic Development Canada (ISED)",
+    "date": "2023-09-27",
+    "status": "in_use",
+    "pages": "8",
+    "url": "https://ised-isde.canada.ca/site/ised/en/voluntary-code-conduct-responsible-development-and-management-advanced-generative-ai-systems"
+  },
+  {
+    "title": "Guide on the Use of Generative AI",
+    "type": "guidelines",
+    "issuer": "Treasury Board of Canada Secretariat (TBS)",
+    "date": "2024-02-12",
+    "status": "in_use",
+    "pages": "8",
+    "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html"
+  },
+  {
+    "title": "Engagements on Canada's Next AI Strategy: Summary of Inputs",
+    "type": "policy_draft",
+    "issuer": "Innovation, Science and Economic Development Canada (ISED)",
+    "date": "2026-02-02",
+    "status": "in_use",
+    "pages": "19",
+    "url": "https://ised-isde.canada.ca/site/ised/sites/default/files/documents/AiStrategyReport_EN.pdf"
+  }
+]

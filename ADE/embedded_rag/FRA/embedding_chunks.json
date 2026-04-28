@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "FRA: binding_regulation, intensity 10/10, comprehensive, enforcement high",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "FRA: AI readiness 80.81, adoption 44.0%, investment $11.0968B, 468.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "FRA: regulatory quality 1.1535, rule of law 1.1806, FH 89/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "FRA: Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) (binding_law_ai) - European Parliament and Council of the EU, 2024-07-12, 144pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "FRA: IA : notre ambition pour la France \u2014 Rapport de la Commission de l'Intelligence Artificielle (policy_strategy) - Commission de l'Intelligence Artificielle (Aghion/Bouverot) \u2014 mandat pr\u00e9sidentiel, 2024-03-13, 130pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "FRA: Strat\u00e9gie Nationale pour l'Intelligence Artificielle \u2014 2e phase (Dossier de presse) (policy_strategy) - Minist\u00e8re de l'Enseignement Sup\u00e9rieur, de la Recherche et de l'Innovation (MESRI), 2021-11, 28pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "FRA: La strat\u00e9gie nationale pour l'intelligence artificielle : consolider les succ\u00e8s de la politique publique de l'IA, \u00e9largir son champ (policy_strategy) - Cour des comptes, 2025-11, 102pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "FRA: Synth\u00e8se des contributions \u2014 Consultation publique sur les fiches pratiques IA (int\u00e9r\u00eat l\u00e9gitime) (guidelines) - Commission Nationale de l'Informatique et des Libert\u00e9s (CNIL), 2025-06, 17pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# FRA \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Francia presenta el caso de \"binding regulation con soberan\u00eda IA estrat\u00e9gica\": segundo hub IA de la UE tras Irlanda, con ecosistema dom\u00e9stico \u00fanico (Mistral AI, Hugging Face, Kyutai), inversi\u00f3n acumulada de \u20ac109B anunciada en el AI Action Summit 2025, y estrategia nacional en 3 fases (Villani 2018, Phase 2 2021, Phase 3 2025), pero con arquitectura nacional del AI Act menos formalizada que Irlanda \u2014 sin AI Office nacional creado y con la CNIL como autoridad coordinadora de facto, posicion\u00e1ndola como caso de binding regulation con mayor ambici\u00f3n IA dom\u00e9stica que sus pares EU pero menor institucionalizaci\u00f3n que IRL.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 5 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | EU AI Act |\n| # soft/policy/strategy | 4 | Commission IA + Phase 2 + Cour des Comptes + CNIL guidelines |\n| P\u00e1ginas totales corpus | 421 | sum(pages) |\n| P\u00e1ginas binding / soft | 144 / 277 | 0.52:1 |\n| Primer documento (fecha) | 2021-11 | SNIA Phase 2 |\n| \u00daltimo documento (fecha) | 2025-11 | Cour des Comptes |\n| A\u00f1os cubiertos | 4 | (2025-11 - 2021-11) |\n| Gap con fecha corpus | ~5 meses | 2026-04-21 - 2025-11 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2018-03 | SNIA Phase 1 (Villani) | Plan Villani. \u20ac1.5B inversi\u00f3n. |\n| 2021-11 | SNIA Phase 2 | \u20ac2.22B adicionales. 4 institutes 3IA (Grenoble, C\u00f4te d'Azur, Toulouse, Paris). |\n| 2024-03 | Commission IA Ambition | 25 recomendaciones al Presidente Macron. |\n| 2024-07-12 | EU AI Act | Regulation 2024/1689 aplicable directamente. |\n| 2025-02 | AI Action Summit | Anuncio Phase 3. \u20ac109B inversi\u00f3n total. Campus Stargate FR. |\n| 2025-06 | CNIL Fiches IA | S\u00edntesis guidance sobre IA + inter\u00e9s leg\u00edtimo + scraping. |\n| 2025-11 | Cour des Comptes | Evaluaci\u00f3n oficial Phase 1+2. |\n\n**Duraci\u00f3n:** 4 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** MESRI / CNIL / Commission IA.\n**Diferencial:** Ecosistema IA dom\u00e9stico (Mistral, Hugging Face) + \u20ac109B inversi\u00f3n.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **EU AI Act directamente aplicable** \u2014 Reg. 2024/1689, en vigor desde 01-08-2024, aplicaci\u00f3n plena 02-08-2026.\n\n- **SNIA Phase 3 con \u20ac109B** \u2014 Anunciado en AI Action Summit febrero 2025. Mayor inversi\u00f3n comprometida que cualquier otro pa\u00eds EU. Campus Stargate FR.\n\n- **Ecosistema IA dom\u00e9stico \u00fanico** \u2014 Mistral AI, Hugging Face, Kyutai. Francia es el \u00fanico pa\u00eds EU con startups IA dom\u00e9sticas de escala global.\n\n- **Commission IA 2024 con 25 recomendaciones** \u2014 Mandato presidencial. Base de la Phase 3. Enfoque: souverainet\u00e9, compute, attractivit\u00e9.\n\n- **Cour des Comptes 2025 (102pp)** \u2014 Evaluaci\u00f3n oficial de Phase 1+2. Balance: \u00e9xitos en investigaci\u00f3n/formaci\u00f3n, \u00e1reas de mejora en difusi\u00f3n econom\u00eda/administraci\u00f3n.\n\n- **CNIL Plan d'action",
+    "relevance": 0.99
+  }
+]

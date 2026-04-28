@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+    "type": "binding_law_ai",
+    "issuer": "European Parliament and Council of the EU",
+    "date": "2024-07-12",
+    "status": "in_force",
+    "pages": "144",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689"
+  },
+  {
+    "title": "2025. évi LXXV. törvény az Európai Unió mesterséges intelligenciáról szóló rendeletének magyarországi végrehajtásáról (Act LXXV of 2025 on the domestic implementation of the EU AI Regulation)",
+    "type": "binding_regulation",
+    "issuer": "Országgyűlés (Hungarian National Assembly)",
+    "date": "2025-10-31",
+    "status": "in_force",
+    "pages": "218",
+    "url": "https://magyarkozlony.hu/dokumentumok/c19d54dc315cd8eee4294ea8fa244969bea9c3e8/letoltes"
+  },
+  {
+    "title": "Hungary's Artificial Intelligence Strategy 2020-2030 (Magyarország Mesterséges Intelligencia Stratégiája)",
+    "type": "policy_strategy",
+    "issuer": "Government of Hungary (Kormány) / AI Coalition",
+    "date": "2020-09",
+    "status": "in_use",
+    "pages": "58",
+    "url": "https://ai-hungary.com/files/e8/dd/e8dd79bd380a40c9890dd2fb01dd771b.pdf"
+  },
+  {
+    "title": "Magyarország Mesterséges Intelligencia Stratégiája 2025-2030",
+    "type": "policy_strategy",
+    "issuer": "Kormány / Miniszterelnöki Kabinetiroda",
+    "date": "2025-09-03",
+    "status": "in_use",
+    "pages": "119",
+    "url": "https://cdn.kormany.hu/uploads/document/c/c0/c0d/c0dfdbd37cfa520ae37361a168d244c85e7295af.pdf"
+  }
+]

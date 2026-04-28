@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "AUT: binding_regulation, intensity 10/10, comprehensive, enforcement high",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "AUT: AI readiness 69.72, adoption 31.4%, investment $2.2216B, 51.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "AUT: regulatory quality 1.3614, rule of law 1.7466, FH 93/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "AUT: Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) (binding_law_ai) - European Parliament and Council of the EU, 2024-07-12, 144pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "AUT: Strategie der Bundesregierung f\u00fcr K\u00fcnstliche Intelligenz \u2014 Artificial Intelligence Mission Austria 2030 (AIM AT 2030) (policy_strategy) - Bundesregierung \u00d6sterreich (Federal Chancellery + BMK), 2021, 76pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "AUT: Strategie der Bundesregierung f\u00fcr K\u00fcnstliche Intelligenz \u2014 Umsetzungsplan 2024 (AIM AT 2030 Implementation Plan) (policy_strategy) - Bundesregierung \u00d6sterreich / Digital Austria, 2024-11, 109pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "AUT: Informationen der Datenschutzbeh\u00f6rde zum Verh\u00e4ltnis zwischen der DSGVO und der KI-VO f\u00fcr Verantwortliche des \u00f6ffentlichen Bereichs (guidelines) - Datenschutzbeh\u00f6rde (DSB), 2024, 3pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# AUT \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Austria presenta el caso de \"high ambition, delayed execution\" en el bucket binding_regulation: posee la estrategia IA nacional m\u00e1s madura de la UE-27 (AIM AT 2030 con 82% de sus 91 medidas implementadas a 2026) y un Umsetzungsplan 2024 con 47 medidas activas de 12 ministerios, pero incumpli\u00f3 el plazo obligatorio del 2 de agosto de 2025 para la designaci\u00f3n formal de autoridades competentes bajo el AI Act \u2014 un gap de implementaci\u00f3n que la distingue de sus pares NLD y ESP (que s\u00ed cumplieron) y la alinea con BEL (mismo incumplimiento).**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 4 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | EU AI Act |\n| # soft/policy/strategy | 3 | AIM AT 2030 + Umsetzungsplan + DSB guidelines |\n| P\u00e1ginas totales corpus | 332 | sum(pages) |\n| P\u00e1ginas binding / soft | 144 / 188 | 0.77:1 |\n| Primer documento (fecha) | 2021 | AIM AT 2030 |\n| \u00daltimo documento (fecha) | 2024-11 | Umsetzungsplan 2024 |\n| A\u00f1os cubiertos | ~3.5 | (2024-11 - 2021) |\n| Gap con fecha corpus | ~17 meses | 2026-04-21 - 2024-11 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2021 | AIM AT 2030 | Estrategia IA nacional federal. 91 medidas en 7 \u00e1reas. Coordinaci\u00f3n Federal Chancellery + BMK. |\n| 2024-07-12 | EU AI Act entry into force | Regulation (EU) 2024/1689 entra en vigor. Aplicaci\u00f3n directa en Austria. |\n| 2024 | DSB guidance DSGVO/KI-VO | Datenschutzbeh\u00f6rde publica gu\u00eda sobre paralelismo RGPD + AI Act para sector p\u00fablico. |\n| 2024-11 | Umsetzungsplan 2024 | Plan de implementaci\u00f3n actualizado. 47 medidas de 12 ministerios federales. |\n| 2025-02 | AI Act deadline | Fecha l\u00edmite para designaci\u00f3n de autoridades competentes (Art. 70). |\n| 2025-08-02 | Plazo incumplido | Austria NO complet\u00f3 designaci\u00f3n formal de autoridades AI Act. |\n| 2026-04 | Estado del corpus | AIM AT 2030: 82% medidas implementadas o en implementaci\u00f3n. |\n\n**Duraci\u00f3n:** ~3.5 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** Federal Chancellery / BMK / Digital Austria / DSB.\n**RTR GmbH:** Designado como AI Service Office (punto de contacto), sin competencias formales de vigilancia.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **AIM AT 2030 con 82% implementaci\u00f3n** \u2014 82% de las 91 medidas implementadas o en implementaci\u00f3n a 2026. Tasa de ejecuci\u00f3n m\u00e1s alta entre los pa\u00edses del corpus analizados. Documentado en SOURCES.md.\n\n- **91 medidas en 7 \u00e1reas** \u2014 m\u00e1s comprehensiva que la mayor\u00eda de estrategias nacionales UE: econom\u00eda y trabajo, cualificaci\u00f3n, \u00e9tica y regulaci\u00f3n, investigaci\u00f3n e innovaci\u00f3n, infraestructura de datos, administraci\u00f3n p\u00fablica, educaci\u00f3n.\n\n- **Umsetzungsplan 2024 con 47 medidas de 12 ministerios** \u2014 coordinaci\u00f3n horizontal interministerial extensa. Evidencia de gobierno activo y no meramente aspiraci",
+    "relevance": 0.99
+  }
+]

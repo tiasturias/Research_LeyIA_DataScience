@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+    "type": "binding_law_ai",
+    "issuer": "European Parliament and Council of the EU",
+    "date": "2024-07-12",
+    "status": "in_force",
+    "pages": "144",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689"
+  },
+  {
+    "title": "The AI Commission's Roadmap for Sweden (SOU 2025:12)",
+    "type": "policy_strategy",
+    "issuer": "Swedish AI Commission (Statens offentliga utredningar)",
+    "date": "2024-11-26",
+    "status": "in_use",
+    "pages": "136",
+    "url": "https://www.sou.gov.se/globalassets/the-ai-commissions-roadmap-for-sweden.pdf"
+  },
+  {
+    "title": "Sweden's AI Strategy",
+    "type": "policy_strategy",
+    "issuer": "Government of Sweden (Regeringskansliet)",
+    "date": "2026-02",
+    "status": "in_use",
+    "pages": "24",
+    "url": "https://www.government.se/contentassets/4e6b2d34f81048d688c35c831065395f/swedens-ai-strategy.pdf"
+  },
+  {
+    "title": "Action Plan for Sweden's AI Strategy",
+    "type": "policy_strategy",
+    "issuer": "Government of Sweden (Regeringskansliet)",
+    "date": "2026-02",
+    "status": "in_use",
+    "pages": "13",
+    "url": "https://www.government.se/contentassets/4e6b2d34f81048d688c35c831065395f/action-plan-for-swedens-ai-strategy.pdf"
+  },
+  {
+    "title": "Integritetsskyddsmyndighetens AI-strategi (IMY AI Strategy)",
+    "type": "guidelines",
+    "issuer": "Integritetsskyddsmyndigheten (IMY)",
+    "date": "2024",
+    "status": "in_force",
+    "pages": "5",
+    "url": "https://www.imy.se/globalassets/dokument/ovrigt/integritetsskyddsmyndighetens-ai-strategi.pdf"
+  }
+]

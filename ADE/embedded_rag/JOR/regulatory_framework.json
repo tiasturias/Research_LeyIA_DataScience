@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "iso3": "JOR",
+    "source": "IAPP",
+    "data_year": "2024"
+  },
+  "regulatory_status": {
+    "group": "strategy_only",
+    "has_ai_law": false
+  },
+  "regulatory_approach": {
+    "value": "strategy_led"
+  },
+  "regulatory_intensity": {
+    "value": 2,
+    "scale": "0-10"
+  },
+  "year_enacted": null,
+  "enforcement_level": {
+    "value": "low"
+  },
+  "thematic_coverage": {
+    "value": 3,
+    "max": 15
+  },
+  "data_protection": {
+    "has_gdpr_like_law": true,
+    "gdpr_similarity_level": 2,
+    "has_dpa": false,
+    "enforcement_active": false
+  }
+}

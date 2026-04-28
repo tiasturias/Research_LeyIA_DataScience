@@ -1,0 +1,496 @@
+{
+  "generated_at": "2026-04-22T15:11:54.878250+00:00",
+  "iso3": "TUN",
+  "country_name": "Tunez",
+  "study_context": {
+    "question": "Existe una asociacion estadisticamente significativa entre las caracteristicas de la regulacion de inteligencia artificial de un pais y el desarrollo de su ecosistema de IA, despues de controlar por factores socioeconomicos e institucionales.",
+    "policy_context": "El estudio busca informar la discusion chilena sobre Ley Marco de IA (Boletin 16821-19) con evidencia comparativa internacional.",
+    "design": "Cross-section comparativo 2025 con 86 paises y una submuestra ADE de 73.",
+    "primary_dataset": "data/interim/sample_ready_cross_section.csv",
+    "recommended_tier": "complete_confounded"
+  },
+  "completeness_flags": {
+    "complete_principal": true,
+    "complete_confounded": true,
+    "complete_digital": true,
+    "complete_regime": true,
+    "complete_legal_tradition": true,
+    "complete_extended": true,
+    "complete_strict": false
+  },
+  "source_inventory": [
+    {
+      "source": "IAPP + OECD (X1 regulatorio)",
+      "purpose": "Caracterizar el marco regulatorio de IA del pais.",
+      "variables": [
+        {
+          "key": "has_ai_law",
+          "label": "Tiene ley IA",
+          "value": "0",
+          "reference": ""
+        },
+        {
+          "key": "regulatory_approach",
+          "label": "Enfoque regulatorio",
+          "value": "strategy_led",
+          "reference": ""
+        },
+        {
+          "key": "regulatory_intensity",
+          "label": "Intensidad regulatoria",
+          "value": "2",
+          "reference": ""
+        },
+        {
+          "key": "enforcement_level",
+          "label": "Enforcement",
+          "value": "low",
+          "reference": ""
+        },
+        {
+          "key": "thematic_coverage",
+          "label": "Cobertura tematica",
+          "value": "3",
+          "reference": ""
+        },
+        {
+          "key": "regulatory_status_group",
+          "label": "Grupo regulatorio",
+          "value": "strategy_only",
+          "reference": ""
+        },
+        {
+          "key": "x1_source",
+          "label": "Fuente X1 consolidada",
+          "value": "IAPP",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "Stanford AI Index",
+      "purpose": "Medir inversion, startups y patentes del ecosistema IA.",
+      "variables": [
+        {
+          "key": "ai_investment_usd_bn_cumulative",
+          "label": "Inversion IA acumulada (USD bn)",
+          "value": "0.021",
+          "reference": "2024.0"
+        },
+        {
+          "key": "ai_startups_cumulative",
+          "label": "Startups IA acumuladas",
+          "value": "2.0",
+          "reference": "2024.0"
+        }
+      ]
+    },
+    {
+      "source": "Microsoft AI Diffusion Report",
+      "purpose": "Capturar adopcion efectiva de IA generativa.",
+      "variables": [
+        {
+          "key": "ai_adoption_rate",
+          "label": "Adopcion IA",
+          "value": "12.7",
+          "reference": "H2_2025"
+        }
+      ]
+    },
+    {
+      "source": "Oxford Insights",
+      "purpose": "Medir readiness gubernamental para IA.",
+      "variables": [
+        {
+          "key": "ai_readiness_score",
+          "label": "AI readiness score",
+          "value": "42.23",
+          "reference": "2025"
+        }
+      ]
+    },
+    {
+      "source": "WIPO Global Innovation Index",
+      "purpose": "Controlar capacidad general de innovacion y region.",
+      "variables": [
+        {
+          "key": "gii_score",
+          "label": "GII score",
+          "value": "26.9867919028168",
+          "reference": "2025.0"
+        },
+        {
+          "key": "region",
+          "label": "Region",
+          "value": "Northern Africa and Western Asia",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "World Bank WDI",
+      "purpose": "Agregar controles socioeconomicos y de economia digital.",
+      "variables": [
+        {
+          "key": "gdp_per_capita_ppp",
+          "label": "PIB per capita PPP",
+          "value": "14521.0080937638",
+          "reference": "2024.0"
+        },
+        {
+          "key": "internet_penetration",
+          "label": "Penetracion internet",
+          "value": "72.3542",
+          "reference": "2023.0"
+        },
+        {
+          "key": "rd_expenditure",
+          "label": "Gasto I+D",
+          "value": "0.74658",
+          "reference": "2019.0"
+        },
+        {
+          "key": "tertiary_education",
+          "label": "Educacion terciaria",
+          "value": "38.1219482421875",
+          "reference": "2023.0"
+        },
+        {
+          "key": "ict_service_exports_pct",
+          "label": "Exportaciones ICT",
+          "value": "4.60032264285871",
+          "reference": "2024.0"
+        },
+        {
+          "key": "high_tech_exports_pct",
+          "label": "Exportaciones high-tech",
+          "value": "7.70110744284105",
+          "reference": "2023.0"
+        }
+      ]
+    },
+    {
+      "source": "World Bank WGI",
+      "purpose": "Controlar calidad institucional y gobernanza.",
+      "variables": [
+        {
+          "key": "regulatory_quality",
+          "label": "Regulatory quality",
+          "value": "-0.6191326379776",
+          "reference": "2023.0"
+        },
+        {
+          "key": "rule_of_law",
+          "label": "Rule of law",
+          "value": "-0.138983190059662",
+          "reference": "2023.0"
+        },
+        {
+          "key": "government_effectiveness",
+          "label": "Government effectiveness",
+          "value": "-0.300515085458755",
+          "reference": "2023.0"
+        },
+        {
+          "key": "control_of_corruption",
+          "label": "Control of corruption",
+          "value": "-0.341899782419205",
+          "reference": "2023.0"
+        }
+      ]
+    },
+    {
+      "source": "GDPR / proteccion de datos",
+      "purpose": "Capturar tradicion regulatoria digital preexistente.",
+      "variables": [
+        {
+          "key": "has_gdpr_like_law",
+          "label": "Tiene ley GDPR-like",
+          "value": "1",
+          "reference": ""
+        },
+        {
+          "key": "gdpr_similarity_level",
+          "label": "Nivel de similitud GDPR",
+          "value": "2",
+          "reference": ""
+        },
+        {
+          "key": "dp_law_year",
+          "label": "Ano ley DP",
+          "value": "2004",
+          "reference": ""
+        },
+        {
+          "key": "has_dpa",
+          "label": "Tiene DPA",
+          "value": "1",
+          "reference": ""
+        },
+        {
+          "key": "enforcement_active",
+          "label": "Enforcement activo DP",
+          "value": "1",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "Freedom House",
+      "purpose": "Controlar tipo de regimen politico y libertades.",
+      "variables": [
+        {
+          "key": "fh_total_score",
+          "label": "Freedom House total",
+          "value": "49",
+          "reference": "2025"
+        },
+        {
+          "key": "fh_status",
+          "label": "FH status",
+          "value": "PF",
+          "reference": ""
+        },
+        {
+          "key": "fh_democracy_level",
+          "label": "Nivel democracia FH",
+          "value": "1",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "Legal Origin",
+      "purpose": "Capturar tradicion juridica como confounder institucional.",
+      "variables": [
+        {
+          "key": "legal_origin",
+          "label": "Legal origin",
+          "value": "French",
+          "reference": ""
+        },
+        {
+          "key": "is_common_law",
+          "label": "Common law",
+          "value": "0",
+          "reference": ""
+        }
+      ]
+    }
+  ],
+  "documents_summary": {
+    "count": 0,
+    "pages_total": 0
+  },
+  "country_profile": {
+    "metadata": {
+      "iso3": "TUN",
+      "region": "Northern Africa and Western Asia",
+      "income_group": "High income",
+      "oecd_member": false,
+      "legal_origin": "French",
+      "is_common_law": false,
+      "population": 12277109.0,
+      "gdp_current_usd": 51332285656.5422,
+      "data_year": "2024-2025"
+    },
+    "ecosystem_ia": {
+      "ai_readiness_score": {
+        "value": 42.23,
+        "year": 2025
+      },
+      "ai_adoption_rate": {
+        "value": 12.7,
+        "period": "H2_2025"
+      },
+      "ai_investment_usd_bn": {
+        "cumulative": 0.021,
+        "year": 2024.0
+      },
+      "ai_startups": {
+        "cumulative": 2.0,
+        "year": 2024.0
+      },
+      "ai_patents_per100k": {
+        "value": null,
+        "year": null
+      }
+    },
+    "controls": {
+      "gdp_per_capita_ppp": {
+        "value": 14521.0081,
+        "year": 2024.0
+      },
+      "gii_score": {
+        "value": 26.9868,
+        "year": 2025.0
+      },
+      "internet_penetration": {
+        "value": 72.3542,
+        "year": 2023.0
+      },
+      "rd_expenditure": {
+        "value": 0.7466,
+        "year": 2019.0
+      },
+      "tertiary_education": {
+        "value": 38.1219,
+        "year": 2023.0
+      }
+    },
+    "governance": {
+      "regulatory_quality": {
+        "value": -0.6191,
+        "year": 2023.0
+      },
+      "rule_of_law": {
+        "value": -0.139,
+        "year": 2023.0
+      },
+      "fh_total_score": {
+        "value": 49,
+        "status": "PF",
+        "year": 2025
+      }
+    }
+  },
+  "regulatory_framework": {
+    "metadata": {
+      "iso3": "TUN",
+      "source": "IAPP",
+      "data_year": "2024"
+    },
+    "regulatory_status": {
+      "group": "strategy_only",
+      "has_ai_law": false
+    },
+    "regulatory_approach": {
+      "value": "strategy_led"
+    },
+    "regulatory_intensity": {
+      "value": 2,
+      "scale": "0-10"
+    },
+    "year_enacted": null,
+    "enforcement_level": {
+      "value": "low"
+    },
+    "thematic_coverage": {
+      "value": 3,
+      "max": 15
+    },
+    "data_protection": {
+      "has_gdpr_like_law": true,
+      "gdpr_similarity_level": 2,
+      "has_dpa": true,
+      "enforcement_active": true
+    }
+  },
+  "sample_ready_row": {
+    "iso3": "TUN",
+    "has_ai_law": "0",
+    "regulatory_approach": "strategy_led",
+    "regulatory_intensity": "2",
+    "year_enacted": "",
+    "enforcement_level": "low",
+    "thematic_coverage": "3",
+    "regulatory_status_group": "strategy_only",
+    "x1_source": "IAPP",
+    "ai_patents_per100k": "",
+    "ai_investment_usd_bn_cumulative": "0.021",
+    "ai_investment_usd_bn_2024": "0.013",
+    "ai_startups_cumulative": "2.0",
+    "ai_startups_2024": "1.0",
+    "patents_year": "",
+    "investment_year": "2024.0",
+    "startups_year": "2024.0",
+    "ai_adoption_rate": "12.7",
+    "adoption_period": "H2_2025",
+    "ai_readiness_score": "42.23",
+    "readiness_year": "2025",
+    "gii_score": "26.9867919028168",
+    "gii_year": "2025.0",
+    "gdp_per_capita_ppp": "14521.0080937638",
+    "gdp_per_capita_ppp_year": "2024.0",
+    "rd_expenditure": "0.74658",
+    "rd_expenditure_year": "2019.0",
+    "internet_penetration": "72.3542",
+    "internet_penetration_year": "2023.0",
+    "tertiary_education": "38.1219482421875",
+    "tertiary_education_year": "2023.0",
+    "regulatory_quality": "-0.6191326379776",
+    "regulatory_quality_year": "2023.0",
+    "rule_of_law": "-0.138983190059662",
+    "rule_of_law_year": "2023.0",
+    "government_effectiveness": "-0.300515085458755",
+    "government_effectiveness_year": "2023.0",
+    "control_of_corruption": "-0.341899782419205",
+    "control_of_corruption_year": "2023.0",
+    "ict_service_exports_pct": "4.60032264285871",
+    "ict_service_exports_pct_year": "2024.0",
+    "high_tech_exports_pct": "7.70110744284105",
+    "high_tech_exports_pct_year": "2023.0",
+    "population": "12277109.0",
+    "gdp_current_usd": "51332285656.5422",
+    "oecd_member": "0",
+    "region": "Northern Africa and Western Asia",
+    "ai_investment_vc_proxy": "",
+    "vc_proxy_year": "",
+    "ai_publications_frac": "",
+    "ai_publications_frac_year": "",
+    "has_gdpr_like_law": "1",
+    "gdpr_similarity_level": "2",
+    "dp_law_year": "2004",
+    "has_dpa": "1",
+    "eu_status": "none",
+    "enforcement_active": "1",
+    "fh_total_score": "49",
+    "fh_status": "PF",
+    "fh_pr_score": "21",
+    "fh_cl_score": "28",
+    "fh_democracy_level": "1",
+    "fh_year": "2025",
+    "legal_origin": "French",
+    "is_common_law": "0",
+    "year_enacted_ok": "True",
+    "complete_principal": "1",
+    "complete_extended": "1",
+    "complete_confounded": "1",
+    "complete_digital": "1",
+    "complete_regime": "1",
+    "complete_legal_tradition": "1",
+    "complete_strict": "0",
+    "has_ai_readiness_score": "1",
+    "has_ai_adoption_rate": "1",
+    "has_ai_investment_usd_bn_cumulative": "1",
+    "has_ai_startups_cumulative": "1",
+    "has_has_ai_law": "1",
+    "has_regulatory_approach": "1",
+    "has_regulatory_intensity": "1",
+    "has_enforcement_level": "1",
+    "has_thematic_coverage": "1",
+    "has_gdp_per_capita_ppp": "1",
+    "has_internet_penetration": "1",
+    "has_gii_score": "1",
+    "has_oecd_member": "1",
+    "has_region": "1",
+    "has_rd_expenditure": "1",
+    "has_tertiary_education": "1",
+    "has_regulatory_quality": "1",
+    "has_rule_of_law": "1",
+    "has_has_gdpr_like_law": "1",
+    "has_gdpr_similarity_level": "1",
+    "has_ict_service_exports_pct": "1",
+    "has_high_tech_exports_pct": "1",
+    "has_fh_total_score": "1",
+    "has_fh_democracy_level": "1",
+    "has_legal_origin": "1",
+    "has_is_common_law": "1",
+    "has_ai_patents_per100k": "0",
+    "has_ai_investment_usd_bn_2024": "1",
+    "has_ai_startups_2024": "1",
+    "has_government_effectiveness": "1",
+    "has_control_of_corruption": "1",
+    "has_ai_investment_vc_proxy": "0"
+  }
+}

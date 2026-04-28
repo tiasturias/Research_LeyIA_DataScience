@@ -1,0 +1,366 @@
+{
+  "iso3": "NOR",
+  "country_name": "Noruega",
+  "consolidated_at": "2026-04-22T15:11:54.860116+00:00",
+  "has_embedded_data": true,
+  "has_legal_corpus": true,
+  "files": [
+    "01_profile.json",
+    "02_regulatory.json",
+    "03_documents_index.json",
+    "04_meta_analysis.md",
+    "embedding_chunks.json",
+    "08_full_analysis.json",
+    "05_sources.md",
+    "06_candidates.md",
+    "07_findings.md",
+    "09_data_inventory.json",
+    "10_country_dossier.md"
+  ],
+  "n_documents": 4,
+  "n_pages": 250,
+  "n_chunks": 8,
+  "completeness": {
+    "complete_principal": true,
+    "complete_confounded": true,
+    "complete_digital": true,
+    "complete_regime": true,
+    "complete_legal_tradition": true,
+    "complete_extended": true,
+    "complete_strict": true
+  },
+  "source_inventory": [
+    {
+      "source": "IAPP + OECD (X1 regulatorio)",
+      "purpose": "Caracterizar el marco regulatorio de IA del pais.",
+      "variables": [
+        {
+          "key": "has_ai_law",
+          "label": "Tiene ley IA",
+          "value": "0",
+          "reference": ""
+        },
+        {
+          "key": "regulatory_approach",
+          "label": "Enfoque regulatorio",
+          "value": "strategy_led",
+          "reference": ""
+        },
+        {
+          "key": "regulatory_intensity",
+          "label": "Intensidad regulatoria",
+          "value": "4",
+          "reference": ""
+        },
+        {
+          "key": "enforcement_level",
+          "label": "Enforcement",
+          "value": "medium",
+          "reference": ""
+        },
+        {
+          "key": "thematic_coverage",
+          "label": "Cobertura tematica",
+          "value": "8",
+          "reference": ""
+        },
+        {
+          "key": "regulatory_status_group",
+          "label": "Grupo regulatorio",
+          "value": "strategy_only",
+          "reference": ""
+        },
+        {
+          "key": "x1_source",
+          "label": "Fuente X1 consolidada",
+          "value": "IAPP",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "Stanford AI Index",
+      "purpose": "Medir inversion, startups y patentes del ecosistema IA.",
+      "variables": [
+        {
+          "key": "ai_investment_usd_bn_cumulative",
+          "label": "Inversion IA acumulada (USD bn)",
+          "value": "0.759006546",
+          "reference": "2024.0"
+        },
+        {
+          "key": "ai_startups_cumulative",
+          "label": "Startups IA acumuladas",
+          "value": "50.0",
+          "reference": "2024.0"
+        },
+        {
+          "key": "ai_patents_per100k",
+          "label": "Patentes IA por 100k",
+          "value": "0.090586373",
+          "reference": "2023.0"
+        }
+      ]
+    },
+    {
+      "source": "Microsoft AI Diffusion Report",
+      "purpose": "Capturar adopcion efectiva de IA generativa.",
+      "variables": [
+        {
+          "key": "ai_adoption_rate",
+          "label": "Adopcion IA",
+          "value": "46.4",
+          "reference": "H2_2025"
+        }
+      ]
+    },
+    {
+      "source": "Oxford Insights",
+      "purpose": "Medir readiness gubernamental para IA.",
+      "variables": [
+        {
+          "key": "ai_readiness_score",
+          "label": "AI readiness score",
+          "value": "74.84",
+          "reference": "2025"
+        }
+      ]
+    },
+    {
+      "source": "WIPO Global Innovation Index",
+      "purpose": "Controlar capacidad general de innovacion y region.",
+      "variables": [
+        {
+          "key": "gii_score",
+          "label": "GII score",
+          "value": "49.2378087475471",
+          "reference": "2025.0"
+        },
+        {
+          "key": "region",
+          "label": "Region",
+          "value": "Europe",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "World Bank WDI",
+      "purpose": "Agregar controles socioeconomicos y de economia digital.",
+      "variables": [
+        {
+          "key": "gdp_per_capita_ppp",
+          "label": "PIB per capita PPP",
+          "value": "102037.526800237",
+          "reference": "2024.0"
+        },
+        {
+          "key": "internet_penetration",
+          "label": "Penetracion internet",
+          "value": "99.0",
+          "reference": "2023.0"
+        },
+        {
+          "key": "rd_expenditure",
+          "label": "Gasto I+D",
+          "value": "1.55752",
+          "reference": "2022.0"
+        },
+        {
+          "key": "tertiary_education",
+          "label": "Educacion terciaria",
+          "value": "95.0573806762695",
+          "reference": "2023.0"
+        },
+        {
+          "key": "ict_service_exports_pct",
+          "label": "Exportaciones ICT",
+          "value": "8.13394937577002",
+          "reference": "2024.0"
+        },
+        {
+          "key": "high_tech_exports_pct",
+          "label": "Exportaciones high-tech",
+          "value": "25.4139359384172",
+          "reference": "2024.0"
+        }
+      ]
+    },
+    {
+      "source": "World Bank WGI",
+      "purpose": "Controlar calidad institucional y gobernanza.",
+      "variables": [
+        {
+          "key": "regulatory_quality",
+          "label": "Regulatory quality",
+          "value": "1.59752345085144",
+          "reference": "2023.0"
+        },
+        {
+          "key": "rule_of_law",
+          "label": "Rule of law",
+          "value": "1.83398151397705",
+          "reference": "2023.0"
+        },
+        {
+          "key": "government_effectiveness",
+          "label": "Government effectiveness",
+          "value": "1.79993534088135",
+          "reference": "2023.0"
+        },
+        {
+          "key": "control_of_corruption",
+          "label": "Control of corruption",
+          "value": "2.11352157592773",
+          "reference": "2023.0"
+        }
+      ]
+    },
+    {
+      "source": "GDPR / proteccion de datos",
+      "purpose": "Capturar tradicion regulatoria digital preexistente.",
+      "variables": [
+        {
+          "key": "has_gdpr_like_law",
+          "label": "Tiene ley GDPR-like",
+          "value": "1",
+          "reference": ""
+        },
+        {
+          "key": "gdpr_similarity_level",
+          "label": "Nivel de similitud GDPR",
+          "value": "3",
+          "reference": ""
+        },
+        {
+          "key": "dp_law_year",
+          "label": "Ano ley DP",
+          "value": "2018",
+          "reference": ""
+        },
+        {
+          "key": "has_dpa",
+          "label": "Tiene DPA",
+          "value": "1",
+          "reference": ""
+        },
+        {
+          "key": "eu_status",
+          "label": "Status UE/adequacy",
+          "value": "eea_member",
+          "reference": ""
+        },
+        {
+          "key": "enforcement_active",
+          "label": "Enforcement activo DP",
+          "value": "1",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "Freedom House",
+      "purpose": "Controlar tipo de regimen politico y libertades.",
+      "variables": [
+        {
+          "key": "fh_total_score",
+          "label": "Freedom House total",
+          "value": "100",
+          "reference": "2025"
+        },
+        {
+          "key": "fh_status",
+          "label": "FH status",
+          "value": "F",
+          "reference": ""
+        },
+        {
+          "key": "fh_democracy_level",
+          "label": "Nivel democracia FH",
+          "value": "2",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "Legal Origin",
+      "purpose": "Capturar tradicion juridica como confounder institucional.",
+      "variables": [
+        {
+          "key": "legal_origin",
+          "label": "Legal origin",
+          "value": "Scandinavian",
+          "reference": ""
+        },
+        {
+          "key": "is_common_law",
+          "label": "Common law",
+          "value": "0",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "OECD robustez",
+      "purpose": "Variables adicionales de sensibilidad y robustez.",
+      "variables": [
+        {
+          "key": "ai_investment_vc_proxy",
+          "label": "VC proxy",
+          "value": "0.0508727007737246",
+          "reference": "2024.0"
+        },
+        {
+          "key": "ai_publications_frac",
+          "label": "Publicaciones IA",
+          "value": "606.7653729",
+          "reference": "2023.0"
+        }
+      ]
+    },
+    {
+      "source": "Corpus legal manual por pais",
+      "purpose": "Aportar evidencia documental, citas, inventario y hallazgos diferenciales del caso nacional.",
+      "variables": [
+        {
+          "key": "legal_corpus",
+          "label": "05_sources.md",
+          "value": "disponible",
+          "reference": ""
+        },
+        {
+          "key": "legal_corpus",
+          "label": "06_candidates.md",
+          "value": "disponible",
+          "reference": ""
+        },
+        {
+          "key": "legal_corpus",
+          "label": "07_findings.md",
+          "value": "disponible",
+          "reference": ""
+        }
+      ]
+    }
+  ],
+  "metrics": {
+    "region": "Europe",
+    "oecd_member": true,
+    "ai_readiness": 74.84,
+    "ai_adoption": 46.4,
+    "ai_investment": 0.759,
+    "gdp_per_capita": 102037.5268,
+    "internet_penetration": 99.0,
+    "regulatory_quality": 1.5975,
+    "rule_of_law": 1.834
+  },
+  "regulatory": {
+    "group": "strategy_only",
+    "has_ai_law": false,
+    "approach": "strategy_led",
+    "intensity": 4,
+    "thematic_coverage": 8,
+    "has_gdpr_like_law": true,
+    "gdpr_similarity_level": 3
+  }
+}

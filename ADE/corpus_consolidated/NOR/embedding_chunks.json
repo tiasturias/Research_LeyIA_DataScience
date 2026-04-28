@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "NOR: strategy_only, intensity 4/10, strategy_led, enforcement medium",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "NOR: AI readiness 74.84, adoption 46.4%, investment $0.759B, 50.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "NOR: regulatory quality 1.5975, rule of law 1.834, FH 100/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "NOR: National Strategy for Artificial Intelligence (Nasjonal strategi for kunstig intelligens) (policy_strategy) - Ministry of Local Government and Modernisation (KMD), 2020-01-01, 67pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "NOR: The Digital Norway of the Future — National Digitalisation Strategy 2024–2030 (policy_strategy) - Ministry of Digitalisation and Public Governance (Digitaliseringsdepartementet), 2024-09-26, 108pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "NOR: Høring – utkast til ny lov om kunstig intelligens – gjennomføring av EUs forordning om kunstig intelligens i norsk rett (Consultation – Draft law on artificial intelligence implementing the EU AI Regulation into Norwegian law) (bill_pending) - Digitaliserings- og forvaltningsdepartementet (DFD), 2025-06-30, 63pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "NOR: Strategi for Datatilsynets arbeid med kunstig intelligens (Strategy for Datatilsynet's Work with Artificial Intelligence) (soft_framework) - Datatilsynet (Norwegian Data Protection Authority), 2024-03-22, 12pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# NOR — Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Noruega es el único país del corpus en situación de \"EEA pending implementation\": no es miembro de la UE sino del EEA, por lo que el EU AI Act no es directamente aplicable y requiere incorporación vía Decisión del Comité EEA + ley nacional de implementación — un proceso en curso con høringsnotat (borrador) publicado en junio 2025 y vigencia prevista para agosto 2026, lo que la convierte en el caso de transición más avanzada hacia binding regulation fuera del bloque UE, distinguible por su AI Regulatory Sandbox operativo desde 2020 (el primero de los países nórdicos) y por el retraso estructural inherente al mecanismo EEA.**\n\n---\n\n## 2. Evidencia cuantitativa — densidad del corpus\n\n| Métrica | Valor | Cálculo |\n|---|---|---|\n| # documentos totales | 4 | count(manifest.csv) |\n| # binding (law + sectoral) | 0 | Sin ley IA vinculante vigente |\n| # soft/policy/strategy | 4 | 2 estrategias + bill_pending + DPA strategy |\n| Páginas totales corpus | 250 | sum(pages) |\n| Páginas binding / soft | 0 / 250 | N/A |\n| Primer documento (fecha) | 2020 | National AI Strategy |\n| Último documento (fecha) | 2025-06 | Høringsnotat KI-lov |\n| Años cubiertos | 5.5 | (2025-06 - 2020) |\n| Gap con fecha corpus | ~10 meses | 2026-04-21 - 2025-06 |\n| # docs superseded | 0 | Ningún documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa — timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2020 | AI Regulatory Sandbox | Datatilsynet lanza primer sandbox IA de los países nórdicos |\n| 2020-01 | National AI Strategy | Estrategia IA nacional noruega. 5 áreas: datos, competencias, I+D, sector público, ética/legal. 67pp EN. |\n| 2024-03-22 | Datatilsynet AI Strategy | Estrategia del DPA noruego sobre IA. 3 focos: personas, sociedad, empresas. 12pp NO. |\n| 2024-09-26 | Digital Norway 2024-2030 | Estrategia de digitalización nacional con capítulo IA. Meta: país más digitalizado del mundo. 108pp EN. |\n| 2025-06-30 | Høringsnotat KI-lov | Borrador de ley IA para implementar EU AI Act. Consulta pública 30-06-2025 a 30-09-2025. Propone Nkom como MSA. Vigencia prevista: agosto 2026. 63pp NO. |\n| 2025-09-30 | Consulta cerrada | Høringsnotat consulta cerrada. Stortingsproposisjon pendiente. |\n| 2026 (previsto) | KI-lov en vigor | Vigencia prevista summer 2026 vía incorporación EEA |\n\n**Duración:** 5.5 años de evolución regulatoria.\n**Emisor principal:** Ministry of Local Government and Modernisation / Digitaliseringsdepartementet / Datatilsynet.\n**Diferencial:** País EEA (no UE) con proceso de incorporación en tramite.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **Høringsnotat KI-lov 2025** — Borrador de ley IA para implementar EU AI Act en derecho noruego. Citado: \"Formålet med høringsnotatet er å informere om innholdet i EUs forordning om kunstig intelligens og foreslå en norsk lov om kunstig intelligens som gjennomfører forordningen i norsk rett.\"\n\n- **AI Regulatory Sandbox desde 2020** — Datatilsynet o",
+    "relevance": 0.99
+  }
+]

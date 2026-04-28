@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Artificial Intelligence: Australia's Ethics Framework",
+    "type": "soft_framework",
+    "date": "2019-11-07",
+    "pages": "78"
+  },
+  {
+    "title": "Australia's Artificial Intelligence Action Plan",
+    "type": "policy_strategy",
+    "date": "2021-06-18",
+    "pages": "30"
+  },
+  {
+    "title": "Safe and Responsible AI in Australia: Proposals Paper for Introducing Mandatory Guardrails for AI in High-Risk Settings",
+    "type": "soft_framework",
+    "date": "2024-09-05",
+    "pages": "69"
+  },
+  {
+    "title": "Privacy and Other Legislation Amendment Act 2024 (No. 128 of 2024)",
+    "type": "binding_law",
+    "date": "2024-12-10",
+    "pages": "87"
+  },
+  {
+    "title": "Voluntary AI Safety Standard",
+    "type": "soft_framework",
+    "date": "2024-09-05",
+    "pages": "Standard voluntario con 10 guardrails para todas las organizaciones en la cadena de suministro IA. Publicado simult\u00e1neamente con Proposals Paper. 69pp EN. URL oficial verificada en m\u00faltiples fuentes."
+  },
+  {
+    "title": "National Framework for the Assurance of Artificial Intelligence in Government",
+    "type": "soft_framework",
+    "date": "2024-06-21",
+    "pages": "Framework nacional para aseguramiento de uso IA en gobierno. Acordado por Data and Digital Ministers Meeting 21-jun-2024. Cinco 'assurance cornerstones' + mapeados a 8 AI Ethics Principles. URL oficial verificada."
+  },
+  {
+    "title": "National AI Plan 2025",
+    "type": "policy_strategy",
+    "date": "2025-12-02",
+    "pages": "37"
+  }
+]

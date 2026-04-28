@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "iso3": "GHA",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "GHA_DataProtectionAct_2012_Act843.pdf",
+      "document_title": "Data Protection Act, 2012 (Act 843)",
+      "doc_type": "binding_law_sectoral",
+      "issuer": "Parliament of the Republic of Ghana",
+      "publication_date": "2012",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://nita.gov.gh/wp-content/uploads/2017/12/Data-Protection-Act-2012-Act-843.pdf",
+      "pages": ""
+    },
+    {
+      "filename": "GHA_CybersecurityAct_2020_Act1038.pdf",
+      "document_title": "Cybersecurity Act, 2020 (Act 1038)",
+      "doc_type": "binding_law_sectoral",
+      "issuer": "Parliament of the Republic of Ghana",
+      "publication_date": "2020-12-29",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://www.csa.gov.gh/resources/cybersecurity_Act_2020(Act_1038).pdf",
+      "pages": ""
+    },
+    {
+      "filename": "GHA_NAIS_2023-2033.pdf",
+      "document_title": "Republic of Ghana National Artificial Intelligence Strategy: 2023-2033",
+      "doc_type": "strategy",
+      "issuer": "Ministry of Communications and Digitalisation (MoCD), Republic of Ghana (co-developed with Smart Africa, GIZ FAIR Forward, The Future Society)",
+      "publication_date": "2022-10",
+      "status": "in_use_launched_2026-04-24",
+      "language": "en",
+      "source_url": "https://moc.gov.gh/",
+      "pages": ""
+    },
+    {
+      "filename": "GHA_DEPS_2024.pdf",
+      "document_title": "Ghana Digital Economy Policy and Strategy",
+      "doc_type": "policy_strategy",
+      "issuer": "Ministry of Communications and Digitalisation (MoCD), Republic of Ghana",
+      "publication_date": "2024-05",
+      "status": "approved_cabinet_2024-05-14",
+      "language": "en",
+      "source_url": "https://moc.gov.gh/wp-content/uploads/2023/03/Ghana-Digital-Economy-Policy-Strategy.pdf",
+      "pages": ""
+    }
+  ],
+  "findings_text": "# GHA \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Ghana transita de `strategy_only` a `soft_framework` con base legal sectorial vinculante m\u00e1s s\u00f3lida del cluster Sur Global: Data Protection Act 2012 (Act 843) + Cybersecurity Act 2020 (Act 1038) ambas en vigor con autoridades activas (DPC, CSA), NAIS 2023-2033 formalmente lanzada por Presidente Mahama (24-abr-2026), Responsible AI Office propuesta, y pathway declarado a Emerging Technologies Bill. Ghana se diferencia de BGD en que tiene base legal preexistente m\u00e1s robusta; BGD tiene instrumento IA m\u00e1s denso normativamente.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 5 | count(manifest.csv) |\n| # binding (ley sectorial) | 2 | DPA 2012, Cybersecurity Act 2020 |\n| # strategy/policy | 2 | NAIS 2023-2033, DEPS 2024 |\n| P\u00e1ginas totales corpus | ~80+ | DPA (36pp) + CSA (45pp) + NAIS + DEPS |\n| Binding / Soft ratio | 2:2 | 1:1 |\n| Primer documento (fecha) | 2012 | DPA |\n| \u00daltimo documento (fecha) | 2026-04 | NAIS lanzamiento |\n| A\u00f1os cubiertos | 14 | (2026-04 - 2012) |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2012 | DPA (Act 843) | Data Protection Act. Establece DPC. |\n| 2020-12-29 | Cybersecurity Act (Act 1038) | Establece CSA. |\n| 2022-10 | NAIS redacci\u00f3n | Estrategia IA redactada. |\n| 2024-05-14 | DEPS Cabinet approval | Pol\u00edtica econom\u00eda digital aprobada. |\n| 2026-04-24 | NAIS lanzamiento | Formalmente lanzada por Presidente Mahama. |\n\n**Duraci\u00f3n:** 14 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** Parliament of Ghana, MoCD, DPC, CSA.\n**Diferencial:** Base legal sectorial preexistente (no IA-dedicada pero aplicable).\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **Data Protection Act 2012 (Act 843)** \u2014 Establece DPC con poderes sobre procesamiento automatizado. Aplicable a training data y decisiones automatizadas.\n\n- **Cybersecurity Act 2020 (Act 1038)** \u2014 Establece CSA con poderes sobre infraestructura cr\u00edtica. Aplicable a sistemas IA cr\u00edticos.\n\n- **Autoridades activas** \u2014 DPC y CSA establecidas por ley, con poderes sancionatorios reales.\n\n- **NAIS 2023-2033 formalmente lanzada** \u2014 Por Presidente Mahama, 24-abr-2026.\n\n- **Responsible AI Office propuesta** \u2014 Dentro del primer a\u00f1o de implementaci\u00f3n, coordinada con DPC y CSA.\n\n- **Pathway legislativo** \u2014 Emerging Technologies Bill anunciado.\n\n- **8 pilares NAIS** \u2014 Gobernanza/\u00e9tica, talento, infraestructura, R&D, sectores, ecosistema, cooperaci\u00f3n internacional, M&E.\n\n- **DEPS aprobaci\u00f3n Cabinet** \u2014 Pol\u00edtica econ\u00f3mica con componente IA, 14-may-2024.\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **Sin ley IA espec\u00edfica** \u2014 No hay AI Act o ley dedicada a IA.\n\n- **Emerging Technologies Bill no presentado** \u2014 A\u00fan no hay PDF, no est\u00e1 en Parlamento.\n\n- **RAI Office solo propuesta** \u2014 No establecida formalmente.\n\n- **NAIS no es vinculante** \u2014 Estrategia, no ley.\n\n- **Base legal sectorial no es IA-dedicada** \u2014 DPA y CSA regulan datos y ciberseguridad, no IA per se.\n\n- **BGD tiene instrumento m\u00e1s denso** \u2014 NAIP V2.0 con AIAs mandatorios, strict liability.\n\n---\n\n## 6. Comparaci\u00f3n vs peer group\n\n| Pa\u00eds | R\u00e9gimen | # docs | Tesis diferencial |\n|---|---|---|---|\n| **GHA** | **soft_framework** | **5** | **Base legal sectorial m\u00e1s s\u00f3lida del cluster (DPA+CSA activas) + NAIS lanzada por Presidente** |\n| BGD | soft_framework | 5 | Marco risk-based m\u00e1s denso normativamente |\n| MNG | soft_framework | 4 | AILA co-firmado + 2 leyes sectoriales |\n| SGP | soft_framework | 7 | M\u00e1ximo densidad global, decisi\u00f3n deliberada NO ley |\n\n**An\u00e1lisis:** GHA se diferencia por:\n- Base legal sectorial preexistente m\u00e1s antigua (2012, 2020)\n- Autoridades regulatorias activas (DPC, CSA)\n- NAIS formalmente lanzada por Jefe de Estado\n- Pathway legislativo declarado\n\n**Contraste:** GHA \u2260 BGD (GHA tienebase legal; BGD tiene policy m\u00e1s densa).\n\n---\n\n## 7. Implicancias para el estudio\n\n| Variable X1 | Efecto potencial |\n|---|---|\n| `has_ai_law` | 0 (sin ley IA espec\u00edfica) |\n| `regulatory_intensity` | 4/10 (+2 desde IAPP 2) |\n| `thematic_coverage` | 9/15 (+6 desde IAPP 3) |\n| `enforcement_level` | `low` (sectorial, no IA-dedicado) |\n| `regulatory_regime_group` | `soft_framework` (TRANSICI\u00d3N) |\n\n**Hip\u00f3tesis testeable:**\n- \u00bfLa base legal sectorial preexistente facilita la implementaci\u00f3n de estrategias IA posteriores?\n- \u00bfGHA vs BGD permite aislar el efecto de base legal vs. policy densa?\n\n**Caso narrativo \u00fatil para:**\n- \u00a7Discusi\u00f3n como \"soft_framework v\u00eda base legal sectorial\"\n- Comparaci\u00f3n con BGD (cluster Sur Global)\n- Lecciones sobre transiciones regulatorias\n\n---\n\n## 8. Banderas de re-visita\n\n| Evento | Horizonte | Trigger observable |\n|---|---|---|\n| Emerging Technologies Bill | 6-12m | Presentaci\u00f3n a Parlamento |\n| RAI Office establecida | 12m | Decreto ministerial |\n| UNESCO RAM Ghana PDF | 3m | Publicaci\u00f3n UNDP/UNESCO |\n\n---\n\n## Links\n\n- [CANDIDATES.md](CANDIDATES.md)\n- [SOURCES.md](SOURCES.md)\n- [manifest.csv](manifest.csv)"
+}

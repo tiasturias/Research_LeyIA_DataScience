@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "iso3": "TWN",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "TWN_AIBasicAct_FullText_EN_2026.pdf",
+      "document_title": "Artificial Intelligence Basic Act (Taiwan, 2026)",
+      "doc_type": "binding_law_ai",
+      "issuer": "Legislative Yuan / Office of the President, R.O.C. (Taiwan)",
+      "publication_date": "2026-01-14",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=H0160093",
+      "pages": "3"
+    },
+    {
+      "filename": "TWN_AIBasicAct_FullText_ZH_2026.pdf",
+      "document_title": "\u4eba\u5de5\u667a\u6167\u57fa\u672c\u6cd5 (Artificial Intelligence Basic Act, ZH)",
+      "doc_type": "binding_law_ai",
+      "issuer": "Legislative Yuan / Office of the President, R.O.C. (Taiwan)",
+      "publication_date": "2026-01-14",
+      "status": "in_force",
+      "language": "zh",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160093",
+      "pages": "3"
+    },
+    {
+      "filename": "TWN_PDPA_2023.pdf",
+      "document_title": "Personal Data Protection Act (Taiwan)",
+      "doc_type": "binding_law_sectoral",
+      "issuer": "Legislative Yuan, R.O.C. (Taiwan)",
+      "publication_date": "2025-11-11",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=I0050021",
+      "pages": "8"
+    },
+    {
+      "filename": "TWN_CyberSecurityMgmtAct_2018.pdf",
+      "document_title": "Cyber Security Management Act (Taiwan)",
+      "doc_type": "binding_law_sectoral",
+      "issuer": "Legislative Yuan, R.O.C. (Taiwan)",
+      "publication_date": "2018-06-06",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=A0030297",
+      "pages": "7"
+    },
+    {
+      "filename": "TWN_AIActionPlan2.0_2023.pdf",
+      "document_title": "AI Taiwan Action Plan 2.0 (2023-2026)",
+      "doc_type": "policy_strategy",
+      "issuer": "Executive Yuan / National Development Council (NDC)",
+      "publication_date": "2023-04",
+      "status": "in_use",
+      "language": "zh",
+      "source_url": "https://digi.nstc.gov.tw/File/7C71629D702E2D89",
+      "pages": ""
+    },
+    {
+      "filename": "TWN_GenAIGuidelines_ExecYuan_2023.pdf",
+      "document_title": "Reference Guidelines for the Use of Generative AI by the Executive Yuan and Subordinate Agencies (Draft, approved by 3869th session)",
+      "doc_type": "guidelines",
+      "issuer": "National Science and Technology Council (NSTC) / Executive Yuan",
+      "publication_date": "2023-08-31",
+      "status": "in_force",
+      "language": "zh",
+      "source_url": "https://www.ey.gov.tw/File/272BBE7DBB8F21FD",
+      "pages": "5"
+    },
+    {
+      "filename": "TWN_CriticalInfraAIGuidelines_2025.pdf",
+      "document_title": "Reference Guidelines for AI Applications in National Critical Infrastructure (\u570b\u5bb6\u95dc\u9375\u57fa\u790e\u8a2d\u65bd\u61c9\u7528\u4eba\u5de5\u667a\u6167\u53c3\u8003\u6307\u5f15)",
+      "doc_type": "guidelines",
+      "issuer": "Office of Homeland Security / Executive Yuan",
+      "publication_date": "2025-10-08",
+      "status": "in_force",
+      "language": "zh",
+      "source_url": "https://ohs.ey.gov.tw/File/C5E29BFB9E72EAB9",
+      "pages": "4"
+    }
+  ],
+  "findings_text": "# TWN \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Taiw\u00e1n promulg\u00f3 el AI Basic Act (\u4eba\u5de5\u667a\u6167\u57fa\u672c\u6cd5) el 14 de enero de 2026, transicionando de `soft_framework` a `binding_regulation` \u2014 primer caso del corpus piloto con ley IA horizontal vigente. Este caso constituye el contrafactual natural de Singapur: ambos pa\u00edses con ecosistemas IA densos (tier equivalente en cobertura), pero decisiones regulatorias opuestas: SGP rechaza ley horizontal por pol\u00edtica expl\u00edcita; TWN la promulga. La arquitectura taiwanesa es delegada: NSTC como autoridad competente + MODA implementa risk taxonomy (Art. 16) + enforcement sectorial v\u00eda PDPA/CSMA.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 7 | count(manifest.csv) |\n| # binding (ley IA + ley sectorial) | 3 | AI Basic Act + PDPA + CSMA |\n| # guidelines | 2 | GenAI Guidelines Exec Yuan + Critical Infra AI Guidelines |\n| # strategy | 1 | AI Taiwan Action Plan 2.0 |\n| P\u00e1ginas totales corpus | ~30 | sum(pages) \u2014 docs cortos |\n| Binding / Soft ratio | 3:2 | 1.5:1 |\n| Primer documento (fecha) | 2018 | CSMA |\n| \u00daltimo documento (fecha) | 2026-01-14 | AI Basic Act |\n| A\u00f1os cubiertos | 8 | (2026-01 - 2018-06) |\n| Gap con fecha corpus | ~3 meses | 2026-04-16 - 2026-01-14 |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2018-06-06 | CSMA 2018 | Cyber Security Management Act. Establece ACS (ahora parte MODA). |\n| 2023-04 | AI Taiwan Action Plan 2.0 | Estrategia nacional IA. 5 pilares, NT$250B meta industria. |\n| 2023-08-31 | GenAI Guidelines Exec Yuan | Guidelines sector p\u00fablico. Proh\u00edbe GenAI con datos clasificados. |\n| 2025-10-08 | Critical Infra AI Guidelines | Guidelines para operadores CII usando IA. |\n| 2025-11-11 | PDPA \u00faltima enmienda | Personal Data Protection Act. Crea PDPC. |\n| 2025-12-23 | AI Basic Act aprobaci\u00f3n | Legislative Yuan approves 3rd reading. |\n| 2026-01-14 | AI Basic Act promulgaci\u00f3n | Presidente Lai promulga. 20 art\u00edculos, entra en vigor. |\n\n**Duraci\u00f3n:** 8 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** Legislative Yuan, Executive Yuan, NSTC, MODA.\n**Diferencial:** Transici\u00f3n soft_framework \u2192 binding_regulation por ley IA vigente.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **AI Basic Act promulgado** \u2014 20 art\u00edculos, en vigor desde 2026-01-14. Primera ley IA horizontal de Taiw\u00e1n.\n\n- **7 principios expl\u00edcitos Art. 4** \u2014 Sustainable Development, Human Autonomy, Privacy, Cybersecurity, Transparency, Fairness, Accountability.\n\n- **Red lines Art. 5** \u2014 Prohibiciones absolutas: vida, cuerpo, libertad, propiedad, orden social, seguridad nacional, sesgo, discriminaci\u00f3n, desinformaci\u00f3n.\n\n- **National AI Strategic Committee Art. 6** \u2014 Convocado por Premier del Executive Yuan. Coordina affairs IA a nivel national.\n\n- **Risk taxonomy mandate Art. 16** \u2014 MODA debe promover \"AI risk taxonomy and assessment framework interoperable with international frameworks\". Enfoque risk-based expl\u00edcito.\n\n- **Arquitectura institucional compleja** \u2014 NSTC (competent authority) + MODA (implementaci\u00f3n risk taxonomy) + PDPC (datos) + ACS/MODA (ciberseguridad).\n\n- **2 leyes sectoriales** \u2014 PDPA 2025 (datos personales), CSMA 2018 (CII), ambas con autoridades activas.\n\n- **Contrafactual SGP** \u2014 Mismos mimbros starting point, decisiones regulatorias opuestas.\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **AI Basic Act es ley marco** \u2014 Sin sanciones horizontales propias. Delega enforcement en autoridades sectoriales existentes. Enforcement real v\u00eda PDPA/CSMA, no v\u00eda ley IA.\n\n- **Solo 3 meses en vigor** \u2014 AI Basic Act vigente desde 2026-01-14 (3 meses al 2026-04-16). Sin track record enforcement.\n\n- **Traducciones no oficiales** \u2014 EN es traducci\u00f3n no oficial en law.moj.gov.tw. Texto autoritativo es chino tradicional.\n\n- **No hay AI Office dedicado** \u2014 A diferencia de IRL (AI Bill creando AI Office) o ESP (AESIA), Taiw\u00e1n\u6c92\u6709 establece agencia IA dedicada.\n\n- **SGP sigue siendo caso comparativo v\u00e1lido** \u2014 Ambos ecosystems densos, pero SGP tiene mayor coverage (13 vs 12) y m\u00e1s iterations de frameworks.\n\n---\n\n## 6. Comparaci\u00f3n vs peer group\n\n| Pa\u00eds | R\u00e9gimen | # docs | Tesis diferencial |\n|---|---|---|---|\n| **TWN** | **binding_regulation** | **7** | **Transici\u00f3n soft\u2192binding por ley IA vigente (AI Basic Act 2026), contrafactual natural de SGP** |\n| SGP | soft_framework | 7 | Decisi\u00f3n deliberada NO ley IA horizontal |\n| ARE | soft_framework | 5 | Pathway hacia binding declarado |\n| ISR | soft_framework | 4 | Rechazo expl\u00edcito ley horizontal + obligations concretas |\n\n**An\u00e1lisis:** TWN es \u00fanico por:\n- Ley IA horizontal vigente (2026-01-14)\n- Arquitectura institucional delegada (NSTC+MODA sectorial)\n- Contrafactual directo con SGP (mismo tier, decisiones opuestas)\n- Enforcement medio (delegado en autoridades sectoriales)\n\n**Contraste:** TWN \u2260 ARE (no pathway to binding \u2014 ya binding). TWN \u2248 SGP en densidad, diverge en resultado.\n\n---\n\n## 7. Implicancias para el estudio\n\n| Variable X1 | Efecto potencial |\n|---|---|\n| `has_ai_law` | 1 (AI Basic Act vigente 2026-01-14) |\n| `ai_year_enacted` | 2026 |\n| `regulatory_intensity` | 7/10 (+2 desde IAPP 5) |\n| `thematic_coverage` | 12/15 (+3 desde IAPP 9) |\n| `enforcement_level` | `medium` (delegado) |\n| `regulatory_regime_group` | `binding_regulation` (TRANSICI\u00d3N) |\n\n**Hip\u00f3tesis testeable:**\n- \u00bfLa arquitectura delegada (TWN) produce outcomes de enforcement comparables a la arquitectura centralizada (IRL, ESP)?\n- \u00bfEl caso TWN vs SGP permite aislar el efecto de la decisi\u00f3n regulatoria (ley vs. no-ley) controlando por densidad de ecosistema?\n\n**Caso narrativo \u00fatil para:**\n- \u00a7Discusi\u00f3n como \"contrafactual natural de SGP\"\n- Comparaci\u00f3n con UE (AI Act) y Asia-Pac\u00edfico (KOR, JPN)\n- Lecciones sobre arquitecturas institucionales\n\n---\n\n## 8. Banderas de re-visita\n\n| Evento | Horizonte | Trigger observable |\n|---|---|---|\n| National AI Development Guidelines | 6m | Publicaci\u00f3n NSTC (Art. 6) |\n| AI Risk Taxonomy Framework | 6m | Publicaci\u00f3n MODA (Art. 16) |\n| Primeros enforcement cases IA | 12m | Decisions PDPC/ACS/MODA |\n| AI Basic Act amendment | 24m | Legislative Yuan |\n\n---\n\n## Links\n\n- [CANDIDATES.md](CANDIDATES.md)\n- [SOURCES.md](SOURCES.md)\n- [manifest.csv](manifest.csv)"
+}

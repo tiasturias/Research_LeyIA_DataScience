@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Federal Decree-Law No. (45) of 2021 concerning the Protection of Personal Data (PDPL)",
+    "type": "binding_law_sectoral",
+    "issuer": "Office of the President / UAE Cabinet",
+    "date": "2021-09-20",
+    "status": "in_force",
+    "pages": "29",
+    "url": "https://uaelegislation.gov.ae/en/legislations/1972/download"
+  },
+  {
+    "title": "Federal Decree-Law No. (34) of 2021 on Countering Rumors and Cybercrimes",
+    "type": "binding_law_sectoral",
+    "issuer": "Office of the President / UAE Cabinet",
+    "date": "2021-09-20",
+    "status": "in_force",
+    "pages": "36",
+    "url": "https://uaelegislation.gov.ae/en/legislations/1526/download"
+  },
+  {
+    "title": "UAE National Strategy for Artificial Intelligence 2031",
+    "type": "policy_strategy",
+    "issuer": "UAE Council for Artificial Intelligence / Minister of State for AI",
+    "date": "2018-04",
+    "status": "in_use",
+    "pages": "25",
+    "url": "https://ai.gov.ae/wp-content/uploads/2021/07/UAE-National-Strategy-for-Artificial-Intelligence-2031.pdf"
+  },
+  {
+    "title": "UAE Charter for the Development and Use of Artificial Intelligence",
+    "type": "guidelines",
+    "issuer": "Artificial Intelligence Office / Minister of State for AI",
+    "date": "2024-07",
+    "status": "in_force",
+    "pages": "6",
+    "url": "https://ai.gov.ae/wp-content/uploads/2024/07/UAEAI-Methaq-EN2-3.pdf"
+  },
+  {
+    "title": "DIFC Data Protection Law No. 5 of 2020 (consolidated July 2025, incl. Regulation 10 on AI)",
+    "type": "binding_law_sectoral",
+    "issuer": "Dubai International Financial Centre Authority",
+    "date": "2020-05-21",
+    "status": "in_force",
+    "pages": "54",
+    "url": "https://assets.difc.com/v1/media/edge/images/dubaiintern0078-difcexperie96c5-production-3253/media/project/difcexperiences/difc/difcwebsite/documents/laws--regulations/data-protection-law.pdf"
+  },
+  {
+    "title": "Smart Dubai AI Ethics Principles and Guidelines",
+    "type": "guidelines",
+    "issuer": "Digital Dubai (ex-Smart Dubai Office)",
+    "date": "2019-01",
+    "status": "in_use",
+    "pages": "35",
+    "url": "https://www.digitaldubai.ae/docs/default-source/ai-principles-resources/ai-ethics.pdf"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+    "type": "binding_law_ai",
+    "date": "2024-07-12",
+    "pages": "144"
+  },
+  {
+    "title": "Regierungsentwurf: Gesetz zur Durchf\u00fchrung der Verordnung (EU) 2024/1689 \u00fcber k\u00fcnstliche Intelligenz (KI-Markt\u00fcberwachungs- und Innovationsf\u00f6rderungsgesetz \u2014 KI-MIG)",
+    "type": "bill_pending",
+    "date": "2026-02-11",
+    "pages": "76"
+  },
+  {
+    "title": "Strategie K\u00fcnstliche Intelligenz der Bundesregierung \u2014 Fortschreibung 2020 (German Federal Government AI Strategy \u2014 2020 Update)",
+    "type": "policy_strategy",
+    "date": "2020-12-01",
+    "pages": "35"
+  },
+  {
+    "title": "Artificial Intelligence Strategy of the German Federal Government \u2014 2020 Update",
+    "type": "policy_strategy",
+    "date": "2020-12-01",
+    "pages": "31"
+  },
+  {
+    "title": "BMBF-Aktionsplan K\u00fcnstliche Intelligenz 2023 (BMBF AI Action Plan 2023)",
+    "type": "policy_strategy",
+    "date": "2023-11-07",
+    "pages": "36"
+  },
+  {
+    "title": "Wegweiser f\u00fcr den digitalen Alltag: K\u00fcnstliche Intelligenz sicher nutzen (Safe Use of Artificial Intelligence)",
+    "type": "soft_framework",
+    "date": "2024-01-23",
+    "pages": "26"
+  },
+  {
+    "title": "Handreichung KI in Beh\u00f6rden \u2013 Datenschutz von Anfang an mitdenken (AI in Public Authorities \u2014 Integrating Data Protection from the Start)",
+    "type": "soft_framework",
+    "date": "2025-01-01",
+    "pages": "46"
+  },
+  {
+    "title": "Kriterienkatalog des BSI zur Integration von extern bereitgestellten generativen KI-Modellen in eigene Anwendungen (BSI Criteria Catalogue for Integrating Externally Provided Generative AI Models into Federal Applications)",
+    "type": "soft_framework",
+    "date": "2025-06-24",
+    "pages": "16"
+  }
+]

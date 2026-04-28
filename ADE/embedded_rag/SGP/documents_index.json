@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Personal Data Protection Act 2012 (consolidated, incl. 2020 Amendment Act 40/2020)",
+    "type": "binding_law_sectoral",
+    "issuer": "Parliament of the Republic of Singapore",
+    "date": "2012-10-15",
+    "status": "in_force",
+    "pages": "",
+    "url": "https://sso.agc.gov.sg/Act/PDPA2012?ViewType=Pdf"
+  },
+  {
+    "title": "Cybersecurity Act 2018 (No. 9 of 2018, consolidated)",
+    "type": "binding_law_sectoral",
+    "issuer": "Parliament of the Republic of Singapore",
+    "date": "2018-03-12",
+    "status": "in_force",
+    "pages": "",
+    "url": "https://sso.agc.gov.sg/Act/CA2018?ViewType=Pdf"
+  },
+  {
+    "title": "Principles to Promote Fairness, Ethics, Accountability and Transparency (FEAT) in the Use of AI and Data Analytics in Singapore's Financial Sector",
+    "type": "soft_framework_sectoral",
+    "issuer": "Monetary Authority of Singapore (MAS)",
+    "date": "2018-11-12",
+    "status": "in_use",
+    "pages": "15",
+    "url": "https://www.mas.gov.sg/-/media/MAS/News%20and%20Publications/Monographs%20and%20Information%20Papers/FEAT%20Principles%20Final.pdf"
+  },
+  {
+    "title": "Model Artificial Intelligence Governance Framework (Second Edition)",
+    "type": "soft_framework",
+    "issuer": "Personal Data Protection Commission (PDPC) + Infocomm Media Development Authority (IMDA)",
+    "date": "2020-01-21",
+    "status": "in_use",
+    "pages": "",
+    "url": "https://www.imda.gov.sg/-/media/imda/files/infocomm-media-landscape/sg-digital/tech-pillars/artificial-intelligence/second-edition-of-the-model-ai-governance-framework.pdf"
+  },
+  {
+    "title": "National AI Strategy 2.0: AI for the Public Good, for Singapore and the World",
+    "type": "strategy",
+    "issuer": "Smart Nation and Digital Government Office (SNDGO) + Smart Nation Group, Government of Singapore",
+    "date": "2023-12-04",
+    "status": "in_force",
+    "pages": "",
+    "url": "https://file.go.gov.sg/nais2023.pdf"
+  },
+  {
+    "title": "Model AI Governance Framework for Generative AI",
+    "type": "soft_framework",
+    "issuer": "Infocomm Media Development Authority (IMDA) + AI Verify Foundation",
+    "date": "2024-05-30",
+    "status": "in_use",
+    "pages": "",
+    "url": "https://aiverifyfoundation.sg/wp-content/uploads/2024/05/Model-AI-Governance-Framework-for-Generative-AI-May-2024-1-1.pdf"
+  },
+  {
+    "title": "Model AI Governance Framework for Agentic AI",
+    "type": "soft_framework",
+    "issuer": "Infocomm Media Development Authority (IMDA)",
+    "date": "2026-01-22",
+    "status": "in_use",
+    "pages": "29",
+    "url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf"
+  }
+]

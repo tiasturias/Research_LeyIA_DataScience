@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "AUT: binding_regulation, intensity 10/10, comprehensive, enforcement high",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "AUT: AI readiness 69.72, adoption 31.4%, investment $2.2216B, 51.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "AUT: regulatory quality 1.3614, rule of law 1.7466, FH 93/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "AUT: Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) (binding_law_ai) - European Parliament and Council of the EU, 2024-07-12, 144pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "AUT: Strategie der Bundesregierung für Künstliche Intelligenz — Artificial Intelligence Mission Austria 2030 (AIM AT 2030) (policy_strategy) - Bundesregierung Österreich (Federal Chancellery + BMK), 2021, 76pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "AUT: Strategie der Bundesregierung für Künstliche Intelligenz — Umsetzungsplan 2024 (AIM AT 2030 Implementation Plan) (policy_strategy) - Bundesregierung Österreich / Digital Austria, 2024-11, 109pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "AUT: Informationen der Datenschutzbehörde zum Verhältnis zwischen der DSGVO und der KI-VO für Verantwortliche des öffentlichen Bereichs (guidelines) - Datenschutzbehörde (DSB), 2024, 3pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# AUT — Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Austria presenta el caso de \"high ambition, delayed execution\" en el bucket binding_regulation: posee la estrategia IA nacional más madura de la UE-27 (AIM AT 2030 con 82% de sus 91 medidas implementadas a 2026) y un Umsetzungsplan 2024 con 47 medidas activas de 12 ministerios, pero incumplió el plazo obligatorio del 2 de agosto de 2025 para la designación formal de autoridades competentes bajo el AI Act — un gap de implementación que la distingue de sus pares NLD y ESP (que sí cumplieron) y la alinea con BEL (mismo incumplimiento).**\n\n---\n\n## 2. Evidencia cuantitativa — densidad del corpus\n\n| Métrica | Valor | Cálculo |\n|---|---|---|\n| # documentos totales | 4 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | EU AI Act |\n| # soft/policy/strategy | 3 | AIM AT 2030 + Umsetzungsplan + DSB guidelines |\n| Páginas totales corpus | 332 | sum(pages) |\n| Páginas binding / soft | 144 / 188 | 0.77:1 |\n| Primer documento (fecha) | 2021 | AIM AT 2030 |\n| Último documento (fecha) | 2024-11 | Umsetzungsplan 2024 |\n| Años cubiertos | ~3.5 | (2024-11 - 2021) |\n| Gap con fecha corpus | ~17 meses | 2026-04-21 - 2024-11 |\n| # docs superseded | 0 | Ningún documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa — timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2021 | AIM AT 2030 | Estrategia IA nacional federal. 91 medidas en 7 áreas. Coordinación Federal Chancellery + BMK. |\n| 2024-07-12 | EU AI Act entry into force | Regulation (EU) 2024/1689 entra en vigor. Aplicación directa en Austria. |\n| 2024 | DSB guidance DSGVO/KI-VO | Datenschutzbehörde publica guía sobre paralelismo RGPD + AI Act para sector público. |\n| 2024-11 | Umsetzungsplan 2024 | Plan de implementación actualizado. 47 medidas de 12 ministerios federales. |\n| 2025-02 | AI Act deadline | Fecha límite para designación de autoridades competentes (Art. 70). |\n| 2025-08-02 | Plazo incumplido | Austria NO completó designación formal de autoridades AI Act. |\n| 2026-04 | Estado del corpus | AIM AT 2030: 82% medidas implementadas o en implementación. |\n\n**Duración:** ~3.5 años de evolución regulatoria.\n**Emisor principal:** Federal Chancellery / BMK / Digital Austria / DSB.\n**RTR GmbH:** Designado como AI Service Office (punto de contacto), sin competencias formales de vigilancia.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **AIM AT 2030 con 82% implementación** — 82% de las 91 medidas implementadas o en implementación a 2026. Tasa de ejecución más alta entre los países del corpus analizados. Documentado en SOURCES.md.\n\n- **91 medidas en 7 áreas** — más comprehensiva que la mayoría de estrategias nacionales UE: economía y trabajo, cualificación, ética y regulación, investigación e innovación, infraestructura de datos, administración pública, educación.\n\n- **Umsetzungsplan 2024 con 47 medidas de 12 ministerios** — coordinación horizontal interministerial extensa. Evidencia de gobierno activo y no meramente aspiraci",
+    "relevance": 0.99
+  }
+]

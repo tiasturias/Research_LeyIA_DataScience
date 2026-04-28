@@ -1,0 +1,57 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "AUS: strategy_only, intensity 5/10, strategy_led, enforcement medium",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "AUS: AI readiness 75.73, adoption 36.9%, investment $3.9854B, 178.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "AUS: regulatory quality 1.9422, rule of law 1.5232, FH 95/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "AUS: Artificial Intelligence: Australia's Ethics Framework (soft_framework) - CSIRO Data61 / Department of Industry Science and Resources, 2019-11-07, 78pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "AUS: Australia's Artificial Intelligence Action Plan (policy_strategy) - Department of Industry Science and Resources (DISR), 2021-06-18, 30pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "AUS: Safe and Responsible AI in Australia: Proposals Paper for Introducing Mandatory Guardrails for AI in High-Risk Settings (soft_framework) - Department of Industry Science and Resources (DISR), 2024-09-05, 69pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "AUS: Privacy and Other Legislation Amendment Act 2024 (No. 128 of 2024) (binding_law) - Australian Parliament, 2024-12-10, 87pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "AUS: Voluntary AI Safety Standard (soft_framework) - Department of Industry Science and Resources (DISR), 2024-09-05, Standard voluntario con 10 guardrails para todas las organizaciones en la cadena de suministro IA. Publicado simult\u00e1neamente con Proposals Paper. 69pp EN. URL oficial verificada en m\u00faltiples fuentes.pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "AUS: National Framework for the Assurance of Artificial Intelligence in Government (soft_framework) - Department of Finance (DoF) \u2014 Data and Digital Ministers Meeting, 2024-06-21, Framework nacional para aseguramiento de uso IA en gobierno. Acordado por Data and Digital Ministers Meeting 21-jun-2024. Cinco 'assurance cornerstones' + mapeados a 8 AI Ethics Principles. URL oficial verificada.pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "AUS: National AI Plan 2025 (policy_strategy) - Department of Industry Science and Resources (DISR), 2025-12-02, 37pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# AUS \u2014 Hallazgos diferenciales\n\n**Pa\u00eds:** Australia (ISO3: AUS)\n**Fecha de an\u00e1lisis:** 2026-04-21\n**R\u00e9gimen propuesto:** soft_framework \u2191 (desde IAPP strategy_led)\n**Documentos base:** [CANDIDATES.md](CANDIDATES.md) \u00b7 [manifest.csv](manifest.csv) \u00b7 [SOURCES.md](SOURCES.md)\n\n---\n\n## 1. Tesis del hallazgo diferencial\n\nAustralia es **el \u00fanico pa\u00eds del corpus que inici\u00f3 un proceso formal de legislaci\u00f3n horizontal de IA \u2014 consulta p\u00fablica de *mandatory guardrails* (sep 2024) \u2014 y posteriormente lo abandon\u00f3 de manera expl\u00edcita** en el National AI Plan 2025 (dic 2025), reemplaz\u00e1ndolo por \"updating the existing legal and regulatory framework\". La secuencia propuesta \u2192 consultada \u2192 abandonada, todo documentado en instrumentos oficiales dentro del mismo per\u00edodo del estudio, convierte a AUS en un **cuasi-experimento observacional** sobre la pregunta central del estudio \"\u00bfregular o no regular?\". Ning\u00fan otro pa\u00eds del corpus tiene los tres instrumentos co-presentes (propuesta expl\u00edcita de ley horizontal, consulta p\u00fablica cerrada, declaraci\u00f3n formal de abandono).\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo / Fuente |\n|---|---|---|\n| # documentos totales | 7 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | Privacy Amendment Act 2024 |\n| # soft/policy/strategy | 6 | resto |\n| # descargados con SHA-256 | 5 / 7 | 4 primarios + 1 v\u00eda Wayback (doc 7) |\n| # con URL confirmada pero sin SHA | 2 / 7 | docs 5, 6 (industry.gov.au y finance.gov.au geo-bloquean) |\n| P\u00e1ginas totales corpus (medibles) | 370 | 78+30+69+87+69+37; doc 6 = N/A |\n| P\u00e1ginas binding / soft medibles | 87 / 283 | ratio 1 : 3.25 |\n| Primer documento | 2019-11-07 | AI Ethics Framework |\n| \u00daltimo documento | 2025-12-02 | National AI Plan 2025 |\n| A\u00f1os cubiertos | 6.1 | 2019-11 \u2192 2025-12 |\n| Gap fecha \u00faltimo doc \u2192 an\u00e1lisis | ~4.6 meses | 2025-12-02 \u2192 2026-04-21 |\n| # docs superseded | 2 / 7 (29%) | AI Action Plan 2021, Mandatory Guardrails Proposals 2024 |\n| Concentraci\u00f3n de emisor (DISR) | 5 / 7 (71%) | AIEthics, AIActionPlan, MandatoryGuardrails, VAIS, NationalAIPlan |\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n- **2019-11-07** \u2014 AI Ethics Framework publicado (CSIRO Data61 / DISR, 8 principios voluntarios, 78pp).\n- **2021-06-18** \u2014 AI Action Plan publicado (DISR, 30pp, compromiso AUD 124.1M).\n- **2024-06-21** \u2014 National Framework for Assurance of AI in Government acordado en Data and Digital Ministers Meeting (DoF).\n- **2024-09-05** \u2014 *Publicaci\u00f3n simult\u00e1nea* de Voluntary AI Safety Standard (69pp, 10 guardrails) y *Proposals Paper for Mandatory Guardrails* (69pp). Apertura de consulta p\u00fablica.\n- **2024-10-04** \u2014 Cierre de consulta p\u00fablica. **Duraci\u00f3n: 30 d\u00edas** (ventana corta vs. est\u00e1ndar de 8 semanas en consultas brit\u00e1nicas).\n- **2024-12-10** \u2014 Privacy and Other Legislation Amendment Act 2024 recibe Royal Assent (\u00fanico instrumento *binding* del corpus AUS). Schedule 1 Part 15 (ADM transparency): vigencia diferida a **2026-12-10** (2 a\u00f1os de transic",
+    "relevance": 0.99
+  }
+]

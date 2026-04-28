@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+    "type": "binding_law_ai",
+    "issuer": "European Parliament and Council of the EU",
+    "date": "2024-07-12",
+    "status": "in_force",
+    "pages": "144",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689"
+  },
+  {
+    "title": "Strategie der Bundesregierung f\u00fcr K\u00fcnstliche Intelligenz \u2014 Artificial Intelligence Mission Austria 2030 (AIM AT 2030)",
+    "type": "policy_strategy",
+    "issuer": "Bundesregierung \u00d6sterreich (Federal Chancellery + BMK)",
+    "date": "2021",
+    "status": "in_use",
+    "pages": "76",
+    "url": "https://www.digitalaustria.gv.at/dam/jcr:44ad1b93-6358-42b8-9f65-1e74c9a39e7f/KI%20Strategie_AIM_AT_2030_UAbf.pdf"
+  },
+  {
+    "title": "Strategie der Bundesregierung f\u00fcr K\u00fcnstliche Intelligenz \u2014 Umsetzungsplan 2024 (AIM AT 2030 Implementation Plan)",
+    "type": "policy_strategy",
+    "issuer": "Bundesregierung \u00d6sterreich / Digital Austria",
+    "date": "2024-11",
+    "status": "in_use",
+    "pages": "109",
+    "url": "https://www.digitalaustria.gv.at/dam/jcr:a293b8fe-0054-4eea-a47b-653f84e4cefb/KI-Umsetzungsplan_2024-final19.5.2025.pdf"
+  },
+  {
+    "title": "Informationen der Datenschutzbeh\u00f6rde zum Verh\u00e4ltnis zwischen der DSGVO und der KI-VO f\u00fcr Verantwortliche des \u00f6ffentlichen Bereichs",
+    "type": "guidelines",
+    "issuer": "Datenschutzbeh\u00f6rde (DSB)",
+    "date": "2024",
+    "status": "in_force",
+    "pages": "3",
+    "url": "https://www.dsb.gv.at/dam/jcr:d9a93c07-1629-41d9-9a21-c96d95b4754a/Informationen%20der%20Datenschutzbeh%C3%B6rde%20zum%20Verh%C3%A4ltnis%20zwischen%20der%20DSGVO%20und%20der%20Verordnung%20(EU)%20%C3%BCber%20k%C3%BCnstliche%20Intelligenz%20(KI-VO)%20f%C3%BCr%20Verantwortliche%20des%20%C3%B6ffentlichen%20Bereichs.pdf\""
+  }
+]

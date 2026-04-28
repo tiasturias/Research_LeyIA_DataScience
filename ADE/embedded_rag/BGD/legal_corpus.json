@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "iso3": "BGD",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "BGD_NSAI_2020.pdf",
+      "document_title": "National Strategy for Artificial Intelligence \u2014 Bangladesh",
+      "doc_type": "strategy",
+      "issuer": "Information and Communication Technology Division, Government of the People's Republic of Bangladesh",
+      "publication_date": "2020-03",
+      "status": "historical_with_effect",
+      "language": "en",
+      "source_url": "https://ictd.portal.gov.bd/",
+      "pages": "55"
+    },
+    {
+      "filename": "BGD_NAIP_2026-2030_v1.1_DRAFT.pdf",
+      "document_title": "National AI Policy Bangladesh 2026-2030 (DRAFT V1.1)",
+      "doc_type": "policy_draft",
+      "issuer": "ICT Division, Ministry of Posts, Telecommunications and Information Technology, Government of Bangladesh",
+      "publication_date": "2026-01",
+      "status": "draft_public_consultation",
+      "language": "en",
+      "source_url": "https://aipolicy.gov.bd/",
+      "pages": ""
+    },
+    {
+      "filename": "BGD_NAIP_2026-2030_v2.0_DRAFT.pdf",
+      "document_title": "Bangladesh National AI Policy 2026-2030 (Draft v2)",
+      "doc_type": "policy_draft",
+      "issuer": "ICT Division, Ministry of Posts, Telecommunications and Information Technology, Government of Bangladesh",
+      "publication_date": "2026-02-09",
+      "status": "draft_under_review",
+      "language": "en",
+      "source_url": "https://aipolicy.gov.bd/docs/national-ai-policy-bangladesh-2026-2030-draft-v2.0.pdf",
+      "pages": ""
+    },
+    {
+      "filename": "BGD_AIRAM_UNDP_2025.pdf",
+      "document_title": "Bangladesh Artificial Intelligence Readiness Assessment Report",
+      "doc_type": "readiness_assessment",
+      "issuer": "UNESCO + UNDP + ICT Division Government of Bangladesh (co-published)",
+      "publication_date": "2025-11",
+      "status": "official_joint_publication",
+      "language": "en",
+      "source_url": "https://www.undp.org/sites/g/files/zskgke326/files/2025-11/final_digital_bangladesh_ai_ram.pdf",
+      "pages": ""
+    }
+  ],
+  "findings_text": "# BGD \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Bangladesh transita de `strategy_only` a `soft_framework` mediante el National AI Policy 2026-2030 (Draft V2.0): marco risk-based completo (4 niveles: prohibited/high/limited/low), AIAs mandatorios, strict liability para high-risk, prohibiciones expl\u00edcitas (social scoring, mass surveillance), y pathway declarado a AI Act para 2028. Es el caso de \"emerging soft_framework con trajectory legislativa formal\" en el corpus \u2014 comparable a GHA y MNG en el mismo cluster, pero con marco m\u00e1s denso y fecha de AI Act comprometidas.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 5 | count(manifest.csv) |\n| # binding (ley IA) | 0 | Sin ley vigente |\n| # policy_draft | 2 | NAIP V1.1, NAIP V2.0 |\n| # strategy | 1 | NSAI 2020 |\n| # readiness_assessment | 1 | AIRAM UNESCO/UNDP 2025 |\n| P\u00e1ginas totales corpus | ~55+ | NSAI 2020 (55pp) + otros |\n| Primer documento (fecha) | 2020-03 | NSAI |\n| \u00daltimo documento (fecha) | 2026-02 | NAIP V2.0 |\n| A\u00f1os cubiertos | 6 | (2026-02 - 2020-03) |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2020-03 | NSAI 2020 | Primera estrategia nacional IA. 55pp. |\n| 2024 | NAIP 2024 Draft | Borrador inicial. Retirado tras V1.1. |\n| 2025-11 | AIRAM 2025 | Readiness Assessment co-firmado UNESCO/UNDP. |\n| 2026-01 | NAIP V1.1 Draft | Primera versi\u00f3n p\u00fablica del NAIP 2026-2030. |\n| 2026-02-09 | NAIP V2.0 Draft | Versi\u00f3n post-consulta p\u00fablica (cerr\u00f3 8-feb-2026). En revisi\u00f3n del Steering Committee. |\n\n**Duraci\u00f3n:** 6 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** ICT Division, Ministry of Posts, Telecommunications and Information Technology.\n**Diferencial:** Transici\u00f3n strategy_only \u2192 soft_framework + pathway a binding.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **Marco risk-based completo** \u2014 4 niveles: prohibited (unacceptable risk), high-risk, limited-risk, low-risk. \u00a74.1 Regulatory Framework.\n\n- **Prohibiciones expl\u00edcitas** \u2014 AI-enabled social scoring, indiscriminate biometric mass surveillance, manipulative/deceptive AI. \u00a74.9.\n\n- **AIAs mandatorios** \u2014 Algorithmic Impact Assessments obligatorios para sistemas IA significativos del sector p\u00fablico y high-risk del sector privado. \u00a74.9.\n\n- **Strict liability** \u2014 Para high-risk systems en healthcare, financial services, employment, justice, education, critical infrastructure. \u00a74.11.\n\n- **Pathway legislativo formal** \u2014 \"Ministry of Law... shall initiate drafting of comprehensive Artificial Intelligence Act by 2028.\" \u00a77.5.\n\n- **Autoridad designada** \u2014 NDGA (National Digital Government Agency) con poderes de certificaci\u00f3n, est\u00e1ndares t\u00e9cnicos, oversight AIA. \u00a74.2.\n\n- **Cobertura tem\u00e1tica amplia** \u2014 Risk classification, prohibited practices, AIA, data governance, disinformation/deepfakes, liability, derechos, cooperacion internacional, sectores.\n\n- **Momentum internacional** \u2014 AIRAM 2025 co-firmado UNESCO/UNDP.\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **Sin ley IA vigente** \u2014 has_ai_law = 0. El AI Act est\u00e1 programado para 2028, no vigente.\n\n- **NAIP V2.0 es draft** \u2014 Status: `draft_under_review`. No adoptado formalmente a\u00fan.\n\n- **Enforcement bajo** \u2014 No hay autoridad operativa, sanciones, o track record. Solo propuesto en el draft.\n\n- **NDGA no existe formalmente** \u2014 Propuesta en el draft, no establecida.\n\n- **GHA y MNG tienen frameworks similares** \u2014 No es \u00fanico en el cluster.\n\n- **Gap implementaci\u00f3n** \u2014 Historical gap entre pol\u00edticas y ejecuci\u00f3n en Bangladesh.\n\n---\n\n## 6. Comparaci\u00f3n vs peer group\n\n| Pa\u00eds | R\u00e9gimen | # docs | Tesis diferencial |\n|---|---|---|---|\n| **BGD** | **soft_framework** | **5** | **Transici\u00f3n strategy\u2192soft_framework + marco risk-based completo + pathway AI Act 2028** |\n| GHA | soft_framework | 4 | NAIS 2023-2033 + Emerging Technologies Bill |\n| MNG | soft_framework | 4 | AILA co-firmado + 2 leyes sectoriales |\n| SGP | soft_framework | 7 | Decisi\u00f3n deliberada NO ley IA horizontal |\n\n**An\u00e1lisis:** BGD es comparable a GHA/MNG en el cluster \"emerging soft_framework del Sur Global\", pero con:\n- Marco risk-based m\u00e1s detallado (4 niveles vs. general)\n- Pathway a AI Act expl\u00edcito con fecha (2028)\n- Prohibiciones espec\u00edficas (social scoring, mass surveillance)\n- AIAs mandatorios + strict liability\n\n**Contraste:** BGD \u2260 SGP (SGP NO tiene pathway a binding, BGD S\u00cd).\n\n---\n\n## 7. Implicancias para el estudio\n\n| Variable X1 | Efecto potencial |\n|---|---|\n| `has_ai_law` | 0 (sin ley vigente \u2014 AI Act 2028 programado) |\n| `regulatory_intensity` | 5/10 (+3 desde IAPP 2) |\n| `thematic_coverage` | 11/15 (+7 desde IAPP 4) |\n| `enforcement_level` | `low` (sin ley vigente) |\n| `regulatory_regime_group` | `soft_framework` (TRANSICI\u00d3N desde strategy_only) |\n\n**Hip\u00f3tesis testeable:**\n- \u00bfEl pathway legislativo declarado (BGD 2028) predice transici\u00f3n futura a binding regulation?\n- \u00bfEl marco risk-based detallado en policy draft se traduce en ley posterior?\n\n**Caso narrativo \u00fatil para:**\n- \u00a7Discusi\u00f3n como \"emerging soft_framework con trajectory legislativa\"\n- Comparaci\u00f3n con GHA/MNG (cluster Sur Global)\n- Lecciones sobre dise\u00f1o de policy drafts\n\n---\n\n## 8. Banderas de re-visita\n\n| Evento | Horizonte | Trigger observable |\n|---|---|---|\n| Adopci\u00f3n formal NAIP 2026-2030 | 3-6m | Publicaci\u00f3n en gazeta oficial |\n| Establecimiento NDGA | 6-12m | Decreto/Orden ministerial |\n| AI Act drafting iniciado | 12m | Ministry of Law announcement |\n| AI Act promulgado | 24m | Legislative milestone |\n\n---\n\n## Links\n\n- [CANDIDATES.md](CANDIDATES.md)\n- [SOURCES.md](SOURCES.md)\n- [manifest.csv](manifest.csv)"
+}

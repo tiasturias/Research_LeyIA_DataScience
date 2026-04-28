@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "iso3": "NZL",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "NZL_AIStrategy_2025.pdf",
+      "document_title": "New Zealand's Strategy for Artificial Intelligence: Investing with Confidence",
+      "doc_type": "policy_strategy",
+      "issuer": "Ministry of Business Innovation and Employment (MBIE)",
+      "publication_date": "2025-07-08",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.beehive.govt.nz/sites/default/files/2025-07/New%20Zealand%27s%20AI%20Strategy%20-%20Investing%20with%20confidence.pdf",
+      "pages": "22"
+    },
+    {
+      "filename": "NZL_AlgorithmCharter_2020.pdf",
+      "document_title": "Algorithm Charter for Aotearoa New Zealand",
+      "doc_type": "soft_framework",
+      "issuer": "Department of Internal Affairs (DIA) \u2014 data.govt.nz",
+      "publication_date": "2020-07-01",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf",
+      "pages": "1"
+    },
+    {
+      "filename": "NZL_ResponsibleAI_Business_2025.pdf",
+      "document_title": "Responsible AI Guidance for Businesses: Investing with Confidence",
+      "doc_type": "soft_framework",
+      "issuer": "Ministry of Business Innovation and Employment (MBIE)",
+      "publication_date": "2025-07-08",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.mbie.govt.nz/assets/responsible-ai-guidance-for-businesses.pdf",
+      "pages": "43"
+    },
+    {
+      "filename": "NZL_OPC_AI_IPPs_2023.pdf",
+      "document_title": "Artificial Intelligence and the Information Privacy Principles",
+      "doc_type": "soft_framework",
+      "issuer": "Office of the Privacy Commissioner (OPC)",
+      "publication_date": "2023-09-21",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.privacy.org.nz/assets/New-order/Resources-/Publications/Guidance-resources/AI-Guidance-Resources-/AI-and-the-Information-Privacy-Principles.pdf",
+      "pages": "12"
+    },
+    {
+      "filename": "NZL_PrivacyAct_2020.pdf",
+      "document_title": "Privacy Act 2020 (No 31)",
+      "doc_type": "binding_law",
+      "issuer": "New Zealand Parliament",
+      "publication_date": "2020-06-30",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html",
+      "pages": "192"
+    }
+  ],
+  "findings_text": "# NZL \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Nueva Zelanda es el pa\u00eds del corpus con la posici\u00f3n m\u00e1s expl\u00edcitamente anti-regulaci\u00f3n IA del mundo desarrollado: su Cabinet paper de julio 2025 accompanying la primera estrategia IA nacional no solo descarta una ley IA general sino que articula una teor\u00eda econ\u00f3mica expl\u00edcita de que la regulaci\u00f3n IA reducir\u00eda productividad e innovaci\u00f3n, posicion\u00e1ndola como el caso polar del estudio \"\u00bfRegular o no regular?\" \u2014 sin embargo, la Algorithm Charter 2020 (primer compromiso gubernamental voluntario de transparencia algor\u00edtmica del mundo) demuestra que NZL apost\u00f3 por herramientas voluntarias antes que cualquier otro pa\u00eds, creando un ecosistema de soft_framework \u00fanico con Privacy Act enforcement activa.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 5 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | Privacy Act 2020 |\n| # soft/policy/strategy | 4 | AI Strategy + Algorithm Charter + Responsible AI Guidance + OPC guidance |\n| P\u00e1ginas totales corpus | 270 | sum(pages) |\n| P\u00e1ginas binding / soft | 192 / 78 | 2.46:1 |\n| Primer documento (fecha) | 2020-07 | Algorithm Charter |\n| \u00daltimo documento (fecha) | 2025-07 | AI Strategy + Responsible AI Guidance |\n| A\u00f1os cubiertos | 5 | (2025-07 - 2020-07) |\n| Gap con fecha corpus | ~9 meses | 2026-04-21 - 2025-07 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2020-06-30 | Privacy Act 2020 | Ley de privacidad post-Brexit-style. En vigor desde 01-12-2020. |\n| 2020-07-01 | Algorithm Charter | Primer compromiso gubernamental voluntario de transparencia algor\u00edtmica del mundo. 21 agencias signatarias. |\n| 2023-09-21 | OPC AI & IPPs | Guidance del Privacy Commissioner sobre aplicaci\u00f3n de 13 IPPs al uso de IA. Incluye perspectiva te ao M\u0101ori. |\n| 2025-07-08 | AI Strategy 2025 | Primera estrategia nacional IA. Enfoque light-touch, risk-based. Descarta ley IA general. |\n| 2025-07-08 | Responsible AI Guidance for Businesses | Gu\u00eda voluntaria para empresas. Simult\u00e1nea con AI Strategy. Basada en OCDE. |\n\n**Duraci\u00f3n:** 5 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** MBIE (Ministry of Business Innovation and Employment) / DIA / OPC.\n**Postura deliberada:** \"Light-touch, risk-based, no AI Act.\"\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **Posici\u00f3n anti-regulaci\u00f3n expl\u00edcita** \u2014 Citado: \"New Zealand is taking a light-touch, risk-based approach. Rather than developing a standalone AI Act, we will leverage existing regulatory mechanisms and only intervene to address acute harms or unlock innovation.\"\n\n- **Teor\u00eda econ\u00f3mica anti-regulaci\u00f3n** \u2014 Citado: \"AI could add $76 billion to New Zealand's GDP by 2038 \u2014 but we are falling behind other small advanced economies on AI readiness.\" La regulaci\u00f3n se ve como barrera, no como enablement.\n\n- **Algorithm Charter 2020 \u2014 primer compromiso gubernamental mundial** \u2014 Citado: \"This charter is a world first \u2014 the first government-wide voluntary commitment to algorithmic transparency.\"\n\n- **Privacy Act 2020 binding** \u2014 Section 22 sobre automated decisions, IPPs enforceable. OPC con poderes de investigaci\u00f3n y sanci\u00f3n.\n\n- ** cuatro documentos de guidance en 5 a\u00f1os** \u2014 Algorithm Charter (2020), OPC AI/IPPs (2023), AI Strategy (2025), Responsible AI Guidance (2025). Ecosistema voluntario denso.\n\n- **Te ao M\u0101ori perspective** \u2014 NZL \u00fanico en incorporar perspectiva ind\u00edgena en governance IA. Citado: \"AI governance must also consider te ao M\u0101ori perspectives \u2014 tikanga M\u0101ori values around collective data sovereignty and whakapapa.\"\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **Privacy Act es binding** \u2014 NZL tiene ley vinculante (Privacy Act 2020) con enforcement OPC. La tesis de \"no regulaci\u00f3n\" se refiere a ley IA espec\u00edfica, no a regulaci\u00f3n general de datos.\n\n- **GBR tiene enfoque similar** \u2014 UK tambi\u00e9n rechaza ley IA horizontal. NZL no es \u00fanico en el enfoque \"light-touch\".\n\n- **Gobierno podr\u00eda cambiar de postura** \u2014 Elecciones en 2026 podr\u00edan traer cambio de pol\u00edtica. La postura actual no es irreversible.\n\n- **Australia tiene ley IA** \u2014 AUS (vecino regional) tiene mandatory guardrails proposals. La diferencia es m\u00e1s stark en el Pac\u00edfico.\n\n- **El desarrollo econ\u00f3mico es el driver** \u2014 La posici\u00f3n anti-regulaci\u00f3n se basa en an\u00e1lisis de GDP (+$76B). Es una apuesta econ\u00f3mica, no ideol\u00f3gica.\n\n---\n\n## 6. Comparaci\u00f3n vs peer group\n\n| Pa\u00eds | R\u00e9gimen | # docs | # binding | Tesis diferencial |\n|---|---|---|---|---|\n| **NZL** | **soft_framework** | **5** | **1** | **Posici\u00f3n m\u00e1s anti-regulaci\u00f3n IA del mundo desarrollado + Algorithm Charter (primer compromiso mundial)** |\n| AUS | soft_framework | 7 | 1 | Mandatory guardrails abortados (dic 2025) |\n| GBR | soft_framework | 6 | 2 | Paradoja: m\u00e1ximo safety (AISI) + m\u00ednimo regulaci\u00f3n |\n| CAN | soft_framework | 7 | 2 | AIDA muri\u00f3 por prorogaci\u00f3n (ene 2025) |\n\n**An\u00e1lisis:** NZL es \u00fanico en el bucket soft_framework por:\n- Posici\u00f3n m\u00e1s expl\u00edcitamente anti-regulaci\u00f3n\n- Algorithm Charter como primer compromiso mundial (2020)\n- Te ao M\u0101ori \u00fanico en governance IA\n- Sin bill IA en tramitaci\u00f3n\n\n**Contraste:** NZL \u2248 GBR (ambos light-touch) pero NZL m\u00e1s expl\u00edcito en rechazo + Algorithm Charter pionera.\n\n---\n\n## 7. Implicancias para el estudio\n\n| Variable X1 | Efecto potencial |\n|---|---|\n| `has_ai_law` | 0 (sin cambio \u2014 sin ley IA espec\u00edfica) |\n| `regulatory_intensity` | 3/10 (IAPP) \u2192 3/10 (sin cambio) |\n| `thematic_coverage` | 6/15 \u2192 6/15 (sin cambio) |\n| `enforcement_level` | `medium` (confirmado \u2014 OPC activo) |\n| `regulatory_regime_group` | Upgrade `strategy_only` \u2192 `soft_framework` |\n| `has_dedicated_ai_authority` | 0 (sin autoridad IA dedicada) |\n\n**Hip\u00f3tesis testeable:**\n- \u00bfPa\u00edses con postura anti-regulaci\u00f3n tienen mayor adopci\u00f3n IA?\n- \u00bfLa posici\u00f3n \"light-touch\" produce mejores outcomes econ\u00f3micos?\n\n**Caso narrativo \u00fatil para:**\n- \u00a7Discusi\u00f3n como \"caso polar anti-regulaci\u00f3n del estudio\"\n- Control para tesis \"soft_framework = menor protecci\u00f3n\"\n- Comparaci\u00f3n con AUS (vecino regional con regulaci\u00f3n)\n\n---\n\n## 8. Banderas de re-visita\n\n| Evento | Horizonte | Trigger observable |\n|---|---|---|\n| Cambio de gobierno | 12m | Elecciones NZL 2026 |\n| Bill IA introducido | 12-24m | Parliament.nz nuevo bill |\n| Algorithm Charter expansi\u00f3n | 6-12m | Nuevas agencias signatarias |\n| OPC enforcement casos IA | 6-12m | Decisiones OPC publicadas |\n\n---\n\n## Links\n\n- [CANDIDATES.md](CANDIDATES.md)\n- [SOURCES.md](SOURCES.md)\n- [manifest.csv](manifest.csv)"
+}

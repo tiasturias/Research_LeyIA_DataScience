@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "iso3": "DEU",
+    "region": "Europe",
+    "oecd_member": true,
+    "legal_origin": "German",
+    "is_common_law": false,
+    "population": 83516593.0,
+    "gdp_current_usd": 4685592577804.69
+  },
+  "ecosystem_ia": {
+    "ai_readiness_score": {
+      "value": 76.78,
+      "year": 2025
+    },
+    "ai_adoption_rate": {
+      "value": 28.6,
+      "period": "H2_2025"
+    },
+    "ai_investment_usd_bn": {
+      "cumulative": 13.2708,
+      "year": 2024.0
+    },
+    "ai_startups": {
+      "cumulative": 394.0,
+      "year": 2024.0
+    },
+    "ai_patents_per100k": {
+      "value": 1.2176,
+      "year": 2023.0
+    }
+  },
+  "controls": {
+    "gdp_per_capita_ppp": {
+      "value": 73551.9348,
+      "year": 2024.0
+    },
+    "gii_score": {
+      "value": 55.4554,
+      "year": 2025.0
+    },
+    "internet_penetration": {
+      "value": 93.5,
+      "year": 2024.0
+    },
+    "rd_expenditure": {
+      "value": 3.1324,
+      "year": 2022.0
+    },
+    "tertiary_education": {
+      "value": 78.5947,
+      "year": 2023.0
+    }
+  },
+  "governance": {
+    "regulatory_quality": {
+      "value": 1.457,
+      "year": 2023.0
+    },
+    "rule_of_law": {
+      "value": 1.5512,
+      "year": 2023.0
+    },
+    "fh_total_score": {
+      "value": 93,
+      "status": "F",
+      "year": 2025
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "iso3": "ESP",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "ESP_EUAIAct_Reg2024_1689.pdf",
+      "document_title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+      "doc_type": "binding_law_ai",
+      "issuer": "European Parliament and Council of the EU",
+      "publication_date": "2024-07-12",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689",
+      "pages": "144"
+    },
+    {
+      "filename": "ESP_RD729_2023_AESIAEstatuto.pdf",
+      "document_title": "Real Decreto 729/2023, de 22 de agosto, por el que se aprueba el Estatuto de la Agencia Espa\u00f1ola de Supervisi\u00f3n de Inteligencia Artificial",
+      "doc_type": "binding_regulation",
+      "issuer": "Gobierno de Espa\u00f1a (Ministerio de Asuntos Econ\u00f3micos y Transformaci\u00f3n Digital)",
+      "publication_date": "2023-09-02",
+      "status": "in_force",
+      "language": "es",
+      "source_url": "https://www.boe.es/buscar/pdf/2023/BOE-A-2023-18911-consolidado.pdf",
+      "pages": "30"
+    },
+    {
+      "filename": "ESP_RD817_2023_SandboxIA.pdf",
+      "document_title": "Real Decreto 817/2023, de 8 de noviembre, que establece un entorno controlado de pruebas para el ensayo del cumplimiento de la propuesta de Reglamento IA",
+      "doc_type": "binding_regulation",
+      "issuer": "Gobierno de Espa\u00f1a (Ministerio de Asuntos Econ\u00f3micos y Transformaci\u00f3n Digital)",
+      "publication_date": "2023-11-09",
+      "status": "in_force",
+      "language": "es",
+      "source_url": "https://www.boe.es/boe/dias/2023/11/09/pdfs/BOE-A-2023-22767.pdf",
+      "pages": "31"
+    },
+    {
+      "filename": "ESP_EstrategiaIA_2024.pdf",
+      "document_title": "Estrategia de Inteligencia Artificial 2024",
+      "doc_type": "policy_strategy",
+      "issuer": "Gobierno de Espa\u00f1a (Secretar\u00eda de Estado de Digitalizaci\u00f3n e Inteligencia Artificial, SEDIA)",
+      "publication_date": "2024-05-14",
+      "status": "in_use",
+      "language": "es",
+      "source_url": "https://portal.mineco.gob.es/es-es/digitalizacionIA/Documents/Estrategia_IA_2024.pdf",
+      "pages": "68"
+    },
+    {
+      "filename": "ESP_Anteproyecto_LeyIA2025.pdf",
+      "document_title": "Anteproyecto de Ley para el buen uso y la gobernanza de la Inteligencia Artificial",
+      "doc_type": "bill_pending",
+      "issuer": "Gobierno de Espa\u00f1a (Consejo de Ministros)",
+      "publication_date": "2025-03-11",
+      "status": "bill_pending",
+      "language": "es",
+      "source_url": "https://avance.digital.gob.es/_layouts/15/HttpHandlerParticipacionPublicaAnexos.ashx?k=19128",
+      "pages": "35"
+    }
+  ],
+  "findings_text": "# ESP \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Espa\u00f1a presenta el r\u00e9gimen de implementaci\u00f3n nacional del AI Act m\u00e1s desarrollado de toda la Uni\u00f3n Europea: \u00fanica con agencia nacional de supervisi\u00f3n IA operativa (AESIA, A Coru\u00f1a, desde septiembre 2023 \u2014 la primera agencia IA nacional de la UE), pionera en crear el primer sandbox regulatorio de IA de la UE (RD 817/2023, precedente del art\u00edculo 57 del AI Act), y con anteproyecto de ley nacional espec\u00edfico en tramitaci\u00f3n (marzo 2025) que adelanta a la mayor\u00eda de Estados miembros, posicion\u00e1ndola como el caso paradigm\u00e1tico de binding regulation con m\u00e1xima institucionalizaci\u00f3n.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 5 | count(manifest.csv) |\n| # binding (law + sectoral) | 3 | EU AI Act + RD 729/2023 + RD 817/2023 |\n| # soft/policy/strategy | 1 | Estrategia IA 2024 |\n| # bill_pending | 1 | Anteproyecto Ley IA 2025 |\n| P\u00e1ginas totales corpus | 308 | sum(pages) |\n| P\u00e1ginas binding / soft | 205 / 103 | 1.99:1 |\n| Primer documento (fecha) | 2023-09 | RD 729/2023 AESIA |\n| \u00daltimo documento (fecha) | 2025-03 | Anteproyecto Ley IA |\n| A\u00f1os cubiertos | 1.5 | (2025-03 - 2023-09) |\n| Gap con fecha corpus | ~13 meses | 2026-04-21 - 2025-03 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2023-09-02 | RD 729/2023 \u2014 Estatuto AESIA | Creaci\u00f3n de la Agencia Espa\u00f1ola de Supervisi\u00f3n de IA (A Coru\u00f1a). Primera agencia IA nacional de la UE. |\n| 2023-11-09 | RD 817/2023 \u2014 Sandbox IA | Primer sandbox regulatorio de IA de la UE. Precede al art\u00edculo 57 del AI Act. |\n| 2024-05-14 | Estrategia IA 2024 | Estrategia nacional. \u20ac1.500M PRTR + \u20ac600M previos = \u20ac2.100M. 3 ejes, 8 palancas. |\n| 2024-07-12 | EU AI Act publication | Regulation (EU) 2024/1689. Entrada en vigor 01-08-2024. |\n| 2025-03-11 | Anteproyecto Ley IA 2025 | \"Ley para el buen uso y la gobernanza de la IA\". Tramitaci\u00f3n urgente. 37 art\u00edculos. |\n\n**Duraci\u00f3n:** 1.5 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** Ministerio de Asuntos Econ\u00f3micos y Transformaci\u00f3n Digital / SEDIA.\n**Diferencial:** M\u00e1xima institucionalizaci\u00f3n UE.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **AESIA \u2014 primera agencia IA nacional de la UE** \u2014 Creada por RD 729/2023 (septiembre 2023), operativa desde entonces. Citado: \"La Agencia tiene como fines la minimizaci\u00f3n de los riesgos significativos sobre la seguridad y salud de las personas, as\u00ed como sobre sus derechos fundamentales.\"\n\n- **Primer sandbox IA de la UE** \u2014 RD 817/2023 (noviembre 2023). Citado: \"Establecer un entorno controlado de pruebas para el ensayo del cumplimiento de la propuesta de Reglamento IA.\" Vigencia 36 meses o hasta aplicaci\u00f3n del AI Act.\n\n- **Anteproyecto Ley IA 2025 m\u00e1s avanzado que IRL** \u2014 Espa\u00f1a public\u00f3 en marzo 2025, mientras IRL public\u00f3 su General Scheme en febrero 2026. Espa\u00f1a ahead en timeline.\n\n- **Estrategia IA 2024 con \u20ac2.100M** \u2014 \u20ac1.500M del PRTR + \u20ac600M previos. 3 ejes: competitividad, excelencia, adopci\u00f3n responsable.\n\n- **R\u00e9gimen sancionador propio** \u2014 Anteproyecto fija sanciones de \u20ac7.5M a \u20ac35M o 2-7% facturaci\u00f3n (equivalente al AI Act).\n\n- **AESIA con sede en A Coru\u00f1a** \u2014 \u00danica agencia IA nacional con ubicaci\u00f3n espec\u00edfica definida en ley.\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **AESIA no es exactamente como se imagin\u00f3** \u2014 Creada en 2023 bajo el marco del \"propuesta de Reglamento IA\" (pre-AI Act final). Necesita realineamiento con AI Act definitivo. *Refutador secundario.*\n\n- **Anteproyecto no es ley aprobada** \u2014 Puede modificarse o retrasarse en la tramitaci\u00f3n parlamentaria. *Refutador primario.*\n\n- **Sandbox es temporal** \u2014 36 meses o hasta aplicaci\u00f3n del AI Act. Puede quedar obsoleto.\n\n- **Ecosistema IA dom\u00e9stico menor que FRA** \u2014 Espa\u00f1a no tiene Mistral AI ni Hugging Face. Dependencia de inversi\u00f3n p\u00fablica.\n\n- **Francia tiene AI Bill 2026** \u2014 IRL y FRA tambi\u00e9n tienen legislaci\u00f3n nacional en desarrollo. Espa\u00f1a lidera pero no est\u00e1 sola.\n\n---\n\n## 6. Comparaci\u00f3n vs peer group\n\n| Pa\u00eds | R\u00e9gimen | # docs | # binding | Tesis diferencial |\n|---|---|---|---|---|\n| **ESP** | **binding_regulation** | **5** | **3** | **\u00danica con AESIA operativa + sandbox IA + anteproyecto Ley ahead de IRL** |\n| IRL | binding_regulation | 4 | 1 | AI Act + DPC Big Tech + AI Bill 2026 |\n| FRA | binding_regulation | 5 | 1 | AI Act + ecosistema dom\u00e9stico + CNIL |\n| AUT | binding_regulation | 4 | 1 | Estrategia madura pero incumplimiento plazo |\n| NLD | binding_regulation | 5 | 1 | AI Act + DCA \u00fanico |\n\n**An\u00e1lisis:** ESP es \u00fanico en el bucket binding_regulation por:\n- \u00danica agencia IA nacional operativa (AESIA)\n- Primer sandbox IA de la UE\n- Anteproyecto ahead de IRL\n- 3 documentos binding vs promedio 1\n- has_dedicated_ai_authority = 1\n\n**Contraste:** ESP > IRL en institucionalizaci\u00f3n nacional (AESIA vs AI Bill pending), aunque IRL tiene jurisdicci\u00f3n Big Tech.\n\n---\n\n## 7. Implicancias para el estudio\n\n| Variable X1 | Efecto potencial |\n|---|---|\n| `has_ai_law` | 1 (EU AI Act + Anteproyecto) |\n| `regulatory_intensity` | 10/10 (m\u00e1ximo) |\n| `thematic_coverage` | 14/15 (m\u00e1ximo) |\n| `enforcement_level` | `high` (AESIA + AEPD + sanciones) |\n| `regulatory_regime_group` | `binding_regulation` |\n| `has_dedicated_ai_authority` | **1** (AESIA operativa) |\n\n**Hip\u00f3tesis testeable:**\n- \u00bfPa\u00edses con agencia IA dedicada tienen mejor enforcement?\n- \u00bfEl sandbox temprano da ventaja competitiva?\n\n**Caso narrativo \u00fatil para:**\n- \u00a7Discusi\u00f3n como \"caso de m\u00e1xima institucionalizaci\u00f3n del AI Act en la UE\"\n- Control para tesis \"agencia dedicada = mejor governance\"\n- Comparaci\u00f3n con IRL (ambos ahead, diferente enfoque)\n\n---\n\n## 8. Banderas de re-visita\n\n| Evento | Horizonte | Trigger observable |\n|---|---|---|\n| Ley IA aprobada | 3-6m | BOE publicaci\u00f3n |\n| AESIA realineada al AI Act | 6m | RD modificaci\u00f3n |\n| Sandbox casos piloto | 6-12m | AESIA publicaciones |\n| AESGIA expansi\u00f3n competencias | 12m | BOE nuevo RD |\n\n---\n\n## Links\n\n- [CANDIDATES.md](CANDIDATES.md)\n- [SOURCES.md](SOURCES.md)\n- [manifest.csv](manifest.csv)"
+}

@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "iso3": "ZAF",
+    "region": "Sub-Saharan Africa",
+    "income_group": "High income",
+    "oecd_member": false,
+    "legal_origin": "English",
+    "is_common_law": true,
+    "population": 64007187.0,
+    "gdp_current_usd": 401144998373.585,
+    "data_year": "2024-2025"
+  },
+  "ecosystem_ia": {
+    "ai_readiness_score": {
+      "value": 53.94,
+      "year": 2025
+    },
+    "ai_adoption_rate": {
+      "value": 21.1,
+      "period": "H2_2025"
+    },
+    "ai_investment_usd_bn": {
+      "cumulative": 0.2268,
+      "year": 2024.0
+    },
+    "ai_startups": {
+      "cumulative": 20.0,
+      "year": 2024.0
+    },
+    "ai_patents_per100k": {
+      "value": 0.0316,
+      "year": 2023.0
+    }
+  },
+  "controls": {
+    "gdp_per_capita_ppp": {
+      "value": 15456.199,
+      "year": 2024.0
+    },
+    "gii_score": {
+      "value": 30.1383,
+      "year": 2025.0
+    },
+    "internet_penetration": {
+      "value": 75.6592,
+      "year": 2023.0
+    },
+    "rd_expenditure": {
+      "value": 0.6173,
+      "year": 2022.0
+    },
+    "tertiary_education": {
+      "value": 23.4938,
+      "year": 2023.0
+    }
+  },
+  "governance": {
+    "regulatory_quality": {
+      "value": -0.2237,
+      "year": 2023.0
+    },
+    "rule_of_law": {
+      "value": 0.0862,
+      "year": 2023.0
+    },
+    "fh_total_score": {
+      "value": 79,
+      "status": "F",
+      "year": 2025
+    }
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "BEL: binding_regulation, intensity 10/10, comprehensive, enforcement high",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "BEL: AI readiness 65.17, adoption 36.0%, investment $1.2592B, 51.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "BEL: regulatory quality 1.1682, rule of law 1.2954, FH 96/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "BEL: Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) (binding_law_ai) - European Parliament and Council of the EU, 2024-07-12, 144pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "BEL: AI 4 Belgium — Report (policy_strategy) - AI 4 Belgium Coalition (FPS BOSA), 2019-03, 29pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "BEL: National Convergence Plan for the Development of Artificial Intelligence (policy_strategy) - FPS BOSA (Federal Public Service Policy and Support), 2022-10-28, 38pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "BEL: Artificial Intelligence Systems and the GDPR — A Data Protection Perspective (guidelines) - Autorité de Protection des Données (APD/GBA), 2024-09-19, 21pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "BEL: The Impact of Artificial Intelligence on Privacy (guidelines) - Autorité de Protection des Données (APD/GBA), 2024, 16pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# BEL — Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Bélgica presenta el caso de \"institutional gap under binding regulation\": sujeito ao EU AI Act diretamente (como AUT, NLD, ESP, IRL) mas com implementación nacional mais rezagada que seus pares EU-27: sem agência IA nacional dedicada, incumplimiento del prazo obligatorio de designación de autoridades (02-08-2025), y BIPT designado como MSA solo via coalition agreement político (sin instrumento legal formal publicado), en un contexto de estructura federal compleja (3 regiones + nivel federal) que distribuye competencias y dificulta implementación uniforme.**\n\n---\n\n## 2. Evidencia cuantitativa — densidad del corpus\n\n| Métrica | Valor | Cálculo |\n|---|---|---|\n| # documentos totales | 5 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | EU AI Act |\n| # soft/policy/strategy | 4 | AI4Belgium + Convergence Plan + 2 APD guidelines |\n| Páginas totales corpus | 248 | sum(pages) |\n| Páginas binding / soft | 144 / 104 | 1.38:1 |\n| Primer documento (fecha) | 2019-03 | AI 4 Belgium |\n| Último documento (fecha) | 2024-09 | APD AI/GDPR brochure |\n| Años cubiertos | 5.5 | (2024-09 - 2019-03) |\n| Gap con fecha corpus | ~7 meses | 2026-04-21 - 2024-09 |\n| # docs superseded | 0 | Ningún documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa — timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2019-03 | AI 4 Belgium Report | Primer documento estratégico IA. Coalición público-privada FPS BOSA. 7 objetivos. |\n| 2022-10-28 | National Convergence Plan | Aprobado Consejo de Ministros. 9 pilares, ~70 ejes de acción. Coordinación FPS BOSA. |\n| 2024-07-12 | EU AI Act entry into force | Regulation (EU) 2024/1689 entra en vigor. Aplicación directa en Bélgica. |\n| 2024-09-19 | APD — AI Systems + GDPR | Brochure APD/GBA sobre paralelismo RGPD ↔ AI Act. 21pp. |\n| 2024 | APD — Impact of AI on Privacy | Dossier temático APD sobre impacto IA en privacidad. 16pp. |\n| 2025-01-31 | Government Declaration | BIPT/IBPT designado como Market Surveillance Authority. Coalition agreement 2025-2029 (De Wever). |\n| 2025-02-08 | AI Act deadline | Fecha límite para designación de autoridades competentes (Art. 70). |\n| 2025-08-02 | Plazo incumplido | Bélgica NO completó designación formal de autoridades AI Act. |\n\n**Duración:** 5.5 años de evolución regulatoria.\n**Emisor principal:** FPS BOSA / APD/GBA / BIPT.\n**Complejidad estructural:** Nivel federal + Flandes + Valonia + Bruselas.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **EU AI Act directamente aplicable** — binding regulation sin transposición. Bélgica sujeto a la regulación más estricta globally.\n\n- **AI4Belgium (2019) + National Convergence Plan (2022)** — dos documentos estratégicos consolidados. Arquitectura de políticas coherente. Convergence Plan aprobado en Consejo de Ministros con 9 pilares y ~70 ejes de acción.\n\n- **APD/GBA activa con guidance dual** — DPA belga publicó dos documentos (2024) sobre intersección RGPD/AI Act: brochure AI/G",
+    "relevance": 0.99
+  }
+]

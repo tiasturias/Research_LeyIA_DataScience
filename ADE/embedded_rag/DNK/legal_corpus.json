@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "iso3": "DNK",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "DNK_EUAIAct_Reg2024_1689.pdf",
+      "document_title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+      "doc_type": "binding_law_ai",
+      "issuer": "European Parliament and Council of the EU",
+      "publication_date": "2024-07-12",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689",
+      "pages": "144"
+    },
+    {
+      "filename": "DNK_LovNr467_2025_AIAct.pdf",
+      "document_title": "Lov om supplerende bestemmelser til forordningen om kunstig intelligens (Act on Supplementary Provisions to the Regulation on Artificial Intelligence, Lov nr. 467 af 14. maj 2025)",
+      "doc_type": "binding_regulation",
+      "issuer": "Folketing (Parlamento dan\u00e9s)",
+      "publication_date": "2025-05-14",
+      "status": "in_force",
+      "language": "da",
+      "source_url": "https://www.retsinformation.dk/eli/lta/2025/467",
+      "pages": "178"
+    },
+    {
+      "filename": "DNK_AIStrategy_2019.pdf",
+      "document_title": "National Strategy for Artificial Intelligence (Nationalt strategi for kunstig intelligens)",
+      "doc_type": "policy_strategy",
+      "issuer": "Ministry of Finance + Ministry of Industry, Business and Financial Affairs",
+      "publication_date": "2019-03",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://en.digst.dk/media/lz0fxbt4/305755_gb_version_final-a.pdf",
+      "pages": "74"
+    },
+    {
+      "filename": "DNK_StrategicApproachAI_2024.pdf",
+      "document_title": "Strategic Approach to Artificial Intelligence (Strategisk tilgang til kunstig intelligens)",
+      "doc_type": "policy_strategy",
+      "issuer": "Ministry of Digitalisation (Digitaliseringsministeriet)",
+      "publication_date": "2024-12-02",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.english.digmin.dk/Media/638719220318136690/Stategic%20Approach%20to%20Artificial%20Intelligence.pdf",
+      "pages": "28"
+    }
+  ],
+  "findings_text": "# DNK \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Dinamarca presenta el caso \u00fanico de \"implementaci\u00f3n m\u00e1s temprana del AI Act a nivel mundial\": su Lov nr. 467/2025 (ley nacional de implementaci\u00f3n) entr\u00f3 en vigor el 2 de agosto de 2025, convirti\u00e9ndola en la primera ley nacional de implementaci\u00f3n del AI Act en vigor de todo el corpus procesado, superando a Hungr\u00eda (dic 2025), IRL (General Scheme pendiente) y ESP (Anteproyecto pendiente), con Digitaliseringsstyrelsen formalmente designada como autoridad de vigilancia de mercado y punto de contacto nacional.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 4 | count(manifest.csv) |\n| # binding (law + sectoral) | 2 | EU AI Act + Lov nr. 467/2025 |\n| # soft/policy/strategy | 2 | 2 estrategias IA |\n| P\u00e1ginas totales corpus | 424 | sum(pages) |\n| P\u00e1ginas binding / soft | 322 / 102 | 3.16:1 |\n| Primer documento (fecha) | 2019-03 | National AI Strategy |\n| \u00daltimo documento (fecha) | 2025-05 | Lov nr. 467 |\n| A\u00f1os cubiertos | 6 | (2025-05 - 2019-03) |\n| Gap con fecha corpus | ~11 meses | 2026-04-21 - 2025-05 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2019-03 | National AI Strategy | Primera estrategia nacional IA. 74pp, 24 iniciativas, DKK 60M. |\n| 2024-07-12 | EU AI Act publication | Regulation (EU) 2024/1689. Entrada en vigor 01-08-2024. |\n| 2024-12-02 | Strategic Approach to AI | Actualizaci\u00f3n estrat\u00e9gica post-AI Act. Digital Taskforce, Advisory Centre, plataforma modelos daneses. |\n| 2025-05-14 | Lov nr. 467/2025 | Ley nacional de implementaci\u00f3n AI Act. Adoptada 8-may-2025. |\n| 2025-08-02 | Lov nr. 467 vigor | Entrada en vigor. Primera ley de implementaci\u00f3n AI Act en vigor del corpus. |\n\n**Duraci\u00f3n:** 6 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** Ministry of Finance / Ministry of Digitalisation / Folketing.\n**Diferencial:** Primera ley de implementaci\u00f3n AI Act en vigor.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **Lov nr. 467/2025 \u2014 primera ley de implementaci\u00f3n AI Act en vigor** \u2014 Citado: \"Loven fasts\u00e6tter supplerende bestemmelser til Europa-Parlamentets og R\u00e5dets forordning (EU) 2024/1689 af 13. juni 2024 om harmoniserede regler for kunstig intelligens (AI-forordningen).\" Vigente desde 2-ago-2025.\n\n- **Autoridades formalmente designadas** \u2014 Citado: \"Digitaliseringsstyrelsen er markedsoverv\u00e5gningsmyndighed efter AI-forordningens artikel 70 og national kontaktpunkt efter AI-forordningens artikel 70, stk. 2.\"\n\n- **Estructura institucional tripartita** \u2014 Digitaliseringsstyrelsen (MSA central), Datatilsynet (MSA datos), Domstolsstyrelsen (MSA judicial).\n\n- **Strategic Approach 2024** \u2014 Tres iniciativas: Digital Taskforce, Advisory Centre for Responsible AI, plataforma para modelos de lenguaje daneses.\n\n- **National AI Strategy 2019** \u2014 24 iniciativas, DKK 60M. Tres objetivos: liderazgo responsable, IA para beneficio de todos, marco regulatorio.\n\n- **Primac\u00eda temporal** \u2014 DNK ahead de HUN (dic 2025), IRL (General Scheme feb 2026), ESP (Anteproyecto mar 2025).\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **Lov nr. 467 es \"suplementaria\"** \u2014 La ley es complementaria, no reemplaza el AI Act. Dinamarca sigue dependiendo del EU AI Act directamente aplicable.\n\n- **Documentos en dan\u00e9s** \u2014 Lov nr. 467 solo en DA. Menor accesibilidad que docs EN de otros pa\u00edses.\n\n- **HUN tambi\u00e9n tiene ley promulgada** \u2014 Hungr\u00eda promulg\u00f3 Act LXXV aunque con posterioridad (dic 2025). DNK no es \u00fanico en implementaci\u00f3n.\n\n- **Datatilsynet sin guidance AI espec\u00edfica** \u2014 DPA dan\u00e9s no tiene guidance IA como PDF al cierre del corpus.\n\n- **Enforcement por verificar** \u2014 Ley vigente desde ago 2025 (8 meses). Sin track record.\n\n---\n\n## 6. Comparaci\u00f3n vs peer group\n\n| Pa\u00eds | R\u00e9gimen | # docs | # binding | Tesis diferencial |\n|---|---|---|---|---|\n| **DNK** | **binding_regulation** | **4** | **2** | **Primera ley implementaci\u00f3n AI Act en vigor (2-ago-2025), ahead de HUN/IRL/ESP** |\n| HUN | binding_regulation | 4 | 2 | Ley implementaci\u00f3n (dic 2025) |\n| ESP | binding_regulation | 5 | 3 | AESIA operativa + sandbox |\n| IRL | binding_regulation | 4 | 1 | AI Bill 2026 |\n\n**An\u00e1lisis:** DNK es \u00fanico por:\n- Primera ley de implementaci\u00f3n AI Act en vigor\n- Ratio binding/soft m\u00e1s alto (3.16:1)\n-has_dedicated_ai_authority = 1\n\n**Contraste:** DNK \u2248 HUN (ambos con leyes promulgadas) pero DNK ahead temporalmente.\n\n---\n\n## 7. Implicancias para el estudio\n\n| Variable X1 | Efecto potencial |\n|---|---|\n| `has_ai_law` | 1 (EU AI Act + Lov nr. 467) |\n| `regulatory_intensity` | 10/10 (m\u00e1ximo) |\n| `thematic_coverage` | 14/15 (m\u00e1ximo) |\n| `enforcement_level` | `high` (formal) |\n| `regulatory_regime_group` | `binding_regulation` |\n| `has_dedicated_ai_authority` | 1 (Digitaliseringsstyrelsen) |\n\n**Hip\u00f3tesis testeable:**\n- \u00bfPa\u00edses con implementaci\u00f3n m\u00e1s temprana tienen mejor compliance?\n\n**Caso narrativo \u00fatil para:**\n- \u00a7Discusi\u00f3n como \"caso de implementaci\u00f3n m\u00e1s temprana\"\n- Comparaci\u00f3n con HUN (segundo en implementar)\n\n---\n\n## 8. Banderas de re-visita\n\n| Evento | Horizonte | Trigger observable |\n|---|---|---|\n| Enforcement Lov nr. 467 | 6-12m | Decisiones Digitaliseringsstyrelsen |\n| Bekendtg\u00f8relse 605/2025 | 3m | retsinformation.dk |\n| Datatilsynet guidance AI | 6m | datatilsynet.dk |\n\n---\n\n## Links\n\n- [CANDIDATES.md](CANDIDATES.md)\n- [SOURCES.md](SOURCES.md)\n- [manifest.csv](manifest.csv)"
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Artificial Intelligence: Australia's Ethics Framework",
+    "type": "soft_framework",
+    "issuer": "CSIRO Data61 / Department of Industry Science and Resources",
+    "date": "2019-11-07",
+    "status": "in_use",
+    "pages": "78",
+    "url": "https://www.csiro.au/-/media/D61/Reports/Artificial-Intelligence-ethics-framework.pdf"
+  },
+  {
+    "title": "Australia's Artificial Intelligence Action Plan",
+    "type": "policy_strategy",
+    "issuer": "Department of Industry Science and Resources (DISR)",
+    "date": "2021-06-18",
+    "status": "superseded",
+    "pages": "30",
+    "url": "https://www.industry.gov.au/data-and-publications/australias-artificial-intelligence-action-plan"
+  },
+  {
+    "title": "Safe and Responsible AI in Australia: Proposals Paper for Introducing Mandatory Guardrails for AI in High-Risk Settings",
+    "type": "soft_framework",
+    "issuer": "Department of Industry Science and Resources (DISR)",
+    "date": "2024-09-05",
+    "status": "superseded",
+    "pages": "69",
+    "url": "https://consult.industry.gov.au/ai-mandatory-guardrails"
+  },
+  {
+    "title": "Privacy and Other Legislation Amendment Act 2024 (No. 128 of 2024)",
+    "type": "binding_law",
+    "issuer": "Australian Parliament",
+    "date": "2024-12-10",
+    "status": "in_use",
+    "pages": "87",
+    "url": "https://www.legislation.gov.au/C2024A00128/asmade"
+  },
+  {
+    "title": "Voluntary AI Safety Standard",
+    "type": "soft_framework",
+    "issuer": "Department of Industry Science and Resources (DISR)",
+    "date": "2024-09-05",
+    "status": "in_use",
+    "pages": "Standard voluntario con 10 guardrails para todas las organizaciones en la cadena de suministro IA. Publicado simult\u00e1neamente con Proposals Paper. 69pp EN. URL oficial verificada en m\u00faltiples fuentes.",
+    "url": "https://www.industry.gov.au/sites/default/files/2024-09/voluntary-ai-safety-standard.pdf"
+  },
+  {
+    "title": "National Framework for the Assurance of Artificial Intelligence in Government",
+    "type": "soft_framework",
+    "issuer": "Department of Finance (DoF) \u2014 Data and Digital Ministers Meeting",
+    "date": "2024-06-21",
+    "status": "in_use",
+    "pages": "Framework nacional para aseguramiento de uso IA en gobierno. Acordado por Data and Digital Ministers Meeting 21-jun-2024. Cinco 'assurance cornerstones' + mapeados a 8 AI Ethics Principles. URL oficial verificada.",
+    "url": "https://www.finance.gov.au/sites/default/files/2024-06/National-framework-for-the-assurance-of-AI-in-government.pdf"
+  },
+  {
+    "title": "National AI Plan 2025",
+    "type": "policy_strategy",
+    "issuer": "Department of Industry Science and Resources (DISR)",
+    "date": "2025-12-02",
+    "status": "in_use",
+    "pages": "37",
+    "url": "https://www.industry.gov.au/sites/default/files/2025-12/national-ai-plan.pdf"
+  }
+]

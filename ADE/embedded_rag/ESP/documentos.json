@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+    "type": "binding_law_ai",
+    "date": "2024-07-12",
+    "pages": "144"
+  },
+  {
+    "title": "Real Decreto 729/2023, de 22 de agosto, por el que se aprueba el Estatuto de la Agencia Espa\u00f1ola de Supervisi\u00f3n de Inteligencia Artificial",
+    "type": "binding_regulation",
+    "date": "2023-09-02",
+    "pages": "30"
+  },
+  {
+    "title": "Real Decreto 817/2023, de 8 de noviembre, que establece un entorno controlado de pruebas para el ensayo del cumplimiento de la propuesta de Reglamento IA",
+    "type": "binding_regulation",
+    "date": "2023-11-09",
+    "pages": "31"
+  },
+  {
+    "title": "Estrategia de Inteligencia Artificial 2024",
+    "type": "policy_strategy",
+    "date": "2024-05-14",
+    "pages": "68"
+  },
+  {
+    "title": "Anteproyecto de Ley para el buen uso y la gobernanza de la Inteligencia Artificial",
+    "type": "bill_pending",
+    "date": "2025-03-11",
+    "pages": "35"
+  }
+]

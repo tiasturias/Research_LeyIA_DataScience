@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "HUN: binding_regulation, intensity 10/10, comprehensive, enforcement high",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "HUN: AI readiness 63.17, adoption 29.8%, investment $0.2641B, 12.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "HUN: regulatory quality 0.3183, rule of law 0.4271, FH 65/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "HUN: Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) (binding_law_ai) - European Parliament and Council of the EU, 2024-07-12, 144pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "HUN: 2025. évi LXXV. törvény az Európai Unió mesterséges intelligenciáról szóló rendeletének magyarországi végrehajtásáról (Act LXXV of 2025 on the domestic implementation of the EU AI Regulation) (binding_regulation) - Országgyűlés (Hungarian National Assembly), 2025-10-31, 218pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "HUN: Hungary's Artificial Intelligence Strategy 2020-2030 (Magyarország Mesterséges Intelligencia Stratégiája) (policy_strategy) - Government of Hungary (Kormány) / AI Coalition, 2020-09, 58pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "HUN: Magyarország Mesterséges Intelligencia Stratégiája 2025-2030 (policy_strategy) - Kormány / Miniszterelnöki Kabinetiroda, 2025-09-03, 119pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# HUN — Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Hungría presenta el caso único en el corpus de \"implementación nacional del AI Act más avanzada formalmente\": es el único país que ya tiene ley nacional de implementación del AI Act promulgada y en vigor (Act LXXV of 2025, desde diciembre 2025), superando a IRL (General Scheme aún pendiente), ESP (Anteproyecto en tramitación) y BEL/AUT (sin legislación nacional), con autoridades formalmente designadas (Ministro de Desarrollo Empresarial como MSA, Consejo Húngaro de IA) y dos estrategias IA sucesivas (2020 + 2025) — aunque el contexto de tensiones UE-Orbán plantea dudas sobre la implementación efectiva.**\n\n---\n\n## 2. Evidencia cuantitativa — densidad del corpus\n\n| Métrica | Valor | Cálculo |\n|---|---|---|\n| # documentos totales | 4 | count(manifest.csv) |\n| # binding (law + sectoral) | 2 | EU AI Act + Act LXXV 2025 |\n| # soft/policy/strategy | 2 | 2 estrategias IA |\n| Páginas totales corpus | 539 | sum(pages) |\n| Páginas binding / soft | 362 / 177 | 2.05:1 |\n| Primer documento (fecha) | 2020-09 | AI Strategy 2020 |\n| Último documento (fecha) | 2025-10 | Act LXXV |\n| Años cubiertos | 5 | (2025-10 - 2020-09) |\n| Gap con fecha corpus | ~6 meses | 2026-04-21 - 2025-10 |\n| # docs superseded | 0 | Ningún documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa — timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2020-09 | AI Strategy 2020-2030 | Primera estrategia nacional IA. 7 áreas. Resolución 1573/2020. |\n| 2024-07-12 | EU AI Act publication | Regulation (EU) 2024/1689. Entrada en vigor 01-08-2024. |\n| 2025-09-03 | AI Strategy 2025-2030 | Renovación estratégica. 6 pilares, 3 áreas prioritarias. |\n| 2025-10-31 | Act LXXV of 2025 | Ley nacional de implementación AI Act. Promulgada. Magyar Közlöny 127/2025. |\n| 2025-12-01 | Act LXXV vigor | Entrada en vigor de la ley de implementación. |\n\n**Duración:** 5 años de evolución regulatoria.\n**Emisor principal:** Government of Hungary / National Assembly.\n**Diferencial:** Primera ley nacional de implementación AI Act promulgada.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **Act LXXV of 2025 — primera ley de implementación AI Act promulgada** — Citado: \"E törvény célja, hogy az Európai Unió mesterséges intelligenciáról szóló Rendelet [Reg. (EU) 2024/1689] magyarországi végrehajtásához szükséges intézményi és eljárási kereteket megállapítsa.\" Hungary ahead de IRL (General Scheme feb 2026) y ESP (Anteproyecto mar 2025).\n\n- **Autoridades formalmente designadas por ley** — Citado: \"A mesterséges intelligencia rendszerek piacfelügyeleti hatósága a gazdaságfejlesztési miniszter\" (Ministro de Desarrollo Empresarial como MSA).\n\n- **Consejo Húngaro de IA creado por ley** — Citado: \"Létrejön a Magyar Mesterséges Intelligencia Tanács, mint az egységes végrehajtást biztosító konzultatív testület.\"\n\n- **Dos estrategias IA sucesivas** — 2020-2030 y 2025-2030. Continuidad política demostrada a lo largo de 5 años.\n\n- **AI Strategy 2025 con 6 ",
+    "relevance": 0.99
+  }
+]

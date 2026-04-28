@@ -1,0 +1,38 @@
+[
+  {
+    "title": "National Strategy for Artificial Intelligence \u2014 Bangladesh",
+    "type": "strategy",
+    "issuer": "Information and Communication Technology Division, Government of the People's Republic of Bangladesh",
+    "date": "2020-03",
+    "status": "historical_with_effect",
+    "pages": "55",
+    "url": "https://ictd.portal.gov.bd/"
+  },
+  {
+    "title": "National AI Policy Bangladesh 2026-2030 (DRAFT V1.1)",
+    "type": "policy_draft",
+    "issuer": "ICT Division, Ministry of Posts, Telecommunications and Information Technology, Government of Bangladesh",
+    "date": "2026-01",
+    "status": "draft_public_consultation",
+    "pages": "",
+    "url": "https://aipolicy.gov.bd/"
+  },
+  {
+    "title": "Bangladesh National AI Policy 2026-2030 (Draft v2)",
+    "type": "policy_draft",
+    "issuer": "ICT Division, Ministry of Posts, Telecommunications and Information Technology, Government of Bangladesh",
+    "date": "2026-02-09",
+    "status": "draft_under_review",
+    "pages": "",
+    "url": "https://aipolicy.gov.bd/docs/national-ai-policy-bangladesh-2026-2030-draft-v2.0.pdf"
+  },
+  {
+    "title": "Bangladesh Artificial Intelligence Readiness Assessment Report",
+    "type": "readiness_assessment",
+    "issuer": "UNESCO + UNDP + ICT Division Government of Bangladesh (co-published)",
+    "date": "2025-11",
+    "status": "official_joint_publication",
+    "pages": "",
+    "url": "https://www.undp.org/sites/g/files/zskgke326/files/2025-11/final_digital_bangladesh_ai_ram.pdf"
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "iso3": "AUT",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "AUT_EUAIAct_Reg2024_1689.pdf",
+      "document_title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+      "doc_type": "binding_law_ai",
+      "issuer": "European Parliament and Council of the EU",
+      "publication_date": "2024-07-12",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689",
+      "pages": "144"
+    },
+    {
+      "filename": "AUT_AIMAT2030_2021.pdf",
+      "document_title": "Strategie der Bundesregierung f\u00fcr K\u00fcnstliche Intelligenz \u2014 Artificial Intelligence Mission Austria 2030 (AIM AT 2030)",
+      "doc_type": "policy_strategy",
+      "issuer": "Bundesregierung \u00d6sterreich (Federal Chancellery + BMK)",
+      "publication_date": "2021",
+      "status": "in_use",
+      "language": "de",
+      "source_url": "https://www.digitalaustria.gv.at/dam/jcr:44ad1b93-6358-42b8-9f65-1e74c9a39e7f/KI%20Strategie_AIM_AT_2030_UAbf.pdf",
+      "pages": "76"
+    },
+    {
+      "filename": "AUT_KIUmsetzungsplan_2024.pdf",
+      "document_title": "Strategie der Bundesregierung f\u00fcr K\u00fcnstliche Intelligenz \u2014 Umsetzungsplan 2024 (AIM AT 2030 Implementation Plan)",
+      "doc_type": "policy_strategy",
+      "issuer": "Bundesregierung \u00d6sterreich / Digital Austria",
+      "publication_date": "2024-11",
+      "status": "in_use",
+      "language": "de",
+      "source_url": "https://www.digitalaustria.gv.at/dam/jcr:a293b8fe-0054-4eea-a47b-653f84e4cefb/KI-Umsetzungsplan_2024-final19.5.2025.pdf",
+      "pages": "109"
+    },
+    {
+      "filename": "AUT_DSB_DSGVO_KIVO_Oeffentlich.pdf",
+      "document_title": "Informationen der Datenschutzbeh\u00f6rde zum Verh\u00e4ltnis zwischen der DSGVO und der KI-VO f\u00fcr Verantwortliche des \u00f6ffentlichen Bereichs",
+      "doc_type": "guidelines",
+      "issuer": "Datenschutzbeh\u00f6rde (DSB)",
+      "publication_date": "2024",
+      "status": "in_force",
+      "language": "de",
+      "source_url": "https://www.dsb.gv.at/dam/jcr:d9a93c07-1629-41d9-9a21-c96d95b4754a/Informationen%20der%20Datenschutzbeh%C3%B6rde%20zum%20Verh%C3%A4ltnis%20zwischen%20der%20DSGVO%20und%20der%20Verordnung%20(EU)%20%C3%BCber%20k%C3%BCnstliche%20Intelligenz%20(KI-VO)%20f%C3%BCr%20Verantwortliche%20des%20%C3%B6ffentlichen%20Bereichs.pdf\"",
+      "pages": "3"
+    }
+  ],
+  "findings_text": "# AUT \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Austria presenta el caso de \"high ambition, delayed execution\" en el bucket binding_regulation: posee la estrategia IA nacional m\u00e1s madura de la UE-27 (AIM AT 2030 con 82% de sus 91 medidas implementadas a 2026) y un Umsetzungsplan 2024 con 47 medidas activas de 12 ministerios, pero incumpli\u00f3 el plazo obligatorio del 2 de agosto de 2025 para la designaci\u00f3n formal de autoridades competentes bajo el AI Act \u2014 un gap de implementaci\u00f3n que la distingue de sus pares NLD y ESP (que s\u00ed cumplieron) y la alinea con BEL (mismo incumplimiento).**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 4 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | EU AI Act |\n| # soft/policy/strategy | 3 | AIM AT 2030 + Umsetzungsplan + DSB guidelines |\n| P\u00e1ginas totales corpus | 332 | sum(pages) |\n| P\u00e1ginas binding / soft | 144 / 188 | 0.77:1 |\n| Primer documento (fecha) | 2021 | AIM AT 2030 |\n| \u00daltimo documento (fecha) | 2024-11 | Umsetzungsplan 2024 |\n| A\u00f1os cubiertos | ~3.5 | (2024-11 - 2021) |\n| Gap con fecha corpus | ~17 meses | 2026-04-21 - 2024-11 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2021 | AIM AT 2030 | Estrategia IA nacional federal. 91 medidas en 7 \u00e1reas. Coordinaci\u00f3n Federal Chancellery + BMK. |\n| 2024-07-12 | EU AI Act entry into force | Regulation (EU) 2024/1689 entra en vigor. Aplicaci\u00f3n directa en Austria. |\n| 2024 | DSB guidance DSGVO/KI-VO | Datenschutzbeh\u00f6rde publica gu\u00eda sobre paralelismo RGPD + AI Act para sector p\u00fablico. |\n| 2024-11 | Umsetzungsplan 2024 | Plan de implementaci\u00f3n actualizado. 47 medidas de 12 ministerios federales. |\n| 2025-02 | AI Act deadline | Fecha l\u00edmite para designaci\u00f3n de autoridades competentes (Art. 70). |\n| 2025-08-02 | Plazo incumplido | Austria NO complet\u00f3 designaci\u00f3n formal de autoridades AI Act. |\n| 2026-04 | Estado del corpus | AIM AT 2030: 82% medidas implementadas o en implementaci\u00f3n. |\n\n**Duraci\u00f3n:** ~3.5 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** Federal Chancellery / BMK / Digital Austria / DSB.\n**RTR GmbH:** Designado como AI Service Office (punto de contacto), sin competencias formales de vigilancia.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **AIM AT 2030 con 82% implementaci\u00f3n** \u2014 82% de las 91 medidas implementadas o en implementaci\u00f3n a 2026. Tasa de ejecuci\u00f3n m\u00e1s alta entre los pa\u00edses del corpus analizados. Documentado en SOURCES.md.\n\n- **91 medidas en 7 \u00e1reas** \u2014 m\u00e1s comprehensiva que la mayor\u00eda de estrategias nacionales UE: econom\u00eda y trabajo, cualificaci\u00f3n, \u00e9tica y regulaci\u00f3n, investigaci\u00f3n e innovaci\u00f3n, infraestructura de datos, administraci\u00f3n p\u00fablica, educaci\u00f3n.\n\n- **Umsetzungsplan 2024 con 47 medidas de 12 ministerios** \u2014 coordinaci\u00f3n horizontal interministerial extensa. Evidencia de gobierno activo y no meramente aspiracional.\n\n- **DSB activo con guidance espec\u00edfica** \u2014 Datenschutzbeh\u00f6rde public\u00f3 gu\u00eda DSGVO/KI-VO en 2024 tanto para sector p\u00fablico como privado. Engagement activo del DPA.\n\n- **EU AI Act directamente aplicable** \u2014 binding regulation sin transposici\u00f3n nacional necesaria. Austria sujeto a la regulaci\u00f3n m\u00e1s estricta del mundo sobre IA.\n\n- **Sin agencia IA dedicada** \u2014 Austria no tiene una agencia espec\u00edfica como AISI (UK) o BSI (Alemania). RTR funciona como contact point sin competencias plenas.\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **Incumplimiento del plazo AI Act (02-08-2025)** \u2014 Austria no design\u00f3 formalmente autoridades competentes. Mismo problema que BEL. *Refutador primario.* Sin embargo, el EU AI Act sigue siendo directamente aplicable aunque las autoridades no est\u00e9n formalmente designadas.\n\n- **RTR sin competencias plenas** \u2014 AI Service Office funciona como punto de contacto pero no tiene autoridad de vigilancia de mercado formalizada. *Refutador secundario.*\n\n- **Alemania (DEU) tiene BSI y estructura m\u00e1s robusta** \u2014 comparaci\u00f3n con vecino DEU (agencia dedicada, estrategia m\u00e1s antigua) podr\u00eda mostrar que AUT est\u00e1 por debajo en institucionalidad.\n\n- **NLD y ESP cumplieron el plazo** \u2014 Espa\u00f1a y Pa\u00edses Bajos designaron autoridades formales a tiempo. AUT qued\u00f3 rezagado en ejecuci\u00f3n institucional.\n\n- **Sin ley IA nacional adicional** \u2014 Austria no tiene ley IA nacional propia; depende enteramente del EU AI Act. Esto es consistente con el bucket binding_regulation pero limita el \"diferencial\" a nivel nacional.\n\n---\n\n## 6. Comparaci\u00f3n vs peer group\n\n| Pa\u00eds | R\u00e9gimen | # docs | # binding | Tesis diferencial |\n|---|---|---|---|---|\n| NLD | binding_regulation | 5 | 1 | AI Act + estrategia madura + supervisi\u00f3n bien establecida (AP + RvIG) |\n| ESP | binding_regulation | 5 | 1 | AI Act + AEPD activa + sandbox IA (RD 817/2023) |\n| **AUT** | **binding_regulation** | **4** | **1** | **Estrategia m\u00e1s madura UE-27 (82% impl.) pero incumplimiento plazo AI Act** |\n| BEL | binding_regulation | 5 | 1 | AI Act + estrategia + DPA activo; mismo incumplimiento de plazo que AUT |\n| DEU | binding_regulation | 8 | 4 | BSI + estrategia + KIMIG en desarrollo; institucionalidad m\u00e1s robusta |\n\n**An\u00e1lisis:** AUT comparte el bucket binding_regulation con NLD, ESP, BEL, DEU. Se distingue por:\n- Mayor madurez estrat\u00e9gica (82%) que BEL (estrategia menos desarrollada)\n- Mismo incumplimiento de plazo que BEL\n- Sin agencia IA dedicada (vs DEU con BSI, NLD con AP, ESP con AEPD)\n- Menor # docs que DEU (4 vs 8)\n\n---\n\n## 7. Implicancias para el estudio\n\n| Variable X1 | Efecto potencial |\n|---|---|\n| `has_ai_law` | 1 (EU AI Act directamente aplicable) |\n| `regulatory_intensity` | 10/10 (sin cambio vs IAPP) |\n| `thematic_coverage` | 14/15 (sin cambio) |\n| `enforcement_level` | `medium-high` (matizaci\u00f3n: alta implementaci\u00f3n estrat\u00e9gica pero incumplimiento de plazo institucional) |\n| `regulatory_regime_group` | `binding_regulation` (confirmado) |\n\n**Hip\u00f3tesis testeable:**\n- \u00bfPa\u00edses con alta implementaci\u00f3n estrat\u00e9gica pero delays institucionales (AUT, BEL) tienen outcomes distintos a pa\u00edses con institucionalidad robusta desde el inicio (NLD, ESP)?\n- \u00bfEl incumplimiento del plazo de designaci\u00f3n de autoridades tiene efecto sobre la percepci\u00f3n de enforcement?\n\n**Caso narrativo \u00fatil para:**\n- \u00a7Discusi\u00f3n como \"caso de high ambition, delayed execution\" en binding_regulation\n- Control para tesis \"EU AI Act igual para todos\" \u2014 implementaci\u00f3n nacional var\u00eda\n- Comparaci\u00f3n con BEL (mismo problema) y NLD/ESP (ejecuci\u00f3n exemplar)\n\n---\n\n## 8. Banderas de re-visita\n\n| Evento | Horizonte | Trigger observable |\n|---|---|---|\n| Designaci\u00f3n formal autoridades AI Act | 3-6m | Publicaci\u00f3n en bgbl.gv.at o comunicado DSB/RTR |\n| Actualizaci\u00f3n AIM AT 2030 | 6-12m | digitalaustria.gv.at nuevo documento |\n| Nuevo guidance DSB sobre AI Act | 6m | dsb.gv.at publicaci\u00f3n |\n| Sanciones AI Act aplicadas | 12-24m | Decisiones DSB o RTR publicadas |\n| Cambio de estrategia o plan | 12m | Nuevo documento en digitalaustria.gv.at |\n\n---\n\n## Links\n\n- [CANDIDATES.md](CANDIDATES.md)\n- [SOURCES.md](SOURCES.md)\n- [manifest.csv](manifest.csv)"
+}

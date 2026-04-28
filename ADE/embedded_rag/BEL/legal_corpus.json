@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "iso3": "BEL",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "BEL_EUAIAct_Reg2024_1689.pdf",
+      "document_title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+      "doc_type": "binding_law_ai",
+      "issuer": "European Parliament and Council of the EU",
+      "publication_date": "2024-07-12",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689",
+      "pages": "144"
+    },
+    {
+      "filename": "BEL_AI4Belgium_2019.pdf",
+      "document_title": "AI 4 Belgium \u2014 Report",
+      "doc_type": "policy_strategy",
+      "issuer": "AI 4 Belgium Coalition (FPS BOSA)",
+      "publication_date": "2019-03",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.ai4belgium.be/wp-content/uploads/2019/04/report_en.pdf",
+      "pages": "29"
+    },
+    {
+      "filename": "BEL_ConvergencePlan_2022.pdf",
+      "document_title": "National Convergence Plan for the Development of Artificial Intelligence",
+      "doc_type": "policy_strategy",
+      "issuer": "FPS BOSA (Federal Public Service Policy and Support)",
+      "publication_date": "2022-10-28",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://bosa.belgium.be/sites/default/files/content/images/DigitaleOverheid/AI/Plan_AI_EN.pdf",
+      "pages": "38"
+    },
+    {
+      "filename": "BEL_APD_AISystemsGDPR_2024.pdf",
+      "document_title": "Artificial Intelligence Systems and the GDPR \u2014 A Data Protection Perspective",
+      "doc_type": "guidelines",
+      "issuer": "Autorit\u00e9 de Protection des Donn\u00e9es (APD/GBA)",
+      "publication_date": "2024-09-19",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://www.autoriteprotectiondonnees.be/publications/artificial-intelligence-systems-and-the-gdpr---a-data-protection-perspective.pdf",
+      "pages": "21"
+    },
+    {
+      "filename": "BEL_APD_AIImpactPrivacy.pdf",
+      "document_title": "The Impact of Artificial Intelligence on Privacy",
+      "doc_type": "guidelines",
+      "issuer": "Autorit\u00e9 de Protection des Donn\u00e9es (APD/GBA)",
+      "publication_date": "2024",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://www.autoriteprotectiondonnees.be/publications/the-impact-of-artificial-intelligence-on-privacy.pdf",
+      "pages": "16"
+    }
+  ],
+  "findings_text": "# BEL \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**B\u00e9lgica presenta el caso de \"institutional gap under binding regulation\": sujeito ao EU AI Act diretamente (como AUT, NLD, ESP, IRL) mas com implementaci\u00f3n nacional mais rezagada que seus pares EU-27: sem ag\u00eancia IA nacional dedicada, incumplimiento del prazo obligatorio de designaci\u00f3n de autoridades (02-08-2025), y BIPT designado como MSA solo via coalition agreement pol\u00edtico (sin instrumento legal formal publicado), en un contexto de estructura federal compleja (3 regiones + nivel federal) que distribuye competencias y dificulta implementaci\u00f3n uniforme.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 5 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | EU AI Act |\n| # soft/policy/strategy | 4 | AI4Belgium + Convergence Plan + 2 APD guidelines |\n| P\u00e1ginas totales corpus | 248 | sum(pages) |\n| P\u00e1ginas binding / soft | 144 / 104 | 1.38:1 |\n| Primer documento (fecha) | 2019-03 | AI 4 Belgium |\n| \u00daltimo documento (fecha) | 2024-09 | APD AI/GDPR brochure |\n| A\u00f1os cubiertos | 5.5 | (2024-09 - 2019-03) |\n| Gap con fecha corpus | ~7 meses | 2026-04-21 - 2024-09 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2019-03 | AI 4 Belgium Report | Primer documento estrat\u00e9gico IA. Coalici\u00f3n p\u00fablico-privada FPS BOSA. 7 objetivos. |\n| 2022-10-28 | National Convergence Plan | Aprobado Consejo de Ministros. 9 pilares, ~70 ejes de acci\u00f3n. Coordinaci\u00f3n FPS BOSA. |\n| 2024-07-12 | EU AI Act entry into force | Regulation (EU) 2024/1689 entra en vigor. Aplicaci\u00f3n directa en B\u00e9lgica. |\n| 2024-09-19 | APD \u2014 AI Systems + GDPR | Brochure APD/GBA sobre paralelismo RGPD \u2194 AI Act. 21pp. |\n| 2024 | APD \u2014 Impact of AI on Privacy | Dossier tem\u00e1tico APD sobre impacto IA en privacidad. 16pp. |\n| 2025-01-31 | Government Declaration | BIPT/IBPT designado como Market Surveillance Authority. Coalition agreement 2025-2029 (De Wever). |\n| 2025-02-08 | AI Act deadline | Fecha l\u00edmite para designaci\u00f3n de autoridades competentes (Art. 70). |\n| 2025-08-02 | Plazo incumplido | B\u00e9lgica NO complet\u00f3 designaci\u00f3n formal de autoridades AI Act. |\n\n**Duraci\u00f3n:** 5.5 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** FPS BOSA / APD/GBA / BIPT.\n**Complejidad estructural:** Nivel federal + Flandes + Valonia + Bruselas.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **EU AI Act directamente aplicable** \u2014 binding regulation sin transposici\u00f3n. B\u00e9lgica sujeto a la regulaci\u00f3n m\u00e1s estricta globally.\n\n- **AI4Belgium (2019) + National Convergence Plan (2022)** \u2014 dos documentos estrat\u00e9gicos consolidados. Arquitectura de pol\u00edticas coherente. Convergence Plan aprobado en Consejo de Ministros con 9 pilares y ~70 ejes de acci\u00f3n.\n\n- **APD/GBA activa con guidance dual** \u2014 DPA belga public\u00f3 dos documentos (2024) sobre intersecci\u00f3n RGPD/AI Act: brochure AI/GDPR (21pp, sept. 2024) + dossier tem\u00e1tico privacidad (16pp). Evidencia de engagement institucional activo.\n\n- **BIPT designado como MSA** \u2014 Government Declaration 31-01-2025 identifica BIPT como Market Surveillance Authority. Aunque sin instrumento formal, hay designaci\u00f3n pol\u00edtica declarada.\n\n- **Estructura federal con 3 regiones** \u2014 Flandes, Valonia y Bruselas tienen competencias digitales propias. La estructura federal, aunque compleja, tambi\u00e9n implica que hay m\u00faltiples niveles de implementaci\u00f3n (no solo federal).\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **Incumplimiento del plazo AI Act (02-08-2025)** \u2014 B\u00e9lgica no design\u00f3 formalmente autoridades competentes. *Refutador primario.* Sin embargo, el AI Act sigue siendo directamente aplicable aunque las autoridades no est\u00e9n formalmente designadas.\n\n- **Sin agencia IA dedicada** \u2014 B\u00e9lgica no tiene una agencia espec\u00edfica como AESIA (Espa\u00f1a) o AISI (UK) o BSI (Alemania). BIPT es un regulador sectorial (telecomunicaciones) reconvertido, no una agencia IA.\n\n- **Estructura federal compleja** \u2014 Flandes tiene Vlaams AI Plan, Valonia tiene estrategias propias. El corpus cubre solo nivel federal; la picture completa podr\u00eda mostrar mayor densidad.\n\n- **NLD y ESP cumplieron el plazo** \u2014 Espa\u00f1a y Pa\u00edses Bajos designaron autoridades formales a tiempo. B\u00e9lgica qued\u00f3 rezagado en ejecuci\u00f3n institucional.\n\n- **AUT tiene el mismo problema** \u2014 Austria tambi\u00e9n incumpli\u00f3 el plazo de designaci\u00f3n (02-08-2025). La tesis de \"rezago\" aplica a ambos. *Validaci\u00f3n: BEL y AUT son paralelos en el bucket binding_regulation con delays de implementaci\u00f3n.*\n\n---\n\n## 6. Comparaci\u00f3n vs peer group\n\n| Pa\u00eds | R\u00e9gimen | # docs | # binding | Tesis diferencial |\n|---|---|---|---|---|\n| NLD | binding_regulation | 5 | 1 | AI Act + supervisi\u00f3n establecida (AP + RvIG) + GenAI Vision 2024 |\n| ESP | binding_regulation | 5 | 1 | AI Act + AESIA activa + sandbox IA (RD 817/2023) |\n| **BEL** | **binding_regulation** | **5** | **1** | **Sin agencia dedicada, incumplimiento plazo AI Act, estructura federal compleja** |\n| AUT | binding_regulation | 4 | 1 | Estrategia m\u00e1s madura UE-27 (82%) pero mismo incumplimiento plazo AI Act |\n| DEU | binding_regulation | 8 | 4 | BSI + institucionalidad robusta + KIMIG en desarrollo |\n\n**An\u00e1lisis:** BEL comparte bucket binding_regulation con AUT, NLD, ESP, DEU. Se distingue por:\n- Sin agencia IA dedicada (vs DEU/NLD/ESP)\n- Mismo incumplimiento de plazo que AUT\n- APD activa con guidance RGPD/AI (diferencial positivo)\n- Estructura federal compleja (vs NLD/ESP centralizados)\n\n**Cuasi-paralelo:** BEL \u2248 AUT \u2014 ambos incumplieron plazo, sin agencia dedicada, pero BEL tiene APD m\u00e1s activa.\n\n---\n\n## 7. Implicancias para el estudio\n\n| Variable X1 | Efecto potencial |\n|---|---|\n| `has_ai_law` | 1 (EU AI Act directamente aplicable) |\n| `regulatory_intensity` | 10/10 (sin cambio vs IAPP) |\n| `thematic_coverage` | 14/15 (sin cambio) |\n| `enforcement_level` | `medium` (matizaci\u00f3n: ley vinculante con machinery incompleta) |\n| `regulatory_regime_group` | `binding_regulation` (confirmado) |\n| `has_dedicated_ai_authority` | 0 (BIPT designado MSA pero no agencia IA dedicada) |\n\n**Hip\u00f3tesis testeable:**\n- \u00bfPa\u00edses con binding regulation pero delays institucionales (BEL, AUT) tienen outcomes distintos a pa\u00edses con implementaci\u00f3n robusta desde el inicio (NLD, ESP)?\n- \u00bfLa ausencia de agencia IA dedicada tiene efecto independente sobre adopci\u00f3n/inversi\u00f3n?\n\n**Caso narrativo \u00fatil para:**\n- \u00a7Discusi\u00f3n como \"caso de institutional gap bajo binding regulation\"\n- Control para tesis \"EU AI Act igual para todos\" \u2014 BEL \u2260 NLD \u2260 ESP en implementaci\u00f3n nacional\n- Comparaci\u00f3n con AUT (mismo problema, estrategias m\u00e1s maduras)\n\n---\n\n## 8. Banderas de re-visita\n\n| Evento | Horizonte | Trigger observable |\n|---|---|---|\n| Instrumento legal formalizando BIPT como MSA | 3-6m | Publicaci\u00f3n en moniteur.be o bgset.be |\n| Nuevo guidance APD sobre AI Act | 6m | autoriteprotectiondonnees.be publicaci\u00f3n |\n| Flandes AI Plan actualizaci\u00f3n | 6-12m | vlaanderen.be nuevo documento |\n| Sanciones AI Act aplicadas | 12-24m | Decisiones BIPT o APD publicadas |\n| Agence IA dedicada publicada | 12-24m | Moniteur.be nuevo documento |\n\n---\n\n## Links\n\n- [CANDIDATES.md](CANDIDATES.md)\n- [SOURCES.md](SOURCES.md)\n- [manifest.csv](manifest.csv)"
+}

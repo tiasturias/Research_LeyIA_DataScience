@@ -1,0 +1,38 @@
+[
+  {
+    "title": "National Strategy for Artificial Intelligence (Nasjonal strategi for kunstig intelligens)",
+    "type": "policy_strategy",
+    "issuer": "Ministry of Local Government and Modernisation (KMD)",
+    "date": "2020-01-01",
+    "status": "in_use",
+    "pages": "67",
+    "url": "https://www.regjeringen.no/contentassets/1febbbb2c4fd4b7d92c67ddd353b6ae8/en-gb/pdfs/ki-strategi_en.pdf"
+  },
+  {
+    "title": "The Digital Norway of the Future \u2014 National Digitalisation Strategy 2024\u20132030",
+    "type": "policy_strategy",
+    "issuer": "Ministry of Digitalisation and Public Governance (Digitaliseringsdepartementet)",
+    "date": "2024-09-26",
+    "status": "in_use",
+    "pages": "108",
+    "url": "https://www.regjeringen.no/contentassets/c499c3b6c93740bd989c43d886f65924/en-gb/pdfs/digitaliseringsstrategi_eng.pdf"
+  },
+  {
+    "title": "H\u00f8ring \u2013 utkast til ny lov om kunstig intelligens \u2013 gjennomf\u00f8ring av EUs forordning om kunstig intelligens i norsk rett (Consultation \u2013 Draft law on artificial intelligence implementing the EU AI Regulation into Norwegian law)",
+    "type": "bill_pending",
+    "issuer": "Digitaliserings- og forvaltningsdepartementet (DFD)",
+    "date": "2025-06-30",
+    "status": "bill_pending",
+    "pages": "63",
+    "url": "https://www.regjeringen.no/contentassets/e823dc21809c43f2b4ba9ff1e389e245/horingsnotat-utkast-til-ki-lov131652.pdf"
+  },
+  {
+    "title": "Strategi for Datatilsynets arbeid med kunstig intelligens (Strategy for Datatilsynet's Work with Artificial Intelligence)",
+    "type": "soft_framework",
+    "issuer": "Datatilsynet (Norwegian Data Protection Authority)",
+    "date": "2024-03-22",
+    "status": "in_use",
+    "pages": "12",
+    "url": "https://www.datatilsynet.no/contentassets/ccfdac22187b46af95873287bd3c8df6/datatilsynets-strategi-for-kunstig-intelligens.pdf"
+  }
+]

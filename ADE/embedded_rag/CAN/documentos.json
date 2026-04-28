@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Personal Information Protection and Electronic Documents Act (PIPEDA, S.C. 2000, c. 5)",
+    "type": "binding_law_sectoral",
+    "date": "2000-04-13",
+    "pages": "66"
+  },
+  {
+    "title": "Pan-Canadian Artificial Intelligence Strategy (Phase 2)",
+    "type": "policy_strategy",
+    "date": "2022-06-22",
+    "pages": "6"
+  },
+  {
+    "title": "The Artificial Intelligence and Data Act (AIDA) \u2013 Companion Document",
+    "type": "bill_pending",
+    "date": "2023-03-13",
+    "pages": "8"
+  },
+  {
+    "title": "Directive on Automated Decision-Making",
+    "type": "binding_law_sectoral",
+    "date": "2019-04-01",
+    "pages": "8"
+  },
+  {
+    "title": "Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems",
+    "type": "soft_framework",
+    "date": "2023-09-27",
+    "pages": "8"
+  },
+  {
+    "title": "Guide on the Use of Generative AI",
+    "type": "guidelines",
+    "date": "2024-02-12",
+    "pages": "8"
+  },
+  {
+    "title": "Engagements on Canada's Next AI Strategy: Summary of Inputs",
+    "type": "policy_draft",
+    "date": "2026-02-02",
+    "pages": "19"
+  }
+]

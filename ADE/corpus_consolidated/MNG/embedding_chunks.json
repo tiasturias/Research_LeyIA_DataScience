@@ -1,0 +1,37 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "MNG: soft_framework, intensity 1/10, light_touch, enforcement none",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "MNG: AI readiness 40.86, adoption 14.3%, investment $0.0084B, 2.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "MNG: regulatory quality -0.041, rule of law -0.1575, FH 84/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "MNG: Law of Mongolia on Personal Data Protection (2021) (binding_law_sectoral) - State Great Khural (Parliament) of Mongolia, 2021-12-17, 8pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "MNG: Law of Mongolia on Cyber Security (2021) (binding_law_sectoral) - State Great Khural (Parliament) of Mongolia, 2021-12-17, 6pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "MNG: Artificial Intelligence Landscape Assessment of Mongolia (readiness_assessment) - UNDP + Ministry of Digital Development, Innovation and Communications (MDDIC) Mongolia (co-published), 2025-08, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# MNG — Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Mongolia transita a `soft_framework` mediante base legal sectorial de 2022 (Personal Data Protection Law + Cyber Security Law, ambas en vigor desde 2022-05-01) + AILA 2025 co-firmado con UNDP (readiness score 3.0 \"Systematization Stage\") + draft National Strategy for Big Data and AI presentado al Parlamento. Mongolia es el caso más reciente/temprano del cluster Sur Global: base legal de 2022 + estrategia en Parlamento = trayectoria clara pero sin instrumento IA consolidado.**\n\n---\n\n## 2. Evidencia cuantitativa — densidad del corpus\n\n| Métrica | Valor | Cálculo |\n|---|---|---|\n| # documentos totales | 4 | count(manifest.csv) |\n| # binding (ley sectorial) | 2 | PDPL 2021, CSL 2021 |\n| # readiness_assessment | 1 | AILA UNDP 2025 |\n| Páginas totales corpus | ~20 | PDPL (8pp) + CSL (6pp) + AILA |\n| Primer documento (fecha) | 2021-12-17 | PDPL + CSL |\n| Último documento (fecha) | 2025-08 | AILA |\n| Años cubiertos | ~4 | (2025-08 - 2021-12) |\n\n---\n\n## 3. Evidencia cuantitativa — timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2021-12-17 | PDPL + CSL aprobadas | Parliament approves paquete de 4 leyes digitales. |\n| 2022-05-01 | PDPL + CSL vigor | Entran en vigor. |\n| 2025-02-05 | National Strategy draft | MDDIC presenta al Parlamento. |\n| 2025-08 | AILA 2025 | UNDP + MDDIC co-publican. Score 3.0. |\n\n**Duración:** ~4 años de evolución regulatoria.\n**Emisor principal:** State Great Khural, MDDIC, UNDP.\n**Diferencial:** Caso más reciente del cluster Sur Global.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **Personal Data Protection Law 2021** — Reemplaza Law on Personal Secrecy (1995). Régimen GDPR-like en Mongolia. Aplicable a training data IA.\n\n- **Cyber Security Law 2021** — Primera ley de ciberseguridad de Mongolia. Establece Cyber Security Council, CII regime.\n\n- **Autoridades establecidas** — Communications Regulatory Commission (data), Cyber Security Council/National Center.\n\n- **AILA 2025 co-firmado** — MDDIC + UNDP. Score 3.0 \"Systematization Stage\".\n\n- **Draft National Strategy** — Presentado al Parlamento 2025.\n\n- **Paquete de 4 leyes digitales** — PDPL, CSL, Law on Public Information, Law on Digital Signatures (2021).\n\n- **Cooperación UN activa** — UNDP como partner.\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **Sin ley IA específica** — No hay ley IA dedicada.\n\n- **National Strategy no adoptado** — Solo draft presentado al Parlamento.\n\n- **Enforcement bajo** — Solo sectorial (data, ciberseguridad), no IA-dedicado.\n\n- **Score readiness bajo** — 3.0 \"Systematization Stage\" vs. países más avanzados.\n\n- **Textos EN son traducciones no oficiales** — Originales en mongol.\n\n- **BGD y GHA tienen instrumentos más avanzados** — NAIS lanzada (GHA), marco risk-based (BGD).\n\n---\n\n## 6. Comparación vs peer group\n\n| País | Régimen | # docs | Tesis diferencial |\n|---|---|---|---|\n| **MNG** | **soft_framework** | **4** | **Caso más reciente del cluster: base",
+    "relevance": 0.99
+  }
+]

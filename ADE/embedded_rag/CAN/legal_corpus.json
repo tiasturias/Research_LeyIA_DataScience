@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "iso3": "CAN",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "CAN_PIPEDA.pdf",
+      "document_title": "Personal Information Protection and Electronic Documents Act (PIPEDA, S.C. 2000, c. 5)",
+      "doc_type": "binding_law_sectoral",
+      "issuer": "Parliament of Canada",
+      "publication_date": "2000-04-13",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://laws-lois.justice.gc.ca/pdf/p-8.6.pdf",
+      "pages": "66"
+    },
+    {
+      "filename": "CAN_PanCanadianAIStrategy_2022.pdf",
+      "document_title": "Pan-Canadian Artificial Intelligence Strategy (Phase 2)",
+      "doc_type": "policy_strategy",
+      "issuer": "Innovation, Science and Economic Development Canada (ISED)",
+      "publication_date": "2022-06-22",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://ised-isde.canada.ca/site/ai-strategy/en/pan-canadian-artificial-intelligence-strategy",
+      "pages": "6"
+    },
+    {
+      "filename": "CAN_AIDA_CompanionDocument_2023.pdf",
+      "document_title": "The Artificial Intelligence and Data Act (AIDA) \u2013 Companion Document",
+      "doc_type": "bill_pending",
+      "issuer": "Innovation, Science and Economic Development Canada (ISED)",
+      "publication_date": "2023-03-13",
+      "status": "died_prorogation",
+      "language": "en",
+      "source_url": "https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document",
+      "pages": "8"
+    },
+    {
+      "filename": "CAN_DirectiveADM.pdf",
+      "document_title": "Directive on Automated Decision-Making",
+      "doc_type": "binding_law_sectoral",
+      "issuer": "Treasury Board of Canada Secretariat (TBS)",
+      "publication_date": "2019-04-01",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592",
+      "pages": "8"
+    },
+    {
+      "filename": "CAN_VoluntaryCodeGenAI_2023.pdf",
+      "document_title": "Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems",
+      "doc_type": "soft_framework",
+      "issuer": "Innovation, Science and Economic Development Canada (ISED)",
+      "publication_date": "2023-09-27",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://ised-isde.canada.ca/site/ised/en/voluntary-code-conduct-responsible-development-and-management-advanced-generative-ai-systems",
+      "pages": "8"
+    },
+    {
+      "filename": "CAN_GuideGenerativeAI_TBS_2024.pdf",
+      "document_title": "Guide on the Use of Generative AI",
+      "doc_type": "guidelines",
+      "issuer": "Treasury Board of Canada Secretariat (TBS)",
+      "publication_date": "2024-02-12",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html",
+      "pages": "8"
+    },
+    {
+      "filename": "CAN_AIStrategyConsultationSummary_2026.pdf",
+      "document_title": "Engagements on Canada's Next AI Strategy: Summary of Inputs",
+      "doc_type": "policy_draft",
+      "issuer": "Innovation, Science and Economic Development Canada (ISED)",
+      "publication_date": "2026-02-02",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://ised-isde.canada.ca/site/ised/sites/default/files/documents/AiStrategyReport_EN.pdf",
+      "pages": "19"
+    }
+  ],
+  "findings_text": "# CAN \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Canad\u00e1 es el \u00fanico pa\u00eds del corpus cuyo proyecto de ley IA comprehensiva (AIDA/Bill C-27) muri\u00f3 formalmente por prorogaci\u00f3n parlamentaria, marking a deliberate legislative retreat that distinguishes it from peers like AUS (mandatory guardrails abortado) and GBR (AI Bill abandonado).** Este caso proporciona un \"negative control\" natural en el estudio: un ecosistema IA maduro (Top 13 Microsoft) con estrategia, frameworks y Directive ADM binding, pero sin legislaci\u00f3n IA vinculante por decisi\u00f3n pol\u00edtica expl\u00edcita. La muerte del AIDA no fue por falta de iniciativa sino por timing pol\u00edtico (snap election).\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 7 | count(manifest.csv) |\n| # binding (law + sectoral) | 2 | PIPEDA + Directive ADM |\n| # soft/policy/strategy | 5 | Strategy + AIDA (dead) + VolCode + Guide + Consultation |\n| P\u00e1ginas totales corpus | 123 | sum(pages) |\n| P\u00e1ginas binding / soft | 74/49 | 1.51:1 |\n| Primer documento (fecha) | 2000-04-13 | min(publication_date) |\n| \u00daltimo documento (fecha) | 2026-02-02 | max(publication_date) |\n| A\u00f1os cubiertos | 26 | (2026-02-02 - 2000-04-13).years |\n| Gap con fecha corpus | 2.6 meses | 2026-04-21 - 2026-02-02 |\n| # docs superseded | 1 | AIDA Companion Document (died_prorogation) |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2000-04-13 | PIPEDA Royal Assent | Ley federal de protecci\u00f3n de datos, aplica a automated processing |\n| 2019-04-01 | Directive on ADM | Vigente desde 2019, AIA mandatorio para sistemas ADM federales |\n| 2022-06-22 | Pan-Canadian AI Strategy Phase 2 | Anuncio oficial, CAD 443M/10 a\u00f1os |\n| 2023-03-13 | AIDA Companion Document | Publicaci\u00f3n explicativa del Bill C-27 |\n| 2023-09-27 | Voluntary Code of Conduct GenAI | Lanzado por Min. Champagne, 6 outcomes (FASTER) |\n| 2024-02-12 | Guide on Generative AI (TBS) | Actualizaci\u00f3n, principios FASTER |\n| 2025-01-06 | Prorogaci\u00f3n parlamentaria | Bill C-27 muri\u00f3; snap election llamada |\n| 2025-06 | Declaraci\u00f3n Ministro Solomon | \"AIDA is off the table as drafted\" |\n| 2025-10 | National AI Strategy Sprint | 11,000+ participantes, Task Force 28 miembros |\n| 2026-02-02 | AI Strategy Consultation Summary | Input para estrategia renovada 2026 |\n\n**Duraci\u00f3n consulta p\u00fablica:** National AI Strategy Sprint octubre 2025 \u2014 2 semanas (estimado; fecha exacta no especificada).\n\n**Emisor principal:** ISED (Innovation, Science and Economic Development Canada) para estrategia y frameworks; TBS (Treasury Board) para Directive ADM y gu\u00edas.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **AIDA Companion Document** (\u00a7AIDA): \"AIDA would have established a new legal framework for AI in Canada, applying to international and interprovincial trade in AI products and services.\" \u2014 Evidencia de que el gobierno s\u00ed intent\u00f3 legislaci\u00f3n comprehensiva.\n\n- **Directive on ADM** (\u00a76.1): \"An Algorithmic Impact Assessment (AIA) must be completed before a new automated decision-making project is initiated.\" \u2014 Binding sectorial real, no aspiracional.\n\n- **Directive on ADM** (\u00a76.3): 4 niveles de impacto (I-IV) con obligaciones escalonadas y revisi\u00f3n humana obligatoria para niveles III-IV. Metodolog\u00eda estructurada.\n\n- **Ministerio de ISED**: Mismo emisor para Pan-Canadian Strategy (2022), AIDA (2023), Voluntary Code (2023), Consultation (2026). Continuidad institucional.\n\n- **Presupuesto**: CAD 443M comprometidos en Pan-Canadian Strategy Phase 2. Inversi\u00f3n p\u00fablica significativa en el ecosistema.\n\n- **Timeline 26 a\u00f1os**: Desde PIPEDA (2000) hasta Consultation (2026). Evoluci\u00f3n continua del marco regulatorio.\n\n- **7 documentos**: Densidad alta vs promedio del corpus (~4-5 docs). ecosistema maduro.\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **Directive ADM es binding**: El argumento de \"sin ley IA\" podr\u00eda refutarse diciendo que Canad\u00e1 S\u00cd tiene regulaci\u00f3n binding (Directive ADM con AIA mandatorio). La tesis se sustenta en que es sectorial (gobierno federal), no comprehensiva como AI Act. *Validaci\u00f3n: la Directive aplica solo a instituciones federales, no al sector privado directamente.*\n\n- **Nueva estrategia 2026 podr\u00eda reintroducir legislaci\u00f3n**: La AI Strategy Consultation Summary (Feb 2026) es input para una nueva estrategia. Podr\u00eda incluir pathway legislativo. *Trigger: Q2-Q3 2026 announcement.*\n\n- **CAISI (Canadian AI Safety Institute)**: Anunciado Nov 2024 con $50M. Si se materializa como autoridad regulatoria, podr\u00eda cambiar el panorama. *Flag: horizonte 12m.*\n\n- **Provincial regulations**: Qu\u00e9bec tiene\u840c\u840c (Law 25), BC tiene privacy laws. El corpus solo cubre federal. *Limitaci\u00f3n metodol\u00f3gica: an\u00e1lisis solo federal.*\n\n---\n\n## 6. Comparaci\u00f3n vs peer group (cl\u00faster pro-innovation angl\u00f3fono)\n\n| Pa\u00eds | R\u00e9gimen | # docs | # binding | Tesis diferencial |\n|---|---|---|---|---|\n| AUS | soft_framework | 7 | 1 | Retroceso expl\u00edcito de mandatory guardrails (sep 2024 \u2192 dic 2025) |\n| GBR | soft_framework | 6 | 2 | Abandono AI Bill + AISI como instituci\u00f3n (2024) |\n| NZL | soft_framework | 5 | 1 | Strategy tard\u00eda (jul 2025) + Algorithm Charter |\n| **CAN** | **soft_framework** | **7** | **2** | **AIDA (Bill C-27) muri\u00f3 por prorogaci\u00f3n enero 2025 \u2014 legislative retreat deliberado** |\n\n**An\u00e1lisis:** CAN se distingue por:\n- Mayor # binding docs (2) vs AUS/NZL (1)\n- Mismo # docs que AUS (7)\n- \u00danico con muerte formal de bill por prorogaci\u00f3n (AUS fue decisi\u00f3n ministerial, GBR fue withdrawn)\n\n---\n\n## 7. Implicancias para el estudio\n\n| Variable X1 | Efecto potencial |\n|---|---|\n| `has_ai_law` | 0 (sin cambio) \u2014 muerto |\n| `regulatory_intensity` | 5 (sin cambio significativo) \u2014 Directive ADM es sustancial pero sectorial |\n| `regulatory_regime_group` | Upgrade de `strategy_only` \u2192 `soft_framework` por Directive ADM con AIA mandatorio |\n| `confidence` | Sube a `medium-high` por evidencia documental s\u00f3lida |\n\n**Hip\u00f3tesis testeable:** \u00bfUn ecosistema IA maduro sin legislaci\u00f3n IA binding (por decisi\u00f3n pol\u00edtica) tiene outcomes diferentes a ecosistemas maduros con legislaci\u00f3n (UE) o sin legislaci\u00f3n por inacci\u00f3n (NZL)?\n\n**Caso narrativo \u00fatil para:** \n- \u00a7Discusi\u00f3n del paper como \"caso de legislaci\u00f3n fallida\"\n- Control negativo para hip\u00f3tesis \"regulaci\u00f3n binding = menor inversi\u00f3n\"\n- Comparaci\u00f3n con GBR (abandono por distinta raz\u00f3n) y AUS (mandatory abortado)\n\n---\n\n## 8. Banderas de re-visita\n\n| Evento | Horizonte | Trigger observable |\n|---|---|---|\n| Nueva AI Strategy 2026 incluye pathway legislativo | 6m | Publicaci\u00f3n de estrategia (esperado Q2-Q3 2026) |\n| Canadian AI Safety Institute operativo | 12m | Anuncio de director/ejecuci\u00f3n de presupuesto |\n| Bill IA reintroducido en Parliament | 6-12m | B\u00fasqueda: \"Bill C- AI\" en parl.ca |\n| Provincial legislation (Qu\u00e9bec, BC) relevan federal | 24m | Monitoreo Laws Loon |\n\n---\n\n## Links\n\n- [CANDIDATES.md](CANDIDATES.md)\n- [SOURCES.md](SOURCES.md)\n- [manifest.csv](manifest.csv)\n"
+}

@@ -1,0 +1,2048 @@
+{
+  "generated_at": "2026-04-22T15:11:54.887361+00:00",
+  "n_countries": 73,
+  "n_with_corpus": 22,
+  "n_without_corpus": 51,
+  "countries": {
+    "ARE": {
+      "country_name": "Emiratos Arabes Unidos",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 6,
+      "n_pages": 185,
+      "n_chunks": 10,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": false
+      }
+    },
+    "ARG": {
+      "country_name": "Argentina",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "ARM": {
+      "country_name": "Armenia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": false
+      }
+    },
+    "AUS": {
+      "country_name": "Australia",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 7,
+      "n_pages": 301,
+      "n_chunks": 12,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "AUT": {
+      "country_name": "Austria",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 4,
+      "n_pages": 332,
+      "n_chunks": 8,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "BEL": {
+      "country_name": "Belgica",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 5,
+      "n_pages": 248,
+      "n_chunks": 9,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "BGD": {
+      "country_name": "Banglades",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 4,
+      "n_pages": 55,
+      "n_chunks": 8,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": false,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": false,
+        "complete_strict": false
+      }
+    },
+    "BGR": {
+      "country_name": "Bulgaria",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "BLR": {
+      "country_name": "Bielorrusia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": false
+      }
+    },
+    "BRA": {
+      "country_name": "Brasil",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "CAN": {
+      "country_name": "Canada",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 7,
+      "n_pages": 123,
+      "n_chunks": 12,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "CHE": {
+      "country_name": "Suiza",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "CHL": {
+      "country_name": "Chile",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "CHN": {
+      "country_name": "China",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "CMR": {
+      "country_name": "Camerun",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": false,
+        "complete_strict": false
+      }
+    },
+    "COL": {
+      "country_name": "Colombia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "CRI": {
+      "country_name": "Costa Rica",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": false
+      }
+    },
+    "CZE": {
+      "country_name": "Republica Checa",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "DEU": {
+      "country_name": "Alemania",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 8,
+      "n_pages": 410,
+      "n_chunks": 13,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "DNK": {
+      "country_name": "Dinamarca",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 4,
+      "n_pages": 424,
+      "n_chunks": 9,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "ECU": {
+      "country_name": "Ecuador",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": false,
+        "complete_strict": false
+      }
+    },
+    "EGY": {
+      "country_name": "Egipto",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": false
+      }
+    },
+    "ESP": {
+      "country_name": "Espana",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 5,
+      "n_pages": 308,
+      "n_chunks": 10,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "FIN": {
+      "country_name": "Finlandia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "FRA": {
+      "country_name": "Francia",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 5,
+      "n_pages": 421,
+      "n_chunks": 10,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "GBR": {
+      "country_name": "Reino Unido",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 6,
+      "n_pages": 865,
+      "n_chunks": 11,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "GHA": {
+      "country_name": "Ghana",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 4,
+      "n_pages": 0,
+      "n_chunks": 8,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": false,
+        "complete_strict": false
+      }
+    },
+    "GRC": {
+      "country_name": "Grecia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "HRV": {
+      "country_name": "Croacia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": false
+      }
+    },
+    "HUN": {
+      "country_name": "Hungria",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 4,
+      "n_pages": 539,
+      "n_chunks": 8,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "IDN": {
+      "country_name": "Indonesia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "IND": {
+      "country_name": "India",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "IRL": {
+      "country_name": "Irlanda",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 4,
+      "n_pages": 429,
+      "n_chunks": 8,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "ISR": {
+      "country_name": "Israel",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 4,
+      "n_pages": 125,
+      "n_chunks": 8,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "ITA": {
+      "country_name": "Italia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "JOR": {
+      "country_name": "Jordania",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": false,
+        "complete_strict": false
+      }
+    },
+    "JPN": {
+      "country_name": "Japon",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "KAZ": {
+      "country_name": "Kazajistan",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": false
+      }
+    },
+    "KEN": {
+      "country_name": "Kenia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": false
+      }
+    },
+    "KOR": {
+      "country_name": "Corea del Sur",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "LBN": {
+      "country_name": "Libano",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": false,
+        "complete_strict": false
+      }
+    },
+    "LKA": {
+      "country_name": "Sri Lanka",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": false
+      }
+    },
+    "LTU": {
+      "country_name": "Lituania",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "MEX": {
+      "country_name": "Mexico",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "MNG": {
+      "country_name": "Mongolia",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 3,
+      "n_pages": 14,
+      "n_chunks": 7,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": false
+      }
+    },
+    "MYS": {
+      "country_name": "Malasia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "NGA": {
+      "country_name": "Nigeria",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": false,
+        "complete_strict": false
+      }
+    },
+    "NLD": {
+      "country_name": "Paises Bajos",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 5,
+      "n_pages": 316,
+      "n_chunks": 10,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "NOR": {
+      "country_name": "Noruega",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 4,
+      "n_pages": 250,
+      "n_chunks": 8,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "NZL": {
+      "country_name": "Nueva Zelanda",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 5,
+      "n_pages": 270,
+      "n_chunks": 9,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "PAN": {
+      "country_name": "Panama",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": false
+      }
+    },
+    "PER": {
+      "country_name": "Peru",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": false,
+        "complete_strict": false
+      }
+    },
+    "PHL": {
+      "country_name": "Filipinas",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": false,
+        "complete_strict": false
+      }
+    },
+    "POL": {
+      "country_name": "Polonia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "PRT": {
+      "country_name": "Portugal",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "ROU": {
+      "country_name": "Rumania",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "RUS": {
+      "country_name": "Rusia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "SAU": {
+      "country_name": "Arabia Saudita",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "SGP": {
+      "country_name": "Singapur",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 7,
+      "n_pages": 44,
+      "n_chunks": 12,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "SRB": {
+      "country_name": "Serbia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": false,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": false
+      }
+    },
+    "SVK": {
+      "country_name": "Eslovaquia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "SVN": {
+      "country_name": "Eslovenia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "SWE": {
+      "country_name": "Suecia",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 5,
+      "n_pages": 322,
+      "n_chunks": 9,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "THA": {
+      "country_name": "Tailandia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "TUN": {
+      "country_name": "Tunez",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": false
+      }
+    },
+    "TUR": {
+      "country_name": "Turquia",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "TWN": {
+      "country_name": "Taiwan",
+      "status": "completed",
+      "has_corpus": true,
+      "n_documents": 7,
+      "n_pages": 30,
+      "n_chunks": 11,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "03_documents_index.json",
+        "04_meta_analysis.md",
+        "embedding_chunks.json",
+        "08_full_analysis.json",
+        "05_sources.md",
+        "06_candidates.md",
+        "07_findings.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": false,
+        "complete_confounded": false,
+        "complete_digital": false,
+        "complete_regime": false,
+        "complete_legal_tradition": false,
+        "complete_extended": false,
+        "complete_strict": false
+      }
+    },
+    "UGA": {
+      "country_name": "Uganda",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": false,
+        "complete_strict": false
+      }
+    },
+    "UKR": {
+      "country_name": "Ucrania",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": false
+      }
+    },
+    "URY": {
+      "country_name": "Uruguay",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": false
+      }
+    },
+    "USA": {
+      "country_name": "Estados Unidos",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "VNM": {
+      "country_name": "Vietnam",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": false,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    },
+    "ZAF": {
+      "country_name": "Sudafrica",
+      "status": "completed",
+      "has_corpus": false,
+      "n_documents": 0,
+      "n_pages": 0,
+      "n_chunks": 0,
+      "files": [
+        "01_profile.json",
+        "02_regulatory.json",
+        "04_meta_analysis.md",
+        "09_data_inventory.json",
+        "10_country_dossier.md",
+        "master_record.json"
+      ],
+      "completeness": {
+        "complete_principal": true,
+        "complete_confounded": true,
+        "complete_digital": true,
+        "complete_regime": true,
+        "complete_legal_tradition": true,
+        "complete_extended": true,
+        "complete_strict": true
+      }
+    }
+  },
+  "regulatory_groups": {
+    "binding_regulation": [
+      "AUT",
+      "BEL",
+      "BGR",
+      "CHN",
+      "CZE",
+      "DEU",
+      "DNK",
+      "ESP",
+      "FIN",
+      "FRA",
+      "GRC",
+      "HRV",
+      "HUN",
+      "IRL",
+      "ITA",
+      "JPN",
+      "KOR",
+      "LTU",
+      "NLD",
+      "PER",
+      "POL",
+      "PRT",
+      "ROU",
+      "RUS",
+      "SVK",
+      "SVN",
+      "SWE"
+    ],
+    "strategy_only": [
+      "ARE",
+      "ARG",
+      "AUS",
+      "BGD",
+      "BRA",
+      "CAN",
+      "CHL",
+      "COL",
+      "CRI",
+      "EGY",
+      "GBR",
+      "GHA",
+      "IDN",
+      "JOR",
+      "KAZ",
+      "KEN",
+      "MEX",
+      "MYS",
+      "NGA",
+      "NOR",
+      "NZL",
+      "PAN",
+      "PHL",
+      "SAU",
+      "SGP",
+      "SRB",
+      "THA",
+      "TUN",
+      "TUR",
+      "TWN",
+      "UKR",
+      "URY",
+      "USA",
+      "VNM",
+      "ZAF"
+    ],
+    "soft_framework": [
+      "ARM",
+      "BLR",
+      "CHE",
+      "ECU",
+      "IND",
+      "ISR",
+      "LKA",
+      "MNG",
+      "UGA"
+    ],
+    "no_framework": [
+      "CMR",
+      "LBN"
+    ]
+  }
+}

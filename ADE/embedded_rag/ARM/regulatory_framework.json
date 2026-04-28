@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "iso3": "ARM",
+    "source": "IAPP",
+    "data_year": "2024"
+  },
+  "regulatory_status": {
+    "group": "soft_framework",
+    "has_ai_law": false
+  },
+  "regulatory_approach": {
+    "value": "light_touch"
+  },
+  "regulatory_intensity": {
+    "value": 1,
+    "scale": "0-10"
+  },
+  "year_enacted": null,
+  "enforcement_level": {
+    "value": "none"
+  },
+  "thematic_coverage": {
+    "value": 2,
+    "max": 15
+  },
+  "data_protection": {
+    "has_gdpr_like_law": true,
+    "gdpr_similarity_level": 2,
+    "has_dpa": true,
+    "enforcement_active": true
+  }
+}

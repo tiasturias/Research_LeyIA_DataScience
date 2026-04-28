@@ -1,0 +1,52 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "GBR: strategy_only, intensity 6/10, strategy_led, enforcement high",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "GBR: AI readiness 77.75, adoption 38.9%, investment $28.1703B, 885.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "GBR: regulatory quality 1.5366, rule of law 1.3984, FH 91/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "GBR: National AI Strategy (policy_strategy) - Department for Digital Culture Media and Sport (DCMS), 2021-09-22, 66pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "GBR: A Pro-Innovation Approach to AI Regulation: Government Response to Consultation (CP 1019) (soft_framework) - Department for Science Innovation and Technology (DSIT), 2024-02-06, 98pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "GBR: AI Opportunities Action Plan (CP 1241) (policy_strategy) - Department for Science Innovation and Technology (DSIT), 2025-01-13, 26pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "GBR: Introducing the AI Safety Institute (soft_framework) - AI Safety Institute (AISI) \u2014 Department for Science Innovation and Technology (DSIT), 2023-11-02, 18pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "GBR: Data Protection Act 2018 (c. 12) (binding_law) - UK Parliament, 2018-05-23, 354pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "GBR: Online Safety Act 2023 (c. 50) (binding_law) - UK Parliament, 2023-10-26, 303pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# GBR \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Reino Unido presenta la paradoja regulatoria m\u00e1s notable del corpus: el pa\u00eds con mayor liderazgo global en seguridad IA (AISI \u2014 primer instituto estatal de seguridad IA del mundo, lanzado en Bletchley Park noviembre 2023) ha adoptado deliberadamente el enfoque regulatorio m\u00e1s ligero de Europa mediante su \"sector-specific, context-based approach\" articulado en la Government Response 2024, que expl\u00edcitamente rechaza una ley IA horizontal al estilo UE y opta por cinco principios transversales aplicados por reguladores sectoriales existentes \u2014 una teor\u00eda regulatoria alternativa que exporta a USA, JPN y KOR, pero que lo clasifica como soft_framework en lugar de binding_regulation.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 6 | count(manifest.csv) |\n| # binding (law + sectoral) | 2 | DPA 2018 + OSA 2023 |\n| # soft/policy/strategy | 4 | AI Strategy + White Paper Response + Action Plan + AISI |\n| P\u00e1ginas totales corpus | 865 | sum(pages) |\n| P\u00e1ginas binding / soft | 657 / 208 | 3.16:1 |\n| Primer documento (fecha) | 2018-05 | Data Protection Act |\n| \u00daltimo documento (fecha) | 2025-01 | AI Opportunities Action Plan |\n| A\u00f1os cubiertos | 6.5 | (2025-01 - 2018-05) |\n| Gap con fecha corpus | ~3 meses | 2026-04-21 - 2025-01 |\n| # docs superseded | 1 | National AI Strategy 2021 (superseded por Action Plan 2025) |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2018-05-23 | Data Protection Act | Ley de protecci\u00f3n de datos post-Brexit. Art. 22 sobre automated decisions. ICO enforcement. |\n| 2021-09-22 | National AI Strategy | Estrategia IA nacional. Tres pilares: ecosistema, econom\u00eda, gobernanza. |\n| 2023-03 | AI White Paper | CP 815 \u2014 consulta p\u00fablica sobre enfoque regulatorio IA. |\n| 2023-10-26 | Online Safety Act | Royal Assent. Primera ley brit\u00e1nica con provisiones expl\u00edcitas para IA (chatbots, algoritmos). |\n| 2023-11-02 | AISI fundacional | AI Safety Institute lanzado en AI Safety Summit (Bletchley Park). Primer instituto estatal safety IA del mundo. |\n| 2024-02-06 | Government Response | White Paper Response CP 1019. Confirma: sin nueva ley IA horizontal; cinco principios; AISI creado. |\n| 2025-01-13 | AI Opportunities Action Plan | 50 recomendaciones del PM Starmer aceptadas. AI Growth Zones, compute nacional, National Data Library. |\n\n**Duraci\u00f3n:** 6.5 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** DSIT (Department for Science Innovation and Technology) / DCMS.\n**Postura deliberada:** \"Pro-innovation, context-based, no horizontal AI law.\"\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **AISI \u2014 primer instituto estatal de seguridad IA del mundo** \u2014 Citado: \"The AI Safety Institute will be the first state-backed organisation focused on advanced AI safety anywhere in the world.\" Lanzado en Bletchley Park (nov 2023), renombrado AI Security Institute (",
+    "relevance": 0.99
+  }
+]

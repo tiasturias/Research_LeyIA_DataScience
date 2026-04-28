@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Artificial Intelligence Basic Act (Taiwan, 2026)",
+    "type": "binding_law_ai",
+    "date": "2026-01-14",
+    "pages": "3"
+  },
+  {
+    "title": "\u4eba\u5de5\u667a\u6167\u57fa\u672c\u6cd5 (Artificial Intelligence Basic Act, ZH)",
+    "type": "binding_law_ai",
+    "date": "2026-01-14",
+    "pages": "3"
+  },
+  {
+    "title": "Personal Data Protection Act (Taiwan)",
+    "type": "binding_law_sectoral",
+    "date": "2025-11-11",
+    "pages": "8"
+  },
+  {
+    "title": "Cyber Security Management Act (Taiwan)",
+    "type": "binding_law_sectoral",
+    "date": "2018-06-06",
+    "pages": "7"
+  },
+  {
+    "title": "AI Taiwan Action Plan 2.0 (2023-2026)",
+    "type": "policy_strategy",
+    "date": "2023-04",
+    "pages": ""
+  },
+  {
+    "title": "Reference Guidelines for the Use of Generative AI by the Executive Yuan and Subordinate Agencies (Draft, approved by 3869th session)",
+    "type": "guidelines",
+    "date": "2023-08-31",
+    "pages": "5"
+  },
+  {
+    "title": "Reference Guidelines for AI Applications in National Critical Infrastructure (\u570b\u5bb6\u95dc\u9375\u57fa\u790e\u8a2d\u65bd\u61c9\u7528\u4eba\u5de5\u667a\u6167\u53c3\u8003\u6307\u5f15)",
+    "type": "guidelines",
+    "date": "2025-10-08",
+    "pages": "4"
+  }
+]

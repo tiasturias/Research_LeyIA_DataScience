@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "BGD: strategy_only, intensity 2/10, strategy_led, enforcement low",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "BGD: AI readiness 48.37, adoption 7.1%, investment $0.0022B, 1.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "BGD: regulatory quality -0.9009, rule of law -0.902, FH 40/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "BGD: National Strategy for Artificial Intelligence — Bangladesh (strategy) - Information and Communication Technology Division, Government of the People's Republic of Bangladesh, 2020-03, 55pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "BGD: National AI Policy Bangladesh 2026-2030 (DRAFT V1.1) (policy_draft) - ICT Division, Ministry of Posts, Telecommunications and Information Technology, Government of Bangladesh, 2026-01, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "BGD: Bangladesh National AI Policy 2026-2030 (Draft v2) (policy_draft) - ICT Division, Ministry of Posts, Telecommunications and Information Technology, Government of Bangladesh, 2026-02-09, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "BGD: Bangladesh Artificial Intelligence Readiness Assessment Report (readiness_assessment) - UNESCO + UNDP + ICT Division Government of Bangladesh (co-published), 2025-11, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# BGD — Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Bangladesh transita de `strategy_only` a `soft_framework` mediante el National AI Policy 2026-2030 (Draft V2.0): marco risk-based completo (4 niveles: prohibited/high/limited/low), AIAs mandatorios, strict liability para high-risk, prohibiciones explícitas (social scoring, mass surveillance), y pathway declarado a AI Act para 2028. Es el caso de \"emerging soft_framework con trajectory legislativa formal\" en el corpus — comparable a GHA y MNG en el mismo cluster, pero con marco más denso y fecha de AI Act comprometidas.**\n\n---\n\n## 2. Evidencia cuantitativa — densidad del corpus\n\n| Métrica | Valor | Cálculo |\n|---|---|---|\n| # documentos totales | 5 | count(manifest.csv) |\n| # binding (ley IA) | 0 | Sin ley vigente |\n| # policy_draft | 2 | NAIP V1.1, NAIP V2.0 |\n| # strategy | 1 | NSAI 2020 |\n| # readiness_assessment | 1 | AIRAM UNESCO/UNDP 2025 |\n| Páginas totales corpus | ~55+ | NSAI 2020 (55pp) + otros |\n| Primer documento (fecha) | 2020-03 | NSAI |\n| Último documento (fecha) | 2026-02 | NAIP V2.0 |\n| Años cubiertos | 6 | (2026-02 - 2020-03) |\n\n---\n\n## 3. Evidencia cuantitativa — timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2020-03 | NSAI 2020 | Primera estrategia nacional IA. 55pp. |\n| 2024 | NAIP 2024 Draft | Borrador inicial. Retirado tras V1.1. |\n| 2025-11 | AIRAM 2025 | Readiness Assessment co-firmado UNESCO/UNDP. |\n| 2026-01 | NAIP V1.1 Draft | Primera versión pública del NAIP 2026-2030. |\n| 2026-02-09 | NAIP V2.0 Draft | Versión post-consulta pública (cerró 8-feb-2026). En revisión del Steering Committee. |\n\n**Duración:** 6 años de evolución regulatoria.\n**Emisor principal:** ICT Division, Ministry of Posts, Telecommunications and Information Technology.\n**Diferencial:** Transición strategy_only → soft_framework + pathway a binding.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **Marco risk-based completo** — 4 niveles: prohibited (unacceptable risk), high-risk, limited-risk, low-risk. §4.1 Regulatory Framework.\n\n- **Prohibiciones explícitas** — AI-enabled social scoring, indiscriminate biometric mass surveillance, manipulative/deceptive AI. §4.9.\n\n- **AIAs mandatorios** — Algorithmic Impact Assessments obligatorios para sistemas IA significativos del sector público y high-risk del sector privado. §4.9.\n\n- **Strict liability** — Para high-risk systems en healthcare, financial services, employment, justice, education, critical infrastructure. §4.11.\n\n- **Pathway legislativo formal** — \"Ministry of Law... shall initiate drafting of comprehensive Artificial Intelligence Act by 2028.\" §7.5.\n\n- **Autoridad designada** — NDGA (National Digital Government Agency) con poderes de certificación, estándares técnicos, oversight AIA. §4.2.\n\n- **Cobertura temática amplia** — Risk classification, prohibited practices, AIA, data governance, disinformation/deepfakes, liability, derechos, cooperacion internacional, sectores.\n\n- **Momentum internacional** — AIRAM 2025 co-",
+    "relevance": 0.99
+  }
+]

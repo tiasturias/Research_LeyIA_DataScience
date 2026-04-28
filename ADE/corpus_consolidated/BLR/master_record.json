@@ -1,0 +1,300 @@
+{
+  "iso3": "BLR",
+  "country_name": "Bielorrusia",
+  "consolidated_at": "2026-04-22T15:11:54.767893+00:00",
+  "has_embedded_data": true,
+  "has_legal_corpus": false,
+  "files": [
+    "01_profile.json",
+    "02_regulatory.json",
+    "04_meta_analysis.md",
+    "09_data_inventory.json",
+    "10_country_dossier.md"
+  ],
+  "n_documents": 0,
+  "n_pages": 0,
+  "n_chunks": 0,
+  "completeness": {
+    "complete_principal": true,
+    "complete_confounded": true,
+    "complete_digital": true,
+    "complete_regime": true,
+    "complete_legal_tradition": true,
+    "complete_extended": true,
+    "complete_strict": false
+  },
+  "source_inventory": [
+    {
+      "source": "IAPP + OECD (X1 regulatorio)",
+      "purpose": "Caracterizar el marco regulatorio de IA del pais.",
+      "variables": [
+        {
+          "key": "has_ai_law",
+          "label": "Tiene ley IA",
+          "value": "0",
+          "reference": ""
+        },
+        {
+          "key": "regulatory_approach",
+          "label": "Enfoque regulatorio",
+          "value": "light_touch",
+          "reference": ""
+        },
+        {
+          "key": "regulatory_intensity",
+          "label": "Intensidad regulatoria",
+          "value": "1",
+          "reference": ""
+        },
+        {
+          "key": "thematic_coverage",
+          "label": "Cobertura tematica",
+          "value": "1",
+          "reference": ""
+        },
+        {
+          "key": "regulatory_status_group",
+          "label": "Grupo regulatorio",
+          "value": "soft_framework",
+          "reference": ""
+        },
+        {
+          "key": "x1_source",
+          "label": "Fuente X1 consolidada",
+          "value": "IAPP",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "Stanford AI Index",
+      "purpose": "Medir inversion, startups y patentes del ecosistema IA.",
+      "variables": [
+        {
+          "key": "ai_investment_usd_bn_cumulative",
+          "label": "Inversion IA acumulada (USD bn)",
+          "value": "0.012",
+          "reference": "2024.0"
+        },
+        {
+          "key": "ai_startups_cumulative",
+          "label": "Startups IA acumuladas",
+          "value": "2.0",
+          "reference": "2024.0"
+        }
+      ]
+    },
+    {
+      "source": "Microsoft AI Diffusion Report",
+      "purpose": "Capturar adopcion efectiva de IA generativa.",
+      "variables": [
+        {
+          "key": "ai_adoption_rate",
+          "label": "Adopcion IA",
+          "value": "8.4",
+          "reference": "H2_2025"
+        }
+      ]
+    },
+    {
+      "source": "Oxford Insights",
+      "purpose": "Medir readiness gubernamental para IA.",
+      "variables": [
+        {
+          "key": "ai_readiness_score",
+          "label": "AI readiness score",
+          "value": "32.47",
+          "reference": "2025"
+        }
+      ]
+    },
+    {
+      "source": "WIPO Global Innovation Index",
+      "purpose": "Controlar capacidad general de innovacion y region.",
+      "variables": [
+        {
+          "key": "gii_score",
+          "label": "GII score",
+          "value": "25.0990285299842",
+          "reference": "2025.0"
+        },
+        {
+          "key": "region",
+          "label": "Region",
+          "value": "Europe",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "World Bank WDI",
+      "purpose": "Agregar controles socioeconomicos y de economia digital.",
+      "variables": [
+        {
+          "key": "gdp_per_capita_ppp",
+          "label": "PIB per capita PPP",
+          "value": "33010.3307605357",
+          "reference": "2024.0"
+        },
+        {
+          "key": "internet_penetration",
+          "label": "Penetracion internet",
+          "value": "94.26182128",
+          "reference": "2024.0"
+        },
+        {
+          "key": "rd_expenditure",
+          "label": "Gasto I+D",
+          "value": "0.5872",
+          "reference": "2024.0"
+        },
+        {
+          "key": "tertiary_education",
+          "label": "Educacion terciaria",
+          "value": "70.1107509145358",
+          "reference": "2024.0"
+        },
+        {
+          "key": "ict_service_exports_pct",
+          "label": "Exportaciones ICT",
+          "value": "31.4053956639542",
+          "reference": "2021.0"
+        },
+        {
+          "key": "high_tech_exports_pct",
+          "label": "Exportaciones high-tech",
+          "value": "6.01576846359853",
+          "reference": "2021.0"
+        }
+      ]
+    },
+    {
+      "source": "World Bank WGI",
+      "purpose": "Controlar calidad institucional y gobernanza.",
+      "variables": [
+        {
+          "key": "regulatory_quality",
+          "label": "Regulatory quality",
+          "value": "-1.175204",
+          "reference": "2023.0"
+        },
+        {
+          "key": "rule_of_law",
+          "label": "Rule of law",
+          "value": "-1.2155307",
+          "reference": "2023.0"
+        },
+        {
+          "key": "government_effectiveness",
+          "label": "Government effectiveness",
+          "value": "-0.596406099999999",
+          "reference": "2023.0"
+        },
+        {
+          "key": "control_of_corruption",
+          "label": "Control of corruption",
+          "value": "-0.534353699999999",
+          "reference": "2023.0"
+        }
+      ]
+    },
+    {
+      "source": "GDPR / proteccion de datos",
+      "purpose": "Capturar tradicion regulatoria digital preexistente.",
+      "variables": [
+        {
+          "key": "has_gdpr_like_law",
+          "label": "Tiene ley GDPR-like",
+          "value": "1",
+          "reference": ""
+        },
+        {
+          "key": "gdpr_similarity_level",
+          "label": "Nivel de similitud GDPR",
+          "value": "2",
+          "reference": ""
+        },
+        {
+          "key": "dp_law_year",
+          "label": "Ano ley DP",
+          "value": "2021",
+          "reference": ""
+        },
+        {
+          "key": "has_dpa",
+          "label": "Tiene DPA",
+          "value": "1",
+          "reference": ""
+        },
+        {
+          "key": "enforcement_active",
+          "label": "Enforcement activo DP",
+          "value": "1",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "Freedom House",
+      "purpose": "Controlar tipo de regimen politico y libertades.",
+      "variables": [
+        {
+          "key": "fh_total_score",
+          "label": "Freedom House total",
+          "value": "8",
+          "reference": "2025"
+        },
+        {
+          "key": "fh_status",
+          "label": "FH status",
+          "value": "NF",
+          "reference": ""
+        },
+        {
+          "key": "fh_democracy_level",
+          "label": "Nivel democracia FH",
+          "value": "0",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "Legal Origin",
+      "purpose": "Capturar tradicion juridica como confounder institucional.",
+      "variables": [
+        {
+          "key": "legal_origin",
+          "label": "Legal origin",
+          "value": "Socialist",
+          "reference": ""
+        },
+        {
+          "key": "is_common_law",
+          "label": "Common law",
+          "value": "0",
+          "reference": ""
+        }
+      ]
+    }
+  ],
+  "metrics": {
+    "region": "Europe",
+    "oecd_member": false,
+    "ai_readiness": 32.47,
+    "ai_adoption": 8.4,
+    "ai_investment": 0.012,
+    "gdp_per_capita": 33010.3308,
+    "internet_penetration": 94.2618,
+    "regulatory_quality": -1.1752,
+    "rule_of_law": -1.2155
+  },
+  "regulatory": {
+    "group": "soft_framework",
+    "has_ai_law": false,
+    "approach": "light_touch",
+    "intensity": 1,
+    "thematic_coverage": 1,
+    "has_gdpr_like_law": true,
+    "gdpr_similarity_level": 2
+  }
+}

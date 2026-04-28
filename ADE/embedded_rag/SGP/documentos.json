@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Personal Data Protection Act 2012 (consolidated, incl. 2020 Amendment Act 40/2020)",
+    "type": "binding_law_sectoral",
+    "date": "2012-10-15",
+    "pages": ""
+  },
+  {
+    "title": "Cybersecurity Act 2018 (No. 9 of 2018, consolidated)",
+    "type": "binding_law_sectoral",
+    "date": "2018-03-12",
+    "pages": ""
+  },
+  {
+    "title": "Principles to Promote Fairness, Ethics, Accountability and Transparency (FEAT) in the Use of AI and Data Analytics in Singapore's Financial Sector",
+    "type": "soft_framework_sectoral",
+    "date": "2018-11-12",
+    "pages": "15"
+  },
+  {
+    "title": "Model Artificial Intelligence Governance Framework (Second Edition)",
+    "type": "soft_framework",
+    "date": "2020-01-21",
+    "pages": ""
+  },
+  {
+    "title": "National AI Strategy 2.0: AI for the Public Good, for Singapore and the World",
+    "type": "strategy",
+    "date": "2023-12-04",
+    "pages": ""
+  },
+  {
+    "title": "Model AI Governance Framework for Generative AI",
+    "type": "soft_framework",
+    "date": "2024-05-30",
+    "pages": ""
+  },
+  {
+    "title": "Model AI Governance Framework for Agentic AI",
+    "type": "soft_framework",
+    "date": "2026-01-22",
+    "pages": "29"
+  }
+]

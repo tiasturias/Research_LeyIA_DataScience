@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "iso3": "MNG",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "MNG_PersonalDataProtectionLaw_2021.pdf",
+      "document_title": "Law of Mongolia on Personal Data Protection (2021)",
+      "doc_type": "binding_law_sectoral",
+      "issuer": "State Great Khural (Parliament) of Mongolia",
+      "publication_date": "2021-12-17",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://legalinfo.mn/en/edtl/16532053734461",
+      "pages": "8"
+    },
+    {
+      "filename": "MNG_CyberSecurityLaw_2021.pdf",
+      "document_title": "Law of Mongolia on Cyber Security (2021)",
+      "doc_type": "binding_law_sectoral",
+      "issuer": "State Great Khural (Parliament) of Mongolia",
+      "publication_date": "2021-12-17",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://legalinfo.mn/en/edtl/16531350476261",
+      "pages": "6"
+    },
+    {
+      "filename": "MNG_AILA_UNDP_2025.pdf",
+      "document_title": "Artificial Intelligence Landscape Assessment of Mongolia",
+      "doc_type": "readiness_assessment",
+      "issuer": "UNDP + Ministry of Digital Development, Innovation and Communications (MDDIC) Mongolia (co-published)",
+      "publication_date": "2025-08",
+      "status": "official_joint_publication",
+      "language": "en",
+      "source_url": "https://www.undp.org/sites/g/files/zskgke326/files/2025-08/aila_eng-final.pdf",
+      "pages": ""
+    }
+  ],
+  "findings_text": "# MNG \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Mongolia transita a `soft_framework` mediante base legal sectorial de 2022 (Personal Data Protection Law + Cyber Security Law, ambas en vigor desde 2022-05-01) + AILA 2025 co-firmado con UNDP (readiness score 3.0 \"Systematization Stage\") + draft National Strategy for Big Data and AI presentado al Parlamento. Mongolia es el caso m\u00e1s reciente/temprano del cluster Sur Global: base legal de 2022 + estrategia en Parlamento = trayectoria clara pero sin instrumento IA consolidado.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 4 | count(manifest.csv) |\n| # binding (ley sectorial) | 2 | PDPL 2021, CSL 2021 |\n| # readiness_assessment | 1 | AILA UNDP 2025 |\n| P\u00e1ginas totales corpus | ~20 | PDPL (8pp) + CSL (6pp) + AILA |\n| Primer documento (fecha) | 2021-12-17 | PDPL + CSL |\n| \u00daltimo documento (fecha) | 2025-08 | AILA |\n| A\u00f1os cubiertos | ~4 | (2025-08 - 2021-12) |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2021-12-17 | PDPL + CSL aprobadas | Parliament approves paquete de 4 leyes digitales. |\n| 2022-05-01 | PDPL + CSL vigor | Entran en vigor. |\n| 2025-02-05 | National Strategy draft | MDDIC presenta al Parlamento. |\n| 2025-08 | AILA 2025 | UNDP + MDDIC co-publican. Score 3.0. |\n\n**Duraci\u00f3n:** ~4 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** State Great Khural, MDDIC, UNDP.\n**Diferencial:** Caso m\u00e1s reciente del cluster Sur Global.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **Personal Data Protection Law 2021** \u2014 Reemplaza Law on Personal Secrecy (1995). R\u00e9gimen GDPR-like en Mongolia. Aplicable a training data IA.\n\n- **Cyber Security Law 2021** \u2014 Primera ley de ciberseguridad de Mongolia. Establece Cyber Security Council, CII regime.\n\n- **Autoridades establecidas** \u2014 Communications Regulatory Commission (data), Cyber Security Council/National Center.\n\n- **AILA 2025 co-firmado** \u2014 MDDIC + UNDP. Score 3.0 \"Systematization Stage\".\n\n- **Draft National Strategy** \u2014 Presentado al Parlamento 2025.\n\n- **Paquete de 4 leyes digitales** \u2014 PDPL, CSL, Law on Public Information, Law on Digital Signatures (2021).\n\n- **Cooperaci\u00f3n UN activa** \u2014 UNDP como partner.\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **Sin ley IA espec\u00edfica** \u2014 No hay ley IA dedicada.\n\n- **National Strategy no adoptado** \u2014 Solo draft presentado al Parlamento.\n\n- **Enforcement bajo** \u2014 Solo sectorial (data, ciberseguridad), no IA-dedicado.\n\n- **Score readiness bajo** \u2014 3.0 \"Systematization Stage\" vs. pa\u00edses m\u00e1s avanzados.\n\n- **Textos EN son traducciones no oficiales** \u2014 Originales en mongol.\n\n- **BGD y GHA tienen instrumentos m\u00e1s avanzados** \u2014 NAIS lanzada (GHA), marco risk-based (BGD).\n\n---\n\n## 6. Comparaci\u00f3n vs peer group\n\n| Pa\u00eds | R\u00e9gimen | # docs | Tesis diferencial |\n|---|---|---|---|\n| **MNG** | **soft_framework** | **4** | **Caso m\u00e1s reciente del cluster: base legal 2022 + estrategia en Parlamento** |\n| SGP | soft_framework | 7 | M\u00e1ximo densidad global |\n| BGD | soft_framework | 5 | Marco risk-based m\u00e1s denso |\n| GHA | soft_framework | 5 | Base legal sectorial s\u00f3lida |\n\n**An\u00e1lisis:** MNG es el caso m\u00e1s reciente del cluster:\n- Base legal 2022 (m\u00e1s reciente que GHA 2012/2020)\n- Draft Strategy en Parlamento (m\u00e1s temprano que BGD V2.0)\n- Score readiness 3.0 (Systematization)\n\n**Contraste:** MNG \u2260 SGP (SGP tiene ecosistema maduro desde 2012).\n\n---\n\n## 7. Implicancias para el estudio\n\n| Variable X1 | Efecto potencial |\n|---|---|\n| `has_ai_law` | 0 (sin ley IA espec\u00edfica) |\n| `regulatory_intensity` | 3/10 (+2 desde IAPP 1) |\n| `thematic_coverage` | 5/15 (+4 desde IAPP 1) |\n| `enforcement_level` | `low` (sectorial) |\n| `regulatory_regime_group` | `soft_framework` (TRANSICI\u00d3N) |\n\n**Hip\u00f3tesis testeable:**\n- \u00bfPa\u00edses con cooperaci\u00f3n UN activa (MNG con UNDP) tienen trayectorias regulatorias diferentes?\n- \u00bfEl modelo Mongolia (base legal reciente + estrategia en Parlamento) es replicable en otros pa\u00edses en desarrollo?\n\n**Caso narrativo \u00fatil para:**\n- \u00a7Discusi\u00f3n como \"soft_framework m\u00e1s reciente del Sur Global\"\n- Comparaci\u00f3n con BGD/GHA (cluster)\n- Lecciones sobre adopci\u00f3n regulatoria temprana\n\n---\n\n## 8. Banderas de re-visita\n\n| Evento | Horizonte | Trigger observable |\n|---|---|---|\n| National Strategy adopci\u00f3n | 6m | Publicaci\u00f3n en legalinfo.mn |\n| National Council on AI | 12m | Decreto gubernamental |\n| GPU cluster AI Center | 12m | Anuncio MDDIC |\n\n---\n\n## Links\n\n- [CANDIDATES.md](CANDIDATES.md)\n- [SOURCES.md](SOURCES.md)\n- [manifest.csv](manifest.csv)"
+}

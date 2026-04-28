@@ -1,0 +1,26 @@
+[
+  {
+    "title": "National Strategy for Artificial Intelligence (Nasjonal strategi for kunstig intelligens)",
+    "type": "policy_strategy",
+    "date": "2020-01-01",
+    "pages": "67"
+  },
+  {
+    "title": "The Digital Norway of the Future \u2014 National Digitalisation Strategy 2024\u20132030",
+    "type": "policy_strategy",
+    "date": "2024-09-26",
+    "pages": "108"
+  },
+  {
+    "title": "H\u00f8ring \u2013 utkast til ny lov om kunstig intelligens \u2013 gjennomf\u00f8ring av EUs forordning om kunstig intelligens i norsk rett (Consultation \u2013 Draft law on artificial intelligence implementing the EU AI Regulation into Norwegian law)",
+    "type": "bill_pending",
+    "date": "2025-06-30",
+    "pages": "63"
+  },
+  {
+    "title": "Strategi for Datatilsynets arbeid med kunstig intelligens (Strategy for Datatilsynet's Work with Artificial Intelligence)",
+    "type": "soft_framework",
+    "date": "2024-03-22",
+    "pages": "12"
+  }
+]

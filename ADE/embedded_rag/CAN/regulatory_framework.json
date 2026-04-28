@@ -1,0 +1,25 @@
+{
+  "regulatory_status": {
+    "group": "strategy_only",
+    "has_ai_law": false
+  },
+  "regulatory_approach": {
+    "value": "strategy_led"
+  },
+  "regulatory_intensity": {
+    "value": 5,
+    "scale": "0-10"
+  },
+  "enforcement_level": {
+    "value": "medium"
+  },
+  "thematic_coverage": {
+    "value": 11,
+    "max": 15
+  },
+  "data_protection": {
+    "has_gdpr_like_law": true,
+    "gdpr_similarity_level": 3,
+    "has_dpa": true
+  }
+}

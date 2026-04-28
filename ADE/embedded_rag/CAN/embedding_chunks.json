@@ -1,0 +1,57 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "CAN: strategy_only, intensity 5/10, strategy_led, enforcement medium",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "CAN: AI readiness 74.66, adoption 35.0%, investment $15.306B, 481.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "CAN: regulatory quality 1.6447, rule of law 1.473, FH 97/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "CAN: Personal Information Protection and Electronic Documents Act (PIPEDA, S.C. 2000, c. 5) (binding_law_sectoral) - Parliament of Canada, 2000-04-13, 66pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "CAN: Pan-Canadian Artificial Intelligence Strategy (Phase 2) (policy_strategy) - Innovation, Science and Economic Development Canada (ISED), 2022-06-22, 6pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "CAN: The Artificial Intelligence and Data Act (AIDA) \u2013 Companion Document (bill_pending) - Innovation, Science and Economic Development Canada (ISED), 2023-03-13, 8pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "CAN: Directive on Automated Decision-Making (binding_law_sectoral) - Treasury Board of Canada Secretariat (TBS), 2019-04-01, 8pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "CAN: Voluntary Code of Conduct on the Responsible Development and Management of Advanced Generative AI Systems (soft_framework) - Innovation, Science and Economic Development Canada (ISED), 2023-09-27, 8pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "CAN: Guide on the Use of Generative AI (guidelines) - Treasury Board of Canada Secretariat (TBS), 2024-02-12, 8pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "CAN: Engagements on Canada's Next AI Strategy: Summary of Inputs (policy_draft) - Innovation, Science and Economic Development Canada (ISED), 2026-02-02, 19pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# CAN \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Canad\u00e1 es el \u00fanico pa\u00eds del corpus cuyo proyecto de ley IA comprehensiva (AIDA/Bill C-27) muri\u00f3 formalmente por prorogaci\u00f3n parlamentaria, marking a deliberate legislative retreat that distinguishes it from peers like AUS (mandatory guardrails abortado) and GBR (AI Bill abandonado).** Este caso proporciona un \"negative control\" natural en el estudio: un ecosistema IA maduro (Top 13 Microsoft) con estrategia, frameworks y Directive ADM binding, pero sin legislaci\u00f3n IA vinculante por decisi\u00f3n pol\u00edtica expl\u00edcita. La muerte del AIDA no fue por falta de iniciativa sino por timing pol\u00edtico (snap election).\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 7 | count(manifest.csv) |\n| # binding (law + sectoral) | 2 | PIPEDA + Directive ADM |\n| # soft/policy/strategy | 5 | Strategy + AIDA (dead) + VolCode + Guide + Consultation |\n| P\u00e1ginas totales corpus | 123 | sum(pages) |\n| P\u00e1ginas binding / soft | 74/49 | 1.51:1 |\n| Primer documento (fecha) | 2000-04-13 | min(publication_date) |\n| \u00daltimo documento (fecha) | 2026-02-02 | max(publication_date) |\n| A\u00f1os cubiertos | 26 | (2026-02-02 - 2000-04-13).years |\n| Gap con fecha corpus | 2.6 meses | 2026-04-21 - 2026-02-02 |\n| # docs superseded | 1 | AIDA Companion Document (died_prorogation) |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2000-04-13 | PIPEDA Royal Assent | Ley federal de protecci\u00f3n de datos, aplica a automated processing |\n| 2019-04-01 | Directive on ADM | Vigente desde 2019, AIA mandatorio para sistemas ADM federales |\n| 2022-06-22 | Pan-Canadian AI Strategy Phase 2 | Anuncio oficial, CAD 443M/10 a\u00f1os |\n| 2023-03-13 | AIDA Companion Document | Publicaci\u00f3n explicativa del Bill C-27 |\n| 2023-09-27 | Voluntary Code of Conduct GenAI | Lanzado por Min. Champagne, 6 outcomes (FASTER) |\n| 2024-02-12 | Guide on Generative AI (TBS) | Actualizaci\u00f3n, principios FASTER |\n| 2025-01-06 | Prorogaci\u00f3n parlamentaria | Bill C-27 muri\u00f3; snap election llamada |\n| 2025-06 | Declaraci\u00f3n Ministro Solomon | \"AIDA is off the table as drafted\" |\n| 2025-10 | National AI Strategy Sprint | 11,000+ participantes, Task Force 28 miembros |\n| 2026-02-02 | AI Strategy Consultation Summary | Input para estrategia renovada 2026 |\n\n**Duraci\u00f3n consulta p\u00fablica:** National AI Strategy Sprint octubre 2025 \u2014 2 semanas (estimado; fecha exacta no especificada).\n\n**Emisor principal:** ISED (Innovation, Science and Economic Development Canada) para estrategia y frameworks; TBS (Treasury Board) para Directive ADM y gu\u00edas.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **AIDA Companion Document** (\u00a7AIDA): \"AIDA would have established a new legal framework for AI in Canada, applying to international and interprovincial trade in AI products and services.\" \u2014 Evidencia de que el gobierno s\u00ed intent\u00f3 legislaci\u00f3n comprehensiva.\n\n- **Directive on ADM** (",
+    "relevance": 0.99
+  }
+]

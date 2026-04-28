@@ -1,0 +1,57 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "TWN: strategy_only, intensity 5/10, strategy_led, enforcement medium",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "TWN: AI readiness 64.81, adoption 28.4%, investment $0.9719B, 42.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "TWN: regulatory quality None, rule of law None, FH 94/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "TWN: Artificial Intelligence Basic Act (Taiwan, 2026) (binding_law_ai) - Legislative Yuan / Office of the President, R.O.C. (Taiwan), 2026-01-14, 3pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "TWN: 人工智慧基本法 (Artificial Intelligence Basic Act, ZH) (binding_law_ai) - Legislative Yuan / Office of the President, R.O.C. (Taiwan), 2026-01-14, 3pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "TWN: Personal Data Protection Act (Taiwan) (binding_law_sectoral) - Legislative Yuan, R.O.C. (Taiwan), 2025-11-11, 8pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "TWN: Cyber Security Management Act (Taiwan) (binding_law_sectoral) - Legislative Yuan, R.O.C. (Taiwan), 2018-06-06, 7pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "TWN: AI Taiwan Action Plan 2.0 (2023-2026) (policy_strategy) - Executive Yuan / National Development Council (NDC), 2023-04, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "TWN: Reference Guidelines for the Use of Generative AI by the Executive Yuan and Subordinate Agencies (Draft, approved by 3869th session) (guidelines) - National Science and Technology Council (NSTC) / Executive Yuan, 2023-08-31, 5pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "TWN: Reference Guidelines for AI Applications in National Critical Infrastructure (國家關鍵基礎設施應用人工智慧參考指引) (guidelines) - Office of Homeland Security / Executive Yuan, 2025-10-08, 4pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# TWN — Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Taiwán promulgó el AI Basic Act (人工智慧基本法) el 14 de enero de 2026, transicionando de `soft_framework` a `binding_regulation` — primer caso del corpus piloto con ley IA horizontal vigente. Este caso constituye el contrafactual natural de Singapur: ambos países con ecosistemas IA densos (tier equivalente en cobertura), pero decisiones regulatorias opuestas: SGP rechaza ley horizontal por política explícita; TWN la promulga. La arquitectura taiwanesa es delegada: NSTC como autoridad competente + MODA implementa risk taxonomy (Art. 16) + enforcement sectorial vía PDPA/CSMA.**\n\n---\n\n## 2. Evidencia cuantitativa — densidad del corpus\n\n| Métrica | Valor | Cálculo |\n|---|---|---|\n| # documentos totales | 7 | count(manifest.csv) |\n| # binding (ley IA + ley sectorial) | 3 | AI Basic Act + PDPA + CSMA |\n| # guidelines | 2 | GenAI Guidelines Exec Yuan + Critical Infra AI Guidelines |\n| # strategy | 1 | AI Taiwan Action Plan 2.0 |\n| Páginas totales corpus | ~30 | sum(pages) — docs cortos |\n| Binding / Soft ratio | 3:2 | 1.5:1 |\n| Primer documento (fecha) | 2018 | CSMA |\n| Último documento (fecha) | 2026-01-14 | AI Basic Act |\n| Años cubiertos | 8 | (2026-01 - 2018-06) |\n| Gap con fecha corpus | ~3 meses | 2026-04-16 - 2026-01-14 |\n\n---\n\n## 3. Evidencia cuantitativa — timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2018-06-06 | CSMA 2018 | Cyber Security Management Act. Establece ACS (ahora parte MODA). |\n| 2023-04 | AI Taiwan Action Plan 2.0 | Estrategia nacional IA. 5 pilares, NT$250B meta industria. |\n| 2023-08-31 | GenAI Guidelines Exec Yuan | Guidelines sector público. Prohíbe GenAI con datos clasificados. |\n| 2025-10-08 | Critical Infra AI Guidelines | Guidelines para operadores CII usando IA. |\n| 2025-11-11 | PDPA última enmienda | Personal Data Protection Act. Crea PDPC. |\n| 2025-12-23 | AI Basic Act aprobación | Legislative Yuan approves 3rd reading. |\n| 2026-01-14 | AI Basic Act promulgación | Presidente Lai promulga. 20 artículos, entra en vigor. |\n\n**Duración:** 8 años de evolución regulatoria.\n**Emisor principal:** Legislative Yuan, Executive Yuan, NSTC, MODA.\n**Diferencial:** Transición soft_framework → binding_regulation por ley IA vigente.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **AI Basic Act promulgado** — 20 artículos, en vigor desde 2026-01-14. Primera ley IA horizontal de Taiwán.\n\n- **7 principios explícitos Art. 4** — Sustainable Development, Human Autonomy, Privacy, Cybersecurity, Transparency, Fairness, Accountability.\n\n- **Red lines Art. 5** — Prohibiciones absolutas: vida, cuerpo, libertad, propiedad, orden social, seguridad nacional, sesgo, discriminación, desinformación.\n\n- **National AI Strategic Committee Art. 6** — Convocado por Premier del Executive Yuan. Coordina affairs IA a nivel national.\n\n- **Risk taxonomy mandate Art. 16** — MODA debe promover \"AI risk taxonomy and assessment framework interoperable with international frameworks\". Enfo",
+    "relevance": 0.99
+  }
+]

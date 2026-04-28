@@ -1,0 +1,47 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "NLD: binding_regulation, intensity 10/10, comprehensive, enforcement high",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "NLD: AI readiness 77.18, adoption 38.9%, investment $3.0891B, 116.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "NLD: regulatory quality 1.791, rule of law 1.6425, FH 97/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "NLD: Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) (binding_law_ai) - European Parliament and Council of the EU, 2024-07-12, 144pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "NLD: Strategisch Actieplan voor Artifici\u00eble Intelligentie (SAPAI) (policy_strategy) - Ministerie van Economische Zaken en Klimaat (EZK), 2019-10-08, 64pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "NLD: Government-wide Vision on Generative AI of the Netherlands (Overheidsbrede visie Generatieve AI) (policy_strategy) - Rijksoverheid (cabinet-wide) \u2014 Ministerie van Binnenlandse Zaken en Koninkrijksrelaties coordinador, 2024-01-17, 54pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "NLD: Toezicht op AI & Algoritmes \u2014 Visie van de Autoriteit Persoonsgegevens (guidelines) - Autoriteit Persoonsgegevens (AP), 2023, 11pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "NLD: AI Impact Assessment \u2014 The tool for a responsible AI project (version 2.0) (guidelines) - Ministerie van Infrastructuur en Waterstaat (IenW), 2024-03, 43pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# NLD \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Pa\u00edses Bajos es el \u00fanico pa\u00eds de la UE-27 con un departamento dedicado exclusivamente a la supervisi\u00f3n algor\u00edtmica (DCA \u2014 Department for Coordination of Algorithmic Oversight) dentro de su DPA desde enero de 2023, en un ecosistema de gobernanza algor\u00edtmica gubernamental catalizado por el scandal del \"Toeslagenaffaire\" (auxilios a la infancia) donde un algoritmo discriminatorio de la Belastingdienst provoc\u00f3 la ca\u00edda del Gabinete Rutte III en enero 2021 \u2014 un caso \u00fanico de trauma institucional dom\u00e9stico que impuls\u00f3 supervisi\u00f3n algor\u00edtmica proactiva, distingui\u00e9ndolo de todos sus pares EU que carecen de este catalizador y estructura.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 5 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | EU AI Act |\n| # soft/policy/strategy | 4 | SAPAI + GenAI Vision + 2 guidelines |\n| P\u00e1ginas totales corpus | 316 | sum(pages) |\n| P\u00e1ginas binding / soft | 144 / 172 | 0.84:1 |\n| Primer documento (fecha) | 2019-10 | SAPAI |\n| \u00daltimo documento (fecha) | 2024-03 | AIIA 2.0 |\n| A\u00f1os cubiertos | 4.5 | (2024-03 - 2019-10) |\n| Gap con fecha corpus | ~13 meses | 2026-04-21 - 2024-03 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2019-10-08 | SAPAI | Plan estrat\u00e9gico IA original. 3 pilares: oportunidades socioecon\u00f3micas, ecosistema, condiciones marco. |\n| 2020-2021 | Toeslagenaffaire | Algoritmo Belastingdienst discrimina familias; revela fallas en automated decision-making. |\n| 2021-01-14 | Ca\u00edda Gabinete Rutte III | Toeslagenaffaire provoca dimisi\u00f3n del Primer Ministro Rutte. |\n| 2021 | Creaci\u00f3n IAMA | Instrumento de AI Impact Assessment para sector p\u00fablico (Utrecht University + Min BZK). |\n| 2022-03-29 | Motie parlamentaria | Tweede Kamer aprueba uso obligatorio de IAMA para proyectos IA gubernamentales. |\n| 2023 | AP Toezicht op AI & Algoritmes | DPA crea visi\u00f3n de supervisi\u00f3n algor\u00edtmica. |\n| 2023-01-01 | DCA operativo | Department for Coordination of Algorithmic Oversight dentro de AP con presupuesto estructural. |\n| 2024-01-17 | Government-wide Vision on GenAI | Visi\u00f3n gubernamental sobre IA generativa. 4 principios, 6 l\u00edneas de acci\u00f3n. |\n| 2024-03 | AIIA 2.0 | AI Impact Assessment actualizado a AI Act final + GenAI. |\n| 2024 | Algoritmeregister | Registro p\u00fablico obligatorio de algoritmos gubernamentales. |\n\n**Duraci\u00f3n:** 4.5 a\u00f1os de evoluci\u00f3n regulatoria.\n**Catalizador institucional:** Toeslagenaffaire (2019-2021).\n**Emisor principal:** Autoriteit Persoonsgegevens / Ministerie van EZK / Ministerie van BZK.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **DCA \u00fanico en la UE** \u2014 Department for Coordination of Algorithmic Oversight dentro de AP operativo desde 01-01-2023 con presupuesto estructural. Citado: \"Met ingang van 1 januari 2023 heeft de AP structureel b",
+    "relevance": 0.99
+  }
+]

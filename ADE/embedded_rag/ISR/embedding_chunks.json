@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "ISR: soft_framework, intensity 4/10, light_touch, enforcement medium",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "ISR: AI readiness 71.32, adoption 36.1%, investment $14.9581B, 492.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "ISR: regulatory quality 1.1218, rule of law 0.7838, FH 74/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "ISR: Responsible Innovation: Israel's Policy on Artificial Intelligence Regulation and Ethics (policy_strategy) - Ministry of Innovation, Science and Technology / Ministry of Justice, 2023-12, 11pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "ISR: Israel National AI Program 2024: Shaping the Future (policy_strategy) - Israel Innovation Authority / National AI Directorate, 2024, 13pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "ISR: National Program for Artificial Intelligence: Program and Snapshot \u2013 April 2025 (policy_strategy) - Israel Innovation Authority / National AI Directorate, 2025-04, 83pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "ISR: Privacy Protection Law, 5741-1981 (as amended to August 14, 2025 incl. Amendment 13) (binding_law_sectoral) - Knesset of Israel, 1981-02-19, 18pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# ISR \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Israel presenta el caso de \"soft_framework filos\u00f3ficamente articulado\": su AI Policy 2023 (\"Responsible Innovation\") es el documento m\u00e1s expl\u00edcito del corpus en rechazar una ley IA horizontal a favor de regulaci\u00f3n sectorial y \"soft regulatory tools\", posicion\u00e1ndolo como el equivalente mediterr\u00e1neo de Singapur \u2014 sin embargo, la Privacy Protection Law con Amendment 13 (vigente agosto 2025) introduce obligaciones IA concretas (DPO obligatorio, consentimiento informado, prohibici\u00f3n de web scraping para training) que justifican el upgrade a soft_framework, distingui\u00e9ndolo de casos puramente strategy_only y creando un ecosistema \u00fanico en la regi\u00f3n MENA.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 4 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | Privacy Protection Law + Amendment 13 |\n| # soft/policy/strategy | 3 | AI Policy 2023 + 2 National AI Programs |\n| P\u00e1ginas totales corpus | 125 | sum(pages) |\n| P\u00e1ginas binding / soft | 18 / 107 | 0.17:1 |\n| Primer documento (fecha) | 2023-12 | AI Policy |\n| \u00daltimo documento (fecha) | 2025-04 | National AI Program 2025 |\n| A\u00f1os cubiertos | 1.5 | (2025-04 - 2023-12) |\n| Gap con fecha corpus | ~12 meses | 2026-04-21 - 2025-04 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2023-12 | AI Policy \"Responsible Innovation\" | Primera pol\u00edtica IA nacional. 7 retos, 5 recomendaciones. Enfoque sectoral, soft law. |\n| 2024 | National AI Program 2024 | Programa nacional. NIS 1B presupuesto. National AI Directorate. |\n| 2025-04 | National AI Program 2025 Snapshot | Segunda fase. NIS 500M adicionales. 83pp. Roadmap 2025-2027. |\n| 2025-08-14 | PPL Amendment 13 vigor | Enmienda introduce: DPO obligatorio, consentimiento IA, prohibici\u00f3n scraping para training. |\n| 2025-04-28 | PPA Draft AI Guidance | Borrador de gu\u00eda IA del Privacy Protection Authority. Solo en hebreo. |\n\n**Duraci\u00f3n:** 1.5 a\u00f1os de evoluci\u00f3n regulatoria (m\u00e1s corto del corpus).\n**Emisor principal:** Ministry of Innovation, Science and Technology / Innovation Authority / Privacy Protection Authority.\n**Postura deliberada:** \"Responsible Innovation, sectoral regulation, soft law.\"\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **AI Policy 2023 rechaza expl\u00edcitamente ley IA horizontal** \u2014 Citado: \"Using 'soft' regulatory tools intended to allow for an incremental development of the regulatory framework.\" Documento m\u00e1s claro de rechazo a regulaci\u00f3n horizontal en el corpus.\n\n- **Privacy Protection Law + Amendment 13 binding** \u2014 Introduce obligaciones IA concretas: DPO obligatorio, consentimiento informado para IA, prohibici\u00f3n de web scraping para training. Vigente desde agosto 2025.\n\n- **National AI Program 2025 \u2014 83 p\u00e1ginas** \u2014 Snapshot completo con NIS 500M adicionales, roadmap 2025-2027, comparati",
+    "relevance": 0.99
+  }
+]

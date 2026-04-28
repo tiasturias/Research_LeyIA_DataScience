@@ -1,0 +1,47 @@
+[
+  {
+    "title": "New Zealand's Strategy for Artificial Intelligence: Investing with Confidence",
+    "type": "policy_strategy",
+    "issuer": "Ministry of Business Innovation and Employment (MBIE)",
+    "date": "2025-07-08",
+    "status": "in_use",
+    "pages": "22",
+    "url": "https://www.beehive.govt.nz/sites/default/files/2025-07/New%20Zealand%27s%20AI%20Strategy%20-%20Investing%20with%20confidence.pdf"
+  },
+  {
+    "title": "Algorithm Charter for Aotearoa New Zealand",
+    "type": "soft_framework",
+    "issuer": "Department of Internal Affairs (DIA) \u2014 data.govt.nz",
+    "date": "2020-07-01",
+    "status": "in_use",
+    "pages": "1",
+    "url": "https://data.govt.nz/assets/data-ethics/algorithm/Algorithm-Charter-2020_Final-English-1.pdf"
+  },
+  {
+    "title": "Responsible AI Guidance for Businesses: Investing with Confidence",
+    "type": "soft_framework",
+    "issuer": "Ministry of Business Innovation and Employment (MBIE)",
+    "date": "2025-07-08",
+    "status": "in_use",
+    "pages": "43",
+    "url": "https://www.mbie.govt.nz/assets/responsible-ai-guidance-for-businesses.pdf"
+  },
+  {
+    "title": "Artificial Intelligence and the Information Privacy Principles",
+    "type": "soft_framework",
+    "issuer": "Office of the Privacy Commissioner (OPC)",
+    "date": "2023-09-21",
+    "status": "in_use",
+    "pages": "12",
+    "url": "https://www.privacy.org.nz/assets/New-order/Resources-/Publications/Guidance-resources/AI-Guidance-Resources-/AI-and-the-Information-Privacy-Principles.pdf"
+  },
+  {
+    "title": "Privacy Act 2020 (No 31)",
+    "type": "binding_law",
+    "issuer": "New Zealand Parliament",
+    "date": "2020-06-30",
+    "status": "in_use",
+    "pages": "192",
+    "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html"
+  }
+]

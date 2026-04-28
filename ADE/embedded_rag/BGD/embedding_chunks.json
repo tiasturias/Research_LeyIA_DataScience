@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "BGD: strategy_only, intensity 2/10, strategy_led, enforcement low",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "BGD: AI readiness 48.37, adoption 7.1%, investment $0.0022B, 1.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "BGD: regulatory quality -0.9009, rule of law -0.902, FH 40/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "BGD: National Strategy for Artificial Intelligence \u2014 Bangladesh (strategy) - Information and Communication Technology Division, Government of the People's Republic of Bangladesh, 2020-03, 55pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "BGD: National AI Policy Bangladesh 2026-2030 (DRAFT V1.1) (policy_draft) - ICT Division, Ministry of Posts, Telecommunications and Information Technology, Government of Bangladesh, 2026-01, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "BGD: Bangladesh National AI Policy 2026-2030 (Draft v2) (policy_draft) - ICT Division, Ministry of Posts, Telecommunications and Information Technology, Government of Bangladesh, 2026-02-09, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "BGD: Bangladesh Artificial Intelligence Readiness Assessment Report (readiness_assessment) - UNESCO + UNDP + ICT Division Government of Bangladesh (co-published), 2025-11, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# BGD \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Bangladesh transita de `strategy_only` a `soft_framework` mediante el National AI Policy 2026-2030 (Draft V2.0): marco risk-based completo (4 niveles: prohibited/high/limited/low), AIAs mandatorios, strict liability para high-risk, prohibiciones expl\u00edcitas (social scoring, mass surveillance), y pathway declarado a AI Act para 2028. Es el caso de \"emerging soft_framework con trajectory legislativa formal\" en el corpus \u2014 comparable a GHA y MNG en el mismo cluster, pero con marco m\u00e1s denso y fecha de AI Act comprometidas.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 5 | count(manifest.csv) |\n| # binding (ley IA) | 0 | Sin ley vigente |\n| # policy_draft | 2 | NAIP V1.1, NAIP V2.0 |\n| # strategy | 1 | NSAI 2020 |\n| # readiness_assessment | 1 | AIRAM UNESCO/UNDP 2025 |\n| P\u00e1ginas totales corpus | ~55+ | NSAI 2020 (55pp) + otros |\n| Primer documento (fecha) | 2020-03 | NSAI |\n| \u00daltimo documento (fecha) | 2026-02 | NAIP V2.0 |\n| A\u00f1os cubiertos | 6 | (2026-02 - 2020-03) |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2020-03 | NSAI 2020 | Primera estrategia nacional IA. 55pp. |\n| 2024 | NAIP 2024 Draft | Borrador inicial. Retirado tras V1.1. |\n| 2025-11 | AIRAM 2025 | Readiness Assessment co-firmado UNESCO/UNDP. |\n| 2026-01 | NAIP V1.1 Draft | Primera versi\u00f3n p\u00fablica del NAIP 2026-2030. |\n| 2026-02-09 | NAIP V2.0 Draft | Versi\u00f3n post-consulta p\u00fablica (cerr\u00f3 8-feb-2026). En revisi\u00f3n del Steering Committee. |\n\n**Duraci\u00f3n:** 6 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** ICT Division, Ministry of Posts, Telecommunications and Information Technology.\n**Diferencial:** Transici\u00f3n strategy_only \u2192 soft_framework + pathway a binding.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **Marco risk-based completo** \u2014 4 niveles: prohibited (unacceptable risk), high-risk, limited-risk, low-risk. \u00a74.1 Regulatory Framework.\n\n- **Prohibiciones expl\u00edcitas** \u2014 AI-enabled social scoring, indiscriminate biometric mass surveillance, manipulative/deceptive AI. \u00a74.9.\n\n- **AIAs mandatorios** \u2014 Algorithmic Impact Assessments obligatorios para sistemas IA significativos del sector p\u00fablico y high-risk del sector privado. \u00a74.9.\n\n- **Strict liability** \u2014 Para high-risk systems en healthcare, financial services, employment, justice, education, critical infrastructure. \u00a74.11.\n\n- **Pathway legislativo formal** \u2014 \"Ministry of Law... shall initiate drafting of comprehensive Artificial Intelligence Act by 2028.\" \u00a77.5.\n\n- **Autoridad designada** \u2014 NDGA (National Digital Government Agency) con poderes de certificaci\u00f3n, est\u00e1ndares t\u00e9cnicos, oversight AIA. \u00a74.2.\n\n- **Cobertura tem\u00e1tica amplia** \u2014 Risk classification, prohibited practices, AIA, data governance, disinformation/deepfakes, liability, derechos, cooperacion internacional, sectores.\n\n- **Momentum internacional** \u2014 AIRAM 2025 co-",
+    "relevance": 0.99
+  }
+]

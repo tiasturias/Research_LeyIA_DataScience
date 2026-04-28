@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+    "type": "binding_law_ai",
+    "issuer": "European Parliament and Council of the EU",
+    "date": "2024-07-12",
+    "status": "in_force",
+    "pages": "144",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689"
+  },
+  {
+    "title": "Regierungsentwurf: Gesetz zur Durchf\u00fchrung der Verordnung (EU) 2024/1689 \u00fcber k\u00fcnstliche Intelligenz (KI-Markt\u00fcberwachungs- und Innovationsf\u00f6rderungsgesetz \u2014 KI-MIG)",
+    "type": "bill_pending",
+    "issuer": "Bundesministerium f\u00fcr Digitales und Staatsmodernisierung (BMDS)",
+    "date": "2026-02-11",
+    "status": "bill_pending",
+    "pages": "76",
+    "url": "https://bmds.bund.de/fileadmin/BMDS/Dokumente/Gesetzesvorhaben/260209_RegE_KI-MIG_final_barr.pdf"
+  },
+  {
+    "title": "Strategie K\u00fcnstliche Intelligenz der Bundesregierung \u2014 Fortschreibung 2020 (German Federal Government AI Strategy \u2014 2020 Update)",
+    "type": "policy_strategy",
+    "issuer": "Bundesregierung (Federal Government of Germany)",
+    "date": "2020-12-01",
+    "status": "in_use",
+    "pages": "35",
+    "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Publikationen/Technologie/strategie-kuenstliche-intelligenz-fortschreibung-2020.pdf?__blob=publicationFile&v=1"
+  },
+  {
+    "title": "Artificial Intelligence Strategy of the German Federal Government \u2014 2020 Update",
+    "type": "policy_strategy",
+    "issuer": "Bundesregierung (Federal Government of Germany)",
+    "date": "2020-12-01",
+    "status": "in_use",
+    "pages": "31",
+    "url": "https://www.ki-strategie-deutschland.de/files/downloads/Fortschreibung_KI-Strategie_engl.pdf"
+  },
+  {
+    "title": "BMBF-Aktionsplan K\u00fcnstliche Intelligenz 2023 (BMBF AI Action Plan 2023)",
+    "type": "policy_strategy",
+    "issuer": "Bundesministerium f\u00fcr Bildung und Forschung (BMBF)",
+    "date": "2023-11-07",
+    "status": "in_use",
+    "pages": "36",
+    "url": "https://www.ki-strategie-deutschland.de/files/downloads/Aktionsplan_Kuenstliche_Intelligenz_2023.pdf"
+  },
+  {
+    "title": "Wegweiser f\u00fcr den digitalen Alltag: K\u00fcnstliche Intelligenz sicher nutzen (Safe Use of Artificial Intelligence)",
+    "type": "soft_framework",
+    "issuer": "Bundesamt f\u00fcr Sicherheit in der Informationstechnik (BSI)",
+    "date": "2024-01-23",
+    "status": "in_use",
+    "pages": "26",
+    "url": "https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Broschueren/Wegweiser_Checklisten_Flyer/Brosch_A6_Kuenstliche_Intelligenz.pdf?__blob=publicationFile&v=18"
+  },
+  {
+    "title": "Handreichung KI in Beh\u00f6rden \u2013 Datenschutz von Anfang an mitdenken (AI in Public Authorities \u2014 Integrating Data Protection from the Start)",
+    "type": "soft_framework",
+    "issuer": "Bundesbeauftragte f\u00fcr den Datenschutz und die Informationsfreiheit (BfDI)",
+    "date": "2025-01-01",
+    "status": "in_use",
+    "pages": "46",
+    "url": "https://www.bfdi.bund.de/SharedDocs/Downloads/DE/DokumenteBfDI/Dokumente-allg/2025/Handreichung-KI.pdf?__blob=publicationFile&v=1"
+  },
+  {
+    "title": "Kriterienkatalog des BSI zur Integration von extern bereitgestellten generativen KI-Modellen in eigene Anwendungen (BSI Criteria Catalogue for Integrating Externally Provided Generative AI Models into Federal Applications)",
+    "type": "soft_framework",
+    "issuer": "Bundesamt f\u00fcr Sicherheit in der Informationstechnik (BSI)",
+    "date": "2025-06-24",
+    "status": "in_use",
+    "pages": "16",
+    "url": "https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/Kriterienkatalog_KI-Modelle_Bundesverwaltung.pdf?__blob=publicationFile&v=3"
+  }
+]

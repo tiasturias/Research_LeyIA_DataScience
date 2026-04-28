@@ -1,0 +1,57 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "SGP: strategy_only, intensity 6/10, strategy_led, enforcement medium",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "SGP: AI readiness 76.42, adoption 60.9%, investment $7.2711B, 239.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "SGP: regulatory quality 2.3086, rule of law 1.7532, FH 48/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "SGP: Personal Data Protection Act 2012 (consolidated, incl. 2020 Amendment Act 40/2020) (binding_law_sectoral) - Parliament of the Republic of Singapore, 2012-10-15, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "SGP: Cybersecurity Act 2018 (No. 9 of 2018, consolidated) (binding_law_sectoral) - Parliament of the Republic of Singapore, 2018-03-12, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "SGP: Principles to Promote Fairness, Ethics, Accountability and Transparency (FEAT) in the Use of AI and Data Analytics in Singapore's Financial Sector (soft_framework_sectoral) - Monetary Authority of Singapore (MAS), 2018-11-12, 15pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "SGP: Model Artificial Intelligence Governance Framework (Second Edition) (soft_framework) - Personal Data Protection Commission (PDPC) + Infocomm Media Development Authority (IMDA), 2020-01-21, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "SGP: National AI Strategy 2.0: AI for the Public Good, for Singapore and the World (strategy) - Smart Nation and Digital Government Office (SNDGO) + Smart Nation Group, Government of Singapore, 2023-12-04, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "SGP: Model AI Governance Framework for Generative AI (soft_framework) - Infocomm Media Development Authority (IMDA) + AI Verify Foundation, 2024-05-30, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "SGP: Model AI Governance Framework for Agentic AI (soft_framework) - Infocomm Media Development Authority (IMDA), 2026-01-22, 29pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# SGP \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Singapur es el caso paradigm\u00e1tico de `soft_framework` maduro a nivel mundial: densidad m\u00e1xima de soft-law (Model AI Governance Framework en 4 ediciones: 2019/2020/2024/2026, incluyendo Agentic AI como primer framework global) + base legal sectorial vinculante vigente (PDPA 2012+2020, Cybersecurity Act 2018 con autoridades activas PDPC/CSA) + decisi\u00f3n de pol\u00edtica expl\u00edcita de NO promulgar ley IA horizontal. Este caso es el contrafactual clave para Chile (Ley 16821-19): ambos pa\u00edses de alto desarrollo, Singapur elige soft-framework robusto; Chile elegir binding regulation.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 7 | count(manifest.csv) |\n| # binding (ley sectorial) | 2 | PDPA 2012+2020, Cybersecurity Act 2018 |\n| # soft_framework | 4 | MGF 2ndEd, MGF GenAI, MGF Agentic AI, MAS FEAT |\n| # strategy | 1 | NAIS 2.0 2023 |\n| P\u00e1ginas totales corpus | ~120+ | sum(pages) \u2014 1 doc sin p\u00e1ginas |\n| Binding / Soft ratio | 2:4 | 0.5:1 (soft-dominant) |\n| Primer documento (fecha) | 2012 | PDPA |\n| \u00daltimo documento (fecha) | 2026-01 | MGF Agentic AI |\n| A\u00f1os cubiertos | 14 | (2026-01 - 2012-10) |\n| Gap con fecha corpus | ~3 meses | 2026-04-15 - 2026-01-22 |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2012-10-15 | PDPA 2012 | Ley de protecci\u00f3n de datos personales. Establece PDPC. |\n| 2018-03-12 | Cybersecurity Act 2018 | Ley de ciberseguridad. Establece CSA y r\u00e9gimen CII. |\n| 2018-11-12 | MAS FEAT Principles | Primer instrumento global de \u00e9tica IA en finanzas. 4 principios. |\n| 2019 | MGF 1st Ed | Primera edici\u00f3n \u2014 pioneer global. |\n| 2020-01-21 | MGF 2nd Ed | Segunda edici\u00f3n. Lanzado en WEF Davos 2020. |\n| 2023-12-04 | NAIS 2.0 | Estrategia nacional IA 2.0 por Deputy PM Lawrence Wong. 3 Systems, 10 Enablers. |\n| 2024-05-30 | MGF GenAI | Framework 9 dimensiones para GenAI. 70+ respuestas consulta p\u00fablica. |\n| 2026-01-22 | MGF Agentic AI | **Primer framework global para agentic AI.** Lanzado en WEF Davos 2026. |\n\n**Duraci\u00f3n:** 14 a\u00f1os de evoluci\u00f3n regulatoria continua.\n**Emisor principal:** PDPC, IMDA, MAS, SNDGO, Parliament of Singapore.\n**Diferencial:** M\u00e1ximo densidad soft-law global + pol\u00edtica expl\u00edcita de no-regularizaci\u00f3n horizontal.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **No hay ley IA horizontal por decisi\u00f3n de pol\u00edtica expl\u00edcita** \u2014 IMDA 2026: \"principles-based / framework-led, not prescriptive legislation.\"\n\n- **Densidad soft-law m\u00e1xima global** \u2014 MGF\u8fed\u4ee3: 1\u00aa Ed 2019 \u2192 2\u00aa Ed 2020 \u2192 GenAI 2024 \u2192 Agentic AI 2026 (primer framework global para AI agents). MGF es el framework voluntario m\u00e1s citado globalmente.\n\n- **Base legal sectorial vinculante robusta** \u2014 PDPA 2012+2020 (data portability, breach notification, enhanced consent) + Cybersecurity Act 2018 (CII, CSA). Autoridades activas: PDPC, CSA.\n\n- **MAS FEAT \u2014 primer instrumento global IA en ",
+    "relevance": 0.99
+  }
+]

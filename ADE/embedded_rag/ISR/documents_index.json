@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Responsible Innovation: Israel's Policy on Artificial Intelligence Regulation and Ethics",
+    "type": "policy_strategy",
+    "issuer": "Ministry of Innovation, Science and Technology / Ministry of Justice",
+    "date": "2023-12",
+    "status": "in_use",
+    "pages": "11",
+    "url": "https://www.gov.il/BlobFolder/policy/ai_2023/en/Israels%20AI%20Policy%202023.pdf"
+  },
+  {
+    "title": "Israel National AI Program 2024: Shaping the Future",
+    "type": "policy_strategy",
+    "issuer": "Israel Innovation Authority / National AI Directorate",
+    "date": "2024",
+    "status": "in_use",
+    "pages": "13",
+    "url": "https://innovationisrael.org.il/ai/wp-content/uploads/sites/4/2024/04/Israel-National-AI-Program-Booklet.pdf"
+  },
+  {
+    "title": "National Program for Artificial Intelligence: Program and Snapshot \u2013 April 2025",
+    "type": "policy_strategy",
+    "issuer": "Israel Innovation Authority / National AI Directorate",
+    "date": "2025-04",
+    "status": "in_use",
+    "pages": "83",
+    "url": "https://innovationisrael.org.il/wp-content/uploads/2025/05/AI-National-Program-en-14.5.25.pdf"
+  },
+  {
+    "title": "Privacy Protection Law, 5741-1981 (as amended to August 14, 2025 incl. Amendment 13)",
+    "type": "binding_law_sectoral",
+    "issuer": "Knesset of Israel",
+    "date": "1981-02-19",
+    "status": "in_force",
+    "pages": "18",
+    "url": "https://www.trustiz.ai/wp-content/uploads/2025/09/English-Translation-of-the-Israeli-Privacy-Protection-Law-5741%E2%80%931981-as-amended-to-August-14-2025-2.pdf"
+  }
+]

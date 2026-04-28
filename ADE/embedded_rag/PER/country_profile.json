@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "iso3": "PER",
+    "region": "Latin America and the Caribbean",
+    "income_group": "High income",
+    "oecd_member": false,
+    "legal_origin": "French",
+    "is_common_law": false,
+    "population": 34217848.0,
+    "gdp_current_usd": 289221969062.941,
+    "data_year": "2024-2025"
+  },
+  "ecosystem_ia": {
+    "ai_readiness_score": {
+      "value": 56.52,
+      "year": 2025
+    },
+    "ai_adoption_rate": {
+      "value": 14.7,
+      "period": "H2_2025"
+    },
+    "ai_investment_usd_bn": {
+      "cumulative": 0.002,
+      "year": 2024.0
+    },
+    "ai_startups": {
+      "cumulative": 1.0,
+      "year": 2024.0
+    },
+    "ai_patents_per100k": {
+      "value": null,
+      "year": null
+    }
+  },
+  "controls": {
+    "gdp_per_capita_ppp": {
+      "value": 17802.4182,
+      "year": 2024.0
+    },
+    "gii_score": {
+      "value": 26.466,
+      "year": 2025.0
+    },
+    "internet_penetration": {
+      "value": 81.9571,
+      "year": 2024.0
+    },
+    "rd_expenditure": {
+      "value": 0.1618,
+      "year": 2022.0
+    },
+    "tertiary_education": {
+      "value": null,
+      "year": null
+    }
+  },
+  "governance": {
+    "regulatory_quality": {
+      "value": 0.2922,
+      "year": 2023.0
+    },
+    "rule_of_law": {
+      "value": -0.5381,
+      "year": 2023.0
+    },
+    "fh_total_score": {
+      "value": 66,
+      "status": "PF",
+      "year": 2025
+    }
+  }
+}

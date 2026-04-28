@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "GHA: strategy_only, intensity 2/10, strategy_led, enforcement low",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "GHA: AI readiness 47.42, adoption 9.3%, investment $0.0801B, 4.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "GHA: regulatory quality -0.1594, rule of law -0.003, FH 80/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "GHA: Data Protection Act, 2012 (Act 843) (binding_law_sectoral) - Parliament of the Republic of Ghana, 2012, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "GHA: Cybersecurity Act, 2020 (Act 1038) (binding_law_sectoral) - Parliament of the Republic of Ghana, 2020-12-29, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "GHA: Republic of Ghana National Artificial Intelligence Strategy: 2023-2033 (strategy) - Ministry of Communications and Digitalisation (MoCD), Republic of Ghana (co-developed with Smart Africa, GIZ FAIR Forward, The Future Society), 2022-10, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "GHA: Ghana Digital Economy Policy and Strategy (policy_strategy) - Ministry of Communications and Digitalisation (MoCD), Republic of Ghana, 2024-05, pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# GHA — Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Ghana transita de `strategy_only` a `soft_framework` con base legal sectorial vinculante más sólida del cluster Sur Global: Data Protection Act 2012 (Act 843) + Cybersecurity Act 2020 (Act 1038) ambas en vigor con autoridades activas (DPC, CSA), NAIS 2023-2033 formalmente lanzada por Presidente Mahama (24-abr-2026), Responsible AI Office propuesta, y pathway declarado a Emerging Technologies Bill. Ghana se diferencia de BGD en que tiene base legal preexistente más robusta; BGD tiene instrumento IA más denso normativamente.**\n\n---\n\n## 2. Evidencia cuantitativa — densidad del corpus\n\n| Métrica | Valor | Cálculo |\n|---|---|---|\n| # documentos totales | 5 | count(manifest.csv) |\n| # binding (ley sectorial) | 2 | DPA 2012, Cybersecurity Act 2020 |\n| # strategy/policy | 2 | NAIS 2023-2033, DEPS 2024 |\n| Páginas totales corpus | ~80+ | DPA (36pp) + CSA (45pp) + NAIS + DEPS |\n| Binding / Soft ratio | 2:2 | 1:1 |\n| Primer documento (fecha) | 2012 | DPA |\n| Último documento (fecha) | 2026-04 | NAIS lanzamiento |\n| Años cubiertos | 14 | (2026-04 - 2012) |\n\n---\n\n## 3. Evidencia cuantitativa — timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2012 | DPA (Act 843) | Data Protection Act. Establece DPC. |\n| 2020-12-29 | Cybersecurity Act (Act 1038) | Establece CSA. |\n| 2022-10 | NAIS redacción | Estrategia IA redactada. |\n| 2024-05-14 | DEPS Cabinet approval | Política economía digital aprobada. |\n| 2026-04-24 | NAIS lanzamiento | Formalmente lanzada por Presidente Mahama. |\n\n**Duración:** 14 años de evolución regulatoria.\n**Emisor principal:** Parliament of Ghana, MoCD, DPC, CSA.\n**Diferencial:** Base legal sectorial preexistente (no IA-dedicada pero aplicable).\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **Data Protection Act 2012 (Act 843)** — Establece DPC con poderes sobre procesamiento automatizado. Aplicable a training data y decisiones automatizadas.\n\n- **Cybersecurity Act 2020 (Act 1038)** — Establece CSA con poderes sobre infraestructura crítica. Aplicable a sistemas IA críticos.\n\n- **Autoridades activas** — DPC y CSA establecidas por ley, con poderes sancionatorios reales.\n\n- **NAIS 2023-2033 formalmente lanzada** — Por Presidente Mahama, 24-abr-2026.\n\n- **Responsible AI Office propuesta** — Dentro del primer año de implementación, coordinada con DPC y CSA.\n\n- **Pathway legislativo** — Emerging Technologies Bill anunciado.\n\n- **8 pilares NAIS** — Gobernanza/ética, talento, infraestructura, R&D, sectores, ecosistema, cooperación internacional, M&E.\n\n- **DEPS aprobación Cabinet** — Política económica con componente IA, 14-may-2024.\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **Sin ley IA específica** — No hay AI Act o ley dedicada a IA.\n\n- **Emerging Technologies Bill no presentado** — Aún no hay PDF, no está en Parlamento.\n\n- **RAI Office solo propuesta** — No establecida formalmente.\n\n- **NAIS no es vinculante** — Estrategia, no ley.\n\n- **Base legal",
+    "relevance": 0.99
+  }
+]

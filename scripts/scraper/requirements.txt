@@ -1,0 +1,11 @@
+# Corpus Legal-IA Scraper Dependencies
+
+# Core scraping
+selenium>=4.15.0
+webdriver-manager>=4.0.1
+undetected-chromedriver>=3.5.4
+
+# State management (csv is stdlib, no extra dependency needed)
+
+# Optional: PDF validation
+pdfminer.six>=20221105

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+    "type": "binding_law_ai",
+    "issuer": "European Parliament and Council of the EU",
+    "date": "2024-07-12",
+    "status": "in_force",
+    "pages": "144",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689"
+  },
+  {
+    "title": "IA : notre ambition pour la France \u2014 Rapport de la Commission de l'Intelligence Artificielle",
+    "type": "policy_strategy",
+    "issuer": "Commission de l'Intelligence Artificielle (Aghion/Bouverot) \u2014 mandat pr\u00e9sidentiel",
+    "date": "2024-03-13",
+    "status": "in_use",
+    "pages": "130",
+    "url": "https://www.info.gouv.fr/upload/media/content/0001/09/4d3cc456dd2f5b9d79ee75feea63b47f10d75158.pdf"
+  },
+  {
+    "title": "Strat\u00e9gie Nationale pour l'Intelligence Artificielle \u2014 2e phase (Dossier de presse)",
+    "type": "policy_strategy",
+    "issuer": "Minist\u00e8re de l'Enseignement Sup\u00e9rieur, de la Recherche et de l'Innovation (MESRI)",
+    "date": "2021-11",
+    "status": "in_use",
+    "pages": "28",
+    "url": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2021-11/dossier-de-presse---strat-gie-nationale-pour-l-intelligence-artificielle-2e-phase-14920.pdf"
+  },
+  {
+    "title": "La strat\u00e9gie nationale pour l'intelligence artificielle : consolider les succ\u00e8s de la politique publique de l'IA, \u00e9largir son champ",
+    "type": "policy_strategy",
+    "issuer": "Cour des comptes",
+    "date": "2025-11",
+    "status": "in_use",
+    "pages": "102",
+    "url": "https://www.vie-publique.fr/files/rapport/pdf/300981.pdf"
+  },
+  {
+    "title": "Synth\u00e8se des contributions \u2014 Consultation publique sur les fiches pratiques IA (int\u00e9r\u00eat l\u00e9gitime)",
+    "type": "guidelines",
+    "issuer": "Commission Nationale de l'Informatique et des Libert\u00e9s (CNIL)",
+    "date": "2025-06",
+    "status": "in_force",
+    "pages": "17",
+    "url": "https://www.cnil.fr/sites/cnil/files/2025-06/synthese_des_contributions_fiches_ia_interet_legitime.pdf"
+  }
+]

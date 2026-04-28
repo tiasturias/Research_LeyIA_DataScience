@@ -1,0 +1,62 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "DEU: binding_regulation, intensity 10/10, comprehensive, enforcement high",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "DEU: AI readiness 76.78, adoption 28.6%, investment $13.2708B, 394.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "DEU: regulatory quality 1.457, rule of law 1.5512, FH 93/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "DEU: Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) (binding_law_ai) - European Parliament and Council of the EU, 2024-07-12, 144pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "DEU: Regierungsentwurf: Gesetz zur Durchf\u00fchrung der Verordnung (EU) 2024/1689 \u00fcber k\u00fcnstliche Intelligenz (KI-Markt\u00fcberwachungs- und Innovationsf\u00f6rderungsgesetz \u2014 KI-MIG) (bill_pending) - Bundesministerium f\u00fcr Digitales und Staatsmodernisierung (BMDS), 2026-02-11, 76pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "DEU: Strategie K\u00fcnstliche Intelligenz der Bundesregierung \u2014 Fortschreibung 2020 (German Federal Government AI Strategy \u2014 2020 Update) (policy_strategy) - Bundesregierung (Federal Government of Germany), 2020-12-01, 35pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "DEU: Artificial Intelligence Strategy of the German Federal Government \u2014 2020 Update (policy_strategy) - Bundesregierung (Federal Government of Germany), 2020-12-01, 31pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "DEU: BMBF-Aktionsplan K\u00fcnstliche Intelligenz 2023 (BMBF AI Action Plan 2023) (policy_strategy) - Bundesministerium f\u00fcr Bildung und Forschung (BMBF), 2023-11-07, 36pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "DEU: Wegweiser f\u00fcr den digitalen Alltag: K\u00fcnstliche Intelligenz sicher nutzen (Safe Use of Artificial Intelligence) (soft_framework) - Bundesamt f\u00fcr Sicherheit in der Informationstechnik (BSI), 2024-01-23, 26pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "DEU: Handreichung KI in Beh\u00f6rden \u2013 Datenschutz von Anfang an mitdenken (AI in Public Authorities \u2014 Integrating Data Protection from the Start) (soft_framework) - Bundesbeauftragte f\u00fcr den Datenschutz und die Informationsfreiheit (BfDI), 2025-01-01, 46pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "DEU: Kriterienkatalog des BSI zur Integration von extern bereitgestellten generativen KI-Modellen in eigene Anwendungen (BSI Criteria Catalogue for Integrating Externally Provided Generative AI Models into Federal Applications) (soft_framework) - Bundesamt f\u00fcr Sicherheit in der Informationstechnik (BSI), 2025-06-24, 16pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# DEU \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Alemania presenta un patr\u00f3n regulatorio IA \"dual\" distintivo: retraso legal formal (KI-MIG bill_pending, incumpliendo el plazo AI Act de agosto 2025) compensado por adelanto administrativo (BNetzA designada de facto desde septiembre 2024 con KI-Service Desk operativo) y el corpus de guidance Capa 4 m\u00e1s rico del corpus EU (3 documentos BSI/BfDI espec\u00edficos de IA 2024-2025). Este patr\u00f3n contrasta con DNK y HUN que ya tienen leyes nacionales de implementaci\u00f3n en vigor.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 8 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | EU AI Act (KI-MIG bill_pending) |\n| # bill_pending | 1 | KI-MIG |\n| # soft/policy/strategy | 6 | 3 estrategias + 3 frameworks BSI/BfDI |\n| P\u00e1ginas totales corpus | 310 | sum(pages) |\n| P\u00e1ginas binding / soft | 144 / 166 | 0.87:1 |\n| Primer documento (fecha) | 2020-12 | KI-Strategie 2020 |\n| \u00daltimo documento (fecha) | 2026-02 | KI-MIG Entwurf |\n| A\u00f1os cubiertos | ~5 | (2026-02 - 2020-12) |\n| Gap con fecha corpus | ~2 meses | 2026-04-21 - 2026-02 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2020-12-01 | KI-Strategie 2020 Fortschreibung | Estrategia IA federal actualizada. 35pp, 12 campos de acci\u00f3n, >100 medidas. |\n| 2023-11-07 | BMBF-Aktionsplan KI 2023 | Plan de acci\u00f3n I+D+i. 36pp, 11 campos de acci\u00f3n, >1.600M EUR. |\n| 2024-01-23 | BSI \"KI sicher nutzen\" | Gu\u00eda seguridad IA co-publicada con 10 agencias internacionales. 26pp. |\n| 2024-07-12 | EU AI Act publication | Regulation (EU) 2024/1689. Entrada en vigor 01-08-2024. |\n| 2024-09 | Designaci\u00f3n administrativa BNetzA | Kabinett designa BNetzA como MSA central de facto. |\n| 2025-01 | BfDI Handreichung KI | Gu\u00eda DPA federal para autoridades sobre IA + GDPR. 46pp. |\n| 2025-06-24 | BSI Kriterienkatalog generative KI | Criterios t\u00e9cnicos para GenAI en administraci\u00f3n federal. 16pp. |\n| 2026-02-11 | KI-MIG Regierungsentwurf | Aprobado por Kabinett. 76pp. Primera lectura Bundestag 20-3-2026. |\n| 2025-08-02 | Plazo AI Act (designaci\u00f3n MSA) | **INCUMPLIDO** \u2014 KI-MIG a\u00fan bill_pending |\n\n**Duraci\u00f3n:** ~5 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** Bundesregierung, BMBF, BSI, BfDI, BMDS.\n**Diferencial:** Patr\u00f3n dual: retraso legal + adelanto administrativo.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **KI-MIG bill_pending** \u2014 Ley nacional de implementaci\u00f3n AI Act pendiente de aprobaci\u00f3n parlamentaria. Primera lectura Bundestag 20-3-2026. Incumplimiento del plazo AI Act (2-ago-2025).\n\n- **BNetzA MSA de facto** \u2014 Citado: \"Die Bundesnetzagentur... ist zust\u00e4ndige Markt\u00fcberwachungsbeh\u00f6rde nach Artikel 70 Absatz 1 der KI-Verordnung.\" Designaci\u00f3n administrativa septiembre 2024 (pre-KI-MIG). KI-Service Desk operativo.\n\n- **KoKIVO en desarrollo** \u2014 Citado: \"Bei der Bundesnetzagent",
+    "relevance": 0.99
+  }
+]

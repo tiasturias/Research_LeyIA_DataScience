@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "iso3": "GBR",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "GBR_NationalAIStrategy_2021.pdf",
+      "document_title": "National AI Strategy",
+      "doc_type": "policy_strategy",
+      "issuer": "Department for Digital Culture Media and Sport (DCMS)",
+      "publication_date": "2021-09-22",
+      "status": "superseded",
+      "language": "en",
+      "source_url": "https://data.parliament.uk/DepositedPapers/Files/DEP2021-0755/DCMS_National_AI_Strategy.pdf",
+      "pages": "66"
+    },
+    {
+      "filename": "GBR_AIWhitePaperResponse_2024.pdf",
+      "document_title": "A Pro-Innovation Approach to AI Regulation: Government Response to Consultation (CP 1019)",
+      "doc_type": "soft_framework",
+      "issuer": "Department for Science Innovation and Technology (DSIT)",
+      "publication_date": "2024-02-06",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://assets.publishing.service.gov.uk/media/65c1e399c43191000d1a45f4/a-pro-innovation-approach-to-ai-regulation-amended-governement-response-web-ready.pdf",
+      "pages": "98"
+    },
+    {
+      "filename": "GBR_AIOpportunitiesActionPlan_2025.pdf",
+      "document_title": "AI Opportunities Action Plan (CP 1241)",
+      "doc_type": "policy_strategy",
+      "issuer": "Department for Science Innovation and Technology (DSIT)",
+      "publication_date": "2025-01-13",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://assets.publishing.service.gov.uk/media/67851771f0528401055d2329/ai_opportunities_action_plan.pdf",
+      "pages": "26"
+    },
+    {
+      "filename": "GBR_AISI_Intro_2023.pdf",
+      "document_title": "Introducing the AI Safety Institute",
+      "doc_type": "soft_framework",
+      "issuer": "AI Safety Institute (AISI) \u2014 Department for Science Innovation and Technology (DSIT)",
+      "publication_date": "2023-11-02",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://assets.publishing.service.gov.uk/media/65438d159e05fd0014be7bd9/introducing-ai-safety-institute-web-accessible.pdf",
+      "pages": "18"
+    },
+    {
+      "filename": "GBR_DataProtectionAct_2018.pdf",
+      "document_title": "Data Protection Act 2018 (c. 12)",
+      "doc_type": "binding_law",
+      "issuer": "UK Parliament",
+      "publication_date": "2018-05-23",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2018/12",
+      "pages": "354"
+    },
+    {
+      "filename": "GBR_OnlineSafetyAct_2023.pdf",
+      "document_title": "Online Safety Act 2023 (c. 50)",
+      "doc_type": "binding_law",
+      "issuer": "UK Parliament",
+      "publication_date": "2023-10-26",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2023/50",
+      "pages": "303"
+    }
+  ],
+  "findings_text": "# GBR \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Reino Unido presenta la paradoja regulatoria m\u00e1s notable del corpus: el pa\u00eds con mayor liderazgo global en seguridad IA (AISI \u2014 primer instituto estatal de seguridad IA del mundo, lanzado en Bletchley Park noviembre 2023) ha adoptado deliberadamente el enfoque regulatorio m\u00e1s ligero de Europa mediante su \"sector-specific, context-based approach\" articulado en la Government Response 2024, que expl\u00edcitamente rechaza una ley IA horizontal al estilo UE y opta por cinco principios transversales aplicados por reguladores sectoriales existentes \u2014 una teor\u00eda regulatoria alternativa que exporta a USA, JPN y KOR, pero que lo clasifica como soft_framework en lugar de binding_regulation.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 6 | count(manifest.csv) |\n| # binding (law + sectoral) | 2 | DPA 2018 + OSA 2023 |\n| # soft/policy/strategy | 4 | AI Strategy + White Paper Response + Action Plan + AISI |\n| P\u00e1ginas totales corpus | 865 | sum(pages) |\n| P\u00e1ginas binding / soft | 657 / 208 | 3.16:1 |\n| Primer documento (fecha) | 2018-05 | Data Protection Act |\n| \u00daltimo documento (fecha) | 2025-01 | AI Opportunities Action Plan |\n| A\u00f1os cubiertos | 6.5 | (2025-01 - 2018-05) |\n| Gap con fecha corpus | ~3 meses | 2026-04-21 - 2025-01 |\n| # docs superseded | 1 | National AI Strategy 2021 (superseded por Action Plan 2025) |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2018-05-23 | Data Protection Act | Ley de protecci\u00f3n de datos post-Brexit. Art. 22 sobre automated decisions. ICO enforcement. |\n| 2021-09-22 | National AI Strategy | Estrategia IA nacional. Tres pilares: ecosistema, econom\u00eda, gobernanza. |\n| 2023-03 | AI White Paper | CP 815 \u2014 consulta p\u00fablica sobre enfoque regulatorio IA. |\n| 2023-10-26 | Online Safety Act | Royal Assent. Primera ley brit\u00e1nica con provisiones expl\u00edcitas para IA (chatbots, algoritmos). |\n| 2023-11-02 | AISI fundacional | AI Safety Institute lanzado en AI Safety Summit (Bletchley Park). Primer instituto estatal safety IA del mundo. |\n| 2024-02-06 | Government Response | White Paper Response CP 1019. Confirma: sin nueva ley IA horizontal; cinco principios; AISI creado. |\n| 2025-01-13 | AI Opportunities Action Plan | 50 recomendaciones del PM Starmer aceptadas. AI Growth Zones, compute nacional, National Data Library. |\n\n**Duraci\u00f3n:** 6.5 a\u00f1os de evoluci\u00f3n regulatoria.\n**Emisor principal:** DSIT (Department for Science Innovation and Technology) / DCMS.\n**Postura deliberada:** \"Pro-innovation, context-based, no horizontal AI law.\"\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **AISI \u2014 primer instituto estatal de seguridad IA del mundo** \u2014 Citado: \"The AI Safety Institute will be the first state-backed organisation focused on advanced AI safety anywhere in the world.\" Lanzado en Bletchley Park (nov 2023), renombrado AI Security Institute (feb 2025). Mandato: pre-deployment testing, post-deployment monitoring, fundamental safety research, international coordination.\n\n- **Government Response 2024 expl\u00edcitamente rechaza ley IA horizontal** \u2014 Citado: \"We are not creating a new overarching AI regulator or passing a new law at this stage. [...] We believe the EU's horizontal approach [AI Act] risks stifling innovation.\"\n\n- **Cinco principios transversales** \u2014 Citado: \"(1) Safety, security and robustness; (2) Appropriate transparency and explainability; (3) Fairness; (4) Accountability and governance; (5) Contestability and redress.\" Aplicados por reguladores sectoriales existentes.\n\n- **Data Protection Act 2018 binding** \u2014 Art. 22 sobre automated decisions, Part 3 y Part 4. ICO con historial activo de enforcement. Multas hasta \u00a317.5M.\n\n- **Online Safety Act 2023 binding** \u2014 Primera ley brit\u00e1nica con provisiones expl\u00edcitas para IA: chatbots, algoritmos de recomendaci\u00f3n, content moderation IA. Ofcom enforcement, multas hasta 10% revenue global.\n\n- **AI Opportunities Action Plan 2025** \u2014 50 recomendaciones aceptadas. AI Growth Zones, compute nacional, AI Energy Council. Pol\u00edtica pro-adopci\u00f3n del gobierno Starmer.\n\n- **Postura \"pro-innovation\" expl\u00edcita** \u2014 UK articula teor\u00eda regulatoria alternativa a la UE que exporta a USA, JPN, KOR.\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **DPA y OSA son binding** \u2014 GBR tiene 2 leyes binding con enforcement real (ICO, Ofcom). La tesis de \"soft_framework\" podr\u00eda refutarse diciendo que GBR tiene m\u00e1s regulaci\u00f3n binding que varios pa\u00edses clasificados como binding_regulation. *Validaci\u00f3n: las leyes son sectoriales/generales, no IA-espec\u00edficas en su mandato central.*\n\n- **AISI no es regulador** \u2014 AISI es institute de investigaci\u00f3n/evaluaci\u00f3n, NO regulador. No tiene enforcement powers. La \"seguridad IA\" no equivale a \"regulaci\u00f3n IA\".\n\n- **El gobierno Starmer podr\u00eda legislar** \u2014 Se\u00f1ales de posible legislaci\u00f3n IA en 2026. Si se promulga, el r\u00e9gimen cambiar\u00eda.\n\n- **USA tiene enfoque similar** \u2014 Executive Order 14110 (oct 2023) con enfoque sectorial. GBR no es \u00fanico en el enfoque \"no horizontal\".\n\n- **La paradoja es ret\u00f3rica** \u2014 AISI evaluate modelos pero no regula. Es como \"bomber que no tiene autoridad para apagar incendios\". La tesis se sostiene.\n\n---\n\n## 6. Comparaci\u00f3n vs peer group\n\n| Pa\u00eds | R\u00e9gimen | # docs | # binding | Tesis diferencial |\n|---|---|---|---|---|\n| **GBR** | **soft_framework** | **6** | **2** | **Paradoja: mayor liderazgo global en AI safety (AISI) + enfoque regulatorio m\u00e1s ligero de Europa (rechazo ley horizontal)** |\n| AUS | soft_framework | 7 | 1 | Mandatory guardrails abortados (dic 2025) |\n| CAN | soft_framework | 7 | 2 | AIDA muri\u00f3 por prorogaci\u00f3n (ene 2025) |\n| NZL | soft_framework | 5 | 1 | Strategy tard\u00eda (jul 2025) + Algorithm Charter |\n| NOR | soft_framework | 4 | 0 | EEA pending: AI Act requiere incorporaci\u00f3n |\n\n**An\u00e1lisis:** GBR es \u00fanico en el bucket soft_framework por:\n- Mayor # binding docs (2) que AUS/NZL/NOR\n- AISI como instituci\u00f3n \u00fanica globally\n- Postura deliberada expl\u00edcita de rechazo a ley IA horizontal\n- Explicita teor\u00eda regulatoria exportable (sector-based)\n- Mayor sofisticaci\u00f3n de policy stack\n\n**Contraste:** GBR \u2248 AUS (ambos \"pro-innovation\") pero GBR con AISI (institucional) vs AUS con AISI abortado.\n\n---\n\n## 7. Implicancias para el estudio\n\n| Variable X1 | Efecto potencial |\n|---|---|\n| `has_ai_law` | 0 (sin cambio \u2014 sin ley IA horizontal) |\n| `regulatory_intensity` | 4/10 (IAPP) \u2192 4/10 (sin cambio) |\n| `thematic_coverage` | 8/15 \u2192 8/15 (sin cambio) |\n| `enforcement_level` | `high` (confirmado \u2014 ICO + Ofcom activos) |\n| `regulatory_regime_group` | Upgrade `strategy_only` \u2192 `soft_framework` |\n| `has_dedicated_ai_authority` | 0 (AISI es institute de evaluaci\u00f3n, no regulador) |\n\n**Hip\u00f3tesis testeable:**\n- \u00bfPa\u00edses con mayor institucionalidad en AI safety (AISI) tienen menor regulaci\u00f3n binding?\n- \u00bfEl modelo \"sector-based, context-based\" tiene mejor adopci\u00f3n IA que el modelo \"horizontal\"?\n\n**Caso narrativo \u00fatil para:**\n- \u00a7Discusi\u00f3n como \"paradoja regulatoria: m\u00e1ximo safety, m\u00ednima regulaci\u00f3n\"\n- Control para tesis \"soft_framework = menor desarrollo regulatorio\"\n- Comparaci\u00f3n con AUS (ambos \"pro-innovation\"), NOR (EEA pending)\n\n---\n\n## 8. Banderas de re-visita\n\n| Evento | Horizonte | Trigger observable |\n|---|---|---|\n| Legislaci\u00f3n IA gubernamental | 6-12m | Discurso del Rey o proyecto de ley en Parliament |\n| AISI expande competencias | 6m | Anuncio DSIT o AISI |\n| AI Growth Zones implementaci\u00f3n | 6-12m | Planning approvals publicados |\n| Ofcom enforcement OSA casos IA | 6-12m | Decisiones de Ofcom publicadas |\n| Brexit regulatory divergence | 24m | Comparaci\u00f3n con EU AI Act enforcement |\n\n---\n\n## Links\n\n- [CANDIDATES.md](CANDIDATES.md)\n- [SOURCES.md](SOURCES.md)\n- [manifest.csv](manifest.csv)"
+}

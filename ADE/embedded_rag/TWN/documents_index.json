@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Artificial Intelligence Basic Act (Taiwan, 2026)",
+    "type": "binding_law_ai",
+    "issuer": "Legislative Yuan / Office of the President, R.O.C. (Taiwan)",
+    "date": "2026-01-14",
+    "status": "in_force",
+    "pages": "3",
+    "url": "https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=H0160093"
+  },
+  {
+    "title": "\u4eba\u5de5\u667a\u6167\u57fa\u672c\u6cd5 (Artificial Intelligence Basic Act, ZH)",
+    "type": "binding_law_ai",
+    "issuer": "Legislative Yuan / Office of the President, R.O.C. (Taiwan)",
+    "date": "2026-01-14",
+    "status": "in_force",
+    "pages": "3",
+    "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160093"
+  },
+  {
+    "title": "Personal Data Protection Act (Taiwan)",
+    "type": "binding_law_sectoral",
+    "issuer": "Legislative Yuan, R.O.C. (Taiwan)",
+    "date": "2025-11-11",
+    "status": "in_force",
+    "pages": "8",
+    "url": "https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=I0050021"
+  },
+  {
+    "title": "Cyber Security Management Act (Taiwan)",
+    "type": "binding_law_sectoral",
+    "issuer": "Legislative Yuan, R.O.C. (Taiwan)",
+    "date": "2018-06-06",
+    "status": "in_force",
+    "pages": "7",
+    "url": "https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=A0030297"
+  },
+  {
+    "title": "AI Taiwan Action Plan 2.0 (2023-2026)",
+    "type": "policy_strategy",
+    "issuer": "Executive Yuan / National Development Council (NDC)",
+    "date": "2023-04",
+    "status": "in_use",
+    "pages": "",
+    "url": "https://digi.nstc.gov.tw/File/7C71629D702E2D89"
+  },
+  {
+    "title": "Reference Guidelines for the Use of Generative AI by the Executive Yuan and Subordinate Agencies (Draft, approved by 3869th session)",
+    "type": "guidelines",
+    "issuer": "National Science and Technology Council (NSTC) / Executive Yuan",
+    "date": "2023-08-31",
+    "status": "in_force",
+    "pages": "5",
+    "url": "https://www.ey.gov.tw/File/272BBE7DBB8F21FD"
+  },
+  {
+    "title": "Reference Guidelines for AI Applications in National Critical Infrastructure (\u570b\u5bb6\u95dc\u9375\u57fa\u790e\u8a2d\u65bd\u61c9\u7528\u4eba\u5de5\u667a\u6167\u53c3\u8003\u6307\u5f15)",
+    "type": "guidelines",
+    "issuer": "Office of Homeland Security / Executive Yuan",
+    "date": "2025-10-08",
+    "status": "in_force",
+    "pages": "4",
+    "url": "https://ohs.ey.gov.tw/File/C5E29BFB9E72EAB9"
+  }
+]

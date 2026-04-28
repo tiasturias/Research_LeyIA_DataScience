@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "iso3": "AUS",
+    "region": "South East Asia, East Asia, and Oceania",
+    "oecd_member": true,
+    "legal_origin": "English",
+    "is_common_law": true,
+    "population": 27196812.0,
+    "gdp_current_usd": 1757022451652.83
+  },
+  "ecosystem_ia": {
+    "ai_readiness_score": {
+      "value": 75.73,
+      "year": 2025
+    },
+    "ai_adoption_rate": {
+      "value": 36.9,
+      "period": "H2_2025"
+    },
+    "ai_investment_usd_bn": {
+      "cumulative": 3.9854,
+      "year": 2024.0
+    },
+    "ai_startups": {
+      "cumulative": 178.0,
+      "year": 2024.0
+    },
+    "ai_patents_per100k": {
+      "value": 0.3826,
+      "year": 2023.0
+    }
+  },
+  "controls": {
+    "gdp_per_capita_ppp": {
+      "value": 72111.1845,
+      "year": 2024.0
+    },
+    "gii_score": {
+      "value": 48.0058,
+      "year": 2025.0
+    },
+    "internet_penetration": {
+      "value": 97.0631,
+      "year": 2023.0
+    },
+    "rd_expenditure": {
+      "value": 1.8551,
+      "year": 2021.0
+    },
+    "tertiary_education": {
+      "value": 104.6484,
+      "year": 2023.0
+    }
+  },
+  "governance": {
+    "regulatory_quality": {
+      "value": 1.9422,
+      "year": 2023.0
+    },
+    "rule_of_law": {
+      "value": 1.5232,
+      "year": 2023.0
+    },
+    "fh_total_score": {
+      "value": 95,
+      "status": "F",
+      "year": 2025
+    }
+  }
+}

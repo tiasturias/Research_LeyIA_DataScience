@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "IRL: binding_regulation, intensity 10/10, comprehensive, enforcement high",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "IRL: AI readiness 70.58, adoption 44.6%, investment $1.7744B, 89.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "IRL: regulatory quality 1.7494, rule of law 1.6336, FH 97/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "IRL: Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) (binding_law_ai) - European Parliament and Council of the EU, 2024-07-12, 144pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "IRL: AI – Here for Good: National AI Strategy Refresh 2024 (policy_strategy) - Department of Enterprise, Trade and Employment (DETE), 2024-10, 31pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "IRL: AI – Here for Good: National Artificial Intelligence Strategy for Ireland (policy_strategy) - Department of Enterprise, Trade and Employment (DETE), 2021-07, 74pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "IRL: General Scheme of the Regulation of Artificial Intelligence Bill 2026 (bill_pending) - Department of Enterprise, Trade and Employment (DETE) / Government of Ireland, 2026-02, 180pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# IRL — Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Irlanda presenta el régimen de binding regulation más consolidado del corpus por su combinación única de EU AI Act directamente aplicable + DPC (Data Protection Commission) como autoridad GDPR con jurisdicción sobre las mayores Big Tech del mundo (Meta, Google, Apple, TikTok, Microsoft) y bill nacional avanzado (AI Bill 2026, General Scheme de febrero 2026) que creará la AI Office of Ireland y designará 15 autoridades sectoriales — posicionando a Irlanda como la jurisdicción donde se cruzan la regulación IA supranacional más estricta con la supervisión de datos más intensa de Europa.**\n\n---\n\n## 2. Evidencia cuantitativa — densidad del corpus\n\n| Métrica | Valor | Cálculo |\n|---|---|---|\n| # documentos totales | 4 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | EU AI Act |\n| # soft/policy/strategy | 3 | 2 estrategias + bill_pending |\n| Páginas totales corpus | 429 | sum(pages) |\n| Páginas binding / soft | 144 / 285 | 0.51:1 |\n| Primer documento (fecha) | 2021-07 | National AI Strategy 2021 |\n| Último documento (fecha) | 2026-02 | AI Bill 2026 General Scheme |\n| Años cubiertos | 4.5 | (2026-02 - 2021-07) |\n| Gap con fecha corpus | ~2 meses | 2026-04-21 - 2026-02 |\n| # docs superseded | 0 | Ningún documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa — timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2021-07 | National AI Strategy 2021 | Estrategia IA nacional base. \"AI – Here for Good.\" |\n| 2024-07-12 | EU AI Act publication | OJ L 2024/1689. Entrada en vigor 01-08-2024. |\n| 2024-10 | National AI Strategy Refresh 2024 | Actualización post-AI Act. Posiciona a IRL como hub IA europeo. |\n| 2026-02 | AI Bill 2026 General Scheme | Anteproyecto nacional. Crea AI Office, 15 autoridades sectoriales. Operativo previsto 01-08-2026. |\n\n**Duración:** 4.5 años de evolución regulatoria.\n**Emisor principal:** Department of Enterprise, Trade and Employment / DPC.\n**Diferencial:** Hub Big Tech + DPC con jurisdicción GDPR principal UE.\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **EU AI Act directamente aplicable desde agosto 2024** — Regulation (EU) 2024/1689. Prohibiciones absolutas (Art. 5), obligaciones proveedores/deployers, sanciones hasta €35M o 7% facturación global (Art. 99).\n\n- **DPC como autoridad principal de Big Tech** — Data Protection Commission tiene jurisdicción GDPR sobre Meta (multa €1.2B, 2023), WhatsApp (€225M, 2021), y todas las Big Tech con sede europea en Irlanda. Designada como Market Surveillance Authority en AI Bill 2026.\n\n- **AI Bill 2026 General Scheme (180pp)** — Anteproyecto publicado feb 2026. Crea AI Office of Ireland (Oifig Intleachta Shaorga na hÉireann), designa 15 autoridades competentes sectoriales, establece sanciones nacionales adicionales (€500K).\n\n- **National AI Strategy Refresh 2024 explícitamente pro-hub** — Citado: \"Ireland's ambition is to be the best place in Europe to develop and deploy AI.\"\n\n- **AI Office operativa pre",
+    "relevance": 0.99
+  }
+]

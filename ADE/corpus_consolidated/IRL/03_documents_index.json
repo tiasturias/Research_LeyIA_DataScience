@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+    "type": "binding_law_ai",
+    "issuer": "European Parliament and Council of the EU",
+    "date": "2024-07-12",
+    "status": "in_force",
+    "pages": "144",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689"
+  },
+  {
+    "title": "AI – Here for Good: National AI Strategy Refresh 2024",
+    "type": "policy_strategy",
+    "issuer": "Department of Enterprise, Trade and Employment (DETE)",
+    "date": "2024-10",
+    "status": "in_use",
+    "pages": "31",
+    "url": "https://enterprise.gov.ie/en/publications/publication-files/national-ai-strategy-refresh-2024.pdf"
+  },
+  {
+    "title": "AI – Here for Good: National Artificial Intelligence Strategy for Ireland",
+    "type": "policy_strategy",
+    "issuer": "Department of Enterprise, Trade and Employment (DETE)",
+    "date": "2021-07",
+    "status": "in_use",
+    "pages": "74",
+    "url": "https://enterprise.gov.ie/en/publications/publication-files/national-ai-strategy.pdf"
+  },
+  {
+    "title": "General Scheme of the Regulation of Artificial Intelligence Bill 2026",
+    "type": "bill_pending",
+    "issuer": "Department of Enterprise, Trade and Employment (DETE) / Government of Ireland",
+    "date": "2026-02",
+    "status": "bill_pending",
+    "pages": "180",
+    "url": "https://enterprise.gov.ie/en/legislation/legislation-files/general-scheme-of-the-regulation-of-artificial-intelligence-bill-2026.pdf"
+  }
+]

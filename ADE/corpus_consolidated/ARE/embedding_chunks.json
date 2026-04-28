@@ -1,0 +1,52 @@
+[
+  {
+    "chunk_type": "regulatory",
+    "content": "ARE: strategy_only, intensity 5/10, strategy_led, enforcement medium",
+    "relevance": 0.98
+  },
+  {
+    "chunk_type": "ecosystem",
+    "content": "ARE: AI readiness 69.86, adoption 64.0%, investment $3.6717B, 36.0 startups",
+    "relevance": 0.95
+  },
+  {
+    "chunk_type": "governance",
+    "content": "ARE: regulatory quality 1.0424, rule of law 0.8819, FH 17/100",
+    "relevance": 0.9
+  },
+  {
+    "chunk_type": "document",
+    "content": "ARE: Federal Decree-Law No. (45) of 2021 concerning the Protection of Personal Data (PDPL) (binding_law_sectoral) - Office of the President / UAE Cabinet, 2021-09-20, 29pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "ARE: Federal Decree-Law No. (34) of 2021 on Countering Rumors and Cybercrimes (binding_law_sectoral) - Office of the President / UAE Cabinet, 2021-09-20, 36pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "ARE: UAE National Strategy for Artificial Intelligence 2031 (policy_strategy) - UAE Council for Artificial Intelligence / Minister of State for AI, 2018-04, 25pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "ARE: UAE Charter for the Development and Use of Artificial Intelligence (guidelines) - Artificial Intelligence Office / Minister of State for AI, 2024-07, 6pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "ARE: DIFC Data Protection Law No. 5 of 2020 (consolidated July 2025, incl. Regulation 10 on AI) (binding_law_sectoral) - Dubai International Financial Centre Authority, 2020-05-21, 54pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "document",
+    "content": "ARE: Smart Dubai AI Ethics Principles and Guidelines (guidelines) - Digital Dubai (ex-Smart Dubai Office), 2019-01, 35pp",
+    "relevance": 0.85
+  },
+  {
+    "chunk_type": "findings",
+    "content": "# ARE — Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**UAE fue el primer país del mundo en nombrar un Ministro de Estado para IA (2017) y es el único país del corpus que posee la primera regulación IA-específica vinculante de la región MEASA (DIFC Regulation 10, enforcement pleno desde enero 2026), en un ecosistema de soft_framework institucionalmente sofisticado que incluye estrategia nacional desde 2017, Charter oficial 2024 con 12 principios, y pathway legislativo federal declarado — marcando una trayectoria divergente respecto a Singapur (que explícitamente rechaza ley IA horizontal) y convergente hacia la binding_regulation durante 2026-2027.**\n\n---\n\n## 2. Evidencia cuantitativa — densidad del corpus\n\n| Métrica | Valor | Cálculo |\n|---|---|---|\n| # documentos totales | 6 | count(manifest.csv) |\n| # binding (law + sectoral) | 3 | PDPL + Cybercrime + DIFC |\n| # soft/policy/strategy | 3 | Strategy + Charter + Smart Dubai |\n| Páginas totales corpus | 185 | sum(pages) |\n| Páginas binding / soft | 119 / 66 | 1.8:1 ratio |\n| Primer documento (fecha) | 2019-01 | Smart Dubai AI Ethics |\n| Último documento (fecha) | 2024-07 | UAE Charter AI |data/raw/legal_corpus/BGD\n| Años cubiertos | 5.5 | (2024-07 - 2019-01) |\n| Gap con fecha corpus | ~9 meses | 2026-04-21 - 2024-07 |\n| # docs superseded | 0 | Ningún documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa — timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2017-10 | Ministerio de Estado para IA | UAE primer país mundial en nominar Ministro de Estado para IA (Omar Al Olama) |\n| 2019-01 | Smart Dubai AI Ethics | Primer framework ético IA en MEASA (4 pilares: ética, seguridad, humanidad, inclusividad) |\n| 2021-09-20 | PDPL (FDL 45/2021) | Ley federal de protección de datos personales; UAE Data Office creado por FDL 44/2021 |\n| 2021-09-20 | Cybercrime Law (FDL 34/2021) | Ley federal de cibercrimen; deepfakes (Art. 44), rumor propagation (Arts. 50-52) |\n| 2022-01-02 | Entrada en vigor | PDPL + Cybercrime Law entran en vigor simultáneamente |\n| 2023-09-01 | DIFC Regulation 10 | Enmienda a DIFC Data Protection Law — primera regulación IA-específica en MEASA |\n| 2024-07 | UAE Charter for AI | Lanzado por Ministro Al Olama — 12 principios éticos oficiales |\n| 2025-04 | Regulatory Intelligence Office | Creado por Cabinet approval |\n| 2025-10-24 | National Elections AI Policy | Primera regulación mundial IA en elecciones (anunciada, texto no público) |\n| 2026-01 | DIFC Regulation 10 enforcement | Enforcement pleno de Regulation 10 en DIFC |\n| 2026-01 | NAI System operativo | National AI System asesorando Cabinet y boards federales |\n| 2026 (en curso) | Draft AI Law federal | Ley IA horizontal federal en desarrollo |\n\n**Duración:** 5.5 años de evolución regulatoria continua (2019 → 2026).\n**Emisor principal:** UAE Cabinet / Ministry of State for AI / DIFC Authority.\n**Continuidad institucional:** Mismo ministro (Al Olama) desde 2017 a 2024.\n\n---\n\n## 4. Datos que FORTALECEN la tes",
+    "relevance": 0.99
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "iso3": "SWE",
+    "generated_at": "2026-04-22"
+  },
+  "manifest": [
+    {
+      "filename": "SWE_EUAIAct_Reg2024_1689.pdf",
+      "document_title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+      "doc_type": "binding_law_ai",
+      "issuer": "European Parliament and Council of the EU",
+      "publication_date": "2024-07-12",
+      "status": "in_force",
+      "language": "en",
+      "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689",
+      "pages": "144"
+    },
+    {
+      "filename": "SWE_AICommission_Roadmap_2024.pdf",
+      "document_title": "The AI Commission's Roadmap for Sweden (SOU 2025:12)",
+      "doc_type": "policy_strategy",
+      "issuer": "Swedish AI Commission (Statens offentliga utredningar)",
+      "publication_date": "2024-11-26",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.sou.gov.se/globalassets/the-ai-commissions-roadmap-for-sweden.pdf",
+      "pages": "136"
+    },
+    {
+      "filename": "SWE_AIStrategy_2026.pdf",
+      "document_title": "Sweden's AI Strategy",
+      "doc_type": "policy_strategy",
+      "issuer": "Government of Sweden (Regeringskansliet)",
+      "publication_date": "2026-02",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.government.se/contentassets/4e6b2d34f81048d688c35c831065395f/swedens-ai-strategy.pdf",
+      "pages": "24"
+    },
+    {
+      "filename": "SWE_AIStrategyActionPlan_2026.pdf",
+      "document_title": "Action Plan for Sweden's AI Strategy",
+      "doc_type": "policy_strategy",
+      "issuer": "Government of Sweden (Regeringskansliet)",
+      "publication_date": "2026-02",
+      "status": "in_use",
+      "language": "en",
+      "source_url": "https://www.government.se/contentassets/4e6b2d34f81048d688c35c831065395f/action-plan-for-swedens-ai-strategy.pdf",
+      "pages": "13"
+    },
+    {
+      "filename": "SWE_IMY_AIStrategi.pdf",
+      "document_title": "Integritetsskyddsmyndighetens AI-strategi (IMY AI Strategy)",
+      "doc_type": "guidelines",
+      "issuer": "Integritetsskyddsmyndigheten (IMY)",
+      "publication_date": "2024",
+      "status": "in_force",
+      "language": "sv",
+      "source_url": "https://www.imy.se/globalassets/dokument/ovrigt/integritetsskyddsmyndighetens-ai-strategi.pdf",
+      "pages": "5"
+    }
+  ],
+  "findings_text": "# SWE \u2014 Hallazgo Diferencial\n\n## 1. Tesis del hallazgo diferencial\n\n**Suecia presenta el caso de \"policy acceleration under binding regulation\": el ciclo de pol\u00edtica IA m\u00e1s \u00e1gil del corpus UE-27 \u2014 la AI Commission (creada en 2023) gener\u00f3 75 propuestas en noviembre 2024, lo que deriv\u00f3 en la primera estrategia IA integral de Suecia en febrero 2026 (objetivo: top-10 global), todo en\u4ec5 14 meses \u2014 un proceso de pol\u00edtica exhibe una velocidad y articulaci\u00f3n notable que la distingue de sus pares AUT y BEL (con delays institucionales) y la alinea con NLD/ESP en t\u00e9rminos de implementaci\u00f3n robusta, aunque sin agencia IA dedicada.**\n\n---\n\n## 2. Evidencia cuantitativa \u2014 densidad del corpus\n\n| M\u00e9trica | Valor | C\u00e1lculo |\n|---|---|---|\n| # documentos totales | 5 | count(manifest.csv) |\n| # binding (law + sectoral) | 1 | EU AI Act |\n| # soft/policy/strategy | 4 | AI Commission + Strategy + Action Plan + IMY |\n| P\u00e1ginas totales corpus | 322 | sum(pages) |\n| P\u00e1ginas binding / soft | 144 / 178 | 0.81:1 |\n| Primer documento (fecha) | 2024 | IMY AI Strategy |\n| \u00daltimo documento (fecha) | 2026-02 | Sweden's AI Strategy + Action Plan |\n| A\u00f1os cubiertos | ~2 | (2026-02 - 2024) |\n| Gap con fecha corpus | ~2 meses | 2026-04-21 - 2026-02 |\n| # docs superseded | 0 | Ning\u00fan documento reemplazado |\n\n---\n\n## 3. Evidencia cuantitativa \u2014 timeline y proceso\n\n| Fecha | Hito | Detalle |\n|---|---|---|\n| 2023 | AI Commission establecida | \u00d3rgano gubernamental ad hoc creado por el Gobierno de Suecia |\n| 2024 | IMY AI Strategy | DPA sueco publica estrategia interna sobre IA + RGPD/AI Act |\n| 2024-08 | Mandato Digg + IMY | Gobierno comisiona \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0443 riktlinjer (directrices) para IA generativa en administraci\u00f3n p\u00fablica |\n| 2024-11-26 | AI Commission Roadmap / SOU 2025:12 | 75 propuestas presentadas al Gobierno. 136pp. |\n| 2025-02 | AI Act deadline | Fecha l\u00edmite para designaci\u00f3n de autoridades competentes (Art. 70) |\n| 2026-02 | Sweden's AI Strategy | Primera estrategia IA integral. Objetivo: top-10 global. 3 \u00e1reas: societal, sostenible, competitividad. |\n| 2026-02 | Action Plan | Plan de acci\u00f3n con medidas concretas, plazos y responsables |\n| 2026-04 | Estado del corpus | Implementaci\u00f3n inicial del Action Plan en curso |\n\n**Duraci\u00f3n del ciclo de pol\u00edtica:** ~14 meses (nov 2024 \u2192 feb 2026)\n**Velocidad:** Proceso de pol\u00edtica m\u00e1s r\u00e1pido del corpus UE-27\n**Emisor principal:** Government of Sweden / AI Commission / IMY\n\n---\n\n## 4. Datos que FORTALECEN la tesis\n\n- **AI Commission con 75 propuestas formalizadas (SOU 2025:12)** \u2014 documento de 136pp con roadmap concreto. Citado: \"Sweden is falling behind in AI development. This is alarming and requires the Government to take a number of urgent steps to avoid Sweden being left behind.\"\n\n- **Sweden's AI Strategy (feb 2026): primera estrategia integral** \u2014citado: \"For the first time ever, Sweden has a holistic AI strategy. The strategy aims for Sweden to be among the world's top ten countries in the field of artificial intelligence.\"\n\n- **Action Plan con asignaciones presupuestarias** \u2014 Vinnova (innovaci\u00f3n), NAISS (compute), Digg+IMY (guidelines), Swedish Research Council (investigaci\u00f3n). Medidas concretas con plazos y responsables.\n\n- **Objetivo expl\u00edcito top-10 global** \u2014 Ambici\u00f3n alta respaldada por propuesta \u20ac1.5B inversi\u00f3n adicional.\n\n- **IMY (DPA) activo** \u2014 Estrategia interna IA (2024) con tres \u00e1reas prioritarias: salud, trabajo, ni\u00f1os. Historial riguroso de enforcement RGPD (tradici\u00f3n n\u00f3rdica).\n\n- **Proceso de pol\u00edtica articulado** \u2014 AI Commission \u2192 75 propuestas \u2192 Estrategia + Action Plan. Ciclo completo en 14 meses.\n\n---\n\n## 5. Datos que REFUTAN la tesis (stress test honesto)\n\n- **Sin agencia IA dedicada** \u2014 Suecia no tiene una agencia espec\u00edfica como AESIA (Espa\u00f1a). IMY + Digg distribuyen competencias. *Refutador primario.*\n\n- **Estrategia muy reciente (feb 2026)** \u2014 Publicada solo 2 meses antes del cierre del corpus. Efectividad por verificar. *Refutador secundario.* La estrategia es ambicioso pero no probada.\n\n- **Digg riktlinjer IA generativa pendiente** \u2014 Mandato recibido ago 2024, publicaci\u00f3n final pendiente. Gu\u00eda para sector p\u00fablico no disponible a\u00fan.\n\n- **AUT y BEL tambi\u00e9n incumplieron plazo** \u2014 La tesis de \"agilidad\" se refiere solo al proceso de pol\u00edtica nacional post-2024, no al cumplimiento del deadline AI Act.\n\n- **NLD y ESP tienen institucionalidad m\u00e1s establecida** \u2014 Pa\u00edses Bajos con AP + RvIG, Espa\u00f1a con AESIA + sandbox. SWE est\u00e1 en proceso de construcci\u00f3n institucional.\n\n---\n\n## 6. Comparaci\u00f3n vs peer group\n\n| Pa\u00eds | R\u00e9gimen | # docs | # binding | Tesis diferencial |\n|---|---|---|---|---|\n| NLD | binding_regulation | 5 | 1 | AI Act + supervisi\u00f3n establecida + GenAI Vision 2024 |\n| ESP | binding_regulation | 5 | 1 | AI Act + AESIA activa + sandbox IA (RD 817/2023) |\n| **SWE** | **binding_regulation** | **5** | **1** | **Ciclo de pol\u00edtica m\u00e1s \u00e1gil UE (14 meses: Commission \u2192 estrategia integral)** |\n| AUT | binding_regulation | 4 | 1 | Estrategia madura (82% impl.) pero incumplimiento plazo AI Act |\n| BEL | binding_regulation | 5 | 1 | Sin agencia dedicada + estructura federal compleja |\n\n**An\u00e1lisis:** SWE comparte bucket binding_regulation con NLD, ESP, AUT, BEL. Se distingue por:\n- Ciclo de pol\u00edtica m\u00e1s r\u00e1pido (14 meses)\n- Estrategia m\u00e1s reciente (feb 2026) vs AUT/BEL (estrategias m\u00e1s antiguas)\n- Sin agencia dedicada (como AUT/BEL)\n- Enforcement level high confirmado (como NLD/ESP)\n\n**Contraste:** SWE \u2248 NLD/ESP en velocidad de implementaci\u00f3n, pero sin agencia dedicada como AUT/BEL.\n\n---\n\n## 7. Implicancias para el estudio\n\n| Variable X1 | Efecto potencial |\n|---|---|\n| `has_ai_law` | 1 (EU AI Act directamente aplicable) |\n| `regulatory_intensity` | 10/10 (sin cambio vs IAPP) |\n| `thematic_coverage` | 14/15 (sin cambio) |\n| `enforcement_level` | `high` (confirmado \u2014 IAPP correcto) |\n| `regulatory_regime_group` | `binding_regulation` (confirmado) |\n| `has_dedicated_ai_authority` | 0 (IMY + Digg, no agencia dedicada) |\n\n**Hip\u00f3tesis testeable:**\n- \u00bfPa\u00edses con ciclos de pol\u00edtica m\u00e1s r\u00e1pidos (SWE) tienen mejores outcomes que pa\u00edses con delays (AUT, BEL)?\n- \u00bfLa ausencia de agencia IA dedicada tiene efecto negative sobre implementaci\u00f3n?\n\n**Caso narrativo \u00fatil para:**\n- \u00a7Discusi\u00f3n como \"caso de policy acceleration under binding regulation\"\n- Control para tesis \"EU AI Act igual para todos\" \u2014 velocidad de implementaci\u00f3n nacional var\u00eda\n- Comparaci\u00f3n con AUT/BEL (mismo bucket, diferente velocidad)\n\n---\n\n## 8. Banderas de re-visita\n\n| Evento | Horizonte | Trigger observable |\n|---|---|---|\n| Publicaci\u00f3n Digg riktlinjer IA generativa | 3-6m | digg.se nuevo documento |\n| Efectividad Action Plan | 6-12m | Evaluaci\u00f3n interim del Gobierno |\n| Designaci\u00f3n formal autoridades AI Act | 3-6m | Publicaci\u00f3n en svenskforfattningssamling.se |\n| NAISS compute infrastructure operativo | 12-18m | Anuncio Vinnova o Gobierno |\n| Ranking IA global 2026 | 12m | Stanford AI Index / Microsoft Diffusion 2026 |\n\n---\n\n## Links\n\n- [CANDIDATES.md](CANDIDATES.md)\n- [SOURCES.md](SOURCES.md)\n- [manifest.csv](manifest.csv)"
+}

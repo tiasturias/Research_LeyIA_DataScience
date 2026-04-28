@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Law of Mongolia on Personal Data Protection (2021)",
+    "type": "binding_law_sectoral",
+    "issuer": "State Great Khural (Parliament) of Mongolia",
+    "date": "2021-12-17",
+    "status": "in_force",
+    "pages": "8",
+    "url": "https://legalinfo.mn/en/edtl/16532053734461"
+  },
+  {
+    "title": "Law of Mongolia on Cyber Security (2021)",
+    "type": "binding_law_sectoral",
+    "issuer": "State Great Khural (Parliament) of Mongolia",
+    "date": "2021-12-17",
+    "status": "in_force",
+    "pages": "6",
+    "url": "https://legalinfo.mn/en/edtl/16531350476261"
+  },
+  {
+    "title": "Artificial Intelligence Landscape Assessment of Mongolia",
+    "type": "readiness_assessment",
+    "issuer": "UNDP + Ministry of Digital Development, Innovation and Communications (MDDIC) Mongolia (co-published)",
+    "date": "2025-08",
+    "status": "official_joint_publication",
+    "pages": "",
+    "url": "https://www.undp.org/sites/g/files/zskgke326/files/2025-08/aila_eng-final.pdf"
+  }
+]

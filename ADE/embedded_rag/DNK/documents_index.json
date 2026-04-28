@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+    "type": "binding_law_ai",
+    "issuer": "European Parliament and Council of the EU",
+    "date": "2024-07-12",
+    "status": "in_force",
+    "pages": "144",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689"
+  },
+  {
+    "title": "Lov om supplerende bestemmelser til forordningen om kunstig intelligens (Act on Supplementary Provisions to the Regulation on Artificial Intelligence, Lov nr. 467 af 14. maj 2025)",
+    "type": "binding_regulation",
+    "issuer": "Folketing (Parlamento dan\u00e9s)",
+    "date": "2025-05-14",
+    "status": "in_force",
+    "pages": "178",
+    "url": "https://www.retsinformation.dk/eli/lta/2025/467"
+  },
+  {
+    "title": "National Strategy for Artificial Intelligence (Nationalt strategi for kunstig intelligens)",
+    "type": "policy_strategy",
+    "issuer": "Ministry of Finance + Ministry of Industry, Business and Financial Affairs",
+    "date": "2019-03",
+    "status": "in_use",
+    "pages": "74",
+    "url": "https://en.digst.dk/media/lz0fxbt4/305755_gb_version_final-a.pdf"
+  },
+  {
+    "title": "Strategic Approach to Artificial Intelligence (Strategisk tilgang til kunstig intelligens)",
+    "type": "policy_strategy",
+    "issuer": "Ministry of Digitalisation (Digitaliseringsministeriet)",
+    "date": "2024-12-02",
+    "status": "in_use",
+    "pages": "28",
+    "url": "https://www.english.digmin.dk/Media/638719220318136690/Stategic%20Approach%20to%20Artificial%20Intelligence.pdf"
+  }
+]

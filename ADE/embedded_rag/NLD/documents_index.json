@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)",
+    "type": "binding_law_ai",
+    "issuer": "European Parliament and Council of the EU",
+    "date": "2024-07-12",
+    "status": "in_force",
+    "pages": "144",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689"
+  },
+  {
+    "title": "Strategisch Actieplan voor Artifici\u00eble Intelligentie (SAPAI)",
+    "type": "policy_strategy",
+    "issuer": "Ministerie van Economische Zaken en Klimaat (EZK)",
+    "date": "2019-10-08",
+    "status": "in_use",
+    "pages": "64",
+    "url": "https://www.rijksoverheid.nl/documenten/beleidsnotas/2019/10/08/strategisch-actieplan-voor-artificiele-intelligentie"
+  },
+  {
+    "title": "Government-wide Vision on Generative AI of the Netherlands (Overheidsbrede visie Generatieve AI)",
+    "type": "policy_strategy",
+    "issuer": "Rijksoverheid (cabinet-wide) \u2014 Ministerie van Binnenlandse Zaken en Koninkrijksrelaties coordinador",
+    "date": "2024-01-17",
+    "status": "in_use",
+    "pages": "54",
+    "url": "https://www.government.nl/binaries/government/documenten/parliamentary-documents/2024/01/17/government-wide-vision-on-generative-ai-of-the-netherlands/Government-wide+vision+on+generative+AI+of+the+Netherlands.pdf"
+  },
+  {
+    "title": "Toezicht op AI & Algoritmes \u2014 Visie van de Autoriteit Persoonsgegevens",
+    "type": "guidelines",
+    "issuer": "Autoriteit Persoonsgegevens (AP)",
+    "date": "2023",
+    "status": "in_force",
+    "pages": "11",
+    "url": "https://autoriteitpersoonsgegevens.nl/uploads/imported/toezicht_op_ai_en_algoritmes.pdf"
+  },
+  {
+    "title": "AI Impact Assessment \u2014 The tool for a responsible AI project (version 2.0)",
+    "type": "guidelines",
+    "issuer": "Ministerie van Infrastructuur en Waterstaat (IenW)",
+    "date": "2024-03",
+    "status": "in_use",
+    "pages": "43",
+    "url": "https://www.government.nl/binaries/government/documenten/publications/2023/03/02/ai-impact-assessment/2024-IWM-AI-Impact-assessment-2.0-EN.pdf"
+  }
+]

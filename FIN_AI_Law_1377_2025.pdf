@@ -1,0 +1,1347 @@
+<!DOCTYPE html>
+<html lang="fi" prefix="og: http://ogp.me/ns#">
+    <head>
+        <meta charset="utf-8">
+        <meta name="format-detection" content="telephone=no" >
+<meta name="viewport" content="width=device-width, initial-scale=1" >
+<meta name="facebook-domain-verification" content="6nasukkx57q92z6aloveqiwue6fw1c" >        <title>Laki eräiden tekoälyjärjestelmien valvonnasta 1377/2025 | EDILEX</title>        <script>
+            // Initialize the dataLayer array
+            window.dataLayer = window.dataLayer || [];
+            window.gtag = function() { dataLayer.push(arguments); }
+            window.gtag('consent', 'default', {
+                ad_storage: 'denied',
+                ad_user_data: 'denied',
+                ad_personalization: 'denied',
+                analytics_storage: 'denied',
+                functionality_storage: 'denied',
+                personalization_storage: 'denied',
+                security_storage: 'denied',
+                wait_for_update: 500
+            });
+        </script>
+        <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:''; j.setAttributeNode(d.createAttribute('data-ot-ignore'));
+j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TP5CVXR5');</script>
+<!-- End Google Tag Manager -->        <link href="/assets/img/icons/favicon.png" rel="icon" type="image/png" >
+<link href="/assets/img/icons/touch-icon.png" rel="apple-touch-icon" type="image/png" >
+<link href="/assets/img/icons/favicon.ico" rel="shortcut icon" type="image/ico" >
+<link href="https://www.edilex.fi/lainsaadanto/20251377" rel="canonical" >
+<link href="/min/?f=/node_modules/@selectize/selectize/dist/css/selectize.css,/node_modules/@selectize/selectize/dist/css/selectize.default.css,/node_modules/flickity/dist/flickity.min.css,/assets/css/styles.css&amp;1776860863" media="screen" rel="stylesheet" type="text/css" >
+<link href="/min/?f=/assets/css/print.css&amp;1776860863" media="print" rel="stylesheet" type="text/css" >        <script src="/min/?f=/node_modules/flickity/dist/flickity.pkgd.min.js,/node_modules/lodash/lodash.js,/node_modules/mustache/mustache.min.js,/assets/js/jquery/jquery-3.2.1.min.js,/assets/js/jquery/jquery-ui-1.12.1.min.js,/assets/js/jquery/jquery.placeholder.min.js,/assets/js/jquery/jquery-accessibleMegaMenu.js,/node_modules/@selectize/selectize/dist/js/selectize.js,/assets/js/jquery/jinplace-1.2.1-modified.js,/node_modules/sortablejs/Sortable.min.js,/assets/js/edilex-utils.js,/assets/js/edilex-ui.js,/assets/js/edilex-toolbar.js,/assets/js/edilex-document.js,/assets/js/edilex-material-toc.js,/assets/js/edilex-autocomplete.js,/assets/js/document-toolbar.js&amp;1776860863"></script>            </head>
+
+        <body
+        id="regulations-section"
+        class="guest regulations login-required"
+        onload="Edilex.jumpTo(''); return false;"            >
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TP5CVXR5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->                <script src="/assets/js/svg-sprite.js"></script>
+                        <div class="container">
+            <header>
+                                    <div id="branding">
+    <h1>
+        <a href="/" title="Edilex">
+            <span>Edilex</span>
+            <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 706.19 306.51"><defs><style>.edilex {fill:#11094f;}</style></defs><path class="edilex" d="M277.62,144.39h-.64c-1.6-23.94-14.61-36.92-33.16-36.92-23.27,0-40.63,20.31-40.63,50.6,0,28.44,17.36,50.6,40.63,50.6,18.3,0,31.21-11.55,33.09-37.46h.7v35.06h27.33V77h-27.33v67.39ZM255.08,183.74c-13.3,0-24.01-10.34-24.01-25.67s10.71-25.67,24.01-25.67c12.56,0,23.53,10.34,23.53,25.67s-10.97,25.67-23.53,25.67ZM324.14,206.27h27.33v-94h-27.33v94ZM338.93,74.84c-8.14-.62-15.24,5.48-15.86,13.62v.2c-.63,8.14,5.46,15.24,13.61,15.86h0c8.14.62,15.24-5.48,15.86-13.62v-.2c.63-8.14-5.46-15.24-13.61-15.86ZM370.67,206.27h27.33V77h-27.33v129.27ZM605.48,109.87h-29.68l-20.04,45.48-20.04-45.48h-29.68l22.42,48.2-22.42,48.2h29.68l20.03-45.46,19.7,45.46h30.03l-22.42-48.2,22.42-48.2ZM147.67,107.47c-30.84,0-50.79,22.34-50.79,50.6,0,32.13,23.08,50.6,49.68,50.6,20.68,0,36.88-9.19,43.39-22.09l-21.29-10.31c-2.99,3.67-11.38,8.76-20.25,8.76-10.33,0-19.6-4.98-23.6-15.3l69.63-1.82c.7-3.6,1.25-9.28,1.25-14.83,0-23.08-18.1-45.61-48.01-45.61ZM124.4,148.32c2.44-10.42,12-17.77,23.08-17.77,12.69,0,20.37,8.31,21.68,16.37l-44.77,1.39ZM507.11,153.08c0-23.08-18.1-45.61-48.01-45.61s-50.79,22.34-50.79,50.6c0,32.13,23.08,50.6,49.68,50.6,20.68,0,36.88-9.19,43.39-22.09l-21.29-10.31c-2.99,3.67-11.38,8.76-20.25,8.76-10.33,0-19.6-4.98-23.6-15.3l69.63-1.82c.7-3.6,1.25-9.28,1.25-14.83ZM435.82,148.32c2.44-10.42,12-17.77,23.08-17.77,12.69,0,20.37,8.31,21.68,16.37l-44.77,1.39Z"></path></svg>        </a>
+    </h1>
+    </div>
+                    <div id="edilex-services" class="tab-list-container" data-param="service">
+    <h2>Edilex-palvelut</h2>
+    <ul class="tab-list" role="tablist">
+        <li role="presentation">
+            <h3><a class="service-name" role="tab" aria-selected="false" tabindex="0" id="tab-edilex-basic" data-panel="tab-panel-edilex-basic">Edilex <span>Peruspalvelu</span></a></h3>
+        </li>
+        <li role="presentation">
+            <h3><a class="service-name" role="tab" aria-selected="false" tabindex="-1" id="tab-edilex-ehs" data-panel="tab-panel-edilex-ehs">Edilex <span>EHS</span></a></h3>
+        </li>
+        <li role="presentation">
+            <h3><a class="service-name" role="tab" aria-selected="false" tabindex="-1" id="tab-edilex-taxation" data-panel="tab-panel-edilex-taxation">Edilex <span>Verotus</span></a></h3>
+        </li>
+        <li role="presentation">
+            <h3><a class="service-name" role="tab" aria-selected="false" tabindex="-1" id="tab-edilex-vat" data-panel="tab-panel-edilex-vat">Edilex <span>Arvonlisäverotus</span></a></h3>
+        </li>
+        <li role="presentation">
+            <h3><a class="service-name" role="tab" aria-selected="false" tabindex="-1" id="tab-edilex-bt" data-panel="tab-panel-edilex-bt">Edilex <span>Elinkeinoverotus</span></a></h3>
+        </li>
+        <li role="presentation">
+            <h3><a class="service-name" role="tab" aria-selected="false" tabindex="-1" id="tab-legal-journals" data-panel="tab-panel-legal-journals">Juridiset <span>lehdet</span></a></h3>
+        </li>
+    </ul>
+    <div class="service-desc tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-edilex-basic" id="tab-panel-edilex-basic">
+        <p>Edilex on juridisen tiedon kohtaamispaikka. Suomen johtava lakitietopalvelu seuraa puolestasi juridiikan kehitystä joka arkipäivä. Personoi palvelu mieleiseksesi muistilistan ja seurantapalveluiden avulla. Edilex sisältää Suomen laajimmat juridiset sisällöt -  ajantasaisen säädöstietokannan linkityksin oikeustapauksiin, esitöihin ja muihin oikeudellisiin aineistoihin sekä juridisen uutispalvelun. Laaja asiantuntijaverkostomme tuottaa kommentoitua sisältöä eri oikeudenaloilta.</p>
+        <a href="https://lakitieto.edilex.fi/verkkokauppa/edilex/edilex-verkkopalvelut/edilex-peruspalvelu" target="_blank" class="button cta">Tilaa Edilex Peruspalvelu</a>
+        <a href="/tietoa_palvelusta/peruspalvelu" class="more">
+            <svg class="icon icon-angle-double-right" aria-hidden="true">
+                <use xlink:href="#icon-angle-double-right"/>
+            </svg>
+            <span>Lisätietoja palvelusta</span>
+        </a>
+    </div>
+    <div class="service-desc tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-edilex-ehs" id="tab-panel-edilex-ehs">
+        <div class="edilex-env">
+            <div class="intro">
+                <div class="co-op">
+                    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 524.41 121.89">
+                        <defs>
+                            <clipPath id="clippath">
+                            <rect fill="none" style="stroke-width: 0px;" x="10.34" y="1.42" width="503.73" height="119.06"/>
+                            </clipPath>
+                        </defs>
+                        <g class="cls-3">
+                            <path fill="#fff" style="stroke-width: 0px;" d="M471.77,107.61c3.24,7.37,11.34,12.86,21.83,12.86,9.69,0,20.47-5.25,20.47-15.9s-8.49-13.5-18.71-17.1c-6.81-2.4-10.77-3.04-10.77-7.41,0-3.57,3.72-5.81,7.93-5.81,5.77,0,9.69,4.01,12.06,7.97l8.33-5.93c-3.44-6.05-10.25-11.82-20.11-11.82-9.21,0-19.27,5.37-19.27,15.62s8.53,13.7,18.99,16.98c6.49,2.04,10.54,3.97,10.54,7.57s-4.13,6.05-9.33,6.05c-6.53,0-11.42-3.6-13.98-8.85l-7.97,5.77ZM422.46,74.89h17.02v44.78h10.77v-44.78h16.98v-9.61h-44.78v9.61ZM367.02,65.27v54.4h10.82v-23.07h26.52v23.07h10.78v-54.4h-10.78v21.99h-26.52v-21.99h-10.82ZM330.63,120.47c16.66,0,26.52-12.1,26.52-26.08,0-1.36-.04-2.96-.2-4.37h-27.4v9.33h16.46c-1.24,5.77-6.33,11.1-15.38,11.1-9.89,0-17.1-7.41-17.1-17.99s6.93-17.99,16.82-17.99c5.53,0,11.06,2.44,15.3,8.85l8.53-6.09c-5.73-8.29-14.42-12.78-23.83-12.78-15.9,0-27.92,12.1-27.92,28s12.34,28,28.2,28ZM292.22,65.27h-10.82v54.4h10.82v-54.4ZM228.88,107.61c3.24,7.37,11.34,12.86,21.83,12.86,9.69,0,20.47-5.25,20.47-15.9s-8.49-13.5-18.71-17.1c-6.81-2.4-10.78-3.04-10.78-7.41,0-3.57,3.73-5.81,7.93-5.81,5.77,0,9.69,4.01,12.06,7.97l8.33-5.93c-3.45-6.05-10.25-11.82-20.11-11.82-9.21,0-19.27,5.37-19.27,15.62s8.53,13.7,18.99,16.98c6.49,2.04,10.54,3.97,10.54,7.57s-4.13,6.05-9.33,6.05c-6.53,0-11.42-3.6-13.98-8.85l-7.97,5.77ZM179.11,119.67v-36.93l29.92,36.93h9.98v-54.4h-10.82v37.33l-30.08-37.33h-9.81v54.4h10.82ZM154.85,65.27h-10.82v54.4h10.82v-54.4Z"/>
+                        </g>
+                        <path fill="#fff" style="stroke-width: 0px;" d="M24.35,36.41h28v7h-28v-7ZM10.35,1.42v14h41.99v7H10.35v35h56V1.42H10.35Z"/>
+                        <polygon fill="#fff" style="stroke-width: 0px;" points="73.35 1.42 73.35 57.42 129.35 57.42 129.35 43.41 87.35 43.41 87.35 1.42 73.35 1.42"/>
+                        <path fill="#fff" style="stroke-width: 0px;" d="M87.35,99.47h28v7.01h-28v-7.01ZM73.35,64.47v14.01h42v7h-42v34.99h56v-56h-56Z"/>
+                        <polygon fill="#fff" style="stroke-width: 0px;" points="10.34 64.42 10.34 120.42 24.35 120.42 24.35 78.43 31.36 78.43 31.36 120.42 45.34 120.42 45.34 78.43 52.35 78.43 52.35 120.42 66.34 120.42 66.34 64.42 10.34 64.42"/>
+                    </svg>
+                    <img src="/assets/images/logos/hpp-logo.png" />
+                </div>
+                <h1>Edilex EHS</h1>
+                <p>Tehokas ratkaisu EHS-tiedon seurantaan</p>
+                <div class="iso">
+                    <p>Kattava ja aina ajantasainen säädösseuranta EHS-tiedosta</p>
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+                        <g id="Frame_-_24px">
+	                        <rect y="0.001" fill="none" width="24" height="24"></rect>
+                        </g>
+                        <g id="Filled_Icons">
+	                        <path fill="#444" d="M23.042,12c0-1.597-0.942-2.964-2.295-3.605c0.503-1.41,0.203-3.043-0.926-4.173   c-1.129-1.129-2.763-1.429-4.173-0.926C15.006,1.943,13.638,1,12.042,1S9.077,1.943,8.436,3.296   c-1.41-0.503-3.043-0.203-4.173,0.926c-1.129,1.13-1.429,2.763-0.926,4.173C1.984,9.036,1.041,10.404,1.041,12   s0.942,2.964,2.296,3.606c-0.503,1.41-0.203,3.044,0.926,4.172c1.129,1.129,2.763,1.43,4.173,0.927   C9.078,22.058,10.445,23,12.042,23s2.964-0.942,3.606-2.295c1.41,0.503,3.043,0.202,4.173-0.927   c1.129-1.128,1.429-2.762,0.926-4.172C22.099,14.965,23.042,13.597,23.042,12z M11.332,17.697L7.348,15.04l1.387-2.08l2.016,1.344   l5.29-7.054l2,1.5L11.332,17.697z"></path>
+                        </g>
+                    </svg>
+                </div>
+                <p>Edilex EHS -palvelu yhdistää EHS-tiedon (Environment, Health & Safety) ja juridiikan. Se pitää sinut tehokkaasti ajan tasalla ympäristö- ja työsuojelulainsäädännön muutoksista. Edilex EHS on tuotettu yhteistyössä HPP Asianajotoimisto Oy:n kanssa, jonka asiantuntijoilla on pitkä kokemus EHS-lainsäädännöstä.</p>
+                <p>Edilex EHS -palvelun avulla yritys voi ajantasaisesti seurata lainsäädännön muutoksia ja siten täyttää ympäristöjärjestelmissä, kuten ISO 14 001, olevat vaatimukset säädösten seuraamisesta. HPP Asianajotoimiston asiantuntijoilla on pitkä kokemus säädösten seurannasta eri yrityksille osana ympäristöjohtamisjärjestelmien ylläpitoa.</p>
+                <p>Edilex EHS -palvelu on tehokas työväline laatupäälliköille, ympäristöpäälliköille, työsuojelupäälliköille, työturvallisuuspäälliköille, työsuojeluvaltuutetuille, ympäristöviranomaisille sekä ympäristö- tai työsuojeluasioista vastaaville. Samalla se on juristin työväline sisältäen Edilex Peruspalvelun.</p>
+                <a href="https://lakitieto.edilex.fi/verkkokauppa/edilex/edilex-verkkopalvelut/edilex-ehs" target="_blank" class="button cta">Tilaa Edilex EHS</a>
+                <a href="/tietoa_palvelusta/ehs" class="button">Lue lisää Edilex EHS-palvelusta</a>
+            </div>
+            <dl>
+                    <div>
+                        <dt>
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+                                <g id="Frame_-_24px">
+	                                <rect fill="none" width="24" height="24"/>
+                                </g>
+                                <g id="Filled_Icons">
+	                                <g>
+		                                <path fill="#444" d="M8.998,8c0-0.55,0.45-1,1-1h9V3c0-0.55-0.45-1-1-1h-15c-0.55,0-1,0.45-1,1v11c0,0.55,0.45,1,1,1h1v3l3-3h2    V8z"/>
+		                                <path fill="#444" d="M20.998,9h-9c-0.55,0-1,0.45-1,1v7c0,0.55,0.45,1,1,1h5l3,3v-3h1c0.55,0,1-0.45,1-1v-7    C21.998,9.45,21.548,9,20.998,9z"/>
+	                                </g>
+                                    </g>
+                            </svg>
+                            <h3>EHS-neuvonta</h3>
+                        </dt>
+                        <dd>Saat ympäristö- ja työsuojeluasioihin liittyvää henkilökohtaista neuvontaa sähköpostitse HPP Asianajotoimiston asiantuntijoilta, joilla on mittava kokemus EHS-asioiden käytännön soveltamisessa.</dd>
+                    </div>
+                    <div>
+                        <dt>
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+                                <g id="Frame_-_24px">
+	                                <rect y="0" fill="none" width="24" height="24"/>
+                                </g>
+                                <g id="Filled_Icons">
+	                                <path fill="#444" d="M5,18.828V21c0,0.552,0.448,1,1,1h12c0.552,0,1-0.448,1-1v-2.172c0-0.79-0.32-1.562-0.879-2.121L13.414,12   l4.707-4.707C18.688,6.726,19,5.973,19,5.17V3c0-0.552-0.448-1-1-1H6C5.448,2,5,2.448,5,3V5.17c0,0.802,0.312,1.555,0.879,2.121   L10.586,12l-4.707,4.707C5.32,17.265,5,18.038,5,18.828z M9,4.999h6l-3,3L9,4.999z"/>
+                                </g>
+                            </svg>
+                            <h3>Ajankohtaista EHS-lainsäädännössä</h3>
+                        </dt>
+                        <dd>Edilex EHS -palvelusta saat tiedon uusista lakihankkeista sekä muista ajankohtaisista asioista EHS-lainsäädännössä HPP Asianajotoimiston asiantuntijoiden koostamina.</dd>
+                    </div>
+                    <div>
+                        <dt>
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+                                <g id="Frame_-_24px">
+	                                <rect fill="none" width="24" height="24"/>
+                                </g>
+                                <g id="Filled_Icons">
+	                                <g>
+		                                <path fill="#444" d="M10,6.815V10c0,0.553,0.447,1,1,1s1-0.447,1-1V6.815c1.163-0.412,2.001-1.511,2-2.817    C14,2.342,12.657,1,11,1S8.001,2.342,8.001,3.999C8,5.305,8.838,6.403,10,6.815z"/>
+		                                <path fill="#444" d="M19,8h-5v4H8V8H4C3.448,8,3,8.448,3,9v13c0,0.552,0.448,1,1,1h13c0.265,0,0.52-0.105,0.707-0.294l2-2    C19.895,20.52,20,20.265,20,20V9C20,8.448,19.552,8,19,8z M6,14h10v2H6V14z M14,20H6v-2h8V20z M16,22v-3h3L16,22z"/>
+	                                </g>
+                                </g>
+                            </svg>
+                            <h3>EHS-säädösseuranta</h3>
+                        </dt>
+                        <dd>EHS-säädösseurannassa HPP Asianajotoimiston asiantuntijat kertovat lainsäädännön muutoksista ja niiden käytännön vaikutuksista. Uusista muutoksista saat tiedot suoraan sähköpostiisi.</dd>
+                    </div>
+                    <div>
+                        <dt>
+                            <svg style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px">
+                                <style type="text/css">
+	                                .st2 {fill:#444;}
+	                                .st3 {fill:none;stroke:#444;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+                                </style>
+                                <g id="Layer_1"/>
+                                    <g id="Layer_2">
+                                        <g>
+                                            <g>
+                                                <circle class="st2" cx="418.47" cy="256" r="50.03"/></g><g><circle class="st2" cx="256" cy="256" r="50.03"/></g><g><circle class="st2" cx="93.53" cy="256" r="50.03"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                            </svg>
+                            <h3>Muut EHS-aiheiset aineistot</h3>
+                        </dt>
+                        <dd>
+                            <ul>
+                                <li>HPP Asianajotoimiston asiantuntijoiden webinaarit</li>
+                                <li>Edilexin EHS-aiheiset uutiset ja oikeuskäytäntö</li>
+                                <li>Edilex Peruspalvelun muu EHS-aiheita käsittelevä sisältö, kuten artikkelit, kirjoitukset ja julkaisut sekä rakentamismääräykset</li>
+                            </ul>
+                        </dd>
+                    </div>
+                    <div>
+                        <dt>
+                        <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" viewBox="0 0 706.19 306.51"><defs><style>.cls-2{fill:#11094f}</style></defs><path d="M277.62 144.39h-.64c-1.6-23.94-14.61-36.92-33.16-36.92-23.27 0-40.63 20.31-40.63 50.6 0 28.44 17.36 50.6 40.63 50.6 18.3 0 31.21-11.55 33.09-37.46h.7v35.06h27.33V77h-27.33v67.39Zm-22.54 39.35c-13.3 0-24.01-10.34-24.01-25.67s10.71-25.67 24.01-25.67c12.56 0 23.53 10.34 23.53 25.67s-10.97 25.67-23.53 25.67Zm69.06 22.53h27.33v-94h-27.33v94Zm14.79-131.43c-8.14-.62-15.24 5.48-15.86 13.62v.2c-.63 8.14 5.46 15.24 13.61 15.86 8.14.62 15.24-5.48 15.86-13.62v-.2c.63-8.14-5.46-15.24-13.61-15.86Zm31.74 131.43H398V77h-27.33v129.27Zm-223-98.8c-30.84 0-50.79 22.34-50.79 50.6 0 32.13 23.08 50.6 49.68 50.6 20.68 0 36.88-9.19 43.39-22.09l-21.29-10.31c-2.99 3.67-11.38 8.76-20.25 8.76-10.33 0-19.6-4.98-23.6-15.3l69.63-1.82c.7-3.6 1.25-9.28 1.25-14.83 0-23.08-18.1-45.61-48.01-45.61Zm-23.27 40.85c2.44-10.42 12-17.77 23.08-17.77 12.69 0 20.37 8.31 21.68 16.37l-44.77 1.39Zm382.71 4.76c0-23.08-18.1-45.61-48.01-45.61s-50.79 22.34-50.79 50.6c0 32.13 23.08 50.6 49.68 50.6 20.68 0 36.88-9.19 43.39-22.09l-21.29-10.31c-2.99 3.67-11.38 8.76-20.25 8.76-10.33 0-19.6-4.98-23.6-15.3l69.63-1.82c.7-3.6 1.25-9.28 1.25-14.83Zm-71.29-4.76c2.44-10.42 12-17.77 23.08-17.77 12.69 0 20.37 8.31 21.68 16.37l-44.77 1.39Z" class="cls-2"/><path d="M583.06 158.07h-26.11l-21.24-48.2h-29.68l22.42 48.2h26.11l20.89 48.2h30.03l-22.42-48.2z" style="fill:#706b95"/><path d="m575.79 109.87-21.23 48.2h-26.11l-22.42 48.2h29.68l21.24-48.2h26.11l22.42-48.2h-29.69z" class="cls-2"/></svg>
+                            Kaikki Edilex Peruspalvelun aineistot ja toiminnallisuudet
+                        </dt>
+                        <dd>Käytössäsi on Suomen johtava lakitietopalvelu, jossa on laajin ajantasainen säädöstietokanta erinomaisin linkityksin oikeustapauksiin, esitöihin ja muihin oikeudellisiin aineistoihin sekä reaaliaikainen juridinen uutispalvelu ja seuranta kaikissa aineistoissa. Lue lisää <a href="https://www.edilex.fi/tietoa_palvelusta/palvelut/peruspalvelu">Edilex Peruspalvelusta</a>.
+                        </dd>
+                    </div>
+                </dl>
+        </div>
+    </div>
+    <div class="service-desc tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-edilex-taxation" id="tab-panel-edilex-taxation">
+        <p>Edilex Verotus yhdistää arvonlisäverotuksen ja elinkeinoverotuksen kommentaarit sekä koko laajan Edilex Peruspalvelun. Kattavat kommentaariteokset on linkitetty Edilexin ajantasaisiin säädöksiin ja muihin aineistoihin. Kirjoittajina ovat KPMG:n veroasiantuntijat. Palvelu sisältää Kilan yleisohjeet sekä lausunnot ja poikkeusluvat, KHO:n ja keskusverolautakunnan ratkaisut sekä Verohallinnon ohjeet. Uusimpien kommentaarien lisäksi palvelu sisältää kommentaarien aiemmat versiot.</p>
+        <a href="https://lakitieto.edilex.fi/verkkokauppa/edilex/edilex-verkkopalvelut/edilex-verotus" target="_blank" class="button cta">Tilaa Edilex Verotus</a>
+        <a href="/tietoa_palvelusta/verotus" class="more">
+            <svg class="icon icon-angle-double-right" aria-hidden="true">
+                <use xlink:href="#icon-angle-double-right"/>
+            </svg>
+            <span>Lisätietoja palvelusta</span>
+        </a>
+    </div>
+    <div class="service-desc tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-edilex-vat" id="tab-panel-edilex-vat">
+        <p>Edilex Arvonlisäverotus tarjoaa perusteellisen tiedon arvonlisäverolain säännöksistä ja niiden soveltamisesta. KPMG:n veroasiantuntijat käsittelevät pykäläjärjestyksessä koko arvonlisäverolain ja selvittävät, miten säädökset vaikuttavat eri liiketapahtumiin käytännössä. Uusimman version lisäksi palvelu sisältää kommentaarin aiemmat versiot. Saat käyttöösi myös arvonlisäverotukseen liittyvät uutiset.</p>
+        <a href="https://lakitieto.edilex.fi/verkkokauppa/edilex/edilex-verkkopalvelut/edilex-arvonlisaverotus" target="_blank" class="button cta">Tilaa Edilex Arvonlisäverotus</a>
+        <a href="/tietoa_palvelusta/arvonlisaverotus" class="more">
+            <svg class="icon icon-angle-double-right" aria-hidden="true">
+                <use xlink:href="#icon-angle-double-right"/>
+            </svg>
+            <span>Lisätietoja palvelusta</span>
+        </a>
+    </div>
+    <div class="service-desc tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-edilex-bt" id="tab-panel-edilex-bt">
+        <p>Edilex Elinkeinoverotus tarjoaa perusteellisen tiedon elinkeinoverolain säännöksistä ja niiden soveltamisesta. KPMG:n veroasiantuntijat käsittelevät elinkeinoverotuksen eri alueiden säädökset, verotuksen perusteet ja käytännön tulkinnan. Uusimman version lisäksi palvelu sisältää kommentaarin aiemmat versiot. Saat käyttöösi myös elinkeinoverotukseen liittyvät uutiset.</p>
+        <a href="https://lakitieto.edilex.fi/verkkokauppa/edilex/edilex-verkkopalvelut/edilex-elinkeinoverotus" target="_blank" class="button cta">Tilaa Edilex Elinkeinoverotus</a>
+        <a href="/tietoa_palvelusta/elinkeinoverotus" class="more">
+            <svg class="icon icon-angle-double-right" aria-hidden="true">
+                <use xlink:href="#icon-angle-double-right"/>
+            </svg>
+            <span>Lisätietoja palvelusta</span>
+        </a>
+    </div>
+    <div class="service-desc tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-legal-journals" id="tab-panel-legal-journals">
+        <p>Edilexin kautta saat käyttöösi ainoana Suomessa keskeiset juridiset lehdet linkitettyinä ajantasaiseen lainsäädäntöön. Edilexissä julkaistaan Defensor Legis, JFT, Lakimies, Liikejuridiikka, Oikeus, Verotus-lehti sekä Ympäristöjuridiikka. Lehtien vuosikerrat ovat käytössäsi myös artikkeli- ja kirjoittajakohtaisin hakutiedoin.</p>
+        <a href="https://lakitieto.edilex.fi/verkkokauppa/?_tuotetyyppi=lehdet" target="_blank" class="button cta">Tilaa juridiset lehdet</a>
+        <a href="/tietoa_palvelusta/lehdet" class="more">
+            <svg class="icon icon-angle-double-right" aria-hidden="true">
+                <use xlink:href="#icon-angle-double-right"/>
+            </svg>
+            <span>Lisätietoja lehdistä</span>
+        </a>
+    </div>
+</div>
+                    <div id="order-buttons">
+    <a href="https://lakitieto.edilex.fi/verkkokauppa/edilex/edilex-verkkopalvelut/edilex-peruspalvelu" target="_blank" class="button cta" role="button">
+        Tilaa Edilex    </a>
+    <a href="https://lakitieto.edilex.fi/verkkokauppa/edilex/edilex-verkkopalvelut/edilex-koekaytto" target="_blank" class="button" role="button">
+        Aloita koekäyttö    </a>
+</div>                            </header>
+            <header>
+                <div id="follower-toolbar">
+    <h2>Seuraa Edilexiä</h2>
+    <ul>
+        <li>
+            <a href="https://x.com/EdilexLakitieto" id="x" target="_blank" title="Seuraa meitä X:ssä">
+                <svg class="icon icon-x-square" aria-hidden="true">
+                    <use xlink:href="#icon-x-square"></use>
+                </svg>
+                Edilex Lakitieto X:ssä
+            </a>
+        </li>
+        <li>
+            <a href="https://www.facebook.com/Edilex-287382244731/" id="facebook" target="_blank" title="Seuraa meitä Facebookissa">
+                <svg class="icon icon-facebook-square" aria-hidden="true">
+                    <use xlink:href="#icon-facebook-square"></use>
+                </svg>
+                Edilex Lakitieto Facebookissa
+            </a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/company/edita-lakitieto" id="linkedin" target="_blank" title="Seuraa meitä LinkedInissä">
+                <svg class="icon icon-linkedin-square" aria-hidden="true">
+                    <use xlink:href="#icon-linkedin-square"></use>
+                </svg>
+                Edilex Lakitieto LinkedInissä
+            </a>
+        </li>
+        <li>
+            <a href="/tietoa_palvelusta/peruspalvelu/rss/syotteet" id="rss" title="Tilaa RSS-syötteemme">
+                <svg class="icon icon-rss-square" aria-hidden="true">
+                    <use xlink:href="#icon-rss-square"></use>
+                </svg>
+                Edilexin RSS-syötteet
+            </a>
+        </li>
+    </ul>
+</div>
+                                    <div id="sign-in">
+    <h2>Kirjaudu sisään</h2>
+    <a href="/auth/login" class="sign-in">
+    Kirjaudu sisään    <svg class="icon icon-sign-in" aria-hidden="true">
+        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-sign-in"></use>
+    </svg>
+</a></div>
+                            </header>
+            <nav id="main-navigation"><ul class="nav-menu"><li class="section-name nav-item home"><svg class="icon icon-angle-right" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-right"></use>
+            </svg><svg class="icon icon-angle-down" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-down"></use>
+            </svg><a href="/"><svg class="icon icon-home2" aria-hidden="true"><use xlink:href="#icon-home2"></use></svg><span>Etusivu</span></a><a class="mobile-section-heading" href="/"><svg class="icon icon-home2" aria-hidden="true"><use xlink:href="#icon-home2"></use></svg><span>Etusivu</span></a><span class="filler-for-subnav"></span></li><li class="section-name nav-item news"><svg class="icon icon-angle-right" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-right"></use>
+            </svg><svg class="icon icon-angle-down" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-down"></use>
+            </svg><a href="/uutiset">Uutiset</a><span class="mobile-section-heading">Uutiset</span><div class="sub-nav"><div class="section-desc"><p><b>Edilexin</b> uutiset on Suomen laajin ja monipuolisin juridinen uutispalvelu. Uutisia julkaistaan jokaisena arkipäivänä, yhteensä noin 4 000 uutista vuodessa. Kokeneet uutistoimittajamme ovat koulutukseltaan juristeja. Uutisissa julkaistaan säännöllisesti asiantuntijoiden kirjoittamia verotusta ja yhtiöoikeutta käsitteleviä oikeustapauskommentteja ja artikkeleita.</p><p><b>Vierashuone</b> sisältää asiantuntijoiden kirjoittamia kirjoituksia ajankohtaisista, juridista teemoista.</p></div><a href="/uutiset" class="section-frontpage-link">Uutisten etusivu</a><ul class="sub-nav-group "><li class=""><a href="/uutiset/aihealueet" >Uutiset aihealueittain</a><ul><li class=""><a href="/aihealueet/Julkisoikeus/uutiset" >Julkisoikeus</a></li><li class=""><a href="/aihealueet/Rikos-%20ja%20prosessioikeus/uutiset" >Rikos- ja prosessioikeus</a></li><li class=""><a href="/aihealueet/Siviilioikeus/uutiset" >Siviilioikeus</a></li><li class=""><a href="/aihealueet/Ty%F6-%20ja%20sosiaalioikeus/uutiset" >Työ- ja sosiaalioikeus</a></li><li class=""><a href="/aihealueet/Verotus/uutiset" >Verotus</a></li><li class=""><a href="/aihealueet/Ymp%E4rist%F6/uutiset" >Ympäristö</a></li><li class=""><a href="/aihealueet/Yritystoiminta/uutiset" >Yritystoiminta</a></li></ul></li></ul><ul class="sub-nav-group "><li class=""><a href="/uutiset/asiasanat" >Uutisten asiasanasto</a></li><li class=""><a href="/uutiset/vuosihakemisto" >Uutisten vuosihakemisto</a></li><li class=""><a href="/ehs-saadosseuranta" >EHS-säädösseuranta</a></li><li class=""><a href="/uutiset/tietoa" >Tietoa uutisista</a></li></ul><ul class="sub-nav-group highlighted"><li class=""><a href="/uutiset/vuosihakemisto/suurennuslasissa" >Toimituksen valintoja</a></li><li class=""><a href="/uutiset/vuosihakemisto/vierashuone" class="blog-link"><svg class="icon icon-blog" aria-hidden="true"><use xlink:href="#icon-blog"></use></svg><span>Vierashuone (Lyhyet asiantuntijakirjoitukset)</span></a></li></ul></div></li><li class="section-name nav-item regulations active"><svg class="icon icon-angle-right" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-right"></use>
+            </svg><svg class="icon icon-angle-down" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-down"></use>
+            </svg><a href="/saadokset">Säädökset</a><span class="mobile-section-heading">Säädökset</span><div class="sub-nav"><div class="section-desc"><p>Kotimainen lainsäädäntö Edilexissä sisältää yli 12000 säädöstä ajantasaistettuna ja säädösten viitetietoja suomalaisen säädöshistorian alusta alkaen. Keskeiset EU-säädökset ja valtiosopimukset on ajantasaistettu. Säädöskokoelma ja Sopimussarja löytyvät PDF-muodossa.</p></div><a href="/saadokset" class="section-frontpage-link">Säädösten etusivu</a><ul class="sub-nav-group active"><li class="active"><h4>Kotimainen lainsäädäntö</h4><ul><li class="active"><a href="/lainsaadanto" >Ajantasainen lainsäädäntö</a></li><li class=""><a href="/lainsaadanto/vuosihakemisto" >Säädösten vuosihakemisto</a></li><li class=""><a href="/saadoskokoelma" >Säädöskokoelma</a></li><li class=""><a href="#toolbar=tab-abbreviations" >Säädösten lyhenteet ja vakiintuneet nimet</a></li></ul></li><li class=""><h4>Inhemsk lagstiftning</h4><ul><li class=""><a href="/lagstiftning" >Uppdaterad lagstiftning</a></li><li class=""><a href="/lagstiftning/arkiv" >Årliga lista av lagstiftning</a></li><li class=""><a href="/forfattningssamling/arkiv/kaikki" >Författningssamling</a></li></ul></li></ul><ul class="sub-nav-group "><li class=""><h4>EU-lainsäädäntö</h4><ul><li class=""><a href="/eu-lainsaadanto" >Ajantasainen EU-lainsäädäntö</a></li><li class=""><a href="/eu-lainsaadanto/vuosihakemisto" >EU-säädösten vuosihakemisto</a></li></ul></li><li class=""><h4>EU-lagstiftning</h4><ul><li class=""><a href="/eu-lagstiftning" >Uppdaterad EU-lagstiftning</a></li><li class=""><a href="/eu-lagstiftning/arkiv" >Årliga lista av EU-lagstiftning</a></li></ul></li></ul><ul class="sub-nav-group "><li class=""><h4>Valtiosopimukset</h4><ul><li class=""><a href="/valtiosopimukset" >Ajantasaiset valtiosopimukset</a></li><li class=""><a href="/valtiosopimukset/vuosihakemisto" >Valtiosopimusten vuosihakemisto</a></li><li class=""><a href="/sopimussarja/vuosihakemisto/kaikki" >Sopimussarja</a></li></ul></li><li class=""><h4>Statsfördrag</h4><ul><li class=""><a href="/statsfordrag" >Uppdaterade statsfördrag</a></li><li class=""><a href="/statsfordrag/arkiv" >Årliga lista av statsfördrag</a></li><li class=""><a href="/fordragsserie/arkiv/kaikki" >Fördragsserie</a></li></ul></li></ul><ul class="sub-nav-group highlighted"><li class=""><a href="/lakikirja" class="lakikirja-link"><svg class="icon icon-updated-book" aria-hidden="true"><use xlink:href="#icon-updated-book"></use></svg><span>Lakikirjan ajantasapalvelu</span></a></li></ul></div></li><li class="section-name nav-item law-drafting"><svg class="icon icon-angle-right" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-right"></use>
+            </svg><svg class="icon icon-angle-down" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-down"></use>
+            </svg><a href="/esityot">Esityöt</a><span class="mobile-section-heading">Esityöt</span><div class="sub-nav"><div class="section-desc"><p>Esityöt-osiosta löytyvät hallituksen esitysten tekstit ja viitekortit, valiokuntamietinnöt sekä  Edilex-toimituksen valikoimia tärkeimpiä ministeriöiden lainvalmistelujulkaisuja. Eduskunnan perustuslakivaliokunnan lausunnot ja mietinnöt on linkitetty perustuslain pykäliin.</p></div><a href="/esityot" class="section-frontpage-link">Esitöiden etusivu</a><ul class="sub-nav-group "><li class=""><h4>Hallituksen esitykset</h4><ul><li class=""><a href="/he" >Hallituksen esitykset</a></li><li class=""><a href="/he/vanhat" >HE-tekstit 1979 asti</a></li><li class=""><a href="/he/vuosihakemisto" >HE-vuosihakemisto</a></li></ul></li><li class=""><h4>Valiokuntamietinnöt</h4><ul><li class=""><a href="/mt" >Valiokuntamietinnöt</a></li><li class=""><a href="/mt/vuosihakemisto" >Vuosihakemisto valiokunnittain</a></li></ul></li></ul><ul class="sub-nav-group "><li class=""><a href="/saraviita" >Perustuslakiin liittyvät perustuslakivaliokunnan lausunnot ja mietinnöt (Ilkka Saraviita -tietokanta)</a></li><li class=""><a href="/ministerioiden_julkaisut" >Ministeriöiden lainvalmistelujulkaisuja</a></li></ul></div></li><li class="section-name nav-item case-law"><svg class="icon icon-angle-right" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-right"></use>
+            </svg><svg class="icon icon-angle-down" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-down"></use>
+            </svg><a href="/oikeuskaytanto">Oikeuskäytäntö</a><span class="mobile-section-heading">Oikeuskäytäntö</span><div class="sub-nav"><div class="section-desc"><p>Oikeuskäytäntö-osiosta löytyvät kaikki yleisten tuomioistuinten, hallintotuomioistuinten ja erityistuomioistuinten sähköisenä julkaistut ratkaisut. Lisäksi osiosta löytyy muiden tuomiovaltaa käyttävien toimielinten ratkaisuja, lausuntoja ja poikkeuslupia sekä oikeuskäytäntöön liittyviä linkkejä.</p></div><a href="/oikeuskaytanto" class="section-frontpage-link">Oikeuskäytännön etusivu</a><ul class="sub-nav-group "><li class=""><h4>Yleiset tuomioistuimet</h4><ul><li class=""><a href="/kko" >Korkein oikeus</a></li><li class=""><a href="/ho" >Hovioikeudet</a></li></ul></li><li class=""><h4>Hallintotuomioistuimet</h4><ul><li class=""><a href="/kho" >Korkein hallinto-oikeus</a></li><li class=""><a href="/hao" >Hallinto-oikeudet</a></li></ul></li></ul><ul class="sub-nav-group "><li class=""><h4>Erityistuomioistuimet</h4><ul><li class=""><a href="/mao" >Markkinaoikeus</a></li><li class=""><a href="/tt" >Työtuomioistuin</a></li><li class=""><a href="/vako" >Vakuutusoikeus</a></li></ul></li><li class=""><h4>Tuomiovaltaa käyttävät toimielimet</h4><ul><li class=""><a href="/kvl" >Keskusverolautakunta</a></li><li class=""><a href="/kila" >Kirjanpitolautakunta</a></li><li class=""><a href="/tsv" >Tietosuojavaltuutettu</a></li><li class=""><a href="/tn" >Työneuvosto</a></li></ul></li></ul><ul class="sub-nav-group "><li class=""><h4>Unionin tuomioistuin</h4><ul><li class=""><a href="/euc" >Unionin tuomioistuimen tuomiot</a></li><li class=""><a href="/eut" >Unionin yleisen tuomioistuimen tuomiot</a></li></ul></li></ul></div></li><li class="section-name nav-item law-library"><svg class="icon icon-angle-right" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-right"></use>
+            </svg><svg class="icon icon-angle-down" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-down"></use>
+            </svg><a href="/lakikirjasto">Lakikirjasto</a><span class="mobile-section-heading">Lakikirjasto</span><div class="sub-nav"><div class="section-desc"><p>Lakikirjasto koostuu monipuolisesta kokoelmasta artikkeleita, PDF-kirjoja, vuosikirjoja, opiskelijajulkaisuja ja juridisia lehtiä. Dokumentteja on yli 12 000.</p><p>Edilex-sarjassa julkaistaan vertaisarvioituja asiantuntija-artikkeleita. Edilexin kautta saat käyttöösi ainoana Suomessa keskeiset juridiset lehdet linkitettyinä ajantasaiseen lainsäädäntöön.</p><p>Lakikirjastossa on myös kattava valikoima asiakirjamalleja selityksineen eri oikeudenaloilta. Mallit ovat saatavissa Word- ja PDF-muodossa.</p></div><ul class="sub-nav-group "><li class=""><a href="/lakikirjasto" >Lakikirjaston etusivu</a></li><li class=""><a href="/lakikirjasto/asiasanat" >Lakikirjaston asiasanasto</a></li><li class=""><a href="/artikkelit" >Artikkelit</a></li><li class=""><a href="/edilex-sarja" >Edilex-sarja</a></li><li class=""><a href="/kirjat" >PDF-kirjat</a></li><li class=""><a href="/asiakirjamallit" >Asiakirjamallit</a></li><li class=""><a href="/muut_julkaisut" >Muut julkaisut</a></li><li class=""><h4>Kommentaariteokset</h4><ul><li class=""><a href="/arvonlisaverotus" >Arvonlisäverotus</a></li><li class=""><a href="/elinkeinoverotus" >Elinkeinoverotus</a></li></ul></li></ul><ul class="sub-nav-group "><li class=""><h4>Vuosikirjat</h4><ul><li class=""><a href="/kilpailuoikeudellinen-vuosikirja" >Kilpailuoikeudellinen vuosikirja</a></li><li class=""><a href="/oikeustiede" >Oikeustiede - Jurisprudentia</a></li><li class=""><a href="/urheilu_ja_oikeus" >Urheilu ja oikeus</a></li><li class=""><a href="/viestintaoikeuden-vuosikirja" >Viestintäoikeuden vuosikirja</a></li><li class=""><a href="/ymparistopolitiikka_ja_oikeus" >Ympäristöpolitiikan ja -oikeuden vuosikirja</a></li></ul></li><li class=""><h4>Opiskelijajulkaisut</h4><ul><li class=""><a href="/opinnaytetyot" >Opinnäytetyöt</a></li><li class=""><a href="/hlr" >Helsinki Law Review</a></li><li class=""><a href="/acta_legis_turkuensia" >Acta Legis Turkuensia</a></li></ul></li></ul><ul class="sub-nav-group "><li class=""><h4>Juridiset lehdet</h4><ul><li class=""><a href="/defensor_legis" >Defensor Legis</a></li><li class=""><a href="/jft" >JFT</a></li><li class=""><a href="/lakimies" >Lakimies</a></li><li class=""><a href="/liikejuridiikka" >Liikejuridiikka</a></li><li class=""><a href="/oikeus" >Oikeus</a></li><li class=""><a href="/oikeustieto" >Oikeustieto</a></li><li class=""><a href="/verotuslehti" >Verotus-lehti</a></li><li class=""><a href="/ymparistojuridiikka" >Ympäristöjuridiikka</a></li></ul></li></ul><ul class="sub-nav-group highlighted"><li class=""><a href="/digikirjasto" class="webshop-link"><svg class="icon icon-ebook" aria-hidden="true"><use xlink:href="#icon-ebook"></use></svg><span>Digikirjat Digikirjastosta</span></a></li><li class=""><a href="/kirjoita" class="contribute-link"><svg class="icon icon-pencil" aria-hidden="true"><use xlink:href="#icon-pencil"></use></svg><span>Kirjoita Edilexiin</span></a></li></ul></div></li><li class="section-name nav-item digital-library"><svg class="icon icon-angle-right" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-right"></use>
+            </svg><svg class="icon icon-angle-down" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-down"></use>
+            </svg><a href="/digikirjasto">Digikirjasto</a><span class="mobile-section-heading">Digikirjasto</span><div class="sub-nav"><div class="section-desc"><p>Digikirjastoissa käytössäsi on laaja valikoima Edilex Lakitiedon ja kauppakamarin juridisia ammattikirjoja. Digikirjastot täydentyvät automaattisesti uusilla teoksilla ja uudistetuilla painoksilla. Käytät kirjoja sujuvasti Edilexin kautta ja Edilexin haut ulottuvat myös kirjojen sisältöön. Digikirjoissa on myös tehokkaat sisäiset hakuominaisuudet sekä alleviivaus- ja muistilapputoiminnot.</p> <p><a href="#toolbar=tab-user-manual/tab-usermanual-searchfunction">Ohjeet</a></p></div><ul class="sub-nav-group "><li class=""><a href="/digikirjasto?digital-library=digital-library-edilex" ><img class="icon" src="https://timegate.edilex.fi/api/product/PUB20190001S/image" alt="" aria-hidden="true"><span>Edilex Digikirjasto</span></a></li><li class=""><a href="/digikirjasto?digital-library=digital-library-kauppakamari" ><img class="icon" src="https://timegate.edilex.fi/api/product/KKAMARI01/image" alt="" aria-hidden="true"><span>Kauppakamari Digikirjasto</span></a></li></ul><ul class="sub-nav-group "><li class=""><a href="/digikirjasto?digital-library=digital-library-labour" ><img class="icon" src="https://timegate.edilex.fi/api/product/KKAMARI02/image" alt="" aria-hidden="true"><span>Työoikeus Digikirjasto</span></a></li><li class=""><a href="/digikirjasto?digital-library=digital-library-criminal" ><img class="icon" src="https://timegate.edilex.fi/api/product/PUB20190003S/image" alt="" aria-hidden="true"><span>Rikos-, prosessi- ja hallinto-oikeus Digikirjasto</span></a></li><li class=""><a href="/digikirjasto?digital-library=digital-library-business" ><img class="icon" src="https://timegate.edilex.fi/api/product/KKAMARI03/image" alt="" aria-hidden="true"><span>Yritysjuridiikka Digikirjasto</span></a></li><li class=""><a href="/digikirjasto?digital-library=digital-library-ehs" ><img class="icon" src="https://timegate.edilex.fi/api/product/PUB20190005S/image" alt="" aria-hidden="true"><span>Ympäristöoikeus, EHS ja rakentaminen Digikirjasto</span></a></li></ul></div></li><li class="section-name nav-item official-information"><svg class="icon icon-angle-right" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-right"></use>
+            </svg><svg class="icon icon-angle-down" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-down"></use>
+            </svg><a href="/virallistieto">Virallistieto</a><span class="mobile-section-heading">Virallistieto</span><div class="sub-nav"><div class="section-desc"><p>Virallistieto-osiosta löytyvät kirjanpitolautakunnan yleisohjeet, rakentamismääräykset- ja ohjeet sekä Verohallinnon ohjeet.</p></div><a href="/virallistieto" class="section-frontpage-link">Virallistiedon etusivu</a><ul class="sub-nav-group "><li class=""><a href="/kilaohje" >Kirjanpitolautakunnan yleisohjeet</a></li><li class=""><a href="/rakentamismaaraykset" >Rakentamismääräykset</a></li><li class=""><a href="/verohallinnon_ohjeet" >Verohallinnon ohjeet</a></li></ul></div></li><li class="section-name nav-item materials-in-se"><svg class="icon icon-angle-right" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-right"></use>
+            </svg><svg class="icon icon-angle-down" aria-hidden="true">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-angle-down"></use>
+            </svg><a href="">Material på svenska</a><span class="mobile-section-heading">Material på svenska</span><div class="sub-nav"><div class="section-desc"><p>Materialet i Edilex är huvudsakligen på finska, men på denna sidomeny hittar du länkar till svenskspråkigt material</p></div><ul class="sub-nav-group "><li class=""><h4>Inhemsk lagstiftning</h4><ul><li class=""><a href="/lagstiftning" >Uppdaterad lagstiftning</a></li><li class=""><a href="/lagstiftning/arkiv" >Årliga lista av lagstiftning</a></li><li class=""><a href="/forfattningssamling/arkiv/kaikki" >Författningssamling</a></li></ul></li><li class=""><h4>EU-lagstiftning</h4><ul><li class=""><a href="/eu-lagstiftning" >Uppdaterad EU-lagstiftning</a></li><li class=""><a href="/eu-lagstiftning/arkiv" >Årliga lista av EU-lagstiftning</a></li></ul></li><li class=""><h4>Statsfördrag</h4><ul><li class=""><a href="/statsfordrag" >Uppdaterade statsfördrag</a></li><li class=""><a href="/statsfordrag/arkiv" >Årliga lista av statsfördrag</a></li><li class=""><a href="/fordragsserie/arkiv/kaikki" >Fördragsserie</a></li></ul></li></ul><ul class="sub-nav-group "><li class=""><h4>Rättspraxis</h4><ul><li class=""><a href="/kko/hd" >Högsta domstolens prejudikat</a></li><li class=""><a href="/kho/arsboksbeslut" >Högsta förvaltningsdomstolens årsboksbeslut</a></li><li class=""><a href="/kho/korta_referat" >Högsta förvaltningsdomstolens korta referat</a></li><li class=""><a href="/kho/andra_beslut" >Högsta förvaltningsdomstolens andra beslut</a></li></ul></li><li class=""><h4>Lagbibliotek</h4><ul><li class=""><a href="/jft" >JFT</a></li></ul></li><li class=""><h4>Regeringens propositioner</h4><ul><li class=""><a href="/he/vuosihakemisto" >Regeringens propositioner (pdf)</a></li></ul></li></ul><ul class="sub-nav-group "><li class=""><a href="/tietoa_palvelusta/svenska" >Edilex i korthet</a></li></ul></div></li></ul><a href="#" class="main-navigation-open" id="main-navigation-toggle">
+                <svg class="icon icon-menu" aria-hidden="true">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-menu"></use>
+                </svg>
+                <svg class="icon icon-close" aria-hidden="true">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-close"></use>
+                </svg>
+                <span>Menu</span>
+            </a></nav>                        <main>
+                <section>
+    <nav aria-label="Breadcrumb" id="breadcrumbs"><ol><li><a href="/" >Etusivu</a><ul><li><a href="/ehs-neuvonta">EHS-neuvonta</a></li><li><a href="/tarkennettu_haku">Tarkennettu haku</a></li><li><a href="/uutiset">Uutiset</a></li><li><a href="/saadokset">Säädökset</a></li><li><a href="/esityot">Esityöt</a></li><li><a href="/oikeuskaytanto">Oikeuskäytäntö</a></li><li><a href="/lakikirjasto">Lakikirjasto</a></li><li><a href="/digikirjasto">Digikirjasto</a></li><li><a href="/virallistieto">Virallistieto</a></li><li><a href="/tiedotteet?category=7">Edilexin käyttövinkki</a></li><li><a href="/tiedotteet">Tiedotteet</a></li></ul></li><li><a href="/saadokset" >Säädökset</a><ul><li><a href="/lainsaadanto">Ajantasainen lainsäädäntö</a></li><li><a href="/saadoskokoelma">Säädöskokoelma</a></li><li><a href="/eu-lainsaadanto">EU-lainsäädäntö</a></li><li><a href="/valtiosopimukset">Valtiosopimukset</a></li><li><a href="/sopimussarja/vuosihakemisto/kaikki">Sopimussarja</a></li><li><a href="/lagstiftning">Lagstiftning</a></li><li><a href="/forfattningssamling/arkiv/kaikki">Författningssamling</a></li><li><a href="/eu-lagstiftning">EU-lagstiftning</a></li><li><a href="/statsfordrag">Statsfördrag</a></li><li><a href="/fordragsserie/arkiv/kaikki">Fördragsserie</a></li><li><a href="/lakikirja">Lakikirja</a></li></ul></li><li><a href="/lainsaadanto" >Lainsäädäntö</a><ul><li><a href="/lainsaadanto/uusimmat">Uusimmat säädökset</a></li><li><a href="/lainsaadanto/luettelo">Säädösluettelo</a></li><li><a href="/lainsaadanto/vuosihakemisto">Säädösten vuosihakemisto</a></li><li><a href="/lainsaadanto/asiasanat">Asiasanat</a></li><li><a href="/tarkennettu_haku/lainsaadanto">Tarkennettu haku</a></li></ul></li><li><a href="/lainsaadanto/20251377"  aria-current="page">Laki eräiden tekoälyjärjestelmien valvonnasta 22.12.2025/1377</a></li></ol></nav></section>
+<section>
+    <div id="sidebar">
+            <div id="document-nav">
+            <div class="nav">
+                                    <h2>Sisällysluettelo</h2>
+                                                <div id="toc">
+                    <ul><li class="closed"><a href="/lainsaadanto/20251377#L1" id="tocL1" data-anchors="L1"><em>1 – 2 §</em><strong>1 luku</strong><span>Yleiset säännökset</span></a><ul><li class="closed"><a href="/lainsaadanto/20251377#L1P1" id="tocL1P1" data-anchors="L1P1,P1"><strong>1 § </strong><span>Soveltamisala</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L1P2" id="tocL1P2" data-anchors="L1P2,P2"><strong>2 §</strong><span>Suhde muuhun lainsäädäntöön</span></a></li></ul></li><li class="closed"><a href="/lainsaadanto/20251377#L2" id="tocL2" data-anchors="L2"><em>3 – 7 §</em><strong>2 luku</strong><span>Toimivaltaiset markkinavalvontaviranomaiset </span></a><ul><li class="closed"><a href="/lainsaadanto/20251377#L2P3" id="tocL2P3" data-anchors="L2P3,P3"><strong>3 §</strong><span>Suuririskisten tekoälyjärjestelmien markkinavalvontaviranomaiset </span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L2P4" id="tocL2P4" data-anchors="L2P4,P4"><strong>4 § </strong><span>Kiellettyjen tekoälyyn liittyvien käytäntöjen valvonta</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L2P5" id="tocL2P5" data-anchors="L2P5,P5"><strong>5 § </strong><span>Avoimuusvelvoitteiden valvonta</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L2P6" id="tocL2P6" data-anchors="L2P6,P6"><strong>6 § </strong><span>Keskitetty yhteyspiste</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L2P7" id="tocL2P7" data-anchors="L2P7,P7"><strong>7 § </strong><span>Euroopan keskuspankille ilmoittava viranomainen</span></a></li></ul></li><li class="closed"><a href="/lainsaadanto/20251377#L3" id="tocL3" data-anchors="L3"><em>8 – 11 §</em><strong>3 luku</strong><span>Ilmoittamisesta vastaavat viranomaiset ja ilmoitetut laitokset</span></a><ul><li class="closed"><a href="/lainsaadanto/20251377#L3P8" id="tocL3P8" data-anchors="L3P8,P8"><strong>8 § </strong><span>Ilmoittamisesta vastaavat viranomaiset</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L3P9" id="tocL3P9" data-anchors="L3P9,P9"><strong>9 §</strong><span>Ilmoitetun laitoksen nimeäminen</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L3P10" id="tocL3P10" data-anchors="L3P10,P10"><strong>10 § </strong><span>Ilmoitettujen laitosten ja alihankkijoiden tai muiden tahojen julkiset hallintotehtävät</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L3P11" id="tocL3P11" data-anchors="L3P11,P11"><strong>11 §</strong><span>Ilmoitettu laitos eräiden suuririskisten tekoälyjärjestelmien osalta</span></a></li></ul></li><li class="closed"><a href="/lainsaadanto/20251377#L4" id="tocL4" data-anchors="L4"><em>12 – 25 §</em><strong>4 luku</strong><span>Valvonta ja seuraamukset</span></a><ul><li class="closed"><a href="/lainsaadanto/20251377#L4P12" id="tocL4P12" data-anchors="L4P12,P12"><strong>12 § </strong><span>Valvonnan toimivaltuudet</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L4P13" id="tocL4P13" data-anchors="L4P13,P13"><strong>13 § </strong><span>Tekoälyjärjestelmien valvonnan seuraamusmaksulautakunta</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L4P14" id="tocL4P14" data-anchors="L4P14,P14"><strong>14 § </strong><span>Tarjoajan seuraamusmaksu</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L4P15" id="tocL4P15" data-anchors="L4P15,P15"><strong>15 § </strong><span>Valtuutetun edustajan seuraamusmaksu</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L4P16" id="tocL4P16" data-anchors="L4P16,P16"><strong>16 § </strong><span>Maahantuojan seuraamusmaksu</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L4P17" id="tocL4P17" data-anchors="L4P17,P17"><strong>17 § </strong><span>Jakelijan seuraamusmaksu</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L4P18" id="tocL4P18" data-anchors="L4P18,P18"><strong>18 §</strong><span>Käyttöönottajan seuraamusmaksu</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L4P19" id="tocL4P19" data-anchors="L4P19,P19"><strong>19 §</strong><span>Ilmoitetun laitoksen seuraamusmaksu</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L4P20" id="tocL4P20" data-anchors="L4P20,P20"><strong>20 §</strong><span>Virheellisten, puutteellisten tai harhaanjohtavien tietojen antaminen</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L4P21" id="tocL4P21" data-anchors="L4P21,P21"><strong>21 § </strong><span>Seuraamusmaksu kielletyn tekoälyyn liittyvän käytännön rikkomisesta tai laiminlyönnistä</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L4P22" id="tocL4P22" data-anchors="L4P22,P22"><strong>22 §</strong><span>Seuraamusmaksu avoimuusvelvoitteen rikkomisesta tai laiminlyönnistä</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L4P23" id="tocL4P23" data-anchors="L4P23,P23"><strong>23 §</strong><span>Seuraamusmaksun määrääminen ja enimmäismäärä</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L4P24" id="tocL4P24" data-anchors="L4P24,P24"><strong>24 §</strong><span>Seuraamusmaksun määräämättä jättäminen</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L4P25" id="tocL4P25" data-anchors="L4P25,P25"><strong>25 § </strong><span>Seuraamusmaksun täytäntöönpano</span></a></li></ul></li><li class="closed"><a href="/lainsaadanto/20251377#L5" id="tocL5" data-anchors="L5"><em>26 – 29 §</em><strong>5 luku</strong><span>Erinäiset säännökset</span></a><ul><li class="closed"><a href="/lainsaadanto/20251377#L5P26" id="tocL5P26" data-anchors="L5P26,P26"><strong>26 §</strong><span>Tarjoajan tai valtuutetun edustajan velvoite huolehtia asiakirjojen säilyttämisestä</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L5P27" id="tocL5P27" data-anchors="L5P27,P27"><strong>27 §</strong><span>Uhkasakko ja teettämisuhka</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L5P28" id="tocL5P28" data-anchors="L5P28,P28"><strong>28 § </strong><span>Muutoksenhaku</span></a></li><li class="closed"><a href="/lainsaadanto/20251377#L5P29" id="tocL5P29" data-anchors="L5P29,P29"><strong>29 § </strong><span>Voimaantulo</span></a></li></ul></li></ul>                </div>
+            </div>
+        </div>
+        <script type="text/javascript">
+        Edilex.initializeToc();
+    </script>
+</div></section>
+<section>
+    <div id="content" class="material-legislation-in-finnish">
+                                <div class="document-toolbar">
+        <ul class="document-toolbar-list">
+                        <li>
+            <a href="javascript:print();" class="print-document" title="Tulosta">
+                <span class="icon icon-print"></span>
+            </a>
+        </li>
+            </ul>
+            <ul class="document-toolbar-list document-toolbar-list-social">
+                            <li>
+                <a href="/lainsaadanto/laheta_linkki/20251377"
+                    class="share" title="Lähetä linkki">
+                    <span class="icon icon-envelope"></span>
+                </a>
+            </li>
+            </ul>
+    </div><!-- .document-toolbar -->
+
+<div class="document-toolbar-bottom">
+     <ul class="document-toolbar-list">
+         <li>
+             <a href="#top" id="to-top" class="to-top" title="Sivun alkuun" style="display: none">
+                 <span class="icon icon-arrow-circle-up"></span>
+             </a>
+         </li>
+     </ul>
+</div><!-- .document-toolbar-bottom -->
+        <div id="aside">
+<div class="nav">
+<h5>Versiot ja toiminnot</h5>
+<ul class="alt">
+<li class="pdf">
+<a href="/lainsaadanto/20251377.pdf" title="PDF-tiedosto" target="_blank"><span>PDF-tiedosto</span></a>
+</li>
+<li class="reference-card">
+<a href="/smur/20251377" title="Viitekortti"><span>Viitekortti</span></a>
+</li>
+<li class="kieli-sv">
+<a href="/lagstiftning/20251377" title="På svenska"><span>På svenska</span></a>
+</li>
+<li class="viittauksia">
+<a href="/lainsaadanto/viittauksia/20251377" title="Viittauksia muualta lainsäädännöstä"><span>Viittauksia muualta lainsäädännöstä</span></a>
+</li>
+</ul>
+</div>
+<div class="goto">
+                <h4>Siirry</h4>
+                <form target="_top" method="get" action="javascript:Edilex.submitGoto()">
+                    <label for="gotoChapter">Luku </label>
+                    <input type="text" value="" name="chapter" id="gotoChapter" />
+                    <label for="gotoArticle">Pykälä </label>
+                    <input type="text" value="" name="article" id="gotoArticle" />
+                    <input type="submit" class="submit" value="Siirry" name="submit" />
+                </form>
+                <p class="goto-empty error hide">Puutteelliset hakuehdot</p>
+                </div></div>
+
+        <div class="updateInfo">Ajantasainen säädös - seurattu säädökseen 254/2026 saakka.</div><div id="section"><h1 id="sd20251377" class="nimike">Laki eräiden tekoälyjärjestelmien valvonnasta 22.12.2025/1377</h1><div id="document"><div class="content">
+      
+      
+      
+        <p>Eduskunnan päätöksen mukaisesti säädetään: </p>
+      
+      <div class="anchor-wrapper"><span class="anchor" id="L1"> </span></div>
+        <h2>1 luku</h2>
+        <h2 class="ot">Yleiset säännökset</h2>
+        <div class="py"><div class="anchor-wrapper"><span class="anchor" id="L1P1"> </span><span class="anchor" id="P1"> </span></div>
+          
+            <h3><a name="P1" title="" href="#L5P29">1 § </a></h3>
+          
+          <h3 class="ot">Soveltamisala</h3>
+          <div class="mo"><div class="anchor-wrapper"><span class="anchor" id="L1P1M1"> </span><span class="anchor" id="P1M1"> </span></div>
+            <p class="py">Tässä laissa annetaan tekoälyä koskevista yhdenmukaistetuista säännöistä ja asetusten (EY) <a title="EU-s&#xE4;&#xE4;d&#xF6;s" href="/eu-lainsaadanto/32008R0300">N:o 300/2008</a>, (EU) <a title="EU-s&#xE4;&#xE4;d&#xF6;s" href="/eu-lainsaadanto/32013R0167">N:o 167/2013</a>, (EU) <a title="EU-s&#xE4;&#xE4;d&#xF6;s" href="/eu-lainsaadanto/32013R0168">N:o 168/2013</a>, (EU) <a title="Euroopan unionin virallinen lehti" class="externalDoc" target="_blank" href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32018L0858:FI:NOT">2018/858</a>, (EU) <a title="Euroopan unionin virallinen lehti" class="externalDoc" target="_blank" href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32018L1139:FI:NOT">2018/1139</a> ja (EU) <a title="Euroopan unionin virallinen lehti" class="externalDoc" target="_blank" href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32019L2144:FI:NOT">2019/2144</a> sekä direktiivien <a title="Euroopan unionin virallinen lehti" class="externalDoc" target="_blank" href="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32014L0090:FI:NOT">2014/90/EU</a>, (EU) <a title="EU-s&#xE4;&#xE4;d&#xF6;s" href="/eu-lainsaadanto/32016L0797">2016/797</a> ja (EU) <a title="EU-s&#xE4;&#xE4;d&#xF6;s" href="/eu-lainsaadanto/32020L1828">2020/1828</a> muuttamisesta (tekoälysäädös) annettua Euroopan parlamentin ja neuvoston asetusta (EU) <a title="EU-s&#xE4;&#xE4;d&#xF6;s" href="/eu-lainsaadanto/32024R1689">2024/1689</a>, jäljempänä <em>tekoälyasetus</em>, täydentävät säännökset.</p>
+          </div>
+          <div class="mo"><div class="anchor-wrapper"><span class="anchor" id="L1P1M2"> </span><span class="anchor" id="P1M2"> </span></div>
+            <p class="py">Tätä lakia sovelletaan tekoälyasetuksen 2 artiklan soveltamisalan mukaisesti.</p>
+          </div>
+          <div class="mo"><div class="anchor-wrapper"><span class="anchor" id="L1P1M3"> </span><span class="anchor" id="P1M3"> </span></div>
+            <p class="py">Tätä lakia ei sovelleta eduskunnan valtiopäivätoimintaan eikä eduskunnan kansliaan tai muuhun eduskunnan virastoon. Lakia ei myöskään sovelleta eduskunnan oikeusasiamieheen eikä valtioneuvoston oikeuskansleriin.</p>
+          </div>
+        </div>
+        <div class="py"><div class="anchor-wrapper"><span class="anchor" id="L1P2"> </span><span class="anchor" id="P2"> </span></div>
+          
+            <h3><a name="P2" title="" href="#L5P29">2 §</a></h3>
+          
+          <h3 class="ot">Suhde muuhun lainsäädäntöön</h3>
+          <div class="mo"><div class="anchor-wrapper"><span class="anchor" id="L1P2M1"> </span><span class="anchor" id="P2M1"> </span></div>
+            <p class="py">Markkinavalvonnan, talouden toimijoiden kanssa tehtävän yhteistyön sekä unionin markkinoille tulevien tuotteiden valvonnan puitteista säädetään markkinavalvonnasta ja tuotteiden vaatimustenmukaisuudesta sekä direktiivin <a title="EU-s&#xE4;&#xE4;d&#xF6;s" href="/eu-lainsaadanto/32004L0042">2004/42/EY</a> ja asetusten (EY) <a title="EU-s&#xE4;&#xE4;d&#xF6;s" href="/eu-lainsaadanto/32008R0765">N:o 765/2008</a> ja (EU) <a title="EU-s&#xE4;&#xE4;d&#xF6;s" href="/eu-lainsaadanto/32011R0305">N:o 305/2011</a> muuttamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) <a title="EU-s&#xE4;&#xE4;d&#xF6;s" href="/eu-lainsaadanto/32019R1020">2019/1020</a>, jäljempänä <em>markkinavalvonta-asetus</em>.</p>
+          </div>
+          <div class="mo"><div class="anchor-wrapper"><span class="anchor" id="L1P2M2"> </span><span class="anchor" id="P2M2"> </span></div>
+            <p class="py">Markkinavalvontaviranomaisten toimivallasta, markkinavalvonta-asetuksen 25–28 artiklan mukaisesta ulkorajavalvonnasta sekä muutoksenhausta markkinavalvontaviranomaisten päätöksiin säädetään eräiden tuotteiden markkinavalvonnasta annetussa laissa <a title="Ajantasainen s&#xE4;&#xE4;d&#xF6;s" class="class" href="/lainsaadanto/20161137">(1137/2016)</a>, jäljempänä <em>markkinavalvontalaki</em>.</p>
+          </div>
+          <div class="mo"><div class="anchor-wrapper"><span class="anchor" id="L1P2M3"> </span><span class="anchor" id="P2M3"> </span></div>
+            <p class="py">Tuotteista, jotka ovat tekoälyaset...</p></div></div></div></div></div>    </div>
+</section>                <section id="auth-required">
+            <h1>Dokumentin lukeminen vaatii sisäänkirjautumisen</h1>
+        <div class="login-card">
+            <a href="/auth/login" class="button cta" role="button" aria-pressed="false">
+                Kirjaudu sisään            </a>
+        </div>
+        <div id="new-user">
+    <div>
+        <h1>
+            Tilaaminen        </h1>
+        <p class="description">
+            Edilex on Suomen johtava ammattilaisten lakitietopalvelu. Edilex sisältää Suomen laajimman ajantasaisen säädöstietokannan erinomaisin linkityksin oikeustapauksiin, esitöihin ja muihin oikeudellisiin aineistoihin sekä juridisen uutispalvelun. Lakikanava-seurantapalvelussa voit valita aihealueet ja aineistot, joita haluat seurata päivittäin.        </p>
+    </div>
+    <div id="new-user-featured">
+        <div id="order-edilex">
+            <div class="box">
+                <a href="https://lakitieto.edilex.fi/verkkokauppa/?_tuoteosasto=edilex">
+                    <strong>Tilaa Edilex</strong>
+                    <span>Rekisteröidy ja tilaa</span>
+                </a>
+            </div>
+            <p></p>
+        </div>
+
+        <div id="order-trial">
+            <div class="box">
+                <a href="https://lakitieto.edilex.fi/verkkokauppa/edilex/edilex-verkkopalvelut/edilex-koekaytto/">
+                    <strong>Koekäyttötunnukset</strong>
+                    <span>Tutustu ilmaiseksi</span>
+                </a>
+            </div>
+            <p>Kokeile Edilexiä maksutta kahden viikon ajan. Tarjoamme ilmaisen koekäyttömahdollisuuden yrityksille, viranomaisille ja muille organisaatioille.</p>
+        </div>
+
+        <div id="trial">
+            <div class="box">
+                <a href="/tietoa_palvelusta">
+                    <strong>Tietoa palvelusta</strong>
+                    <span>Tutustu palveluihin</span>
+                </a>
+            </div>
+            <p>Tutustu tarkemmin Edilexin palveluiden sisältöihin ja hintoihin.</p>
+        </div>
+    </div>
+  </div></section>
+            </main>
+            <div id="toolbar-backdrop"></div>
+<aside id="toolbar" class="tab-list-container" data-backdrop="toolbar-backdrop">
+    <h2>Käyttäjän työkalut</h2>
+    <ul class="tab-list" role="tablist">
+        <li role="presentation">
+            <h3>
+                <a id="tab-user-manual" class="" role="tab" aria-selected="false" tabindex="0" data-panel="tab-panel-user-manual">
+                    Ohjeet                </a>
+                <a class="close" aria-hidden="true">
+                    <svg class="icon icon-close">
+                        <use xlink:href="#icon-close"></use>
+                    </svg>
+                </a>
+            </h3>
+        </li>
+        <li role="presentation">
+            <h3>
+                <a id="tab-law-channel" class="" role="tab" aria-selected="false" tabindex="-1" data-panel="tab-panel-law-channel">
+                    Lakikanava                </a>
+                <a class="close" aria-hidden="true">
+                    <svg class="icon icon-close">
+                        <use xlink:href="#icon-close"></use>
+                    </svg>
+                </a>
+            </h3>
+        </li>
+        <li role="presentation">
+            <h3>
+                <a id="tab-bookmarks" class="" role="tab" aria-selected="false" tabindex="-1" data-panel="tab-panel-bookmarks">
+                    Muistilista                </a>
+                <a class="close" aria-hidden="true">
+                    <svg class="icon icon-close">
+                        <use xlink:href="#icon-close"></use>
+                    </svg>
+                </a>
+            </h3>
+        </li>
+        <li role="presentation">
+            <h3>
+                <a id="tab-abbreviations" class="" role="tab" aria-selected="false" tabindex="-1" data-panel="tab-panel-abbreviations">
+                    Säädösten lyhenteet ja vakiintuneet nimet                </a>
+                <a class="close" aria-hidden="true">
+                    <svg class="icon icon-close">
+                        <use xlink:href="#icon-close"></use>
+                    </svg>
+                </a>
+            </h3>
+        </li>
+    </ul>
+    <div class="tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-user-manual" id="tab-panel-user-manual">
+        <div class="tab-panel-content tab-list-container" data-keep-open="true" data-preselect="tab-usermanual-use">
+            <div id="user-manual-desc">
+    <h1>Ohjeet</h1><p>Näiltä sivuilta löydät ohjeita&nbsp;Edilexin monipuoliseen käyttöön, tietoa eri aineistojen suhteista toisiinsa ja vinkkejä tiedonhakuun&nbsp;sekä kysymyksiä ja vastauksia Edilexin tilaamiseen, käyttämiseen ja sisältöön liittyen.</p>
+
+<p>Käyttövinkkejä Edilexin tehokkaan ja monipuolisen käytön tueksi löydät <a href="https://www.edilex.fi/tiedotteet?category=7">täältä</a>.</p>
+
+<p>Ohjeita kirjoittamisesta Edilexin Lakikirjastoon löydät <a href="/kirjoita">täältä</a>.&nbsp;</p></div>
+<ul class="tab-list" role="tablist">
+    <li role="presentation">
+        <a id="tab-usermanual-use" class="" role="tab" aria-selected="false" tabindex="-1" data-panel="tab-panel-usermanual-use">
+            Käyttöohjeet        </a>
+    </li>
+    <li role="presentation">
+        <a id="tab-usermanual-search" class="" role="tab" aria-selected="false" tabindex="-1" data-panel="tab-panel-usermanual-search">
+            Tiedonhaku        </a>
+    </li>
+        <li role="presentation">
+        <a id="tab-usermanual-searchfunction" class="" role="tab" aria-selected="false" tabindex="-1" data-panel="tab-panel-usermanual-searchfunction">
+            Hakutoiminnot        </a>
+    </li>
+    <li role="presentation">
+        <a id="tab-usermanual-lawchannel" class="" role="tab" aria-selected="false" tabindex="-1" data-panel="tab-panel-usermanual-lawchannel">
+            Lakikanava        </a>
+    </li>
+    <li role="presentation">
+        <a id="tab-usermanual-bookmarks" class="" role="tab" aria-selected="false" tabindex="-1" data-panel="tab-panel-usermanual-bookmarks">
+            Muistilista        </a>
+    </li>
+    <li role="presentation">
+        <a id="tab-usermanual-trainingvideos" class="" role="tab" aria-selected="false" tabindex="-1" data-panel="tab-panel-usermanual-trainingvideos">
+           Käyttökoulutus        </a>
+    </li>
+    <li role="presentation">
+        <a id="tab-usermanual-weeklyusagetip" class="" role="tab" aria-selected="false" tabindex="-1" data-panel="tab-panel-usermanual-weeklyusagetip">
+           Edilexin käyttövinkki        </a>
+    </li>
+    <li role="presentation">
+        <a id="tab-usermanual-faq" class="" role="tab" aria-selected="false" tabindex="-1" data-panel="tab-panel-usermanual-faq">
+            Usein kysyttyä        </a>
+    </li>
+</ul>
+<div class="tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-usermanual-use" id="tab-panel-usermanual-use">
+    <div class="tab-panel-content">
+    <h1>Käyttöohjeet</h1><h3 class="ot">Laitteisto- ja ohjelmistovaatimukset</h3>
+
+<p class="undefined">Tavallinen tietokone nykyaikaisella selaimella oletusasetuksilla kelpaa yleensä Edilexin käyttöön. Alla tarkemmat vaatimukset:</p>
+
+<ul>
+	<li>
+	<div class="undefined">Internet-yhteys.</div>
+	</li>
+	<li>
+	<div class="undefined">Yleisimpien Internet-selaimien uusimmat versiot.</div>
+	</li>
+	<li>
+	<div class="undefined">Internet-selaimessa JavaScript-tuki päällä ja evästeet (cookiet) hyväksyttynä.</div>
+	</li>
+	<li>
+	<div class="undefined">PDF-tiedostojen katseluun esimerkiksi Adobe Reader -ohjelma.</div>
+	</li>
+</ul>
+
+<h3 class="ot">Tekstin tulostaminen</h3>
+
+<p class="undefined">Osa sivuista sisältää sivun oikeassa yläkulmassa erityisen tulostuspainikkeen, jolla on helppo tulostaa ainoastaan sivun varsinainen sisältöosa. Jos tulostuspainiketta ei sivulle ole, tulostetaan teksti selainohjelman normaalilla tulostustoiminnolla. Tällöin kannattaa kiinnittää huomiota siihen, ettei suotta tulosta käyttöliittymän yläosaa ja vasemmalla näkyvää navigointia. Selainohjelman tulostusdialogista voi yleensä valita tulostettavaksi vain valitun kehyksen.</p>
+
+<h3 class="ot">Linkitys Edilexin aineistoihin</h3>
+
+<p class="undefined">Hyvän tavan mukainen linkitys Edilexin aineistoihin on sallittua. Rajoitukset on mainittu <a href="https://lakitieto.edilex.fi/toimitus-ja-kayttoehdot/" target="_blank">käyttöehdoissa.</a> Esimerkiksi organisaation intranettiin voi tehdä linkkikokoelman, joka sisältää linkkejä Edilexissä olevaan aineistoon. Edilexin sivujen osoitteet ovat staattisia, eli oikea linkitysosoite näkyy normaalisti selaimen osoiterivillä. Joskus osoitteen lopussa on kysymysmerkki ja sen jäljessä muita merkkejä. Ne voi jättää linkitysosoitteesta pois.</p>    </div>
+</div>
+<div class="tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-usermanual-search" id="tab-panel-usermanual-search">
+    <div class="tab-panel-content">
+    <h1>Tiedonhaku</h1><p class="intro">Edilex sisältää useita erilaisia juridisia aineistoja. Palvelu yhdistää keskeiset oikeuslähteet ja tausta-aineistot syvälliseksi, mutta samalla käytännönläheiseksi juridisen tiedon kokonaisuudeksi. Linkitykset sekä monipuoliset siirtymis- ja hakutoiminnot mahdollistavat joustavan liikkumisen palvelussa ja auttavat käyttäjää löytämään helposti relevantit sisällöt.</p>
+
+<p>Edilexin keskeisiä oikeuslähteitä ovat</p>
+
+<ul>
+	<li>
+	<div class="undefined">lait, asetukset ja muut säädökset (Edilexissä <a href="/saadokset">Säädökset</a>),</div>
+	</li>
+	<li>
+	<div class="undefined">säädösten esityöt (Edilexissä <a href="/esityot">Esityöt</a>),</div>
+	</li>
+	<li>
+	<div class="undefined">tuomioistuinten ratkaisut (Edilexissä <a href="/oikeuskaytanto">Oikeuskäytäntö</a>) ja</div>
+	</li>
+	<li>
+	<div class="undefined">oikeuskirjallisuus (Edilexissä <a href="/lakikirjasto">Lakikirjasto</a>).<br />
+	&nbsp;</div>
+	</li>
+</ul>
+
+<div class="undefined">Tarkempaa tietoa Edilexin sisällöstä löydät <a href="/tietoa_palvelusta">Tietoa palvelusta -sivuilta</a>.</div>
+
+<div class="undefined"></div>
+
+<div class="undefined">Tiedonhaun apuna ovat monipuoliset <a href="#toolbar=tab-user-manual/tab-usermanual-searchfunction">hakutoiminnot</a> ja hierarkinen asiasanasto.</div>
+
+<h3 class="ot">Asiasanasto</h3>
+
+<p>Edilexin<a href="/asiasanat"> asiasanasto</a> on hierarkinen kokonaisuus, jossa eri asiasanojen välille on rakennettu hierarkiset ja semanttiset viittaukset. Asiasanaston lisäksi asiasanat toimivat pikahaussa ja aineistokohtaisilla tarkennetun haun lomakkeilla. Haun laajentaminen tai tarkentaminen ja liikkuminen rinnakkaisten asiasanojen välillä onnistuu helposti oikean reunan linkeistä.</p>
+
+<h3 class="ot">Säädöksistä ja viitekorteista</h3>
+
+<p class="undefined">Edilexissä on Suomen laajin ajantasainen <a href="/lainsaadanto">säädöstietokanta</a> erinomaisin linkityksin oikeustapauksiin, esitöihin, oikeuskirjallisuuteen ja muihin oikeudellisiin aineistoihin. Säädökset on ajantasaistettu kirjoittamalla muutokset tekstin sisään. Säädöksiin lisätään toimittajan huomautukset säädökseen liittyvän tiedonhaun helpottamiseksi.</p>
+
+<p class="undefined">Liikkuminen säädöksen suomenkielisestä tekstistä ruotsinkieliseen ja päinvastoin onnistuu helposti säädöstekstin oikean reunan linkistä. Oikean reunan linkeistä löydät myös ajantasaistetun säädöksen helposti tulostettavassa pdf-muodossa, säädöksen viitekortin, säädökseen liittyvää oikeuskirjallisuutta ja viittauksia muualta lainsäädännöstä.</p>
+
+<p class="undefined">Säädöksen viitekortti kertoo kootusti nykyhetken, menneen ja tulevan. Viitekortilta löytyvät linkit säädöksen ajantasaistettuun tekstiin, alkuperäiseen tekstiin sekä säädöksen Säädöskokoelmassa julkaistuun PDF-versioon. Myös liikkuminen suomenkieliseltä viitekortilta ruotsinkieliseen ja päinvastoin onnistuu helposti viitekortin yläosan linkeistä.</p>
+
+<p class="undefined">Viitekortiltilta löydät myös tiedon vireillä olevista hallituksen esityksistä, kumotuista säädöksistä, säädöskäännöksistä, säädökseen tehdyistä muutoksista, aiemmista sanamuodoista, säädöksen nojalla annetuista säädöksistä, kaikista säädökseen liittyvistä hallituksen esityksistä sekä säädökseen liittyvistä ministeriöiden lainvalmistelujulkaisuista.</p>
+
+<p class="undefined">Säädösmuutoksen tiedoista löytyvät linkit muutossäädöksen tekstiin ja säädöskokoelmassa julkaistuun PDF-versioon, muutosta edeltävän ajantasaisen säädöksen, muutossäädöksen pohjana olevan hallituksen esityksen, antopäivä, julkaisupäivä, voimassaolotiedot sekä toimituksen huomautukset mihin muutos kohdistuu.</p>
+
+<h3 class="ot">Säädöksestä esitöihin</h3>
+
+<p class="undefined">Kaikkien säädösten pykälät, momentit ja muut säädöstekstin osat eli säännökset on linkitetty niihin liittyviin voimaantulosäännöksiin. Voimaantulosäännökset sisältävät linkit juuri kyseiseen säännökseen liittyviin esitöihin eli hallituksen esitykseen ja valiokuntamietintöön.</p>
+
+<p class="undefined">Edilex sisältää hallituksen esitysten tekstit vuodesta 1980 lähtien ja viitetiedot vuodesta 1919 lähtien. Vanhoja esitöitä ei ole kattavasti saatavilla sähköisessä muodossa, joten niitä joutuu useimmiten etsimään perinteisestä kirjastosta. <a href="/he/vanhat">Osa vanhemmista hallituksen esityksistä</a> on lisätty Edilexiin pdf-muodossa.</p>
+
+<p class="undefined">Hallituksen esitys sisältää yleensä yksityiskohtaiset perustelut siinä ehdotetuista säännöksistä. Erityisesti jos hallituksen esitystä ei ole hyväksytty eduskuntakäsittelyssä sellaisenaan, kannattaa perusteluja etsiä myös valiokuntamietinnöstä. Valiokuntamietinnöt on linkitetty niihin liittyviin hallituksen esityksiin.</p>
+
+<p class="undefined">Hallituksen esitykseen viitekortilta löydät tarkempaa tietoa esityksen sisällöstä ja käsittelyvaiheesta. Kun hallituksen esitys on hyväksytty tai sen käsittely eduskunnassa on muuten päättynyt, sen viitekortilta on linkki esityksen pohjalta säädettyyn lakiin tai lakeihin. Viitekortilta löydät myös tiedon, onko siihen liittyvä lakiehdotus hyväksytty eduskunnassa sellaisenaan (Hyväksytty), onko se muuttunut eduskuntakäsittelyssä (Hyväksytty muutettuna) vai onko se hylätty tai rauennut.</p>
+
+<p class="undefined">Eduskunnan valiokuntien mietinnöt löytyvät Edilexistä vuodesta 1991 alkaen. Eduskunnan perustuslakivaliokunnan mietinnöistä ja lausunnoista on koottu <a href="http://www.edilex.fi/pev">Ilkka Saraviita -tietokanta</a>. Se sisältää perustuslain pykälien mukaan jaoteltuja linkityksiä eduskunnan perustuslakivaliokunnan lausuntoihin ja mietintöihin.</p>
+
+<p>Ilkka Saraviita -tietokannan pääsivulta löytyvät listattuna kaikki perustuslain pykälät. Kustakin pykälästä löytyy linkin takaa listaus ko. pykälään liittyvistä lausunnoista ja mietinnöistä. Lausunnot on linkitetty eduskunnan verkkosivuille ja mietinnöt Edilexiin. Lisäksi aineisto on linkitetty suoraan <a href="http://www.edilex.fi/lainsaadanto/19990731">perustuslain</a> pykäliin. Perustuslain säädöstekstissä pykälän nimikkeen oikealla puolella on kuvakelinkki alasvetovalikolle, jolle on listattu kyseiseen pykälään liittyvät perustuslakivaliokunnan lausunnot ja mietinnöt.</p>
+
+<h3 class="ot">Säädöksestä oikeuskäytäntöön</h3>
+
+<p class="undefined">Säädösten&nbsp;pykälien alta löytyy runsaasti linkkejä korkeimman oikeuden ja&nbsp;korkeimman hallinto-oikeuden sekä muiden tuomioistuinten ratkaisuihin.</p>
+
+<p class="undefined">Linkitysten antaman tiedon lisäksi kannattaa tietoa etsiä myös Edilexin <a href="/oikeuskaytanto">oikeuskäytäntö-osiosta</a>, josta löytyvät kaikki yleisten tuomioistuinten, hallintotuomioistuinten ja erityistuomioistuinten sähköisenä julkaistut ratkaisut. Osiosta löytyy muiden tuomiovaltaa käyttävien toimielinten ratkaisuja, lausuntoja ja poikkeuslupia. Lisäksi Edilex-uutista löytyy paljon tietoa eri tuomioistuinten ratkaisuista.</p>
+
+<h3 class="ot">Säädöksestä oikeuskirjallisuuteen</h3>
+
+<p class="undefined">Edilexin Lakikirjaston artikkelit, juridisten lehtien artikkelit ja muut kirjoitukset on myös linkitetty säädöksiin. Säädöksen alussa on linkki koko säädökseen liittyviin kirjoituksiin ja yksittäisten lukujen tai pykälien kohdalla on linkkejä juuri niihin liittyviin kirjoituksiin.</p>
+
+<p class="undefined">Edilexin Lakikirjasto sisältää huomattavan määrän oikeustieteellistä kirjallisuutta, muun muassa maan johtavat juridiset aikakausjulkaisut ilmestyvät Edilexissä.</p>    </div>
+</div>
+<div class="tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-usermanual-searchfunction" id="tab-panel-usermanual-searchfunction">
+    <div class="tab-panel-content">
+    <h1>Hakutoiminnot</h1><p class="intro">Edilexin hakutoiminnot ohjaavat löytämään helposti relevantit sisällöt. Kaikkiin aineistoihin kohdistuvissa hakutuloslistauksissa&nbsp;näet&nbsp;vasemman reunan rajaa hakua -navigaatiossa koko ajan, mitä hakuun löytyvää sisältöä palvelussa on. <a href="#Pikahaku">Pikahaku</a> on helppoa, <a href="#Siirry">siirry-toiminto</a> täsmällistä, <a href="#Haun rajaaminen">haun rajaaminen</a> joustavaa ja <a href="#Tarkennettu haku">tarkennettu haku</a> tarjoaa lukuisia vaihtoehtoja. Edilexin haut osuvat myös <a href="#Digikirjat Edilexin hauissa">digikirjojen</a> sisältöön.</p>
+
+<h2>Hakusanojen käyttö</h2>
+
+<ul>
+	<li>Hakusanoja ei digikirjojen sisältöhakua lukuun ottamatta tarvitse katkaista *-merkillä alusta tai lopusta, vaan voit suoraan kirjoittaa hakukenttään sen sanan, jonka alkuisia tai loppuisia sanoja olet etsimässä. Esimerkiksi hakusanalla <strong><em>elatus</em></strong> saat hakutuloksiin kaikki elatus-alkuiset sanat eri taivutusmuotoineen (elatusapu, elatusvelvollisuus, elatusmaksu jne.) ja hakusanalla <strong><em>apu</em></strong> saat hakutuloksiin apu-päätteiset sanat eri taivutusmuotoineen (virka-apu, oikeusapu jne.).</li>
+	<li>Kun haluat käyttää digikirjojen sisältöön kohdistuvaa hakua on *-merkin käyttö sanan katkaisemisen yhteydessä tarpeen (esim. alku*, *keski*, *loppu).</li>
+	<li>Käytä välilyöntiä erottamaan hakusanat. Välilyönti tarkoittaa ja-operaattoria.</li>
+	<li>Tarkennetun haun täsmällisen ilmaisun hakukentässä ei tarvita lainausmerkkejä fraasin ympärille.</li>
+</ul>
+
+<h2><a id="Pikahaku" name="Pikahaku">Pikahaku</a></h2>
+
+<p>Edilexin käyttöliittymän ylälaidassa tunnistautuneelle käyttäjälle näkyvä hakutoiminto eli pikahaku kohdistuu kaikkiin Edilexin aineistoihin. Voit rajata hakua näppärästi hakutulossivun vasemmassa laidassa olevasta rajaa hakua -sivupalkista.</p>
+
+<ul>
+	<li>Kirjoita hakusana hakukenttään. Haussa käytetään ennakoivaa tekstihakua. Hakukenttä tarjoaa hakuusi liittyviä digikirjoja, Edilexin asiasanoja ja säädoksiä.</li>
+	<li>Hakutulokset muuttuvat dynaamisesti sitä mukaa kuin muokkaat hakusanaa.</li>
+	<li>Jos et löydä hakemaasi tarjotuista ehdotuksista, klikkaa Hae-painiketta, jonka kautta pääset kaikkiin hakutuloksiin.</li>
+</ul>
+
+<h2><a id="Tarkennettu haku" name="Tarkennettu haku">Tarkennettu haku</a></h2>
+
+<p>Tunnistautuneena käyttäjänä löydät tarkennettun hakun sivun ylälaidasta pikahaun vasemmalta puolelta.&nbsp;</p>
+
+<ul>
+	<li>Tarkennetussa haussa voit kohdistaa haun dokumentin sekä tekstisisältöön että viitetietoihin.</li>
+	<li>Tarkennetun haun lomakkeella voit hakea joko kaikilla hakukenttään kirjoitetuilla sanoilla, millä tahansa hakukentän sanoista, täsmällisellä fraasilla tai ilman hakukentän sanaa.</li>
+	<li>Täsmällistä fraasia ei tarvitse rajata lainausmerkeillä.</li>
+	<li>Ilman sanoja -hakuehtoa ei voi käyttää yksin. Anna myös jokin toinen hakuehto</li>
+	<li>Etäisyyshaussa voit määritellä haun siten, että se kohdistuu dokumentteihin, joissa valitut hakutermit ovat määritellyllä etäisyydellä toisistaan. Hakutermien maksimietäisyys toisistaan on sata sanaa.</li>
+	<li>Tarkennettua&nbsp;hakua voit rajata sivun vasemmassa reunassa.</li>
+	<li>Samanaikaisesti voi käyttää useampaa hakukenttää.</li>
+	<li>Aineistokohtaiset tarkennetun haun lomakkeet kyseisen aineiston vasemmasta navigaatosta tai tarkennetun haun lomakkeen&nbsp;alalaidasta.</li>
+	<li>Aineistokohtaisilla hakulomakkeilla haku kohdistuu kyseisen aineiston dokumentteihin.</li>
+	<li>Aineistokohtaisilla hakulomakkeilla hakukriteereinä ovat kullekin aineistolle olennaiset viitetiedot (diaarinumero, kirjailija, säädöksen tyyppi jne.).</li>
+</ul>
+
+<h2 class="ot"><a id="Haun rajaaminen" name="Haun rajaaminen">Haun rajaaminen</a></h2>
+
+<p>Kaikkiin aineistoihin kohdistuvat haut näytävät sivunavigaatiossa koko ajan, mitä aiheeseen tai hakuun liittyvää sisältöä palvelussa on ja mahdollistaa haun rajaamisen helposti.</p>
+
+<ul>
+	<li>Rajaa hakuasi sivun vasemmasta reunasta aineistotyypin, aihealueen tai ajan mukaan. Haun voi rajata&nbsp; koskemaan pelkästään tiettyä aineisto- tai aihealuetyypin alakohtaa</li>
+	<li>Rajauskriteerin perässä oleva numero kertoo hakutulosten määrän kyseisessä ryhmässä.</li>
+	<li>Hakutulokset voit lajitella joko relevanssin (= aineistolle annetun tärkeysjärjestyksen) mukaan tai aikajärjestyksessä.</li>
+</ul>
+
+<h2 class="ot"><a id="Digikirjat Edilexin hauissa" name="Digikirjat Edilexin hauissa">Digikirjat Edilexin hauissa</a></h2>
+
+<p>Digikirjat toimivat hyvin yhteen Edilexin kanssa, koska Edilexin haut ulottuvat myös digikirjojen sisältöön.</p>
+
+<p>Edilexin hakutuloslistauksen oikealta puolelta (<em>Haku verkkokaupan digikirjojen sisällöstä</em>) löydät hakuosumien kokonaismäärän ja niiden digikirjojen määrän, joista hakuosumat löytyvät. Kirjan nimeä klikkaamalla pääset verkkokaupan digikirjaan, ja hakuosumaa klikkaamalla suoraan digikirjan ko. kohtaan, jos sinulla on lukuoikeus ko. tuotteeseen.</p>
+
+<p>Sivun keskellä olevassa hakutuloslistauksessa ovat mukana digikirjojen tuotekortit silloin, kun haku vastaa kirjojen aihealueita tai asiasanoja. Rajaamalla hakua aineistoon Digikirjasto voit kohdistaa haun pelkästään digikirjoihin.</p>
+
+<p>Haut osuvat digikirjojen sisältöön käytettäessä Edilexin oikeassa yläkulmassa olevaa pikahakua, mutta ei käytettäessä tarkennettua hakua. Digikirjojen sisältöhaussa *-merkin käyttö on tarpeen. Digikirjastossa ei ole erikseen and- ja or- hakua, vaan hakutuloksissa yhdistellään eri hakutapoja. Hakulogiikka on siis hieman erilainen kuin Edilexin omissa aineistoissa.</p>
+
+<p>Digikirjoissa on hyvät hakutoiminnot, sisällysluettelo, murupolku, sivunumerot ja alaviitteet sekä muistilappu- ja korostustoiminto. Digikirjan painosversio ja sivunumerointi vastaavat painettua kirjaa.</p>
+
+<h2><a id="Siirry" name="Siirry">Haku- ja siirrytoiminnot aineistojen etusivuilla</a></h2>
+
+<p>Jokaisella aineistolla on oma pikahakunsa, joka kohdistuu ainoastaan kyseessä olevaan aineistoon. Hakukenttä löytyy aineiston etusivun oikeasta laidasta.<br />
+<br />
+Huomaa myös tietyissä aineistoissa olevat Siirry-toiminnot, joilla pääset siirtymään nopeasti suoraan tiettyyn dokumenttiin tai säädöksen tiettyyn kohtaan (luku, pykälä).</p>    </div>
+</div>
+<div class="tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-usermanual-lawchannel" id="tab-panel-usermanual-lawchannel">
+    <div class="tab-panel-content">
+    <h1>Lakikanava</h1><p>Lakikanava-seurantapalvelulla saat sähköpostiisi tiedon haluamiesi aineistojen muutoksista ja uusista julkaisuista: uutiset, Lakikirjaston aineistot, säädökset, esityöt, oikeuskäytäntö&nbsp;ja virallistieto. Voit rajata seurantaasi aihealueiden mukaan. Valitsemasi rajaus koskee kaikkia seurantasi aineistoja, joissa on aihealuetieto. Valintoja voi muuttaa milloin tahansa ja ne tulevat heti voimaan.</p>
+
+<p>Lakikanavan seurantasähköposti lähetetään valintasi mukaan jokaisena arkipäivänä tai kerran viikossa maanantaina&nbsp;siihen sähköpostiosoitteeseen, joka on merkitty käyttäjätietoihisi. Lakikanavan tilauksen voi keskeyttää väliaikaisesti. Keskeytyksen voi saattaa voimaan enintään kuukautta ennen keskeytyksen alkua. Keskeytyksen enimmäispituus on kaksi kuukautta.</p>
+
+<p>Ollessasi kirjautuneena Edilexiin&nbsp;voit ottaa Lakikanavan käyttöön, tehdä haluamasi personoinnit,&nbsp;väliaikaisen keskeytyksen ja lopettaa käytön <a href="/oma/seurantapalvelut">Seurantapalvelut</a>-sivulla.</p>
+
+<p>Omien personointiesi mukaisten&nbsp;Lakikanava-viestien sisällöt löytyvät alareunan työkalupalkin Lakikanava-osiosta, jossa ne säilyvät&nbsp;90 päivää.</p>
+
+<p>Lakikanava-seurantapalvelu sisältyy&nbsp;Edilex Peruspalvelun, Edilex EHS:n ja Edilex Verotuksen hintaan. Lakikanavan käyttö edellyttää henkilökohtaista käyttäjätunnusta myös ip-tunnisteisilla asiakkailla.&nbsp;&nbsp;</p>
+
+<p></p>
+
+<p></p>    </div>
+</div>
+<div class="tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-usermanual-bookmarks" id="tab-panel-usermanual-bookmarks">
+    <div class="tab-panel-content">
+    <h1>Muistilista</h1><p>Muistilista löytyy Edilexin kaikkien sivujen alaosassa olevan työkalupalkin&nbsp;Muistilista-painikkeesta.&nbsp;Muistilistaa voit käyttää, kun olet kirjautunut Edilexiin henkilökohtaisilla käyttäjätunnuksillasi.</p>
+
+<p>Dokumentin lisääminen muistilistalle on helppoa: klikkaa dokumentin oikean ylälaidan ikonia. Muistilistalle lisäämäsi dokumentit tunnistat Edilexin sisällä samasta ikonista, jonka väri on vaihtunut oranssiksi. Ikonista näet myös, missä kansioissa dokumentti on.</p>
+
+<p>Muistilistalla on kaksi oletuskansiota: Suosikit ja Lue myöhemmin. Suosikit-kansio on oletuskansio niille dokumenteille, jotka lisätään muistilistalle ilman kansion valintaa.</p>
+
+<p>Suosikit-kansiota lukuun ottamatta voit luoda omia kansioita ja ryhmitellä Edilexin dokumentteja niihin haluamallasi tavalla:</p>
+
+<ul>
+	<li>Luo haluamasi määrä kansioita ja nimeä ne haluamallasi tavalla. Voit luoda kansion samalla, kun lisäät dokumentin muistilistalle.</li>
+	<li>Kansiot voit järjestää joko aakkosjärjestykseen tai omaan järjestykseen raahaamalla niitä vasemmanpuoleisesta ikonista (kolme allekkaista viivaa). Oikeanpuoleisesta ruksista voit poistaa kansion.</li>
+	<li>Kansion nimeä voit muuttaa jälkikäteenkin ja nimen yhteyteen voit myös lisätä lyhyen kuvaustekstin esim. kansion käyttötarkoituksesta. Teksti voi sisältää linkkejä ulkoisille verkkosivustoille, jotka avataan omaan selainikkunaansa.</li>
+	<li>Voit vaihtaa dokumenttien järjestystä yksittäisen kansion sisällä raahaamalla niitä vasemmanpuoleisesta ikonista ja lisätä dokumenttien väliin väliotsikoita. Dokumentin voit poistaa kansiosta oikeanpuoleisesta ruksista.</li>
+	<li>Voit myös siirtää dokumentteja kansioistatoiseen dokumentin perässä olevan muokkaus-ikonin avulla. Sama dokumentti voi olla kahdessa tai useammassa kansiossa.</li>
+</ul>    </div>
+</div>
+<div class="tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-usermanual-trainingvideos" id="tab-panel-usermanual-trainingvideos">
+    <div class="tab-panel-content">
+    <h1>Käyttökoulutus</h1><p>Järjestämme Edilexin käyttäjille maksuttomia koulutustilaisuuksia, joissa käydään läpi Edilexin sisällöt ja toiminnot.&nbsp;<a href="https://www.edilex.fi/kayttokoulutus">Lue lisää Edilexin käyttökoulutuksista.</a></p>
+
+<p>Edilex-käyttökoulutuksen slidet löytyvät <a href="https://edilex.fi/data/kayttokoulutus/Edilex_kayttokoulutus_20230926.pdf" target="_blank">täältä</a>.</p>
+
+<p>14.12.2023 järjestetyn Edilex-käyttökoulutuksen tallenne kokonaisuudessaan löytyy <a href="https://edita.videosync.fi/2023-12-14-kayttokoulutus" target="_blank">tästä linkistä</a>.</p>    </div>
+</div>
+<div class="tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-usermanual-weeklyusagetip" id="tab-panel-usermanual-weeklyusagetip">
+    <div class="tab-panel-content">
+    <h1>Edilexin käyttövinkki</h1><p>Julkaisemme&nbsp;Edilexin tehokkaan ja monipuolisen käytön tueksi käyttövinkkejä. Niissä&nbsp;kuvataan&nbsp;Edilexin&nbsp;ominaisuuksia ja sisältöjä, jotka eivät välttämättä ole kaikille tuttuja.</p>
+
+<p>Julkaistut käyttövinkit löydät <a href="https://www.edilex.fi/tiedotteet?category=7">täältä</a>.</p>    </div>
+</div>
+<div class="tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-usermanual-faq" id="tab-panel-usermanual-faq">
+    <div class="tab-panel-content">
+    <h1>Usein kysyttyä</h1><h2 class="ot"><a href="#a1">Edilexin seurantapalvelut ja personointi</a></h2>
+
+<p><a href="#a2">Mikä on Lakikanava?</a><br />
+<a href="#a9">Mikä on muistilista?</a><br />
+<a href="#a11">Onko Edilexissä RSS-palveluita?</a></p>
+
+<h2 class="ot"><a href="#a12">Edilexin sisältö ja toiminnot</a></h2>
+
+<p><a href="#a16">Kuinka usein säädökset ja niiden viitekortit päivitetään Edilexiin?</a><br />
+<a href="#a22">Onko Edilexissä säädöskäännöksiä?</a><br />
+<a href="#a25">Haluaisimme hyödyntää Edilexin sisältämiä aineistoja monin tavoin organisaatiomme sisällä. Miten tekijänoikeudet vaikuttavat tähän?</a></p>
+
+<h2 class="ot"><a href="#a34">Tilaaminen ja käyttöehdot</a></h2>
+
+<p><a href="#a35">Onko mahdollista saada Edilex koekäyttöön?</a><br />
+<a href="#a36">Haluan tilata Edilexin, miten toimin?</a><br />
+<a href="#a37">Mitä Edilex maksaa?</a><br />
+<a href="#a38">Jos organisaatio tilaa Edilexin usealle käyttäjälle, tuleeko jokaisen luoda&nbsp;oma tunnus?</a><br />
+<a href="#a40">Onko mahdollista saada Edilex käyttöön IP-tunnistuksella?</a></p>
+
+<h2 class="ot"><a href="#a60">Tilauksen hallinnointi</a></h2>
+
+<p><a href="#a61">Käyttäjätunnus ja/tai salasana unohtui, mistä apua?</a><br />
+<a href="#a62">Käytän organisaatiossani Edilexiä ip-tunnistuksella. Miten saan käyttööni henkilökohtaisen käyttäjätunnuksen?</a><br />
+<a href="#a63">Miksi en pääse lukemaan kaikkia artikkeleita?</a><br />
+<a href="#a64">Miten voin muokata omia tietojani, muuttaa tilausta tai tilata uusia palveluja?</a><br />
+<a href="#a65">Kuka on organisaationi yhteyshenkilö?</a><br />
+<a href="#a66">Olen organisaationi pääkäyttäjä/yhteyshenkilö. Miten saan palvelun käyttöön muille käyttäjille?</a><br />
+<a href="#a67">Miten voin luoda henkilökohtaisen käyttäjätunnuksen peruskäyttäjälle?</a><br />
+<a href="#a68">Miten voin tilata sähköpostipalvelun&nbsp;peruskäyttäjälle?</a></p>
+
+<p></p>
+
+<h2 class="ot"><a id="a12" name="a1">Edilexin seurantapalvelut ja personointi</a></h2>
+
+<h4 class="ot"><a id="a2" name="a2">Mikä on Lakikanava?</a></h4>
+
+<p><a href="/tietoa_palvelusta/peruspalvelu/lakikanava">Lakikanava</a> on&nbsp;<a href="/tietoa_palvelusta/palvelut/peruspalvelu/">Edilex Peruspalvelun</a>, <a href="https://www.edilex.fi/tietoa_palvelusta/ehs">Edilex EHS:n</a> ja <a href="/tietoa_palvelusta/verotus">Edilex Verotuksen</a> tilaukseen sisältyvä seurantapalvelu. Lakikanava-seurantapalvelulla saat joka arkipäivä tai kerran viikossa sähköpostiisi tiedon haluamiesi aineistojen muutoksista ja uusista julkaisuista: uutiset, säädökset, esityöt, oikeuskäytäntö, Lakikirjaston aineistot ja virallistieto. Voit rajata seurantaasi aihealueiden mukaan. Sähköpostin lisäksi löydät tekemiesi valintojen mukaiset Lakikanavan viestit <a href="#toolbar=tab-law-channel">työkalupalkista</a>, jossa ne säilyvät 90 päivää.</p>
+
+<p>Voit ottaa Lakikanavan käyttöön, tehdä haluamasi personoinnit, tehdä väliaikaisen keskeytyksen ja lopettaa käytön <a href="https://www.edilex.fi/oma/seurantapalvelut">Seurantapalvelut</a>-sivulla milloin tahansa. Muutokset tulevat voimaan heti. Lakikanavan käyttöönotto edellyttää henkilökohtaisia käyttäjätunnuksia myös ip-tunnisteisilla asiakkailla.</p>
+
+<h4 class="ot"><a id="a9" name="a9">Mikä on muistilista?</a></h4>
+
+<p>Muistilista on toiminto, jolla voit ryhmitellä Edilexin dokumentteja haluamallasi tavalla eri kansioihin. Dokumenttien lisääminen muistilistaan tapahtuu dokumentin oikeassa yläreunassa olevan ikonin avulla. Voit luoda haluamasi määrän kansioita ja nimetä ne haluamallasi tavalla. Voit lisätä kansion nimen yhteyteen lyhyen tekstin sekä kansion sisään väliotsikoita. Voit siirtää dokumentteja kansioista toisiin. Sama dokumentti voi olla kahdessa tai useammassa kansiossa. Muistilistasi löytyy&nbsp;Edilexin&nbsp;jokaisen sivun alalaidassa olevasta&nbsp;<a href="#toolbar=tab-bookmarks">työkalupalkista</a>. Muistilistan käyttö edellyttää henkilökohtaisia käyttäjätunnuksia myös ip-tunnisteisilla asiakkailla.</p>
+
+<h4 class="ot"><a id="a11" name="a11">Onko Edilexissä RSS-palveluita?</a></h4>
+
+<p>On. <a href="/tietoa_palvelusta/palvelut/peruspalvelu/rss">Lue lisää</a>.</p>
+
+<h2 class="ot"><a id="a13" name="a13">Edilexin sisältö ja toiminnot</a></h2>
+
+<h4 class="ot"><a id="a16" name="a16">Kuinka usein säädökset ja niiden viitekortit päivitetään Edilexiin?</a></h4>
+
+<p>Säädöskokoelmassa julkaistut uudet säädökset ja säädösmuutokset ilmestyvät Edilexiin pdf-muodossa heti virallisena julkaisupäivänä.</p>
+
+<p>Säädösten viitekortit päivitetään palveluun joka arkipäivä. Uudet ja ajantasaistetut säädökset julkaistaan Edilexissä kerran viikossa. Vuodenvaihteessa päivityksissä on kuitenkin viivettä johtuen vuoden viimeisten päivien säädösruuhkasta.</p>
+
+<h4 class="ot"><a id="a22" name="a22">Onko Edilexissä säädöskäännöksiä?</a></h4>
+
+<p>Edilexissä on linkkejä Finlexissä oleviin, epävirallisiin säädöskäännöksiin. Jos säädöksestä on julkaistu käännös, tieto siitä on merkitty kyseisen säädöksen viitekortille, katso esimerkiksi <a href="http://www.edilex.fi/smur/19990731">Suomen perustuslain viitekortti</a>. Säädöskäännöksen yhteydestä löytyy tieto käännöksen ajantasaisuudesta.</p>
+
+<h4 class="ot"><a id="a29" name="a29">Haluaisimme hyödyntää Edilexin sisältämiä aineistoja monin tavoin organisaatiomme sisällä. Miten tekijänoikeudet vaikuttavat tähän?</a></h4>
+
+<p>Ota yhteyttä <a href="/yhteystiedot/toimitus">toimitukseen</a>. Käytöstä voidaan sopia tapauskohtaisesti.</p>
+
+<h2 class="ot"><a id="a34" name="a34">Tilaaminen ja käyttöehdot</a></h2>
+
+<h4 class="ot"><a id="a35" name="a35">Onko mahdollista saada Edilex koekäyttöön?</a></h4>
+
+<p>Kyllä on. Voit tilata kuukauden mittaisen&nbsp;koekäytön&nbsp;<a href="https://lakitieto.edilex.fi/verkkokauppa/edilex/edilex-verkkopalvelut/edilex-koekaytto/" target="_blank">verkkokaupastamme</a>.</p>
+
+<h4 class="ot"><a id="a36" name="a36">Haluan tilata Edilexin, miten toimin?</a></h4>
+
+<p>Edilexin voit tilata&nbsp;<a href="https://lakitieto.edilex.fi/verkkokauppa/edilex/edilex-verkkopalvelut/edilex-peruspalvelu/" target="_blank">verkkokaupastamme</a>&nbsp;tai <a href="/yhteystiedot/asiakaspalvelu_myynti/">asiakaspalvelusta</a>.</p>
+
+<h4 class="ot"><a id="a37" name="a37">Mitä Edilex maksaa?</a></h4>
+
+<p>Edilexin hinnat löydät <a href="/tietoa_palvelusta/hintatiedot/">hinnastosta</a>. Lisätietoja Edilexin <a href="/yhteystiedot/asiakaspalvelu_myynti/">asiakaspalvelusta</a>. Tarjoamme myös mahdollisuuden joustavaan ja edulliseen organisaatiolisenssiin. Pyydä tarjous <a href="/yhteystiedot/asiakaspalvelu_myynti/">Edilexin myynnistä</a>.</p>
+
+<h4 class="ot"><a id="a38" name="a38">Jos organisaatio tilaa Edilexin usealle käyttäjälle, tuleeko jokaisen luoda&nbsp;oma tunnus?</a></h4>
+
+<p>Kyllä.&nbsp;Jokaisen käyttäjän tulee luoda itselleen tunnukset <a href="http://oma.edilex.fi" target="_blank">Oma Edilexissä</a> kohdassa Luo uusi tunnus. Yhdestä käyttäjästä tulee pääkäyttäjä, joka voi jakaa ja poistaa tuotteeseen kuuluvia käyttöoikeuksia <a href="https://oma.edilex.fi/tilaukset" target="_blank">Tilausten hallinta</a> -näkymän kautta. Lue tarkemmin eri<a href="/tietoa_palvelusta/lisenssit/"> tilausvaihtoehdoista</a>.&nbsp;</p>
+
+<h4 class="ot"><a id="a40" name="a40">Onko mahdollista saada Edilex käyttöön IP-tunnistuksella?</a></h4>
+
+<p>Edilex on mahdollista tilata IP-tunnistuksella laajemmissa organisaatiolisensseissä. Lue tarkemmin eri <a href="/tietoa_palvelusta/lisenssit/">lisenssivaihtoehdoista</a>. IP-tunnistuksesta voi sopia erikseen <a href="/yhteystiedot/asiakaspalvelu_myynti/">asiakaspalvelun</a> kanssa.</p>
+
+<h2 class="ot"><a id="a60" name="a60">Tilauksen hallinnointi</a></h2>
+
+<h4 class="ot"><a id="a61" name="a61">Käyttäjätunnus ja/tai salasana unohtui, mistä apua?</a></h4>
+
+<p>Voit tilata ohjeen&nbsp;salasanan vaihtamiseksi <a href="http://oma.edilex.fi" target="_blank">Oma Edilexin</a> Unohditko salasanasi? -linkin kautta. Saat sähköpostiin ohjeen salasanan vaihtamisesta, jos antamasi osoite on sama kuin käyttäjätiedoissasi oleva. Voit myös ottaa yhteyttä <a href="/yhteystiedot/asiakaspalvelu_myynti/">asiakaspalveluun</a>. Salasanan ja käyttäjätunnuksen voit muuttaa <a href="https://oma.edilex.fi/omat-tiedot" target="_blank">Oma Edilexissä</a>.</p>
+
+<h4 class="ot"><a id="a62" name="a62">Käytän organisaatiossani Edilexiä ip-tunnistuksella. Miten saan käyttööni henkilökohtaisen käyttäjätunnuksen?</a></h4>
+
+<p>Henkilökohtainen käyttäjätunnus mahdollistaa monipuolisemman Edilexin käytön, esim. personoitavissa olevien Lakikanavan ja muistilistan käytön.&nbsp;Oma Edilexin <a href="https://oma.edilex.fi/tilaukset" target="_blank">Omat käyttöoikeudet</a> -sivulla näet tiedon käytössäsi olevan tuotteen pääkäyttäjästä, jolla on oikeus jakaa käyttöoikeuksia tuotteisiin. Rekisteröidy <a href="http://oma.edilex.fi" target="_blank">Oma Edilexiin</a> ja pyydä organisaatiosi pääkäyttäjää aktivoimaan sinulle henkilökohtainen käyttöoikeus Edilexiin.</p>
+
+<h4 class="ot"><a id="a63" name="a63">Miksi en pääse lukemaan kaikkia artikkeleita?</a></h4>
+
+<p>Edilexissä ilmestyy eri julkaisijoiden juridisia lehtiä, joiden uusimpien numeroiden lukeminen saattaa edellyttää erillistä tilausta. Liikejuridiikka ja Verotus-lehti on tilattavissa vain erillisellä tilauksella. Lue lisää <a href="/tietoa_palvelusta/palvelut/lehdet/">Edilexissä julkaistavista lehdistä</a>.&nbsp;</p>
+
+<h4 class="ot"><a id="a64" name="a64">Miten voin muokata omia tietojani, muuttaa tilaustani tai tilata uusia palveluja?</a></h4>
+
+<p><a href="https://oma.edilex.fi/omat-tiedot" target="_blank">Oma Edilexissä</a> voit muuttaa nimi- ja sähköpostitietojasi sekä vaihtaa salasanan. <a href="https://www.edilex.fi/oma/seurantapalvelut">Seurantapalvelut</a>-sivulla&nbsp;voit ottaa käyttöön Lakikanavan sekä valita Lakikanavan seurannan aihealueet ja aineistot.</p>
+
+<p>Organisaation pääkäyttäjä voi jakaa Oma Edilexissä käyttöoikeuksia organisaation tilauksiin kuuluviin tuotteisiin ja poistaa käyttöoikeuksia yksittäisiltä käyttäjiltä. Tilaukseen sisältyvien käyttöoikeuksien määrää voit muuttaa <a href="https://www.edilex.fi/yhteystiedot/asiakaspalvelu_myynti" target="_blank">asiakaspalvelumme</a> kautta. Lisäksi voit tilata uusia palveluita <a href="https://lakitieto.edilex.fi/verkkokauppa/" target="_blank">verkkokaupastamme</a>.</p>
+
+<p><a href="http://www.edilex.fi/yhteystiedot/asiakaspalvelu_myynti">Asiakaspalvelu</a> auttaa kaikissa palvelun käyttöön ja tilaamiseen liittyvissä kysymyksissä.</p>
+
+<h4 class="ot"><a id="a65" name="a65">Kuka on organisaationi yhteyshenkilö?</a></h4>
+
+<p>Oma Edilexin <a href="https://oma.edilex.fi/tilaukset" target="_blank">Omat käyttöoikeudet</a> -sivulla näet tiedon käytössäsi olevien tuotteiden pääkäyttäjästä, jolla on oikeus jakaa käyttöoikeuksia tuotteisiin.&nbsp;Edilexin <a href="/yhteystiedot/asiakaspalvelu_myynti/">asiakaspalvelu</a> palvelee myös kaikissa tilaamiseen ja käyttäjätietoihin liittyvissä asioissa.</p>
+
+<h4 class="ot"><a id="a66" name="a66">Olen organisaationi pääkäyttäjä/yhteyshenkilö. Miten saan palvelun käyttöön muille käyttäjille?</a></h4>
+
+<p><a href="https://oma.edilex.fi/tilaukset" target="_blank">Oma Edilexin</a> Tilausten hallinta -näkymässä voit jakaa käyttöoikeuksia tilaukseesi kuuluviin tuotteisiin lähettämällä käyttäjille tuotekohtaisen aktivointilinkin. Voit kopioida linkin näkymässä olevasta taulukosta kyseisen tuotteen kohdalta, ja linkin voi lähettää käyttäjille aktivoitavaksi esimerkiksi sähköpostilla tai pikaviestipalvelussa. Käyttäjän tulee olla rekisteröitynyt Oma Edilexiin aktivoidakseen käyttöoikeuden itselleen. Aktivoitujen ja vapaiden käyttöoikeuksien määrän näet tuoterivillä. Näkymässä saat myös avattua listan käyttöoikeuden aktivoinneista käyttäjistä.</p>
+
+<p>Voit myös ottaa yhteyttä Edilexin asiakaspalveluun. Vastaamme mielellämme kaikkiin Edilexin tilaamiseen ja käyttäjätietoihin liittyviin kysymyksiin.</p>
+
+<h4 class="ot"><a id="a67" name="a67">Miten voin luoda henkilökohtaisen käyttäjätunnuksen peruskäyttäjälle?</a></h4>
+
+<p>Jokaisen käyttäjän tulee itse rekisteröityä <a href="http://oma.edilex.fi" target="_blank">Oma Edilexiin</a> kirjautumisnäkymän kohdassa Luo uusi tunnus. Rekisteröitymislomakkeelle tulee syöttää nimi, sähköposti ja salasana. Kun peruskäyttäjä on rekisteröitynyt Oma Edilexiin, hän voi aktivoida käyttöoikeuden tuotteeseen pääkäyttäjän lähettämän käyttöoikeuslinkin perusteella.</p>
+
+<h4 class="ot"><a id="a68" name="a68">Miten voin tilata seurantapalvelun&nbsp;peruskäyttäjälle?</a></h4>
+
+<p>Uuden peruskäyttäjän tulee itse ottaa Lakikanava-seurantapalvelu käyttöön <a href="https://www.edilex.fi/oma/seurantapalvelut">Seurantapalvelut</a>-sivulta. Muutosten tekeminen Lakikanava-seurantapalveluun edellyttää henkilökohtaisella käyttäjätunnuksella sisäänkirjautumista.</p>    </div>
+</div>
+        </div>
+    </div>
+    <div class="tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-law-channel" id="tab-panel-law-channel">
+        <div class="tab-panel-content">
+            <div id="law-channel-desc">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="lakikanava" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 255.8 42" style="enable-background:new 0 0 255.8 42;" xml:space="preserve">
+<style type="text/css">
+    @font-face {
+      font-family: 'OptimaLTStd';
+      src: url('/assets/fonts/OptimaLTStd.woff') format('woff');
+    }
+    .st0{fill:#11094F;}
+	.st-1{font-family:'OptimaLTStd';}
+	.st-2{font-size:26.87px;}
+	.st-3{letter-spacing:4;}
+	.st-4{letter-spacing:3;}
+	.st-5{letter-spacing:2;}
+	.st-6{letter-spacing:1;}
+	.st-7{letter-spacing:5;}
+</style>
+<title>Asset 1</title>
+<g id="Layer_2">
+	<g id="Layer_1-2">
+		<text transform="matrix(1 0 0 1 54.33 29.51)" class="st-0 st-1 st-2 st-3">L</text>
+		<text transform="matrix(1 0 0 1 72.47 29.51)" class="st-0 st-1 st-2 st-4">A</text>
+		<text transform="matrix(1 0 0 1 93.85 29.51)" class="st-0 st-1 st-2 st-4">K</text>
+		<text transform="matrix(1 0 0 1 113.84 29.51)" class="st-0 st-1 st-2 st-4">I</text>
+		<text transform="matrix(1 0 0 1 125.12 29.51)" class="st-0 st-1 st-2 st-3">K</text>
+		<text transform="matrix(1 0 0 1 146.19 29.51)" class="st-0 st-1 st-2 st-3">A</text>
+		<text transform="matrix(1 0 0 1 168.11 29.51)" class="st-0 st-1 st-2 st-4">N</text>
+		<text transform="matrix(1 0 0 1 192.83 29.51)" class="st-0 st-1 st-2 st-5">A</text>
+		<text transform="matrix(1 0 0 1 212.76 29.51)" class="st-0 st-1 st-2 st-6">V</text>
+		<text transform="matrix(1 0 0 1 232.54 29.51)" class="st-0 st-1 st-2 st-7">A</text>
+		<path class="st-0" d="M23.5,21.4c-0.2-0.2-0.4-0.3-0.7-0.4L22,20.7l-1.4-0.6c-0.4-0.1-0.7-0.3-0.9-0.4s-0.5-0.2-0.7-0.4L18.3,19
+			c-0.1,0.1-0.2,0.2-0.3,0.4c-0.1,0.2-0.1,0.4-0.1,0.5c0,0.2,0,0.3,0.1,0.5c0.1,0.2,0.2,0.3,0.4,0.4c0.3,0.2,0.5,0.3,0.8,0.5
+			c0.4,0.2,0.8,0.4,1.5,0.7l1.5,0.6c0.5,0.2,1,0.5,1.5,0.8L24,23c0.1-0.1,0.2-0.3,0.2-0.5c0-0.2-0.1-0.4-0.2-0.6
+			C23.8,21.7,23.7,21.5,23.5,21.4z"/>
+		<path class="st-0" d="M21,0C9.4,0,0,9.4,0,21s9.4,21,21,21s21-9.4,21-21S32.6,0,21,0z M26.3,21.8c-0.1,0.3-0.2,0.6-0.4,0.9
+			c-0.2,0.3-0.4,0.5-0.6,0.7c-0.2,0.2-0.4,0.4-0.7,0.6c0.3,0.3,0.6,0.7,0.8,1.1c0.2,0.4,0.2,0.9,0.2,1.3c0,0.6-0.1,1.3-0.4,1.8
+			c-0.3,0.5-0.7,0.9-1.1,1.2c-0.5,0.3-1.1,0.6-1.6,0.7c-0.6,0.1-1.3,0.2-1.9,0.2c-0.7,0-1.4-0.1-2.1-0.2c-0.7-0.1-1.4-0.3-2-0.6
+			c0.1-0.9,0.2-1.9,0.3-2.8h1c0,0.3,0.1,0.6,0.3,0.8c0.2,0.2,0.4,0.5,0.6,0.6c0.3,0.2,0.6,0.3,0.9,0.4c0.3,0.1,0.7,0.1,1,0.1
+			c0.4,0,0.9-0.1,1.2-0.3c0.3-0.2,0.5-0.5,0.5-0.9c0-0.1,0-0.3-0.1-0.4c-0.1-0.1-0.2-0.3-0.4-0.3c-0.2-0.1-0.4-0.2-0.6-0.3l-0.9-0.4
+			l-1.5-0.6c-0.5-0.2-1-0.5-1.5-0.8c-0.5-0.3-0.9-0.8-1.2-1.3c-0.3-0.5-0.4-1.1-0.4-1.8c0-0.3,0-0.7,0.1-1c0.1-0.3,0.2-0.6,0.3-0.9
+			c0.2-0.3,0.3-0.5,0.6-0.8c0.3-0.3,0.6-0.5,0.9-0.8c-0.3-0.3-0.6-0.6-0.8-1c-0.2-0.4-0.3-0.8-0.3-1.2c0-0.6,0.1-1.2,0.4-1.8
+			c0.3-0.5,0.6-0.9,1.1-1.2c0.5-0.3,1-0.5,1.6-0.7c1.2-0.3,2.4-0.3,3.6,0c0.6,0.1,1.2,0.3,1.8,0.5c-0.1,0.4-0.1,0.6-0.1,0.9
+			s0,0.4-0.1,0.6s0,0.4,0,0.5s0,0.4,0,0.6h-0.9c-0.1-0.1-0.1-0.3-0.2-0.5c-0.1-0.2-0.2-0.4-0.4-0.6c-0.2-0.2-0.4-0.4-0.7-0.5
+			c-0.4-0.1-0.7-0.2-1.1-0.2c-0.2,0-0.3,0-0.5,0.1c-0.2,0-0.3,0.1-0.5,0.2c-0.1,0.1-0.3,0.2-0.4,0.3c-0.1,0.1-0.1,0.3-0.1,0.4
+			c0,0.3,0.1,0.6,0.4,0.7c0.4,0.2,0.8,0.4,1.2,0.6l0.9,0.3l0.9,0.4c0.3,0.1,0.6,0.3,0.9,0.4c0.3,0.1,0.5,0.3,0.8,0.5
+			c0.5,0.3,0.8,0.7,1.1,1.2c0.3,0.5,0.4,1.1,0.4,1.6C26.5,21,26.4,21.4,26.3,21.8L26.3,21.8z"/>
+	</g>
+</g>
+</svg>
+
+    <p>
+        Lakikanava seuraa juridista tietoa puolestasi. Voit tilata aineistojen
+        seurannan sähköpostiisi jokaisena arkipäivänä tai kerran viikossa.
+        Seurannan personointi on mahdollista kaikissa aineistoissa - uutiset,
+        Lakikirjaston artikkelit ja lehdet, säädökset, oikeuskäytäntö, esityöt,
+        virallistieto - ja aihealueissa.<br>Lakikanavan käyttöönotto edellyttää
+        henkilökohtaista käyttäjätunnusta.
+    </p>
+    <div class="order-buttons">
+        <a href="https://lakitieto.edilex.fi/verkkokauppa/edilex/edilex-verkkopalvelut/edilex-peruspalvelu" class="button cta" role="button">
+            Tilaa Edilex        </a>
+        <a href="https://lakitieto.edilex.fi/verkkokauppa/edilex/edilex-verkkopalvelut/edilex-koekaytto" class="button" role="button">
+            Aloita koekäyttö        </a>
+        <a href="/auth/login" class="sign-in">
+    Kirjaudu sisään    <svg class="icon icon-sign-in" aria-hidden="true">
+        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-sign-in"></use>
+    </svg>
+</a>    </div>
+</div> <!-- Description end -->
+    <figure aria-labelledby="law-channel-screenshot-caption">
+        <img src="/assets/images/lakikanava-screenshot.png" alt="Lakikanavan sähköpostiviestiesimerkki" aria-hidden="true">
+        <figcaption id="law-channel-screenshot-caption">
+            Lakikanava        </figcaption>
+    </figure>
+        </div>
+    </div>
+    <div class="tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-bookmarks" id="tab-panel-bookmarks">
+        <div class="tab-panel-content">
+                <div id="bookmarks-desc">
+        <p>Muistilistaa voit käyttää, kun olet kirjautunut Edilexiin henkilökohtaisilla käyttäjätunnuksillasi.</p>
+        <p>Muistilistalle voit lisätä usein tarvitsemiasi dokumentteja ja räätälöidä Edilexin sisällöistä juuri sellaisen kokonaisuuden kuin haluat. Voit luoda omia kansioita ja ryhmitellä Edilexin dokumentteja niihin haluamallasi tavalla.</p>
+        <a href="/tiedotteet/121" class="more">
+            <svg class="icon icon-angle-double-right" aria-hidden="true">
+                <use xlink:href="#icon-angle-double-right"/>
+            </svg>
+            <span>Lue lisää</span>
+        </a>
+        <div class="order-buttons">
+            <a href="https://lakitieto.edilex.fi/verkkokauppa/edilex/edilex-verkkopalvelut/edilex-peruspalvelu" class="button cta" role="button">
+                Tilaa Edilex            </a>
+            <a href="https://lakitieto.edilex.fi/verkkokauppa/edilex/edilex-verkkopalvelut/edilex-koekaytto" class="button" role="button">
+                Aloita koekäyttö            </a>
+            <a href="/auth/login" class="sign-in">
+    Kirjaudu sisään    <svg class="icon icon-sign-in" aria-hidden="true">
+        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-sign-in"></use>
+    </svg>
+</a>        </div>
+    </div>
+    <figure id="bookmarks-screenshot" aria-labelledby="bookmarks-screenshot-caption">
+        <img src="/assets/images/bookmarks-screenshot.png" alt="" aria-hidden="true">
+        <figcaption id="bookmarks-screenshot-caption">
+        Muistilista        </figcaption>
+    </figure>
+        </div>
+    </div>
+    <div class="tab-panel" role="tabpanel" aria-hidden="true" aria-labelledby="tab-abbreviations" id="tab-panel-abbreviations">
+        <div class="tab-panel-content">
+            <div id="abbreviations-content" data-keep-open="true" data-preselect="tab-abbreviations-abbreviations">
+    <img src="/assets/img/icons/loader.gif" id="spinner">
+</div>
+<script type="text/javascript">
+(function(){
+    $("#tab-panel-abbreviations").on("showTabPanel", function(){
+        $(this).unbind("showTabPanel"); /* Unbind event so content is loaded once  */
+        $.ajax('/_internal/legislation-in-finnish/abbreviations', {
+            context: $("#abbreviations-content"),
+            contentType: 'html',
+        }).done(function(html){
+            // Tab content is now ready so add class and initialize tablist
+            $(this).html(html)
+            $("#abbreviations-content").addClass("tab-list-container")
+            Edilex.initializeTabLists()
+            Edilex.initializeToolbarParametrization()
+        }).fail(function(err){
+            console.error(err)
+        });
+    });
+})();
+</script>        </div>
+    </div>
+</aside>
+<div class="dialog-wrapper" id="dialog-wrapper">
+    <div class="toolbar-dialog overlay confirm-delete">
+        <div class="overlay-backdrop"></div>
+        <div class="overlay-window">
+            <div class="overlay-content">
+                <div class="overlay-header">
+                    <a href="#" class="close">
+                        <span class="icon icon-close"></span>
+                    </a>
+                    <h2 id="confirm-delete-text"></h2>
+                </div>
+                <div class="overlay-footer">
+                    <p class="text"></p>
+                    <p>
+                        <a href="#" class="delete btn">Poista</a>
+                        <a href="#" class="close cancel">Peruuta</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="toolbar-dialog overlay add-bookmark" data-bookmark-folders-url="/myedilex/bookmark-folders">
+        <div class="overlay-backdrop"></div>
+        <div class="overlay-window">
+            <div class="overlay-content">
+                <div class="overlay-header">
+                    <a href="#" class="close">
+                        <span class="icon icon-close"></span>
+                    </a>
+                    <h2 id="add-bookmark-dialog-header-new-bookmark">Lisää muistilistalle</h2>
+                    <h2 id="add-bookmark-dialog-header-existing-bookmark">Muuta kansioita</h2>
+                </div>
+                <div class="add-bookmark-content">
+
+                    <p id="add-bookmark-dialog-description-new-bookmark">Dokumentti ei ole muistilistallasi. Lisää se valittuun tai uuteen kansioon.</p>
+                    <p id="add-bookmark-dialog-description-existing-bookmark">Lisää dokumentti kansioihin tai poista se jo liitetyistä kansioista.
+                    <div class="throbber"></div>
+
+                    <form action="" method="post">
+                        <div class="overlay-form-inner">
+                            <div class="overlay-form-input template-placeholder">
+                            </div>
+                            <div class="overlay-form-action">
+                                <a href="#" class="save btn">Tallenna</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="toolbar-dialog overlay add-new-folder-dialog">
+        <div class="overlay-backdrop"></div>
+        <div class="overlay-window">
+            <div class="overlay-content">
+                <div class="overlay-header">
+                    <a href="#" class="close">
+                        <span class="icon icon-close"></span>
+                    </a>
+                    <h2>Lisää uusi kansio.</h2>
+                </div>
+                <div class="overlay-overflow">
+                    <form action="#">
+                        <div class="overlay-form-inner">
+                            <div class="overlay-form-input">
+                                <label>
+                                    Kansion nimi:                                    <input type="text" class="text folder-name" name="name" />
+                                </label>
+                            </div>
+                            <div class="overlay-form-action">
+                                <a href="#" class="add btn">Lisää</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="toolbar-dialog overlay add-new-heading-dialog">
+        <div class="overlay-backdrop"></div>
+        <div class="overlay-window">
+            <div class="overlay-content">
+                <div class="overlay-header">
+                    <a href="#" class="close">
+                        <span class="icon icon-close"></span>
+                    </a>
+                    <h2>Lisää uusi väliotsikko.</h2>
+                </div>
+                <div class="overlay-overflow">
+                    <form action="#">
+                        <div class="overlay-form-inner">
+                            <div class="overlay-form-input">
+                                <label>
+                                    Väliotsikko:                                    <input type="text" class="text new-heading" name="heading" />
+                                </label>
+                            </div>
+                            <div class="overlay-form-action">
+                                <a href="#" class="add btn">Lisää</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="toolbar-dialog overlay info-dialog">
+        <div class="overlay-backdrop"></div>
+        <div class="overlay-window">
+            <div class="overlay-content">
+                <div class="overlay-header">
+                    <a href="#" class="close">
+                        <span class="icon icon-close"></span>
+                    </a>
+                    <h2 id="info-dialog-header"></h2>
+                    <span id="info-dialog-text"></span>
+                    <div id="info-dialog-do-not-show-again-control" class="hidden">
+                        <form action="/myedilex/bookmarks/disable-info-dialog-for-moving-documents-from-favorites">
+                            <label>
+                                Asia selvä. En halua nähdä tätä ilmoitusta enää.                                <input type="checkbox" id="info-dialog-do-not-show-again" value="1" />
+                                <div class="overlay-form-action">
+                                    <a id="info-dialog-ok" href="#" class="btn">Ok</a>
+                                </div>
+                            </label>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            <footer>
+    <div id="edita-branding">
+        <a href="https://lakitieto.edilex.fi" target="_blank" class="edita">
+            <span>Edilex Lakitieto</span>
+            <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 706.19 319.16"><defs><style>.white{fill:#fff;}</style></defs><path class="white" d="M377.51,237.99h7.44v33.15h17.69v6.93h-25.14v-40.08Z"/><path class="white" d="M404.99,269.37c0-5.5,4.06-8.76,9.79-9.27l9.28-.86c0-3.09-2.29-5.44-5.9-5.44s-5.27,2.4-5.67,4.24l-6.36-1.77c1.43-5.44,5.84-8.59,12.02-8.59,8.93,0,12.88,6.07,12.88,11.85v18.55h-7.04v-8.87c0,6.24-3.72,9.62-9.28,9.62s-9.73-3.66-9.73-9.45ZM416.73,273.03c5.04,0,7.33-3.26,7.33-6.98v-1.32l-7.73.74c-2.58.29-4.29,1.55-4.29,3.84s1.95,3.72,4.7,3.72Z"/><path class="white" d="M437.74,237.99h7.16v33.32c0-9.73,2.06-13.68,6.76-18.78l4.01-4.12h8.87l-10.13,11.05,10.94,18.61h-8.13l-7.73-13.17c-1.89,2.23-4.58,6.24-4.58,11.85v1.32h-7.16v-40.08Z"/><path class="white" d="M468.7,236.85h7.39v7.79h-7.39v-7.79ZM468.82,248.41h7.16v29.66h-7.16v-29.66Z"/><path class="white" d="M485.36,269.31v-14.6h-5.38v-6.3h5.5v-6.64h6.93v6.64h8.42v6.3h-8.42v13.91c0,2.18,1.09,2.98,2.86,2.98h4.92v6.47h-5.61c-5.33,0-9.22-2.29-9.22-8.76Z"/><path class="white" d="M505.46,236.85h7.39v7.79h-7.39v-7.79ZM505.57,248.41h7.16v29.66h-7.16v-29.66Z"/><path class="white" d="M516.96,263.13c0-8.93,6.36-15.46,15.29-15.46s14.54,6.87,14.54,14.37c0,1.55-.17,3.09-.34,3.95h-22.39c1.03,4.24,4.29,6.58,8.36,6.58,3.21,0,6.18-1.66,7.44-3.66l5.21,3.55c-2.35,3.66-6.81,6.36-13,6.36-8.47,0-15.12-6.01-15.12-15.69ZM539.87,260.26c-.23-3.38-3.15-6.53-7.62-6.53-4.18,0-7.16,2.63-8.13,6.53h15.75Z"/><path class="white" d="M554.4,269.31v-14.6h-5.38v-6.3h5.5v-6.64h6.93v6.64h8.42v6.3h-8.42v13.91c0,2.18,1.09,2.98,2.86,2.98h4.92v6.47h-5.61c-5.33,0-9.22-2.29-9.22-8.76Z"/><path class="white" d="M572.89,263.24c0-8.99,6.7-15.57,15.92-15.57s15.92,6.58,15.92,15.57-7.1,15.57-15.92,15.57-15.92-6.53-15.92-15.57ZM588.81,272.29c4.87,0,8.65-3.55,8.65-9.05s-3.78-9.05-8.65-9.05-8.65,3.72-8.65,9.05,3.78,9.05,8.65,9.05Z"/><path class="white" d="M277.62,144.39h-.64c-1.6-23.94-14.61-36.92-33.16-36.92-23.27,0-40.63,20.31-40.63,50.6,0,28.44,17.36,50.6,40.63,50.6,18.3,0,31.21-11.55,33.09-37.46h.7v35.06h27.33V77h-27.33v67.39ZM255.08,183.74c-13.3,0-24.01-10.34-24.01-25.67s10.71-25.67,24.01-25.67c12.56,0,23.53,10.34,23.53,25.67s-10.97,25.67-23.53,25.67ZM324.14,206.27h27.33v-94h-27.33v94ZM338.93,74.84c-8.14-.62-15.24,5.48-15.86,13.62v.2c-.63,8.14,5.46,15.24,13.61,15.86h0c8.14.62,15.24-5.48,15.86-13.62v-.2c.63-8.14-5.46-15.24-13.61-15.86ZM370.67,206.27h27.33V77h-27.33v129.27ZM605.48,109.87h-29.68l-20.04,45.48-20.04-45.48h-29.68l22.42,48.2-22.42,48.2h29.68l20.03-45.46,19.7,45.46h30.03l-22.42-48.2,22.42-48.2ZM147.67,107.47c-30.84,0-50.79,22.34-50.79,50.6,0,32.13,23.08,50.6,49.68,50.6,20.68,0,36.88-9.19,43.39-22.09l-21.29-10.31c-2.99,3.67-11.38,8.76-20.25,8.76-10.33,0-19.6-4.98-23.6-15.3l69.63-1.82c.7-3.6,1.25-9.28,1.25-14.83,0-23.08-18.1-45.61-48.01-45.61ZM124.4,148.32c2.44-10.42,12-17.77,23.08-17.77,12.69,0,20.37,8.31,21.68,16.37l-44.77,1.39ZM507.11,153.08c0-23.08-18.1-45.61-48.01-45.61s-50.79,22.34-50.79,50.6c0,32.13,23.08,50.6,49.68,50.6,20.68,0,36.88-9.19,43.39-22.09l-21.29-10.31c-2.99,3.67-11.38,8.76-20.25,8.76-10.33,0-19.6-4.98-23.6-15.3l69.63-1.82c.7-3.6,1.25-9.28,1.25-14.83ZM435.82,148.32c2.44-10.42,12-17.77,23.08-17.77,12.69,0,20.37,8.31,21.68,16.37l-44.77,1.39Z"/></svg>
+        </a>
+    </div>
+    <div id="edita-contact-info">
+        <h3>Edilex Lakitiedon yhteystiedot</h3>
+        <div id="edita-registered-name">Edilex Lakitieto Oy</div>
+        <div id="edita-business-id">Y-tunnus 3451297-9</div>
+        <div id="edita-website-address">
+            <a href="https://lakitieto.edilex.fi" target="_blank" class="edita">lakitieto.edilex.fi</a>
+        </div>
+    </div>
+    <div id="service-contact-info">
+        <div id="service-customer-service">
+            <h3>Edilexin asiakaspalvelu</h3>
+            <div id="service-customer-service-email">asiakaspalvelu@edilex.fi</div>
+            <div id="service-customer-service-phone">Puh. 0800 141070</div>
+        </div>
+        <div id="service-editorial-team">
+            <h3>Edilexin toimitus</h3>
+            <div id="service-editorial-team-email">toimitus@edilex.fi</div>
+        </div>
+        <div id="service-issn">ISSN: 1797-6324</div>
+    </div>
+    <div id="general-links">
+        <ul>
+            <li><a href="/tietoa_palvelusta">Tietoa palvelusta</a></li>
+            <li><a href="/tietoa_palvelusta/svenska">Edilex i korthet</a></li>
+            <li><a href="/tietoa_palvelusta/english">Edilex in brief</a></li>
+            <li><a href="/edilex-palvelut">Edilex-palvelut</a></li>
+            <li><a href="/tietoa_palvelusta/hintatiedot">Edilexin hintatiedot</a></li>
+            <li><a href="/kayttokoulutus">Käyttökoulutus</a></li>
+            <li><a href="/kirjoita">Kirjoita Edilexiin</a></li>
+            <!-- <li><a class="ot-sdk-show-settings">Evästeasetukset</a></li> -->
+            <li>
+                <a href="https://www.almamedia.fi/tietosuoja/" target="_blank" class="external" title="Tietosuojaseloste Edilex Lakitiedon verkkosivulla">
+                    <svg class="icon icon-external-link" aria-hidden="true">
+                        <use xlink:href="#icon-external-link"></use>
+                    </svg>
+                    <span>Tietosuojaseloste</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://lakitieto.edilex.fi/toimitus-ja-kayttoehdot/" target="_blank" class="external" title="Käyttöehdot Edilex Lakitiedon verkkosivulla">
+                    <svg class="icon icon-external-link" aria-hidden="true">
+                        <use xlink:href="#icon-external-link"></use>
+                    </svg>
+                    <span>Käyttöehdot</span>
+                </a>
+            </li>
+            <li><a href="/yhteystiedot">Yhteystiedot</a></li>
+            <li><a href="/some-tilit">Some-tilit</a></li>
+            <li><a href="/palaute">Palaute</a></li>
+        </ul>
+    </div>
+    <div id="edita-digital-services">
+        <h3>Edilex Lakitiedon digitaalisia palveluita</h3>
+        <ul>
+            <li id="edita-digital-services-webshop">
+                <a href="https://lakitieto.edilex.fi/verkkokauppa" target="_blank" class="external">
+                    <svg class="icon icon-edita-fav" aria-hidden="true">
+                        <use xlink:href="#icon-edita-fav"/>
+                    </svg>
+                    <span>Edilex Lakitiedon verkkokauppa</span>
+                </a>
+            </li>
+            <li id="edita-digital-services-credita">
+                <a href="https://www.credita.fi" target="_blank" class="external">
+                    <svg class="icon icon-credita-fav" aria-hidden="true">
+                        <use xlink:href="#icon-credita-fav"/>
+                    </svg>
+                    <span>Credita</span>
+                </a>
+            </li>
+            <li id="edita-digital-services-elintarvike">
+                <a href="https://www.elintarvikelait.fi" target="_blank" class="external">
+                    <svg class="icon icon-elintarvike-fav" aria-hidden="true">
+                        <use xlink:href="#icon-elintarvike-fav"/>
+                    </svg>
+                    <span>Elintarvikelait</span>
+                </a>
+            </li>
+            <li id="edita-digital-services-tel">
+                <a href="https://www.tyoelamanlait.fi" target="_blank" class="external">
+                    <svg class="icon icon-tel-fav" aria-hidden="true">
+                        <use xlink:href="#icon-tel-fav"/>
+                    </svg>
+                    <span>Työelämän lait</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</footer>            <footer id="alma-footer">
+    <!-- ALMA CR WIDGET: -->
+<div
+  class="ALMACR-container"
+  id="ALMACR-container-ALMACR-widget-5577db28b922930e04000019"
+  data-almacr-widget-template-version="2.0.0"
+  data-almacr-widget-id="5577db28b922930e04000019"
+  data-almacr-widget-publisher-id="5577db0eb922930e0800001d"
+>
+  <article lang="fi" class="ALMACR-widget" id="ALMACR-widget-5577db28b922930e04000019">
+    <almamedia-footer></almamedia-footer>
+    <script>
+    (function footerIIFE() {
+      try {
+        /*! @almamedia/footer 2 */
+var Pt=Object.defineProperty,Ut=Object.defineProperties;var zt=Object.getOwnPropertyDescriptors;var At=Object.getOwnPropertySymbols;var Tt=Object.prototype.hasOwnProperty,Ct=Object.prototype.propertyIsEnumerable;var Mt=(R,U,H)=>U in R?Pt(R,U,{enumerable:!0,configurable:!0,writable:!0,value:H}):R[U]=H,xt=(R,U)=>{for(var H in U||(U={}))Tt.call(U,H)&&Mt(R,H,U[H]);if(At)for(var H of At(U))Ct.call(U,H)&&Mt(R,H,U[H]);return R},Et=(R,U)=>Ut(R,zt(U));var Nt=(R,U)=>{var H={};for(var W in R)Tt.call(R,W)&&U.indexOf(W)<0&&(H[W]=R[W]);if(R!=null&&At)for(var W of At(R))U.indexOf(W)<0&&Ct.call(R,W)&&(H[W]=R[W]);return H};var n,l$2,u$3,i$2,r$1,o$1,e$1,f$3,c$2,s$2,a$2,h$2,p$2={},v$2=[],y=/acit|ex(?:s|g|n|p|$)|rph|grid|ows|mnc|ntw|ine[ch]|zoo|^ord|itera/i,w$1=Array.isArray;function d$2(R,U){for(var H in U)R[H]=U[H];return R}function g(R){R&&R.parentNode&&R.parentNode.removeChild(R)}function _(R,U,H){var W,Y,X,Z={};for(X in U)X=="key"?W=U[X]:X=="ref"?Y=U[X]:Z[X]=U[X];if(arguments.length>2&&(Z.children=arguments.length>3?n.call(arguments,2):H),typeof R=="function"&&R.defaultProps!=null)for(X in R.defaultProps)Z[X]===void 0&&(Z[X]=R.defaultProps[X]);return m$2(R,Z,W,Y,null)}function m$2(R,U,H,W,Y){var X={type:R,props:U,key:H,ref:W,__k:null,__:null,__b:0,__e:null,__c:null,constructor:void 0,__v:Y==null?++u$3:Y,__i:-1,__u:0};return Y==null&&l$2.vnode!=null&&l$2.vnode(X),X}function k$1(R){return R.children}function x$1(R,U){this.props=R,this.context=U}function S(R,U){if(U==null)return R.__?S(R.__,R.__i+1):null;for(var H;U<R.__k.length;U++)if((H=R.__k[U])!=null&&H.__e!=null)return H.__e;return typeof R.type=="function"?S(R):null}function C(R){var U,H;if((R=R.__)!=null&&R.__c!=null){for(R.__e=R.__c.base=null,U=0;U<R.__k.length;U++)if((H=R.__k[U])!=null&&H.__e!=null){R.__e=R.__c.base=H.__e;break}return C(R)}}function M(R){(!R.__d&&(R.__d=!0)&&i$2.push(R)&&!$.__r++||r$1!=l$2.debounceRendering)&&((r$1=l$2.debounceRendering)||o$1)($)}function $(){for(var R,U,H,W,Y,X,Z,et=1;i$2.length;)i$2.length>et&&i$2.sort(e$1),R=i$2.shift(),et=i$2.length,R.__d&&(H=void 0,W=void 0,Y=(W=(U=R).__v).__e,X=[],Z=[],U.__P&&((H=d$2({},W)).__v=W.__v+1,l$2.vnode&&l$2.vnode(H),O(U.__P,H,W,U.__n,U.__P.namespaceURI,32&W.__u?[Y]:null,X,Y==null?S(W):Y,!!(32&W.__u),Z),H.__v=W.__v,H.__.__k[H.__i]=H,N(X,H,Z),W.__e=W.__=null,H.__e!=Y&&C(H)));$.__r=0}function I(R,U,H,W,Y,X,Z,et,rt,at,ct){var it,_t,ht,kt,bt,yt,dt,mt=W&&W.__k||v$2,jt=U.length;for(rt=P(H,U,mt,rt,jt),it=0;it<jt;it++)(ht=H.__k[it])!=null&&(_t=ht.__i==-1?p$2:mt[ht.__i]||p$2,ht.__i=it,yt=O(R,ht,_t,Y,X,Z,et,rt,at,ct),kt=ht.__e,ht.ref&&_t.ref!=ht.ref&&(_t.ref&&B$1(_t.ref,null,ht),ct.push(ht.ref,ht.__c||kt,ht)),bt==null&&kt!=null&&(bt=kt),(dt=!!(4&ht.__u))||_t.__k===ht.__k?rt=A(ht,rt,R,dt):typeof ht.type=="function"&&yt!==void 0?rt=yt:kt&&(rt=kt.nextSibling),ht.__u&=-7);return H.__e=bt,rt}function P(R,U,H,W,Y){var X,Z,et,rt,at,ct=H.length,it=ct,_t=0;for(R.__k=new Array(Y),X=0;X<Y;X++)(Z=U[X])!=null&&typeof Z!="boolean"&&typeof Z!="function"?(typeof Z=="string"||typeof Z=="number"||typeof Z=="bigint"||Z.constructor==String?Z=R.__k[X]=m$2(null,Z,null,null,null):w$1(Z)?Z=R.__k[X]=m$2(k$1,{children:Z},null,null,null):Z.constructor==null&&Z.__b>0?Z=R.__k[X]=m$2(Z.type,Z.props,Z.key,Z.ref?Z.ref:null,Z.__v):R.__k[X]=Z,rt=X+_t,Z.__=R,Z.__b=R.__b+1,(at=Z.__i=L(Z,H,rt,it))!=-1&&(it--,(et=H[at])&&(et.__u|=2)),et==null||et.__v==null?(at==-1&&(Y>ct?_t--:Y<ct&&_t++),typeof Z.type!="function"&&(Z.__u|=4)):at!=rt&&(at==rt-1?_t--:at==rt+1?_t++:(at>rt?_t--:_t++,Z.__u|=4))):R.__k[X]=null;if(it)for(X=0;X<ct;X++)(et=H[X])!=null&&(2&et.__u)==0&&(et.__e==W&&(W=S(et)),D$1(et,et));return W}function A(R,U,H,W){var Y,X;if(typeof R.type=="function"){for(Y=R.__k,X=0;Y&&X<Y.length;X++)Y[X]&&(Y[X].__=R,U=A(Y[X],U,H,W));return U}R.__e!=U&&(W&&(U&&R.type&&!U.parentNode&&(U=S(R)),H.insertBefore(R.__e,U||null)),U=R.__e);do U=U&&U.nextSibling;while(U!=null&&U.nodeType==8);return U}function L(R,U,H,W){var Y,X,Z,et=R.key,rt=R.type,at=U[H],ct=at!=null&&(2&at.__u)==0;if(at===null&&et==null||ct&&et==at.key&&rt==at.type)return H;if(W>(ct?1:0)){for(Y=H-1,X=H+1;Y>=0||X<U.length;)if((at=U[Z=Y>=0?Y--:X++])!=null&&(2&at.__u)==0&&et==at.key&&rt==at.type)return Z}return-1}function T(R,U,H){U[0]=="-"?R.setProperty(U,H==null?"":H):R[U]=H==null?"":typeof H!="number"||y.test(U)?H:H+"px"}function j$1(R,U,H,W,Y){var X,Z;t:if(U=="style")if(typeof H=="string")R.style.cssText=H;else{if(typeof W=="string"&&(R.style.cssText=W=""),W)for(U in W)H&&U in H||T(R.style,U,"");if(H)for(U in H)W&&H[U]==W[U]||T(R.style,U,H[U])}else if(U[0]=="o"&&U[1]=="n")X=U!=(U=U.replace(f$3,"$1")),Z=U.toLowerCase(),U=Z in R||U=="onFocusOut"||U=="onFocusIn"?Z.slice(2):U.slice(2),R.l||(R.l={}),R.l[U+X]=H,H?W?H.u=W.u:(H.u=c$2,R.addEventListener(U,X?a$2:s$2,X)):R.removeEventListener(U,X?a$2:s$2,X);else{if(Y=="http://www.w3.org/2000/svg")U=U.replace(/xlink(H|:h)/,"h").replace(/sName$/,"s");else if(U!="width"&&U!="height"&&U!="href"&&U!="list"&&U!="form"&&U!="tabIndex"&&U!="download"&&U!="rowSpan"&&U!="colSpan"&&U!="role"&&U!="popover"&&U in R)try{R[U]=H==null?"":H;break t}catch(et){}typeof H=="function"||(H==null||H===!1&&U[4]!="-"?R.removeAttribute(U):R.setAttribute(U,U=="popover"&&H==1?"":H))}}function F(R){return function(U){if(this.l){var H=this.l[U.type+R];if(U.t==null)U.t=c$2++;else if(U.t<H.u)return;return H(l$2.event?l$2.event(U):U)}}}function O(R,U,H,W,Y,X,Z,et,rt,at){var ct,it,_t,ht,kt,bt,yt,dt,mt,jt,St,tt,pt,nt,ft,vt,gt,wt=U.type;if(U.constructor!=null)return null;128&H.__u&&(rt=!!(32&H.__u),X=[et=U.__e=H.__e]),(ct=l$2.__b)&&ct(U);t:if(typeof wt=="function")try{if(dt=U.props,mt="prototype"in wt&&wt.prototype.render,jt=(ct=wt.contextType)&&W[ct.__c],St=ct?jt?jt.props.value:ct.__:W,H.__c?yt=(it=U.__c=H.__c).__=it.__E:(mt?U.__c=it=new wt(dt,St):(U.__c=it=new x$1(dt,St),it.constructor=wt,it.render=E),jt&&jt.sub(it),it.state||(it.state={}),it.__n=W,_t=it.__d=!0,it.__h=[],it._sb=[]),mt&&it.__s==null&&(it.__s=it.state),mt&&wt.getDerivedStateFromProps!=null&&(it.__s==it.state&&(it.__s=d$2({},it.__s)),d$2(it.__s,wt.getDerivedStateFromProps(dt,it.__s))),ht=it.props,kt=it.state,it.__v=U,_t)mt&&wt.getDerivedStateFromProps==null&&it.componentWillMount!=null&&it.componentWillMount(),mt&&it.componentDidMount!=null&&it.__h.push(it.componentDidMount);else{if(mt&&wt.getDerivedStateFromProps==null&&dt!==ht&&it.componentWillReceiveProps!=null&&it.componentWillReceiveProps(dt,St),U.__v==H.__v||!it.__e&&it.shouldComponentUpdate!=null&&it.shouldComponentUpdate(dt,it.__s,St)===!1){for(U.__v!=H.__v&&(it.props=dt,it.state=it.__s,it.__d=!1),U.__e=H.__e,U.__k=H.__k,U.__k.some(function(ot){ot&&(ot.__=U)}),tt=0;tt<it._sb.length;tt++)it.__h.push(it._sb[tt]);it._sb=[],it.__h.length&&Z.push(it);break t}it.componentWillUpdate!=null&&it.componentWillUpdate(dt,it.__s,St),mt&&it.componentDidUpdate!=null&&it.__h.push(function(){it.componentDidUpdate(ht,kt,bt)})}if(it.context=St,it.props=dt,it.__P=R,it.__e=!1,pt=l$2.__r,nt=0,mt){for(it.state=it.__s,it.__d=!1,pt&&pt(U),ct=it.render(it.props,it.state,it.context),ft=0;ft<it._sb.length;ft++)it.__h.push(it._sb[ft]);it._sb=[]}else do it.__d=!1,pt&&pt(U),ct=it.render(it.props,it.state,it.context),it.state=it.__s;while(it.__d&&++nt<25);it.state=it.__s,it.getChildContext!=null&&(W=d$2(d$2({},W),it.getChildContext())),mt&&!_t&&it.getSnapshotBeforeUpdate!=null&&(bt=it.getSnapshotBeforeUpdate(ht,kt)),vt=ct,ct!=null&&ct.type===k$1&&ct.key==null&&(vt=V(ct.props.children)),et=I(R,w$1(vt)?vt:[vt],U,H,W,Y,X,Z,et,rt,at),it.base=U.__e,U.__u&=-161,it.__h.length&&Z.push(it),yt&&(it.__E=it.__=null)}catch(ot){if(U.__v=null,rt||X!=null)if(ot.then){for(U.__u|=rt?160:128;et&&et.nodeType==8&&et.nextSibling;)et=et.nextSibling;X[X.indexOf(et)]=null,U.__e=et}else{for(gt=X.length;gt--;)g(X[gt]);z$1(U)}else U.__e=H.__e,U.__k=H.__k,ot.then||z$1(U);l$2.__e(ot,U,H)}else X==null&&U.__v==H.__v?(U.__k=H.__k,U.__e=H.__e):et=U.__e=q(H.__e,U,H,W,Y,X,Z,rt,at);return(ct=l$2.diffed)&&ct(U),128&U.__u?void 0:et}function z$1(R){R&&R.__c&&(R.__c.__e=!0),R&&R.__k&&R.__k.forEach(z$1)}function N(R,U,H){for(var W=0;W<H.length;W++)B$1(H[W],H[++W],H[++W]);l$2.__c&&l$2.__c(U,R),R.some(function(Y){try{R=Y.__h,Y.__h=[],R.some(function(X){X.call(Y)})}catch(X){l$2.__e(X,Y.__v)}})}function V(R){return typeof R!="object"||R==null||R.__b&&R.__b>0?R:w$1(R)?R.map(V):d$2({},R)}function q(R,U,H,W,Y,X,Z,et,rt){var at,ct,it,_t,ht,kt,bt,yt=H.props||p$2,dt=U.props,mt=U.type;if(mt=="svg"?Y="http://www.w3.org/2000/svg":mt=="math"?Y="http://www.w3.org/1998/Math/MathML":Y||(Y="http://www.w3.org/1999/xhtml"),X!=null){for(at=0;at<X.length;at++)if((ht=X[at])&&"setAttribute"in ht==!!mt&&(mt?ht.localName==mt:ht.nodeType==3)){R=ht,X[at]=null;break}}if(R==null){if(mt==null)return document.createTextNode(dt);R=document.createElementNS(Y,mt,dt.is&&dt),et&&(l$2.__m&&l$2.__m(U,X),et=!1),X=null}if(mt==null)yt===dt||et&&R.data==dt||(R.data=dt);else{if(X=X&&n.call(R.childNodes),!et&&X!=null)for(yt={},at=0;at<R.attributes.length;at++)yt[(ht=R.attributes[at]).name]=ht.value;for(at in yt)if(ht=yt[at],at!="children"){if(at=="dangerouslySetInnerHTML")it=ht;else if(!(at in dt)){if(at=="value"&&"defaultValue"in dt||at=="checked"&&"defaultChecked"in dt)continue;j$1(R,at,null,ht,Y)}}for(at in dt)ht=dt[at],at=="children"?_t=ht:at=="dangerouslySetInnerHTML"?ct=ht:at=="value"?kt=ht:at=="checked"?bt=ht:et&&typeof ht!="function"||yt[at]===ht||j$1(R,at,ht,yt[at],Y);if(ct)et||it&&(ct.__html==it.__html||ct.__html==R.innerHTML)||(R.innerHTML=ct.__html),U.__k=[];else if(it&&(R.innerHTML=""),I(U.type=="template"?R.content:R,w$1(_t)?_t:[_t],U,H,W,mt=="foreignObject"?"http://www.w3.org/1999/xhtml":Y,X,Z,X?X[0]:H.__k&&S(H,0),et,rt),X!=null)for(at=X.length;at--;)g(X[at]);et||(at="value",mt=="progress"&&kt==null?R.removeAttribute("value"):kt!=null&&(kt!==R[at]||mt=="progress"&&!kt||mt=="option"&&kt!=yt[at])&&j$1(R,at,kt,yt[at],Y),at="checked",bt!=null&&bt!=R[at]&&j$1(R,at,bt,yt[at],Y))}return R}function B$1(R,U,H){try{if(typeof R=="function"){var W=typeof R.__u=="function";W&&R.__u(),W&&U==null||(R.__u=R(U))}else R.current=U}catch(Y){l$2.__e(Y,H)}}function D$1(R,U,H){var W,Y;if(l$2.unmount&&l$2.unmount(R),(W=R.ref)&&(W.current&&W.current!=R.__e||B$1(W,null,U)),(W=R.__c)!=null){if(W.componentWillUnmount)try{W.componentWillUnmount()}catch(X){l$2.__e(X,U)}W.base=W.__P=null}if(W=R.__k)for(Y=0;Y<W.length;Y++)W[Y]&&D$1(W[Y],U,H||typeof R.type!="function");H||g(R.__e),R.__c=R.__=R.__e=void 0}function E(R,U,H){return this.constructor(R,H)}function G(R,U,H){var W,Y,X,Z;U==document&&(U=document.documentElement),l$2.__&&l$2.__(R,U),Y=(W=typeof H=="function")?null:H&&H.__k||U.__k,X=[],Z=[],O(U,R=(!W&&H||U).__k=_(k$1,null,[R]),Y||p$2,p$2,U.namespaceURI,!W&&H?[H]:Y?null:U.firstChild?n.call(U.childNodes):null,X,!W&&H?H:Y?Y.__e:U.firstChild,W,Z),N(X,R,Z)}function J(R,U){G(R,U,J)}function K(R,U,H){var W,Y,X,Z,et=d$2({},R.props);for(X in R.type&&R.type.defaultProps&&(Z=R.type.defaultProps),U)X=="key"?W=U[X]:X=="ref"?Y=U[X]:et[X]=U[X]===void 0&&Z!=null?Z[X]:U[X];return arguments.length>2&&(et.children=arguments.length>3?n.call(arguments,2):H),m$2(R.type,et,W||R.key,Y||R.ref,null)}function Q(R){function U(H){var W,Y;return this.getChildContext||(W=new Set,(Y={})[U.__c]=this,this.getChildContext=function(){return Y},this.componentWillUnmount=function(){W=null},this.shouldComponentUpdate=function(X){this.props.value!=X.value&&W.forEach(function(Z){Z.__e=!0,M(Z)})},this.sub=function(X){W.add(X);var Z=X.componentWillUnmount;X.componentWillUnmount=function(){W&&W.delete(X),Z&&Z.call(X)}}),H.children}return U.__c="__cC"+h$2++,U.__=R,U.Provider=U.__l=(U.Consumer=function(H,W){return H.children(W)}).contextType=U,U}n=v$2.slice,l$2={__e:function(R,U,H,W){for(var Y,X,Z;U=U.__;)if((Y=U.__c)&&!Y.__)try{if((X=Y.constructor)&&X.getDerivedStateFromError!=null&&(Y.setState(X.getDerivedStateFromError(R)),Z=Y.__d),Y.componentDidCatch!=null&&(Y.componentDidCatch(R,W||{}),Z=Y.__d),Z)return Y.__E=Y}catch(et){R=et}throw R}},u$3=0,x$1.prototype.setState=function(R,U){var H;H=this.__s!=null&&this.__s!=this.state?this.__s:this.__s=d$2({},this.state),typeof R=="function"&&(R=R(d$2({},H),this.props)),R&&d$2(H,R),R!=null&&this.__v&&(U&&this._sb.push(U),M(this))},x$1.prototype.forceUpdate=function(R){this.__v&&(this.__e=!0,R&&this.__h.push(R),M(this))},x$1.prototype.render=k$1,i$2=[],o$1=typeof Promise=="function"?Promise.prototype.then.bind(Promise.resolve()):setTimeout,e$1=function(R,U){return R.__v.__b-U.__v.__b},$.__r=0,f$3=/(PointerCapture)$|Capture$/i,c$2=0,s$2=F(!1),a$2=F(!0),h$2=0;var f$2=0;function u$2(R,U,H,W,Y,X){U||(U={});var Z,et,rt=U;if("ref"in rt)for(et in rt={},U)et=="ref"?Z=U[et]:rt[et]=U[et];var at={type:R,props:rt,key:H,ref:Z,__k:null,__:null,__b:0,__e:null,__c:null,constructor:void 0,__v:--f$2,__i:-1,__u:0,__source:Y,__self:X};if(typeof R=="function"&&(Z=R.defaultProps))for(et in Z)rt[et]===void 0&&(rt[et]=Z[et]);return l$2.vnode&&l$2.vnode(at),at}var t,r,u$1,i$1,o=0,f$1=[],c$1=l$2,e=c$1.__b,a$1=c$1.__r,v$1=c$1.diffed,l$1=c$1.__c,m$1=c$1.unmount,s$1=c$1.__;function p$1(R,U){c$1.__h&&c$1.__h(r,R,o||U),o=0;var H=r.__H||(r.__H={__:[],__h:[]});return R>=H.__.length&&H.__.push({}),H.__[R]}function d$1(R){return o=1,h$1(D,R)}function h$1(R,U,H){var W=p$1(t++,2);if(W.t=R,!W.__c&&(W.__=[D(void 0,U),function(et){var rt=W.__N?W.__N[0]:W.__[0],at=W.t(rt,et);rt!==at&&(W.__N=[at,W.__[1]],W.__c.setState({}))}],W.__c=r,!r.__f)){var Y=function(et,rt,at){if(!W.__c.__H)return!0;var ct=W.__c.__H.__.filter(function(_t){return!!_t.__c});if(ct.every(function(_t){return!_t.__N}))return!X||X.call(this,et,rt,at);var it=W.__c.props!==et;return ct.forEach(function(_t){if(_t.__N){var ht=_t.__[0];_t.__=_t.__N,_t.__N=void 0,ht!==_t.__[0]&&(it=!0)}}),X&&X.call(this,et,rt,at)||it};r.__f=!0;var X=r.shouldComponentUpdate,Z=r.componentWillUpdate;r.componentWillUpdate=function(et,rt,at){if(this.__e){var ct=X;X=void 0,Y(et,rt,at),X=ct}Z&&Z.call(this,et,rt,at)},r.shouldComponentUpdate=Y}return W.__N||W.__}function x(R){var U=r.context[R.__c],H=p$1(t++,9);return H.c=R,U?(H.__==null&&(H.__=!0,U.sub(r)),U.props.value):R.__}function b(R){var U=p$1(t++,10),H=d$1();return U.__=R,r.componentDidCatch||(r.componentDidCatch=function(W,Y){U.__&&U.__(W,Y),H[1](W)}),[H[0],function(){H[1](void 0)}]}function j(){for(var R;R=f$1.shift();)if(R.__P&&R.__H)try{R.__H.__h.forEach(z),R.__H.__h.forEach(B),R.__H.__h=[]}catch(U){R.__H.__h=[],c$1.__e(U,R.__v)}}c$1.__b=function(R){r=null,e&&e(R)},c$1.__=function(R,U){R&&U.__k&&U.__k.__m&&(R.__m=U.__k.__m),s$1&&s$1(R,U)},c$1.__r=function(R){a$1&&a$1(R),t=0;var U=(r=R.__c).__H;U&&(u$1===r?(U.__h=[],r.__h=[],U.__.forEach(function(H){H.__N&&(H.__=H.__N),H.u=H.__N=void 0})):(U.__h.forEach(z),U.__h.forEach(B),U.__h=[],t=0)),u$1=r},c$1.diffed=function(R){v$1&&v$1(R);var U=R.__c;U&&U.__H&&(U.__H.__h.length&&(f$1.push(U)!==1&&i$1===c$1.requestAnimationFrame||((i$1=c$1.requestAnimationFrame)||w)(j)),U.__H.__.forEach(function(H){H.u&&(H.__H=H.u),H.u=void 0})),u$1=r=null},c$1.__c=function(R,U){U.some(function(H){try{H.__h.forEach(z),H.__h=H.__h.filter(function(W){return!W.__||B(W)})}catch(W){U.some(function(Y){Y.__h&&(Y.__h=[])}),U=[],c$1.__e(W,H.__v)}}),l$1&&l$1(R,U)},c$1.unmount=function(R){m$1&&m$1(R);var U,H=R.__c;H&&H.__H&&(H.__H.__.forEach(function(W){try{z(W)}catch(Y){U=Y}}),H.__H=void 0,U&&c$1.__e(U,H.__v))};var k=typeof requestAnimationFrame=="function";function w(R){var U,H=function(){clearTimeout(W),k&&cancelAnimationFrame(U),setTimeout(R)},W=setTimeout(H,35);k&&(U=requestAnimationFrame(H))}function z(R){var U=r,H=R.__c;typeof H=="function"&&(R.__c=void 0,H()),r=U}function B(R){var U=r;R.__c=R.__(),r=U}function D(R,U){return typeof U=="function"?U(R):U}const LangContext=Q("fi"),LangContextProvider=LangContext.Provider,RootContext=Q(null),RootContextProvider=RootContext.Provider,useRootHook=()=>x(RootContext);function getDefaultExportFromCjs(R){return R&&R.__esModule&&Object.prototype.hasOwnProperty.call(R,"default")?R.default:R}var md5$1={exports:{}},md5=md5$1.exports,hasRequiredMd5;function requireMd5(){return hasRequiredMd5||(hasRequiredMd5=1,(function(R){(function(U){function H(tt,pt){var nt=(tt&65535)+(pt&65535),ft=(tt>>16)+(pt>>16)+(nt>>16);return ft<<16|nt&65535}function W(tt,pt){return tt<<pt|tt>>>32-pt}function Y(tt,pt,nt,ft,vt,gt){return H(W(H(H(pt,tt),H(ft,gt)),vt),nt)}function X(tt,pt,nt,ft,vt,gt,wt){return Y(pt&nt|~pt&ft,tt,pt,vt,gt,wt)}function Z(tt,pt,nt,ft,vt,gt,wt){return Y(pt&ft|nt&~ft,tt,pt,vt,gt,wt)}function et(tt,pt,nt,ft,vt,gt,wt){return Y(pt^nt^ft,tt,pt,vt,gt,wt)}function rt(tt,pt,nt,ft,vt,gt,wt){return Y(nt^(pt|~ft),tt,pt,vt,gt,wt)}function at(tt,pt){tt[pt>>5]|=128<<pt%32,tt[(pt+64>>>9<<4)+14]=pt;var nt,ft,vt,gt,wt,ot=1732584193,st=-271733879,lt=-1732584194,ut=271733878;for(nt=0;nt<tt.length;nt+=16)ft=ot,vt=st,gt=lt,wt=ut,ot=X(ot,st,lt,ut,tt[nt],7,-680876936),ut=X(ut,ot,st,lt,tt[nt+1],12,-389564586),lt=X(lt,ut,ot,st,tt[nt+2],17,606105819),st=X(st,lt,ut,ot,tt[nt+3],22,-1044525330),ot=X(ot,st,lt,ut,tt[nt+4],7,-176418897),ut=X(ut,ot,st,lt,tt[nt+5],12,1200080426),lt=X(lt,ut,ot,st,tt[nt+6],17,-1473231341),st=X(st,lt,ut,ot,tt[nt+7],22,-45705983),ot=X(ot,st,lt,ut,tt[nt+8],7,1770035416),ut=X(ut,ot,st,lt,tt[nt+9],12,-1958414417),lt=X(lt,ut,ot,st,tt[nt+10],17,-42063),st=X(st,lt,ut,ot,tt[nt+11],22,-1990404162),ot=X(ot,st,lt,ut,tt[nt+12],7,1804603682),ut=X(ut,ot,st,lt,tt[nt+13],12,-40341101),lt=X(lt,ut,ot,st,tt[nt+14],17,-1502002290),st=X(st,lt,ut,ot,tt[nt+15],22,1236535329),ot=Z(ot,st,lt,ut,tt[nt+1],5,-165796510),ut=Z(ut,ot,st,lt,tt[nt+6],9,-1069501632),lt=Z(lt,ut,ot,st,tt[nt+11],14,643717713),st=Z(st,lt,ut,ot,tt[nt],20,-373897302),ot=Z(ot,st,lt,ut,tt[nt+5],5,-701558691),ut=Z(ut,ot,st,lt,tt[nt+10],9,38016083),lt=Z(lt,ut,ot,st,tt[nt+15],14,-660478335),st=Z(st,lt,ut,ot,tt[nt+4],20,-405537848),ot=Z(ot,st,lt,ut,tt[nt+9],5,568446438),ut=Z(ut,ot,st,lt,tt[nt+14],9,-1019803690),lt=Z(lt,ut,ot,st,tt[nt+3],14,-187363961),st=Z(st,lt,ut,ot,tt[nt+8],20,1163531501),ot=Z(ot,st,lt,ut,tt[nt+13],5,-1444681467),ut=Z(ut,ot,st,lt,tt[nt+2],9,-51403784),lt=Z(lt,ut,ot,st,tt[nt+7],14,1735328473),st=Z(st,lt,ut,ot,tt[nt+12],20,-1926607734),ot=et(ot,st,lt,ut,tt[nt+5],4,-378558),ut=et(ut,ot,st,lt,tt[nt+8],11,-2022574463),lt=et(lt,ut,ot,st,tt[nt+11],16,1839030562),st=et(st,lt,ut,ot,tt[nt+14],23,-35309556),ot=et(ot,st,lt,ut,tt[nt+1],4,-1530992060),ut=et(ut,ot,st,lt,tt[nt+4],11,1272893353),lt=et(lt,ut,ot,st,tt[nt+7],16,-155497632),st=et(st,lt,ut,ot,tt[nt+10],23,-1094730640),ot=et(ot,st,lt,ut,tt[nt+13],4,681279174),ut=et(ut,ot,st,lt,tt[nt],11,-358537222),lt=et(lt,ut,ot,st,tt[nt+3],16,-722521979),st=et(st,lt,ut,ot,tt[nt+6],23,76029189),ot=et(ot,st,lt,ut,tt[nt+9],4,-640364487),ut=et(ut,ot,st,lt,tt[nt+12],11,-421815835),lt=et(lt,ut,ot,st,tt[nt+15],16,530742520),st=et(st,lt,ut,ot,tt[nt+2],23,-995338651),ot=rt(ot,st,lt,ut,tt[nt],6,-198630844),ut=rt(ut,ot,st,lt,tt[nt+7],10,1126891415),lt=rt(lt,ut,ot,st,tt[nt+14],15,-1416354905),st=rt(st,lt,ut,ot,tt[nt+5],21,-57434055),ot=rt(ot,st,lt,ut,tt[nt+12],6,1700485571),ut=rt(ut,ot,st,lt,tt[nt+3],10,-1894986606),lt=rt(lt,ut,ot,st,tt[nt+10],15,-1051523),st=rt(st,lt,ut,ot,tt[nt+1],21,-2054922799),ot=rt(ot,st,lt,ut,tt[nt+8],6,1873313359),ut=rt(ut,ot,st,lt,tt[nt+15],10,-30611744),lt=rt(lt,ut,ot,st,tt[nt+6],15,-1560198380),st=rt(st,lt,ut,ot,tt[nt+13],21,1309151649),ot=rt(ot,st,lt,ut,tt[nt+4],6,-145523070),ut=rt(ut,ot,st,lt,tt[nt+11],10,-1120210379),lt=rt(lt,ut,ot,st,tt[nt+2],15,718787259),st=rt(st,lt,ut,ot,tt[nt+9],21,-343485551),ot=H(ot,ft),st=H(st,vt),lt=H(lt,gt),ut=H(ut,wt);return[ot,st,lt,ut]}function ct(tt){var pt,nt="",ft=tt.length*32;for(pt=0;pt<ft;pt+=8)nt+=String.fromCharCode(tt[pt>>5]>>>pt%32&255);return nt}function it(tt){var pt,nt=[];for(nt[(tt.length>>2)-1]=void 0,pt=0;pt<nt.length;pt+=1)nt[pt]=0;var ft=tt.length*8;for(pt=0;pt<ft;pt+=8)nt[pt>>5]|=(tt.charCodeAt(pt/8)&255)<<pt%32;return nt}function _t(tt){return ct(at(it(tt),tt.length*8))}function ht(tt,pt){var nt,ft=it(tt),vt=[],gt=[],wt;for(vt[15]=gt[15]=void 0,ft.length>16&&(ft=at(ft,tt.length*8)),nt=0;nt<16;nt+=1)vt[nt]=ft[nt]^909522486,gt[nt]=ft[nt]^1549556828;return wt=at(vt.concat(it(pt)),512+pt.length*8),ct(at(gt.concat(wt),640))}function kt(tt){var pt="0123456789abcdef",nt="",ft,vt;for(vt=0;vt<tt.length;vt+=1)ft=tt.charCodeAt(vt),nt+=pt.charAt(ft>>>4&15)+pt.charAt(ft&15);return nt}function bt(tt){return unescape(encodeURIComponent(tt))}function yt(tt){return _t(bt(tt))}function dt(tt){return kt(yt(tt))}function mt(tt,pt){return ht(bt(tt),bt(pt))}function jt(tt,pt){return kt(mt(tt,pt))}function St(tt,pt,nt){return pt?nt?mt(pt,tt):jt(pt,tt):nt?yt(tt):dt(tt)}R.exports?R.exports=St:U.md5=St})(md5)})(md5$1)),md5$1.exports}var md5Exports=requireMd5();const blueimpMd5=getDefaultExportFromCjs(md5Exports);function md5Hex(R){return Array.isArray(R)&&(R=R.join("")),blueimpMd5(R)}let store$4;function getGlobalConfig(R){return{lang:store$4==null?void 0:store$4.lang,message:R==null?void 0:R.message,abortEarly:store$4==null?void 0:store$4.abortEarly,abortPipeEarly:store$4==null?void 0:store$4.abortPipeEarly}}let store$3;function getGlobalMessage(R){return store$3==null?void 0:store$3.get(R)}let store$2;function getSchemaMessage(R){return store$2==null?void 0:store$2.get(R)}let store$1;function getSpecificMessage(R,U){var H;return(H=store$1==null?void 0:store$1.get(R))==null?void 0:H.get(U)}function _stringify(R){var H,W,Y;const U=typeof R;return U==="string"?'"'.concat(R,'"'):U==="number"||U==="bigint"||U==="boolean"?"".concat(R):U==="object"||U==="function"?(Y=R&&((W=(H=Object.getPrototypeOf(R))==null?void 0:H.constructor)==null?void 0:W.name))!=null?Y:"null":U}function _addIssue(R,U,H,W,Y){var it,_t,ht,kt,bt,yt,dt,mt;const X=Y&&"input"in Y?Y.input:H.value,Z=(_t=(it=Y==null?void 0:Y.expected)!=null?it:R.expects)!=null?_t:null,et=(ht=Y==null?void 0:Y.received)!=null?ht:_stringify(X),rt={kind:R.kind,type:R.type,input:X,expected:Z,received:et,message:"Invalid ".concat(U,": ").concat(Z?"Expected ".concat(Z," but r"):"R","eceived ").concat(et),requirement:R.requirement,path:Y==null?void 0:Y.path,issues:Y==null?void 0:Y.issues,lang:W.lang,abortEarly:W.abortEarly,abortPipeEarly:W.abortPipeEarly},at=R.kind==="schema",ct=(mt=(dt=(yt=(bt=(kt=Y==null?void 0:Y.message)!=null?kt:R.message)!=null?bt:getSpecificMessage(R.reference,rt.lang))!=null?yt:at?getSchemaMessage(rt.lang):null)!=null?dt:W.message)!=null?mt:getGlobalMessage(rt.lang);ct!==void 0&&(rt.message=typeof ct=="function"?ct(rt):ct),at&&(H.typed=!1),H.issues?H.issues.push(rt):H.issues=[rt]}function _getStandardProps(R){return{version:1,vendor:"valibot",validate(U){return R["~run"]({value:U},getGlobalConfig())}}}function _joinExpects(R,U){var W;const H=[...new Set(R)];return H.length>1?"(".concat(H.join(" ".concat(U," ")),")"):(W=H[0])!=null?W:"never"}var ValiError=class extends Error{constructor(R){super(R[0].message),this.name="ValiError",this.issues=R}};function regex(R,U){return{kind:"validation",type:"regex",reference:regex,async:!1,expects:"".concat(R),requirement:R,message:U,"~run"(H,W){return H.typed&&!this.requirement.test(H.value)&&_addIssue(this,"format",H,W),H}}}function url(R){return{kind:"validation",type:"url",reference:url,async:!1,expects:null,requirement(U){try{return new URL(U),!0}catch(H){return!1}},message:R,"~run"(U,H){return U.typed&&!this.requirement(U.value)&&_addIssue(this,"URL",U,H),U}}}function getFallback(R,U,H){return typeof R.fallback=="function"?R.fallback(U,H):R.fallback}function getDefault(R,U,H){return typeof R.default=="function"?R.default(U,H):R.default}function array(R,U){return{kind:"schema",type:"array",reference:array,expects:"Array",async:!1,item:R,message:U,get"~standard"(){return _getStandardProps(this)},"~run"(H,W){var X;const Y=H.value;if(Array.isArray(Y)){H.typed=!0,H.value=[];for(let Z=0;Z<Y.length;Z++){const et=Y[Z],rt=this.item["~run"]({value:et},W);if(rt.issues){const at={type:"array",origin:"value",input:Y,key:Z,value:et};for(const ct of rt.issues)ct.path?ct.path.unshift(at):ct.path=[at],(X=H.issues)==null||X.push(ct);if(H.issues||(H.issues=rt.issues),W.abortEarly){H.typed=!1;break}}rt.typed||(H.typed=!1),H.value.push(rt.value)}}else _addIssue(this,"type",H,W);return H}}}function object(R,U){return{kind:"schema",type:"object",reference:object,expects:"Object",async:!1,entries:R,message:U,get"~standard"(){return _getStandardProps(this)},"~run"(H,W){var X;const Y=H.value;if(Y&&typeof Y=="object"){H.typed=!0,H.value={};for(const Z in this.entries){const et=this.entries[Z];if(Z in Y||(et.type==="exact_optional"||et.type==="optional"||et.type==="nullish")&&et.default!==void 0){const rt=Z in Y?Y[Z]:getDefault(et),at=et["~run"]({value:rt},W);if(at.issues){const ct={type:"object",origin:"value",input:Y,key:Z,value:rt};for(const it of at.issues)it.path?it.path.unshift(ct):it.path=[ct],(X=H.issues)==null||X.push(it);if(H.issues||(H.issues=at.issues),W.abortEarly){H.typed=!1;break}}at.typed||(H.typed=!1),H.value[Z]=at.value}else if(et.fallback!==void 0)H.value[Z]=getFallback(et);else if(et.type!=="exact_optional"&&et.type!=="optional"&&et.type!=="nullish"&&(_addIssue(this,"key",H,W,{input:void 0,expected:'"'.concat(Z,'"'),path:[{type:"object",origin:"key",input:Y,key:Z,value:Y[Z]}]}),W.abortEarly))break}}else _addIssue(this,"type",H,W);return H}}}function string(R){return{kind:"schema",type:"string",reference:string,expects:"string",async:!1,message:R,get"~standard"(){return _getStandardProps(this)},"~run"(U,H){return typeof U.value=="string"?U.typed=!0:_addIssue(this,"type",U,H),U}}}function _subIssues(R){let U;if(R)for(const H of R)U?U.push(...H.issues):U=H.issues;return U}function union(R,U){return{kind:"schema",type:"union",reference:union,expects:_joinExpects(R.map(H=>H.expects),"|"),async:!1,options:R,message:U,get"~standard"(){return _getStandardProps(this)},"~run"(H,W){let Y,X,Z;for(const et of this.options){const rt=et["~run"]({value:H.value},W);if(rt.typed)if(rt.issues)X?X.push(rt):X=[rt];else{Y=rt;break}else Z?Z.push(rt):Z=[rt]}if(Y)return Y;if(X){if(X.length===1)return X[0];_addIssue(this,"type",H,W,{issues:_subIssues(X)}),H.typed=!0}else{if((Z==null?void 0:Z.length)===1)return Z[0];_addIssue(this,"type",H,W,{issues:_subIssues(Z)})}return H}}}function parse$1(R,U,H){const W=R["~run"]({value:U},getGlobalConfig(H));if(W.issues)throw new ValiError(W.issues);return W.value}function pipe(...R){return Et(xt({},R[0]),{pipe:R,get"~standard"(){return _getStandardProps(this)},"~run"(U,H){for(const W of R)if(W.kind!=="metadata"){if(U.issues&&(W.kind==="schema"||W.kind==="transformation")){U.typed=!1;break}(!U.issues||!H.abortEarly&&!H.abortPipeEarly)&&(U=W["~run"](U,H))}return U}})}const blocks$1=JSON.parse('[{"name":"Ajassa","items":[{"text":"Iltalehti.fi","url":"https://www.iltalehti.fi","title":"Uutiset, urheilu, viihde ja lifestyle","md":"[Uutiset](https://www.iltalehti.fi/uutiset \\"Uutiset\\"), [urheilu](https://www.iltalehti.fi/urheilu \\"urheilu\\"), [viihde](https://www.iltalehti.fi/viihde \\"viihde\\") ja [TV-ohjelmat](https://www.iltalehti.fi/telkku/ \\"TV-ohjelmat\\")"},{"text":"Kauppalehti","url":" https://www.kauppalehti.fi/","title":"Kauppalehti","md":"[Talousuutiset](https://www.kauppalehti.fi/uutiset \\"Talousuutiset\\"), [yritykset](https://www.kauppalehti.fi/yritykset \\"yritykset\\") ja [p\xF6rssikurssit](https://www.kauppalehti.fi/porssi \\"p\xF6rssikurssit\\")"},{"text":"Talousel\xE4m\xE4","url":"https://www.talouselama.fi/","title":"Talousuutiset, taustat ja seuraukset","md":"[Talousuutiset](https://www.talouselama.fi/uutiset \\"Talousuutiset\\"), [analyysit](https://www.talouselama.fi/analyysit \\"analyysit\\") ja [yrityskaupat](https://www.talouselama.fi/aiheet/yrityskaupat \\"yritysaupat\\")"},{"text":"Uusi Suomi","url":"https://www.uusisuomi.fi/","title":"Uusi Suomi","md":"Politiikan ja yhteiskunnan uutiset ja analyysit"},{"text":"Arvopaperi","url":"https://www.arvopaperi.fi/","title":"Arvopaperi","md":"[Sijoittajan uutiset](https://www.arvopaperi.fi/uutiset \\"Sijoittajan uutiset\\"), [analyysit](https://www.arvopaperi.fi/analyysi \\"analyysit\\") ja [listautumiset](https://www.arvopaperi.fi/listautumiset \\"listautumiset\\")"},{"text":"Ampparit.com","url":"https://www.ampparit.com/","title":"Tuoreimmat uutiset","md":"[Uutiset](https://www.ampparit.com/uutiset \\"Uutiset\\"), [Urheilu](https://www.ampparit.com/urheilu \\"Urheilu\\") ja [TV-opas](https://www.ampparit.com/tv \\"TV-opas\\")"},{"text":"IL-TV","url":"https://www.iltalehti.fi/iltv/","title":"Tuoreimmat uutisvideot","md":"Tuoreimmat uutisvideot"},{"text":"P\xE4iv\xE4n s\xE4\xE4","url":"https://www.iltalehti.fi/saa/","title":"P\xE4iv\xE4n s\xE4\xE4","md":"[S\xE4\xE4ennuste](https://www.iltalehti.fi/saa/9paivaa \\"S\xE4\xE4ennuste\\") ja [sadetutkat](https://www.iltalehti.fi/saa/sadetutka \\"sadetutkat\\")"},{"text":"Konep\xF6rssi","url":"https://www.koneporssi.com/","title":"Ty\xF6koneiden ja kuljetuskaluston erikoislehti","md":"Ty\xF6koneiden ja kuljetuskaluston erikoislehti"}]},{"name":"Vapaalla","items":[{"text":"Etuovi.com","url":"https://www.etuovi.com","title":"Asunnot","md":"[Myyt\xE4v\xE4t asunnot](https://www.etuovi.com/myytavat-asunnot \\"Myyt\xE4v\xE4t asunnot\\") ja [asunnon hinta-arvio](https://www.etuovi.com/asunnon-hinta-arvio \\"asunnon hinta-arvio\\")"},{"text":"Nettiauto","url":"https://www.nettiauto.com/","title":"Vaihtoautot, heti ajoon -autot ja s\xE4hk\xF6autot","md":"[Vaihtoautot](https://www.nettiauto.com/vaihtoautot \\"Vaihtoautot\\"), [heti ajoon -autot](https://www.nettiauto.com/pikalinkit/heti-ajoon \\"heti ajoon -autot\\") ja [s\xE4hk\xF6autot](https://www.nettiauto.com/vaihtoautot/sahkoautot \\"s\xE4hk\xF6autot\\")"},{"text":"Baana","url":"https://baana.nettiauto.com/","title":"Myy autosi jopa 48 tunnissa","md":"Kilpailuta kerralla autoliikkeet ja myy autosi jopa 48 tunnissa"},{"text":"Autotalli.com","url":"https://www.autotalli.com","title":"Autotalli.com","md":"[Vaihtoautot](https://www.autotalli.com/vaihtoautot \\"Vaihtoautot\\"), [uudet autot](https://www.autotalli.com/uudet-autot/listaa \\"uudet autot\\"), [s\xE4hk\xF6autot](https://www.autotalli.com/vaihtoautot/listaa/polttoaine/sahko \\"s\xE4hk\xF6autot\\") ja [leasing-autot](https://www.autotalli.com/leasing-autot/listaa/auton_tyyppi/kaikki-sopimukset \\"leasing-autot\\")"},{"text":"AutoJerry.fi","url":"https://autojerry.fi/","title":"Kilpailuta paras autokorjaamo tai autohuolto helposti","md":"Autohuollot"},{"text":"Iltalehti","url":"https://www.iltalehti.fi/","title":"Iltalehti","md":"[Uutiset](https://www.iltalehti.fi/uutiset \\"Uutiset\\"), [muoti](https://www.iltalehti.fi/tyylicom \\"muoti\\") ja [viihde](https://www.iltalehti.fi/viihde \\"viihde\\")"},{"text":"Urakkamaailma.fi","url":"https://www.urakkamaailma.fi/","title":"L\xF6yd\xE4 remontillesi luotettava tekij\xE4","md":"L\xF6yd\xE4 remontillesi luotettava tekij\xE4"},{"text":"Katsastushinnat.fi","url":"https://katsastushinnat.fi/","title":"Suomen parhaat katsastusasemat","md":"Suomen parhaat katsastusasemat"},{"text":"IL-TV","url":"https://www.iltalehti.fi/iltv/","title":"Ideoita ja inspiraatiota","md":"Ideoita ja inspiraatiota"},{"text":"Telkku","url":"https://www.iltalehti.fi/telkku","title":"TV-ohjelmat","md":"[TV-ohjelmat](https://www.iltalehti.fi/telkku/), [TV-elokuvat](https://www.iltalehti.fi/telkku/elokuvat) ja [TV-opas](https://www.iltalehti.fi/telkku/)"},{"text":"Mikrobitti","url":"https://www.iltalehti.fi/bitti","title":"Mikrobitti","md":"[Digiuutiset](https://www.iltalehti.fi/digiuutiset \\"Digiuutiset\\"), [testit](https://www.iltalehti.fi/testi \\"testit\\") ja [oppaat](https://www.iltalehti.fi/oppaat \\"oppaat\\")"},{"text":"Vuokraovi.com","url":"https://www.vuokraovi.com","title":"Vuokraovi","md":"[Vuokra-asunnot](https://www.vuokraovi.com/haku/vuokra-asunnot \\"Vuokra-asunnot\\")"},{"text":"Etua.fi","url":"https://www.etua.fi","title":"Monipuolinen lainapalvelu","md":"[Kulutusluotot](https://www.etua.fi/kulutusluotto \\"Kulutusluotot\\"), [yrityslainat](https://www.etua.fi/yrityslaina \\"yrityslainat\\") ja [asuntolainat](https://www.etua.fi/asuntolaina \\"asuntolainat\\")"},{"text":"Kattokorko.fi","url":"https://www.kattokorko.fi","title":"Edullisin lainavertailu","md":"Edullisin lainavertailu"},{"text":"Muuttomaailma.fi","url":"https://www.muuttomaailma.fi/","title":"Muuttopalvelut","md":"Muuttopalvelut"},{"text":"Ampparit.com","url":"https://www.ampparit.com/","title":"Tuoreimmat uutiset","md":"[Uutiset](https://www.ampparit.com/uutiset \\"Uutiset\\"), [urheilu](https://www.ampparit.com/urheilu \\"Urheilu\\") ja [TV-opas](https://www.ampparit.com/tv \\"TV-opas\\")"},{"text":"Nettimoto","url":"https://www.nettimoto.com/","title":"K\xE4ytetyt moottoripy\xF6r\xE4t, m\xF6nkij\xE4t ja moottorikelkat","md":"[Moottoripy\xF6r\xE4t](https://www.nettimoto.com/pikalinkit/moottoripyorat \\"Moottoripy\xF6r\xE4t\\"), [m\xF6nkij\xE4t](https://www.nettimoto.com/pikalinkit/monkijat \\"m\xF6nkij\xE4t\\") ja [moottorikelkat](https://www.nettimoto.com/pikalinkit/moottorikelkat \\"moottorikelkat\\")"},{"text":"Nettivene","url":"https://www.nettivene.com/","title":"K\xE4ytetyt veneet, vaihtoveneet, uudet veneet","md":"[Moottoriveneet](https://www.nettivene.com/pikalinkit/moottoriveneet \\"Moottoriveneet\\"), [pulpettiveneet](https://www.nettivene.com/pikalinkit/pulpettiveneet \\"pulpettiveneet\\") ja [purjeveneet](https://www.nettivene.com/pikalinkit/purjeveneet \\"purjeveneet\\")"},{"text":"Nettikone","url":"https://www.nettikone.com/","title":"Vaihtokoneet, mets\xE4koneet ja maatalouskoneet","md":"[Kuljetuskalusto](https://www.nettikone.com/pikalinkit/kuljetuskalusto \\"Kuljetuskalusto\\"), [maatalouskoneet](https://www.nettikone.com/pikalinkit/maatalouskoneet \\"Maatalouskoneet\\") ja [mets\xE4koneet](https://www.nettikone.com/pikalinkit/metsakoneet \\"Mets\xE4koneet\\")"},{"text":"Nettim\xF6kki","url":"https://www.nettimokki.com/","title":"3000 vuokram\xF6kki\xE4 ymp\xE4ri Suomen","md":"3000 vuokram\xF6kki\xE4 ymp\xE4ri Suomen"},{"text":"Nettikaravaani","url":"https://www.nettikaravaani.com/","title":"Matkailuautot, asuntoautot ja asuntovaunut","md":"[Matkailuautot](https://www.nettikaravaani.com/pikalinkit/matkailuautot \\"Matkailuautot\\") ja [matkailuvaunut](https://www.nettikaravaani.com/pikalinkit/matkailuvaunut \\"Matkailuvaunut\\")"},{"text":"Nettivaraosa","url":"https://www.nettivaraosa.com/","title":"Varaosat ja tarvikkeet","md":"[Auton varaosat](https://www.nettivaraosa.com/pikalinkit/auton-varaosat \\"Auton varaosat\\"), [vanteet](https://www.nettivaraosa.com/vanteet \\"vanteet\\") ja [rengassarjat](https://www.nettivaraosa.com/rengassarjat \\"rengassarjat\\")"},{"text":"Rekkari.fi","url":"https://rekkari.fi/","title":"Auton, moton ja veneen rekisteritiedot","md":"Auton, moton ja veneen rekisteritiedot"},{"text":"S\xE4hk\xF6vertailu.fi","url":"https://sahkovertailu.fi/","title":"Suomen kattavin s\xE4hk\xF6n kilpailutus, halpa s\xE4hk\xF6sopimus","md":"[S\xE4hk\xF6n kilpailutus](https://sahkovertailu.fi/ \\"S\xE4hk\xF6n kilpailutus\\") ja [halpa s\xE4hk\xF6sopimus](https://sahkovertailu.fi/mista-loytyy-halvin-sahkosopimus \\"halpa s\xE4hk\xF6sopimus\\")"},{"text":"Asuntojenmyynti.fi","url":"https://www.asuntojenmyynti.fi/","title":"Kiinteist\xF6nv\xE4litt\xE4jien kilpailutus ja vertailu","md":"[Kiinteist\xF6nv\xE4litt\xE4jien kilpailutus ja vertailu](https://www.asuntojenmyynti.fi/ \\"Kiinteist\xF6nv\xE4litt\xE4jien kilpailutus ja vertailu\\")"},{"text":"Neli\xF6hinta.fi","url":"https://neliohinta.fi/","title":"Halvimmat kiinteist\xF6v\xE4litt\xE4j\xE4t ja v\xE4lityspalkkiovertailu","md":"[Halvimmat kiinteist\xF6v\xE4litt\xE4j\xE4t](https://neliohinta.fi/ \\"Halvimmat kiinteist\xF6v\xE4litt\xE4j\xE4t\\") ja [v\xE4lityspalkkiovertailu](https://neliohinta.fi/valityspalkkio/ \\"v\xE4lityspalkkiovertailu\\")"},{"text":"VertaaEnsin.fi","url":"https://www.vertaaensin.fi/","title":"Halvin s\xE4hk\xF6sopimus, s\xE4hk\xF6n hinta, lainavertailu","md":"[Halvin s\xE4hk\xF6sopimus](https://www.vertaaensin.fi/sahko/sahkon-kilpailutus \\"Halvin s\xE4hk\xF6sopimus\\"), [s\xE4hk\xF6n hinta](https://www.vertaaensin.fi/sahko/sahkon-hinta \\"s\xE4hk\xF6n hinta\\") ja [lainavertailu](https://www.vertaaensin.fi/laina \\"lainavertailu\\")"}]},{"name":"Ty\xF6ss\xE4","items":[{"text":"Kauppalehti","url":"https://www.kauppalehti.fi/","title":"Johtaminen, yritykset ja toimitilat","md":"[Johtaminen](https://www.kauppalehti.fi/aiheet/johtaminen \\"Johtaminen\\"), [yritykset](https://www.kauppalehti.fi/yritykset \\"yritykset\\") ja [toimitilat](https://toimitilat.kauppalehti.fi/ \\"toimitilat\\")"},{"text":"Jobly","url":"https://www.jobly.fi/","title":"Avoimet ty\xF6paikat","md":"Avoimet ty\xF6paikat"},{"text":"Tekniikka & Talous","url":"https://www.tekniikkatalous.fi/","title":"Teknologiauutiset ja ilmi\xF6t","md":"Teknologiauutiset ja ilmi\xF6t"},{"text":"Tivi","url":"https://www.tivi.fi/","title":"ICT-uutiset ja -ilmi\xF6t","md":"ICT-uutiset ja -ilmi\xF6t"},{"text":"Konep\xF6rssi","url":"https://www.koneporssi.com/","title":"Ty\xF6koneiden ja kuljetuskaluston erikoislehti","md":"Ty\xF6koneiden ja kuljetuskaluston erikoislehti"},{"text":"Onnity\xF6ss\xE4","url":"https://onnityossa.fi/","title":"Paremman ty\xF6el\xE4m\xE4n puolesta","md":"Paremman ty\xF6el\xE4m\xE4n puolesta"},{"text":"Nettikone","url":"https://www.nettikone.com/","title":"Vaihtokoneet, mets\xE4koneet ja maatalouskoneet","md":"[Kuljetuskalusto](https://www.nettikone.com/pikalinkit/kuljetuskalusto \\"Kuljetuskalusto\\"), [Maatalouskoneet](https://www.nettikone.com/pikalinkit/maatalouskoneet \\"Maatalouskoneet\\") ja [Mets\xE4koneet](https://www.nettikone.com/pikalinkit/metsakoneet \\"Mets\xE4koneet\\")"},{"heading":"Yrityspalvelut"},{"text":"Alma Career","url":"https://www.almacareer.com/","title":"Kansainv\xE4liset rekrytointipalvelut","md":"Kansainv\xE4liset rekrytointipalvelut"},{"text":"Property Insights","url":"https://www.almainsights.fi/kiinteistotietopalvelut/","title":"Asuntokaupan palvelut ammattilaisille","md":"Kattavaa ja luotettavaa tietoa kiinteist\xF6liiketoiminnan ammattilaisille"},{"text":"Legal Insights","url":"https://www.almainsights.fi/juridiikan-palvelut/","title":"Juridiikan hakupalvelut","md":"Asiantuntijasis\xE4ll\xF6t ja lains\xE4\xE4d\xE4nt\xF6"},{"text":"Business Insights","url":"https://www.almainsights.fi/yritystietopalvelut/","title":"Yritystietopalvelut","md":"Oikea-aikaista yritys- ja p\xE4\xE4tt\xE4j\xE4tietoa p\xE4\xE4t\xF6ksenteon tueksi"},{"text":"Kauppalehti Toimitilat ja myyt\xE4v\xE4t yritykset","url":"https://toimitilat.kauppalehti.fi/","title":"Yritysten liiketilat","md":"[Liiketilat](https://toimitilat.kauppalehti.fi/List/liiketilat \\"Liiketilat\\"), [toimitilat](https://toimitilat.kauppalehti.fi/List/toimitilat \\"toimitilat\\"), [varastot](https://toimitilat.kauppalehti.fi/List/varastot \\"varastot\\") ja myyt\xE4v\xE4t yritykset"},{"text":"Autoilun j\xE4rjestelm\xE4t","url":"https://almaajo.fi/websales/","title":"Autoilun j\xE4rjestelm\xE4t","md":"Websales, Webrent ja Autosofta"},{"text":"Nettix Pro","url":"https://almaajo.fi/nettix-pro/","title":"Nettix Pro","md":"Toiminnanohjausj\xE4rjestelm\xE4 moottoritoimialalle"},{"text":"Ammattilaisen ty\xF6kalut asuntokauppaan","url":"https://etuovi.com/mediatieto/palvelun-esittely-etuovicom/","title":"Ammattilaisen ty\xF6kalut asuntokauppaan","md":"[Kiinteist\xF6nv\xE4litt\xE4j\xE4n CRM](https://etuovi.com/mediatieto/myyntipro-2/ \\"Kiinteist\xF6nv\xE4litt\xE4j\xE4n CRM\\") ja [asuntokaupan markkinadata](https://data.etuovi.com/ \\"asuntokaupan markkinadata\\")"},{"text":"KIVI-kiinteist\xF6nv\xE4litysj\xE4rjestelm\xE4","url":"https://etuovi.com/mediatieto/kivi-kiinteistonvalitysjarjestelma/","title":"KIVI-kiinteist\xF6nv\xE4litysj\xE4rjestelm\xE4","md":"[Kirjautuminen](https://kivi.etuovi.com/ \\"Kirjautuminen\\") ja [Demo-tunnukset](https://www.etuovi.com/mediatieto/kivi-kiinteistonvalitysjarjestelma/#tilaa-demotunnukset \\"Demo-tunnukset\\")"},{"text":"DOKS","url":"https://www.doks.fi","title":"DOKS - Rahanpesulain velvoitteet, pakoteseulonta ja compliance-teht\xE4v\xE4t ","md":"Rahanpesulain velvoitteet, pakoteseulonta ja compliance-teht\xE4v\xE4t"},{"text":"Alma Kirjakauppa","url":"https://kirjakauppa.almainsights.fi","title":"Alma Kirjakauppa","md":"Bisneskirjat ja juridiikan kirjat"}]}]'),ItemSchema=object({text:string(),url:pipe(string(),url()),title:string(),md:pipe(string(),regex(new RegExp('^[ \\p{L}0-9\\[\\]()\\.\\-_\\/,:;\u20AC@?+\xA9\u2013&%"\u201C\u201D\u2018\u2019#]*$',"iu")))}),HeadingSchema=object({heading:string()}),BlockSchema=object({name:string(),items:array(union([ItemSchema,HeadingSchema]))}),BlocksSchema=array(BlockSchema),blocks=parse$1(BlocksSchema,blocks$1);function slugify(R){const U="\xE0\xE1\xE4\xE2\xE8\xE9\xEB\xEA\xEC\xED\xEF\xEE\xF2\xF3\xF6\xF4\xF9\xFA\xFC\xFB\xF1\xE7\xDF\xFF\u0153\xE6\u0155\u015B\u0144\u1E55\u1E83\u01F5\u01F9\u1E3F\u01D8\u1E8D\u017A\u1E27\xB7/_,:;",H="aaaaeeeeiiiioooouuuuncsyoarsnpwgnmuxzh------",W=new RegExp(U.split("").join("|"),"g");return R.toString().toLowerCase().replace(/\s+/g,"-").replace(W,Y=>H.charAt(U.indexOf(Y))).replace(/&/g,"-ja-").replace(/[^\w\-]+/g,"").replace(/\-\-+/g,"-").replace(/^-+/,"").replace(/-+$/,"")}const widget={name:"Alma Footer",publisher:{name:"Alma-Media"}};function addUtm(R,U){const H=new URL(parse$1(pipe(string(),url()),R));return H.searchParams.set("utm_source",document.location.hostname),H.searchParams.set("utm_medium","almainternal"),H.searchParams.set("utm_campaign","".concat(slugify(widget.publisher.name),"--").concat(slugify(widget.name))),U&&H.searchParams.set("utm_content","contentrouter_".concat(U.clientWidth,"x").concat(U.clientHeight)),H.toString()}function ExtLink(W){var Y=W,{children:R,href:U}=Y,H=Nt(Y,["children","href"]);const X=useRootHook(),Z=Et(xt({target:"_blank",rel:"noopener"},H),{href:addUtm(U,X)});return u$2("a",Et(xt({},Z),{children:R}))}const REGEXP_MARKDOWN_LINK=/\[[^\]]+\]\([^\)]+\)/,REGEXP_MARKDOWN_LINK_TEXT=/\[([^\]]+)\]/,REGEXP_MARKDOWN_LINK_HREF=/\]\(([^" ]+)(?: ".*")?\)/,REGEXP_MARKDOWN_LINK_TITLE=/"([^"]+)"/;function parseMarkdownLinkText(R){var U;return((U=R.match(REGEXP_MARKDOWN_LINK_TEXT))==null?void 0:U[1])||""}function parseMarkdownLinkHref(R){var U;return((U=R.match(REGEXP_MARKDOWN_LINK_HREF))==null?void 0:U[1])||""}function parseMarkdownLinkTitle(R){var U;return(U=R.match(REGEXP_MARKDOWN_LINK_TITLE))==null?void 0:U[1]}function parseMarkdownLink(R){return{text:parseMarkdownLinkText(R),attributes:{href:parseMarkdownLinkHref(R),title:parseMarkdownLinkTitle(R)}}}function parse(R){return R.split(new RegExp("(".concat(REGEXP_MARKDOWN_LINK.source,")"))).filter(U=>U!=="")}function sanitize(R){return R.replace(/`/g,"").replace(/~/g,"").replace(/_/g,"").replace(/\*/g,"")}function toComponent(R,U){const H=REGEXP_MARKDOWN_LINK.exec(R);return H?U(parseMarkdownLink(H[0])):sanitize(R)}function MarkdownToJSX({markdown:R,className:U}){const H=Y=>u$2(ExtLink,Et(xt({},Y.attributes),{children:Y.text})),W=parse(R).map(Y=>toComponent(Y,H));return u$2("span",{className:U,children:W})}function BlockItem({classPrefix:R,item:U}){return u$2(k$1,{children:[u$2(ExtLink,{className:"".concat(R,"__primary-link"),href:U.url,title:U.title,children:U.text}),u$2(MarkdownToJSX,{className:"".concat(R,"__md"),markdown:U.md})]})}function BlockSubSectionTitle({classPrefix:R,heading:U}){return u$2("span",{className:"".concat(R,"__subtitle"),children:U})}const ITEMS_TO_SHOW_BY_DEFAULT=5;function visibilityToggle(R,U){const H="item--visible",W="item--hidden";return R||U<ITEMS_TO_SHOW_BY_DEFAULT?H:W}function Content(){const[R,U]=d$1(!1),H=()=>{U(!R)};return u$2("ul",{className:"blocks",children:blocks.map(W=>{const Y=slugify(W.name.toLowerCase());return u$2("li",{className:"block block--".concat(Y),children:[u$2("span",{className:"title",children:W.name}),u$2("ul",{className:"items",children:[W.items.map((X,Z)=>{const rt=md5Hex("heading"in X?X.heading:X.text).substring(0,10);return u$2("li",{className:"item ".concat(visibilityToggle(R,Z)),children:"heading"in X?u$2(BlockSubSectionTitle,{classPrefix:"item",heading:X.heading}):u$2(BlockItem,{classPrefix:"item",item:X})},rt)}),!R&&u$2("li",{className:"item",children:u$2("button",{type:"button",className:"show-all",onClick:H,children:"N\xE4yt\xE4 kaikki"})})]})]},Y)})})}const AlmaLogo='<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"><path d="M0,5.68l0.003,-5.68l22.558,0.045l0.075,22.576l-22.636,-0.003l0.033,-14.158l16.963,0.033l-0.042,-2.861l-16.954,0.048Zm16.987,11.288l0.003,-2.894l-11.323,0.036l0.018,2.849l11.302,0.009Z" style="fill:#fff;"/><path d="M25.367,31.059l0,-5.68l22.558,0.045l0.075,22.576l-22.636,-0.003l0.036,-14.158l16.957,0.033l-0.042,-2.861l-16.948,0.048Zm16.981,11.288l0.006,-2.894l-11.321,0.039l0.018,2.846l11.297,0.009Z" style="fill:#fff;"/><path d="M31.058,0.008l0.038,16.956l16.904,-0.001l-0.011,5.651l-22.616,0.007l-0.009,-22.621l5.694,0.008Z" style="fill:#fff;fill-rule:nonzero;"/><path d="M22.636,25.379l-0.038,22.587l-5.587,0.034l-0.093,-17.028l-2.706,0l-0.072,17.028l-5.668,0l0.028,-17.028l-2.759,0l-0.038,17.028l-5.681,0l-0.022,-22.607l22.636,-0.014Z" style="fill:#fff;fill-rule:nonzero;"/></svg>\n';function Logo(){return u$2(k$1,{children:u$2("div",{className:"logo",dangerouslySetInnerHTML:{__html:AlmaLogo}})})}const EVENT_CMP_V3_CONSENT_AVAILABLE="alma_cmp_v3_consent_available_repetitive";function onConsent(R,U){document.addEventListener(R,U,{once:!0})}function Consent(){const[R,U]=d$1(!1);return onConsent(EVENT_CMP_V3_CONSENT_AVAILABLE,()=>{U(!0)}),u$2(k$1,{children:R&&u$2("button",{className:"open-cmp",type:"button",onClick:()=>{window.ALMA.cmpV3.openPreferences()},children:"Ev\xE4steasetukset"})})}function Contact(){return u$2(ExtLink,{href:"https://www.almamedia.fi/yhteystiedot",children:"Alma Media yhteystiedot"})}const CURRENT_YEAR=new Date().getFullYear(),copyrightMessage="\xA9 Alma Media Oyj ".concat(CURRENT_YEAR);function Copyright(){return u$2(ExtLink,{href:"https://www.almamedia.fi/",children:copyrightMessage})}function Privacy(){return u$2(ExtLink,{rel:"privacy-policy",href:"https://www.almamedia.fi/tietosuoja",title:"Yksityisyydensuoja Alma Mediassa",children:"Tietosuoja"})}function MenuBottom(){return u$2("footer",{className:"footer",children:[u$2(Copyright,{}),u$2(Privacy,{}),u$2(Consent,{}),u$2(Contact,{})]})}const CSS=':host{all:initial;contain:content;box-sizing:border-box}:host *,:host :before,:host :after{box-sizing:inherit}.container{--size-base:16px;--size-nano:calc(var(--size-base)*.25);--size-xxs:calc(var(--size-base)*.5);--size-xs:calc(var(--size-base)*.75);--size-small:calc(var(--size-base)*.875);--size-normal:calc(var(--size-base)*1);--size-large:calc(var(--size-base)*1.25);--size-xl:calc(var(--size-base)*1.5);--size-xxl:calc(var(--size-base)*2);font-family:HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;font-weight:300;font-size:var(--size-normal);text-align:left;padding:var(--size-xs);color:#fff;gap:var(--size-normal);direction:ltr;background:#333;justify-content:left;margin:0;display:none}@supports (--css:variables) and (display:grid) and (height:calc(100% - 10px)){.container{display:grid}}.container{grid-template-areas:"a""b""c"}@media screen and (width>=767px){.container{grid-template-areas:"a b""c c"}}.logo{box-sizing:content-box;padding:var(--size-xs);aspect-ratio:1;width:64px;height:auto;margin-bottom:var(--size-xxl);grid-area:a}a{color:#aaa;text-decoration-skip-ink:auto;text-decoration:none}a:hover{color:#fff;text-decoration:underline}.blocks{gap:var(--size-large);margin:0 0 var(--size-xxl);grid-area:b;grid-template-rows:min-content min-content min-content;grid-template-columns:1fr;padding:0;list-style:none;display:grid}@media screen and (width>=767px){.blocks{grid-template-rows:min-content;grid-template-columns:1fr 1fr 1fr}}.block{padding:var(--size-xs);padding-bottom:0}.block:hover{background:#00000026}.title{font-size:var(--size-xl);font-weight:700;line-height:var(--size-xl);color:#fff;margin-block:0 var(--size-xl);vertical-align:top;display:inline-block}.items{flex-direction:column;gap:0;margin:0;padding:0;list-style:none;display:flex}.item{font-size:var(--size-small);line-height:var(--size-xl);padding-block:var(--size-xxs);padding-inline:var(--size-xs);margin-inline:calc(var(--size-xs)*-1)}.item:hover{background:#0003}.item.item--hidden:not(:focus):not(:active){clip-path:inset(50%);border:0;width:1px;height:1px;margin:-1px;padding:0;position:absolute;overflow:hidden}.item__subtitle{font-size:var(--size-large);margin:var(--size-xxl)0 var(--size-normal);color:#fff;font-weight:700;line-height:1.25em}.item__primary-link{color:#fff;font-weight:700;text-decoration:underline #646464}.item__primary-link:hover{text-decoration-color:#fff}.item__md:before{content:" \u2013 "}.item__md{color:#aaa}.item__md a,.item__md a:link,.item__md a:visited{text-decoration:underline #646464}.item__md a:hover{text-decoration-color:#fff}.show-all{color:inherit;text-transform:uppercase;cursor:pointer;background:0 0;border:none;padding:0;text-decoration:underline #646464}.show-all:hover{text-decoration-color:#fff}.footer{padding:var(--size-xs);gap:var(--size-normal);font-size:var(--size-small);flex-direction:column;grid-area:c;align-items:center;display:flex}@media screen and (width>=767px){.footer{flex-direction:row}}.footer a{cursor:pointer;color:#aaa;font-weight:inherit;font-size:inherit;background:0 0;border:none;padding:0;text-decoration:underline #646464;display:inline}.footer a:hover{text-decoration-color:#fff}.footer .open-cmp{cursor:pointer;color:#aaa;font-weight:inherit;font-size:inherit;background:0 0;border:none;padding:0;text-decoration:underline #646464;display:inline}.footer .open-cmp:hover{text-decoration-color:#fff}';function StyleSheet(){return u$2(k$1,{children:u$2("style",{dangerouslySetInnerHTML:{__html:CSS}})})}function isElement(R){return R instanceof Element}function Container(R){const[U,H]=d$1(null);return u$2("div",{className:"container",ref:Y=>isElement(Y)&&H(Y),children:u$2(RootContextProvider,{value:U,children:u$2(LangContextProvider,{value:R.lang,children:[u$2(StyleSheet,{}),u$2(Logo,{}),u$2(Content,{}),u$2(MenuBottom,{})]})})})}var Severity;(function(R){R.fatal="fatal",R.error="error",R.warning="warning",R.log="log",R.info="info",R.debug="debug",R.critical="critical"})(Severity||(Severity={}));const CHROME_REGEXP=/^\s*at (?:(.*?) ?\()?((?:file|https?|blob|chrome-extension|address|native|eval|webpack|<anonymous>|[-a-z]+:|.*bundle|\/).*?)(?::(\d+))?(?::(\d+))?\)?\s*$/i,GECKO_REGEXP=/^\s*(.*?)(?:\((.*?)\))?(?:^|@)?((?:file|https?|blob|chrome|webpack|resource|moz-extension).*?:\/.*?|\[native code\]|[^@]*(?:bundle|\d+\.js))(?::(\d+))?(?::(\d+))?\s*$/i,WINJS_REGEXP=/^\s*at (?:((?:\[object object\])?.+) )?\(?((?:file|ms-appx|https?|webpack|blob):.*?):(\d+)(?::(\d+))?\)?\s*$/i,UNKNOWN_FUNCTION="?",AUTH_HEADER="X-Sentry-Auth",DSN_REGEXP=/^(?:(\w+):)\/\/(?:([\w-]+)(?::(\w+))?@)([\w.-]+)(?::(\d+))?\/(.+)/;function computeStackTraceFromStackProp(R){if(!R.stack)return null;const U=[],H=R.stack.split("\n");let W,Y;for(let X=0;X<H.length;++X){if(W=CHROME_REGEXP.exec(H[X]))Y={filename:W[2]&&W[2].indexOf("address at ")===0?W[2].substr(11):W[2],function:W[1]||UNKNOWN_FUNCTION,lineno:W[3]?+W[3]:null,colno:W[4]?+W[4]:null};else if(W=WINJS_REGEXP.exec(H[X]))Y={filename:W[2],function:W[1]||UNKNOWN_FUNCTION,lineno:+W[3],colno:W[4]?+W[4]:null};else if(W=GECKO_REGEXP.exec(H[X]))X===0&&!W[5]&&R.columnNumber!==void 0&&(U[0].column=R.columnNumber+1),Y={filename:W[3],function:W[1]||UNKNOWN_FUNCTION,lineno:W[4]?+W[4]:null,colno:W[5]?+W[5]:null};else continue;!Y.function&&Y.lineno&&(Y.function=UNKNOWN_FUNCTION),U.push(Y)}return U.length?{value:extractMessage(R),type:R.name,stacktrace:{frames:U.reverse()}}:null}function extractMessage(R){return(R&&R.message||"No error message").split("\n").filter(H=>!!H)[0]}function computeStackTrace(R){try{const U=computeStackTraceFromStackProp(R);if(U)return U}catch(U){}return{value:extractMessage(R),type:R&&R.name,stacktrace:{frames:[]}}}function uuid4(){return"xxxxxxxxxxxx4xxxyxxxxxxxxxxxxxxx".replace(/[xy]/g,R=>{const U=Math.random()*16|0;return(R==="x"?U:U&3|8).toString(16)})}class MicroSentryClient{constructor(U){if(U&&U.dsn){const H=DSN_REGEXP.exec(U.dsn),W=H?H.slice(1):[],Y=W[5].split("/"),X=Y.slice(0,-1).join("/");this.apiUrl=W[0]+"://"+W[3]+(W[4]?":"+W[4]:"")+(X?"/"+X:"")+"/api/"+Y.pop()+"/store/",this.authHeader="Sentry sentry_version=7,sentry_key="+W[1]+(W[2]?",sentry_secret="+W[2]:"")}this.environment=U&&U.environment}prepare(U){return Et(xt({},this.getRequestBlank()),{exception:{values:[computeStackTrace(U)]}})}report(U){this.send(this.prepare(U))}send(U){!this.apiUrl||!U||this.createRequest(U)}createRequest(U){const H=new XMLHttpRequest;H.open("POST",this.apiUrl,!0),H.setRequestHeader("Content-type","application/json"),H.setRequestHeader(AUTH_HEADER,this.authHeader||""),H.send(JSON.stringify(U))}getRequestBlank(){return{platform:"javascript",event_id:uuid4(),sdk:{name:"micro-sentry.javascript.core",version:"0.0.0"},timestamp:Date.now()/1e3,environment:this.environment}}}function isMatchingPattern(R,U){return Object.prototype.toString.call(U)==="[object RegExp]"?U.test(R):typeof U=="string"?R.indexOf(U)!==-1:!1}const MAX_BREADCRUMBS=100;function getWindow(){return window}class BrowserMicroSentryClient extends MicroSentryClient{constructor(U,H=getWindow()){super(U),this.options=U,this.window=H,this.breadcrumbsKeyName="breadcrumbs",this.destroyed=!1,this._state={};const{plugins:W=[],beforeSend:Y=ct=>ct,beforeBreadcrumb:X=ct=>ct,blacklistUrls:Z=[],ignoreErrors:et=[],release:rt=void 0,maxBreadcrumbs:at=MAX_BREADCRUMBS}=this.options||{};this.plugins=W.map(ct=>new ct(this)),this.beforeSend=Y,this.beforeBreadcrumb=X,this.blacklistUrls=Z,this.ignoreErrors=et,this.release=rt,this.maxBreadcrumbs=at>=0?at:MAX_BREADCRUMBS}get state(){return this._state}clearState(){this._state={}}setTags(U){return this.setKeyState("tags",xt({},U)),this}setTag(U,H){return this.extendState({tags:{[U]:H}}),this}setExtra(U,H){return this.extendState({extra:{[U]:H}}),this}setExtras(U){return this.setKeyState("extra",xt({},U)),this}setUser(U){return this.setKeyState("user",U?xt({},U):void 0),this}clone(){const U=new BrowserMicroSentryClient(Et(xt({},this.options),{plugins:[]}));return U.extendState(this.state),U}withScope(U){const H=this.clone();U(H),H.destroy(),this.setBreadcrumbs(void 0)}addBreadcrumb(U){const H=this.beforeBreadcrumb(U);H&&(this.extendState({[this.breadcrumbsKeyName]:[xt({timestamp:Date.now()/1e3},H)]}),this.trimBreadcrumbs())}setBreadcrumbs(U){this.setKeyState(this.breadcrumbsKeyName,U),this.trimBreadcrumbs()}captureMessage(U,H){this.send(Et(xt({},this.getRequestBlank()),{message:U,level:H}))}destroy(){this.destroyed=!0,this.plugins.forEach(U=>{U.destroy&&U.destroy()})}isIgnoredError(U){return this.ignoreErrors.length?this.getPossibleEventMessages(U).some(H=>this.ignoreErrors.some(W=>isMatchingPattern(H,W))):!1}extractQueryString(U){let H=U;if(H){H.startsWith("/")&&(H="http://prefix".concat(H));try{const W=new URL(H).search.slice(1);return W.length?W:void 0}catch(W){return}}}getRequestBlank(){const U=this.window.location.toString();return xt(Et(xt({request:{url:U,query_string:this.extractQueryString(U),headers:{"User-Agent":this.window.navigator.userAgent}}},super.getRequestBlank()),{sdk:{name:"micro-sentry.javascript.browser",version:"0.0.0"}}),this.state)}send(U){if(this.destroyed||this.isDeniedUrl(U)||this.isIgnoredError(U))return;const H=this.beforeSend(xt({release:this.release},U));H&&(super.send(H),this.setBreadcrumbs(void 0))}getPossibleEventMessages(U){if(U.message)return[U.message];if(U.exception)try{const{type:H="",value:W=""}=U.exception.values&&U.exception.values[0]||{};return["".concat(W),"".concat(H,": ").concat(W)]}catch(H){return[]}return[]}isDeniedUrl(U){if(!this.blacklistUrls.length)return!1;const H=this.getEventFilterUrl(U);return H?this.blacklistUrls.some(W=>isMatchingPattern(H,W)):!1}getEventFilterUrl(U){try{if(U.exception){const H=U.exception.values&&U.exception.values[0].stacktrace&&U.exception.values[0].stacktrace.frames;return H&&H[H.length-1].filename||null}return null}catch(H){return null}}extendState(U){this._state=Object.keys(U).reduce((H,W)=>{const Y=this._state[W],X=Array.isArray(Y)?Y:null,Z=U[W],et=Array.isArray(Z)?Z:null;return Et(xt({},H),{[W]:X||et?[...X||[],...et||[]]:xt(xt({},typeof Y!="string"?Y:{}),typeof Z!="string"?Z:{})})},this._state)}setKeyState(U,H){this._state[U]=H}getKeyState(U){return this._state[U]}trimBreadcrumbs(){var H;const U=this.getKeyState(this.breadcrumbsKeyName);U&&((H=U.length)!=null?H:0)>this.maxBreadcrumbs&&this.setKeyState(this.breadcrumbsKeyName,this.maxBreadcrumbs>0?U.slice(-this.maxBreadcrumbs):[])}}const sentry=new BrowserMicroSentryClient({dsn:"https://4762730a44db1993f7c7e5ec8416a76c@o1010800.ingest.us.sentry.io/4506991592603648",ignoreErrors:[],beforeSend:R=>(R.user&&(R.user.ip_address=void 0),console.debug("Reporting:",R),R)});function reportError(R){sentry.report(R)}function ErrorBoundary({children:R}){const[U]=b();return U&&(console.error(U),reportError(U)),u$2(k$1,{children:typeof U=="undefined"&&R})}function i(){return i=Object.assign?Object.assign.bind():function(R){for(var U=1;U<arguments.length;U++){var H=arguments[U];for(var W in H)Object.prototype.hasOwnProperty.call(H,W)&&(R[W]=H[W])}return R},i.apply(this,arguments)}function s(R,U){if(R==null)return{};var H,W,Y={},X=Object.keys(R);for(W=0;W<X.length;W++)U.indexOf(H=X[W])>=0||(Y[H]=R[H]);return Y}var a=["context","children"],l=["useFragment"];function c(R,U,H,W){function Y(){var X,Z=Reflect.construct(HTMLElement,[],Y);return Z._vdomComponent=R,W&&W.shadow?(Z._root=Z.attachShadow({mode:W.mode||"open",serializable:(X=W.serializable)!=null&&X}),W.adoptedStyleSheets&&(Z._root.adoptedStyleSheets=W.adoptedStyleSheets)):Z._root=Z,Z}return(Y.prototype=Object.create(HTMLElement.prototype)).constructor=Y,Y.prototype.connectedCallback=function(){d.call(this,W)},Y.prototype.attributeChangedCallback=h,Y.prototype.disconnectedCallback=f,H=H||R.observedAttributes||Object.keys(R.propTypes||{}),Y.observedAttributes=H,R.formAssociated&&(Y.formAssociated=!0),H.forEach(function(X){Object.defineProperty(Y.prototype,X,{get:function(){return this._vdom?this._vdom.props[X]:this._props[X]},set:function(Z){this._vdom?this.attributeChangedCallback(X,null,Z):(this._props||(this._props={}),this._props[X]=Z);var et=typeof Z;Z!=null&&et!=="string"&&et!=="boolean"&&et!=="number"||this.setAttribute(X,Z)}})}),customElements.define(U,Y),Y}function u(R){this.getChildContext=function(){return R.context};var U=R.children,H=s(R,a);return K(U,H)}function d(R){var U=new CustomEvent("_preact",{detail:{},bubbles:!0,cancelable:!0});this.dispatchEvent(U),this._vdom=_(u,i({},this._props,{context:U.detail.context}),v(this,this._vdomComponent,R)),(this.hasAttribute("hydrate")?J:G)(this._vdom,this._root)}function p(R){return R.replace(/-(\w)/g,function(U,H){return H?H.toUpperCase():""})}function h(R,U,H){if(this._vdom){var W={};W[R]=H=H==null?void 0:H,W[p(R)]=H,this._vdom=K(this._vdom,W),G(this._vdom,this._root)}}function f(){G(this._vdom=null,this._root)}function m(R,U){var H=this,W=R.useFragment,Y=s(R,l);return _(W?k$1:"slot",i({},Y,{ref:function(X){X?(H.ref=X,H._listener||(H._listener=function(Z){Z.stopPropagation(),Z.detail.context=U},X.addEventListener("_preact",H._listener))):H.ref.removeEventListener("_preact",H._listener)}}))}function v(R,U,H){if(R.nodeType===3)return R.data;if(R.nodeType!==1)return null;var W=[],Y={},X=0,Z=R.attributes,et=R.childNodes;for(X=Z.length;X--;)Z[X].name!=="slot"&&(Y[Z[X].name]=Z[X].value,Y[p(Z[X].name)]=Z[X].value);for(X=et.length;X--;){var rt=v(et[X],null,H),at=et[X].slot;at?Y[at]=_(m,{name:at},rt):W[X]=rt}var ct=!(!H||!H.shadow),it=U?_(m,{useFragment:!ct},W):W;return!ct&&U&&(R.innerHTML=""),_(U||R.nodeName.toLowerCase(),Y,it)}function registerWebComponent(R,U,H=[]){if(!isAlmaTagName(U)){console.error("<".concat(U,"> is not an Alma Media web component. Please use a valid tag name."));return}if(!supportsShadowDomV1()){console.error("<".concat(U,"> Shadow DOM v1 is not supported in this browser."));return}customElements.get(U)?console.warn("<".concat(U,"> is already defined in the custom elements registry.")):c(R,U,H,{shadow:!0})}function supportsShadowDomV1(){return typeof document.head.attachShadow=="function"}function isAlmaTagName(R){return R.startsWith("almamedia-")}const tagName="almamedia-footer";function AlmaFooter(R){const{lang:U="fi"}=R;return u$2(ErrorBoundary,{children:u$2(Container,{lang:U})})}registerWebComponent(AlmaFooter,tagName,["lang"]);
+/*! Build time: 2026-02-19T10:05:02.137Z */
+      }
+      catch (e) {
+        console.error('Error rendering Alma Footer', e);
+      }
+    })();
+    </script>
+  </article>
+</div>
+<!--/ ALMA CR WIDGET -->
+<!-- ALMACR:CONTENT_OK -->
+</footer>
+        </div>
+
+        <!-- Announcements -->
+        <div id="announcement-container"></div>
+
+        <script type="text/javascript">
+            jQuery(function() {
+                jQuery('input, textarea').placeholder();
+            });
+        </script>
+
+                    </body>
+</html>

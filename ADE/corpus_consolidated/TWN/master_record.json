@@ -1,0 +1,258 @@
+{
+  "iso3": "TWN",
+  "country_name": "Taiwan",
+  "consolidated_at": "2026-04-22T15:11:54.881393+00:00",
+  "has_embedded_data": true,
+  "has_legal_corpus": true,
+  "files": [
+    "01_profile.json",
+    "02_regulatory.json",
+    "03_documents_index.json",
+    "04_meta_analysis.md",
+    "embedding_chunks.json",
+    "08_full_analysis.json",
+    "05_sources.md",
+    "06_candidates.md",
+    "07_findings.md",
+    "09_data_inventory.json",
+    "10_country_dossier.md"
+  ],
+  "n_documents": 7,
+  "n_pages": 30,
+  "n_chunks": 11,
+  "completeness": {
+    "complete_principal": false,
+    "complete_confounded": false,
+    "complete_digital": false,
+    "complete_regime": false,
+    "complete_legal_tradition": false,
+    "complete_extended": false,
+    "complete_strict": false
+  },
+  "source_inventory": [
+    {
+      "source": "IAPP + OECD (X1 regulatorio)",
+      "purpose": "Caracterizar el marco regulatorio de IA del pais.",
+      "variables": [
+        {
+          "key": "has_ai_law",
+          "label": "Tiene ley IA",
+          "value": "0",
+          "reference": ""
+        },
+        {
+          "key": "regulatory_approach",
+          "label": "Enfoque regulatorio",
+          "value": "strategy_led",
+          "reference": ""
+        },
+        {
+          "key": "regulatory_intensity",
+          "label": "Intensidad regulatoria",
+          "value": "5",
+          "reference": ""
+        },
+        {
+          "key": "enforcement_level",
+          "label": "Enforcement",
+          "value": "medium",
+          "reference": ""
+        },
+        {
+          "key": "thematic_coverage",
+          "label": "Cobertura tematica",
+          "value": "9",
+          "reference": ""
+        },
+        {
+          "key": "regulatory_status_group",
+          "label": "Grupo regulatorio",
+          "value": "strategy_only",
+          "reference": ""
+        },
+        {
+          "key": "x1_source",
+          "label": "Fuente X1 consolidada",
+          "value": "IAPP",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "Stanford AI Index",
+      "purpose": "Medir inversion, startups y patentes del ecosistema IA.",
+      "variables": [
+        {
+          "key": "ai_investment_usd_bn_cumulative",
+          "label": "Inversion IA acumulada (USD bn)",
+          "value": "0.971927833",
+          "reference": "2024.0"
+        },
+        {
+          "key": "ai_startups_cumulative",
+          "label": "Startups IA acumuladas",
+          "value": "42.0",
+          "reference": "2024.0"
+        }
+      ]
+    },
+    {
+      "source": "Microsoft AI Diffusion Report",
+      "purpose": "Capturar adopcion efectiva de IA generativa.",
+      "variables": [
+        {
+          "key": "ai_adoption_rate",
+          "label": "Adopcion IA",
+          "value": "28.4",
+          "reference": "H2_2025"
+        }
+      ]
+    },
+    {
+      "source": "Oxford Insights",
+      "purpose": "Medir readiness gubernamental para IA.",
+      "variables": [
+        {
+          "key": "ai_readiness_score",
+          "label": "AI readiness score",
+          "value": "64.81",
+          "reference": "2025"
+        }
+      ]
+    },
+    {
+      "source": "WIPO Global Innovation Index",
+      "purpose": "Controlar capacidad general de innovacion y region.",
+      "variables": [
+        {
+          "key": "region",
+          "label": "Region",
+          "value": "South East Asia, East Asia, and Oceania",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "GDPR / proteccion de datos",
+      "purpose": "Capturar tradicion regulatoria digital preexistente.",
+      "variables": [
+        {
+          "key": "has_gdpr_like_law",
+          "label": "Tiene ley GDPR-like",
+          "value": "1",
+          "reference": ""
+        },
+        {
+          "key": "gdpr_similarity_level",
+          "label": "Nivel de similitud GDPR",
+          "value": "2",
+          "reference": ""
+        },
+        {
+          "key": "dp_law_year",
+          "label": "Ano ley DP",
+          "value": "2023",
+          "reference": ""
+        },
+        {
+          "key": "has_dpa",
+          "label": "Tiene DPA",
+          "value": "1",
+          "reference": ""
+        },
+        {
+          "key": "enforcement_active",
+          "label": "Enforcement activo DP",
+          "value": "1",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "Freedom House",
+      "purpose": "Controlar tipo de regimen politico y libertades.",
+      "variables": [
+        {
+          "key": "fh_total_score",
+          "label": "Freedom House total",
+          "value": "94",
+          "reference": "2025"
+        },
+        {
+          "key": "fh_status",
+          "label": "FH status",
+          "value": "F",
+          "reference": ""
+        },
+        {
+          "key": "fh_democracy_level",
+          "label": "Nivel democracia FH",
+          "value": "2",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "Legal Origin",
+      "purpose": "Capturar tradicion juridica como confounder institucional.",
+      "variables": [
+        {
+          "key": "legal_origin",
+          "label": "Legal origin",
+          "value": "German",
+          "reference": ""
+        },
+        {
+          "key": "is_common_law",
+          "label": "Common law",
+          "value": "0",
+          "reference": ""
+        }
+      ]
+    },
+    {
+      "source": "Corpus legal manual por pais",
+      "purpose": "Aportar evidencia documental, citas, inventario y hallazgos diferenciales del caso nacional.",
+      "variables": [
+        {
+          "key": "legal_corpus",
+          "label": "05_sources.md",
+          "value": "disponible",
+          "reference": ""
+        },
+        {
+          "key": "legal_corpus",
+          "label": "06_candidates.md",
+          "value": "disponible",
+          "reference": ""
+        },
+        {
+          "key": "legal_corpus",
+          "label": "07_findings.md",
+          "value": "disponible",
+          "reference": ""
+        }
+      ]
+    }
+  ],
+  "metrics": {
+    "region": "South East Asia, East Asia, and Oceania",
+    "oecd_member": false,
+    "ai_readiness": 64.81,
+    "ai_adoption": 28.4,
+    "ai_investment": 0.9719,
+    "gdp_per_capita": null,
+    "internet_penetration": null,
+    "regulatory_quality": null,
+    "rule_of_law": null
+  },
+  "regulatory": {
+    "group": "strategy_only",
+    "has_ai_law": false,
+    "approach": "strategy_led",
+    "intensity": 5,
+    "thematic_coverage": 9,
+    "has_gdpr_like_law": true,
+    "gdpr_similarity_level": 2
+  }
+}
