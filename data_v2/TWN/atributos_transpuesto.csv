@@ -1,0 +1,63 @@
+atributo,valor
+iso3,TWN
+country_name,Taiwan
+region,East Asia
+income_group,HI
+iapp_jurisdiction_iapp,Taiwan
+iapp_has_ai_law,0
+iapp_regulatory_approach,strategy_led
+iapp_regulatory_intensity,5
+iapp_enforcement_level,medium
+iapp_thematic_coverage,9
+iapp_evidence_summary,"AI Basic Act (executive draft, not yet enacted), AI Taiwan Action Plan 2.0, risk-based approach, Ministry of Digital Affairs, AI CoE"
+iapp_source,IAPP_Global_AI_Law_Policy_Tracker
+iapp_source_date,2026-02
+oxford_readiness_score,64.81
+oxford_rank,31
+oxford_pillar_policy_capacity,79.15
+oxford_pillar_ai_infrastructure,57.03
+oxford_pillar_governance,68.98
+oxford_pillar_public_sector_adoption,69.45
+oxford_pillar_development_and_diffusion,57.45
+oxford_pillar_resilience,75.07
+oxford_dimension_compute_capacity,22.2
+oxford_dimension_policy_vision,60.0
+oxford_dimension_e_government_delivery,61.74
+oxford_dimension_safety_and_security,94.39
+oxford_dimension_ai_sector_maturity,38.76
+oxford_dimension_human_capital,76.45
+oxford_dimension_data_quality,79.75
+oxford_dimension_regulatory_compliance,81.53
+oxford_dimension_government_digital_policy,77.15
+oxford_dimension_societal_transition,55.76
+oxford_dimension_ai_technology_diffusion,63.38
+ms_ai_user_share_h1_2025,26.4
+ms_ai_user_share_h2_2025,28.4
+ms_ai_user_share_change_pp,2.0
+fh_country_name,Taiwan
+fh_fh_status,F
+fh_fh_total_score,94
+fh_fh_pr_score,38
+fh_fh_cl_score,56
+fh_fh_year,2025
+fh_notes,Data year 2024
+gdpr_country_name,Taiwan
+gdpr_has_gdpr_like_law,1
+gdpr_gdpr_similarity_level,2
+gdpr_dp_law_name,Personal Data Protection Act (amended)
+gdpr_dp_law_year,2023
+gdpr_has_dpa,1
+gdpr_eu_status,none
+gdpr_enforcement_active,1
+gdpr_notes,Major 2023 amendment; new Personal Information Protection Commission being established
+legal_origin,German
+is_common_law,0
+stanford_fig_4.3.12,2
+stanford_fig_4.3.13,42
+stanford_fig_4.3.8,0.066512313
+stanford_fig_4.3.9,0.971927833
+stanford_fig_4.4.4,75%
+stanford_fig_4.4.7,72.90%
+stanford_fig_4.5.4,4.4
+stanford_fig_4.5.7,-43%
+stanford_fig_1.3.3,3

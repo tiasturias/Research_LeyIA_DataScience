@@ -1,0 +1,36 @@
+iso3,water_stress_score_2020,water_stress_label,time_construction_permit_days,time_get_electricity_days,industrial_electricity_price_eur_kwh_2024,industrial_electricity_price_eur_kwh_2025
+ARE,4.9,Extremely High,27.0,24.0,,
+ARG,1.1,Low-Medium,,,,
+ARM,2.8,Medium-High,,,,
+AUS,2.2,Medium-High,110.0,71.0,,
+AUT,0.3,Low,184.0,49.0,,
+BEL,2.1,Medium-High,175.0,58.0,,
+BGR,1.9,Medium-High,105.0,113.0,,
+CAN,0.4,Low,249.0,173.0,,
+CHE,0.2,Low,156.0,39.0,,
+CHL,2.0,Medium-High,152.0,51.0,,
+CHN,3.1,High,111.0,33.0,,
+CRI,0.5,Low,123.0,67.0,,
+CZE,1.5,Low-Medium,246.0,103.0,,
+DEU,1.4,Low-Medium,126.0,39.0,,
+DNK,2.4,Medium-High,64.0,37.0,,
+ESP,3.5,High,229.0,48.0,0.098,0.102
+FIN,,,66.0,41.0,,
+FRA,1.8,Medium-High,184.0,68.0,0.11,0.118
+GBR,1.0,Low-Medium,86.0,72.0,0.228,0.215
+HUN,1.6,Low-Medium,116.0,226.0,,
+IND,3.4,High,117.0,45.0,,
+IRL,0.2,Low,149.0,85.0,0.192,0.18
+ISR,4.5,Extremely High,209.0,74.0,,
+ITA,2.3,Medium-High,127.0,74.0,,
+JOR,4.8,Extremely High,53.0,38.0,,
+JPN,1.2,Low-Medium,193.0,97.0,0.175,0.168
+KOR,2.9,Medium-High,28.0,18.0,,
+NLD,2.5,Medium-High,161.0,113.0,,
+NOR,0.1,Low,101.0,66.0,,
+NZL,0.3,Low,93.0,57.0,,
+POL,2.0,Medium-High,153.0,133.0,,
+SGP,4.0,Extremely High,26.0,32.0,0.196,0.182
+SWE,0.4,Low,116.0,52.0,,
+TWN,2.8,Medium-High,56.0,41.0,,
+USA,1.8,Medium-High,82.0,89.0,,

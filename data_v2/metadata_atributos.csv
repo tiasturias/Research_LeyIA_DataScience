@@ -1,0 +1,136 @@
+atributo,fuente,descripcion,año,tipo
+iso3,ISO 3166-1,Codigo ISO 3166-1 alpha-3 del pais,estandar,string
+country_name,ISO 3166-1,Nombre oficial del pais en ingles,estandar,string
+region,WIPO/Oxford,Region geografica segun clasificacion ONU,estandar,categorical
+income_group,WIPO/Banco Mundial,"Grupo de ingreso: HI (High Income), UM (Upper Middle), LM (Lower Middle), LI (Low Income)",estandar,categorical
+iapp_has_ai_law,IAPP Global AI Law & Policy Tracker,"Existe ley IA especifica vinculante. 0=no, 1=si",2026-02,integer(0/1)
+iapp_regulatory_approach,IAPP,Enfoque regulatorio: none/light_touch/strategy_led/regulation_focused/comprehensive,2026-02,categorical
+iapp_regulatory_intensity,IAPP,"Intensidad regulatoria en escala 0-10. Suma ponderada de: existencia ley (0-3), obligaciones (0-3), sanciones (0-2), autoridad (0-2)",2026-02,integer(0-10)
+iapp_year_enacted,IAPP,Ano de promulgacion de la ley IA principal. NULL si no hay ley,2026-02,integer
+iapp_enforcement_level,IAPP,Nivel de enforcement: none/low/medium/high,2026-02,categorical
+iapp_thematic_coverage,IAPP,"Numero de temas regulatorios cubiertos (0-15): transparency, bias, privacy, safety, accountability, human_oversight, risk_assessment, sectoral, high_risk, foundation_models, copyright, deepfakes, labor, procurement, sandboxes",2026-02,integer(0-15)
+iapp_evidence_summary,IAPP,Resumen cualitativo de la regulacion IA del pais,2026-02,text
+iapp_source,IAPP,Fuente de codificacion: IAPP_Global_AI_Law_Policy_Tracker o IAPP_supplementary_research,2026-02,string
+iapp_source_date,IAPP,Fecha de version del tracker (YYYY-MM),2026-02,string
+oxford_readiness_score,Oxford Insights Government AI Readiness Index 2025,Indice compuesto de preparacion gubernamental para IA. Escala 0-100. Promedio de 6 pilares.,2025,float(0-100)
+oxford_rank,Oxford Insights,Ranking global reportado por Oxford Insights,2025,integer
+oxford_pillar_policy_capacity,Oxford Insights,Pilar: Capacidad de politicas publicas para IA. Escala 0-100.,2025,float(0-100)
+oxford_pillar_ai_infrastructure,Oxford Insights,Pilar: Infraestructura de IA. Escala 0-100.,2025,float(0-100)
+oxford_pillar_governance,Oxford Insights,Pilar: Gobernanza de IA. Escala 0-100.,2025,float(0-100)
+oxford_pillar_public_sector_adoption,Oxford Insights,Pilar: Adopcion en sector publico. Escala 0-100.,2025,float(0-100)
+oxford_pillar_development_and_diffusion,Oxford Insights,Pilar: Desarrollo y difusion de IA. Escala 0-100.,2025,float(0-100)
+oxford_pillar_resilience,Oxford Insights,Pilar: Resiliencia. Escala 0-100.,2025,float(0-100)
+oxford_dimension_policy_vision,Oxford Insights,Dimension: Vision de politica publica. Escala 0-100.,2025,float(0-100)
+oxford_dimension_policy_commitment,Oxford Insights,Dimension: Compromiso con politica. Escala 0-100.,2025,float(0-100)
+oxford_dimension_compute_capacity,Oxford Insights,Dimension: Capacidad de computo. Escala 0-100.,2025,float(0-100)
+oxford_dimension_enabling_technical_infrastructure,Oxford Insights,Dimension: Infraestructura tecnica habilitante. Escala 0-100.,2025,float(0-100)
+oxford_dimension_data_quality,Oxford Insights,Dimension: Calidad de datos. Escala 0-100.,2025,float(0-100)
+oxford_dimension_governance_principles,Oxford Insights,Dimension: Principios de gobernanza. Escala 0-100.,2025,float(0-100)
+oxford_dimension_regulatory_compliance,Oxford Insights,Dimension: Cumplimiento regulatorio. Escala 0-100.,2025,float(0-100)
+oxford_dimension_government_digital_policy,Oxford Insights,Dimension: Politica digital gubernamental. Escala 0-100.,2025,float(0-100)
+oxford_dimension_e_government_delivery,Oxford Insights,Dimension: Gobierno electronico. Escala 0-100.,2025,float(0-100)
+oxford_dimension_ai_sector_maturity,Oxford Insights,Dimension: Madurez del sector IA. Escala 0-100.,2025,float(0-100)
+oxford_dimension_ai_technology_diffusion,Oxford Insights,Dimension: Difusion de tecnologia IA. Escala 0-100.,2025,float(0-100)
+oxford_dimension_societal_transition,Oxford Insights,Dimension: Transicion societal. Escala 0-100.,2025,float(0-100)
+oxford_dimension_safety_and_security,Oxford Insights,Dimension: Seguridad y proteccion. Escala 0-100.,2025,float(0-100)
+oxford_dimension_human_capital,Oxford Insights,Dimension: Capital humano. Escala 0-100.,2025,float(0-100)
+ms_ai_adoption_h1_2025,Microsoft AI for Good Institute,"Porcentaje de adopcion de IA generativa en empresas, primera mitad 2025",H1_2025,float(0-100)
+ms_ai_adoption_h2_2025,Microsoft AIEI,"Porcentaje de adopcion de IA generativa en empresas, segunda mitad 2025",H2_2025,float(0-100)
+ms_ai_adoption_change_pp,Microsoft AIEI,Cambio en puntos porcentuales de adopcion H1->H2 2025,2025,float
+stanford_ai_investment_cumulative_2013_2024_bn,"Stanford AI Index 2025, Fig 4.3.9","Inversion privada acumulada en IA 2013-2024, en miles de millones de USD",2013-2024,float(USD billions)
+stanford_ai_investment_2024_bn,"Stanford AI Index 2025, Fig 4.3.8","Inversion privada en IA en 2024, en miles de millones de USD",2024,float(USD billions)
+stanford_ai_newly_funded_companies_2024,"Stanford AI Index 2025, Fig 4.3.12",Numero de nuevas empresas IA financiadas en 2024,2024,integer
+stanford_ai_newly_funded_companies_cumulative_2013_2024,"Stanford AI Index 2025, Fig 4.3.13",Numero acumulado de empresas IA financiadas 2013-2024,2013-2024,integer
+stanford_ai_talent_concentration_pct,"Stanford AI Index 2025, Fig 4.2.17",Concentracion de talento IA como porcentaje,2024,float(%)
+stanford_ai_talent_change_pct,"Stanford AI Index 2025, Fig 4.2.18",Cambio porcentual en concentracion de talento IA,2024,float(%)
+stanford_ai_skill_penetration_rate,"Stanford AI Index 2025, Fig 4.2.15",Tasa de penetracion de habilidades IA (2015-24),2015-2024,float(0-1)
+stanford_ai_skill_penetration_female,"Stanford AI Index 2025, Fig 4.2.16",Penetracion de habilidades IA en mujeres,2015-2024,float(0-1)
+stanford_ai_skill_penetration_male,"Stanford AI Index 2025, Fig 4.2.16",Penetracion de habilidades IA en hombres,2015-2024,float(0-1)
+stanford_net_ai_talent_migration_per10k,"Stanford AI Index 2025, Fig 4.2.22","Migracion neta de talento IA por cada 10,000 miembros de LinkedIn",2024,float
+stanford_ai_hiring_rate_yoy_pct,"Stanford AI Index 2025, Fig 4.2.13",Tasa de contratacion IA interanual,2024,float(%)
+stanford_ai_patents_per100k_2023,"Stanford AI Index 2025, Fig 1.2.4","Patentes IA otorgadas por 100,000 habitantes en 2023",2023,float
+stanford_ai_patents_change_2013_2023,"Stanford AI Index 2025, Fig 1.2.5",Cambio en patentes IA por 100k hab entre 2013 y 2023,2013-2023,float
+stanford_notable_ml_models_cumulative_2003_2024,"Stanford AI Index 2025, Fig 1.3.3",Numero de modelos notables de machine learning acumulados 2003-2024,2003-2024,integer
+stanford_highly_cited_publications_top100_2023,"Stanford AI Index 2025, Fig 1.1.11",Publicaciones altamente citadas en top 100 en 2023,2023,integer
+stanford_ai_bills_passed_2016_2024,"Stanford AI Index 2025, Fig 6.2.1",Numero de leyes relacionadas con IA aprobadas 2016-2024,2016-2024,integer
+stanford_ai_mentions_parliamentary,"Stanford AI Index 2025, Fig 6.2.16",Menciones de IA en procedimientos parlamentarios,2024,integer
+wipo_gii_rank,WIPO Global Innovation Index 2025,Ranking en el Indice Global de Innovacion,2025,integer
+wipo_gii_score,WIPO GII 2025,Score del Global Innovation Index (0-100). Promedio de Input y Output.,2025,float(0-100)
+wipo_income_group,WIPO GII 2025,Grupo de ingreso: HI/UM/LM/LI,2025,categorical
+wipo_ppp_per_capita,WIPO GII 2025,PIB PPA per capita en USD,2025,float(USD)
+wipo_innovation_inputs,WIPO GII 2025,Subindice de Inputs de innovacion (0-100),2025,float(0-100)
+wipo_innovation_outputs,WIPO GII 2025,Subindice de Outputs de innovacion (0-100),2025,float(0-100)
+wipo_institutions,WIPO GII 2025,Pilar Instituciones (0-100),2025,float(0-100)
+wipo_human_capital_and_research,WIPO GII 2025,Pilar Capital Humano e Investigacion (0-100),2025,float(0-100)
+wipo_infrastructure,WIPO GII 2025,Pilar Infraestructura (0-100),2025,float(0-100)
+wipo_market_sophistication,WIPO GII 2025,Pilar Sofisticacion del Mercado (0-100),2025,float(0-100)
+wipo_business_sophistication,WIPO GII 2025,Pilar Sofisticacion de Negocios (0-100),2025,float(0-100)
+wipo_knowledge_and_technology_outputs,WIPO GII 2025,Pilar Conocimiento y Tecnologia (0-100),2025,float(0-100)
+wipo_creative_outputs,WIPO GII 2025,Pilar Outputs Creativos (0-100),2025,float(0-100)
+wipo_regulatory_environment,WIPO GII 2025,Entorno regulatorio (0-100),2025,float(0-100)
+wipo_business_environment,WIPO GII 2025,Entorno de negocios (0-100),2025,float(0-100)
+wipo_education,WIPO GII 2025,Educacion (0-100),2025,float(0-100)
+wipo_tertiary_education,WIPO GII 2025,Educacion terciaria (0-100),2025,float(0-100)
+wipo_research_and_development,WIPO GII 2025,Investigacion y Desarrollo (0-100),2025,float(0-100)
+wipo_information_and_communication_technologies,WIPO GII 2025,TIC (0-100),2025,float(0-100)
+wipo_general_infrastructure,WIPO GII 2025,Infraestructura general (0-100),2025,float(0-100)
+wipo_investment,WIPO GII 2025,Inversion (0-100),2025,float(0-100)
+wipo_credit,WIPO GII 2025,Credito (0-100),2025,float(0-100)
+wipo_trade_diversification,WIPO GII 2025,Diversificacion comercial (0-100),2025,float(0-100)
+wipo_intangible_assets,WIPO GII 2025,Activos intangibles (0-100),2025,float(0-100)
+wipo_innovation_linkages,WIPO GII 2025,Vinculos de innovacion (0-100),2025,float(0-100)
+wipo_knowledge_creation,WIPO GII 2025,Creacion de conocimiento (0-100),2025,float(0-100)
+wipo_knowledge_impact,WIPO GII 2025,Impacto del conocimiento (0-100),2025,float(0-100)
+wipo_knowledge_diffusion,WIPO GII 2025,Difusion del conocimiento (0-100),2025,float(0-100)
+wipo_knowledge_absorption,WIPO GII 2025,Absorcion del conocimiento (0-100),2025,float(0-100)
+wipo_ecological_sustainability,WIPO GII 2025,Sostenibilidad ecologica (0-100),2025,float(0-100)
+wipo_online_creativity,WIPO GII 2025,Creatividad online (0-100),2025,float(0-100)
+wipo_creative_goods_and_services,WIPO GII 2025,Bienes y servicios creativos (0-100),2025,float(0-100)
+wb_gdp_per_capita_ppp_2024,World Bank WDI,"PIB per capita ajustado por paridad de poder adquisitivo, en USD constantes",2024,float(USD)
+wb_gdp_current_usd_bn_2024,World Bank WDI,PIB en dolares corrientes (miles de millones USD),2024,float(USD billions)
+wb_population_2024,World Bank WDI,Poblacion total,2024,integer
+wb_internet_penetration_2024,World Bank WDI,Porcentaje de la poblacion con acceso a internet,2024,float(%)
+wb_rd_expenditure_pct_gdp_2020,World Bank WDI,Gasto en investigacion y desarrollo como porcentaje del PIB,2020,float(%)
+wb_tertiary_education_rate_2023,World Bank WDI,Tasa de matriculacion en educacion terciaria,2023,float(%)
+wb_mobile_subscriptions_per100_2023,World Bank WDI,Suscripciones a telefonos moviles por 100 habitantes,2023,float
+wb_exports_pct_gdp_2024,World Bank WDI,Exportaciones como porcentaje del PIB,2024,float(%)
+wb_inflation_2024,World Bank WDI,"Inflacion, precios al consumidor (% anual)",2024,float(%)
+wb_unemployment_rate_2024,World Bank WDI,Tasa de desempleo (% de la fuerza laboral),2024,float(%)
+wb_fdi_net_inflows_usd_2024,World Bank WDI,Inversion extranjera directa neta (USD),2024,float(USD)
+wb_education_expenditure_pct_gdp_2024,World Bank WDI,Gasto en educacion como porcentaje del PIB,2024,float(%)
+wb_patent_applications_residents_2021,World Bank WDI,Solicitudes de patentes por residentes,2021,integer
+wb_high_tech_exports_pct_2019,World Bank WDI,Exportaciones de alta tecnologia como porcentaje de exportaciones manufactureras,2019,float(%)
+wb_ict_service_exports_pct_2019,World Bank WDI,Exportaciones de servicios TIC como porcentaje de exportaciones de servicios,2019,float(%)
+wb_government_effectiveness_2023,World Bank WGI,Efectividad gubernamental. Percentil superiorApprox. Escala approx -2.5 a 2.5.,2023,float(-2.5 to 2.5)
+wb_regulatory_quality_2023,World Bank WGI,Calidad regulatoria. Escala approx -2.5 a 2.5.,2023,float(-2.5 to 2.5)
+wb_rule_of_law_2023,World Bank WGI,Estado de derecho. Escala approx -2.5 a 2.5.,2023,float(-2.5 to 2.5)
+wb_control_of_corruption_2023,World Bank WGI,Control de corrupcion. Escala approx -2.5 a 2.5.,2023,float(-2.5 to 2.5)
+wb_voice_and_accountability_2023,World Bank WGI,Voz y rendicion de cuentas. Escala approx -2.5 a 2.5.,2023,float(-2.5 to 2.5)
+wb_political_stability_2023,World Bank WGI,Estabilidad politica y ausencia de violencia. Escala approx -2.5 a 2.5.,2023,float(-2.5 to 2.5)
+fh_status,Freedom House Freedom in the World 2025,"Estado de libertad: F=Free, PF=Partially Free, NF=Not Free",2025,categorical(F/PF/NF)
+fh_total_score,Freedom House,"Score total de libertad (0=least free, 100=most free)",2025,integer(0-100)
+fh_political_rights_score,Freedom House,Score de derechos politicos (0-60),2025,integer(0-60)
+fh_civil_liberties_score,Freedom House,Score de libertades civiles (0-40),2025,integer(0-40)
+fh_year,Freedom House,Ano del informe FH,2025,integer
+gdpr_has_gdpr_like_law,DLA Piper Data Protection Laws of the World 2025,"Tiene ley de proteccion de datos personal? 0=no, 1=si",2025,integer(0/1)
+gdpr_similarity_level,DLA Piper + codificacion propia,"Nivel de similitud con GDPR. 0=ninguno, 1=parcial, 2=sustancial, 3=equivalente/adecuado",2025,integer(0-3)
+gdpr_law_name,DLA Piper,Nombre de la ley de proteccion de datos,2025,string
+gdpr_law_year,DLA Piper,Ano de promulgacion de la ley de datos,2025,integer
+gdpr_has_dpa,DLA Piper,"Tiene autoridad de proteccion de datos? 0=no, 1=si",2025,integer(0/1)
+gdpr_eu_status,DLA Piper + EU,Status EU: eu_member/adequacy/none,2025,categorical
+gdpr_enforcement_active,DLA Piper,"Enforcement activo? 0=no, 1=si",2025,integer(0/1)
+legal_origin,La Porta et al. 2008,Familia juridica: English/French/German/Socialist/Scandinavian,2008,categorical
+is_common_law,La Porta et al. 2008,"Sistema common law? 0=civil law u otra, 1=common law",2008,integer(0/1)
+oecd_has_ai_law_2024,OECD AI Policy Observatory,"Tiene ley IA segun OECD? 0=no, 1=si (snapshot 2024)",2024,integer(0/1)
+oecd_regulatory_approach_2024,OECD AI Policy Observatory,Enfoque regulatorio segun OECD: none/soft_framework/strategy_led/regulation_focused/comprehensive,2024,categorical
+oecd_year_enacted,OECD AI Policy Observatory,Ano de promulgacion segun OECD,2024,float
+oecd_regulatory_intensity_2024,OECD AI Policy Observatory,Intensidad regulatoria segun OECD (escala propia),2024,integer
+oecd_enforcement_level_2024,OECD AI Policy Observatory,Nivel de enforcement segun OECD,2024,categorical
+oecd_thematic_coverage_2024,OECD AI Policy Observatory,Cobertura tematica segun OECD,2024,integer
+oecd_n_total_initiatives,OECD AI Policy Observatory,Numero total de iniciativas de politica IA,2024,integer
+oecd_n_binding,OECD AI Policy Observatory,Numero de iniciativas vinculantes,2024,integer
+oecd_n_nonbinding,OECD AI Policy Observatory,Numero de iniciativas no vinculantes,2024,integer
+oecd_n_strategies,OECD AI Policy Observatory,Numero de estrategias nacionales,2024,integer
+oecd_n_regulations,OECD AI Policy Observatory,Numero de regulaciones,2024,integer
+oecd_n_sectors_covered,OECD AI Policy Observatory,Numero de sectores cubiertos,2024,integer
+oecd_n_policy_instruments,OECD AI Policy Observatory,Numero de instrumentos de politica,2024,integer

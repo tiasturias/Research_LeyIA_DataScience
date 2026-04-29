@@ -1,0 +1,87 @@
+iso3,region,has_corpus,ai_corpus_n_documents,ai_corpus_total_pages,regulatory_regime_group_proposed,has_dedicated_ai_authority,ai_law_pathway_declared
+ARE,Northern Africa and Western Asia,1,6.0,185.0,soft_framework,1.0,1.0
+ARG,Latin America and the Caribbean,0,,,,,
+ARM,Northern Africa and Western Asia,1,2.0,0.0,strategy_only,1.0,1.0
+AUS,"South East Asia, East Asia, and Oceania",1,5.0,301.0,soft_framework,1.0,0.0
+AUT,Europe,1,4.0,332.0,,1.0,0.0
+BEL,Europe,1,5.0,248.0,,1.0,0.0
+BGD,Central and Southern Asia,1,4.0,55.0,soft_framework,0.0,1.0
+BGR,Europe,1,0.0,329.0,binding_regulation,0.0,1.0
+BHR,Northern Africa and Western Asia,1,3.0,112.0,soft_framework,1.0,1.0
+BLR,Europe,1,1.0,62.0,soft_framework,1.0,0.0
+BLZ,Latin America and the Caribbean,0,,,,,
+BRA,Latin America and the Caribbean,0,,,,,
+BRB,Latin America and the Caribbean,0,,,,,
+CAN,Northern America,1,7.0,123.0,soft_framework,1.0,0.0
+CHE,Europe,1,3.0,0.0,soft_framework,0.0,0.0
+CHL,Latin America and the Caribbean,0,,,,,
+CHN,"South East Asia, East Asia, and Oceania",1,,,,,
+CMR,Sub-Saharan Africa,1,0.0,,,0.0,0.0
+COL,Latin America and the Caribbean,0,,,,,
+CRI,Latin America and the Caribbean,1,6.0,,soft_framework,0.0,1.0
+CYP,Northern Africa and Western Asia,0,,,,,
+CZE,Europe,1,7.0,0.0,binding_regulation,1.0,0.0
+DEU,Europe,1,8.0,410.0,,0.0,1.0
+DNK,Europe,1,4.0,424.0,,0.0,1.0
+ECU,Latin America and the Caribbean,0,,,,,
+EGY,Northern Africa and Western Asia,0,,,,,
+ESP,Europe,1,5.0,308.0,,1.0,1.0
+EST,Europe,0,,,,,
+FIN,Europe,1,8.0,681.0,binding_regulation,1.0,1.0
+FRA,Europe,1,5.0,421.0,,1.0,0.0
+GBR,Europe,1,8.0,865.0,soft_framework,1.0,1.0
+GHA,Sub-Saharan Africa,1,4.0,0.0,soft_framework,1.0,1.0
+GRC,Europe,0,,,,,
+HRV,Europe,0,,,,,
+HUN,Europe,1,4.0,539.0,,0.0,1.0
+IDN,"South East Asia, East Asia, and Oceania",0,,,,,
+IND,Central and Southern Asia,1,5.0,199.0,soft_framework,1.0,1.0
+IRL,Europe,1,4.0,429.0,,1.0,1.0
+ISL,Europe,0,,,,,
+ISR,Northern Africa and Western Asia,1,4.0,125.0,soft_framework,0.0,1.0
+ITA,Europe,1,5.0,159.0,binding_regulation,0.0,0.0
+JOR,Northern Africa and Western Asia,1,1.0,0.0,soft_framework,0.0,1.0
+JPN,"South East Asia, East Asia, and Oceania",1,11.0,369.0,binding_regulation,0.0,0.0
+KAZ,Central and Southern Asia,1,0.0,0.0,binding_regulation,0.0,0.0
+KEN,Sub-Saharan Africa,0,,,,,
+KOR,"South East Asia, East Asia, and Oceania",1,5.0,225.0,binding_regulation,1.0,0.0
+LBN,Northern Africa and Western Asia,1,1.0,54.0,strategy_only,1.0,1.0
+LKA,Central and Southern Asia,0,,,,,
+LTU,Europe,0,,,,,
+LUX,Europe,0,,,,,
+LVA,Europe,0,,,,,
+MAR,Northern Africa and Western Asia,0,,,,,
+MEX,Latin America and the Caribbean,0,,,,,
+MLT,Europe,0,,,,,
+MNG,"South East Asia, East Asia, and Oceania",1,3.0,14.0,soft_framework,1.0,0.0
+MUS,Sub-Saharan Africa,0,,,,,
+MYS,"South East Asia, East Asia, and Oceania",0,,,,,
+NGA,Sub-Saharan Africa,0,,,,,
+NLD,Europe,1,5.0,316.0,,1.0,0.0
+NOR,Europe,1,4.0,250.0,,0.0,1.0
+NZL,"South East Asia, East Asia, and Oceania",1,5.0,270.0,soft_framework,0.0,0.0
+PAK,Central and Southern Asia,0,,,,,
+PAN,Latin America and the Caribbean,0,,,,,
+PER,Latin America and the Caribbean,0,,,,,
+PHL,"South East Asia, East Asia, and Oceania",0,,,,,
+POL,Europe,1,2.0,0.0,binding_regulation,1.0,1.0
+PRT,Europe,0,,,,,
+ROU,Europe,0,,,,,
+RUS,Europe,0,,,,,
+SAU,Northern Africa and Western Asia,0,,,,,
+SGP,"South East Asia, East Asia, and Oceania",1,7.0,44.0,soft_framework,1.0,1.0
+SRB,Europe,0,,,,,
+SVK,Europe,0,,,,,
+SVN,Europe,0,,,,,
+SWE,Europe,1,5.0,322.0,,1.0,0.0
+SYC,Sub-Saharan Africa,0,,,,,
+THA,"South East Asia, East Asia, and Oceania",0,,,,,
+TUN,Northern Africa and Western Asia,0,,,,,
+TUR,Northern Africa and Western Asia,0,,,,,
+TWN,"South East Asia, East Asia, and Oceania",1,7.0,30.0,binding_regulation,0.0,1.0
+UGA,Sub-Saharan Africa,0,,,,,
+UKR,Europe,0,,,,,
+URY,Latin America and the Caribbean,0,,,,,
+USA,Northern America,1,9.0,,soft_framework,1.0,1.0
+VNM,"South East Asia, East Asia, and Oceania",0,,,,,
+ZAF,Sub-Saharan Africa,0,,,,,

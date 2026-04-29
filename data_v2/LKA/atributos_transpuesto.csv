@@ -1,0 +1,88 @@
+atributo,valor
+iso3,LKA
+country_name,Sri Lanka
+region,South Asia
+income_group,LM
+iapp_jurisdiction_iapp,Additional research (LKA)
+iapp_has_ai_law,0
+iapp_regulatory_approach,light_touch
+iapp_regulatory_intensity,1
+iapp_enforcement_level,none
+iapp_thematic_coverage,2
+iapp_evidence_summary,"National Policy on AI discussed, ICTA engagement, no binding AI law or formal strategy."
+iapp_source,IAPP_supplementary_research
+iapp_source_date,2026-02
+oxford_readiness_score,45.6
+oxford_rank,80
+oxford_pillar_policy_capacity,72.5
+oxford_pillar_ai_infrastructure,44.09
+oxford_pillar_governance,56.63
+oxford_pillar_public_sector_adoption,43.99
+oxford_pillar_development_and_diffusion,33.31
+oxford_pillar_resilience,39.09
+oxford_dimension_compute_capacity,3.29
+oxford_dimension_policy_vision,50.0
+oxford_dimension_e_government_delivery,63.73
+oxford_dimension_safety_and_security,43.0
+ms_ai_user_share_h1_2025,6.2
+ms_ai_user_share_h2_2025,6.6
+ms_ai_user_share_change_pp,0.4
+fh_country_name,Sri Lanka
+fh_fh_status,PF
+fh_fh_total_score,57
+fh_fh_pr_score,25
+fh_fh_cl_score,32
+fh_fh_year,2025
+fh_notes,Data year 2024
+gdpr_country_name,Sri Lanka
+gdpr_has_gdpr_like_law,1
+gdpr_gdpr_similarity_level,2
+gdpr_dp_law_name,Personal Data Protection Act No. 9
+gdpr_dp_law_year,2022
+gdpr_has_dpa,0
+gdpr_eu_status,none
+gdpr_enforcement_active,0
+gdpr_notes,Enacted 2022 (effective 2025); DPA (Sri Lanka DPA) being set up
+legal_origin,English
+is_common_law,1
+wipo_gii_score,22.9052774592463
+wipo_gii_rank,93
+wipo_income_group_wipo,LM
+wipo_region_un,Central and Southern Asia
+wipo_population_thousands,23103.57
+wipo_business_environment,33.3216493010255
+wipo_business_sophistication,22.5013343232489
+wipo_creative_goods_and_services,8.02024429426215
+wipo_creative_outputs,18.3891727972787
+wipo_credit,15.1169853600017
+wipo_ecological_sustainability,33.9533321339456
+wipo_education,30.5161329866433
+wipo_general_infrastructure,32.9375303798237
+wipo_human_capital_and_research,17.5088497527602
+wipo_information_and_communication_technologies_icts,58.2893379374114
+wipo_infrastructure,41.7267334837269
+wipo_innovation_inputs,26.9171405044395
+wipo_innovation_linkages,21.7491238343747
+wipo_innovation_outputs,18.2837662874754
+wipo_institutional_environment,31.2160895229669
+wipo_institutions,32.6576604378548
+wipo_intangible_assets,20.9708172942586
+wipo_investment,2.50693911483989
+wipo_knowledge_absorption,22.674579835362
+wipo_knowledge_and_technology_outputs,18.1783597776721
+wipo_knowledge_creation,7.90322093047871
+wipo_knowledge_diffusion,26.2880933773503
+wipo_knowledge_impact,20.3437650251873
+wipo_knowledge_workers,23.0802993000098
+wipo_market_sophistication,20.1911245246066
+wipo_online_creativity,23.5948123063353
+wipo_regulatory_environment,33.435242489572
+wipo_research_and_development_r_d,0.667104116708571
+wipo_tertiary_education,21.3433121549286
+wipo_trade_diversification_and_market_scale,42.9494490989782
+wb_high_tech_exports_pct,1.10210418160865
+wb_ict_service_exports_pct,14.1021039932466
+stanford_fig_4.3.13,2
+stanford_fig_4.3.9,0.005564635
+stanford_fig_6.2.15,0
+stanford_fig_6.2.16,1

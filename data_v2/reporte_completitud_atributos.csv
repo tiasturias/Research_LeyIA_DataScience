@@ -1,0 +1,366 @@
+atributo,fuente,valores,n_total,completitud_pct,valores_faltantes
+country_name,country,86,86,100.0,0
+fh_country_name,fh,84,86,97.7,2
+fh_fh_status,fh,84,86,97.7,2
+fh_fh_total_score,fh,84,86,97.7,2
+fh_fh_pr_score,fh,84,86,97.7,2
+fh_fh_cl_score,fh,84,86,97.7,2
+fh_fh_year,fh,84,86,97.7,2
+fh_notes,fh,84,86,97.7,2
+fh_status,fh,2,86,2.3,84
+fh_total_score,fh,2,86,2.3,84
+fh_political_rights_score,fh,2,86,2.3,84
+fh_civil_liberties_score,fh,2,86,2.3,84
+fh_year,fh,2,86,2.3,84
+gdpr_has_gdpr_like_law,gdpr,86,86,100.0,0
+gdpr_has_dpa,gdpr,86,86,100.0,0
+gdpr_eu_status,gdpr,86,86,100.0,0
+gdpr_enforcement_active,gdpr,86,86,100.0,0
+gdpr_country_name,gdpr,84,86,97.7,2
+gdpr_gdpr_similarity_level,gdpr,84,86,97.7,2
+gdpr_dp_law_name,gdpr,84,86,97.7,2
+gdpr_dp_law_year,gdpr,84,86,97.7,2
+gdpr_notes,gdpr,84,86,97.7,2
+gdpr_similarity_level,gdpr,2,86,2.3,84
+gdpr_law_name,gdpr,2,86,2.3,84
+gdpr_law_year,gdpr,2,86,2.3,84
+iapp_has_ai_law,iapp,86,86,100.0,0
+iapp_regulatory_approach,iapp,86,86,100.0,0
+iapp_regulatory_intensity,iapp,86,86,100.0,0
+iapp_enforcement_level,iapp,86,86,100.0,0
+iapp_thematic_coverage,iapp,86,86,100.0,0
+iapp_evidence_summary,iapp,86,86,100.0,0
+iapp_source,iapp,86,86,100.0,0
+iapp_source_date,iapp,86,86,100.0,0
+iapp_jurisdiction_iapp,iapp,84,86,97.7,2
+iapp_year_enacted,iapp,32,86,37.2,54
+income_group,income,86,86,100.0,0
+is_common_law,is,86,86,100.0,0
+legal_origin,legal,85,86,98.8,1
+legal_country_name,legal,1,86,1.2,85
+legal_legal_origin,legal,1,86,1.2,85
+legal_is_common_law,legal,1,86,1.2,85
+legal_source_notes,legal,1,86,1.2,85
+ms_ai_user_share_h1_2025,ms,73,86,84.9,13
+ms_ai_user_share_h2_2025,ms,73,86,84.9,13
+ms_ai_user_share_change_pp,ms,73,86,84.9,13
+ms_ai_adoption_h1_2025,ms,2,86,2.3,84
+ms_ai_adoption_h2_2025,ms,2,86,2.3,84
+ms_ai_adoption_change_pp,ms,2,86,2.3,84
+oecd_n_total_initiatives,oecd,68,86,79.1,18
+oecd_n_binding,oecd,68,86,79.1,18
+oecd_n_nonbinding,oecd,68,86,79.1,18
+oecd_n_strategies,oecd,68,86,79.1,18
+oecd_n_regulations,oecd,68,86,79.1,18
+oecd_n_sectors_covered,oecd,68,86,79.1,18
+oecd_n_policy_instruments,oecd,68,86,79.1,18
+oecd_year,oecd,66,86,76.7,20
+oecd_has_ai_law,oecd,66,86,76.7,20
+oecd_regulatory_approach,oecd,66,86,76.7,20
+oecd_regulatory_intensity,oecd,66,86,76.7,20
+oecd_enforcement_level,oecd,66,86,76.7,20
+oecd_thematic_coverage,oecd,66,86,76.7,20
+oecd_year_enacted,oecd,40,86,46.5,46
+oecd_has_ai_law_2024,oecd,2,86,2.3,84
+oecd_regulatory_approach_2024,oecd,2,86,2.3,84
+oecd_regulatory_intensity_2024,oecd,2,86,2.3,84
+oecd_enforcement_level_2024,oecd,2,86,2.3,84
+oecd_thematic_coverage_2024,oecd,2,86,2.3,84
+oxford_readiness_score,oxford,86,86,100.0,0
+oxford_rank,oxford,86,86,100.0,0
+oxford_pillar_policy_capacity,oxford,86,86,100.0,0
+oxford_pillar_ai_infrastructure,oxford,86,86,100.0,0
+oxford_pillar_governance,oxford,86,86,100.0,0
+oxford_pillar_public_sector_adoption,oxford,86,86,100.0,0
+oxford_pillar_development_and_diffusion,oxford,86,86,100.0,0
+oxford_pillar_resilience,oxford,86,86,100.0,0
+oxford_dimension_compute_capacity,oxford,86,86,100.0,0
+oxford_dimension_policy_vision,oxford,86,86,100.0,0
+oxford_dimension_e_government_delivery,oxford,86,86,100.0,0
+oxford_dimension_safety_and_security,oxford,86,86,100.0,0
+oxford_dimension_ai_sector_maturity,oxford,42,86,48.8,44
+oxford_dimension_human_capital,oxford,42,86,48.8,44
+oxford_dimension_data_quality,oxford,42,86,48.8,44
+oxford_dimension_regulatory_compliance,oxford,42,86,48.8,44
+oxford_dimension_government_digital_policy,oxford,38,86,44.2,48
+oxford_dimension_societal_transition,oxford,38,86,44.2,48
+oxford_dimension_ai_technology_diffusion,oxford,38,86,44.2,48
+oxford_dimension_policy_commitment,oxford,3,86,3.5,83
+oxford_dimension_enabling_technical_infrastructure,oxford,3,86,3.5,83
+oxford_dimension_governance_principles,oxford,3,86,3.5,83
+oxford_oxford_rank_reported,oxford,1,86,1.2,85
+oxford_ai_readiness_score,oxford,1,86,1.2,85
+oxford_cluster_governance,oxford,0,86,0.0,86
+oxford_cluster_infrastructure_and_data,oxford,0,86,0.0,86
+oxford_cluster_skills_and_education,oxford,0,86,0.0,86
+oxford_cluster_government_and_public_services,oxford,0,86,0.0,86
+region,region,86,86,100.0,0
+stanford_fig_4.3.13,stanford,82,86,95.3,4
+stanford_fig_4.3.9,stanford,82,86,95.3,4
+stanford_fig_6.2.1,stanford,67,86,77.9,19
+stanford_fig_4.3.8,stanford,63,86,73.3,23
+stanford_fig_4.3.12,stanford,59,86,68.6,27
+stanford_fig_1.2.4,stanford,52,86,60.5,34
+stanford_fig_6.2.15,stanford,51,86,59.3,35
+stanford_fig_6.2.16,stanford,51,86,59.3,35
+stanford_fig_4.2.15,stanford,48,86,55.8,38
+stanford_fig_4.2.17,stanford,48,86,55.8,38
+stanford_fig_4.2.18,stanford,48,86,55.8,38
+stanford_fig_4.2.23,stanford,48,86,55.8,38
+stanford_fig_4.2.13,stanford,47,86,54.7,39
+stanford_fig_4.2.14,stanford,47,86,54.7,39
+stanford_fig_4.2.22,stanford,47,86,54.7,39
+stanford_fig_4.2.19,stanford,43,86,50.0,43
+stanford_fig_4.2.21,stanford,43,86,50.0,43
+stanford_fig_4.2.16,stanford,41,86,47.7,45
+stanford_fig_6.3.1,stanford,37,86,43.0,49
+stanford_fig_6.3.2,stanford,37,86,43.0,49
+stanford_fig_6.3.3,stanford,37,86,43.0,49
+stanford_fig_6.3.4,stanford,37,86,43.0,49
+stanford_fig_4.2.25,stanford,31,86,36.0,55
+stanford_fig_1.3.3,stanford,29,86,33.7,57
+stanford_fig_6.2.17,stanford,22,86,25.6,64
+stanford_fig_1.2.5,stanford,16,86,18.6,70
+stanford_fig_6.2.4,stanford,16,86,18.6,70
+stanford_fig_6.3.5,stanford,16,86,18.6,70
+stanford_fig_4.5.4,stanford,15,86,17.4,71
+stanford_fig_4.5.7,stanford,15,86,17.4,71
+stanford_fig_6.2.3,stanford,13,86,15.1,73
+stanford_fig_6.2.20,stanford,11,86,12.8,75
+stanford_fig_6.2.8,stanford,11,86,12.8,75
+stanford_fig_4.4.5,stanford,10,86,11.6,76
+stanford_fig_4.2.1,stanford,9,86,10.5,77
+stanford_fig_4.2.24,stanford,9,86,10.5,77
+stanford_fig_4.3.15,stanford,9,86,10.5,77
+stanford_fig_4.3.16,stanford,9,86,10.5,77
+stanford_fig_4.4.2,stanford,9,86,10.5,77
+stanford_fig_4.2.2,stanford,9,86,10.5,77
+stanford_fig_4.2.7,stanford,8,86,9.3,78
+stanford_fig_1.1.11,stanford,8,86,9.3,78
+stanford_fig_4.4.12,stanford,6,86,7.0,80
+stanford_fig_1.4.6,stanford,6,86,7.0,80
+stanford_fig_1.3.1,stanford,6,86,7.0,80
+stanford_fig_4.4.6,stanford,5,86,5.8,81
+stanford_fig_1.3.12,stanford,5,86,5.8,81
+stanford_fig_1.3.25,stanford,5,86,5.8,81
+stanford_fig_6.3.8,stanford,5,86,5.8,81
+stanford_fig_4.4.4,stanford,5,86,5.8,81
+stanford_fig_4.4.7,stanford,5,86,5.8,81
+stanford_fig_4.5.5,stanford,5,86,5.8,81
+stanford_fig_4.5.8,stanford,4,86,4.7,82
+stanford_fig_4.4.3,stanford,3,86,3.5,83
+stanford_fig_6.3.13,stanford,3,86,3.5,83
+stanford_fig_6.3.9,stanford,3,86,3.5,83
+stanford_fig_1.1.6,stanford,3,86,3.5,83
+stanford_fig_1.1.7,stanford,3,86,3.5,83
+stanford_fig_1.2.3,stanford,3,86,3.5,83
+stanford_fig_1.6.2,stanford,3,86,3.5,83
+stanford_fig_1.6.4,stanford,3,86,3.5,83
+stanford_fig_1.3.22,stanford,2,86,2.3,84
+stanford_fig_4.2.5,stanford,2,86,2.3,84
+stanford_fig_4.2.6,stanford,2,86,2.3,84
+stanford_fig_1.3.24,stanford,2,86,2.3,84
+stanford_fig_1.3.26,stanford,2,86,2.3,84
+stanford_fig_1.4.7,stanford,2,86,2.3,84
+stanford_fig_1.4.8,stanford,2,86,2.3,84
+stanford_fig_4.2.3,stanford,2,86,2.3,84
+stanford_fig_6.3.10,stanford,2,86,2.3,84
+stanford_ai_investment_cumulative_2013_2024_bn,stanford,2,86,2.3,84
+stanford_ai_investment_2024_bn,stanford,2,86,2.3,84
+stanford_ai_newly_funded_companies_cumulative_2013_2024,stanford,2,86,2.3,84
+stanford_ai_skill_penetration_rate,stanford,2,86,2.3,84
+stanford_ai_skill_penetration_female,stanford,2,86,2.3,84
+stanford_ai_skill_penetration_male,stanford,2,86,2.3,84
+stanford_ai_talent_concentration_pct,stanford,2,86,2.3,84
+stanford_ai_talent_change_pct,stanford,2,86,2.3,84
+stanford_net_ai_talent_migration_per10k,stanford,2,86,2.3,84
+stanford_ai_hiring_rate_yoy_pct,stanford,2,86,2.3,84
+stanford_ai_patents_per100k_2023,stanford,2,86,2.3,84
+stanford_ai_bills_passed_2016_2024,stanford,2,86,2.3,84
+stanford_fig_4.5.6,stanford,2,86,2.3,84
+stanford_fig_1.1.13,stanford,2,86,2.3,84
+stanford_fig_1.1.9,stanford,2,86,2.3,84
+stanford_fig_1.3.11,stanford,2,86,2.3,84
+stanford_fig_1.3.15,stanford,2,86,2.3,84
+stanford_fig_1.3.4,stanford,2,86,2.3,84
+stanford_fig_1.3.5,stanford,2,86,2.3,84
+stanford_fig_6.2.7,stanford,2,86,2.3,84
+stanford_fig_4.3.1,stanford,2,86,2.3,84
+stanford_fig_1.2.2,stanford,2,86,2.3,84
+stanford_fig_6.2.13,stanford,2,86,2.3,84
+stanford_fig_1.4.5,stanford,1,86,1.2,85
+stanford_fig_1.3.23,stanford,1,86,1.2,85
+stanford_fig_4.2.27,stanford,1,86,1.2,85
+stanford_fig_4.2.4,stanford,1,86,1.2,85
+stanford_fig_4.3.10,stanford,1,86,1.2,85
+stanford_fig_4.3.11,stanford,1,86,1.2,85
+stanford_fig_4.3.14,stanford,1,86,1.2,85
+stanford_fig_1.3.17,stanford,1,86,1.2,85
+stanford_fig_1.3.2,stanford,1,86,1.2,85
+stanford_fig_4.5.3,stanford,1,86,1.2,85
+stanford_fig_1.3.10,stanford,1,86,1.2,85
+stanford_fig_1.3.8,stanford,1,86,1.2,85
+stanford_fig_1.3.9,stanford,1,86,1.2,85
+stanford_fig_1.1.12,stanford,1,86,1.2,85
+stanford_fig_1.1.8,stanford,1,86,1.2,85
+stanford_fig_1.3.18,stanford,1,86,1.2,85
+stanford_fig_6.2.12,stanford,1,86,1.2,85
+stanford_fig_1.1.4,stanford,1,86,1.2,85
+stanford_fig_1.1.5,stanford,1,86,1.2,85
+stanford_ai_newly_funded_companies_2024,stanford,1,86,1.2,85
+stanford_ai_patents_change_2013_2023,stanford,1,86,1.2,85
+stanford_notable_ml_models_cumulative_2003_2024,stanford,1,86,1.2,85
+stanford_highly_cited_publications_top100_2023,stanford,1,86,1.2,85
+stanford_ai_mentions_parliamentary,stanford,1,86,1.2,85
+stanford_fig_1.3.21,stanford,1,86,1.2,85
+stanford_fig_1.1.10,stanford,1,86,1.2,85
+stanford_fig_4.2.1_Year,stanford,1,86,1.2,85
+"stanford_fig_4.2.15_Relative AI skill penetration rate, 2015-24",stanford,1,86,1.2,85
+"stanford_fig_4.2.16_Relative AI skill penetration, 2015-24",stanford,1,86,1.2,85
+stanford_fig_4.2.19_Year,stanford,1,86,1.2,85
+stanford_fig_4.2.21_Year,stanford,1,86,1.2,85
+"stanford_fig_4.2.22_Net AI talent migration per 10,000 LinkedIn members",stanford,1,86,1.2,85
+"stanford_fig_4.2.23_Net AI talent migration per 10,000 LinkedIn members",stanford,1,86,1.2,85
+stanford_fig_4.3.10_Year,stanford,1,86,1.2,85
+stanford_fig_4.3.10_Total investment (in billions of US dollars),stanford,1,86,1.2,85
+stanford_fig_4.3.11_Year,stanford,1,86,1.2,85
+stanford_fig_4.3.11_Total investment (in billions of US dollars),stanford,1,86,1.2,85
+"stanford_fig_4.3.12_Number of newly funded AI companies, 2024",stanford,1,86,1.2,85
+"stanford_fig_4.3.13_Number of newly funded AI companies, 2013-24",stanford,1,86,1.2,85
+stanford_fig_4.3.14_Year,stanford,1,86,1.2,85
+stanford_fig_4.3.14_Number of companies,stanford,1,86,1.2,85
+stanford_fig_4.3.8_Total Investment (in Billions of U.S. Dollars),stanford,1,86,1.2,85
+"stanford_fig_4.3.9_Total Investment (in Billions of U.S. Dollars), 2013-24",stanford,1,86,1.2,85
+stanford_fig_4.5.4_Number of Industrial Robots Installed (in Thousands),stanford,1,86,1.2,85
+stanford_fig_4.5.4_Label,stanford,1,86,1.2,85
+stanford_fig_4.5.5_Year,stanford,1,86,1.2,85
+stanford_fig_4.5.5_Number of industrial robots installed (in thousands),stanford,1,86,1.2,85
+stanford_fig_1.1.11_Number of highly cited publications in top 100,stanford,1,86,1.2,85
+stanford_fig_1.1.11_Label,stanford,1,86,1.2,85
+stanford_fig_1.1.6_Year,stanford,1,86,1.2,85
+stanford_fig_1.1.6_AI publications in CS (% of total),stanford,1,86,1.2,85
+stanford_fig_1.1.7_Year,stanford,1,86,1.2,85
+stanford_fig_1.1.7_AI publication citations in CS (% of total),stanford,1,86,1.2,85
+stanford_fig_1.1.9_AI Publications (% of Total),stanford,1,86,1.2,85
+stanford_fig_1.2.3_Year,stanford,1,86,1.2,85
+stanford_fig_1.2.3_Granted AI patents (% of world total),stanford,1,86,1.2,85
+"stanford_fig_1.2.4_Granted AI patents (per 100,000 inhabitants) in 2023",stanford,1,86,1.2,85
+"stanford_fig_1.2.5_Change of granted AI patents (per 100,000 inhabitants) 2013 vs. 2023 for Top in 2023",stanford,1,86,1.2,85
+stanford_fig_1.3.1_Number of notable machine learning models in 2024,stanford,1,86,1.2,85
+stanford_fig_1.3.17_Training compute (petaFLOP – log scale),stanford,1,86,1.2,85
+stanford_fig_1.3.2_Year,stanford,1,86,1.2,85
+stanford_fig_1.3.2_Number of notable AI models,stanford,1,86,1.2,85
+"stanford_fig_1.3.3_Number of notable machine learning models, 2003-24 (sum)",stanford,1,86,1.2,85
+stanford_fig_1.6.2_Year,stanford,1,86,1.2,85
+stanford_fig_1.6.2_AI projects (% of total),stanford,1,86,1.2,85
+stanford_fig_1.6.4_Year,stanford,1,86,1.2,85
+stanford_fig_1.6.4_Number of cumulative GitHub stars (in millions),stanford,1,86,1.2,85
+"stanford_fig_6.2.1_Number of AI-related bills passed into law, 2016-24",stanford,1,86,1.2,85
+stanford_fig_6.2.15_Number of mentions of AI in legislative proceedings,stanford,1,86,1.2,85
+stanford_fig_6.2.16_Number of mentions of AI in legislative proceedings,stanford,1,86,1.2,85
+stanford_fig_6.2.17_Number of AI-related bills passed into law,stanford,1,86,1.2,85
+stanford_fig_6.2.17_Number of AI mentions,stanford,1,86,1.2,85
+"stanford_fig_6.2.3_Number of AI-related bills passed into law, 2024",stanford,1,86,1.2,85
+"stanford_fig_6.2.4_Number of AI-related bills passed into law, 2016–24 (sum)",stanford,1,86,1.2,85
+stanford_fig_6.3.1_Tot. Value (M$),stanford,1,86,1.2,85
+stanford_fig_6.3.2_N. Contracts,stanford,1,86,1.2,85
+stanford_fig_6.3.3_Median Contract Value (k$),stanford,1,86,1.2,85
+stanford_fig_6.3.4_Tot. Value per 100k Inhabitants (k$),stanford,1,86,1.2,85
+stanford_fig_6.3.5_Public spending on AI-related contracts (in millions of U.S. dollars),stanford,1,86,1.2,85
+stanford_fig_6.3.6_Year,stanford,1,86,1.2,85
+stanford_fig_6.3.6_Public spending on AI-related contracts  (in millions of US dollars),stanford,1,86,1.2,85
+wb_high_tech_exports_pct,wb,81,86,94.2,5
+wb_ict_service_exports_pct,wb,80,86,93.0,6
+wb_gdp_per_capita_ppp_2024,wb,63,86,73.3,23
+wb_government_effectiveness_2023,wb,63,86,73.3,23
+wb_regulatory_quality_2023,wb,63,86,73.3,23
+wb_rule_of_law_2023,wb,63,86,73.3,23
+wb_control_of_corruption_2023,wb,63,86,73.3,23
+wb_political_stability_2023,wb,63,86,73.3,23
+wb_population_2024,wb,63,86,73.3,23
+wb_unemployment_rate_2024,wb,63,86,73.3,23
+wb_mobile_subscriptions_per100_2023,wb,62,86,72.1,24
+wb_voice_accountability_2023,wb,61,86,70.9,25
+wb_gdp_current_usd_2024,wb,61,86,70.9,25
+wb_labor_force_2024,wb,61,86,70.9,25
+wb_fdi_net_inflows_2024,wb,61,86,70.9,25
+wb_inflation_consumer_prices_2024,wb,61,86,70.9,25
+wb_exports_pct_gdp_2024,wb,61,86,70.9,25
+wb_patent_applications_residents_2021,wb,58,86,67.4,28
+wb_rd_expenditure_2022,wb,40,86,46.5,46
+wb_tertiary_education_2023,wb,40,86,46.5,46
+wb_internet_penetration_2024,wb,37,86,43.0,49
+wb_education_expenditure_pct_gdp_2022,wb,36,86,41.9,50
+wb_internet_penetration_2023,wb,25,86,29.1,61
+wb_education_expenditure_pct_gdp_2023,wb,15,86,17.4,71
+wb_tertiary_education_2024,wb,13,86,15.1,73
+wb_education_expenditure_pct_gdp_2021,wb,7,86,8.1,79
+wb_rd_expenditure_2021,wb,6,86,7.0,80
+wb_rd_expenditure_2020,wb,5,86,5.8,81
+wb_tertiary_education_2022,wb,5,86,5.8,81
+wb_rd_expenditure_2023,wb,5,86,5.8,81
+wb_education_expenditure_pct_gdp_2024,wb,3,86,3.5,83
+wb_gdp_current_usd_bn_2024,wb,2,86,2.3,84
+wb_tertiary_education_rate_2023,wb,2,86,2.3,84
+wb_inflation_2024,wb,2,86,2.3,84
+wb_fdi_net_inflows_usd_2024,wb,2,86,2.3,84
+wb_high_tech_exports_pct_2019,wb,2,86,2.3,84
+wb_ict_service_exports_pct_2019,wb,2,86,2.3,84
+wb_voice_and_accountability_2023,wb,2,86,2.3,84
+wb_patent_applications_residents_2020,wb,2,86,2.3,84
+wb_rd_expenditure_2019,wb,2,86,2.3,84
+wb_exports_pct_gdp_2023,wb,1,86,1.2,85
+wb_rd_expenditure_pct_gdp_2021,wb,1,86,1.2,85
+wb_education_expenditure_pct_gdp_2020,wb,1,86,1.2,85
+wb_tertiary_education_2019,wb,1,86,1.2,85
+wb_internet_penetration_2022,wb,1,86,1.2,85
+wb_rd_expenditure_2016,wb,1,86,1.2,85
+wb_mobile_subscriptions_per100_2022,wb,1,86,1.2,85
+wb_tertiary_education_2017,wb,1,86,1.2,85
+wb_rd_expenditure_2018,wb,1,86,1.2,85
+wb_rd_expenditure_pct_gdp_2020,wb,1,86,1.2,85
+wb_patent_applications_residents_2018,wb,1,86,1.2,85
+wb_patent_applications_residents_2017,wb,1,86,1.2,85
+wb_year,wb,1,86,1.2,85
+wipo_gii_score,wipo,84,86,97.7,2
+wipo_gii_rank,wipo,84,86,97.7,2
+wipo_business_environment,wipo,84,86,97.7,2
+wipo_business_sophistication,wipo,84,86,97.7,2
+wipo_creative_goods_and_services,wipo,84,86,97.7,2
+wipo_creative_outputs,wipo,84,86,97.7,2
+wipo_credit,wipo,84,86,97.7,2
+wipo_ecological_sustainability,wipo,84,86,97.7,2
+wipo_education,wipo,84,86,97.7,2
+wipo_general_infrastructure,wipo,84,86,97.7,2
+wipo_human_capital_and_research,wipo,84,86,97.7,2
+wipo_infrastructure,wipo,84,86,97.7,2
+wipo_innovation_inputs,wipo,84,86,97.7,2
+wipo_innovation_linkages,wipo,84,86,97.7,2
+wipo_innovation_outputs,wipo,84,86,97.7,2
+wipo_institutions,wipo,84,86,97.7,2
+wipo_intangible_assets,wipo,84,86,97.7,2
+wipo_knowledge_absorption,wipo,84,86,97.7,2
+wipo_knowledge_and_technology_outputs,wipo,84,86,97.7,2
+wipo_knowledge_creation,wipo,84,86,97.7,2
+wipo_knowledge_diffusion,wipo,84,86,97.7,2
+wipo_knowledge_impact,wipo,84,86,97.7,2
+wipo_market_sophistication,wipo,84,86,97.7,2
+wipo_online_creativity,wipo,84,86,97.7,2
+wipo_regulatory_environment,wipo,84,86,97.7,2
+wipo_population_thousands,wipo,83,86,96.5,3
+wipo_institutional_environment,wipo,83,86,96.5,3
+wipo_knowledge_workers,wipo,83,86,96.5,3
+wipo_tertiary_education,wipo,83,86,96.5,3
+wipo_income_group_wipo,wipo,82,86,95.3,4
+wipo_region_un,wipo,82,86,95.3,4
+wipo_ppp_per_capita,wipo,82,86,95.3,4
+wipo_investment,wipo,82,86,95.3,4
+wipo_research_and_development_r_d,wipo,82,86,95.3,4
+wipo_trade_diversification_and_market_scale,wipo,82,86,95.3,4
+wipo_information_and_communication_technologies_icts,wipo,81,86,94.2,5
+wipo_income_group,wipo,2,86,2.3,84
+wipo_research_and_development,wipo,2,86,2.3,84
+wipo_information_and_communication_technologies,wipo,2,86,2.3,84
+wipo_trade_diversification,wipo,2,86,2.3,84
+wipo_information_and_communication_technology_ict,wipo,1,86,1.2,85
+wipo_international_restrictions,wipo,0,86,0.0,86

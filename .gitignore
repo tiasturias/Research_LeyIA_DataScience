@@ -1,6 +1,10 @@
 .venv/
+.venv_linux/
+.venv_mac/
 __pycache__/
 *.pyc
 .DS_Store
 *.log
 data/raw/
+*.ipynb_checkpoints/
+.ipynb_checkpoints/

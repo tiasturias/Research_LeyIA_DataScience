@@ -1,0 +1,49 @@
+atributo,valor
+iso3,BLZ
+country_name,Belize
+region,LATAM
+income_group,UM
+iapp_jurisdiction_iapp,Additional research (BLZ)
+iapp_has_ai_law,0
+iapp_regulatory_approach,none
+iapp_regulatory_intensity,0
+iapp_enforcement_level,none
+iapp_thematic_coverage,0
+iapp_evidence_summary,"No AI-specific legislation, strategy or governance framework identified."
+iapp_source,IAPP_supplementary_research
+iapp_source_date,2026-02
+oxford_readiness_score,22.68
+oxford_rank,158
+oxford_pillar_policy_capacity,7.5
+oxford_pillar_ai_infrastructure,35.58
+oxford_pillar_governance,23.08
+oxford_pillar_public_sector_adoption,19.19
+oxford_pillar_development_and_diffusion,13.59
+oxford_pillar_resilience,32.95
+oxford_dimension_compute_capacity,0.0
+oxford_dimension_policy_vision,0.0
+oxford_dimension_e_government_delivery,18.39
+oxford_dimension_safety_and_security,23.0
+fh_country_name,Belize
+fh_fh_status,F
+fh_fh_total_score,86
+fh_fh_pr_score,36
+fh_fh_cl_score,50
+fh_fh_year,2025
+fh_notes,Data year 2024
+gdpr_country_name,Belize
+gdpr_has_gdpr_like_law,1
+gdpr_gdpr_similarity_level,2
+gdpr_dp_law_name,Data Protection Act
+gdpr_dp_law_year,2021
+gdpr_has_dpa,0
+gdpr_eu_status,none
+gdpr_enforcement_active,0
+gdpr_notes,Enacted 2021; DPA not yet operational
+legal_origin,English
+is_common_law,1
+wb_high_tech_exports_pct,0.0
+wb_ict_service_exports_pct,4.31279909604743
+stanford_fig_4.3.13,1
+stanford_fig_4.3.9,0.0265
+stanford_fig_6.2.1,0

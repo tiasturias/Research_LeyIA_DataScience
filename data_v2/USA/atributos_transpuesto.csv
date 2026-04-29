@@ -1,0 +1,190 @@
+atributo,valor
+iso3,USA
+country_name,United States
+region,North America
+income_group,HI
+iapp_jurisdiction_iapp,United States
+iapp_has_ai_law,0
+iapp_regulatory_approach,strategy_led
+iapp_regulatory_intensity,6
+iapp_enforcement_level,medium
+iapp_thematic_coverage,13
+iapp_evidence_summary,"EO 14110 on safe AI Oct 2023, NIST AI RMF, AI Bill of Rights blueprint, FTC enforcement actions, no comprehensive federal AI law"
+iapp_source,IAPP_Global_AI_Law_Policy_Tracker
+iapp_source_date,2026-02
+oxford_readiness_score,88.36
+oxford_rank,1
+oxford_oxford_rank_reported,1
+oxford_ai_readiness_score,88.36
+oxford_dimension_human_capital,74.56
+oxford_pillar_policy_capacity,92.5
+oxford_pillar_ai_infrastructure,91.77
+oxford_pillar_governance,82.5
+oxford_pillar_public_sector_adoption,92.87
+oxford_pillar_development_and_diffusion,88.16
+oxford_pillar_resilience,78.28
+oxford_dimension_policy_vision,100.0
+oxford_dimension_policy_commitment,87.5
+oxford_dimension_compute_capacity,90.92
+oxford_dimension_enabling_technical_infrastructure,89.61
+oxford_dimension_data_quality,94.77
+oxford_dimension_governance_principles,75.0
+oxford_dimension_regulatory_compliance,90.0
+oxford_dimension_government_digital_policy,87.9
+oxford_dimension_e_government_delivery,97.84
+oxford_dimension_ai_sector_maturity,100.0
+oxford_dimension_ai_technology_diffusion,85.96
+oxford_dimension_societal_transition,56.55
+oxford_dimension_safety_and_security,100.0
+ms_ai_user_share_h1_2025,26.3
+ms_ai_user_share_h2_2025,28.3
+ms_ai_user_share_change_pp,2.1
+fh_country_name,United States
+fh_fh_status,F
+fh_fh_total_score,83
+fh_fh_pr_score,33
+fh_fh_cl_score,50
+fh_fh_year,2025
+fh_notes,Data year 2024
+gdpr_country_name,United States
+gdpr_has_gdpr_like_law,0
+gdpr_gdpr_similarity_level,1
+gdpr_dp_law_name,Sectoral laws (HIPAA COPPA GLBA FCRA) + state laws (CCPA VCDPA)
+gdpr_dp_law_year,1996
+gdpr_has_dpa,0
+gdpr_eu_status,none
+gdpr_enforcement_active,1
+gdpr_notes,No federal comprehensive law; 19+ state comprehensive laws; EU-US DPF framework only
+legal_country_name,United States
+legal_legal_origin,English
+legal_is_common_law,1
+legal_source_notes,Common law origin per La Porta 2008
+is_common_law,1
+wipo_gii_score,61.6892112586677
+wipo_gii_rank,3
+wipo_income_group_wipo,HI
+wipo_region_un,Northern America
+wipo_ppp_per_capita,86601.28
+wipo_population_thousands,345426.57
+wipo_business_environment,65.0254400509337
+wipo_business_sophistication,70.5923065909842
+wipo_creative_goods_and_services,49.0875647465949
+wipo_creative_outputs,54.9218859863177
+wipo_credit,78.7318663757807
+wipo_ecological_sustainability,13.7180425682895
+wipo_education,59.5332848749045
+wipo_general_infrastructure,49.9024254940762
+wipo_human_capital_and_research,56.6765087653998
+wipo_information_and_communication_technologies_icts,93.3180258157821
+wipo_infrastructure,52.3128312927159
+wipo_innovation_inputs,67.1971428609901
+wipo_innovation_linkages,77.1116711681279
+wipo_innovation_outputs,57.5615310260956
+wipo_institutional_environment,78.3930048086383
+wipo_institutions,74.8770833224467
+wipo_intangible_assets,52.3367067029826
+wipo_investment,69.8997079385009
+wipo_knowledge_absorption,52.8235717014095
+wipo_knowledge_and_technology_outputs,60.2011760658735
+wipo_knowledge_creation,56.866458336689
+wipo_knowledge_diffusion,46.59164912887
+wipo_knowledge_impact,77.1454207320615
+wipo_knowledge_workers,81.8416769034151
+wipo_market_sophistication,81.526984333404
+wipo_online_creativity,65.9265657927107
+wipo_regulatory_environment,81.2128051077682
+wipo_research_and_development_r_d,77.2780358307412
+wipo_tertiary_education,33.2182055905537
+wipo_trade_diversification_and_market_scale,95.9493786859303
+wb_gdp_per_capita_ppp_2024,85809.9003846359
+wb_rd_expenditure_2022,3.58623
+wb_internet_penetration_2023,93.1444
+wb_tertiary_education_2022,79.361930847168
+wb_government_effectiveness_2023,1.21720099449158
+wb_regulatory_quality_2023,1.39373278617859
+wb_rule_of_law_2023,1.3276778459549
+wb_control_of_corruption_2023,1.12343263626099
+wb_voice_accountability_2023,0.877519071102142
+wb_political_stability_2023,0.029424749314785
+wb_year,2019
+wb_high_tech_exports_pct,18.6853939276571
+wb_ict_service_exports_pct,6.72149072800021
+wb_gdp_current_usd_2024,28750956130731.2
+wb_population_2024,340110988.0
+wb_labor_force_2024,174221396.0
+wb_fdi_net_inflows_2024,297058000000.0
+wb_exports_pct_gdp_2024,11.1074566893674
+wb_inflation_consumer_prices_2024,2.94952520485207
+wb_unemployment_rate_2024,4.022
+wb_education_expenditure_pct_gdp_2021,5.42038011550903
+wb_mobile_subscriptions_per100_2023,112.411
+wb_patent_applications_residents_2021,262244.0
+oecd_year,2024
+oecd_has_ai_law,1
+oecd_regulatory_approach,regulation_focused
+oecd_year_enacted,1999.0
+oecd_regulatory_intensity,30
+oecd_enforcement_level,high
+oecd_thematic_coverage,2
+oecd_n_total_initiatives,55
+oecd_n_binding,11
+oecd_n_nonbinding,35
+oecd_n_strategies,0
+oecd_n_regulations,20
+oecd_n_sectors_covered,1
+oecd_n_policy_instruments,1
+stanford_fig_4.2.1_Year,2014
+"stanford_fig_4.2.15_Relative AI skill penetration rate, 2015-24",2.63
+"stanford_fig_4.2.16_Relative AI skill penetration, 2015-24",1.71
+stanford_fig_4.2.19_Year,2016
+stanford_fig_4.2.21_Year,2016
+"stanford_fig_4.2.22_Net AI talent migration per 10,000 LinkedIn members",1.07
+"stanford_fig_4.2.23_Net AI talent migration per 10,000 LinkedIn members",0.99
+stanford_fig_4.3.10_Year,2013
+stanford_fig_4.3.10_Total investment (in billions of US dollars),3.620671948
+stanford_fig_4.3.11_Year,2019
+stanford_fig_4.3.11_Total investment (in billions of US dollars),0.591928631
+"stanford_fig_4.3.12_Number of newly funded AI companies, 2024",1073
+"stanford_fig_4.3.13_Number of newly funded AI companies, 2013-24",6956
+stanford_fig_4.3.14_Year,2013
+stanford_fig_4.3.14_Number of companies,337
+stanford_fig_4.3.8_Total Investment (in Billions of U.S. Dollars),109.0773255
+"stanford_fig_4.3.9_Total Investment (in Billions of U.S. Dollars), 2013-24",470.9223112
+stanford_fig_4.5.4_Number of Industrial Robots Installed (in Thousands),37.6
+stanford_fig_4.5.4_Label,2023
+stanford_fig_4.5.5_Year,2011
+stanford_fig_4.5.5_Number of industrial robots installed (in thousands),21
+stanford_fig_1.1.11_Number of highly cited publications in top 100,50
+stanford_fig_1.1.11_Label,2023
+stanford_fig_1.1.6_Year,2013
+stanford_fig_1.1.6_AI publications in CS (% of total),0.1183834657162557
+stanford_fig_1.1.7_Year,2013
+stanford_fig_1.1.7_AI publication citations in CS (% of total),0.2535483303455215
+stanford_fig_1.1.9_AI Publications (% of Total),0.7560702401739532
+stanford_fig_1.2.3_Year,2010
+stanford_fig_1.2.3_Granted AI patents (% of world total),0.4000519210799584
+"stanford_fig_1.2.4_Granted AI patents (per 100,000 inhabitants) in 2023",5.204605785
+"stanford_fig_1.2.5_Change of granted AI patents (per 100,000 inhabitants) 2013 vs. 2023 for Top in 2023",5.797386068
+stanford_fig_1.3.1_Number of notable machine learning models in 2024,40
+stanford_fig_1.3.17_Training compute (petaFLOP – log scale),360.0
+stanford_fig_1.3.2_Year,2003
+stanford_fig_1.3.2_Number of notable AI models,4
+"stanford_fig_1.3.3_Number of notable machine learning models, 2003-24 (sum)",558
+stanford_fig_1.6.2_Year,2011
+stanford_fig_1.6.2_AI projects (% of total),0.5816599732262383
+stanford_fig_1.6.4_Year,2011
+stanford_fig_1.6.4_Number of cumulative GitHub stars (in millions),0.007079
+"stanford_fig_6.2.1_Number of AI-related bills passed into law, 2016-24",27
+stanford_fig_6.2.15_Number of mentions of AI in legislative proceedings,113
+stanford_fig_6.2.16_Number of mentions of AI in legislative proceedings,538
+stanford_fig_6.2.17_Number of AI-related bills passed into law,24
+stanford_fig_6.2.17_Number of AI mentions,538
+"stanford_fig_6.2.3_Number of AI-related bills passed into law, 2024",4
+"stanford_fig_6.2.4_Number of AI-related bills passed into law, 2016–24 (sum)",27
+stanford_fig_6.3.1_Tot. Value (M$),5233.09979627
+stanford_fig_6.3.2_N. Contracts,2678
+stanford_fig_6.3.3_Median Contract Value (k$),215.022
+stanford_fig_6.3.4_Tot. Value per 100k Inhabitants (k$),1582.912677
+stanford_fig_6.3.5_Public spending on AI-related contracts (in millions of U.S. dollars),830.97829171
+stanford_fig_6.3.6_Year,2013
+stanford_fig_6.3.6_Public spending on AI-related contracts  (in millions of US dollars),56.81
