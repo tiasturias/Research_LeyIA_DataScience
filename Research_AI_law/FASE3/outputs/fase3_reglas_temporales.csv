@@ -1,0 +1,9 @@
+source_id,default_rule,notes
+iapp,cross_section,IAPP snapshot 2026-01; no temporal collapse
+microsoft,h2_2025_if_available,Prefer H2 2025; H1/change retained as separate variables
+oxford,latest_year_per_country,Latest year after excluding incompatible 2019 scale
+wb,latest_available_per_country_per_indicator,Latest available year per country-indicator
+wipo,year_2025_if_available,"Prefer 2025 score, fallback latest available score"
+stanford,latest_available_per_figure,Latest year per figure/variable; no-year rows retained as cross-section
+oecd,latest_available_per_country_per_indicator,Latest available year per country-indicator
+anthropic,latest_window_available,Latest available country window/metric

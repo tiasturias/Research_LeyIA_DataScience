@@ -1,0 +1,3 @@
+review_id,area,item,reviewer,status,notes
+HIL_GEO_001,geography,HKG/PRI/TWN/XKX/MAC treatment,user_context,documented,Carried from explicit prior Fase 3 human-in-loop decisions
+HIL_MS_001,geography,Microsoft country-name crosswalk,algorithmic_high_confidence_pending_user_spotcheck,ready_for_human_spotcheck,0 Microsoft rows below threshold

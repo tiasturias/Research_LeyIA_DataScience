@@ -1,0 +1,9 @@
+decision_id,area,decision,justification,status
+DEC001,geography,ISO3 canonical key,ISO3 is standard and audit-friendly,approved_by_plan
+DEC002,geography,EU excluded as organization/group,EU is not a country-level observational unit,approved_by_plan
+DEC003,temporal,Oxford 2019 excluded,2019 scale incompatible with 2020+ 0-100 score,approved_by_plan
+DEC004,variable,"WIPO SCORE retained, RANK excluded",Score has direct higher-is-better direction,approved_by_plan
+DEC005,temporal,Latest available snapshot rules,Retain panel and derive auditable snapshot,approved_by_plan
+DEC006,variable,Stanford chapters 3 and 6 only,Matches Fase 2 recommendation REC008,approved_by_plan
+DEC007,geography,"HKG, PRI, TWN, XKX included; MAC excluded",Human-in-loop decision documented in planning context,human_context
+DEC008,audit,Matriz_EJEMPLO.xlsx not used as data,Only source files and Fase 2 outputs feed values,approved_by_plan

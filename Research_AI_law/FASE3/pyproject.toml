@@ -1,0 +1,19 @@
+[project]
+name = "research-ai-law-fase3"
+version = "1.0.0"
+description = "Fase 3 Matriz Madre auditable para Research_AI_law"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas",
+  "openpyxl",
+  "pandera",
+  "pytest",
+  "pyyaml",
+  "rapidfuzz",
+  "jupyter",
+  "ipywidgets",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "."]
+testpaths = ["tests", "tests/fase3"]

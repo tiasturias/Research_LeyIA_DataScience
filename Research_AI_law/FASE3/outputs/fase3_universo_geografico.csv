@@ -1,0 +1,260 @@
+iso3,country_name_canonical,entity_type,region,income_group,present_iapp,present_microsoft,present_oxford,present_wb,present_wipo,present_stanford,present_oecd,present_anthropic,n_sources_present,source_list,included_in_matrix,included_in_dense_candidate,inclusion_notes
+ARE,United Arab Emirates,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",High income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+ARG,ARG,country_iso3,Latin America & Caribbean ,Upper middle income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+AUS,AUS,country_iso3,East Asia & Pacific,High income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+BGD,Bangladesh,country_iso3,South Asia,Lower middle income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+BRA,BRA,country_iso3,Latin America & Caribbean ,Upper middle income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+CAN,CAN,country_iso3,North America,High income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+CHL,Chile,country_iso3,Latin America & Caribbean ,High income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+CHN,CHN,country_iso3,East Asia & Pacific,Upper middle income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+COL,COL,country_iso3,Latin America & Caribbean ,Upper middle income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+EGY,EGY,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+GBR,United Kingdom,country_iso3,Europe & Central Asia,High income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+IDN,Indonesia,country_iso3,East Asia & Pacific,Upper middle income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+IND,IND,country_iso3,South Asia,Lower middle income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+ISR,Israel,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",High income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+JPN,JPN,country_iso3,East Asia & Pacific,High income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+KEN,Kenya,country_iso3,Sub-Saharan Africa ,Lower middle income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+KOR,Republic of Korea,country_iso3,East Asia & Pacific,High income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+NGA,Nigeria,country_iso3,Sub-Saharan Africa ,Lower middle income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+NZL,NZL,country_iso3,East Asia & Pacific,High income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+PER,Peru,country_iso3,Latin America & Caribbean ,Upper middle income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+SAU,SAU,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",High income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+SGP,SGP,country_iso3,East Asia & Pacific,High income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+TUR,Turkey,country_iso3,Europe & Central Asia,Upper middle income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+USA,United States of America,country_iso3,North America,High income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+VNM,Viet Nam,country_iso3,East Asia & Pacific,Lower middle income,1,1,1,1,1,1,1,1,8,"iapp, microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+AGO,Angola,country_iso3,Sub-Saharan Africa ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+ALB,Albania,country_iso3,Europe & Central Asia,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+ARM,ARM,country_iso3,Europe & Central Asia,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+AUT,AUT,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+AZE,AZE,country_iso3,Europe & Central Asia,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+BDI,Burundi,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+BEL,Belgium,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+BEN,Benin,country_iso3,Sub-Saharan Africa ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+BFA,BFA,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+BGR,BGR,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+BIH,BIH,country_iso3,Europe & Central Asia,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+BLR,Belarus,country_iso3,Europe & Central Asia,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+BOL,Bolivia,country_iso3,Latin America & Caribbean ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+BWA,Botswana,country_iso3,Sub-Saharan Africa ,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+CHE,Switzerland,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+CIV,Cote d'Ivoire,country_iso3,Sub-Saharan Africa ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+CMR,Cameroon,country_iso3,Sub-Saharan Africa ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+COG,COG,country_iso3,Sub-Saharan Africa ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+CRI,CRI,country_iso3,Latin America & Caribbean ,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+CZE,Czech Republic,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+DEU,Germany,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+DNK,DNK,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+DOM,DOM,country_iso3,Latin America & Caribbean ,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+DZA,Algeria,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+ECU,Ecuador,country_iso3,Latin America & Caribbean ,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+ESP,Spain,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+ETH,ETH,country_iso3,Sub-Saharan Africa ,Not classified,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+FIN,Finland,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+FRA,FRA,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+GEO,GEO,country_iso3,Europe & Central Asia,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+GHA,Ghana,country_iso3,Sub-Saharan Africa ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+GIN,GIN,country_iso3,Sub-Saharan Africa ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+GRC,Greece,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+GTM,GTM,country_iso3,Latin America & Caribbean ,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+HND,Honduras,country_iso3,Latin America & Caribbean ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+HRV,Croatia,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+HUN,HUN,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+IRL,Ireland,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+IRN,IRN,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+IRQ,Iraq,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+ITA,Italy,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+JAM,JAM,country_iso3,Latin America & Caribbean ,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+JOR,JOR,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+KAZ,KAZ,country_iso3,Europe & Central Asia,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+KGZ,Kyrgyzstan,country_iso3,Europe & Central Asia,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+KHM,KHM,country_iso3,East Asia & Pacific,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+KWT,Kuwait,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+LAO,Laos,country_iso3,East Asia & Pacific,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+LBN,Lebanon,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+LKA,Sri Lanka,country_iso3,South Asia,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+LSO,Lesotho,country_iso3,Sub-Saharan Africa ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+LTU,Lithuania,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+MAR,Morocco,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+MDA,Moldova,country_iso3,Europe & Central Asia,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+MDG,Madagascar,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+MEX,MEX,country_iso3,Latin America & Caribbean ,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+MLI,Mali,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+MMR,Myanmar,country_iso3,East Asia & Pacific,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+MNG,MNG,country_iso3,East Asia & Pacific,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+MOZ,MOZ,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+MRT,Mauritania,country_iso3,Sub-Saharan Africa ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+MUS,Mauritius,country_iso3,Sub-Saharan Africa ,Upper middle income,1,0,1,1,1,1,1,1,7,"iapp, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+MWI,Malawi,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+MYS,Malaysia,country_iso3,East Asia & Pacific,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+NAM,Namibia,country_iso3,Sub-Saharan Africa ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+NER,NER,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+NIC,NIC,country_iso3,Latin America & Caribbean ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+NLD,The Netherlands,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+NOR,NOR,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+NPL,NPL,country_iso3,South Asia,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+OMN,OMN,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+PAK,PAK,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+PAN,Panama,country_iso3,Latin America & Caribbean ,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+PHL,PHL,country_iso3,East Asia & Pacific,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+POL,POL,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+PRT,PRT,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+PRY,Paraguay,country_iso3,Latin America & Caribbean ,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+QAT,QAT,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+ROU,ROU,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+RUS,Russian Federation (the),country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+RWA,RWA,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+SEN,Senegal,country_iso3,Sub-Saharan Africa ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+SLV,SLV,country_iso3,Latin America & Caribbean ,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+SRB,SRB,country_iso3,Europe & Central Asia,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+SVK,Slovak Republic,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+SVN,Slovenia,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+SWE,Sweden,country_iso3,Europe & Central Asia,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+TGO,TGO,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+THA,THA,country_iso3,East Asia & Pacific,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+TJK,Tajikistan,country_iso3,Europe & Central Asia,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+TUN,Tunisia,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+TZA,Tanzania,country_iso3,Sub-Saharan Africa ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+UGA,UGA,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+UKR,Ukraine,country_iso3,Europe & Central Asia,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+URY,Uruguay,country_iso3,Latin America & Caribbean ,High income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+UZB,Uzbekistan,country_iso3,Europe & Central Asia,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+VEN,Venezuela (Bolivarian Republic of),country_iso3,Latin America & Caribbean ,Not classified,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+ZAF,ZAF,country_iso3,Sub-Saharan Africa ,Upper middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+ZMB,Zambia,country_iso3,Sub-Saharan Africa ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+ZWE,ZWE,country_iso3,Sub-Saharan Africa ,Lower middle income,0,1,1,1,1,1,1,1,7,"microsoft, oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+AFG,Afghanistan,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",Low income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+BHR,Bahrain,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",High income,0,0,1,1,1,1,1,1,6,"oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+BRB,BRB,country_iso3,Latin America & Caribbean ,High income,0,0,1,1,1,1,1,1,6,"oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+BRN,Brunei Darussalam,country_iso3,East Asia & Pacific,High income,0,0,1,1,1,1,1,1,6,"oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+CAF,CAF,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+COD,Democratic Republic of the Congo,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+CPV,CPV,country_iso3,Sub-Saharan Africa ,Upper middle income,0,0,1,1,1,1,1,1,6,"oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+CUB,Cuba,country_iso3,Latin America & Caribbean ,Upper middle income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+CYP,Cyprus,country_iso3,Europe & Central Asia,High income,0,0,1,1,1,1,1,1,6,"oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+ERI,ERI,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+EST,Estonia,country_iso3,Europe & Central Asia,High income,0,0,1,1,1,1,1,1,6,"oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+GAB,GAB,country_iso3,Sub-Saharan Africa ,Upper middle income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+GMB,Gambia (Republic of The),country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+GUY,GUY,country_iso3,Latin America & Caribbean ,High income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+HKG,"Hong Kong, China",country_iso3,East Asia & Pacific,High income,1,0,0,1,1,1,1,1,6,"iapp, wb, wipo, stanford, oecd, anthropic",True,True,included by documented human-in-loop decision; comparable special case
+HTI,Haiti,country_iso3,Latin America & Caribbean ,Lower middle income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+ISL,Iceland,country_iso3,Europe & Central Asia,High income,0,0,1,1,1,1,1,1,6,"oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+LBR,Liberia,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+LBY,Libya,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+LUX,Luxembourg,country_iso3,Europe & Central Asia,High income,0,0,1,1,1,1,1,1,6,"oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+LVA,Latvia,country_iso3,Europe & Central Asia,High income,0,0,1,1,1,1,1,1,6,"oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+MKD,The former Yugoslav Republic of Macedonia,country_iso3,Europe & Central Asia,Upper middle income,0,0,1,1,1,1,1,1,6,"oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+MLT,MLT,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",High income,0,0,1,1,1,1,1,1,6,"oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+MNE,MNE,country_iso3,Europe & Central Asia,Upper middle income,0,0,1,1,1,1,1,1,6,"oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+PNG,Papua New Guinea,country_iso3,East Asia & Pacific,Lower middle income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+SDN,SDN,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+SLE,Sierra Leone,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+SOM,"Somalia, Fed. Rep.",country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+SSD,SSD,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+SUR,SUR,country_iso3,Latin America & Caribbean ,Upper middle income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+SYC,SYC,country_iso3,Sub-Saharan Africa ,High income,0,0,1,1,1,1,1,1,6,"oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+SYR,SYR,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",Low income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+TCD,TCD,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+TKM,Turkmenistan,country_iso3,Europe & Central Asia,Upper middle income,0,1,1,1,0,1,1,1,6,"microsoft, oxford, wb, stanford, oecd, anthropic",True,True,
+TTO,TTO,country_iso3,Latin America & Caribbean ,High income,0,0,1,1,1,1,1,1,6,"oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+TWN,Taiwan,country_iso3,,,1,1,1,0,0,1,1,1,6,"iapp, microsoft, oxford, stanford, oecd, anthropic",True,True,included by documented human-in-loop decision; comparable special case
+YEM,Yemen,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",Low income,0,0,1,1,1,1,1,1,6,"oxford, wb, wipo, stanford, oecd, anthropic",True,True,
+AND,Andorra,country_iso3,Europe & Central Asia,High income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+ATG,Antigua and Barbuda,country_iso3,Latin America & Caribbean ,High income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+BHS,Bahamas,country_iso3,Latin America & Caribbean ,High income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+BLZ,Belize,country_iso3,Latin America & Caribbean ,Upper middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+BTN,BTN,country_iso3,South Asia,Lower middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+COM,Comoros,country_iso3,Sub-Saharan Africa ,Lower middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+DJI,DJI,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+DMA,Dominica,country_iso3,Latin America & Caribbean ,Upper middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+FJI,FJI,country_iso3,East Asia & Pacific,Upper middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+GNB,GNB,country_iso3,Sub-Saharan Africa ,Low income,0,1,1,1,0,0,1,1,5,"microsoft, oxford, wb, oecd, anthropic",True,True,
+GNQ,GNQ,country_iso3,Sub-Saharan Africa ,Upper middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+GRD,GRD,country_iso3,Latin America & Caribbean ,Upper middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+KIR,Kiribati,country_iso3,East Asia & Pacific,Lower middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+KNA,Saint Kitts and Nevis,country_iso3,Latin America & Caribbean ,High income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+LCA,LCA,country_iso3,Latin America & Caribbean ,Upper middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+LIE,Liechtenstein,country_iso3,Europe & Central Asia,High income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+MCO,MCO,country_iso3,Europe & Central Asia,High income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+MDV,MDV,country_iso3,South Asia,Upper middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+PSE,West Bank and Gaza,country_iso3,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+SLB,Solomon Islands,country_iso3,East Asia & Pacific,Lower middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+SMR,San Marino,country_iso3,Europe & Central Asia,High income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+STP,São Tomé and Príncipe,country_iso3,Sub-Saharan Africa ,Lower middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+SWZ,Swaziland,country_iso3,Sub-Saharan Africa ,Lower middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+TLS,TLS,country_iso3,East Asia & Pacific,Lower middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+TON,TON,country_iso3,East Asia & Pacific,Upper middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+TUV,Tuvalu,country_iso3,East Asia & Pacific,Upper middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+VCT,VCT,country_iso3,Latin America & Caribbean ,Upper middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+VUT,Vanuatu,country_iso3,East Asia & Pacific,Lower middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+WSM,WSM,country_iso3,East Asia & Pacific,Upper middle income,0,0,1,1,0,1,1,1,5,"oxford, wb, stanford, oecd, anthropic",True,True,
+FSM,"Micronesia, Fed. Sts.",country_iso3,East Asia & Pacific,Lower middle income,0,0,1,1,0,1,0,1,4,"oxford, wb, stanford, anthropic",True,False,
+MHL,Marshall Islands (the),country_iso3,East Asia & Pacific,Upper middle income,0,0,1,1,0,1,0,1,4,"oxford, wb, stanford, anthropic",True,False,
+NRU,NRU,country_iso3,East Asia & Pacific,High income,0,0,1,1,0,1,0,1,4,"oxford, wb, stanford, anthropic",True,False,
+PLW,Palau,country_iso3,East Asia & Pacific,High income,0,0,1,1,0,1,0,1,4,"oxford, wb, stanford, anthropic",True,False,
+PRK,PRK,country_iso3,East Asia & Pacific,Low income,0,0,1,1,0,1,0,1,4,"oxford, wb, stanford, anthropic",True,False,
+PRI,Puerto Rico (US),country_iso3,Latin America & Caribbean ,High income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",True,False,included by documented human-in-loop decision; comparable special case
+XKX,XKX,country_iso3,Europe & Central Asia,Upper middle income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",True,False,included by documented human-in-loop decision; comparable special case
+VAT,Vatican,country_iso3,,,0,0,0,0,0,0,1,1,2,"oecd, anthropic",True,False,
+CUW,Curacao,territory_iso3,Latin America & Caribbean ,High income,0,0,0,1,0,1,1,1,4,"wb, stanford, oecd, anthropic",False,False,territory excluded from principal country matrix
+MAC,MAC,territory_iso3,East Asia & Pacific,High income,0,0,0,1,0,1,1,1,4,"wb, stanford, oecd, anthropic",False,False,territory excluded from principal country matrix
+ABW,ABW,territory_iso3,Latin America & Caribbean ,High income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",False,False,territory excluded from principal country matrix
+ASM,American Samoa,territory_iso3,East Asia & Pacific,High income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",False,False,territory excluded from principal country matrix
+BMU,Bermuda,territory_iso3,North America,High income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",False,False,territory excluded from principal country matrix
+CYM,Cayman Islands,territory_iso3,Latin America & Caribbean ,High income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",False,False,territory excluded from principal country matrix
+FRO,FRO,territory_iso3,Europe & Central Asia,High income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",False,False,territory excluded from principal country matrix
+GIB,Gibraltar,territory_iso3,Europe & Central Asia,High income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",False,False,territory excluded from principal country matrix
+GRL,Greenland,territory_iso3,Europe & Central Asia,High income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",False,False,territory excluded from principal country matrix
+GUF,French Guiana,territory_iso3,,,0,1,0,0,0,1,0,1,3,"microsoft, stanford, anthropic",False,False,territory excluded from principal country matrix
+GUM,Guam,territory_iso3,East Asia & Pacific,High income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",False,False,territory excluded from principal country matrix
+MNP,Northern Mariana Islands,territory_iso3,East Asia & Pacific,High income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",False,False,territory excluded from principal country matrix
+NCL,New Caledonia,territory_iso3,East Asia & Pacific,High income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",False,False,territory excluded from principal country matrix
+PYF,PYF,territory_iso3,East Asia & Pacific,High income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",False,False,territory excluded from principal country matrix
+SXM,SXM,territory_iso3,Latin America & Caribbean ,High income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",False,False,territory excluded from principal country matrix
+TCA,TCA,territory_iso3,Latin America & Caribbean ,High income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",False,False,territory excluded from principal country matrix
+VGB,VGB,territory_iso3,Latin America & Caribbean ,High income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",False,False,territory excluded from principal country matrix
+VIR,U.S. Virgin Islands,territory_iso3,Latin America & Caribbean ,High income,0,0,0,1,0,1,0,1,3,"wb, stanford, anthropic",False,False,territory excluded from principal country matrix
+BLM,Saint Barthelemy,territory_iso3,,,0,0,0,0,0,1,0,1,2,"stanford, anthropic",False,False,territory excluded from principal country matrix
+CHI,Channel Islands,unknown_requires_review,Europe & Central Asia,High income,0,0,0,1,0,0,0,1,2,"wb, anthropic",False,False,unknown_requires_review excluded until explicit human approval
+IMN,Isle of Man,territory_iso3,Europe & Central Asia,High income,0,0,0,1,0,0,0,1,2,"wb, anthropic",False,False,territory excluded from principal country matrix
+JEY,JEY,territory_iso3,,,0,0,0,0,0,1,0,1,2,"stanford, anthropic",False,False,territory excluded from principal country matrix
+MAF,Saint Martin,territory_iso3,Latin America & Caribbean ,High income,0,0,0,1,0,0,0,1,2,"wb, anthropic",False,False,territory excluded from principal country matrix
+AFE,AFE,region,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,regional aggregate excluded from country matrix
+AFW,AFW,region,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,regional aggregate excluded from country matrix
+AIA,Anguilla,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+ALA,Aland Islands,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+ANT,Netherlands Antilles,obsolete_or_non_comparable,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,obsolete_or_non_comparable excluded until explicit human approval
+ATA,Antarctica,unknown_requires_review,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,unknown_requires_review excluded until explicit human approval
+ATF,French Southern Territories,unknown_requires_review,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,unknown_requires_review excluded until explicit human approval
+BES,"Bonaire, Saint Eustatius and Saba ",territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+BVT,Bouvet Island,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+CCK,Cocos Islands,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+COK,Cook Islands,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+CXR,Christmas Island,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+EAR,EAR,region,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,regional aggregate excluded from country matrix
+ESH,Western Sahara,obsolete_or_non_comparable,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,obsolete_or_non_comparable excluded until explicit human approval
+FLK,Falkland Islands,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+GGY,Guernsey,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+GLP,Guadeloupe,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+HMD,Heard Island and McDonald Islands,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+IDB,IDB,region,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,regional aggregate excluded from country matrix
+IOT,British Indian Ocean Territory,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+LDC,LDC,region,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,regional aggregate excluded from country matrix
+MSR,Montserrat,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+MTQ,Martinique,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+MYT,Mayotte,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+NFK,Norfolk Island,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+NIU,Niue,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+PCN,Pitcairn,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+REU,Reunion,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+SCG,Serbia and Montenegro,obsolete_or_non_comparable,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,obsolete_or_non_comparable excluded until explicit human approval
+SGS,South Georgia and the South Sandwich Islands,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+SHN,Saint Helena,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+SJM,Svalbard and Jan Mayen,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+SPM,Saint Pierre and Miquelon,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+TKL,Tokelau,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+UMI,United States Minor Outlying Islands,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+WLF,Wallis and Futuna,territory_iso3,,,0,0,0,0,0,0,0,1,1,anthropic,False,False,territory excluded from principal country matrix
+XKV,nan,unknown_requires_review,,,0,0,0,0,0,0,1,0,1,oecd,False,False,unknown_requires_review excluded until explicit human approval

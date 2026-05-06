@@ -1,0 +1,9 @@
+source_id,table_id,selection_rule
+iapp,datos,country cross-section
+microsoft,1_AI_Diffusion,AI diffusion country table
+oxford,Consolidado,country-year scores excluding 2019
+wb,MATRIZ_COMPLETA,wide country indicators parsed to panel
+wipo,MATRIZ_GII,score columns only
+stanford,stanford_ai_index_2026_unificado,chapters 3 and 6
+oecd,1_DIGITAL_STRI..8_RD_TAX,eight selected OECD data sheets; 9_GBARD excluded due unresolved duplicate dimension
+anthropic,aei_metrics_wide; fact_gdp_economic; dim_geography,country metrics and GDP

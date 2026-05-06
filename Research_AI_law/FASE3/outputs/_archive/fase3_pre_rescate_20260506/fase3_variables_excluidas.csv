@@ -1,0 +1,7 @@
+source_id,exclusion_rule,reason
+wipo,RANK columns excluded,SCORE preferred per plan
+oxford,2019 rows excluded,Scale incompatible
+all,identifier/metadata columns excluded from dictionary,Not analytical variables
+stanford,country_code variables excluded,"Identifier metadata, not analytical signal"
+stanford,status_category variables excluded,Non-scalar country attribute; multiple statuses can exist for one country/figure
+oecd,9_GBARD excluded,Duplicate country-year values with no disambiguating dimension in unified sheet

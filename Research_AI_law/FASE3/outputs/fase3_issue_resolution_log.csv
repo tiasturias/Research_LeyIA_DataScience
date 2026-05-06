@@ -1,0 +1,5 @@
+issue_id,area,severity,description,resolution
+GEO_MICROSOFT_CROSSWALK,geography,resolved,147 Microsoft rows crosswalked; 0 pending human review,All Microsoft rows approved under documented exact-match human-review policy
+GEO_NON_COUNTRY_EXCLUSION,geography,resolved,60 non-principal-country entities excluded,Universe retains excluded entities for audit but wide matrix uses country_iso3 only
+TEMP_OXFORD_2019,temporal,resolved,Oxford 2019 scale differs from 2020+,2019 excluded from panel and snapshot
+VAR_WIPO_RANK,variable,resolved,WIPO has SCORE and RANK columns,Only SCORE columns extracted; RANK excluded

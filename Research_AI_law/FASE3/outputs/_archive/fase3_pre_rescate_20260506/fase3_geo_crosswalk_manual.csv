@@ -1,0 +1,148 @@
+raw_entity_name,iso3_resuelto,country_name_canonical,entity_type_final,confidence_score,action,review_status
+United Arab Emirates,ARE,United Arab Emirates,country_iso3,100.0,approved,auto_match_requires_human_audit
+Singapore,SGP,Singapore,country_iso3,100.0,approved,auto_match_requires_human_audit
+Norway,NOR,Norway,country_iso3,100.0,approved,auto_match_requires_human_audit
+Ireland,IRL,Ireland,country_iso3,100.0,approved,auto_match_requires_human_audit
+France,FRA,France,country_iso3,100.0,approved,auto_match_requires_human_audit
+Spain,ESP,Spain,country_iso3,100.0,approved,auto_match_requires_human_audit
+New Zealand,NZL,New Zealand,country_iso3,100.0,approved,auto_match_requires_human_audit
+Netherlands,NLD,Netherlands,country_iso3,100.0,approved,auto_match_requires_human_audit
+United Kingdom,GBR,United Kingdom,country_iso3,100.0,approved,auto_match_requires_human_audit
+Qatar,QAT,Qatar,country_iso3,100.0,approved,auto_match_requires_human_audit
+Australia,AUS,Australia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Israel,ISR,Israel,country_iso3,100.0,approved,auto_match_requires_human_audit
+Belgium,BEL,Belgium,country_iso3,100.0,approved,auto_match_requires_human_audit
+Canada,CAN,Canada,country_iso3,100.0,approved,auto_match_requires_human_audit
+Switzerland,CHE,Switzerland,country_iso3,100.0,approved,auto_match_requires_human_audit
+Sweden,SWE,Sweden,country_iso3,100.0,approved,auto_match_requires_human_audit
+Austria,AUT,Austria,country_iso3,100.0,approved,auto_match_requires_human_audit
+South Korea,KOR,South Korea,country_iso3,100.0,approved,auto_match_requires_human_audit
+Hungary,HUN,Hungary,country_iso3,100.0,approved,auto_match_requires_human_audit
+Denmark,DNK,Denmark,country_iso3,100.0,approved,auto_match_requires_human_audit
+Germany,DEU,Germany,country_iso3,100.0,approved,auto_match_requires_human_audit
+Poland,POL,Poland,country_iso3,100.0,approved,auto_match_requires_human_audit
+Taiwan,TWN,Taiwan,country_iso3,100.0,approved,auto_match_requires_human_audit
+United States,USA,United States,country_iso3,100.0,approved,auto_match_requires_human_audit
+Czechia,CZE,Czechia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Italy,ITA,Italy,country_iso3,100.0,approved,auto_match_requires_human_audit
+Bulgaria,BGR,Bulgaria,country_iso3,100.0,approved,auto_match_requires_human_audit
+Finland,FIN,Finland,country_iso3,100.0,approved,auto_match_requires_human_audit
+Jordan,JOR,Jordan,country_iso3,100.0,approved,auto_match_requires_human_audit
+Costa Rica,CRI,Costa Rica,country_iso3,100.0,approved,auto_match_requires_human_audit
+Slovenia,SVN,Slovenia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Saudi Arabia,SAU,Saudi Arabia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Lebanon,LBN,Lebanon,country_iso3,100.0,approved,auto_match_requires_human_audit
+Oman,OMN,Oman,country_iso3,100.0,approved,auto_match_requires_human_audit
+Portugal,PRT,Portugal,country_iso3,100.0,approved,auto_match_requires_human_audit
+Slovakia,SVK,Slovakia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Croatia,HRV,Croatia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Vietnam,VNM,Vietnam,country_iso3,100.0,approved,auto_match_requires_human_audit
+Dominican Republic,DOM,Dominican Republic,country_iso3,100.0,approved,auto_match_requires_human_audit
+Uruguay,URY,Uruguay,country_iso3,100.0,approved,auto_match_requires_human_audit
+Lithuania,LTU,Lithuania,country_iso3,100.0,approved,auto_match_requires_human_audit
+Jamaica,JAM,Jamaica,country_iso3,100.0,approved,auto_match_requires_human_audit
+Colombia,COL,Colombia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Panama,PAN,Panama,country_iso3,100.0,approved,auto_match_requires_human_audit
+Serbia,SRB,Serbia,country_iso3,100.0,approved,auto_match_requires_human_audit
+South Africa,ZAF,South Africa,country_iso3,100.0,approved,auto_match_requires_human_audit
+Chile,CHL,Chile,country_iso3,100.0,approved,auto_match_requires_human_audit
+Malaysia,MYS,Malaysia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Argentina,ARG,Argentina,country_iso3,100.0,approved,auto_match_requires_human_audit
+Bosnia And Herzegovina,BIH,Bosnia And Herzegovina,country_iso3,100.0,approved,auto_match_requires_human_audit
+Kuwait,KWT,Kuwait,country_iso3,100.0,approved,auto_match_requires_human_audit
+Greece,GRC,Greece,country_iso3,100.0,approved,auto_match_requires_human_audit
+Japan,JPN,Japan,country_iso3,100.0,approved,auto_match_requires_human_audit
+Philippines,PHL,Philippines,country_iso3,100.0,approved,auto_match_requires_human_audit
+Georgia,GEO,Georgia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Mexico,MEX,Mexico,country_iso3,100.0,approved,auto_match_requires_human_audit
+Ecuador,ECU,Ecuador,country_iso3,100.0,approved,auto_match_requires_human_audit
+Brazil,BRA,Brazil,country_iso3,100.0,approved,auto_match_requires_human_audit
+Moldova,MDA,Moldova,country_iso3,100.0,approved,auto_match_requires_human_audit
+Albania,ALB,Albania,country_iso3,100.0,approved,auto_match_requires_human_audit
+China,CHN,China,country_iso3,100.0,approved,auto_match_requires_human_audit
+Romania,ROU,Romania,country_iso3,100.0,approved,auto_match_requires_human_audit
+El Salvador,SLV,El Salvador,country_iso3,100.0,approved,auto_match_requires_human_audit
+India,IND,India,country_iso3,100.0,approved,auto_match_requires_human_audit
+Azerbaijan,AZE,Azerbaijan,country_iso3,100.0,approved,auto_match_requires_human_audit
+Guatemala,GTM,Guatemala,country_iso3,100.0,approved,auto_match_requires_human_audit
+Peru,PER,Peru,country_iso3,100.0,approved,auto_match_requires_human_audit
+Türkiye,TUR,Türkiye,country_iso3,100.0,approved,auto_match_requires_human_audit
+Mongolia,MNG,Mongolia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Namibia,NAM,Namibia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Libya,LBY,Libya,country_iso3,100.0,approved,auto_match_requires_human_audit
+Kazakhstan,KAZ,Kazakhstan,country_iso3,100.0,approved,auto_match_requires_human_audit
+Botswana,BWA,Botswana,country_iso3,100.0,approved,auto_match_requires_human_audit
+Gabon,GAB,Gabon,country_iso3,100.0,approved,auto_match_requires_human_audit
+Egypt,EGY,Egypt,country_iso3,100.0,approved,auto_match_requires_human_audit
+Honduras,HND,Honduras,country_iso3,100.0,approved,auto_match_requires_human_audit
+Nepal,NPL,Nepal,country_iso3,100.0,approved,auto_match_requires_human_audit
+Senegal,SEN,Senegal,country_iso3,100.0,approved,auto_match_requires_human_audit
+Indonesia,IDN,Indonesia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Tunisia,TUN,Tunisia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Zambia,ZMB,Zambia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Algeria,DZA,Algeria,country_iso3,100.0,approved,auto_match_requires_human_audit
+Cote D'Ivoire,CIV,Cote D'Ivoire,country_iso3,100.0,approved,auto_match_requires_human_audit
+Bolivia,BOL,Bolivia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Iraq,IRQ,Iraq,country_iso3,100.0,approved,auto_match_requires_human_audit
+Paraguay,PRY,Paraguay,country_iso3,100.0,approved,auto_match_requires_human_audit
+Morocco,MAR,Morocco,country_iso3,100.0,approved,auto_match_requires_human_audit
+Gambia,GMB,Gambia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Thailand,THA,Thailand,country_iso3,100.0,approved,auto_match_requires_human_audit
+Nicaragua,NIC,Nicaragua,country_iso3,100.0,approved,auto_match_requires_human_audit
+Iran,IRN,Iran,country_iso3,100.0,approved,auto_match_requires_human_audit
+Pakistan,PAK,Pakistan,country_iso3,100.0,approved,auto_match_requires_human_audit
+Angola,AGO,Angola,country_iso3,100.0,approved,auto_match_requires_human_audit
+Madagascar,MDG,Madagascar,country_iso3,100.0,approved,auto_match_requires_human_audit
+Malawi,MWI,Malawi,country_iso3,100.0,approved,auto_match_requires_human_audit
+Mozambique,MOZ,Mozambique,country_iso3,100.0,approved,auto_match_requires_human_audit
+Benin,BEN,Benin,country_iso3,100.0,approved,auto_match_requires_human_audit
+Burkina Faso,BFA,Burkina Faso,country_iso3,100.0,approved,auto_match_requires_human_audit
+Ghana,GHA,Ghana,country_iso3,100.0,approved,auto_match_requires_human_audit
+Guinea,GIN,Guinea,country_iso3,100.0,approved,auto_match_requires_human_audit
+Guinea-Bissau,GNB,Guinea-Bissau,country_iso3,100.0,approved,auto_match_requires_human_audit
+Liberia,LBR,Liberia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Mali,MLI,Mali,country_iso3,100.0,approved,auto_match_requires_human_audit
+Mauritania,MRT,Mauritania,country_iso3,100.0,approved,auto_match_requires_human_audit
+Niger,NER,Niger,country_iso3,100.0,approved,auto_match_requires_human_audit
+Nigeria,NGA,Nigeria,country_iso3,100.0,approved,auto_match_requires_human_audit
+Sierra Leone,SLE,Sierra Leone,country_iso3,100.0,approved,auto_match_requires_human_audit
+Togo,TGO,Togo,country_iso3,100.0,approved,auto_match_requires_human_audit
+Lesotho,LSO,Lesotho,country_iso3,100.0,approved,auto_match_requires_human_audit
+Myanmar,MMR,Myanmar,country_iso3,100.0,approved,auto_match_requires_human_audit
+Ukraine,UKR,Ukraine,country_iso3,100.0,approved,auto_match_requires_human_audit
+French Guiana,GUF,French Guiana,territory_iso3,100.0,approved,auto_match_requires_human_audit
+Guyana,GUY,Guyana,country_iso3,100.0,approved,auto_match_requires_human_audit
+Suriname,SUR,Suriname,country_iso3,100.0,approved,auto_match_requires_human_audit
+Venezuela,VEN,Venezuela,country_iso3,100.0,approved,auto_match_requires_human_audit
+Belarus,BLR,Belarus,country_iso3,100.0,approved,auto_match_requires_human_audit
+Kyrgyzstan,KGZ,Kyrgyzstan,country_iso3,100.0,approved,auto_match_requires_human_audit
+Kenya,KEN,Kenya,country_iso3,100.0,approved,auto_match_requires_human_audit
+Russia,RUS,Russia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Cameroon,CMR,Cameroon,country_iso3,100.0,approved,auto_match_requires_human_audit
+Central African Republic,CAF,Central African Republic,country_iso3,100.0,approved,auto_match_requires_human_audit
+Chad,TCD,Chad,country_iso3,100.0,approved,auto_match_requires_human_audit
+Congo,COG,Congo,country_iso3,100.0,approved,auto_match_requires_human_audit
+Congo (DRC),COD,Congo (DRC),country_iso3,100.0,approved,auto_match_requires_human_audit
+Haiti,HTI,Haiti,country_iso3,100.0,approved,auto_match_requires_human_audit
+Zimbabwe,ZWE,Zimbabwe,country_iso3,100.0,approved,auto_match_requires_human_audit
+Papua New Guinea,PNG,Papua New Guinea,country_iso3,100.0,approved,auto_match_requires_human_audit
+Syria,SYR,Syria,country_iso3,100.0,approved,auto_match_requires_human_audit
+Bangladesh,BGD,Bangladesh,country_iso3,100.0,approved,auto_match_requires_human_audit
+Burundi,BDI,Burundi,country_iso3,100.0,approved,auto_match_requires_human_audit
+Eritrea,ERI,Eritrea,country_iso3,100.0,approved,auto_match_requires_human_audit
+Ethiopia,ETH,Ethiopia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Somalia,SOM,Somalia,country_iso3,100.0,approved,auto_match_requires_human_audit
+South Sudan,SSD,South Sudan,country_iso3,100.0,approved,auto_match_requires_human_audit
+Sudan,SDN,Sudan,country_iso3,100.0,approved,auto_match_requires_human_audit
+Tanzania,TZA,Tanzania,country_iso3,100.0,approved,auto_match_requires_human_audit
+Uganda,UGA,Uganda,country_iso3,100.0,approved,auto_match_requires_human_audit
+Laos,LAO,Laos,country_iso3,100.0,approved,auto_match_requires_human_audit
+Armenia,ARM,Armenia,country_iso3,100.0,approved,auto_match_requires_human_audit
+Sri Lanka,LKA,Sri Lanka,country_iso3,100.0,approved,auto_match_requires_human_audit
+Uzbekistan,UZB,Uzbekistan,country_iso3,100.0,approved,auto_match_requires_human_audit
+Rwanda,RWA,Rwanda,country_iso3,100.0,approved,auto_match_requires_human_audit
+Cuba,CUB,Cuba,country_iso3,100.0,approved,auto_match_requires_human_audit
+Afghanistan,AFG,Afghanistan,country_iso3,100.0,approved,auto_match_requires_human_audit
+Tajikistan,TJK,Tajikistan,country_iso3,100.0,approved,auto_match_requires_human_audit
+Turkmenistan,TKM,Turkmenistan,country_iso3,100.0,approved,auto_match_requires_human_audit
+Cambodia,KHM,Cambodia,country_iso3,100.0,approved,auto_match_requires_human_audit

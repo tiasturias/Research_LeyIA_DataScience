@@ -1,0 +1,5 @@
+review_id,area,item,reviewer,status,notes
+HIL_GEO_001,geography,HKG/PRI/TWN/XKX/MAC treatment,project_owner_policy,approved,"HKG, PRI, TWN and XKX retained as comparable special cases; MAC excluded."
+HIL_MS_001,geography,Microsoft country-name crosswalk,project_owner_policy,approved,147 approved; 0 pending below exact-match policy
+HIL_TEMP_001,temporal,Oxford 2019,methodological_plan,approved,2019 excluded due incompatible 0-10 scale.
+HIL_VAR_001,variables,low coverage variables,fase3_rescue_pipeline,documented,Variables under 30 pct are flagged in dictionary for Fase 4 caution.

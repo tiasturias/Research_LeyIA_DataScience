@@ -1,0 +1,163 @@
+{
+  "version": "fase3_autocontenida_v1",
+  "created_at_utc": "2026-05-05T22:17:06.579833+00:00",
+  "git_sha": "cf09dfe7dc64801d8cbb4b670667e6ace1903410",
+  "python": "3.12.3",
+  "phase_dir": "FASE3",
+  "inputs_fase2": {
+    "cobertura_pais_atributo.csv": {
+      "sha256": "34a80118554e91ca340f074a7df1f192c6e8da72c660a898d6abf6d0f4af250a",
+      "bytes": 188476
+    },
+    "cobertura_pais_fuente.csv": {
+      "sha256": "860853c0861faad66c9bb073fb783d5b7ea657c3431f76412343b786d3c9d4b3",
+      "bytes": 24912
+    },
+    "cobertura_temporal_fuente.csv": {
+      "sha256": "3b455c68238c70023392be8e59ebed11a8454aebe25106f3464588fef7b857d4",
+      "bytes": 62095
+    },
+    "data_quality_issues.csv": {
+      "sha256": "22bbe8a0cdaefe1a0ef2799ca942983b970193f37bd8d00088d4dc8ce10ee41b",
+      "bytes": 85432
+    },
+    "entidades_no_pais_o_sin_iso3.csv": {
+      "sha256": "bf6ebee5757d1cb27dfcf15d5c8d2a54b0ccdb969030179ccc8745e01ac9dc6b",
+      "bytes": 468545
+    },
+    "inventario_fuentes.csv": {
+      "sha256": "4260d48877f272d68aab48b353946b2c5d596455410dede91820fda18e2a97fe",
+      "bytes": 1873
+    },
+    "inventario_tablas.csv": {
+      "sha256": "47f0994adc6a36f2b515e60bf08f6ed029e7fdc84f3eca89ba80986e23980956",
+      "bytes": 14853
+    },
+    "inventario_variables.csv": {
+      "sha256": "47d627626fae9b0247173cdef7882958d3a0f76dd233af69883c4712aeb08a65",
+      "bytes": 596617
+    },
+    "recomendaciones_wrangling.csv": {
+      "sha256": "82ebd9fe7b7ed582460af786b956e8a63ebd6dfe3c04de043b1bdf0e057d7b19",
+      "bytes": 3249
+    },
+    "resumen_eda_preliminar.md": {
+      "sha256": "634ad1bacf98b234f2efdab11adccf84de449f7a7d3c115a1271a4d2eedb4cf5",
+      "bytes": 3917
+    },
+    "variables_candidatas_snapshot.csv": {
+      "sha256": "51b0ca49f5fa2a3c7445162f4baf1ca69ecea05be4660287fbad53ac35fe7854",
+      "bytes": 62681
+    }
+  },
+  "source_files": {
+    "IAPP/iapp_dataset_unificado.xlsx": {
+      "sha256": "c683de3019b8fb850df5a5460076c1481c8395e36d0015e248c684ea370b7f4f",
+      "bytes": 17256
+    },
+    "MICROSOFT/Microsoft_AI_Reports_Data_unificado.xlsx": {
+      "sha256": "c447579fdc183b4e577a9324aec4fce414bd990bd520947159e79b288d64c7fe",
+      "bytes": 28735
+    },
+    "Oxford Insights/data_index/UNIFICADO/Oxford_Insights_Unificado.xlsx": {
+      "sha256": "9198e6916b83b336527bf572930fde6a440ada57a3e1fa486bbc6253f193f554",
+      "bytes": 962850
+    },
+    "World Bank WDI/WB_WDI_WGI_unificado.xlsx": {
+      "sha256": "d2e0e68ab79c4b426f14d4337bada6f1c1eb783510cae1c3a4eccd851cc544a6",
+      "bytes": 1086747
+    },
+    "WIPO Global Innovation Index/data_wipo_gii/WIPO_GII_2021_2025_UNIFICADO.xlsx": {
+      "sha256": "520cbe490f8f2fb8a466a2642cc4fb00b1c5e3f25337a0fe747e47482be5535f",
+      "bytes": 7532123
+    },
+    "STANFORD AI INDEX 26/PUBLIC DATA_ 2026 AI INDEX REPORT/completo/stanford_ai_index_2026_unificado.csv": {
+      "sha256": "e081bfde711bae33018b11c1169179eb0ed7e19de859fb25a737da92dcb5d993",
+      "bytes": 4344171
+    },
+    "OECD/OECD_Data_Central_unificado.xlsx": {
+      "sha256": "9f14c9c872058631a778c9366e961d470549be3eb9547248f382cc9feb33097f",
+      "bytes": 294277
+    },
+    "ANTROPHIC/data_unificada/antrophic_economic_index.xlsx": {
+      "sha256": "b0653dbb33ca5429b5d2d34069180d0a82581bf8119c663da4bf052eb90be7e7",
+      "bytes": 7522016
+    }
+  },
+  "outputs": {
+    "README_MATRIZ_MADRE.md": {
+      "sha256": "a09f808c2304892f895a1202ce41f2a6b8026b42b361a83a1a7e0f4a2554a48c",
+      "bytes": 588
+    },
+    "fase3_fuentes_usadas.csv": {
+      "sha256": "47dbdf5d962ef214a3f8611a0a32eb5d156773c5678f03c69296f44e1505e957",
+      "bytes": 1263
+    },
+    "fase3_diccionario_variables.csv": {
+      "sha256": "b64a1c293aa1b101a84705e8b33034c57f847b492ebae867c6a9289c68e473db",
+      "bytes": 98531
+    },
+    "fase3_universo_geografico.csv": {
+      "sha256": "998b3696c405c1d796d9adefa60546a09c231cb08057178425c5d045f82344f7",
+      "bytes": 26408
+    },
+    "fase3_geo_crosswalk_manual.csv": {
+      "sha256": "5c6599a4349d883d05ed110cd860e4f8f879a221733d247095db4b305de3c2dc",
+      "bytes": 12143
+    },
+    "fase3_tablas_seleccionadas.csv": {
+      "sha256": "33dcb3cddb9b7c2f3e3b2552e151d25d8dbe7e75e60d3ff64b1e9154ad1a1a55",
+      "bytes": 526
+    },
+    "fase3_reglas_temporales.csv": {
+      "sha256": "41e18939e20c3086fcb1aab0b27f7abbd046bf274a58f2098e1367dea279154e",
+      "bytes": 708
+    },
+    "fase3_decisiones_metodologicas.csv": {
+      "sha256": "3af4c35f03ace6ca2a321e7c589d679ba666e9ba46459a4dab7fedf6a9d9f08a",
+      "bytes": 918
+    },
+    "fase3_variables_excluidas.csv": {
+      "sha256": "63727b60e0d953a110536ce23c0df47f328a2654277843df951e8a2c4fd5b1ba",
+      "bytes": 524
+    },
+    "matriz_larga_panel.csv": {
+      "sha256": "f5022e63f7ca8923e8e0f202ae5ec97732ffd2650ccc50202a141b30b2ae6101",
+      "bytes": 49681093
+    },
+    "matriz_larga_snapshot.csv": {
+      "sha256": "dfdc1bc9c60e611d64bc772a8d328480f37bd2f58b56c5d3943f5de467a34ebf",
+      "bytes": 20407493
+    },
+    "matriz_madre_wide.csv": {
+      "sha256": "9ffee27c279ad145cddaa43273bd8e67ef28ea13cff156edf167d8347de0fad2",
+      "bytes": 1640012
+    },
+    "matriz_madre_trazabilidad.csv": {
+      "sha256": "4d8ebcfdb5de4e66361f589534648138bedd1d37b129a0ea1efe23ea2631ac05",
+      "bytes": 7584677
+    },
+    "fase3_reporte_calidad_matriz.csv": {
+      "sha256": "cbfd61f4a1ef01b241e98229eca7f480f6644356c8cb56ff15ad6f08a009dd3e",
+      "bytes": 584
+    },
+    "fase3_issue_resolution_log.csv": {
+      "sha256": "ca727056aa908381d879f9b629ad9d51d0bb3de36a012d4147bdfc324f2d1dca",
+      "bytes": 596
+    },
+    "fase3_human_review_log.csv": {
+      "sha256": "3f7b796016149d0cbc8e644ea54dd6f64876ab7ec2026bf2f3ecafa2c0ff14ce",
+      "bytes": 341
+    },
+    "Matriz_Madre_Fase3.xlsx": {
+      "sha256": "92431046bca3ff849ea63fab2b2a84ff4b475bd0e807fd72e38c66cded30719e",
+      "bytes": 24505932
+    },
+    "manifest.json": {
+      "sha256": null,
+      "bytes": null,
+      "self_hash_policy": "excluded_from_own_checksum_to_avoid_recursive_hash"
+    }
+  },
+  "manifest_self_hash_policy": "self file excluded from outputs hash map to avoid recursive checksum"
+}
