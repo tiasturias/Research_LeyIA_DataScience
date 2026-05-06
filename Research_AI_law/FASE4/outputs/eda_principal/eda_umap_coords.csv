@@ -1,0 +1,200 @@
+iso3,country_name_canonical,region,income_group,umap_x,umap_y,method
+AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",Low income,,,not_estimated
+AGO,Angola,Sub-Saharan Africa ,Lower middle income,-25.52322000511154,-3.111320995600946,pca_2d_fallback_for_umap_slot
+ALB,Albania,Europe & Central Asia,Upper middle income,-14.593359186729588,-7.983654736076572,pca_2d_fallback_for_umap_slot
+AND,Andorra,Europe & Central Asia,High income,,,not_estimated
+ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",High income,-0.5269406473737381,0.7437683666574838,pca_2d_fallback_for_umap_slot
+ARG,Argentina,Latin America & Caribbean ,Upper middle income,-28.27824814636334,7.615224261787075,pca_2d_fallback_for_umap_slot
+ARM,Armenia,Europe & Central Asia,Upper middle income,-13.10141393356805,-8.301633638574645,pca_2d_fallback_for_umap_slot
+ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,,,not_estimated
+AUS,Australia,East Asia & Pacific,High income,,,not_estimated
+AUT,Austria,Europe & Central Asia,High income,28.407454284898463,-6.297806434002233,pca_2d_fallback_for_umap_slot
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,-15.476223721484853,-6.756293381939653,pca_2d_fallback_for_umap_slot
+BDI,Burundi,Sub-Saharan Africa ,Low income,,,not_estimated
+BEL,Belgium,Europe & Central Asia,High income,22.990394717962122,-7.560986337071461,pca_2d_fallback_for_umap_slot
+BEN,Benin,Sub-Saharan Africa ,Lower middle income,-20.942545579941584,-6.152029465178993,pca_2d_fallback_for_umap_slot
+BFA,Burkina Faso,Sub-Saharan Africa ,Low income,-23.61195466295647,-5.6641988014603735,pca_2d_fallback_for_umap_slot
+BGD,Bangladesh,South Asia,Lower middle income,,,not_estimated
+BGR,Bulgaria,Europe & Central Asia,High income,8.348052287808137,-9.486326983171379,pca_2d_fallback_for_umap_slot
+BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",High income,,,not_estimated
+BHS,The Bahamas,Latin America & Caribbean ,High income,,,not_estimated
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,-15.430692310615152,-8.595984820435472,pca_2d_fallback_for_umap_slot
+BLR,Belarus,Europe & Central Asia,Upper middle income,,,not_estimated
+BLZ,Belize,Latin America & Caribbean ,Upper middle income,,,not_estimated
+BOL,Bolivia,Latin America & Caribbean ,Lower middle income,,,not_estimated
+BRA,Brazil,Latin America & Caribbean ,Upper middle income,-0.3402920799234445,39.023994284338386,pca_2d_fallback_for_umap_slot
+BRB,Barbados,Latin America & Caribbean ,High income,,,not_estimated
+BRN,Brunei,East Asia & Pacific,High income,,,not_estimated
+BTN,Bhutan,South Asia,Lower middle income,,,not_estimated
+BWA,Botswana,Sub-Saharan Africa ,Upper middle income,-17.672915898373052,-8.15073497291774,pca_2d_fallback_for_umap_slot
+CAF,Central African Republic (the),Sub-Saharan Africa ,Low income,,,not_estimated
+CAN,Canada,North America,High income,,,not_estimated
+CHE,Switzerland,Europe & Central Asia,High income,89.79962073131765,-20.18993886614487,pca_2d_fallback_for_umap_slot
+CHL,Chile,Latin America & Caribbean ,High income,-5.25934769611013,-3.100407891511987,pca_2d_fallback_for_umap_slot
+CHN,China,East Asia & Pacific,Upper middle income,,,not_estimated
+CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,-20.178734808419737,-4.019228917688707,pca_2d_fallback_for_umap_slot
+CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,-22.163390188417125,-4.452299973690781,pca_2d_fallback_for_umap_slot
+COD,Democratic Republic of the Congo,Sub-Saharan Africa ,Low income,,,not_estimated
+COG,Republic of the Congo,Sub-Saharan Africa ,Lower middle income,,,not_estimated
+COL,Colombia,Latin America & Caribbean ,Upper middle income,-11.14693003311577,3.0444878814798066,pca_2d_fallback_for_umap_slot
+COM,Comoros (the),Sub-Saharan Africa ,Lower middle income,,,not_estimated
+CPV,Cabo Verde,Sub-Saharan Africa ,Upper middle income,,,not_estimated
+CRI,Costa Rica,Latin America & Caribbean ,High income,-12.824247778298155,-6.921995285313018,pca_2d_fallback_for_umap_slot
+CUB,Cuba,Latin America & Caribbean ,Upper middle income,,,not_estimated
+CYP,Cyprus,Europe & Central Asia,High income,,,not_estimated
+CZE,Czech Republic,Europe & Central Asia,High income,25.96247113771104,-8.667439202329103,pca_2d_fallback_for_umap_slot
+DEU,Germany,Europe & Central Asia,High income,84.33873192892091,25.233249492247378,pca_2d_fallback_for_umap_slot
+DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,,,not_estimated
+DMA,Dominica,Latin America & Caribbean ,Upper middle income,,,not_estimated
+DNK,Denmark,Europe & Central Asia,High income,100.18003722670254,-20.858621578506764,pca_2d_fallback_for_umap_slot
+DOM,Dominican Republic (the),Latin America & Caribbean ,Upper middle income,-17.540492675794024,-5.753012120839417,pca_2d_fallback_for_umap_slot
+DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,,,not_estimated
+ECU,Ecuador,Latin America & Caribbean ,Upper middle income,-17.38945789287033,-4.973581335289581,pca_2d_fallback_for_umap_slot
+EGY,Egypt,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,,,not_estimated
+ERI,Eritrea,Sub-Saharan Africa ,Low income,,,not_estimated
+ESP,Spain,Europe & Central Asia,High income,14.693590793659915,11.149137518090708,pca_2d_fallback_for_umap_slot
+EST,Estonia,Europe & Central Asia,High income,,,not_estimated
+ETH,Ethiopia,Sub-Saharan Africa ,Not classified,,,not_estimated
+FIN,Finland,Europe & Central Asia,High income,79.85575701388423,-17.523532166062143,pca_2d_fallback_for_umap_slot
+FJI,Fiji,East Asia & Pacific,Upper middle income,,,not_estimated
+FRA,France,Europe & Central Asia,High income,42.06965021334285,23.373531967434275,pca_2d_fallback_for_umap_slot
+FSM,Micronesia (Federated States of),East Asia & Pacific,Lower middle income,,,not_estimated
+GAB,Gabon,Sub-Saharan Africa ,Upper middle income,,,not_estimated
+GBR,United Kingdom,Europe & Central Asia,High income,51.00200815023475,22.725942749690883,pca_2d_fallback_for_umap_slot
+GEO,Georgia,Europe & Central Asia,Upper middle income,-11.662957303123077,-8.16690401730694,pca_2d_fallback_for_umap_slot
+GHA,Ghana,Sub-Saharan Africa ,Lower middle income,-20.302718252305016,-2.963017387041523,pca_2d_fallback_for_umap_slot
+GIN,Guinea,Sub-Saharan Africa ,Lower middle income,,,not_estimated
+GMB,The Gambia,Sub-Saharan Africa ,Low income,,,not_estimated
+GNB,Guinea Bissau,Sub-Saharan Africa ,Low income,,,not_estimated
+GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,,,not_estimated
+GRC,Greece,Europe & Central Asia,High income,-1.5988611272885456,-5.697394085577002,pca_2d_fallback_for_umap_slot
+GRD,Grenada,Latin America & Caribbean ,Upper middle income,,,not_estimated
+GTM,Guatemala,Latin America & Caribbean ,Upper middle income,-20.159671877063143,-5.716914580778025,pca_2d_fallback_for_umap_slot
+GUY,Guyana,Latin America & Caribbean ,High income,,,not_estimated
+HKG,Hong Kong,East Asia & Pacific,High income,,,not_estimated
+HND,Honduras,Latin America & Caribbean ,Lower middle income,,,not_estimated
+HRV,Croatia,Europe & Central Asia,High income,0.5175760752418291,-8.842498952731988,pca_2d_fallback_for_umap_slot
+HTI,Haiti,Latin America & Caribbean ,Lower middle income,,,not_estimated
+HUN,Hungary,Europe & Central Asia,High income,15.483561411995804,-12.615973608325257,pca_2d_fallback_for_umap_slot
+IDN,Indonesia,East Asia & Pacific,Upper middle income,-7.4545594736405185,37.28585492908155,pca_2d_fallback_for_umap_slot
+IND,India,South Asia,Lower middle income,7.816717807496135,179.1088236338516,pca_2d_fallback_for_umap_slot
+IRL,Ireland,Europe & Central Asia,High income,51.97777953715159,-11.299598699469554,pca_2d_fallback_for_umap_slot
+IRN,Iran,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,,,not_estimated
+IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,,,not_estimated
+ISL,Iceland,Europe & Central Asia,High income,,,not_estimated
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",High income,20.61205227562008,-2.124076100111083,pca_2d_fallback_for_umap_slot
+ITA,Italy,Europe & Central Asia,High income,20.715965505423316,14.226977785784538,pca_2d_fallback_for_umap_slot
+JAM,Jamaica,Latin America & Caribbean ,Upper middle income,,,not_estimated
+JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,-13.457817490393568,-5.978074486892008,pca_2d_fallback_for_umap_slot
+JPN,Japan,East Asia & Pacific,High income,,,not_estimated
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,-12.48972576847347,-3.482487286547525,pca_2d_fallback_for_umap_slot
+KEN,Kenya,Sub-Saharan Africa ,Lower middle income,-16.631686471168166,0.3807335024217659,pca_2d_fallback_for_umap_slot
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,-19.149466761682984,-7.585901107636021,pca_2d_fallback_for_umap_slot
+KHM,Cambodia,East Asia & Pacific,Lower middle income,-19.18878853130969,-5.908087024411452,pca_2d_fallback_for_umap_slot
+KIR,Kiribati,East Asia & Pacific,Lower middle income,,,not_estimated
+KNA,Saint Kitts and Nevis,Latin America & Caribbean ,High income,,,not_estimated
+KOR,South Korea,East Asia & Pacific,High income,,,not_estimated
+KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",High income,-12.532626937534353,-6.747130596834613,pca_2d_fallback_for_umap_slot
+LAO,Laos,East Asia & Pacific,Lower middle income,,,not_estimated
+LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,-21.006683716698316,-6.461301755587189,pca_2d_fallback_for_umap_slot
+LBR,Liberia,Sub-Saharan Africa ,Low income,,,not_estimated
+LBY,Libya,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,,,not_estimated
+LCA,Saint Lucia,Latin America & Caribbean ,Upper middle income,,,not_estimated
+LIE,Liechtenstein,Europe & Central Asia,High income,,,not_estimated
+LKA,Sri Lanka,South Asia,Lower middle income,-17.191872123109484,-4.614126193172278,pca_2d_fallback_for_umap_slot
+LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,,,not_estimated
+LTU,Lithuania,Europe & Central Asia,High income,28.323575975898493,-13.396655994810459,pca_2d_fallback_for_umap_slot
+LUX,Luxembourg,Europe & Central Asia,High income,,,not_estimated
+LVA,Latvia,Europe & Central Asia,High income,,,not_estimated
+MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,-15.028583871366612,-2.7263202494408754,pca_2d_fallback_for_umap_slot
+MCO,Monaco,Europe & Central Asia,High income,,,not_estimated
+MDA,Moldova,Europe & Central Asia,Upper middle income,-10.7746861461589,-8.376462575285156,pca_2d_fallback_for_umap_slot
+MDG,Madagascar,Sub-Saharan Africa ,Low income,-24.45827534987079,-4.065871358558283,pca_2d_fallback_for_umap_slot
+MDV,Maldives,South Asia,Upper middle income,,,not_estimated
+MEX,Mexico,Latin America & Caribbean ,Upper middle income,-7.9876474872658045,21.621271818813263,pca_2d_fallback_for_umap_slot
+MHL,Marshall Islands (the),East Asia & Pacific,Upper middle income,,,not_estimated
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,,,not_estimated
+MLI,Mali,Sub-Saharan Africa ,Low income,,,not_estimated
+MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",High income,,,not_estimated
+MMR,Myanmar,East Asia & Pacific,Lower middle income,,,not_estimated
+MNE,Montenegro,Europe & Central Asia,Upper middle income,,,not_estimated
+MNG,Mongolia,East Asia & Pacific,Upper middle income,-17.045437983564995,-7.82428572031066,pca_2d_fallback_for_umap_slot
+MOZ,Mozambique,Sub-Saharan Africa ,Low income,-25.31274754403773,-4.27764823695893,pca_2d_fallback_for_umap_slot
+MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,,,not_estimated
+MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,,,not_estimated
+MWI,Malawi,Sub-Saharan Africa ,Low income,,,not_estimated
+MYS,Malaysia,East Asia & Pacific,Upper middle income,-2.7218816258667045,1.3980503636871031,pca_2d_fallback_for_umap_slot
+NAM,Namibia,Sub-Saharan Africa ,Lower middle income,,,not_estimated
+NER,Niger (the),Sub-Saharan Africa ,Low income,-25.70249898950511,-5.2441315745051424,pca_2d_fallback_for_umap_slot
+NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,,,not_estimated
+NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,,,not_estimated
+NLD,Netherlands (Kingdom of the),Europe & Central Asia,High income,92.03203365187493,-11.893723957309854,pca_2d_fallback_for_umap_slot
+NOR,Norway,Europe & Central Asia,High income,20.971620989794584,-6.591586657962259,pca_2d_fallback_for_umap_slot
+NPL,Nepal,South Asia,Lower middle income,-20.469396179732776,-5.054800443792852,pca_2d_fallback_for_umap_slot
+NRU,Nauru,East Asia & Pacific,High income,,,not_estimated
+NZL,New Zealand,East Asia & Pacific,High income,,,not_estimated
+OMN,Oman,"Middle East, North Africa, Afghanistan & Pakistan",High income,-13.129446409067643,-6.2978687984829556,pca_2d_fallback_for_umap_slot
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,-18.26482921175923,20.04837808502243,pca_2d_fallback_for_umap_slot
+PAN,Panama,Latin America & Caribbean ,High income,-13.927516181871653,-7.205105414973366,pca_2d_fallback_for_umap_slot
+PER,Peru,Latin America & Caribbean ,Upper middle income,,,not_estimated
+PHL,Philippines (the),East Asia & Pacific,Lower middle income,-9.419405661598054,11.47905443941221,pca_2d_fallback_for_umap_slot
+PLW,Palau,East Asia & Pacific,High income,,,not_estimated
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,,,not_estimated
+POL,Poland,Europe & Central Asia,High income,11.143785917918471,2.3162870878379787,pca_2d_fallback_for_umap_slot
+PRI,Puerto Rico,Latin America & Caribbean ,High income,,,not_estimated
+PRK,North Korea,East Asia & Pacific,Low income,,,not_estimated
+PRT,Portugal,Europe & Central Asia,High income,10.32311950907494,-5.521822717995377,pca_2d_fallback_for_umap_slot
+PRY,Paraguay,Latin America & Caribbean ,Upper middle income,,,not_estimated
+PSE,Palestine,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,,,not_estimated
+QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",High income,-9.71178284567043,-6.610220032575723,pca_2d_fallback_for_umap_slot
+ROU,Romania,Europe & Central Asia,High income,-1.8768108746796874,-4.098960376486874,pca_2d_fallback_for_umap_slot
+RUS,Russia,Europe & Central Asia,High income,,,not_estimated
+RWA,Rwanda,Sub-Saharan Africa ,Low income,-18.49663029569591,-5.896660213139012,pca_2d_fallback_for_umap_slot
+SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",High income,-4.339684184737088,4.6921458952238995,pca_2d_fallback_for_umap_slot
+SDN,Sudan (the),Sub-Saharan Africa ,Low income,,,not_estimated
+SEN,Senegal,Sub-Saharan Africa ,Lower middle income,-19.203760444421345,-5.7207622307737225,pca_2d_fallback_for_umap_slot
+SGP,Singapore,East Asia & Pacific,High income,,,not_estimated
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,,,not_estimated
+SLE,Sierra Leone,Sub-Saharan Africa ,Low income,,,not_estimated
+SLV,El Salvador,Latin America & Caribbean ,Upper middle income,-19.135012189039866,-7.468917276864473,pca_2d_fallback_for_umap_slot
+SMR,San Marino,Europe & Central Asia,High income,,,not_estimated
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa ,Low income,,,not_estimated
+SRB,Serbia,Europe & Central Asia,Upper middle income,,,not_estimated
+SSD,South Sudan,Sub-Saharan Africa ,Low income,,,not_estimated
+STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,,,not_estimated
+SUR,Suriname,Latin America & Caribbean ,Upper middle income,,,not_estimated
+SVK,Slovakia,Europe & Central Asia,High income,5.78771150288369,-9.364653080022453,pca_2d_fallback_for_umap_slot
+SVN,Slovenia,Europe & Central Asia,High income,21.20662860922181,-12.312410978542474,pca_2d_fallback_for_umap_slot
+SWE,Sweden,Europe & Central Asia,High income,42.73102468722862,-5.175509806840351,pca_2d_fallback_for_umap_slot
+SWZ,Swaziland,Sub-Saharan Africa ,Lower middle income,,,not_estimated
+SYC,Seychelles,Sub-Saharan Africa ,High income,,,not_estimated
+SYR,Syria,"Middle East, North Africa, Afghanistan & Pakistan",Low income,,,not_estimated
+TCD,Chad,Sub-Saharan Africa ,Low income,,,not_estimated
+TGO,Togo,Sub-Saharan Africa ,Low income,-22.719375269879844,-7.1887671639062125,pca_2d_fallback_for_umap_slot
+THA,Thailand,East Asia & Pacific,Upper middle income,-6.639497628019707,6.914010270398648,pca_2d_fallback_for_umap_slot
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,,,not_estimated
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,,,not_estimated
+TLS,Timor Leste,East Asia & Pacific,Lower middle income,,,not_estimated
+TON,Tonga,East Asia & Pacific,Upper middle income,,,not_estimated
+TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,,,not_estimated
+TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,-16.084690413110543,-6.03354924367475,pca_2d_fallback_for_umap_slot
+TUR,Turkiye,Europe & Central Asia,Upper middle income,-7.064786434043052,11.865855647662121,pca_2d_fallback_for_umap_slot
+TUV,Tuvalu,East Asia & Pacific,Upper middle income,,,not_estimated
+TWN,Taiwan,,,,,not_estimated
+TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,-19.970194051457298,0.5707937290576913,pca_2d_fallback_for_umap_slot
+UGA,Uganda,Sub-Saharan Africa ,Low income,,,not_estimated
+UKR,Ukraine,Europe & Central Asia,Upper middle income,-9.244798197596769,-0.8699784925821757,pca_2d_fallback_for_umap_slot
+URY,Uruguay,Latin America & Caribbean ,High income,-9.158037791169583,-7.797487373571232,pca_2d_fallback_for_umap_slot
+USA,United States,North America,High income,,,not_estimated
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,-16.933389545148106,-2.8999795582889596,pca_2d_fallback_for_umap_slot
+VAT,Vatican,,,,,not_estimated
+VCT,Saint Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,,,not_estimated
+VEN,Venezuela,Latin America & Caribbean ,Not classified,,,not_estimated
+VNM,Vietnam,East Asia & Pacific,Lower middle income,,,not_estimated
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,,,not_estimated
+WSM,Samoa,East Asia & Pacific,Upper middle income,,,not_estimated
+XKX,Kosovo,Europe & Central Asia,Upper middle income,,,not_estimated
+YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",Low income,,,not_estimated
+ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,-5.800300096201597,1.2276412267771208,pca_2d_fallback_for_umap_slot
+ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,,,not_estimated
+ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,-31.841975961473626,-3.406561622875173,pca_2d_fallback_for_umap_slot

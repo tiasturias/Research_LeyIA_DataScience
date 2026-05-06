@@ -1,0 +1,200 @@
+iso3,country_name_canonical,region,income_group,n_binding,has_binding,n_non_binding,has_non_binding,n_hybrid,has_hybrid,n_unknown,has_unknown,has_iapp_record,taxonomy_status
+AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+AGO,Angola,Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+ALB,Albania,Europe & Central Asia,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+AND,Andorra,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,0,no_iapp_record
+ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",High income,4,1,7,1,1,1,0,0,1,classified_exploratory
+ARG,Argentina,Latin America & Caribbean ,Upper middle income,3,1,5,1,2,1,0,0,1,classified_exploratory
+ARM,Armenia,Europe & Central Asia,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+AUS,Australia,East Asia & Pacific,High income,3,1,9,1,2,1,0,0,1,classified_exploratory
+AUT,Austria,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+BDI,Burundi,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+BEL,Belgium,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+BEN,Benin,Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+BFA,Burkina Faso,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+BGD,Bangladesh,South Asia,Lower middle income,3,1,2,1,1,1,0,0,1,classified_exploratory
+BGR,Bulgaria,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+BHS,The Bahamas,Latin America & Caribbean ,High income,0,0,0,0,0,0,0,0,0,no_iapp_record
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+BLR,Belarus,Europe & Central Asia,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+BLZ,Belize,Latin America & Caribbean ,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+BOL,Bolivia,Latin America & Caribbean ,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+BRA,Brazil,Latin America & Caribbean ,Upper middle income,3,1,4,1,2,1,0,0,1,classified_exploratory
+BRB,Barbados,Latin America & Caribbean ,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+BRN,Brunei,East Asia & Pacific,High income,0,0,0,0,0,0,0,0,0,no_iapp_record
+BTN,Bhutan,South Asia,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+BWA,Botswana,Sub-Saharan Africa ,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+CAF,Central African Republic (the),Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+CAN,Canada,North America,High income,3,1,9,1,2,1,0,0,1,classified_exploratory
+CHE,Switzerland,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+CHL,Chile,Latin America & Caribbean ,High income,3,1,5,1,2,1,0,0,1,classified_exploratory
+CHN,China,East Asia & Pacific,Upper middle income,4,1,8,1,2,1,0,0,1,classified_exploratory
+CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+COD,Democratic Republic of the Congo,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+COG,Republic of the Congo,Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+COL,Colombia,Latin America & Caribbean ,Upper middle income,3,1,5,1,2,1,0,0,1,classified_exploratory
+COM,Comoros (the),Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+CPV,Cabo Verde,Sub-Saharan Africa ,Upper middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+CRI,Costa Rica,Latin America & Caribbean ,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+CUB,Cuba,Latin America & Caribbean ,Upper middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+CYP,Cyprus,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+CZE,Czech Republic,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+DEU,Germany,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+DMA,Dominica,Latin America & Caribbean ,Upper middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+DNK,Denmark,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+DOM,Dominican Republic (the),Latin America & Caribbean ,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+ECU,Ecuador,Latin America & Caribbean ,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+EGY,Egypt,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,3,1,4,1,1,1,0,0,1,classified_exploratory
+ERI,Eritrea,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+ESP,Spain,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+EST,Estonia,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+ETH,Ethiopia,Sub-Saharan Africa ,Not classified,0,0,0,0,0,0,0,0,1,classified_exploratory
+FIN,Finland,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+FJI,Fiji,East Asia & Pacific,Upper middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+FRA,France,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+FSM,Micronesia (Federated States of),East Asia & Pacific,Lower middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+GAB,Gabon,Sub-Saharan Africa ,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+GBR,United Kingdom,Europe & Central Asia,High income,4,1,9,1,3,1,0,0,1,classified_exploratory
+GEO,Georgia,Europe & Central Asia,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+GHA,Ghana,Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+GIN,Guinea,Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+GMB,The Gambia,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+GNB,Guinea Bissau,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,0,no_iapp_record
+GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+GRC,Greece,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+GRD,Grenada,Latin America & Caribbean ,Upper middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+GTM,Guatemala,Latin America & Caribbean ,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+GUY,Guyana,Latin America & Caribbean ,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+HKG,Hong Kong,East Asia & Pacific,High income,3,1,2,1,1,1,0,0,1,classified_exploratory
+HND,Honduras,Latin America & Caribbean ,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+HRV,Croatia,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+HTI,Haiti,Latin America & Caribbean ,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+HUN,Hungary,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+IDN,Indonesia,East Asia & Pacific,Upper middle income,3,1,6,1,2,1,0,0,1,classified_exploratory
+IND,India,South Asia,Lower middle income,3,1,6,1,2,1,0,0,1,classified_exploratory
+IRL,Ireland,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+IRN,Iran,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+ISL,Iceland,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",High income,4,1,6,1,2,1,0,0,1,classified_exploratory
+ITA,Italy,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+JAM,Jamaica,Latin America & Caribbean ,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+JPN,Japan,East Asia & Pacific,High income,4,1,9,1,2,1,0,0,1,classified_exploratory
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+KEN,Kenya,Sub-Saharan Africa ,Lower middle income,3,1,2,1,2,1,0,0,1,classified_exploratory
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+KHM,Cambodia,East Asia & Pacific,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+KIR,Kiribati,East Asia & Pacific,Lower middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+KNA,Saint Kitts and Nevis,Latin America & Caribbean ,High income,0,0,0,0,0,0,0,0,0,no_iapp_record
+KOR,South Korea,East Asia & Pacific,High income,4,1,5,1,2,1,0,0,1,classified_exploratory
+KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+LAO,Laos,East Asia & Pacific,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+LBR,Liberia,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+LBY,Libya,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+LCA,Saint Lucia,Latin America & Caribbean ,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+LIE,Liechtenstein,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,0,no_iapp_record
+LKA,Sri Lanka,South Asia,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+LTU,Lithuania,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+LUX,Luxembourg,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+LVA,Latvia,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+MCO,Monaco,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,0,no_iapp_record
+MDA,Moldova,Europe & Central Asia,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+MDG,Madagascar,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,0,no_iapp_record
+MDV,Maldives,South Asia,Upper middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+MEX,Mexico,Latin America & Caribbean ,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+MHL,Marshall Islands (the),East Asia & Pacific,Upper middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+MLI,Mali,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+MMR,Myanmar,East Asia & Pacific,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+MNE,Montenegro,Europe & Central Asia,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+MNG,Mongolia,East Asia & Pacific,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+MOZ,Mozambique,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,3,1,3,1,1,1,0,0,1,classified_exploratory
+MWI,Malawi,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+MYS,Malaysia,East Asia & Pacific,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+NAM,Namibia,Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+NER,Niger (the),Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,3,1,6,1,2,1,0,0,1,classified_exploratory
+NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+NLD,Netherlands (Kingdom of the),Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+NOR,Norway,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+NPL,Nepal,South Asia,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+NRU,Nauru,East Asia & Pacific,High income,0,0,0,0,0,0,0,0,0,no_iapp_record
+NZL,New Zealand,East Asia & Pacific,High income,3,1,7,1,1,1,0,0,1,classified_exploratory
+OMN,Oman,"Middle East, North Africa, Afghanistan & Pakistan",High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+PAN,Panama,Latin America & Caribbean ,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+PER,Peru,Latin America & Caribbean ,Upper middle income,4,1,4,1,1,1,0,0,1,classified_exploratory
+PHL,Philippines (the),East Asia & Pacific,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+PLW,Palau,East Asia & Pacific,High income,0,0,0,0,0,0,0,0,0,no_iapp_record
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+POL,Poland,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+PRI,Puerto Rico,Latin America & Caribbean ,High income,0,0,0,0,0,0,0,0,0,no_iapp_record
+PRK,North Korea,East Asia & Pacific,Low income,0,0,0,0,0,0,0,0,0,no_iapp_record
+PRT,Portugal,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+PRY,Paraguay,Latin America & Caribbean ,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+PSE,Palestine,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+ROU,Romania,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+RUS,Russia,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+RWA,Rwanda,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",High income,3,1,4,1,2,1,0,0,1,classified_exploratory
+SDN,Sudan (the),Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,0,no_iapp_record
+SEN,Senegal,Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+SGP,Singapore,East Asia & Pacific,High income,3,1,8,1,3,1,0,0,1,classified_exploratory
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+SLE,Sierra Leone,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+SLV,El Salvador,Latin America & Caribbean ,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+SMR,San Marino,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,0,no_iapp_record
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+SRB,Serbia,Europe & Central Asia,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+SSD,South Sudan,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+SUR,Suriname,Latin America & Caribbean ,Upper middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+SVK,Slovakia,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+SVN,Slovenia,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+SWE,Sweden,Europe & Central Asia,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+SWZ,Swaziland,Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+SYC,Seychelles,Sub-Saharan Africa ,High income,0,0,0,0,0,0,0,0,0,no_iapp_record
+SYR,Syria,"Middle East, North Africa, Afghanistan & Pakistan",Low income,0,0,0,0,0,0,0,0,0,no_iapp_record
+TCD,Chad,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+TGO,Togo,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+THA,Thailand,East Asia & Pacific,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+TLS,Timor Leste,East Asia & Pacific,Lower middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+TON,Tonga,East Asia & Pacific,Upper middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+TUR,Turkiye,Europe & Central Asia,Upper middle income,3,1,3,1,2,1,0,0,1,classified_exploratory
+TUV,Tuvalu,East Asia & Pacific,Upper middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+TWN,Taiwan,,,3,1,3,1,2,1,0,0,1,classified_exploratory
+TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+UGA,Uganda,Sub-Saharan Africa ,Low income,0,0,0,0,0,0,0,0,1,classified_exploratory
+UKR,Ukraine,Europe & Central Asia,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+URY,Uruguay,Latin America & Caribbean ,High income,0,0,0,0,0,0,0,0,1,classified_exploratory
+USA,United States,North America,High income,5,1,8,1,3,1,0,0,1,classified_exploratory
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+VAT,Vatican,,,0,0,0,0,0,0,0,0,0,no_iapp_record
+VCT,Saint Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+VEN,Venezuela,Latin America & Caribbean ,Not classified,0,0,0,0,0,0,0,0,0,no_iapp_record
+VNM,Vietnam,East Asia & Pacific,Lower middle income,4,1,1,1,2,1,0,0,1,classified_exploratory
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+WSM,Samoa,East Asia & Pacific,Upper middle income,0,0,0,0,0,0,0,0,0,no_iapp_record
+XKX,Kosovo,Europe & Central Asia,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",Low income,0,0,0,0,0,0,0,0,0,no_iapp_record
+ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory
+ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,0,0,0,0,0,0,0,0,1,classified_exploratory

@@ -1,0 +1,200 @@
+iso3,country_name_canonical,region,income_group,n_habilitantes_alto,n_inhabilitantes_alto,n_variables_taxonomia,taxonomy_status
+AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",Low income,0,6,16,exploratory_counts_not_index
+AGO,Angola,Sub-Saharan Africa ,Lower middle income,0,8,16,exploratory_counts_not_index
+ALB,Albania,Europe & Central Asia,Upper middle income,1,2,16,exploratory_counts_not_index
+AND,Andorra,Europe & Central Asia,High income,3,1,16,exploratory_counts_not_index
+ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",High income,8,0,16,exploratory_counts_not_index
+ARG,Argentina,Latin America & Caribbean ,Upper middle income,2,1,16,exploratory_counts_not_index
+ARM,Armenia,Europe & Central Asia,Upper middle income,3,3,16,exploratory_counts_not_index
+ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,5,0,16,exploratory_counts_not_index
+AUS,Australia,East Asia & Pacific,High income,10,0,16,exploratory_counts_not_index
+AUT,Austria,Europe & Central Asia,High income,11,0,16,exploratory_counts_not_index
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,2,4,16,exploratory_counts_not_index
+BDI,Burundi,Sub-Saharan Africa ,Low income,0,8,16,exploratory_counts_not_index
+BEL,Belgium,Europe & Central Asia,High income,12,0,16,exploratory_counts_not_index
+BEN,Benin,Sub-Saharan Africa ,Lower middle income,0,6,16,exploratory_counts_not_index
+BFA,Burkina Faso,Sub-Saharan Africa ,Low income,0,7,16,exploratory_counts_not_index
+BGD,Bangladesh,South Asia,Lower middle income,0,6,16,exploratory_counts_not_index
+BGR,Bulgaria,Europe & Central Asia,High income,2,3,16,exploratory_counts_not_index
+BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",High income,4,4,16,exploratory_counts_not_index
+BHS,The Bahamas,Latin America & Caribbean ,High income,2,0,16,exploratory_counts_not_index
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,1,2,16,exploratory_counts_not_index
+BLR,Belarus,Europe & Central Asia,Upper middle income,2,3,16,exploratory_counts_not_index
+BLZ,Belize,Latin America & Caribbean ,Upper middle income,1,1,16,exploratory_counts_not_index
+BOL,Bolivia,Latin America & Caribbean ,Lower middle income,0,5,16,exploratory_counts_not_index
+BRA,Brazil,Latin America & Caribbean ,Upper middle income,2,1,16,exploratory_counts_not_index
+BRB,Barbados,Latin America & Caribbean ,High income,3,0,16,exploratory_counts_not_index
+BRN,Brunei,East Asia & Pacific,High income,4,3,16,exploratory_counts_not_index
+BTN,Bhutan,South Asia,Lower middle income,2,3,16,exploratory_counts_not_index
+BWA,Botswana,Sub-Saharan Africa ,Upper middle income,1,3,16,exploratory_counts_not_index
+CAF,Central African Republic (the),Sub-Saharan Africa ,Low income,0,6,16,exploratory_counts_not_index
+CAN,Canada,North America,High income,9,0,16,exploratory_counts_not_index
+CHE,Switzerland,Europe & Central Asia,High income,13,1,16,exploratory_counts_not_index
+CHL,Chile,Latin America & Caribbean ,High income,6,1,16,exploratory_counts_not_index
+CHN,China,East Asia & Pacific,Upper middle income,9,1,16,exploratory_counts_not_index
+CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,1,7,16,exploratory_counts_not_index
+CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,0,6,16,exploratory_counts_not_index
+COD,Democratic Republic of the Congo,Sub-Saharan Africa ,Low income,0,8,16,exploratory_counts_not_index
+COG,Republic of the Congo,Sub-Saharan Africa ,Lower middle income,0,7,16,exploratory_counts_not_index
+COL,Colombia,Latin America & Caribbean ,Upper middle income,1,2,16,exploratory_counts_not_index
+COM,Comoros (the),Sub-Saharan Africa ,Lower middle income,1,4,16,exploratory_counts_not_index
+CPV,Cabo Verde,Sub-Saharan Africa ,Upper middle income,2,2,16,exploratory_counts_not_index
+CRI,Costa Rica,Latin America & Caribbean ,High income,2,4,16,exploratory_counts_not_index
+CUB,Cuba,Latin America & Caribbean ,Upper middle income,2,2,16,exploratory_counts_not_index
+CYP,Cyprus,Europe & Central Asia,High income,5,2,16,exploratory_counts_not_index
+CZE,Czech Republic,Europe & Central Asia,High income,8,2,16,exploratory_counts_not_index
+DEU,Germany,Europe & Central Asia,High income,12,0,16,exploratory_counts_not_index
+DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,5,16,exploratory_counts_not_index
+DMA,Dominica,Latin America & Caribbean ,Upper middle income,2,1,16,exploratory_counts_not_index
+DNK,Denmark,Europe & Central Asia,High income,13,1,16,exploratory_counts_not_index
+DOM,Dominican Republic (the),Latin America & Caribbean ,Upper middle income,0,2,16,exploratory_counts_not_index
+DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,0,5,16,exploratory_counts_not_index
+ECU,Ecuador,Latin America & Caribbean ,Upper middle income,0,4,16,exploratory_counts_not_index
+EGY,Egypt,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,4,16,exploratory_counts_not_index
+ERI,Eritrea,Sub-Saharan Africa ,Low income,0,6,16,exploratory_counts_not_index
+ESP,Spain,Europe & Central Asia,High income,7,0,16,exploratory_counts_not_index
+EST,Estonia,Europe & Central Asia,High income,9,2,16,exploratory_counts_not_index
+ETH,Ethiopia,Sub-Saharan Africa ,Not classified,0,10,16,exploratory_counts_not_index
+FIN,Finland,Europe & Central Asia,High income,13,0,16,exploratory_counts_not_index
+FJI,Fiji,East Asia & Pacific,Upper middle income,3,1,16,exploratory_counts_not_index
+FRA,France,Europe & Central Asia,High income,11,0,16,exploratory_counts_not_index
+FSM,Micronesia (Federated States of),East Asia & Pacific,Lower middle income,3,3,16,exploratory_counts_not_index
+GAB,Gabon,Sub-Saharan Africa ,Upper middle income,0,1,16,exploratory_counts_not_index
+GBR,United Kingdom,Europe & Central Asia,High income,11,0,16,exploratory_counts_not_index
+GEO,Georgia,Europe & Central Asia,Upper middle income,5,2,16,exploratory_counts_not_index
+GHA,Ghana,Sub-Saharan Africa ,Lower middle income,0,6,16,exploratory_counts_not_index
+GIN,Guinea,Sub-Saharan Africa ,Lower middle income,0,7,16,exploratory_counts_not_index
+GMB,The Gambia,Sub-Saharan Africa ,Low income,0,7,16,exploratory_counts_not_index
+GNB,Guinea Bissau,Sub-Saharan Africa ,Low income,2,5,16,exploratory_counts_not_index
+GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,2,4,16,exploratory_counts_not_index
+GRC,Greece,Europe & Central Asia,High income,6,0,16,exploratory_counts_not_index
+GRD,Grenada,Latin America & Caribbean ,Upper middle income,3,0,16,exploratory_counts_not_index
+GTM,Guatemala,Latin America & Caribbean ,Upper middle income,0,6,16,exploratory_counts_not_index
+GUY,Guyana,Latin America & Caribbean ,High income,0,0,16,exploratory_counts_not_index
+HKG,Hong Kong,East Asia & Pacific,High income,8,1,16,exploratory_counts_not_index
+HND,Honduras,Latin America & Caribbean ,Lower middle income,0,9,16,exploratory_counts_not_index
+HRV,Croatia,Europe & Central Asia,High income,2,2,16,exploratory_counts_not_index
+HTI,Haiti,Latin America & Caribbean ,Lower middle income,0,6,16,exploratory_counts_not_index
+HUN,Hungary,Europe & Central Asia,High income,8,1,16,exploratory_counts_not_index
+IDN,Indonesia,East Asia & Pacific,Upper middle income,0,7,16,exploratory_counts_not_index
+IND,India,South Asia,Lower middle income,1,5,16,exploratory_counts_not_index
+IRL,Ireland,Europe & Central Asia,High income,12,0,16,exploratory_counts_not_index
+IRN,Iran,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,1,3,16,exploratory_counts_not_index
+IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2,4,16,exploratory_counts_not_index
+ISL,Iceland,Europe & Central Asia,High income,14,0,16,exploratory_counts_not_index
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",High income,9,1,16,exploratory_counts_not_index
+ITA,Italy,Europe & Central Asia,High income,8,0,16,exploratory_counts_not_index
+JAM,Jamaica,Latin America & Caribbean ,Upper middle income,0,1,16,exploratory_counts_not_index
+JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,1,4,16,exploratory_counts_not_index
+JPN,Japan,East Asia & Pacific,High income,11,0,16,exploratory_counts_not_index
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,1,5,16,exploratory_counts_not_index
+KEN,Kenya,Sub-Saharan Africa ,Lower middle income,1,7,16,exploratory_counts_not_index
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,1,8,16,exploratory_counts_not_index
+KHM,Cambodia,East Asia & Pacific,Lower middle income,0,6,16,exploratory_counts_not_index
+KIR,Kiribati,East Asia & Pacific,Lower middle income,3,3,16,exploratory_counts_not_index
+KNA,Saint Kitts and Nevis,Latin America & Caribbean ,High income,3,0,16,exploratory_counts_not_index
+KOR,South Korea,East Asia & Pacific,High income,12,1,16,exploratory_counts_not_index
+KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",High income,2,6,16,exploratory_counts_not_index
+LAO,Laos,East Asia & Pacific,Lower middle income,1,3,16,exploratory_counts_not_index
+LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,4,16,exploratory_counts_not_index
+LBR,Liberia,Sub-Saharan Africa ,Low income,0,6,16,exploratory_counts_not_index
+LBY,Libya,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,3,2,16,exploratory_counts_not_index
+LCA,Saint Lucia,Latin America & Caribbean ,Upper middle income,2,1,16,exploratory_counts_not_index
+LIE,Liechtenstein,Europe & Central Asia,High income,8,0,16,exploratory_counts_not_index
+LKA,Sri Lanka,South Asia,Lower middle income,1,10,16,exploratory_counts_not_index
+LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,0,7,16,exploratory_counts_not_index
+LTU,Lithuania,Europe & Central Asia,High income,5,2,16,exploratory_counts_not_index
+LUX,Luxembourg,Europe & Central Asia,High income,8,2,16,exploratory_counts_not_index
+LVA,Latvia,Europe & Central Asia,High income,5,3,16,exploratory_counts_not_index
+MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,1,1,16,exploratory_counts_not_index
+MCO,Monaco,Europe & Central Asia,High income,7,0,16,exploratory_counts_not_index
+MDA,Moldova,Europe & Central Asia,Upper middle income,0,2,16,exploratory_counts_not_index
+MDG,Madagascar,Sub-Saharan Africa ,Low income,0,10,16,exploratory_counts_not_index
+MDV,Maldives,South Asia,Upper middle income,3,0,16,exploratory_counts_not_index
+MEX,Mexico,Latin America & Caribbean ,Upper middle income,1,4,16,exploratory_counts_not_index
+MHL,Marshall Islands (the),East Asia & Pacific,Upper middle income,3,1,16,exploratory_counts_not_index
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,2,1,16,exploratory_counts_not_index
+MLI,Mali,Sub-Saharan Africa ,Low income,0,10,16,exploratory_counts_not_index
+MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",High income,7,1,16,exploratory_counts_not_index
+MMR,Myanmar,East Asia & Pacific,Lower middle income,0,10,16,exploratory_counts_not_index
+MNE,Montenegro,Europe & Central Asia,Upper middle income,3,1,16,exploratory_counts_not_index
+MNG,Mongolia,East Asia & Pacific,Upper middle income,1,7,16,exploratory_counts_not_index
+MOZ,Mozambique,Sub-Saharan Africa ,Low income,0,10,16,exploratory_counts_not_index
+MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,0,7,16,exploratory_counts_not_index
+MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,3,4,16,exploratory_counts_not_index
+MWI,Malawi,Sub-Saharan Africa ,Low income,0,9,16,exploratory_counts_not_index
+MYS,Malaysia,East Asia & Pacific,Upper middle income,3,1,16,exploratory_counts_not_index
+NAM,Namibia,Sub-Saharan Africa ,Lower middle income,0,5,16,exploratory_counts_not_index
+NER,Niger (the),Sub-Saharan Africa ,Low income,0,9,16,exploratory_counts_not_index
+NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,0,8,16,exploratory_counts_not_index
+NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,0,3,16,exploratory_counts_not_index
+NLD,Netherlands (Kingdom of the),Europe & Central Asia,High income,13,0,16,exploratory_counts_not_index
+NOR,Norway,Europe & Central Asia,High income,11,0,16,exploratory_counts_not_index
+NPL,Nepal,South Asia,Lower middle income,0,4,16,exploratory_counts_not_index
+NRU,Nauru,East Asia & Pacific,High income,2,1,16,exploratory_counts_not_index
+NZL,New Zealand,East Asia & Pacific,High income,9,0,16,exploratory_counts_not_index
+OMN,Oman,"Middle East, North Africa, Afghanistan & Pakistan",High income,3,3,16,exploratory_counts_not_index
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,10,16,exploratory_counts_not_index
+PAN,Panama,Latin America & Caribbean ,High income,1,5,16,exploratory_counts_not_index
+PER,Peru,Latin America & Caribbean ,Upper middle income,1,3,16,exploratory_counts_not_index
+PHL,Philippines (the),East Asia & Pacific,Lower middle income,0,5,16,exploratory_counts_not_index
+PLW,Palau,East Asia & Pacific,High income,4,0,16,exploratory_counts_not_index
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,0,3,16,exploratory_counts_not_index
+POL,Poland,Europe & Central Asia,High income,7,1,16,exploratory_counts_not_index
+PRI,Puerto Rico,Latin America & Caribbean ,High income,4,0,16,exploratory_counts_not_index
+PRK,North Korea,East Asia & Pacific,Low income,2,3,16,exploratory_counts_not_index
+PRT,Portugal,Europe & Central Asia,High income,8,0,16,exploratory_counts_not_index
+PRY,Paraguay,Latin America & Caribbean ,Upper middle income,0,5,16,exploratory_counts_not_index
+PSE,Palestine,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2,2,16,exploratory_counts_not_index
+QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",High income,4,3,16,exploratory_counts_not_index
+ROU,Romania,Europe & Central Asia,High income,3,2,16,exploratory_counts_not_index
+RUS,Russia,Europe & Central Asia,High income,2,2,16,exploratory_counts_not_index
+RWA,Rwanda,Sub-Saharan Africa ,Low income,1,9,16,exploratory_counts_not_index
+SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",High income,6,0,16,exploratory_counts_not_index
+SDN,Sudan (the),Sub-Saharan Africa ,Low income,0,6,16,exploratory_counts_not_index
+SEN,Senegal,Sub-Saharan Africa ,Lower middle income,0,5,16,exploratory_counts_not_index
+SGP,Singapore,East Asia & Pacific,High income,11,0,16,exploratory_counts_not_index
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,2,4,16,exploratory_counts_not_index
+SLE,Sierra Leone,Sub-Saharan Africa ,Low income,0,5,16,exploratory_counts_not_index
+SLV,El Salvador,Latin America & Caribbean ,Upper middle income,1,6,16,exploratory_counts_not_index
+SMR,San Marino,Europe & Central Asia,High income,6,0,16,exploratory_counts_not_index
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa ,Low income,0,6,16,exploratory_counts_not_index
+SRB,Serbia,Europe & Central Asia,Upper middle income,2,2,16,exploratory_counts_not_index
+SSD,South Sudan,Sub-Saharan Africa ,Low income,1,5,16,exploratory_counts_not_index
+STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,0,3,16,exploratory_counts_not_index
+SUR,Suriname,Latin America & Caribbean ,Upper middle income,1,2,16,exploratory_counts_not_index
+SVK,Slovakia,Europe & Central Asia,High income,3,2,16,exploratory_counts_not_index
+SVN,Slovenia,Europe & Central Asia,High income,12,1,16,exploratory_counts_not_index
+SWE,Sweden,Europe & Central Asia,High income,13,0,16,exploratory_counts_not_index
+SWZ,Swaziland,Sub-Saharan Africa ,Lower middle income,2,0,16,exploratory_counts_not_index
+SYC,Seychelles,Sub-Saharan Africa ,High income,3,1,16,exploratory_counts_not_index
+SYR,Syria,"Middle East, North Africa, Afghanistan & Pakistan",Low income,2,6,16,exploratory_counts_not_index
+TCD,Chad,Sub-Saharan Africa ,Low income,0,7,16,exploratory_counts_not_index
+TGO,Togo,Sub-Saharan Africa ,Low income,0,8,16,exploratory_counts_not_index
+THA,Thailand,East Asia & Pacific,Upper middle income,2,2,16,exploratory_counts_not_index
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,1,10,16,exploratory_counts_not_index
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,2,5,16,exploratory_counts_not_index
+TLS,Timor Leste,East Asia & Pacific,Lower middle income,2,2,16,exploratory_counts_not_index
+TON,Tonga,East Asia & Pacific,Upper middle income,3,1,16,exploratory_counts_not_index
+TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,0,4,16,exploratory_counts_not_index
+TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,0,1,16,exploratory_counts_not_index
+TUR,Turkiye,Europe & Central Asia,Upper middle income,3,1,16,exploratory_counts_not_index
+TUV,Tuvalu,East Asia & Pacific,Upper middle income,3,1,16,exploratory_counts_not_index
+TWN,Taiwan,,,0,0,16,exploratory_counts_not_index
+TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,0,7,16,exploratory_counts_not_index
+UGA,Uganda,Sub-Saharan Africa ,Low income,0,10,16,exploratory_counts_not_index
+UKR,Ukraine,Europe & Central Asia,Upper middle income,2,1,16,exploratory_counts_not_index
+URY,Uruguay,Latin America & Caribbean ,High income,6,2,16,exploratory_counts_not_index
+USA,United States,North America,High income,12,0,16,exploratory_counts_not_index
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,1,6,16,exploratory_counts_not_index
+VAT,Vatican,,,0,0,16,exploratory_counts_not_index
+VCT,Saint Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,2,0,16,exploratory_counts_not_index
+VEN,Venezuela,Latin America & Caribbean ,Not classified,0,4,16,exploratory_counts_not_index
+VNM,Vietnam,East Asia & Pacific,Lower middle income,1,1,16,exploratory_counts_not_index
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,2,1,16,exploratory_counts_not_index
+WSM,Samoa,East Asia & Pacific,Upper middle income,3,3,16,exploratory_counts_not_index
+XKX,Kosovo,Europe & Central Asia,Upper middle income,0,1,16,exploratory_counts_not_index
+YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",Low income,0,6,16,exploratory_counts_not_index
+ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,1,0,16,exploratory_counts_not_index
+ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,0,5,16,exploratory_counts_not_index
+ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,0,7,16,exploratory_counts_not_index

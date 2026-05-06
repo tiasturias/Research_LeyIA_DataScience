@@ -1,0 +1,95 @@
+latam:
+  - ARG
+  - BRA
+  - CHL
+  - COL
+  - MEX
+  - PER
+  - URY
+  - ECU
+  - BOL
+  - PRY
+
+oecd_subset:
+  - USA
+  - GBR
+  - DEU
+  - FRA
+  - JPN
+  - KOR
+  - AUS
+  - CAN
+  - ESP
+  - ITA
+  - NLD
+  - SWE
+  - NOR
+  - DNK
+  - FIN
+  - CHE
+  - POL
+  - CZE
+  - HUN
+  - PRT
+  - GRC
+  - ISR
+  - NZL
+  - IRL
+  - EST
+  - LVA
+  - LTU
+  - SVK
+  - SVN
+  - LUX
+  - BEL
+  - AUT
+  - MEX
+  - CHL
+  - COL
+  - CRI
+  - TUR
+
+ai_leaders:
+  - USA
+  - GBR
+  - SGP
+  - ARE
+  - IRL
+  - CHN
+  - ISR
+  - EST
+  - NLD
+  - DNK
+  - KOR
+  - DEU
+  - FRA
+  - JPN
+  - AUS
+  - CAN
+  - SWE
+  - FIN
+
+chile_focal: CHL
+
+chile_latam_peers:
+  - ARG
+  - BRA
+  - COL
+  - MEX
+  - PER
+  - URY
+
+deep_dive_targets:
+  - SGP
+  - ARE
+  - IRL
+
+key_countries_must_be_present:
+  - USA
+  - CHN
+  - GBR
+  - SGP
+  - ARE
+  - IRL
+  - EST
+  - CHL

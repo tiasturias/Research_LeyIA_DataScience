@@ -1,0 +1,50 @@
+# Taxonomia binding vs non-binding para variables de regulatory_treatment
+# Editable por revision humana. Cambios deben registrarse en decisions.yaml.
+# human_review: reviewed_codex_user_2026-05-06
+# Regla: solo se listan variables observadas en fase3_diccionario_variables.csv.
+# Variables previstas en el blueprint pero ausentes se documentan como gaps, no
+# se incluyen como si existieran.
+
+binding:
+  - iapp_ley_ia_vigente
+  - iapp_categoria_obligatoriedad
+  - iapp_firmo_coe_convencion
+  - iapp_n_leyes_relacionadas
+  - iapp_n_autoridades
+
+non_binding:
+  - iapp_estrategia_nacional_ia
+  - iapp_adhiere_oecd_ai
+  - iapp_adopto_unesco_etica_ia
+  - iapp_endoso_hiroshima_g7
+  - iapp_firmo_bletchley
+  - iapp_endoso_declaracion_data_scraping
+  - iapp_firmo_ai_action_summit
+  - iapp_marcos_voluntarios
+  - iapp_guias_sectoriales
+  - iapp_herramientas_testing
+
+hybrid:
+  - iapp_proyecto_ley_ia
+  - iapp_modelo_gobernanza
+  - iapp_sandbox_regulatorio
+  - iapp_instituto_seguridad_ia
+
+unknown:
+  []
+
+documented_gaps:
+  - iapp_autoridad_regulatoria_ia
+  - iapp_principios_ia
+  - iapp_regulacion_sectorial_ia
+  - iapp_regulacion_horizontal_ia
+  - iapp_reglamento_ia
+  - iapp_tipo_enfoque_regulatorio
+  - iapp_ai_risk_framework
+
+# Notas metodologicas:
+# - binding = tiene fuerza de ley y mecanismos de enforcement
+# - non_binding = declaraciones voluntarias, estrategias, adhesiones sin fuerza legal
+# - hybrid = en tramite legislativo, frameworks sin enforcement claro, regulacion sectorial parcial
+# - unknown = requiere lectura del texto legal para clasificar
+# - documented_gaps = conceptos sustantivos deseables que no existen como variables observadas en Fase 3

@@ -1,0 +1,7 @@
+gap_id,subpregunta,variable_faltante,motivo,fuente_potencial,prioridad
+G001,Q1_investment,datacenter_construction_permits_timeline,No disponible en ninguna fuente de Fase 3,"IEA, CBRE, JLL Real Estate",alta
+G002,Q1_investment,corporate_tax_rate_full,"Cobertura parcial en WB, falta para ~40 países","OECD Tax Database, Trading Economics",media
+G003,Q2_adoption,ai_adoption_sme_rate,OECD cubre solo países OECD,"ITU, Eurostat, encuestas nacionales",media
+G004,Q3_innovation,ai_patents_subtype_breakdown,"Stanford da total, no desglose por campo IA","USPTO PatentsView, EPO Espacenet",baja
+G005,Q4_content,legal_text_nlp_embeddings,NLP de corpus legal reservado para Fase 5 via skill corpus-legal-ia,CONTEXTOS/ corpus legal + Claude corpus-legal-ia skill,alta
+G006,Q1_investment,usa_state_level_ai_regulation,USA es país único en wide pero tiene regulación subnacional relevante,"IAPP state tracker, NCSL",media

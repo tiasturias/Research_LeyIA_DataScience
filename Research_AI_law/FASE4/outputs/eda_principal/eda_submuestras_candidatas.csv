@@ -1,0 +1,7 @@
+submuestra,n_countries,chile_present,key_countries_present,key_countries_total,pct_coverage_mean,criterion,cov_regulatory_treatment,cov_ecosystem_outcome,cov_adoption_diffusion,cov_socioeconomic_control,cov_institutional_control,cov_tech_infrastructure_control
+densa_80,110,True,8,8,88.36,pct_variables_available >= 80%,40.35,97.39,67.86,94.12,87.6,92.24
+densa_60,132,True,8,8,86.4,pct_variables_available >= 60%,35.83,96.13,63.91,91.69,86.31,90.36
+regulada,28,True,6,8,90.82,al menos 1 variable IAPP no nula,91.59,94.61,67.6,90.82,86.98,90.42
+comparable_chile,40,True,1,8,77.88,top-40 países por distancia de Gower a Chile (bloques de control),31.77,89.76,63.93,89.73,77.18,77.66
+oecd_plus_latam,44,True,5,8,93.08,OECD + LATAM (lista cerrada preregistrada),52.86,98.31,88.15,97.89,97.65,96.16
+full,199,True,8,8,67.31,todos los países soberanos (country_iso3),25.71,83.13,51.9,79.65,72.28,62.23

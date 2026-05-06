@@ -14,7 +14,9 @@ def test_public_api_loaders_work():
     assert not load_panel().empty
     assert not load_snapshot().empty
     assert not load_dictionary().empty
-    assert "1.0" in list_versions()
+    versions = list_versions()
+    # accept any 1.x current version (1.0 base, 1.1+ for in-place quality fixes)
+    assert any(v.startswith("1.") for v in versions), f"no 1.x version in {versions}"
 
 
 def test_public_api_block_and_chile():

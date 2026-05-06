@@ -1,0 +1,89 @@
+# Mapeo de sub-preguntas del estudio a variables de la Matriz Madre
+# Preregistrado antes de mirar resultados sustantivos (anti p-hacking)
+# Fecha preregistro: 2026-05-06
+
+Q1_investment:
+  pregunta: "Los paises con marcos regulatorios mas restrictivos muestran menores niveles de inversion privada en IA?"
+  outcomes_candidatos:
+    - oxford_ind_company_investment_emerging_tech
+    - oxford_ind_ai_unicorns_log
+    - oxford_ind_non_ai_unicorns_log
+    - oxford_ind_vc_availability
+    - wipo_c_vencapdeal_score
+    - wb_fdi_net_inflows
+  tratamientos_candidatos:
+    - iapp_categoria_obligatoriedad
+    - iapp_ley_ia_vigente
+    - iapp_proyecto_ley_ia
+    - iapp_modelo_gobernanza
+    - iapp_n_leyes_relacionadas
+    - iapp_n_autoridades
+  controles_recomendados:
+    - wb_gdp_per_capita_ppp
+    - wb_government_effectiveness
+    - wb_regulatory_quality
+    - wb_internet_penetration
+    - wb_fdi_net_inflows
+  nota: "No hay variable Microsoft de datacenters en Fase 3. Se usan proxies observados de inversion/VC/unicornios/FDI y se mantiene gap formal G001."
+
+Q2_adoption:
+  pregunta: "Que tipo de enfoque regulatorio se asocia con mayores tasas de adopcion de IA?"
+  outcomes_candidatos:
+    - ms_h2_2025_ai_diffusion_pct
+    - ms_h1_2025_ai_diffusion_pct
+    - ms_change_pp
+    - anthropic_usage_pct
+    - anthropic_collaboration_pct
+    - oecd_5_ict_business_oecd_biz_ai_pct
+    - oecd_5_ict_business_oecd_biz_bigdata_pct
+    - oxford_public_sector_adoption
+    - oxford_ind_adoption_emerging_tech
+  tratamientos_candidatos:
+    - iapp_modelo_gobernanza
+    - iapp_categoria_obligatoriedad
+    - iapp_estrategia_nacional_ia
+    - iapp_marcos_voluntarios
+  controles_recomendados:
+    - wb_gdp_per_capita_ppp
+    - wb_tertiary_education_enrollment
+    - wb_government_effectiveness
+    - wipo_in_score
+    - wb_internet_penetration
+
+Q3_innovation:
+  pregunta: "Existe relacion entre presencia y tipo de regulacion de IA e indicadores de innovacion?"
+  outcomes_candidatos:
+    - wipo_out_score
+    - oxford_total_score
+    - wipo_gii_score
+    - oxford_innovation_capacity
+    - oxford_ind_ai_research_papers_log
+    - stanford_fig_6_3_5_fig_6_3_5_volume_of_publications
+    - wb_patent_applications_residents
+  tratamientos_candidatos:
+    - iapp_ley_ia_vigente
+    - iapp_categoria_obligatoriedad
+    - iapp_modelo_gobernanza
+    - iapp_n_leyes_relacionadas
+    - iapp_n_autoridades
+  controles_recomendados:
+    - wb_rd_expenditure_pct_gdp
+    - wb_researchers_rd_per_million
+    - wb_tertiary_education_enrollment
+    - wb_internet_penetration
+    - wb_government_effectiveness
+    - wb_gdp_per_capita_ppp
+
+Q4_content:
+  pregunta: "Que temas y enfoques dominan en textos legales de IA global y como se agrupan paises?"
+  variables_relevantes:
+    - iapp_*  # todas las variables IAPP observadas
+    - stanford_fig_3_5_2_*  # acuerdos/declaraciones de gobernanza IA
+    - stanford_fig_3_6_1_*
+    - stanford_fig_3_7_*
+    - oecd_3_regulatory_gov_*
+  metodos:
+    - jaccard_similarity_paises
+    - co_occurrence_matrix
+    - hca_paises_binario
+    - notas: "NLP de corpus legal reservado para Fase 5+ via skill corpus-legal-ia"

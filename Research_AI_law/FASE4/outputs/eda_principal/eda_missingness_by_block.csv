@@ -1,0 +1,7 @@
+bloque_tematico,n_variables,pct_complete_mean,pct_complete_median,pct_complete_min,pct_complete_max,n_vars_above_70pct,n_vars_above_30pct,n_vars_below_30pct,n_countries_with_any_data,pct_countries_with_any_data,n_iapp_variables,n_countries_with_any_iapp_data,pct_iapp_complete_mean
+regulatory_treatment,33,25.0,14.07,5.03,69.35,0,5,28,151,75.88,19,28,14.07
+ecosystem_outcome,124,83.13,93.97,19.6,97.99,92,123,1,196,98.49,0,0,
+adoption_diffusion,14,51.9,73.37,18.09,81.91,8,8,6,183,91.96,0,0,
+socioeconomic_control,28,79.65,86.68,26.13,98.99,20,27,1,198,99.5,0,0,
+institutional_control,31,72.28,66.33,20.6,98.49,12,27,4,197,98.99,0,0,
+tech_infrastructure_control,167,62.23,66.33,19.1,97.99,42,159,8,199,100.0,0,0,

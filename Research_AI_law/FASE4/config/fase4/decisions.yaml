@@ -1,0 +1,80 @@
+# Registro de decisiones metodologicas - Fase 4 EDA Principal
+# Cada decision debe ser aprobada o firmada antes del cierre de fase
+
+decisions:
+  - id: D4-001
+    fecha: "2026-05-06"
+    decision: "Usar API de Fase 3 (src.fase3.api) exclusivamente. Prohibido leer CSVs directos de FASE3/outputs."
+    justificacion: "Principio de inmutabilidad. La API garantiza version control y evita acceso directo a datos raw."
+    revisor: "Pablo + Codex"
+    estado: "approved"
+
+  - id: D4-002
+    fecha: "2026-05-06"
+    decision: "Usar estadistica robusta primero: mediana antes que media, IQR/MAD antes que std, Spearman antes que Pearson."
+    justificacion: "Los datos comparativos de paises tienen distribucion no normal y outliers estructurales (USA, SGP, ARE)."
+    revisor: "Pablo + Codex"
+    estado: "approved"
+
+  - id: D4-003
+    fecha: "2026-05-06"
+    decision: "Aplicar FDR (Benjamini-Hochberg) y Holm para correlaciones masivas. No usar p-values como prueba de hipotesis."
+    justificacion: "Con 397 variables se hacen miles de tests. FDR controla tasa de falsos descubrimientos."
+    revisor: "Pablo + Codex"
+    estado: "approved"
+
+  - id: D4-004
+    fecha: "2026-05-06"
+    decision: "No decidir submuestra final en Fase 4. Proponer 6 submuestras candidatas para multiverse analysis en Fases 6-7."
+    justificacion: "Multiverse analysis (Simonsohn et al. 2020, Steegen et al. 2016) protege contra cherry-picking."
+    revisor: "Pablo + Codex"
+    estado: "approved"
+
+  - id: D4-005
+    fecha: "2026-05-06"
+    decision: "Preservar outliers (USA, SGP, ARE, IRL, EST). Documentarlos en deep dives, no eliminarlos."
+    justificacion: "Outliers que contradicen la hipotesis son informacion critica, no ruido."
+    revisor: "Pablo + Codex"
+    estado: "approved"
+
+  - id: D4-006
+    fecha: "2026-05-06"
+    decision: "Taxonomia binding/non-binding en binding_taxonomy.yaml revisada contra variables observadas reales de Fase 3; variables ausentes se registran como documented_gaps."
+    justificacion: "Evita que Fase 5 consuma variables fantasma derivadas del blueprint. La taxonomia queda exploratoria y no es indice definitivo."
+    revisor: "Pablo + Codex"
+    estado: "approved_for_fase5"
+
+  - id: D4-007
+    fecha: "2026-05-06"
+    decision: "Umbrales thresholds.yaml (densa_80=0.80, densa_60=0.60, K=40) son configurables. Cualquier cambio debe registrarse aqui."
+    justificacion: "Preregistrar umbrales antes de ver resultados previene specification mining."
+    revisor: "Pablo + Codex"
+    estado: "approved"
+
+  - id: D4-008
+    fecha: "2026-05-06"
+    decision: "Mapeo Q1-Q4 corregido para usar solo variables observadas o patrones verificables; se elimina fallback token match debil."
+    justificacion: "El fallback previo podia mapear conceptos no observados a variables conceptualmente incorrectas. Fase 5 debe recibir candidatos reales, no aproximaciones accidentales."
+    revisor: "Pablo + Codex"
+    estado: "approved_for_fase5"
+
+  - id: D4-009
+    fecha: "2026-05-06"
+    decision: "Umbrales Fase 4 se mantienen: cobertura minima 30%, alta 70%, redundancia |rho| >= 0.85, FDR/Holm alpha 0.05, densa_80/densa_60/K=40."
+    justificacion: "Los umbrales son conservadores, preregistrados y coherentes con multiverse analysis. No se ajustan post-hoc a resultados sustantivos."
+    revisor: "Pablo + Codex"
+    estado: "approved_for_fase5"
+
+  - id: D4-010
+    fecha: "2026-05-06"
+    decision: "eda_decisions_for_fase5.yaml se aprueba como lista de candidatos, no como seleccion final de Y/X/muestra."
+    justificacion: "Fase 5 puede preparar transformaciones y matrices por submuestra; Fase 6/7 decidiran especificaciones/modelos y sensibilidad."
+    revisor: "Pablo + Codex"
+    estado: "approved_for_fase5"
+
+  - id: D4-011
+    fecha: "2026-05-06"
+    decision: "Renombrar secciones de eda_decisions_for_fase5.yaml de 'candidatos_Y/X1/X2' a 'universo_exploracion_*' para dejar en claro que no son decisiones causales finales."
+    justificacion: "El investigador identifico correctamente que confirmar Y/X1/X2 en Fase 4 seria mala practica metodologica. La distincion es: preregistrar el universo de exploracion (Fase 4, buena practica anti p-hacking) != asignar rol causal final (Fase 6). El YAML actualizado refleja esta distincion en su estructura y notas."
+    revisor: "investigador_principal"
+    estado: "approved"

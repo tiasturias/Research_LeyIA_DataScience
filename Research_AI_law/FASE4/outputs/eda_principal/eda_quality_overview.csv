@@ -1,0 +1,11 @@
+metric,value,status
+n_countries,199.0,info
+n_variables,397.0,info
+total_cells,79003.0,info
+non_null_cells,53178.0,info
+pct_overall_coverage,67.31,info
+n_vars_above_70pct,174.0,info
+n_vars_above_30pct,349.0,info
+n_vars_below_30pct,48.0,warn
+chile_n_vars_available,388.0,info
+chile_pct_coverage,97.73,info

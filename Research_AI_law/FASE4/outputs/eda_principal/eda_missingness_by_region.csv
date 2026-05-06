@@ -1,0 +1,15 @@
+dimension,value,n_countries,pct_vars_mean,pct_vars_median
+income_group,High income,66,78.25,90.93
+income_group,Lower middle income,50,66.02,78.59
+income_group,Upper middle income,54,65.46,81.99
+income_group,Not classified,2,64.11,64.11
+income_group,Low income,25,49.53,31.74
+income_group,Unknown,2,13.98,13.98
+region,North America,2,96.1,96.1
+region,Europe & Central Asia,53,81.79,89.92
+region,"Middle East, North Africa, Afghanistan & Pakistan",23,70.65,83.38
+region,South Asia,6,65.99,80.98
+region,Sub-Saharan Africa ,48,61.04,76.57
+region,Latin America & Caribbean ,34,60.52,76.32
+region,East Asia & Pacific,31,59.08,76.57
+region,Unknown,2,13.98,13.98

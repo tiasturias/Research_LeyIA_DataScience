@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "created_at_utc": "2026-05-06T03:29:06.217098+00:00",
   "git_sha": "752054875c6fa715b620ef5668f5b4c1ad96947d",
   "python": "3.12.3",
@@ -88,8 +88,8 @@
   },
   "outputs": {
     "README_MATRIZ_MADRE.md": {
-      "sha256": "03760a385c97313c9c49b10bc0f4c2624e0420bae5d128453e29b9e1de11b81a",
-      "bytes": 850
+      "sha256": "911c0b9e8c290b2ed92301a7ae30260e76d5ad8e45df8df63238273824e6ad56",
+      "bytes": 4191
     },
     "fase3_fuentes_usadas.csv": {
       "sha256": "47dbdf5d962ef214a3f8611a0a32eb5d156773c5678f03c69296f44e1505e957",
@@ -100,8 +100,8 @@
       "bytes": 154571
     },
     "fase3_universo_geografico.csv": {
-      "sha256": "d7453b3d0b345b1f4abcfcf350032a5b81fbcb8da691919a2511dcb011299b30",
-      "bytes": 38484
+      "sha256": "f9e6139902c341e3eedc68ddca8dcbe293248dbb3bfdfe83264dbfb07a54d450",
+      "bytes": 39086
     },
     "fase3_geo_crosswalk_manual.csv": {
       "sha256": "f3887557ee80fe393167d124bf7c684f388444cf13eb172674f3fad4e1d9d507",
@@ -124,16 +124,16 @@
       "bytes": 524
     },
     "matriz_larga_panel.csv": {
-      "sha256": "476b8dae85746934880ca54e79dcb693f2dfdfb91c4418d2382faab1f9716297",
-      "bytes": 56969588
+      "sha256": "950d505757d778c7eeb1dbc6a734c3e73763a081c2cf103ac85a2649c4c7b06c",
+      "bytes": 57629187
     },
     "matriz_larga_snapshot.csv": {
-      "sha256": "688268915e4e37f6afe046b40d03b2ac3dc00ad553eca040a5ce7edbbac51b34",
-      "bytes": 23189867
+      "sha256": "1cf6d5053711f1947472475885a2b521b9af3b6362003a4f5e3e0c9570bbf027",
+      "bytes": 23512583
     },
     "matriz_madre_wide.csv": {
-      "sha256": "d58724e2cbeb72ef556961b7e263c5050f9634bb8346e665329aa8007c73a9e1",
-      "bytes": 1612531
+      "sha256": "ce8fe90f069c8c5d8ba4853310220a226ae964e888394e8da24956d003d390c1",
+      "bytes": 1715939
     },
     "matriz_madre_trazabilidad.csv": {
       "sha256": "410243d46c8c16d183e6290d13508e6e750ae47d1757beec10c57b759adcde91",
@@ -152,27 +152,94 @@
       "bytes": 586
     },
     "fase3_entidades_excluidas_geografia.csv": {
-      "sha256": "d2294075e2cf8cae2dbfb52dbf2bfa923ade8d2a6e3465574a94ca0d354c5ac9",
-      "bytes": 6433
+      "sha256": "0e43cd86ee7a2847e6f9efe5fc202697e7b9a5b515aab3c14bd523f3fa7ecdf2",
+      "bytes": 6522
     },
     "fase3_auditoria_muestra_valores.csv": {
-      "sha256": "1978a5d33a9f87192e00bb8446de9b588130ca4767c9f58d7af949c4c2da4886",
-      "bytes": 11564
+      "sha256": "813399c884d5638692b92b6596267ce2a39bed41cc0df1ac9922fec7079db237",
+      "bytes": 11668
     },
     "fase3_reporte_calidad_matriz.md": {
-      "sha256": "60746b0f6243bbeefbaed984d4d2f393e360b89a99496f6cb904ee021033c327",
-      "bytes": 4277
+      "sha256": "d1a2782971eab31e75d9961b2eda8e1910babad9f5c3ae91b221148c5de0830c",
+      "bytes": 4977
     },
     "Matriz_Madre_Fase3.xlsx": {
-      "sha256": "efbf74bf9b232fc12cbdee3ac034c91292517969eacdd63660dba9d713d81a55",
-      "bytes": 28764638
+      "sha256": "5183a17e4f65ec6ca1eef4a8c2cdd7bc2284084cd6375da7c090abe3a401749a",
+      "bytes": 28416186
     },
     "manifest.json": {
-      "sha256": null,
-      "bytes": null,
-      "self_hash_policy": "excluded_from_own_checksum_to_avoid_recursive_hash"
+      "self_hash_policy": "excluded_to_avoid_recursion"
     }
   },
   "manifest_self_hash_policy": "self file excluded from outputs hash map to avoid recursive checksum",
-  "git_sha_policy": "SHA of the committed FASE3 rescue artifacts used as the generation baseline; manifest self-hash is excluded."
+  "git_sha_policy": "SHA of the committed FASE3 rescue artifacts used as the generation baseline; manifest self-hash is excluded.",
+  "created_at": "2026-05-06T09:47:51.359001+00:00",
+  "changelog": [
+    {
+      "date": "2026-05-06T05:02:14.112566+00:00",
+      "version": "1.1",
+      "change": "country_name_canonical fix",
+      "description": "Fixed bug where 86/199 wide rows had country_name_canonical equal to ISO3 (e.g. ARG instead of Argentina). Root cause: geo.py used split(' | ')[0] on country_name_best_effort which returned the ISO3 code, not the human name. Fix re-derives names from cobertura_pais_fuente.csv + manual overrides for 35 edge cases.",
+      "affected_outputs": [
+        "matriz_madre_wide.csv",
+        "matriz_larga_panel.csv",
+        "matriz_larga_snapshot.csv",
+        "matriz_madre_trazabilidad.csv",
+        "fase3_universo_geografico.csv",
+        "fase3_entidades_excluidas_geografia.csv",
+        "fase3_geo_crosswalk_manual.csv",
+        "Matriz_Madre_Fase3.xlsx"
+      ],
+      "rows_fixed_summary": {
+        "wide": 86,
+        "universe": 99,
+        "panel_rows_with_unresolved_iso3": 10103,
+        "snapshot_rows_with_unresolved_iso3": 2003
+      }
+    },
+    {
+      "date": "2026-05-06T05:06:55.086146+00:00",
+      "version": "1.1",
+      "change": "country_name_canonical fix",
+      "description": "Fixed bug where 86/199 wide rows had country_name_canonical equal to ISO3 (e.g. ARG instead of Argentina). Root cause: geo.py used split(' | ')[0] on country_name_best_effort which returned the ISO3 code, not the human name. Fix re-derives names from cobertura_pais_fuente.csv + manual overrides for 35 edge cases.",
+      "affected_outputs": [
+        "matriz_madre_wide.csv",
+        "matriz_larga_panel.csv",
+        "matriz_larga_snapshot.csv",
+        "matriz_madre_trazabilidad.csv",
+        "fase3_universo_geografico.csv",
+        "fase3_entidades_excluidas_geografia.csv",
+        "fase3_geo_crosswalk_manual.csv",
+        "Matriz_Madre_Fase3.xlsx"
+      ],
+      "rows_fixed_summary": {
+        "wide": 86,
+        "universe": 99,
+        "panel_rows_with_unresolved_iso3": 10103,
+        "snapshot_rows_with_unresolved_iso3": 2003
+      }
+    },
+    {
+      "date": "2026-05-06T09:47:51.359020+00:00",
+      "version": "1.1",
+      "change": "country_name_canonical fix",
+      "description": "Fixed bug where 86/199 wide rows had country_name_canonical equal to ISO3 (e.g. ARG instead of Argentina). Root cause: geo.py used split(' | ')[0] on country_name_best_effort which returned the ISO3 code, not the human name. Fix re-derives names from cobertura_pais_fuente.csv + manual overrides for 35 edge cases.",
+      "affected_outputs": [
+        "matriz_madre_wide.csv",
+        "matriz_larga_panel.csv",
+        "matriz_larga_snapshot.csv",
+        "matriz_madre_trazabilidad.csv",
+        "fase3_universo_geografico.csv",
+        "fase3_entidades_excluidas_geografia.csv",
+        "fase3_geo_crosswalk_manual.csv",
+        "Matriz_Madre_Fase3.xlsx"
+      ],
+      "rows_fixed_summary": {
+        "wide": 86,
+        "universe": 99,
+        "panel_rows_with_unresolved_iso3": 10103,
+        "snapshot_rows_with_unresolved_iso3": 2003
+      }
+    }
+  ]
 }

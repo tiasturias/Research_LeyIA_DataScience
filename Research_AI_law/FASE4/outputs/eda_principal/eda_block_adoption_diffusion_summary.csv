@@ -1,0 +1,15 @@
+bloque_tematico,variable_matriz,tipo_matriz,source_id,unit,is_primary,n_non_null,pct_complete,n_unique,median,iqr,min,max
+adoption_diffusion,anthropic_ai_autonomy_mean,numeric,anthropic,count,True,157,78.89,155,3.451087,0.169023,3.133333,3.857143
+adoption_diffusion,anthropic_ai_autonomy_median,numeric,anthropic,count,True,157,78.89,2,4.0,0.0,3.0,4.0
+adoption_diffusion,anthropic_ai_education_years_mean,numeric,anthropic,count,True,157,78.89,156,11.967475,0.47129,10.211194,16.884605
+adoption_diffusion,anthropic_collaboration_pct,numeric,anthropic,pct,True,154,77.39,7,16.666667,3.333333,16.666667,50.0
+adoption_diffusion,anthropic_usage_pct,numeric,anthropic,pct,True,163,81.91,155,0.0681,0.3401,0.0015,22.2372
+adoption_diffusion,ms_change_pp,numeric,microsoft,pct,True,146,73.37,29,0.9,1.075,-0.1,4.8
+adoption_diffusion,ms_h1_2025_ai_diffusion_pct,numeric,microsoft,pct,True,146,73.37,99,12.55,13.375,4.6,59.4
+adoption_diffusion,ms_h2_2025_ai_diffusion_pct,numeric,microsoft,pct,True,146,73.37,95,13.55,14.55,5.1,64.0
+adoption_diffusion,oecd_5_ict_business_oecd_biz_ai_pct,numeric,oecd,pct,True,38,19.1,38,15.798,16.6855,3.39,42.0324
+adoption_diffusion,oecd_5_ict_business_oecd_biz_bigdata_pct,numeric,oecd,pct,True,36,18.09,36,37.95185,17.302475,2.6,59.9904
+adoption_diffusion,oecd_5_ict_business_oecd_biz_cloud_pct,numeric,oecd,pct,True,38,19.1,38,54.45265,21.7126,17.8331,79.2058
+adoption_diffusion,oecd_5_ict_business_oecd_biz_ict_specialists_pct,numeric,oecd,pct,True,36,18.09,36,20.38225,10.72544,8.08,36.57458
+adoption_diffusion,oecd_5_ict_business_oecd_biz_iot_pct,numeric,oecd,pct,True,36,18.09,36,23.37315,12.719075,6.189147,55.18
+adoption_diffusion,oecd_5_ict_business_oecd_biz_website_pct,numeric,oecd,pct,True,36,18.09,36,77.4983,17.273537,49.7322,98.4709

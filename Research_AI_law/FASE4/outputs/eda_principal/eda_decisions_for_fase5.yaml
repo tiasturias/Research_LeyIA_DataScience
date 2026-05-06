@@ -1,0 +1,261 @@
+# ============================================================
+# DECISIONES Y CONTRATOS PARA FASE 5 — Feature Engineering
+# Fase 4 EDA Principal — Research_AI_law
+# ============================================================
+#
+# NOTA METODOLOGICA CRITICA:
+# Este documento NO pre-decide Y, X1 ni X2.
+# Hace dos cosas distintas y complementarias:
+#
+# (1) PREREGISTRA el universo de variables a explorar en Fase 5.
+#     Esto es BUENA practica (anti p-hacking): declara antes de
+#     hacer feature engineering que variables son candidatas
+#     para cada rol, segun evidencia del EDA. Si Fase 5 descubre
+#     algo fuera de este universo, debe documentarlo como post-hoc.
+#
+# (2) FIJA principios del proceso (transformaciones, submuestras,
+#     restricciones), que si requieren firma humana porque afectan
+#     toda la pipeline.
+#
+# La asignacion de roles causales finales (cual es LA Y, cual es
+# EL X1) es responsabilidad de Fase 6 (Modelado), no de este
+# documento. Fase 5 prepara features para multiples escenarios;
+# Fase 6 elige con criterios estadisticos y sustantivos explicitos.
+# ============================================================
+
+version: '1.0'
+fecha: '2026-05-06'
+estado_firma_humana: APROBADO_PROCESO_NO_VARIABLES — 2026-05-06
+nota_firma: >
+  El investigador aprueba los PRINCIPIOS del proceso (restricciones,
+  transformaciones, submuestras, universo de exploracion preregistrado).
+  No aprueba ni pre-selecciona Y/X1/X2 finales — eso es Fase 6.
+
+# ============================================================
+# SECCION 1: UNIVERSO DE EXPLORACION (preregistrado, no decision final)
+# Fase 5 aplica criterios estadisticos sobre estas listas.
+# Fase 6 asigna los roles causales finales.
+# ============================================================
+
+universo_exploracion_outcomes_por_subpregunta:
+  nota: >
+    Estas son las variables candidatas a outcome identificadas en el EDA.
+    Fase 5 evaluara su distribucion, cobertura, transformacion necesaria
+    y redundancia. Fase 6 decidira cual usar como Y en cada especificacion.
+  Q1_investment:
+    - oxford_ind_company_investment_emerging_tech
+    - oxford_ind_ai_unicorns_log
+    - oxford_ind_non_ai_unicorns_log
+    - oxford_ind_vc_availability
+    - wipo_c_vencapdeal_score
+    - wb_fdi_net_inflows
+  Q2_adoption:
+    - ms_h2_2025_ai_diffusion_pct
+    - ms_h1_2025_ai_diffusion_pct
+    - ms_change_pp
+    - anthropic_usage_pct
+    - anthropic_collaboration_pct
+    - oecd_5_ict_business_oecd_biz_ai_pct
+    - oecd_5_ict_business_oecd_biz_bigdata_pct
+    - oxford_public_sector_adoption
+    - oxford_ind_adoption_emerging_tech
+  Q3_innovation:
+    - wipo_out_score
+    - oxford_total_score
+    - wipo_gii_score
+    - oxford_innovation_capacity
+    - oxford_ind_ai_research_papers_log
+    - stanford_fig_6_3_5_fig_6_3_5_volume_of_publications
+    - wb_patent_applications_residents
+  Q4_content:
+    - iapp_*        # todas las variables IAPP binarias
+    - stanford_fig_3_5_2_*
+    - stanford_fig_3_6_1_*
+    - stanford_fig_3_7_*
+
+universo_exploracion_tratamiento:
+  nota: >
+    Variables de regulatory_treatment candidatas a tratamiento X1.
+    Fase 5 evaluara su varianza, cobertura y codificacion.
+    Fase 6 decidira si usar una sola, combinarlas o construir indice.
+  variables:
+    - iapp_categoria_obligatoriedad
+    - iapp_ley_ia_vigente
+    - iapp_proyecto_ley_ia
+    - iapp_modelo_gobernanza
+    - iapp_n_leyes_relacionadas
+    - iapp_n_autoridades
+
+universo_exploracion_controles:
+  nota: >
+    Variables de control identificadas por el EDA como confounders
+    relevantes. Fase 5 evaluara multicolinealidad entre ellas y
+    seleccionara el subconjunto mas parsimonioso. Fase 6 decide
+    el set final de controles por especificacion.
+  economicos:
+    - wb_gdp_per_capita_ppp
+    - wb_internet_penetration
+    - wb_fdi_net_inflows
+  institucionales:
+    - wb_government_effectiveness
+    - wb_rule_of_law
+    - wb_regulatory_quality
+  capital_humano:
+    - wb_tertiary_education_enrollment
+    - wb_rd_expenditure_pct_gdp
+    - wb_researchers_rd_per_million
+
+# ============================================================
+# SECCION 2: SUBMUESTRAS — SI requiere aprobacion del proceso
+# (los umbrales fueron preregistrados en thresholds.yaml)
+# ============================================================
+
+submuestras_para_multiverse_analysis:
+  nota: >
+    Fase 5 prepara features para TODAS las submuestras.
+    Fase 6 modela con cada una. Fase 7 compara resultados.
+    Ninguna submuestra es "la correcta" a priori.
+  orden_de_preparacion:
+    - regulada          # cuello de botella IAPP (~28 paises), maxima relevancia sustantiva
+    - oecd_plus_latam   # defensible internacionalmente, incluye Chile
+    - densa_60          # balance cobertura/N
+    - densa_80          # maxima calidad de datos, N mas bajo
+    - comparable_chile  # peer group estadistico de Chile
+    - full              # universo completo para descripcion
+
+# ============================================================
+# SECCION 3: TRANSFORMACIONES ESTADISTICAS (criterio EDA, no decision causal)
+# ============================================================
+
+variables_a_colapsar_por_redundancia:
+  criterio: "par con |rho_spearman| >= 0.85; se conserva la variable primaria segun diccionario"
+  accion_en_fase5: "eliminar la secundaria del conjunto de features; mantenerla disponible para sensibilidad"
+  lista:
+    - anthropic_usage_pct
+    - oxford_compute_capacity
+    - oxford_ind_ai_research_papers_log
+    - oxford_ind_govt_effectiveness
+    - wb_control_of_corruption
+    - wb_gdp_current_usd
+    - wb_government_effectiveness
+    - wb_patent_applications_residents
+    - wb_regulatory_quality
+    - wb_rule_of_law
+    - wipo_dommarksc_score
+    - wipo_entmedia_score
+    - wipo_gii_score
+    - wipo_goveff_score
+    - wipo_ictuse_score
+    - wipo_in_1_1_1_score
+    - wipo_in_1_1_2_score
+    - wipo_in_1_1_score
+    - wipo_in_1_2_1_score
+    - wipo_in_1_2_2_score
+    - wipo_in_1_2_score
+    - wipo_in_1_score
+    - wipo_in_2_3_4_score
+    - wipo_in_3_1_1_score
+    - wipo_in_3_1_score
+    - wipo_in_3_score
+    - wipo_in_4_3_3_score
+    - wipo_in_score
+    - wipo_out_6_1_5_score
+    - wipo_out_7_2_3_score
+    - wipo_polstab_score
+    - wipo_regqua_score
+    - wipo_ruleol_score
+    - wipo_sp11_score
+    - wipo_sp12_score
+    - wipo_sp31_score
+    - wipo_tertenrol_score
+
+variables_a_transformar_log:
+  criterio: "skewness > 2.0 detectado en EDA univariado; transformacion sugerida, no impuesta"
+  accion_en_fase5: "aplicar log1p; conservar version original tambien para comparacion"
+  lista:
+    - anthropic_gdp_total
+    - oecd_1_digital_stri_digital_stri_ip
+    - oxford_ind_ai_unicorns_log
+    - oxford_ind_non_ai_unicorns_log
+    - oxford_ind_supercomputers_log
+    - oxford_ind_vc_availability
+    - stanford_fig_3_4_5_fig_3_4_5_number_of_rai_submissions
+    - wb_control_of_corruption_se
+    - wb_electric_consumption_kwh_pc
+    - wb_exports_pct_gdp
+    - wb_fdi_net_inflows
+    - wb_fdi_pct_gdp
+    - wb_high_tech_exports_pct_manufactured
+    - wb_ict_goods_exports_pct
+    - wb_ict_service_exports_pct
+    - wb_inflation_consumer_prices
+    - wb_labor_force
+    - wb_mobile_subscriptions_per100
+    - wb_population
+    - wb_regulatory_quality_se
+    - wb_researchers_rd_per_million
+    - wb_secure_servers_per_1m
+    - wb_trade_pct_gdp
+    - wb_unemployment_rate
+    - wb_voice_accountability_se
+    - wipo_appcrea_score
+    - wipo_c_hhi_score
+    - wipo_c_htexphkg_score
+    - wipo_c_vencapdeal_score
+    - wipo_cctld_score
+    - wipo_creagoodexp_score
+    - wipo_elecout_score
+    - wipo_gentld_score
+    - wipo_gerdfinabr_score
+    - wipo_ictservexp_score
+    - wipo_in_2_2_3_score
+    - wipo_in_3_2_1_score
+    - wipo_in_4_1_3_score
+    - wipo_in_4_2_1_score
+    - wipo_in_4_2_2_score
+    - wipo_in_4_2_3_score
+    - wipo_in_4_2_4_score
+    - wipo_in_5_2_5_score
+    - wipo_industdes_score
+    - wipo_intelproprec_score
+    - wipo_isoenv_score
+    - wipo_jvstratall_score
+    - wipo_markcap_score
+    - wipo_newbus_score
+    - wipo_out_6_1_2_score
+    - wipo_out_6_1_3_score
+    - wipo_out_6_2_2_score
+    - wipo_out_6_3_1_score
+    - wipo_out_6_3_3_score
+    - wipo_out_7_1_2_score
+    - wipo_out_7_2_1_score
+    - wipo_out_7_2_4_score
+    - wipo_out_7_2_5_score
+    - wipo_patfam_score
+    - wipo_patorig_score
+    - wipo_pctpatorig_score
+    - wipo_printmedia_score
+    - wipo_tertmob_score
+
+# ============================================================
+# SECCION 4: RESTRICCIONES INVIOLABLES PARA FASE 5
+# Estas SI son decisiones firmadas — son principios metodologicos
+# ============================================================
+
+restricciones_para_fase5:
+  - "NO imputar valores faltantes como si fueran datos observados."
+  - "NO seleccionar una muestra unica final en Fase 5. Preparar features para todas las submuestras."
+  - "NO asignar rol Y/X1/X2 definitivo. Eso es Fase 6."
+  - "SI aplicar todas las transformaciones de forma reproducible (seed fijo, pipeline documentado)."
+  - "SI preparar features por submuestra separadamente para multiverse analysis."
+  - "SI registrar en decisions.yaml de Fase 5 cualquier decision que desvie de este plan."
+  - "Mantener gap G001: no existe variable observada de permisos/capacidad de datacenters."
+
+# ============================================================
+# SECCION 5: GAPS PARA EVENTUAL FASE 3B
+# ============================================================
+
+gaps_para_fase3B:
+  - G001  # datacenter_construction_permits — no existe en ninguna fuente de Fase 3
+  - G002  # corporate_tax_rate_full — cobertura parcial
+  - G005  # legal_text_nlp_embeddings — reservado para skill corpus-legal-ia en Fase 5+

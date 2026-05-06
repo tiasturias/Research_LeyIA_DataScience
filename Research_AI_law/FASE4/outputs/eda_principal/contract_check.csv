@@ -1,0 +1,12 @@
+check_id,check,expected,observed,passed
+A001,fase3_current_version_1x,1.x,1.1,True
+A002,wide_n_countries,199,199,True
+A003,wide_n_columns,1203,1203,True
+A004,all_entity_type_country_iso3,all country_iso3,['country_iso3'],True
+A005,chile_present,CHL present,True,True
+A_BLOCK_regulatory_treatment,dictionary_has_regulatory_treatment,present,33,True
+A_BLOCK_ecosystem_outcome,dictionary_has_ecosystem_outcome,present,124,True
+A_BLOCK_adoption_diffusion,dictionary_has_adoption_diffusion,present,14,True
+A_BLOCK_socioeconomic_control,dictionary_has_socioeconomic_control,present,28,True
+A_BLOCK_institutional_control,dictionary_has_institutional_control,present,31,True
+A_BLOCK_tech_infrastructure_control,dictionary_has_tech_infrastructure_control,present,167,True

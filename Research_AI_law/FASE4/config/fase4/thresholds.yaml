@@ -1,0 +1,29 @@
+coverage:
+  min_pct_complete_to_keep: 0.30
+  high_coverage_threshold: 0.70
+  medium_coverage_threshold: 0.30
+
+outliers:
+  iqr_k_default: 1.5
+  iqr_k_extreme: 3.0
+  z_robust_threshold: 3.5
+
+correlation:
+  redundancy_threshold: 0.85
+  strong_correlation: 0.50
+  moderate_correlation: 0.30
+  fdr_alpha: 0.05
+  holm_alpha: 0.05
+
+submuestras:
+  densa_80: 0.80
+  densa_60: 0.60
+  comparable_chile_top_k: 40
+
+normality:
+  use_shapiro_if_n_below: 5000
+  skewness_log_transform_threshold: 2.0
+
+pca:
+  min_coverage_for_inclusion: 0.70
+  n_components: 10

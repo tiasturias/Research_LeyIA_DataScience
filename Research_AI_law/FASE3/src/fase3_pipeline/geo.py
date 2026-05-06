@@ -9,6 +9,72 @@ from .config import EDA_DIR, SOURCES, SOURCE_ORDER
 from .utils import classify_entity, is_valid_iso3
 
 
+# Manual canonical names for entities where best_effort lacks a usable human
+# name or where we want a specific official label. Used by _resolve_name() to
+# guarantee that country_name_canonical is never the raw ISO3 code for a
+# real country.
+_CANONICAL_NAME_OVERRIDES: dict[str, str] = {
+    "USA": "United States",
+    "GBR": "United Kingdom",
+    "RUS": "Russia",
+    "KOR": "South Korea",
+    "PRK": "North Korea",
+    "IRN": "Iran",
+    "VEN": "Venezuela",
+    "BOL": "Bolivia",
+    "CIV": "Cote d'Ivoire",
+    "CPV": "Cabo Verde",
+    "COD": "Democratic Republic of the Congo",
+    "COG": "Republic of the Congo",
+    "CZE": "Czech Republic",
+    "EGY": "Egypt",
+    "FRA": "France",
+    "DEU": "Germany",
+    "GRC": "Greece",
+    "HKG": "Hong Kong",
+    "MAC": "Macao",
+    "MDA": "Moldova",
+    "MKD": "North Macedonia",
+    "PRI": "Puerto Rico",
+    "SVK": "Slovakia",
+    "SVN": "Slovenia",
+    "SYR": "Syria",
+    "TWN": "Taiwan",
+    "TZA": "Tanzania",
+    "VNM": "Vietnam",
+    "LAO": "Laos",
+    "BRN": "Brunei",
+    "PSE": "Palestine",
+    "XKX": "Kosovo",
+    "XKV": "Kosovo",
+    "ARE": "United Arab Emirates",
+    "GMB": "The Gambia",
+    "BHS": "The Bahamas",
+}
+
+
+def _resolve_name(iso3: str, raw_best_effort: str) -> str:
+    """Extract human-readable country name from a `country_name_best_effort`
+    field that may have format `"ISO3 | Name"` or `"Name | ISO3"` or just
+    `"Name"`. Falls back to manual override or ISO3 if nothing else works.
+
+    This is the canonical resolver used everywhere in geo.py to avoid the
+    historical bug where split(' | ')[0] would return the ISO3 code instead
+    of the human name (fix v1.1, 2026-05-06).
+    """
+    iso3_norm = str(iso3).strip().upper()
+    if iso3_norm in _CANONICAL_NAME_OVERRIDES:
+        return _CANONICAL_NAME_OVERRIDES[iso3_norm]
+    if pd.isna(raw_best_effort) or not str(raw_best_effort).strip():
+        return iso3_norm
+    parts = [p.strip() for p in str(raw_best_effort).split("|")]
+    candidates = [p for p in parts if p and p.upper() != iso3_norm]
+    if not candidates:
+        return iso3_norm
+    candidates.sort(key=lambda x: (-len(x), x))
+    return candidates[0]
+
+
 ALIASES = {
     "Türkiye": "TUR",
     "Turkey": "TUR",
@@ -137,7 +203,7 @@ def build_universe(ms_crosswalk: pd.DataFrame) -> pd.DataFrame:
         meta = geo_meta.get(iso3, {})
         entities[iso3] = {
             "iso3": iso3,
-            "country_name_canonical": str(row["country_name_best_effort"]).split(" | ")[0],
+            "country_name_canonical": _resolve_name(iso3, row["country_name_best_effort"]),
             "entity_type": entity_type,
             "region": meta.get("region", ""),
             "income_group": meta.get("income_group", ""),
@@ -152,9 +218,10 @@ def build_universe(ms_crosswalk: pd.DataFrame) -> pd.DataFrame:
             continue
         meta = geo_meta.get(iso3, {})
         if iso3 not in entities:
+            ms_name = str(row["country_name_canonical"] or row["raw_entity_name"])
             entities[iso3] = {
                 "iso3": iso3,
-                "country_name_canonical": str(row["country_name_canonical"] or row["raw_entity_name"]),
+                "country_name_canonical": _resolve_name(iso3, ms_name),
                 "entity_type": classify_entity(iso3, str(row["raw_entity_name"])),
                 "region": meta.get("region", ""),
                 "income_group": meta.get("income_group", ""),

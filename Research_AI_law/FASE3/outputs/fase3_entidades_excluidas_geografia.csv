@@ -1,26 +1,26 @@
 iso3,country_name_canonical,entity_type,n_sources_present,source_list,exclusion_reason,human_decision_required
 CUW,Curacao,territory_iso3,4,"wb, stanford, oecd, anthropic",territory excluded from principal country matrix,yes
-MAC,MAC,territory_iso3,4,"wb, stanford, oecd, anthropic",territory excluded from principal country matrix,yes
-ABW,ABW,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
+MAC,Macao,territory_iso3,4,"wb, stanford, oecd, anthropic",territory excluded from principal country matrix,yes
+ABW,Aruba,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
 ASM,American Samoa,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
 BMU,Bermuda,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
 CYM,Cayman Islands,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
-FRO,FRO,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
+FRO,Faroe Islands,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
 GIB,Gibraltar,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
 GRL,Greenland,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
 GUF,French Guiana,territory_iso3,3,"microsoft, stanford, anthropic",territory excluded from principal country matrix,yes
 GUM,Guam,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
 MNP,Northern Mariana Islands,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
 NCL,New Caledonia,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
-PYF,PYF,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
-SXM,SXM,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
-TCA,TCA,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
-VGB,VGB,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
+PYF,French Polynesia,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
+SXM,Sint Maarten (Dutch part),territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
+TCA,Turks and Caicos Islands,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
+VGB,British Virgin Islands,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
 VIR,U.S. Virgin Islands,territory_iso3,3,"wb, stanford, anthropic",territory excluded from principal country matrix,yes
 BLM,Saint Barthelemy,territory_iso3,2,"stanford, anthropic",territory excluded from principal country matrix,yes
 CHI,Channel Islands,unknown_requires_review,2,"wb, anthropic",unknown_requires_review excluded until explicit human approval,yes
 IMN,Isle of Man,territory_iso3,2,"wb, anthropic",territory excluded from principal country matrix,yes
-JEY,JEY,territory_iso3,2,"stanford, anthropic",territory excluded from principal country matrix,yes
+JEY,Jersey,territory_iso3,2,"stanford, anthropic",territory excluded from principal country matrix,yes
 MAF,Saint Martin,territory_iso3,2,"wb, anthropic",territory excluded from principal country matrix,yes
 AFE,AFE,region,1,anthropic,regional aggregate excluded from country matrix,no
 AFW,AFW,region,1,anthropic,regional aggregate excluded from country matrix,no
@@ -58,4 +58,4 @@ SPM,Saint Pierre and Miquelon,territory_iso3,1,anthropic,territory excluded from
 TKL,Tokelau,territory_iso3,1,anthropic,territory excluded from principal country matrix,yes
 UMI,United States Minor Outlying Islands,territory_iso3,1,anthropic,territory excluded from principal country matrix,yes
 WLF,Wallis and Futuna,territory_iso3,1,anthropic,territory excluded from principal country matrix,yes
-XKV,nan,unknown_requires_review,1,oecd,unknown_requires_review excluded until explicit human approval,yes
+XKV,,unknown_requires_review,1,oecd,unknown_requires_review excluded until explicit human approval,yes

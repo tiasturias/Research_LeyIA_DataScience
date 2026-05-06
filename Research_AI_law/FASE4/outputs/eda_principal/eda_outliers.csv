@@ -1,0 +1,903 @@
+iso3,country_name_canonical,variable_matriz,bloque_tematico,value,q1,q3,iqr,lower_fence,upper_fence,direction,iqr_k
+AND,Andorra,anthropic_ai_autonomy_median,adoption_diffusion,3.0,4.0,4.0,0.0,4.0,4.0,below,3.0
+BTN,Bhutan,anthropic_ai_autonomy_median,adoption_diffusion,3.0,4.0,4.0,0.0,4.0,4.0,below,3.0
+CPV,Cabo Verde,anthropic_ai_autonomy_median,adoption_diffusion,3.0,4.0,4.0,0.0,4.0,4.0,below,3.0
+CYP,Cyprus,anthropic_ai_autonomy_median,adoption_diffusion,3.0,4.0,4.0,0.0,4.0,4.0,below,3.0
+KOR,South Korea,anthropic_ai_autonomy_median,adoption_diffusion,3.0,4.0,4.0,0.0,4.0,4.0,below,3.0
+LIE,Liechtenstein,anthropic_ai_autonomy_median,adoption_diffusion,3.0,4.0,4.0,0.0,4.0,4.0,below,3.0
+MNE,Montenegro,anthropic_ai_autonomy_median,adoption_diffusion,3.0,4.0,4.0,0.0,4.0,4.0,below,3.0
+NZL,New Zealand,anthropic_ai_autonomy_median,adoption_diffusion,3.0,4.0,4.0,0.0,4.0,4.0,below,3.0
+USA,United States,anthropic_ai_autonomy_median,adoption_diffusion,3.0,4.0,4.0,0.0,4.0,4.0,below,3.0
+XKX,Kosovo,anthropic_ai_autonomy_median,adoption_diffusion,3.0,4.0,4.0,0.0,4.0,4.0,below,3.0
+SYC,Seychelles,anthropic_ai_education_years_mean,adoption_diffusion,16.884605,11.752282,12.223572,0.47129,10.338413,13.637441,above,3.0
+IRQ,Iraq,anthropic_ai_education_years_mean,adoption_diffusion,10.211194,11.752282,12.223572,0.47129,10.338413,13.637441,below,3.0
+BDI,Burundi,anthropic_collaboration_pct,adoption_diffusion,50.0,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+BLZ,Belize,anthropic_collaboration_pct,adoption_diffusion,33.333333,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+BRN,Brunei,anthropic_collaboration_pct,adoption_diffusion,33.333333,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+BTN,Bhutan,anthropic_collaboration_pct,adoption_diffusion,50.0,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+CPV,Cabo Verde,anthropic_collaboration_pct,adoption_diffusion,33.333333,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+DJI,Djibouti,anthropic_collaboration_pct,adoption_diffusion,50.0,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+FJI,Fiji,anthropic_collaboration_pct,adoption_diffusion,33.333333,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+GMB,The Gambia,anthropic_collaboration_pct,adoption_diffusion,50.0,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+GUY,Guyana,anthropic_collaboration_pct,adoption_diffusion,50.0,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+LBR,Liberia,anthropic_collaboration_pct,adoption_diffusion,50.0,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+LSO,Lesotho,anthropic_collaboration_pct,adoption_diffusion,50.0,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+MCO,Monaco,anthropic_collaboration_pct,adoption_diffusion,50.0,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+PNG,Papua New Guinea,anthropic_collaboration_pct,adoption_diffusion,50.0,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+SUR,Suriname,anthropic_collaboration_pct,adoption_diffusion,50.0,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+SWZ,Swaziland,anthropic_collaboration_pct,adoption_diffusion,50.0,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+TCD,Chad,anthropic_collaboration_pct,adoption_diffusion,33.333333,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+TLS,Timor Leste,anthropic_collaboration_pct,adoption_diffusion,50.0,16.666667,20.0,3.333333,6.666667,30.0,above,3.0
+AUS,Australia,anthropic_gdp_total,socioeconomic_control,1796805000000.0,13370000000.0,298833000000.0,285463000000.0,-843019000000.0,1155222000000.0,above,3.0
+BRA,Brazil,anthropic_gdp_total,socioeconomic_control,2171337000000.0,13370000000.0,298833000000.0,285463000000.0,-843019000000.0,1155222000000.0,above,3.0
+CAN,Canada,anthropic_gdp_total,socioeconomic_control,2241253000000.0,13370000000.0,298833000000.0,285463000000.0,-843019000000.0,1155222000000.0,above,3.0
+DEU,Germany,anthropic_gdp_total,socioeconomic_control,4658526000000.0,13370000000.0,298833000000.0,285463000000.0,-843019000000.0,1155222000000.0,above,3.0
+ESP,Spain,anthropic_gdp_total,socioeconomic_control,1722227000000.0,13370000000.0,298833000000.0,285463000000.0,-843019000000.0,1155222000000.0,above,3.0
+FRA,France,anthropic_gdp_total,socioeconomic_control,3162023000000.0,13370000000.0,298833000000.0,285463000000.0,-843019000000.0,1155222000000.0,above,3.0
+GBR,United Kingdom,anthropic_gdp_total,socioeconomic_control,3644636000000.0,13370000000.0,298833000000.0,285463000000.0,-843019000000.0,1155222000000.0,above,3.0
+IDN,Indonesia,anthropic_gdp_total,socioeconomic_control,1396300000000.0,13370000000.0,298833000000.0,285463000000.0,-843019000000.0,1155222000000.0,above,3.0
+IND,India,anthropic_gdp_total,socioeconomic_control,3909097000000.0,13370000000.0,298833000000.0,285463000000.0,-843019000000.0,1155222000000.0,above,3.0
+ITA,Italy,anthropic_gdp_total,socioeconomic_control,2372059000000.0,13370000000.0,298833000000.0,285463000000.0,-843019000000.0,1155222000000.0,above,3.0
+JPN,Japan,anthropic_gdp_total,socioeconomic_control,4026211000000.0,13370000000.0,298833000000.0,285463000000.0,-843019000000.0,1155222000000.0,above,3.0
+KOR,South Korea,anthropic_gdp_total,socioeconomic_control,1869714000000.0,13370000000.0,298833000000.0,285463000000.0,-843019000000.0,1155222000000.0,above,3.0
+MEX,Mexico,anthropic_gdp_total,socioeconomic_control,1852723000000.0,13370000000.0,298833000000.0,285463000000.0,-843019000000.0,1155222000000.0,above,3.0
+NLD,Netherlands (Kingdom of the),anthropic_gdp_total,socioeconomic_control,1227174000000.0,13370000000.0,298833000000.0,285463000000.0,-843019000000.0,1155222000000.0,above,3.0
+TUR,Turkiye,anthropic_gdp_total,socioeconomic_control,1322405000000.0,13370000000.0,298833000000.0,285463000000.0,-843019000000.0,1155222000000.0,above,3.0
+USA,United States,anthropic_gdp_total,socioeconomic_control,29184900000000.0,13370000000.0,298833000000.0,285463000000.0,-843019000000.0,1155222000000.0,above,3.0
+AUS,Australia,anthropic_usage_pct,adoption_diffusion,1.5906,0.0176,0.3577,0.3401,-1.0027,1.378,above,3.0
+BRA,Brazil,anthropic_usage_pct,adoption_diffusion,2.5548,0.0176,0.3577,0.3401,-1.0027,1.378,above,3.0
+CAN,Canada,anthropic_usage_pct,adoption_diffusion,2.5902,0.0176,0.3577,0.3401,-1.0027,1.378,above,3.0
+DEU,Germany,anthropic_usage_pct,adoption_diffusion,3.027,0.0176,0.3577,0.3401,-1.0027,1.378,above,3.0
+ESP,Spain,anthropic_usage_pct,adoption_diffusion,1.564,0.0176,0.3577,0.3401,-1.0027,1.378,above,3.0
+FRA,France,anthropic_usage_pct,adoption_diffusion,3.2332,0.0176,0.3577,0.3401,-1.0027,1.378,above,3.0
+GBR,United Kingdom,anthropic_usage_pct,adoption_diffusion,3.5869,0.0176,0.3577,0.3401,-1.0027,1.378,above,3.0
+IND,India,anthropic_usage_pct,adoption_diffusion,6.1627,0.0176,0.3577,0.3401,-1.0027,1.378,above,3.0
+ITA,Italy,anthropic_usage_pct,adoption_diffusion,1.7373,0.0176,0.3577,0.3401,-1.0027,1.378,above,3.0
+JPN,Japan,anthropic_usage_pct,adoption_diffusion,2.9128,0.0176,0.3577,0.3401,-1.0027,1.378,above,3.0
+KOR,South Korea,anthropic_usage_pct,adoption_diffusion,2.9075,0.0176,0.3577,0.3401,-1.0027,1.378,above,3.0
+SYC,Seychelles,anthropic_usage_pct,adoption_diffusion,2.471809,0.0176,0.3577,0.3401,-1.0027,1.378,above,3.0
+USA,United States,anthropic_usage_pct,adoption_diffusion,22.2372,0.0176,0.3577,0.3401,-1.0027,1.378,above,3.0
+VAT,Vatican,anthropic_usage_pct,adoption_diffusion,4.044188,0.0176,0.3577,0.3401,-1.0027,1.378,above,3.0
+SOM,"Somalia, Fed. Rep.",oecd_1_digital_stri_digital_stri_ip,institutional_control,0.108235,0.0,0.021647,0.021647,-0.064941,0.086588,above,3.0
+SSD,South Sudan,oecd_1_digital_stri_digital_stri_ip,institutional_control,0.108235,0.0,0.021647,0.021647,-0.064941,0.086588,above,3.0
+USA,United States,oxford_ai_sector_maturity,ecosystem_outcome,100.0,5.1,24.975,19.875,-54.525,84.6,above,3.0
+ARE,United Arab Emirates,oxford_compute_capacity,ecosystem_outcome,40.49,2.08,10.19,8.11,-22.25,34.52,above,3.0
+AUS,Australia,oxford_compute_capacity,ecosystem_outcome,40.81,2.08,10.19,8.11,-22.25,34.52,above,3.0
+BRA,Brazil,oxford_compute_capacity,ecosystem_outcome,38.57,2.08,10.19,8.11,-22.25,34.52,above,3.0
+CAN,Canada,oxford_compute_capacity,ecosystem_outcome,44.24,2.08,10.19,8.11,-22.25,34.52,above,3.0
+CHN,China,oxford_compute_capacity,ecosystem_outcome,80.66,2.08,10.19,8.11,-22.25,34.52,above,3.0
+DEU,Germany,oxford_compute_capacity,ecosystem_outcome,56.98,2.08,10.19,8.11,-22.25,34.52,above,3.0
+FRA,France,oxford_compute_capacity,ecosystem_outcome,51.11,2.08,10.19,8.11,-22.25,34.52,above,3.0
+GBR,United Kingdom,oxford_compute_capacity,ecosystem_outcome,50.34,2.08,10.19,8.11,-22.25,34.52,above,3.0
+IND,India,oxford_compute_capacity,ecosystem_outcome,48.5,2.08,10.19,8.11,-22.25,34.52,above,3.0
+ITA,Italy,oxford_compute_capacity,ecosystem_outcome,39.99,2.08,10.19,8.11,-22.25,34.52,above,3.0
+JPN,Japan,oxford_compute_capacity,ecosystem_outcome,50.49,2.08,10.19,8.11,-22.25,34.52,above,3.0
+KOR,South Korea,oxford_compute_capacity,ecosystem_outcome,40.81,2.08,10.19,8.11,-22.25,34.52,above,3.0
+NLD,Netherlands (Kingdom of the),oxford_compute_capacity,ecosystem_outcome,39.17,2.08,10.19,8.11,-22.25,34.52,above,3.0
+SGP,Singapore,oxford_compute_capacity,ecosystem_outcome,41.99,2.08,10.19,8.11,-22.25,34.52,above,3.0
+USA,United States,oxford_compute_capacity,ecosystem_outcome,90.92,2.08,10.19,8.11,-22.25,34.52,above,3.0
+BRA,Brazil,oxford_ind_ai_unicorns_log,ecosystem_outcome,16.999162,0.0,0.0,0.0,0.0,0.0,above,3.0
+CAN,Canada,oxford_ind_ai_unicorns_log,ecosystem_outcome,26.943034,0.0,0.0,0.0,0.0,0.0,above,3.0
+CHL,Chile,oxford_ind_ai_unicorns_log,ecosystem_outcome,16.999162,0.0,0.0,0.0,0.0,0.0,above,3.0
+CHN,China,oxford_ind_ai_unicorns_log,ecosystem_outcome,72.211206,0.0,0.0,0.0,0.0,0.0,above,3.0
+DEU,Germany,oxford_ind_ai_unicorns_log,ecosystem_outcome,26.943034,0.0,0.0,0.0,0.0,0.0,above,3.0
+EST,Estonia,oxford_ind_ai_unicorns_log,ecosystem_outcome,16.999162,0.0,0.0,0.0,0.0,0.0,above,3.0
+FRA,France,oxford_ind_ai_unicorns_log,ecosystem_outcome,16.999162,0.0,0.0,0.0,0.0,0.0,above,3.0
+GBR,United Kingdom,oxford_ind_ai_unicorns_log,ecosystem_outcome,43.942195,0.0,0.0,0.0,0.0,0.0,above,3.0
+ISR,Israel,oxford_ind_ai_unicorns_log,ecosystem_outcome,39.470831,0.0,0.0,0.0,0.0,0.0,above,3.0
+JPN,Japan,oxford_ind_ai_unicorns_log,ecosystem_outcome,16.999162,0.0,0.0,0.0,0.0,0.0,above,3.0
+SGP,Singapore,oxford_ind_ai_unicorns_log,ecosystem_outcome,26.943034,0.0,0.0,0.0,0.0,0.0,above,3.0
+USA,United States,oxford_ind_ai_unicorns_log,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+GBR,United Kingdom,oxford_ind_eng_tech_higher_ed_quality,ecosystem_outcome,98.369373,0.0,23.644098,23.644098,-70.932293,94.576391,above,3.0
+USA,United States,oxford_ind_eng_tech_higher_ed_quality,ecosystem_outcome,100.0,0.0,23.644098,23.644098,-70.932293,94.576391,above,3.0
+ARE,United Arab Emirates,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+ARG,Argentina,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+AUS,Australia,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+BRA,Brazil,oxford_ind_ethical_principles,ecosystem_outcome,50.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+CAN,Canada,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+CHE,Switzerland,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+CHL,Chile,oxford_ind_ethical_principles,ecosystem_outcome,50.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+CHN,China,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+CIV,Cote d'Ivoire,oxford_ind_ethical_principles,ecosystem_outcome,50.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+COL,Colombia,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+DEU,Germany,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+DNK,Denmark,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+EGY,Egypt,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+FIN,Finland,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+FRA,France,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+GBR,United Kingdom,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+IDN,Indonesia,oxford_ind_ethical_principles,ecosystem_outcome,50.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+IND,India,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+ISR,Israel,oxford_ind_ethical_principles,ecosystem_outcome,50.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+ITA,Italy,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+JOR,Jordan,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+JPN,Japan,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+KOR,South Korea,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+MAR,Morocco,oxford_ind_ethical_principles,ecosystem_outcome,50.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+MLT,Malta,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+MYS,Malaysia,oxford_ind_ethical_principles,ecosystem_outcome,50.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+NAM,Namibia,oxford_ind_ethical_principles,ecosystem_outcome,50.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+NOR,Norway,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+PER,Peru,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+PRT,Portugal,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+RUS,Russia,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+RWA,Rwanda,oxford_ind_ethical_principles,ecosystem_outcome,50.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+SAU,Saudi Arabia,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+SGP,Singapore,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+SRB,Serbia,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+THA,Thailand,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+TUR,Turkiye,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+URY,Uruguay,oxford_ind_ethical_principles,ecosystem_outcome,50.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+USA,United States,oxford_ind_ethical_principles,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+VNM,Vietnam,oxford_ind_ethical_principles,ecosystem_outcome,50.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+AND,Andorra,oxford_ind_female_stem_graduates,ecosystem_outcome,0.0,59.13107,76.812755,17.681685,6.086015,129.85781,below,3.0
+KIR,Kiribati,oxford_ind_female_stem_graduates,ecosystem_outcome,0.0,59.13107,76.812755,17.681685,6.086015,129.85781,below,3.0
+MCO,Monaco,oxford_ind_female_stem_graduates,ecosystem_outcome,0.0,59.13107,76.812755,17.681685,6.086015,129.85781,below,3.0
+SWZ,Swaziland,oxford_ind_female_stem_graduates,ecosystem_outcome,0.0,59.13107,76.812755,17.681685,6.086015,129.85781,below,3.0
+ARG,Argentina,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,11.461957,0.0,0.0,0.0,0.0,0.0,above,3.0
+AUS,Australia,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,36.333543,0.0,0.0,0.0,0.0,0.0,above,3.0
+AUT,Austria,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,18.166772,0.0,0.0,0.0,0.0,0.0,above,3.0
+BEL,Belgium,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,22.923913,0.0,0.0,0.0,0.0,0.0,above,3.0
+BRA,Brazil,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,42.41428,0.0,0.0,0.0,0.0,0.0,above,3.0
+CAN,Canada,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,45.847827,0.0,0.0,0.0,0.0,0.0,above,3.0
+CHE,Switzerland,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,26.613839,0.0,0.0,0.0,0.0,0.0,above,3.0
+CHN,China,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,76.47905,0.0,0.0,0.0,0.0,0.0,above,3.0
+COL,Colombia,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,11.461957,0.0,0.0,0.0,0.0,0.0,above,3.0
+DEU,Germany,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,46.850322,0.0,0.0,0.0,0.0,0.0,above,3.0
+DNK,Denmark,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,18.166772,0.0,0.0,0.0,0.0,0.0,above,3.0
+ECU,Ecuador,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,11.461957,0.0,0.0,0.0,0.0,0.0,above,3.0
+EGY,Egypt,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,11.461957,0.0,0.0,0.0,0.0,0.0,above,3.0
+ESP,Spain,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,18.166772,0.0,0.0,0.0,0.0,0.0,above,3.0
+FIN,Finland,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,18.166772,0.0,0.0,0.0,0.0,0.0,above,3.0
+FRA,France,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,46.850322,0.0,0.0,0.0,0.0,0.0,above,3.0
+GBR,United Kingdom,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,59.710529,0.0,0.0,0.0,0.0,0.0,above,3.0
+GRC,Greece,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,11.461957,0.0,0.0,0.0,0.0,0.0,above,3.0
+HRV,Croatia,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,11.461957,0.0,0.0,0.0,0.0,0.0,above,3.0
+IDN,Indonesia,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,29.628728,0.0,0.0,0.0,0.0,0.0,above,3.0
+IND,India,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,65.962271,0.0,0.0,0.0,0.0,0.0,above,3.0
+IRL,Ireland,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,29.628728,0.0,0.0,0.0,0.0,0.0,above,3.0
+ISR,Israel,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,43.639737,0.0,0.0,0.0,0.0,0.0,above,3.0
+ITA,Italy,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,18.166772,0.0,0.0,0.0,0.0,0.0,above,3.0
+JPN,Japan,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,26.613839,0.0,0.0,0.0,0.0,0.0,above,3.0
+KOR,South Korea,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,39.651855,0.0,0.0,0.0,0.0,0.0,above,3.0
+LIE,Liechtenstein,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,11.461957,0.0,0.0,0.0,0.0,0.0,above,3.0
+LTU,Lithuania,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,18.166772,0.0,0.0,0.0,0.0,0.0,above,3.0
+MEX,Mexico,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,34.38587,0.0,0.0,0.0,0.0,0.0,above,3.0
+MYS,Malaysia,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,11.461957,0.0,0.0,0.0,0.0,0.0,above,3.0
+NGA,Nigeria,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,11.461957,0.0,0.0,0.0,0.0,0.0,above,3.0
+NLD,Netherlands (Kingdom of the),oxford_ind_non_ai_unicorns_log,ecosystem_outcome,34.38587,0.0,0.0,0.0,0.0,0.0,above,3.0
+NOR,Norway,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,26.613839,0.0,0.0,0.0,0.0,0.0,above,3.0
+SEN,Senegal,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,11.461957,0.0,0.0,0.0,0.0,0.0,above,3.0
+SGP,Singapore,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,39.651855,0.0,0.0,0.0,0.0,0.0,above,3.0
+SWE,Sweden,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,18.166772,0.0,0.0,0.0,0.0,0.0,above,3.0
+SYC,Seychelles,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,18.166772,0.0,0.0,0.0,0.0,0.0,above,3.0
+THA,Thailand,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,18.166772,0.0,0.0,0.0,0.0,0.0,above,3.0
+TUR,Turkiye,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,18.166772,0.0,0.0,0.0,0.0,0.0,above,3.0
+USA,United States,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+VNM,Vietnam,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,18.166772,0.0,0.0,0.0,0.0,0.0,above,3.0
+ZAF,South Africa,oxford_ind_non_ai_unicorns_log,ecosystem_outcome,11.461957,0.0,0.0,0.0,0.0,0.0,above,3.0
+SMR,San Marino,oxford_ind_stem_graduates,ecosystem_outcome,100.0,24.216759,35.475966,11.259207,-9.560863,69.253587,above,3.0
+ARE,United Arab Emirates,oxford_ind_supercomputers_log,ecosystem_outcome,13.624257,0.0,0.0,0.0,0.0,0.0,above,3.0
+ARG,Argentina,oxford_ind_supercomputers_log,ecosystem_outcome,13.624257,0.0,0.0,0.0,0.0,0.0,above,3.0
+AUS,Australia,oxford_ind_supercomputers_log,ecosystem_outcome,38.248124,0.0,0.0,0.0,0.0,0.0,above,3.0
+AUT,Austria,oxford_ind_supercomputers_log,ecosystem_outcome,21.593936,0.0,0.0,0.0,0.0,0.0,above,3.0
+BEL,Belgium,oxford_ind_supercomputers_log,ecosystem_outcome,13.624257,0.0,0.0,0.0,0.0,0.0,above,3.0
+BGR,Bulgaria,oxford_ind_supercomputers_log,ecosystem_outcome,21.593936,0.0,0.0,0.0,0.0,0.0,above,3.0
+BRA,Brazil,oxford_ind_supercomputers_log,ecosystem_outcome,45.258801,0.0,0.0,0.0,0.0,0.0,above,3.0
+CAN,Canada,oxford_ind_supercomputers_log,ecosystem_outcome,47.132184,0.0,0.0,0.0,0.0,0.0,above,3.0
+CHE,Switzerland,oxford_ind_supercomputers_log,ecosystem_outcome,27.248513,0.0,0.0,0.0,0.0,0.0,above,3.0
+CHN,China,oxford_ind_supercomputers_log,ecosystem_outcome,91.476604,0.0,0.0,0.0,0.0,0.0,above,3.0
+CZE,Czech Republic,oxford_ind_supercomputers_log,ecosystem_outcome,21.593936,0.0,0.0,0.0,0.0,0.0,above,3.0
+DEU,Germany,oxford_ind_supercomputers_log,ecosystem_outcome,70.97493,0.0,0.0,0.0,0.0,0.0,above,3.0
+ESP,Spain,oxford_ind_supercomputers_log,ecosystem_outcome,27.248513,0.0,0.0,0.0,0.0,0.0,above,3.0
+FIN,Finland,oxford_ind_supercomputers_log,ecosystem_outcome,27.248513,0.0,0.0,0.0,0.0,0.0,above,3.0
+FRA,France,oxford_ind_supercomputers_log,ecosystem_outcome,62.466706,0.0,0.0,0.0,0.0,0.0,above,3.0
+GBR,United Kingdom,oxford_ind_supercomputers_log,ecosystem_outcome,54.497026,0.0,0.0,0.0,0.0,0.0,above,3.0
+HUN,Hungary,oxford_ind_supercomputers_log,ecosystem_outcome,13.624257,0.0,0.0,0.0,0.0,0.0,above,3.0
+IND,India,oxford_ind_supercomputers_log,ecosystem_outcome,31.634544,0.0,0.0,0.0,0.0,0.0,above,3.0
+IRL,Ireland,oxford_ind_supercomputers_log,ecosystem_outcome,31.634544,0.0,0.0,0.0,0.0,0.0,above,3.0
+ITA,Italy,oxford_ind_supercomputers_log,ecosystem_outcome,50.41574,0.0,0.0,0.0,0.0,0.0,above,3.0
+JPN,Japan,oxford_ind_supercomputers_log,ecosystem_outcome,68.72612,0.0,0.0,0.0,0.0,0.0,above,3.0
+KOR,South Korea,oxford_ind_supercomputers_log,ecosystem_outcome,50.41574,0.0,0.0,0.0,0.0,0.0,above,3.0
+LUX,Luxembourg,oxford_ind_supercomputers_log,ecosystem_outcome,21.593936,0.0,0.0,0.0,0.0,0.0,above,3.0
+MAR,Morocco,oxford_ind_supercomputers_log,ecosystem_outcome,13.624257,0.0,0.0,0.0,0.0,0.0,above,3.0
+NLD,Netherlands (Kingdom of the),oxford_ind_supercomputers_log,ecosystem_outcome,47.132184,0.0,0.0,0.0,0.0,0.0,above,3.0
+NOR,Norway,oxford_ind_supercomputers_log,ecosystem_outcome,35.218192,0.0,0.0,0.0,0.0,0.0,above,3.0
+POL,Poland,oxford_ind_supercomputers_log,ecosystem_outcome,31.634544,0.0,0.0,0.0,0.0,0.0,above,3.0
+SAU,Saudi Arabia,oxford_ind_supercomputers_log,ecosystem_outcome,40.87277,0.0,0.0,0.0,0.0,0.0,above,3.0
+SGP,Singapore,oxford_ind_supercomputers_log,ecosystem_outcome,27.248513,0.0,0.0,0.0,0.0,0.0,above,3.0
+SVN,Slovenia,oxford_ind_supercomputers_log,ecosystem_outcome,21.593936,0.0,0.0,0.0,0.0,0.0,above,3.0
+SWE,Sweden,oxford_ind_supercomputers_log,ecosystem_outcome,38.248124,0.0,0.0,0.0,0.0,0.0,above,3.0
+THA,Thailand,oxford_ind_supercomputers_log,ecosystem_outcome,13.624257,0.0,0.0,0.0,0.0,0.0,above,3.0
+TWN,Taiwan,oxford_ind_supercomputers_log,ecosystem_outcome,35.218192,0.0,0.0,0.0,0.0,0.0,above,3.0
+USA,United States,oxford_ind_supercomputers_log,ecosystem_outcome,100.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+CAN,Canada,oxford_ind_vc_availability,ecosystem_outcome,100.0,5.285714,21.0,15.714286,-41.857143,68.142857,above,3.0
+CHE,Switzerland,oxford_ind_vc_availability,ecosystem_outcome,72.0,5.285714,21.0,15.714286,-41.857143,68.142857,above,3.0
+EST,Estonia,oxford_ind_vc_availability,ecosystem_outcome,100.0,5.285714,21.0,15.714286,-41.857143,68.142857,above,3.0
+GBR,United Kingdom,oxford_ind_vc_availability,ecosystem_outcome,77.0,5.285714,21.0,15.714286,-41.857143,68.142857,above,3.0
+ISL,Iceland,oxford_ind_vc_availability,ecosystem_outcome,100.0,5.285714,21.0,15.714286,-41.857143,68.142857,above,3.0
+ISR,Israel,oxford_ind_vc_availability,ecosystem_outcome,100.0,5.285714,21.0,15.714286,-41.857143,68.142857,above,3.0
+SGP,Singapore,oxford_ind_vc_availability,ecosystem_outcome,100.0,5.285714,21.0,15.714286,-41.857143,68.142857,above,3.0
+USA,United States,oxford_ind_vc_availability,ecosystem_outcome,87.0,5.285714,21.0,15.714286,-41.857143,68.142857,above,3.0
+USA,United States,oxford_maturity,ecosystem_outcome,83.796707,11.933563,29.559043,17.62548,-40.942878,82.435483,above,3.0
+USA,United States,oxford_size,ecosystem_outcome,87.03541,11.271387,29.024425,17.753038,-41.987727,82.283539,above,3.0
+CHN,China,stanford_fig_3_4_4_fig_3_4_4_number_of_rai_submissions,regulatory_treatment,812.0,59.75,109.75,50.0,-90.25,259.75,above,3.0
+USA,United States,stanford_fig_3_4_4_fig_3_4_4_number_of_rai_submissions,regulatory_treatment,394.0,59.75,109.75,50.0,-90.25,259.75,above,3.0
+AUS,Australia,stanford_fig_3_4_5_fig_3_4_5_number_of_rai_submissions,regulatory_treatment,287.0,2.0,40.0,38.0,-112.0,154.0,above,3.0
+CAN,Canada,stanford_fig_3_4_5_fig_3_4_5_number_of_rai_submissions,regulatory_treatment,383.0,2.0,40.0,38.0,-112.0,154.0,above,3.0
+CHE,Switzerland,stanford_fig_3_4_5_fig_3_4_5_number_of_rai_submissions,regulatory_treatment,224.0,2.0,40.0,38.0,-112.0,154.0,above,3.0
+CHN,China,stanford_fig_3_4_5_fig_3_4_5_number_of_rai_submissions,regulatory_treatment,2015.0,2.0,40.0,38.0,-112.0,154.0,above,3.0
+DEU,Germany,stanford_fig_3_4_5_fig_3_4_5_number_of_rai_submissions,regulatory_treatment,483.0,2.0,40.0,38.0,-112.0,154.0,above,3.0
+FRA,France,stanford_fig_3_4_5_fig_3_4_5_number_of_rai_submissions,regulatory_treatment,210.0,2.0,40.0,38.0,-112.0,154.0,above,3.0
+GBR,United Kingdom,stanford_fig_3_4_5_fig_3_4_5_number_of_rai_submissions,regulatory_treatment,646.0,2.0,40.0,38.0,-112.0,154.0,above,3.0
+HKG,Hong Kong,stanford_fig_3_4_5_fig_3_4_5_number_of_rai_submissions,regulatory_treatment,247.0,2.0,40.0,38.0,-112.0,154.0,above,3.0
+IND,India,stanford_fig_3_4_5_fig_3_4_5_number_of_rai_submissions,regulatory_treatment,194.0,2.0,40.0,38.0,-112.0,154.0,above,3.0
+JPN,Japan,stanford_fig_3_4_5_fig_3_4_5_number_of_rai_submissions,regulatory_treatment,181.0,2.0,40.0,38.0,-112.0,154.0,above,3.0
+KOR,South Korea,stanford_fig_3_4_5_fig_3_4_5_number_of_rai_submissions,regulatory_treatment,194.0,2.0,40.0,38.0,-112.0,154.0,above,3.0
+SGP,Singapore,stanford_fig_3_4_5_fig_3_4_5_number_of_rai_submissions,regulatory_treatment,321.0,2.0,40.0,38.0,-112.0,154.0,above,3.0
+USA,United States,stanford_fig_3_4_5_fig_3_4_5_number_of_rai_submissions,regulatory_treatment,3865.0,2.0,40.0,38.0,-112.0,154.0,above,3.0
+CAN,Canada,stanford_fig_3_5_2_fig_3_5_2_g7_hiroshima_ai_process_2023,regulatory_treatment,1.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+DEU,Germany,stanford_fig_3_5_2_fig_3_5_2_g7_hiroshima_ai_process_2023,regulatory_treatment,1.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+FRA,France,stanford_fig_3_5_2_fig_3_5_2_g7_hiroshima_ai_process_2023,regulatory_treatment,1.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+GBR,United Kingdom,stanford_fig_3_5_2_fig_3_5_2_g7_hiroshima_ai_process_2023,regulatory_treatment,1.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+ITA,Italy,stanford_fig_3_5_2_fig_3_5_2_g7_hiroshima_ai_process_2023,regulatory_treatment,1.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+JPN,Japan,stanford_fig_3_5_2_fig_3_5_2_g7_hiroshima_ai_process_2023,regulatory_treatment,1.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+USA,United States,stanford_fig_3_5_2_fig_3_5_2_g7_hiroshima_ai_process_2023,regulatory_treatment,1.0,0.0,0.0,0.0,0.0,0.0,above,3.0
+CAN,Canada,stanford_fig_3_7_2_fig_3_7_2_gender_equality,regulatory_treatment,95.99,0.0,23.15,23.15,-69.45,92.6,above,3.0
+DEU,Germany,stanford_fig_6_3_5_fig_6_3_5_volume_of_publications,ecosystem_outcome,24.0,1.0,5.0,4.0,-11.0,17.0,above,3.0
+GBR,United Kingdom,stanford_fig_6_3_5_fig_6_3_5_volume_of_publications,ecosystem_outcome,27.0,1.0,5.0,4.0,-11.0,17.0,above,3.0
+USA,United States,stanford_fig_6_3_5_fig_6_3_5_volume_of_publications,ecosystem_outcome,62.0,1.0,5.0,4.0,-11.0,17.0,above,3.0
+FJI,Fiji,wb_control_of_corruption_se,institutional_control,0.300385,0.160738,0.192637,0.031899,0.06504,0.288334,above,3.0
+FSM,Micronesia (Federated States of),wb_control_of_corruption_se,institutional_control,0.356603,0.160738,0.192637,0.031899,0.06504,0.288334,above,3.0
+KIR,Kiribati,wb_control_of_corruption_se,institutional_control,0.356603,0.160738,0.192637,0.031899,0.06504,0.288334,above,3.0
+MCO,Monaco,wb_control_of_corruption_se,institutional_control,0.435253,0.160738,0.192637,0.031899,0.06504,0.288334,above,3.0
+MDV,Maldives,wb_control_of_corruption_se,institutional_control,0.300385,0.160738,0.192637,0.031899,0.06504,0.288334,above,3.0
+MHL,Marshall Islands (the),wb_control_of_corruption_se,institutional_control,0.36071,0.160738,0.192637,0.031899,0.06504,0.288334,above,3.0
+NRU,Nauru,wb_control_of_corruption_se,institutional_control,0.429015,0.160738,0.192637,0.031899,0.06504,0.288334,above,3.0
+PLW,Palau,wb_control_of_corruption_se,institutional_control,0.429015,0.160738,0.192637,0.031899,0.06504,0.288334,above,3.0
+SMR,San Marino,wb_control_of_corruption_se,institutional_control,0.435253,0.160738,0.192637,0.031899,0.06504,0.288334,above,3.0
+TON,Tonga,wb_control_of_corruption_se,institutional_control,0.315982,0.160738,0.192637,0.031899,0.06504,0.288334,above,3.0
+TUV,Tuvalu,wb_control_of_corruption_se,institutional_control,0.36071,0.160738,0.192637,0.031899,0.06504,0.288334,above,3.0
+WSM,Samoa,wb_control_of_corruption_se,institutional_control,0.343477,0.160738,0.192637,0.031899,0.06504,0.288334,above,3.0
+KIR,Kiribati,wb_education_expenditure_pct_gdp,socioeconomic_control,16.39053,3.100381,5.311126,2.210746,-3.531856,11.943363,above,3.0
+TUV,Tuvalu,wb_education_expenditure_pct_gdp,socioeconomic_control,12.84569,3.100381,5.311126,2.210746,-3.531856,11.943363,above,3.0
+BHR,Bahrain,wb_electric_consumption_kwh_pc,tech_infrastructure_control,23120.25105,823.183464,5244.978822,4421.795358,-12442.202609,18510.364895,above,3.0
+ISL,Iceland,wb_electric_consumption_kwh_pc,tech_infrastructure_control,48997.945698,823.183464,5244.978822,4421.795358,-12442.202609,18510.364895,above,3.0
+NOR,Norway,wb_electric_consumption_kwh_pc,tech_infrastructure_control,23673.078825,823.183464,5244.978822,4421.795358,-12442.202609,18510.364895,above,3.0
+QAT,Qatar,wb_electric_consumption_kwh_pc,tech_infrastructure_control,19963.238395,823.183464,5244.978822,4421.795358,-12442.202609,18510.364895,above,3.0
+HKG,Hong Kong,wb_exports_pct_gdp,socioeconomic_control,181.791342,22.715695,54.413127,31.697432,-72.376602,149.505424,above,3.0
+LUX,Luxembourg,wb_exports_pct_gdp,socioeconomic_control,191.53297,22.715695,54.413127,31.697432,-72.376602,149.505424,above,3.0
+SGP,Singapore,wb_exports_pct_gdp,socioeconomic_control,178.776287,22.715695,54.413127,31.697432,-72.376602,149.505424,above,3.0
+SMR,San Marino,wb_exports_pct_gdp,socioeconomic_control,185.992794,22.715695,54.413127,31.697432,-72.376602,149.505424,above,3.0
+ARE,United Arab Emirates,wb_fdi_net_inflows,socioeconomic_control,45636487406.3989,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+AUS,Australia,wb_fdi_net_inflows,socioeconomic_control,53393088476.4107,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+BRA,Brazil,wb_fdi_net_inflows,socioeconomic_control,74090786050.19,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+CAN,Canada,wb_fdi_net_inflows,socioeconomic_control,63052828220.4018,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+CHN,China,wb_fdi_net_inflows,socioeconomic_control,18556141172.84,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+DEU,Germany,wb_fdi_net_inflows,socioeconomic_control,47599143488.7827,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+DNK,Denmark,wb_fdi_net_inflows,socioeconomic_control,18240080341.0515,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+EGY,Egypt,wb_fdi_net_inflows,socioeconomic_control,46578000000.0,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+ESP,Spain,wb_fdi_net_inflows,socioeconomic_control,42778827261.0579,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+FRA,France,wb_fdi_net_inflows,socioeconomic_control,52052548617.7634,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+HKG,Hong Kong,wb_fdi_net_inflows,socioeconomic_control,125820976919.852,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+IDN,Indonesia,wb_fdi_net_inflows,socioeconomic_control,24275445280.2272,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+IND,India,wb_fdi_net_inflows,socioeconomic_control,27139853378.1402,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+ITA,Italy,wb_fdi_net_inflows,socioeconomic_control,26903748175.4513,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+LUX,Luxembourg,wb_fdi_net_inflows,socioeconomic_control,105986643430.0,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+MEX,Mexico,wb_fdi_net_inflows,socioeconomic_control,45474733959.0,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+MLT,Malta,wb_fdi_net_inflows,socioeconomic_control,42586013467.362,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+POL,Poland,wb_fdi_net_inflows,socioeconomic_control,20606000000.0,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+SAU,Saudi Arabia,wb_fdi_net_inflows,socioeconomic_control,21337562069.6656,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+SGP,Singapore,wb_fdi_net_inflows,socioeconomic_control,135077157183.126,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+SWE,Sweden,wb_fdi_net_inflows,socioeconomic_control,27034877940.548,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+USA,United States,wb_fdi_net_inflows,socioeconomic_control,297058000000.0,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+VNM,Vietnam,wb_fdi_net_inflows,socioeconomic_control,20170000000.0,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,above,3.0
+BEL,Belgium,wb_fdi_net_inflows,socioeconomic_control,-41357732773.2876,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,below,3.0
+CHE,Switzerland,wb_fdi_net_inflows,socioeconomic_control,-108395568633.839,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,below,3.0
+CYP,Cyprus,wb_fdi_net_inflows,socioeconomic_control,-50364142878.0379,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,below,3.0
+HUN,Hungary,wb_fdi_net_inflows,socioeconomic_control,-62190710104.0316,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,below,3.0
+LIE,Liechtenstein,wb_fdi_net_inflows,socioeconomic_control,-87212093508.4059,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,below,3.0
+NLD,Netherlands (Kingdom of the),wb_fdi_net_inflows,socioeconomic_control,-17058018836.8683,130012452.460864,4617882394.441825,4487869941.980962,-13333597373.482023,18081492220.384712,below,3.0
+GUY,Guyana,wb_fdi_pct_gdp,socioeconomic_control,34.990072,0.694133,4.478085,3.783951,-10.657721,15.829939,above,3.0
+HKG,Hong Kong,wb_fdi_pct_gdp,socioeconomic_control,30.924624,0.694133,4.478085,3.783951,-10.657721,15.829939,above,3.0
+LUX,Luxembourg,wb_fdi_pct_gdp,socioeconomic_control,113.622225,0.694133,4.478085,3.783951,-10.657721,15.829939,above,3.0
+MLT,Malta,wb_fdi_pct_gdp,socioeconomic_control,170.537959,0.694133,4.478085,3.783951,-10.657721,15.829939,above,3.0
+PLW,Palau,wb_fdi_pct_gdp,socioeconomic_control,28.870782,0.694133,4.478085,3.783951,-10.657721,15.829939,above,3.0
+SGP,Singapore,wb_fdi_pct_gdp,socioeconomic_control,24.676736,0.694133,4.478085,3.783951,-10.657721,15.829939,above,3.0
+CHE,Switzerland,wb_fdi_pct_gdp,socioeconomic_control,-11.573747,0.694133,4.478085,3.783951,-10.657721,15.829939,below,3.0
+CYP,Cyprus,wb_fdi_pct_gdp,socioeconomic_control,-133.824279,0.694133,4.478085,3.783951,-10.657721,15.829939,below,3.0
+HUN,Hungary,wb_fdi_pct_gdp,socioeconomic_control,-27.922928,0.694133,4.478085,3.783951,-10.657721,15.829939,below,3.0
+LIE,Liechtenstein,wb_fdi_pct_gdp,socioeconomic_control,-1303.108267,0.694133,4.478085,3.783951,-10.657721,15.829939,below,3.0
+AUS,Australia,wb_gdp_current_usd,socioeconomic_control,1757022451652.83,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+BRA,Brazil,wb_gdp_current_usd,socioeconomic_control,2185821648943.86,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+CAN,Canada,wb_gdp_current_usd,socioeconomic_control,2243636826633.76,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+CHN,China,wb_gdp_current_usd,socioeconomic_control,18743803170827.2,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+DEU,Germany,wb_gdp_current_usd,socioeconomic_control,4685592577804.69,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+ESP,Spain,wb_gdp_current_usd,socioeconomic_control,1725671652742.19,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+FRA,France,wb_gdp_current_usd,socioeconomic_control,3160442622465.08,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+GBR,United Kingdom,wb_gdp_current_usd,socioeconomic_control,3686033044482.13,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+IDN,Indonesia,wb_gdp_current_usd,socioeconomic_control,1396300098190.97,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+IND,India,wb_gdp_current_usd,socioeconomic_control,3909891533858.08,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+ITA,Italy,wb_gdp_current_usd,socioeconomic_control,2380825077243.59,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+JPN,Japan,wb_gdp_current_usd,socioeconomic_control,4027597523550.58,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+KOR,South Korea,wb_gdp_current_usd,socioeconomic_control,1875388209406.8,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+MEX,Mexico,wb_gdp_current_usd,socioeconomic_control,1856365616165.94,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+NLD,Netherlands (Kingdom of the),wb_gdp_current_usd,socioeconomic_control,1214927698572.66,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+RUS,Russia,wb_gdp_current_usd,socioeconomic_control,2173835806671.66,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+SAU,Saudi Arabia,wb_gdp_current_usd,socioeconomic_control,1239804533333.33,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+TUR,Turkiye,wb_gdp_current_usd,socioeconomic_control,1359123768774.12,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+USA,United States,wb_gdp_current_usd,socioeconomic_control,28750956130731.2,13834468887.138401,286826791201.052,272992322313.9136,-805142498054.6024,1105803758142.793,above,3.0
+GUY,Guyana,wb_gdp_growth_annual_pct,socioeconomic_control,43.819311,1.554795,4.321224,2.766429,-6.744492,12.620512,above,3.0
+PSE,Palestine,wb_gdp_growth_annual_pct,socioeconomic_control,-26.557526,1.554795,4.321224,2.766429,-6.744492,12.620512,below,3.0
+SDN,Sudan (the),wb_gdp_growth_annual_pct,socioeconomic_control,-13.964338,1.554795,4.321224,2.766429,-6.744492,12.620512,below,3.0
+TLS,Timor Leste,wb_gdp_growth_annual_pct,socioeconomic_control,-9.100694,1.554795,4.321224,2.766429,-6.744492,12.620512,below,3.0
+ATG,Antigua and Barbuda,wb_government_effectiveness_se,institutional_control,0.38691,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+DMA,Dominica,wb_government_effectiveness_se,institutional_control,0.342499,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+FJI,Fiji,wb_government_effectiveness_se,institutional_control,0.337432,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+FSM,Micronesia (Federated States of),wb_government_effectiveness_se,institutional_control,0.337432,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+GRD,Grenada,wb_government_effectiveness_se,institutional_control,0.342499,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+KIR,Kiribati,wb_government_effectiveness_se,institutional_control,0.337432,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+KNA,Saint Kitts and Nevis,wb_government_effectiveness_se,institutional_control,0.38691,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+LCA,Saint Lucia,wb_government_effectiveness_se,institutional_control,0.342499,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+LIE,Liechtenstein,wb_government_effectiveness_se,institutional_control,0.317307,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+MCO,Monaco,wb_government_effectiveness_se,institutional_control,0.38691,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+MDV,Maldives,wb_government_effectiveness_se,institutional_control,0.337432,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+MHL,Marshall Islands (the),wb_government_effectiveness_se,institutional_control,0.337432,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+NRU,Nauru,wb_government_effectiveness_se,institutional_control,0.433097,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+PLW,Palau,wb_government_effectiveness_se,institutional_control,0.433097,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+SMR,San Marino,wb_government_effectiveness_se,institutional_control,0.38691,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+TUV,Tuvalu,wb_government_effectiveness_se,institutional_control,0.337432,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+VCT,Saint Vincent and the Grenadines,wb_government_effectiveness_se,institutional_control,0.342499,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+WSM,Samoa,wb_government_effectiveness_se,institutional_control,0.333549,0.212453,0.238634,0.026182,0.133907,0.31718,above,3.0
+HKG,Hong Kong,wb_high_tech_exports_pct_manufactured,socioeconomic_control,75.570691,2.133129,17.448781,15.315652,-43.813827,63.395738,above,3.0
+WSM,Samoa,wb_high_tech_exports_pct_manufactured,socioeconomic_control,76.670064,2.133129,17.448781,15.315652,-43.813827,63.395738,above,3.0
+AND,Andorra,wb_ict_goods_exports_pct,socioeconomic_control,12.56,0.08,2.82,2.74,-8.14,11.04,above,3.0
+CHN,China,wb_ict_goods_exports_pct,socioeconomic_control,22.64,0.08,2.82,2.74,-8.14,11.04,above,3.0
+CZE,Czech Republic,wb_ict_goods_exports_pct,socioeconomic_control,16.1,0.08,2.82,2.74,-8.14,11.04,above,3.0
+HKG,Hong Kong,wb_ict_goods_exports_pct,socioeconomic_control,62.47,0.08,2.82,2.74,-8.14,11.04,above,3.0
+ISR,Israel,wb_ict_goods_exports_pct,socioeconomic_control,13.45,0.08,2.82,2.74,-8.14,11.04,above,3.0
+KOR,South Korea,wb_ict_goods_exports_pct,socioeconomic_control,27.66,0.08,2.82,2.74,-8.14,11.04,above,3.0
+MEX,Mexico,wb_ict_goods_exports_pct,socioeconomic_control,13.72,0.08,2.82,2.74,-8.14,11.04,above,3.0
+MLT,Malta,wb_ict_goods_exports_pct,socioeconomic_control,25.7,0.08,2.82,2.74,-8.14,11.04,above,3.0
+MYS,Malaysia,wb_ict_goods_exports_pct,socioeconomic_control,32.19,0.08,2.82,2.74,-8.14,11.04,above,3.0
+PAN,Panama,wb_ict_goods_exports_pct,socioeconomic_control,17.82,0.08,2.82,2.74,-8.14,11.04,above,3.0
+PHL,Philippines (the),wb_ict_goods_exports_pct,socioeconomic_control,50.71,0.08,2.82,2.74,-8.14,11.04,above,3.0
+SGP,Singapore,wb_ict_goods_exports_pct,socioeconomic_control,32.68,0.08,2.82,2.74,-8.14,11.04,above,3.0
+THA,Thailand,wb_ict_goods_exports_pct,socioeconomic_control,16.12,0.08,2.82,2.74,-8.14,11.04,above,3.0
+VNM,Vietnam,wb_ict_goods_exports_pct,socioeconomic_control,38.0,0.08,2.82,2.74,-8.14,11.04,above,3.0
+GIN,Guinea,wb_ict_service_exports_pct,socioeconomic_control,51.769663,2.240403,11.963953,9.723551,-26.930249,41.134605,above,3.0
+IND,India,wb_ict_service_exports_pct,socioeconomic_control,47.413557,2.240403,11.963953,9.723551,-26.930249,41.134605,above,3.0
+IRL,Ireland,wb_ict_service_exports_pct,socioeconomic_control,57.369607,2.240403,11.963953,9.723551,-26.930249,41.134605,above,3.0
+ISR,Israel,wb_ict_service_exports_pct,socioeconomic_control,63.961715,2.240403,11.963953,9.723551,-26.930249,41.134605,above,3.0
+KWT,Kuwait,wb_ict_service_exports_pct,socioeconomic_control,44.781131,2.240403,11.963953,9.723551,-26.930249,41.134605,above,3.0
+PAK,Pakistan,wb_ict_service_exports_pct,socioeconomic_control,44.841978,2.240403,11.963953,9.723551,-26.930249,41.134605,above,3.0
+AGO,Angola,wb_inflation_consumer_prices,socioeconomic_control,28.240495,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+ARG,Argentina,wb_inflation_consumer_prices,socioeconomic_control,219.883929,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+BDI,Burundi,wb_inflation_consumer_prices,socioeconomic_control,20.212493,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+EGY,Egypt,wb_inflation_consumer_prices,socioeconomic_control,28.27059,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+ETH,Ethiopia,wb_inflation_consumer_prices,socioeconomic_control,21.037746,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+GHA,Ghana,wb_inflation_consumer_prices,socioeconomic_control,22.848328,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+HTI,Haiti,wb_inflation_consumer_prices,socioeconomic_control,26.949056,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+IRN,Iran,wb_inflation_consumer_prices,socioeconomic_control,32.455871,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+LAO,Laos,wb_inflation_consumer_prices,socioeconomic_control,23.13057,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+LBN,Lebanon,wb_inflation_consumer_prices,socioeconomic_control,45.243042,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+MWI,Malawi,wb_inflation_consumer_prices,socioeconomic_control,32.17965,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+NGA,Nigeria,wb_inflation_consumer_prices,socioeconomic_control,33.242097,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+PSE,Palestine,wb_inflation_consumer_prices,socioeconomic_control,53.669146,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+SDN,Sudan (the),wb_inflation_consumer_prices,socioeconomic_control,138.80846,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+SLE,Sierra Leone,wb_inflation_consumer_prices,socioeconomic_control,28.63375,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+SSD,South Sudan,wb_inflation_consumer_prices,socioeconomic_control,91.440822,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+TUR,Turkiye,wb_inflation_consumer_prices,socioeconomic_control,58.506451,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+ZWE,Zimbabwe,wb_inflation_consumer_prices,socioeconomic_control,104.705171,1.80023,5.408744,3.608514,-9.025311,16.234284,above,3.0
+IRQ,Iraq,wb_inflation_consumer_prices,socioeconomic_control,-12.296984,1.80023,5.408744,3.608514,-9.025311,16.234284,below,3.0
+BGD,Bangladesh,wb_labor_force,socioeconomic_control,74739682.0,1391230.0,13250486.0,11859256.0,-34186538.0,48828254.0,above,3.0
+BRA,Brazil,wb_labor_force,socioeconomic_control,108318282.0,1391230.0,13250486.0,11859256.0,-34186538.0,48828254.0,above,3.0
+CHN,China,wb_labor_force,socioeconomic_control,767626880.0,1391230.0,13250486.0,11859256.0,-34186538.0,48828254.0,above,3.0
+ETH,Ethiopia,wb_labor_force,socioeconomic_control,56779061.0,1391230.0,13250486.0,11859256.0,-34186538.0,48828254.0,above,3.0
+IDN,Indonesia,wb_labor_force,socioeconomic_control,147104597.0,1391230.0,13250486.0,11859256.0,-34186538.0,48828254.0,above,3.0
+IND,India,wb_labor_force,socioeconomic_control,617625336.0,1391230.0,13250486.0,11859256.0,-34186538.0,48828254.0,above,3.0
+JPN,Japan,wb_labor_force,socioeconomic_control,69386649.0,1391230.0,13250486.0,11859256.0,-34186538.0,48828254.0,above,3.0
+MEX,Mexico,wb_labor_force,socioeconomic_control,61707262.0,1391230.0,13250486.0,11859256.0,-34186538.0,48828254.0,above,3.0
+NGA,Nigeria,wb_labor_force,socioeconomic_control,116581818.0,1391230.0,13250486.0,11859256.0,-34186538.0,48828254.0,above,3.0
+PAK,Pakistan,wb_labor_force,socioeconomic_control,85158214.0,1391230.0,13250486.0,11859256.0,-34186538.0,48828254.0,above,3.0
+PHL,Philippines (the),wb_labor_force,socioeconomic_control,52204133.0,1391230.0,13250486.0,11859256.0,-34186538.0,48828254.0,above,3.0
+RUS,Russia,wb_labor_force,socioeconomic_control,72386984.0,1391230.0,13250486.0,11859256.0,-34186538.0,48828254.0,above,3.0
+USA,United States,wb_labor_force,socioeconomic_control,174845690.0,1391230.0,13250486.0,11859256.0,-34186538.0,48828254.0,above,3.0
+VNM,Vietnam,wb_labor_force,socioeconomic_control,57041323.0,1391230.0,13250486.0,11859256.0,-34186538.0,48828254.0,above,3.0
+FJI,Fiji,wb_mobile_subscriptions_per100,socioeconomic_control,574.152333,88.192937,132.548743,44.355806,-44.874482,265.616162,above,3.0
+HKG,Hong Kong,wb_mobile_subscriptions_per100,socioeconomic_control,364.848982,88.192937,132.548743,44.355806,-44.874482,265.616162,above,3.0
+BRA,Brazil,wb_patent_applications_residents,tech_infrastructure_control,4666.0,11.0,882.0,871.0,-2602.0,3495.0,above,3.0
+CAN,Canada,wb_patent_applications_residents,tech_infrastructure_control,4710.0,11.0,882.0,871.0,-2602.0,3495.0,above,3.0
+CHN,China,wb_patent_applications_residents,tech_infrastructure_control,1426644.0,11.0,882.0,871.0,-2602.0,3495.0,above,3.0
+DEU,Germany,wb_patent_applications_residents,tech_infrastructure_control,39822.0,11.0,882.0,871.0,-2602.0,3495.0,above,3.0
+FRA,France,wb_patent_applications_residents,tech_infrastructure_control,13386.0,11.0,882.0,871.0,-2602.0,3495.0,above,3.0
+GBR,United Kingdom,wb_patent_applications_residents,tech_infrastructure_control,11592.0,11.0,882.0,871.0,-2602.0,3495.0,above,3.0
+IND,India,wb_patent_applications_residents,tech_infrastructure_control,26267.0,11.0,882.0,871.0,-2602.0,3495.0,above,3.0
+IRN,Iran,wb_patent_applications_residents,tech_infrastructure_control,10210.0,11.0,882.0,871.0,-2602.0,3495.0,above,3.0
+ITA,Italy,wb_patent_applications_residents,tech_infrastructure_control,10281.0,11.0,882.0,871.0,-2602.0,3495.0,above,3.0
+JPN,Japan,wb_patent_applications_residents,tech_infrastructure_control,222452.0,11.0,882.0,871.0,-2602.0,3495.0,above,3.0
+KOR,South Korea,wb_patent_applications_residents,tech_infrastructure_control,186245.0,11.0,882.0,871.0,-2602.0,3495.0,above,3.0
+PRK,North Korea,wb_patent_applications_residents,tech_infrastructure_control,6937.0,11.0,882.0,871.0,-2602.0,3495.0,above,3.0
+RUS,Russia,wb_patent_applications_residents,tech_infrastructure_control,19569.0,11.0,882.0,871.0,-2602.0,3495.0,above,3.0
+TUR,Turkiye,wb_patent_applications_residents,tech_infrastructure_control,8234.0,11.0,882.0,871.0,-2602.0,3495.0,above,3.0
+USA,United States,wb_patent_applications_residents,tech_infrastructure_control,262244.0,11.0,882.0,871.0,-2602.0,3495.0,above,3.0
+ATG,Antigua and Barbuda,wb_political_stability_se,institutional_control,0.300082,0.237364,0.251855,0.014491,0.19389,0.295328,above,3.0
+DMA,Dominica,wb_political_stability_se,institutional_control,0.300082,0.237364,0.251855,0.014491,0.19389,0.295328,above,3.0
+GRD,Grenada,wb_political_stability_se,institutional_control,0.300082,0.237364,0.251855,0.014491,0.19389,0.295328,above,3.0
+KNA,Saint Kitts and Nevis,wb_political_stability_se,institutional_control,0.300082,0.237364,0.251855,0.014491,0.19389,0.295328,above,3.0
+LCA,Saint Lucia,wb_political_stability_se,institutional_control,0.300082,0.237364,0.251855,0.014491,0.19389,0.295328,above,3.0
+MCO,Monaco,wb_political_stability_se,institutional_control,0.309324,0.237364,0.251855,0.014491,0.19389,0.295328,above,3.0
+NRU,Nauru,wb_political_stability_se,institutional_control,0.309324,0.237364,0.251855,0.014491,0.19389,0.295328,above,3.0
+PLW,Palau,wb_political_stability_se,institutional_control,0.309324,0.237364,0.251855,0.014491,0.19389,0.295328,above,3.0
+SMR,San Marino,wb_political_stability_se,institutional_control,0.309324,0.237364,0.251855,0.014491,0.19389,0.295328,above,3.0
+VCT,Saint Vincent and the Grenadines,wb_political_stability_se,institutional_control,0.300082,0.237364,0.251855,0.014491,0.19389,0.295328,above,3.0
+BGD,Bangladesh,wb_population,socioeconomic_control,173562364.0,2127400.0,31934230.0,29806830.0,-87293090.0,121354720.0,above,3.0
+BRA,Brazil,wb_population,socioeconomic_control,211998573.0,2127400.0,31934230.0,29806830.0,-87293090.0,121354720.0,above,3.0
+CHN,China,wb_population,socioeconomic_control,1408975000.0,2127400.0,31934230.0,29806830.0,-87293090.0,121354720.0,above,3.0
+ETH,Ethiopia,wb_population,socioeconomic_control,132059767.0,2127400.0,31934230.0,29806830.0,-87293090.0,121354720.0,above,3.0
+IDN,Indonesia,wb_population,socioeconomic_control,283487931.0,2127400.0,31934230.0,29806830.0,-87293090.0,121354720.0,above,3.0
+IND,India,wb_population,socioeconomic_control,1450935791.0,2127400.0,31934230.0,29806830.0,-87293090.0,121354720.0,above,3.0
+JPN,Japan,wb_population,socioeconomic_control,123975371.0,2127400.0,31934230.0,29806830.0,-87293090.0,121354720.0,above,3.0
+MEX,Mexico,wb_population,socioeconomic_control,130861007.0,2127400.0,31934230.0,29806830.0,-87293090.0,121354720.0,above,3.0
+NGA,Nigeria,wb_population,socioeconomic_control,232679478.0,2127400.0,31934230.0,29806830.0,-87293090.0,121354720.0,above,3.0
+PAK,Pakistan,wb_population,socioeconomic_control,251269164.0,2127400.0,31934230.0,29806830.0,-87293090.0,121354720.0,above,3.0
+RUS,Russia,wb_population,socioeconomic_control,143533851.0,2127400.0,31934230.0,29806830.0,-87293090.0,121354720.0,above,3.0
+USA,United States,wb_population,socioeconomic_control,340110988.0,2127400.0,31934230.0,29806830.0,-87293090.0,121354720.0,above,3.0
+ISR,Israel,wb_rd_expenditure_pct_gdp,socioeconomic_control,6.34589,0.19997,1.4943,1.29433,-3.68302,5.37729,above,3.0
+LIE,Liechtenstein,wb_rd_expenditure_pct_gdp,socioeconomic_control,6.00984,0.19997,1.4943,1.29433,-3.68302,5.37729,above,3.0
+ATG,Antigua and Barbuda,wb_regulatory_quality_se,institutional_control,0.346377,0.190169,0.216344,0.026175,0.111645,0.294867,above,3.0
+FJI,Fiji,wb_regulatory_quality_se,institutional_control,0.299651,0.190169,0.216344,0.026175,0.111645,0.294867,above,3.0
+FSM,Micronesia (Federated States of),wb_regulatory_quality_se,institutional_control,0.299651,0.190169,0.216344,0.026175,0.111645,0.294867,above,3.0
+KIR,Kiribati,wb_regulatory_quality_se,institutional_control,0.299651,0.190169,0.216344,0.026175,0.111645,0.294867,above,3.0
+KNA,Saint Kitts and Nevis,wb_regulatory_quality_se,institutional_control,0.346377,0.190169,0.216344,0.026175,0.111645,0.294867,above,3.0
+LIE,Liechtenstein,wb_regulatory_quality_se,institutional_control,0.302667,0.190169,0.216344,0.026175,0.111645,0.294867,above,3.0
+MCO,Monaco,wb_regulatory_quality_se,institutional_control,0.484918,0.190169,0.216344,0.026175,0.111645,0.294867,above,3.0
+MDV,Maldives,wb_regulatory_quality_se,institutional_control,0.299651,0.190169,0.216344,0.026175,0.111645,0.294867,above,3.0
+MHL,Marshall Islands (the),wb_regulatory_quality_se,institutional_control,0.324287,0.190169,0.216344,0.026175,0.111645,0.294867,above,3.0
+NRU,Nauru,wb_regulatory_quality_se,institutional_control,0.455315,0.190169,0.216344,0.026175,0.111645,0.294867,above,3.0
+PLW,Palau,wb_regulatory_quality_se,institutional_control,0.455315,0.190169,0.216344,0.026175,0.111645,0.294867,above,3.0
+PSE,Palestine,wb_regulatory_quality_se,institutional_control,0.326937,0.190169,0.216344,0.026175,0.111645,0.294867,above,3.0
+SMR,San Marino,wb_regulatory_quality_se,institutional_control,0.484918,0.190169,0.216344,0.026175,0.111645,0.294867,above,3.0
+TUV,Tuvalu,wb_regulatory_quality_se,institutional_control,0.324287,0.190169,0.216344,0.026175,0.111645,0.294867,above,3.0
+WSM,Samoa,wb_regulatory_quality_se,institutional_control,0.298749,0.190169,0.216344,0.026175,0.111645,0.294867,above,3.0
+LIE,Liechtenstein,wb_researchers_rd_per_million,socioeconomic_control,18129.75165,305.02474,3904.043035,3599.018295,-10492.030145,14701.09792,above,3.0
+MCO,Monaco,wb_rule_of_law_se,institutional_control,0.361625,0.147094,0.183853,0.036759,0.036819,0.294128,above,3.0
+NRU,Nauru,wb_rule_of_law_se,institutional_control,0.356632,0.147094,0.183853,0.036759,0.036819,0.294128,above,3.0
+PLW,Palau,wb_rule_of_law_se,institutional_control,0.356632,0.147094,0.183853,0.036759,0.036819,0.294128,above,3.0
+SMR,San Marino,wb_rule_of_law_se,institutional_control,0.361625,0.147094,0.183853,0.036759,0.036819,0.294128,above,3.0
+BLZ,Belize,wb_secure_servers_per_1m,socioeconomic_control,464560.075958,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+CHE,Switzerland,wb_secure_servers_per_1m,socioeconomic_control,167357.645514,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+CYP,Cyprus,wb_secure_servers_per_1m,socioeconomic_control,221297.933713,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+CZE,Czech Republic,wb_secure_servers_per_1m,socioeconomic_control,79335.88066,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+DEU,Germany,wb_secure_servers_per_1m,socioeconomic_control,152113.844012,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+DMA,Dominica,wb_secure_servers_per_1m,socioeconomic_control,62865.342497,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+DNK,Denmark,wb_secure_servers_per_1m,socioeconomic_control,246545.58681,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+EST,Estonia,wb_secure_servers_per_1m,socioeconomic_control,139022.298394,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+FIN,Finland,wb_secure_servers_per_1m,socioeconomic_control,177933.600728,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+FRA,France,wb_secure_servers_per_1m,socioeconomic_control,57274.636397,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+GBR,United Kingdom,wb_secure_servers_per_1m,socioeconomic_control,68449.195389,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+HKG,Hong Kong,wb_secure_servers_per_1m,socioeconomic_control,156139.206018,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+HUN,Hungary,wb_secure_servers_per_1m,socioeconomic_control,55077.433588,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+IRL,Ireland,wb_secure_servers_per_1m,socioeconomic_control,121467.848082,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+ISL,Iceland,wb_secure_servers_per_1m,socioeconomic_control,88084.01422,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+LIE,Liechtenstein,wb_secure_servers_per_1m,socioeconomic_control,60321.384425,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+LTU,Lithuania,wb_secure_servers_per_1m,socioeconomic_control,98553.186362,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+LUX,Luxembourg,wb_secure_servers_per_1m,socioeconomic_control,58437.664325,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+NLD,Netherlands (Kingdom of the),wb_secure_servers_per_1m,socioeconomic_control,198682.411995,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+SGP,Singapore,wb_secure_servers_per_1m,socioeconomic_control,209665.45522,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+SVN,Slovenia,wb_secure_servers_per_1m,socioeconomic_control,68783.491586,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+SWE,Sweden,wb_secure_servers_per_1m,socioeconomic_control,55097.259537,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+SYC,Seychelles,wb_secure_servers_per_1m,socioeconomic_control,139583.367668,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+USA,United States,wb_secure_servers_per_1m,socioeconomic_control,196554.134852,97.267849,12782.596854,12685.329005,-37958.719167,50838.583871,above,3.0
+HKG,Hong Kong,wb_trade_pct_gdp,socioeconomic_control,359.506711,51.706608,112.241184,60.534577,-129.897122,293.844914,above,3.0
+LUX,Luxembourg,wb_trade_pct_gdp,socioeconomic_control,351.267921,51.706608,112.241184,60.534577,-129.897122,293.844914,above,3.0
+SGP,Singapore,wb_trade_pct_gdp,socioeconomic_control,322.371428,51.706608,112.241184,60.534577,-129.897122,293.844914,above,3.0
+SMR,San Marino,wb_trade_pct_gdp,socioeconomic_control,340.983395,51.706608,112.241184,60.534577,-129.897122,293.844914,above,3.0
+DJI,Djibouti,wb_unemployment_rate,socioeconomic_control,26.015,3.227,8.54,5.313,-12.712,24.479,above,3.0
+SWZ,Swaziland,wb_unemployment_rate,socioeconomic_control,34.202,3.227,8.54,5.313,-12.712,24.479,above,3.0
+ZAF,South Africa,wb_unemployment_rate,socioeconomic_control,32.391,3.227,8.54,5.313,-12.712,24.479,above,3.0
+FSM,Micronesia (Federated States of),wb_voice_accountability_se,institutional_control,0.319396,0.151615,0.177114,0.025498,0.075121,0.253608,above,3.0
+KIR,Kiribati,wb_voice_accountability_se,institutional_control,0.319396,0.151615,0.177114,0.025498,0.075121,0.253608,above,3.0
+LIE,Liechtenstein,wb_voice_accountability_se,institutional_control,0.273957,0.151615,0.177114,0.025498,0.075121,0.253608,above,3.0
+MCO,Monaco,wb_voice_accountability_se,institutional_control,0.41932,0.151615,0.177114,0.025498,0.075121,0.253608,above,3.0
+MHL,Marshall Islands (the),wb_voice_accountability_se,institutional_control,0.319396,0.151615,0.177114,0.025498,0.075121,0.253608,above,3.0
+NRU,Nauru,wb_voice_accountability_se,institutional_control,0.419121,0.151615,0.177114,0.025498,0.075121,0.253608,above,3.0
+PLW,Palau,wb_voice_accountability_se,institutional_control,0.419121,0.151615,0.177114,0.025498,0.075121,0.253608,above,3.0
+PRI,Puerto Rico,wb_voice_accountability_se,institutional_control,0.364878,0.151615,0.177114,0.025498,0.075121,0.253608,above,3.0
+SLB,Solomon Islands,wb_voice_accountability_se,institutional_control,0.254695,0.151615,0.177114,0.025498,0.075121,0.253608,above,3.0
+SMR,San Marino,wb_voice_accountability_se,institutional_control,0.41932,0.151615,0.177114,0.025498,0.075121,0.253608,above,3.0
+TON,Tonga,wb_voice_accountability_se,institutional_control,0.297926,0.151615,0.177114,0.025498,0.075121,0.253608,above,3.0
+TUV,Tuvalu,wb_voice_accountability_se,institutional_control,0.319396,0.151615,0.177114,0.025498,0.075121,0.253608,above,3.0
+VUT,Vanuatu,wb_voice_accountability_se,institutional_control,0.254695,0.151615,0.177114,0.025498,0.075121,0.253608,above,3.0
+WSM,Samoa,wb_voice_accountability_se,institutional_control,0.297926,0.151615,0.177114,0.025498,0.075121,0.253608,above,3.0
+BLR,Belarus,wipo_appcrea_score,ecosystem_outcome,100.0,0.606723,20.528101,19.921378,-59.157411,80.292235,above,3.0
+CYP,Cyprus,wipo_appcrea_score,ecosystem_outcome,100.0,0.606723,20.528101,19.921378,-59.157411,80.292235,above,3.0
+HKG,Hong Kong,wipo_appcrea_score,ecosystem_outcome,84.922364,0.606723,20.528101,19.921378,-59.157411,80.292235,above,3.0
+ISR,Israel,wipo_appcrea_score,ecosystem_outcome,100.0,0.606723,20.528101,19.921378,-59.157411,80.292235,above,3.0
+LTU,Lithuania,wipo_appcrea_score,ecosystem_outcome,85.990491,0.606723,20.528101,19.921378,-59.157411,80.292235,above,3.0
+SGP,Singapore,wipo_appcrea_score,ecosystem_outcome,100.0,0.606723,20.528101,19.921378,-59.157411,80.292235,above,3.0
+HKG,Hong Kong,wipo_brandval_score,ecosystem_outcome,100.0,0.0,22.023071,22.023071,-66.069214,88.092285,above,3.0
+BRN,Brunei,wipo_c_hhi_score,tech_infrastructure_control,0.0,77.49061,94.76251,17.2719,25.674909,146.578211,below,3.0
+BWA,Botswana,wipo_c_hhi_score,tech_infrastructure_control,22.29233,77.49061,94.76251,17.2719,25.674909,146.578211,below,3.0
+CHN,China,wipo_c_htexphkg_score,tech_infrastructure_control,100.0,1.381716,22.043386,20.66167,-60.603295,84.028398,above,3.0
+CZE,Czech Republic,wipo_c_htexphkg_score,tech_infrastructure_control,87.279522,1.381716,22.043386,20.66167,-60.603295,84.028398,above,3.0
+KOR,South Korea,wipo_c_htexphkg_score,tech_infrastructure_control,100.0,1.381716,22.043386,20.66167,-60.603295,84.028398,above,3.0
+MYS,Malaysia,wipo_c_htexphkg_score,tech_infrastructure_control,100.0,1.381716,22.043386,20.66167,-60.603295,84.028398,above,3.0
+PHL,Philippines (the),wipo_c_htexphkg_score,tech_infrastructure_control,100.0,1.381716,22.043386,20.66167,-60.603295,84.028398,above,3.0
+SGP,Singapore,wipo_c_htexphkg_score,tech_infrastructure_control,100.0,1.381716,22.043386,20.66167,-60.603295,84.028398,above,3.0
+VNM,Vietnam,wipo_c_htexphkg_score,tech_infrastructure_control,100.0,1.381716,22.043386,20.66167,-60.603295,84.028398,above,3.0
+CAN,Canada,wipo_c_vencapdeal_score,tech_infrastructure_control,100.0,3.282183,22.470498,19.188315,-54.282763,80.035443,above,3.0
+EST,Estonia,wipo_c_vencapdeal_score,tech_infrastructure_control,89.815546,3.282183,22.470498,19.188315,-54.282763,80.035443,above,3.0
+ISR,Israel,wipo_c_vencapdeal_score,tech_infrastructure_control,100.0,3.282183,22.470498,19.188315,-54.282763,80.035443,above,3.0
+SGP,Singapore,wipo_c_vencapdeal_score,tech_infrastructure_control,100.0,3.282183,22.470498,19.188315,-54.282763,80.035443,above,3.0
+USA,United States,wipo_c_vencapdeal_score,tech_infrastructure_control,100.0,3.282183,22.470498,19.188315,-54.282763,80.035443,above,3.0
+AUT,Austria,wipo_cctld_score,tech_infrastructure_control,63.332321,0.445027,14.370884,13.925856,-41.332541,56.148452,above,3.0
+BEL,Belgium,wipo_cctld_score,tech_infrastructure_control,63.095731,0.445027,14.370884,13.925856,-41.332541,56.148452,above,3.0
+CHE,Switzerland,wipo_cctld_score,tech_infrastructure_control,100.0,0.445027,14.370884,13.925856,-41.332541,56.148452,above,3.0
+DEU,Germany,wipo_cctld_score,tech_infrastructure_control,84.771438,0.445027,14.370884,13.925856,-41.332541,56.148452,above,3.0
+DNK,Denmark,wipo_cctld_score,tech_infrastructure_control,100.0,0.445027,14.370884,13.925856,-41.332541,56.148452,above,3.0
+GBR,United Kingdom,wipo_cctld_score,tech_infrastructure_control,69.42593,0.445027,14.370884,13.925856,-41.332541,56.148452,above,3.0
+ISL,Iceland,wipo_cctld_score,tech_infrastructure_control,94.518465,0.445027,14.370884,13.925856,-41.332541,56.148452,above,3.0
+LUX,Luxembourg,wipo_cctld_score,tech_infrastructure_control,68.678052,0.445027,14.370884,13.925856,-41.332541,56.148452,above,3.0
+MNE,Montenegro,wipo_cctld_score,tech_infrastructure_control,100.0,0.445027,14.370884,13.925856,-41.332541,56.148452,above,3.0
+NLD,Netherlands (Kingdom of the),wipo_cctld_score,tech_infrastructure_control,100.0,0.445027,14.370884,13.925856,-41.332541,56.148452,above,3.0
+NOR,Norway,wipo_cctld_score,tech_infrastructure_control,63.021663,0.445027,14.370884,13.925856,-41.332541,56.148452,above,3.0
+NZL,New Zealand,wipo_cctld_score,tech_infrastructure_control,64.633367,0.445027,14.370884,13.925856,-41.332541,56.148452,above,3.0
+SWE,Sweden,wipo_cctld_score,tech_infrastructure_control,69.648113,0.445027,14.370884,13.925856,-41.332541,56.148452,above,3.0
+USA,United States,wipo_compsoftspend_score,tech_infrastructure_control,100.0,6.298498,28.587988,22.28949,-60.569971,95.456457,above,3.0
+ARE,United Arab Emirates,wipo_creagoodexp_score,ecosystem_outcome,82.536282,1.179689,20.129481,18.949792,-55.669686,76.978857,above,3.0
+CHN,China,wipo_creagoodexp_score,ecosystem_outcome,100.0,1.179689,20.129481,18.949792,-55.669686,76.978857,above,3.0
+CZE,Czech Republic,wipo_creagoodexp_score,ecosystem_outcome,100.0,1.179689,20.129481,18.949792,-55.669686,76.978857,above,3.0
+HKG,Hong Kong,wipo_creagoodexp_score,ecosystem_outcome,100.0,1.179689,20.129481,18.949792,-55.669686,76.978857,above,3.0
+HUN,Hungary,wipo_creagoodexp_score,ecosystem_outcome,82.428197,1.179689,20.129481,18.949792,-55.669686,76.978857,above,3.0
+MEX,Mexico,wipo_creagoodexp_score,ecosystem_outcome,100.0,1.179689,20.129481,18.949792,-55.669686,76.978857,above,3.0
+MYS,Malaysia,wipo_creagoodexp_score,ecosystem_outcome,100.0,1.179689,20.129481,18.949792,-55.669686,76.978857,above,3.0
+SVK,Slovakia,wipo_creagoodexp_score,ecosystem_outcome,77.045065,1.179689,20.129481,18.949792,-55.669686,76.978857,above,3.0
+THA,Thailand,wipo_creagoodexp_score,ecosystem_outcome,78.540858,1.179689,20.129481,18.949792,-55.669686,76.978857,above,3.0
+CRI,Costa Rica,wipo_cultservexp_score,tech_infrastructure_control,100.0,3.290996,27.263364,23.972368,-68.626107,99.180466,above,3.0
+LUX,Luxembourg,wipo_cultservexp_score,tech_infrastructure_control,100.0,3.290996,27.263364,23.972368,-68.626107,99.180466,above,3.0
+MLT,Malta,wipo_cultservexp_score,tech_infrastructure_control,100.0,3.290996,27.263364,23.972368,-68.626107,99.180466,above,3.0
+SGP,Singapore,wipo_cultservexp_score,tech_infrastructure_control,100.0,3.290996,27.263364,23.972368,-68.626107,99.180466,above,3.0
+ISL,Iceland,wipo_elecout_score,ecosystem_outcome,100.0,4.318372,23.101652,18.78328,-52.031468,79.451493,above,3.0
+NOR,Norway,wipo_elecout_score,ecosystem_outcome,100.0,4.318372,23.101652,18.78328,-52.031468,79.451493,above,3.0
+CYP,Cyprus,wipo_fdinetinfl_score,tech_infrastructure_control,100.0,40.140347,45.349396,5.209049,24.513201,60.976542,above,3.0
+HKG,Hong Kong,wipo_fdinetinfl_score,tech_infrastructure_control,94.684383,40.140347,45.349396,5.209049,24.513201,60.976542,above,3.0
+KHM,Cambodia,wipo_fdinetinfl_score,tech_infrastructure_control,65.921981,40.140347,45.349396,5.209049,24.513201,60.976542,above,3.0
+MLT,Malta,wipo_fdinetinfl_score,tech_infrastructure_control,100.0,40.140347,45.349396,5.209049,24.513201,60.976542,above,3.0
+MNG,Mongolia,wipo_fdinetinfl_score,tech_infrastructure_control,70.529739,40.140347,45.349396,5.209049,24.513201,60.976542,above,3.0
+MOZ,Mozambique,wipo_fdinetinfl_score,tech_infrastructure_control,73.787775,40.140347,45.349396,5.209049,24.513201,60.976542,above,3.0
+SGP,Singapore,wipo_fdinetinfl_score,tech_infrastructure_control,96.989387,40.140347,45.349396,5.209049,24.513201,60.976542,above,3.0
+AGO,Angola,wipo_fdinetinfl_score,tech_infrastructure_control,24.509164,40.140347,45.349396,5.209049,24.513201,60.976542,below,3.0
+BEL,Belgium,wipo_fdinetinfl_score,tech_infrastructure_control,21.837585,40.140347,45.349396,5.209049,24.513201,60.976542,below,3.0
+HUN,Hungary,wipo_fdinetinfl_score,tech_infrastructure_control,15.481186,40.140347,45.349396,5.209049,24.513201,60.976542,below,3.0
+ISL,Iceland,wipo_fdinetinfl_score,tech_infrastructure_control,12.757379,40.140347,45.349396,5.209049,24.513201,60.976542,below,3.0
+LUX,Luxembourg,wipo_fdinetinfl_score,tech_infrastructure_control,0.0,40.140347,45.349396,5.209049,24.513201,60.976542,below,3.0
+AUS,Australia,wipo_gentld_score,tech_infrastructure_control,62.333492,0.871288,13.396591,12.525304,-36.704623,50.972502,above,3.0
+CAN,Canada,wipo_gentld_score,tech_infrastructure_control,78.581378,0.871288,13.396591,12.525304,-36.704623,50.972502,above,3.0
+CHE,Switzerland,wipo_gentld_score,tech_infrastructure_control,59.177099,0.871288,13.396591,12.525304,-36.704623,50.972502,above,3.0
+CYP,Cyprus,wipo_gentld_score,tech_infrastructure_control,72.335005,0.871288,13.396591,12.525304,-36.704623,50.972502,above,3.0
+DEU,Germany,wipo_gentld_score,tech_infrastructure_control,52.066536,0.871288,13.396591,12.525304,-36.704623,50.972502,above,3.0
+GBR,United Kingdom,wipo_gentld_score,tech_infrastructure_control,60.134264,0.871288,13.396591,12.525304,-36.704623,50.972502,above,3.0
+HKG,Hong Kong,wipo_gentld_score,tech_infrastructure_control,73.973148,0.871288,13.396591,12.525304,-36.704623,50.972502,above,3.0
+IRL,Ireland,wipo_gentld_score,tech_infrastructure_control,58.794758,0.871288,13.396591,12.525304,-36.704623,50.972502,above,3.0
+ISL,Iceland,wipo_gentld_score,tech_infrastructure_control,100.0,0.871288,13.396591,12.525304,-36.704623,50.972502,above,3.0
+LUX,Luxembourg,wipo_gentld_score,tech_infrastructure_control,84.348924,0.871288,13.396591,12.525304,-36.704623,50.972502,above,3.0
+MLT,Malta,wipo_gentld_score,tech_infrastructure_control,95.813448,0.871288,13.396591,12.525304,-36.704623,50.972502,above,3.0
+NLD,Netherlands (Kingdom of the),wipo_gentld_score,tech_infrastructure_control,78.86768,0.871288,13.396591,12.525304,-36.704623,50.972502,above,3.0
+PAN,Panama,wipo_gentld_score,tech_infrastructure_control,56.417441,0.871288,13.396591,12.525304,-36.704623,50.972502,above,3.0
+USA,United States,wipo_gentld_score,tech_infrastructure_control,100.0,0.871288,13.396591,12.525304,-36.704623,50.972502,above,3.0
+ISL,Iceland,wipo_gerdfinabr_score,tech_infrastructure_control,100.0,1.567922,23.723999,22.156077,-64.900309,90.192229,above,3.0
+ISR,Israel,wipo_gerdfinabr_score,tech_infrastructure_control,100.0,1.567922,23.723999,22.156077,-64.900309,90.192229,above,3.0
+ISR,Israel,wipo_gerdperf_score,tech_infrastructure_control,100.0,1.41047,20.734027,19.323558,-56.560203,78.7047,above,3.0
+KOR,South Korea,wipo_gerdperf_score,tech_infrastructure_control,84.914187,1.41047,20.734027,19.323558,-56.560203,78.7047,above,3.0
+TUN,Tunisia,wipo_govfundpup_score,tech_infrastructure_control,100.0,19.819718,37.101932,17.282214,-32.026925,88.948574,above,3.0
+MOZ,Mozambique,wipo_grocap_score,tech_infrastructure_control,100.0,21.402881,34.827207,13.424327,-18.8701,75.100188,above,3.0
+CHN,China,wipo_hitechimp_score,tech_infrastructure_control,84.333147,17.152459,33.423722,16.271263,-31.66133,82.237511,above,3.0
+HKG,Hong Kong,wipo_hitechimp_score,tech_infrastructure_control,100.0,17.152459,33.423722,16.271263,-31.66133,82.237511,above,3.0
+MYS,Malaysia,wipo_hitechimp_score,tech_infrastructure_control,95.070685,17.152459,33.423722,16.271263,-31.66133,82.237511,above,3.0
+PHL,Philippines (the),wipo_hitechimp_score,tech_infrastructure_control,100.0,17.152459,33.423722,16.271263,-31.66133,82.237511,above,3.0
+PRY,Paraguay,wipo_hitechimp_score,tech_infrastructure_control,84.254494,17.152459,33.423722,16.271263,-31.66133,82.237511,above,3.0
+VNM,Vietnam,wipo_hitechimp_score,tech_infrastructure_control,95.799369,17.152459,33.423722,16.271263,-31.66133,82.237511,above,3.0
+CYP,Cyprus,wipo_ictservexp_score,tech_infrastructure_control,100.0,4.957039,26.186929,21.22989,-58.73263,89.876599,above,3.0
+FIN,Finland,wipo_ictservexp_score,tech_infrastructure_control,96.161748,4.957039,26.186929,21.22989,-58.73263,89.876599,above,3.0
+IND,India,wipo_ictservexp_score,tech_infrastructure_control,100.0,4.957039,26.186929,21.22989,-58.73263,89.876599,above,3.0
+IRL,Ireland,wipo_ictservexp_score,tech_infrastructure_control,100.0,4.957039,26.186929,21.22989,-58.73263,89.876599,above,3.0
+ISR,Israel,wipo_ictservexp_score,tech_infrastructure_control,100.0,4.957039,26.186929,21.22989,-58.73263,89.876599,above,3.0
+ARE,United Arab Emirates,wipo_in_2_2_3_score,tech_infrastructure_control,100.0,2.974532,24.325891,21.35136,-61.079547,88.37997,above,3.0
+LUX,Luxembourg,wipo_in_2_2_3_score,tech_infrastructure_control,100.0,2.974532,24.325891,21.35136,-61.079547,88.37997,above,3.0
+QAT,Qatar,wipo_in_2_2_3_score,tech_infrastructure_control,100.0,2.974532,24.325891,21.35136,-61.079547,88.37997,above,3.0
+ISR,Israel,wipo_in_2_3_2_score,tech_infrastructure_control,100.0,3.0945,22.344767,19.250266,-54.656298,80.095565,above,3.0
+BHR,Bahrain,wipo_in_3_2_1_score,tech_infrastructure_control,100.0,3.800951,24.806634,21.005683,-59.216098,87.823683,above,3.0
+ISL,Iceland,wipo_in_3_2_1_score,tech_infrastructure_control,100.0,3.800951,24.806634,21.005683,-59.216098,87.823683,above,3.0
+NOR,Norway,wipo_in_3_2_1_score,tech_infrastructure_control,100.0,3.800951,24.806634,21.005683,-59.216098,87.823683,above,3.0
+IRL,Ireland,wipo_in_3_3_1_score,tech_infrastructure_control,100.0,14.713018,33.530393,18.817374,-41.739104,89.982515,above,3.0
+BGR,Bulgaria,wipo_in_3_3_3_score,tech_infrastructure_control,100.0,2.208012,20.939988,18.731975,-53.987914,77.135914,above,3.0
+CHN,China,wipo_in_3_3_3_score,tech_infrastructure_control,82.82904,2.208012,20.939988,18.731975,-53.987914,77.135914,above,3.0
+ROU,Romania,wipo_in_3_3_3_score,tech_infrastructure_control,77.217463,2.208012,20.939988,18.731975,-53.987914,77.135914,above,3.0
+SRB,Serbia,wipo_in_3_3_3_score,tech_infrastructure_control,92.804967,2.208012,20.939988,18.731975,-53.987914,77.135914,above,3.0
+HKG,Hong Kong,wipo_in_4_1_2_score,tech_infrastructure_control,100.0,8.200355,30.327798,22.127444,-58.181977,96.71013,above,3.0
+BOL,Bolivia,wipo_in_4_1_3_score,tech_infrastructure_control,100.0,4.393269,28.01155,23.618281,-66.461575,98.866393,above,3.0
+KHM,Cambodia,wipo_in_4_1_3_score,tech_infrastructure_control,100.0,4.393269,28.01155,23.618281,-66.461575,98.866393,above,3.0
+NPL,Nepal,wipo_in_4_1_3_score,tech_infrastructure_control,100.0,4.393269,28.01155,23.618281,-66.461575,98.866393,above,3.0
+HKG,Hong Kong,wipo_in_4_2_1_score,tech_infrastructure_control,100.0,6.324722,28.610268,22.285546,-60.531915,95.466905,above,3.0
+IRN,Iran,wipo_in_4_2_1_score,tech_infrastructure_control,100.0,6.324722,28.610268,22.285546,-60.531915,95.466905,above,3.0
+SAU,Saudi Arabia,wipo_in_4_2_1_score,tech_infrastructure_control,100.0,6.324722,28.610268,22.285546,-60.531915,95.466905,above,3.0
+ZAF,South Africa,wipo_in_4_2_1_score,tech_infrastructure_control,99.568214,6.324722,28.610268,22.285546,-60.531915,95.466905,above,3.0
+EST,Estonia,wipo_in_4_2_2_score,tech_infrastructure_control,100.0,2.477312,20.540149,18.062836,-51.711196,74.728657,above,3.0
+ISL,Iceland,wipo_in_4_2_2_score,tech_infrastructure_control,100.0,2.477312,20.540149,18.062836,-51.711196,74.728657,above,3.0
+ISR,Israel,wipo_in_4_2_2_score,tech_infrastructure_control,100.0,2.477312,20.540149,18.062836,-51.711196,74.728657,above,3.0
+SGP,Singapore,wipo_in_4_2_2_score,tech_infrastructure_control,85.510542,2.477312,20.540149,18.062836,-51.711196,74.728657,above,3.0
+SYC,Seychelles,wipo_in_4_2_2_score,tech_infrastructure_control,100.0,2.477312,20.540149,18.062836,-51.711196,74.728657,above,3.0
+BRB,Barbados,wipo_in_4_2_3_score,tech_infrastructure_control,52.025407,0.205574,6.028243,5.822669,-17.262434,23.49625,above,3.0
+CAN,Canada,wipo_in_4_2_3_score,tech_infrastructure_control,23.960198,0.205574,6.028243,5.822669,-17.262434,23.49625,above,3.0
+CHN,China,wipo_in_4_2_3_score,tech_infrastructure_control,79.603428,0.205574,6.028243,5.822669,-17.262434,23.49625,above,3.0
+FRA,France,wipo_in_4_2_3_score,tech_infrastructure_control,31.175194,0.205574,6.028243,5.822669,-17.262434,23.49625,above,3.0
+GBR,United Kingdom,wipo_in_4_2_3_score,tech_infrastructure_control,52.158637,0.205574,6.028243,5.822669,-17.262434,23.49625,above,3.0
+IND,India,wipo_in_4_2_3_score,tech_infrastructure_control,34.389202,0.205574,6.028243,5.822669,-17.262434,23.49625,above,3.0
+JPN,Japan,wipo_in_4_2_3_score,tech_infrastructure_control,28.21508,0.205574,6.028243,5.822669,-17.262434,23.49625,above,3.0
+KOR,South Korea,wipo_in_4_2_3_score,tech_infrastructure_control,28.535241,0.205574,6.028243,5.822669,-17.262434,23.49625,above,3.0
+MUS,Mauritius,wipo_in_4_2_3_score,tech_infrastructure_control,39.125032,0.205574,6.028243,5.822669,-17.262434,23.49625,above,3.0
+USA,United States,wipo_in_4_2_3_score,tech_infrastructure_control,100.0,0.205574,6.028243,5.822669,-17.262434,23.49625,above,3.0
+CYP,Cyprus,wipo_in_4_2_4_score,tech_infrastructure_control,35.60149,1.068918,9.22942,8.160502,-23.412589,33.710927,above,3.0
+EST,Estonia,wipo_in_4_2_4_score,tech_infrastructure_control,40.927683,1.068918,9.22942,8.160502,-23.412589,33.710927,above,3.0
+LUX,Luxembourg,wipo_in_4_2_4_score,tech_infrastructure_control,48.428366,1.068918,9.22942,8.160502,-23.412589,33.710927,above,3.0
+MUS,Mauritius,wipo_in_4_2_4_score,tech_infrastructure_control,36.143966,1.068918,9.22942,8.160502,-23.412589,33.710927,above,3.0
+SGP,Singapore,wipo_in_4_2_4_score,tech_infrastructure_control,40.961745,1.068918,9.22942,8.160502,-23.412589,33.710927,above,3.0
+SYC,Seychelles,wipo_in_4_2_4_score,tech_infrastructure_control,100.0,1.068918,9.22942,8.160502,-23.412589,33.710927,above,3.0
+CYP,Cyprus,wipo_in_4_2_5_score,tech_infrastructure_control,100.0,1.993945,23.374697,21.380752,-62.148311,87.516953,above,3.0
+EST,Estonia,wipo_in_4_2_5_score,tech_infrastructure_control,100.0,1.993945,23.374697,21.380752,-62.148311,87.516953,above,3.0
+ISL,Iceland,wipo_in_4_2_5_score,tech_infrastructure_control,90.614157,1.993945,23.374697,21.380752,-62.148311,87.516953,above,3.0
+LUX,Luxembourg,wipo_in_4_2_5_score,tech_infrastructure_control,100.0,1.993945,23.374697,21.380752,-62.148311,87.516953,above,3.0
+MUS,Mauritius,wipo_in_4_2_5_score,tech_infrastructure_control,88.460997,1.993945,23.374697,21.380752,-62.148311,87.516953,above,3.0
+SGP,Singapore,wipo_in_4_2_5_score,tech_infrastructure_control,100.0,1.993945,23.374697,21.380752,-62.148311,87.516953,above,3.0
+SYC,Seychelles,wipo_in_4_2_5_score,tech_infrastructure_control,100.0,1.993945,23.374697,21.380752,-62.148311,87.516953,above,3.0
+ISR,Israel,wipo_in_5_1_4_score,tech_infrastructure_control,100.0,1.245603,25.64209,24.396487,-71.943859,98.831552,above,3.0
+KOR,South Korea,wipo_in_5_1_4_score,tech_infrastructure_control,100.0,1.245603,25.64209,24.396487,-71.943859,98.831552,above,3.0
+CHE,Switzerland,wipo_in_5_2_1_score,tech_infrastructure_control,91.128012,5.991896,23.512959,17.521063,-46.571293,76.076148,above,3.0
+CHN,China,wipo_in_5_2_1_score,tech_infrastructure_control,84.022069,5.991896,23.512959,17.521063,-46.571293,76.076148,above,3.0
+JPN,Japan,wipo_in_5_2_1_score,tech_infrastructure_control,100.0,5.991896,23.512959,17.521063,-46.571293,76.076148,above,3.0
+KOR,South Korea,wipo_in_5_2_1_score,tech_infrastructure_control,76.660917,5.991896,23.512959,17.521063,-46.571293,76.076148,above,3.0
+USA,United States,wipo_in_5_2_1_score,tech_infrastructure_control,93.288011,5.991896,23.512959,17.521063,-46.571293,76.076148,above,3.0
+AUT,Austria,wipo_in_5_2_5_score,tech_infrastructure_control,32.419167,0.0,7.222081,7.222081,-21.666242,28.888323,above,3.0
+BRB,Barbados,wipo_in_5_2_5_score,tech_infrastructure_control,100.0,0.0,7.222081,7.222081,-21.666242,28.888323,above,3.0
+CHE,Switzerland,wipo_in_5_2_5_score,tech_infrastructure_control,51.578575,0.0,7.222081,7.222081,-21.666242,28.888323,above,3.0
+DEU,Germany,wipo_in_5_2_5_score,tech_infrastructure_control,39.153933,0.0,7.222081,7.222081,-21.666242,28.888323,above,3.0
+DNK,Denmark,wipo_in_5_2_5_score,tech_infrastructure_control,37.269081,0.0,7.222081,7.222081,-21.666242,28.888323,above,3.0
+FIN,Finland,wipo_in_5_2_5_score,tech_infrastructure_control,47.073027,0.0,7.222081,7.222081,-21.666242,28.888323,above,3.0
+FRA,France,wipo_in_5_2_5_score,tech_infrastructure_control,29.593071,0.0,7.222081,7.222081,-21.666242,28.888323,above,3.0
+ISR,Israel,wipo_in_5_2_5_score,tech_infrastructure_control,39.65435,0.0,7.222081,7.222081,-21.666242,28.888323,above,3.0
+JPN,Japan,wipo_in_5_2_5_score,tech_infrastructure_control,59.922406,0.0,7.222081,7.222081,-21.666242,28.888323,above,3.0
+KOR,South Korea,wipo_in_5_2_5_score,tech_infrastructure_control,59.594384,0.0,7.222081,7.222081,-21.666242,28.888323,above,3.0
+LUX,Luxembourg,wipo_in_5_2_5_score,tech_infrastructure_control,31.88018,0.0,7.222081,7.222081,-21.666242,28.888323,above,3.0
+NLD,Netherlands (Kingdom of the),wipo_in_5_2_5_score,tech_infrastructure_control,36.371203,0.0,7.222081,7.222081,-21.666242,28.888323,above,3.0
+SWE,Sweden,wipo_in_5_2_5_score,tech_infrastructure_control,46.223076,0.0,7.222081,7.222081,-21.666242,28.888323,above,3.0
+USA,United States,wipo_in_5_2_5_score,tech_infrastructure_control,31.420584,0.0,7.222081,7.222081,-21.666242,28.888323,above,3.0
+IRL,Ireland,wipo_in_5_3_1_score,tech_infrastructure_control,100.0,4.337925,21.989457,17.651531,-48.616668,74.94405,above,3.0
+HKG,Hong Kong,wipo_in_5_3_2_score,tech_infrastructure_control,100.0,16.502849,32.501679,15.99883,-31.49364,80.498168,above,3.0
+MYS,Malaysia,wipo_in_5_3_2_score,tech_infrastructure_control,98.775363,16.502849,32.501679,15.99883,-31.49364,80.498168,above,3.0
+VNM,Vietnam,wipo_in_5_3_2_score,tech_infrastructure_control,100.0,16.502849,32.501679,15.99883,-31.49364,80.498168,above,3.0
+CYP,Cyprus,wipo_in_5_3_3_score,tech_infrastructure_control,100.0,8.126173,26.03849,17.912317,-45.610777,79.77544,above,3.0
+MWI,Malawi,wipo_in_5_3_3_score,tech_infrastructure_control,100.0,8.126173,26.03849,17.912317,-45.610777,79.77544,above,3.0
+CYP,Cyprus,wipo_in_5_3_4_score,tech_infrastructure_control,95.712313,41.18917,49.992743,8.803572,14.778453,76.40346,above,3.0
+HKG,Hong Kong,wipo_in_5_3_4_score,tech_infrastructure_control,100.0,41.18917,49.992743,8.803572,14.778453,76.40346,above,3.0
+MLT,Malta,wipo_in_5_3_4_score,tech_infrastructure_control,100.0,41.18917,49.992743,8.803572,14.778453,76.40346,above,3.0
+MNG,Mongolia,wipo_in_5_3_4_score,tech_infrastructure_control,77.829932,41.18917,49.992743,8.803572,14.778453,76.40346,above,3.0
+MOZ,Mozambique,wipo_in_5_3_4_score,tech_infrastructure_control,100.0,41.18917,49.992743,8.803572,14.778453,76.40346,above,3.0
+SGP,Singapore,wipo_in_5_3_4_score,tech_infrastructure_control,100.0,41.18917,49.992743,8.803572,14.778453,76.40346,above,3.0
+CHE,Switzerland,wipo_in_5_3_4_score,tech_infrastructure_control,9.274592,41.18917,49.992743,8.803572,14.778453,76.40346,below,3.0
+LUX,Luxembourg,wipo_in_5_3_4_score,tech_infrastructure_control,0.0,41.18917,49.992743,8.803572,14.778453,76.40346,below,3.0
+NLD,Netherlands (Kingdom of the),wipo_in_5_3_4_score,tech_infrastructure_control,0.0,41.18917,49.992743,8.803572,14.778453,76.40346,below,3.0
+CHN,China,wipo_industdes_score,ecosystem_outcome,100.0,1.856126,16.393277,14.537151,-41.755328,60.004732,above,3.0
+CYP,Cyprus,wipo_industdes_score,ecosystem_outcome,74.015116,1.856126,16.393277,14.537151,-41.755328,60.004732,above,3.0
+FRA,France,wipo_industdes_score,ecosystem_outcome,62.859227,1.856126,16.393277,14.537151,-41.755328,60.004732,above,3.0
+IRN,Iran,wipo_industdes_score,ecosystem_outcome,81.011806,1.856126,16.393277,14.537151,-41.755328,60.004732,above,3.0
+ITA,Italy,wipo_industdes_score,ecosystem_outcome,76.511376,1.856126,16.393277,14.537151,-41.755328,60.004732,above,3.0
+KOR,South Korea,wipo_industdes_score,ecosystem_outcome,100.0,1.856126,16.393277,14.537151,-41.755328,60.004732,above,3.0
+MAR,Morocco,wipo_industdes_score,ecosystem_outcome,60.423218,1.856126,16.393277,14.537151,-41.755328,60.004732,above,3.0
+MDA,Moldova,wipo_industdes_score,ecosystem_outcome,60.557502,1.856126,16.393277,14.537151,-41.755328,60.004732,above,3.0
+MNG,Mongolia,wipo_industdes_score,ecosystem_outcome,100.0,1.856126,16.393277,14.537151,-41.755328,60.004732,above,3.0
+TUR,Turkiye,wipo_industdes_score,ecosystem_outcome,76.834028,1.856126,16.393277,14.537151,-41.755328,60.004732,above,3.0
+IRL,Ireland,wipo_intelproppay_score,tech_infrastructure_control,100.0,4.238995,26.150655,21.911661,-61.495987,91.885637,above,3.0
+LUX,Luxembourg,wipo_intelproppay_score,tech_infrastructure_control,100.0,4.238995,26.150655,21.911661,-61.495987,91.885637,above,3.0
+NLD,Netherlands (Kingdom of the),wipo_intelproppay_score,tech_infrastructure_control,100.0,4.238995,26.150655,21.911661,-61.495987,91.885637,above,3.0
+CHE,Switzerland,wipo_intelproprec_score,tech_infrastructure_control,100.0,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+DEU,Germany,wipo_intelproprec_score,tech_infrastructure_control,42.4467,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+DNK,Denmark,wipo_intelproprec_score,tech_infrastructure_control,57.160124,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+FIN,Finland,wipo_intelproprec_score,tech_infrastructure_control,100.0,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+FRA,France,wipo_intelproprec_score,tech_infrastructure_control,56.775733,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+GBR,United Kingdom,wipo_intelproprec_score,tech_infrastructure_control,87.421746,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+HUN,Hungary,wipo_intelproprec_score,tech_infrastructure_control,39.929648,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+IRL,Ireland,wipo_intelproprec_score,tech_infrastructure_control,90.005649,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+ISL,Iceland,wipo_intelproprec_score,tech_infrastructure_control,73.046493,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+ISR,Israel,wipo_intelproprec_score,tech_infrastructure_control,64.857539,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+JPN,Japan,wipo_intelproprec_score,tech_infrastructure_control,100.0,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+KOR,South Korea,wipo_intelproprec_score,tech_infrastructure_control,35.956583,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+LUX,Luxembourg,wipo_intelproprec_score,tech_infrastructure_control,65.841651,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+MLT,Malta,wipo_intelproprec_score,tech_infrastructure_control,86.266317,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+NLD,Netherlands (Kingdom of the),wipo_intelproprec_score,tech_infrastructure_control,100.0,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+SGP,Singapore,wipo_intelproprec_score,tech_infrastructure_control,43.383388,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+SWE,Sweden,wipo_intelproprec_score,tech_infrastructure_control,98.847216,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+USA,United States,wipo_intelproprec_score,tech_infrastructure_control,100.0,0.604529,9.412005,8.807476,-25.8179,35.834433,above,3.0
+BGR,Bulgaria,wipo_isoenv_score,tech_infrastructure_control,75.464623,1.556234,15.262504,13.70627,-39.562577,56.381315,above,3.0
+BIH,Bosnia and Herzegovina,wipo_isoenv_score,tech_infrastructure_control,100.0,1.556234,15.262504,13.70627,-39.562577,56.381315,above,3.0
+CZE,Czech Republic,wipo_isoenv_score,tech_infrastructure_control,59.829401,1.556234,15.262504,13.70627,-39.562577,56.381315,above,3.0
+EST,Estonia,wipo_isoenv_score,tech_infrastructure_control,62.448591,1.556234,15.262504,13.70627,-39.562577,56.381315,above,3.0
+HRV,Croatia,wipo_isoenv_score,tech_infrastructure_control,60.325687,1.556234,15.262504,13.70627,-39.562577,56.381315,above,3.0
+LTU,Lithuania,wipo_isoenv_score,tech_infrastructure_control,58.732859,1.556234,15.262504,13.70627,-39.562577,56.381315,above,3.0
+MKD,North Macedonia,wipo_isoenv_score,tech_infrastructure_control,61.001765,1.556234,15.262504,13.70627,-39.562577,56.381315,above,3.0
+SRB,Serbia,wipo_isoenv_score,tech_infrastructure_control,62.506681,1.556234,15.262504,13.70627,-39.562577,56.381315,above,3.0
+SVK,Slovakia,wipo_isoenv_score,tech_infrastructure_control,57.282412,1.556234,15.262504,13.70627,-39.562577,56.381315,above,3.0
+BGR,Bulgaria,wipo_isoqual_score,tech_infrastructure_control,100.0,3.434057,20.768808,17.334751,-48.570195,72.77306,above,3.0
+BLR,Belarus,wipo_isoqual_score,tech_infrastructure_control,89.551597,3.434057,20.768808,17.334751,-48.570195,72.77306,above,3.0
+ITA,Italy,wipo_isoqual_score,tech_infrastructure_control,94.539173,3.434057,20.768808,17.334751,-48.570195,72.77306,above,3.0
+AUS,Australia,wipo_jvstratall_score,tech_infrastructure_control,56.414852,3.623817,15.88405,12.260233,-33.156882,52.66475,above,3.0
+BHR,Bahrain,wipo_jvstratall_score,tech_infrastructure_control,59.745872,3.623817,15.88405,12.260233,-33.156882,52.66475,above,3.0
+CAN,Canada,wipo_jvstratall_score,tech_infrastructure_control,100.0,3.623817,15.88405,12.260233,-33.156882,52.66475,above,3.0
+CHE,Switzerland,wipo_jvstratall_score,tech_infrastructure_control,54.775364,3.623817,15.88405,12.260233,-33.156882,52.66475,above,3.0
+FIN,Finland,wipo_jvstratall_score,tech_infrastructure_control,55.202159,3.623817,15.88405,12.260233,-33.156882,52.66475,above,3.0
+HKG,Hong Kong,wipo_jvstratall_score,tech_infrastructure_control,66.780225,3.623817,15.88405,12.260233,-33.156882,52.66475,above,3.0
+ISR,Israel,wipo_jvstratall_score,tech_infrastructure_control,79.44081,3.623817,15.88405,12.260233,-33.156882,52.66475,above,3.0
+LUX,Luxembourg,wipo_jvstratall_score,tech_infrastructure_control,60.498116,3.623817,15.88405,12.260233,-33.156882,52.66475,above,3.0
+MLT,Malta,wipo_jvstratall_score,tech_infrastructure_control,100.0,3.623817,15.88405,12.260233,-33.156882,52.66475,above,3.0
+SGP,Singapore,wipo_jvstratall_score,tech_infrastructure_control,69.298982,3.623817,15.88405,12.260233,-33.156882,52.66475,above,3.0
+SWE,Sweden,wipo_jvstratall_score,tech_infrastructure_control,74.855288,3.623817,15.88405,12.260233,-33.156882,52.66475,above,3.0
+USA,United States,wipo_jvstratall_score,tech_infrastructure_control,68.722761,3.623817,15.88405,12.260233,-33.156882,52.66475,above,3.0
+HKG,Hong Kong,wipo_markcap_score,tech_infrastructure_control,100.0,7.436995,26.95727,19.520275,-51.12383,85.518095,above,3.0
+ZAF,South Africa,wipo_markcap_score,tech_infrastructure_control,100.0,7.436995,26.95727,19.520275,-51.12383,85.518095,above,3.0
+BOL,Bolivia,wipo_microloan_score,tech_infrastructure_control,100.0,1.257473,25.610441,24.352968,-71.80143,98.669344,above,3.0
+ECU,Ecuador,wipo_microloan_score,tech_infrastructure_control,100.0,1.257473,25.610441,24.352968,-71.80143,98.669344,above,3.0
+KHM,Cambodia,wipo_microloan_score,tech_infrastructure_control,100.0,1.257473,25.610441,24.352968,-71.80143,98.669344,above,3.0
+MNG,Mongolia,wipo_microloan_score,tech_infrastructure_control,100.0,1.257473,25.610441,24.352968,-71.80143,98.669344,above,3.0
+PER,Peru,wipo_microloan_score,tech_infrastructure_control,100.0,1.257473,25.610441,24.352968,-71.80143,98.669344,above,3.0
+RWA,Rwanda,wipo_microloan_score,tech_infrastructure_control,100.0,1.257473,25.610441,24.352968,-71.80143,98.669344,above,3.0
+TJK,Tajikistan,wipo_microloan_score,tech_infrastructure_control,100.0,1.257473,25.610441,24.352968,-71.80143,98.669344,above,3.0
+ISL,Iceland,wipo_natfeatfilm_score,tech_infrastructure_control,100.0,3.56575,24.312678,20.746928,-58.675035,86.553464,above,3.0
+LUX,Luxembourg,wipo_natfeatfilm_score,tech_infrastructure_control,100.0,3.56575,24.312678,20.746928,-58.675035,86.553464,above,3.0
+MNG,Mongolia,wipo_natfeatfilm_score,tech_infrastructure_control,88.067684,3.56575,24.312678,20.746928,-58.675035,86.553464,above,3.0
+BWA,Botswana,wipo_newbus_score,tech_infrastructure_control,70.222579,2.133693,16.815154,14.681461,-41.910689,60.859536,above,3.0
+CYP,Cyprus,wipo_newbus_score,tech_infrastructure_control,61.417214,2.133693,16.815154,14.681461,-41.910689,60.859536,above,3.0
+EST,Estonia,wipo_newbus_score,tech_infrastructure_control,82.490002,2.133693,16.815154,14.681461,-41.910689,60.859536,above,3.0
+HKG,Hong Kong,wipo_newbus_score,tech_infrastructure_control,100.0,2.133693,16.815154,14.681461,-41.910689,60.859536,above,3.0
+MLT,Malta,wipo_newbus_score,tech_infrastructure_control,61.097213,2.133693,16.815154,14.681461,-41.910689,60.859536,above,3.0
+NZL,New Zealand,wipo_newbus_score,tech_infrastructure_control,62.334711,2.133693,16.815154,14.681461,-41.910689,60.859536,above,3.0
+CHN,China,wipo_out_6_1_1_score,ecosystem_outcome,92.045995,3.899761,22.067924,18.168163,-50.604728,76.572413,above,3.0
+JPN,Japan,wipo_out_6_1_1_score,ecosystem_outcome,87.113801,3.899761,22.067924,18.168163,-50.604728,76.572413,above,3.0
+KOR,South Korea,wipo_out_6_1_1_score,ecosystem_outcome,100.0,3.899761,22.067924,18.168163,-50.604728,76.572413,above,3.0
+BRB,Barbados,wipo_out_6_1_2_score,ecosystem_outcome,100.0,0.512273,19.396733,18.884461,-56.14111,76.050116,above,3.0
+JPN,Japan,wipo_out_6_1_2_score,ecosystem_outcome,94.438801,0.512273,19.396733,18.884461,-56.14111,76.050116,above,3.0
+KOR,South Korea,wipo_out_6_1_2_score,ecosystem_outcome,94.028368,0.512273,19.396733,18.884461,-56.14111,76.050116,above,3.0
+SWE,Sweden,wipo_out_6_1_2_score,ecosystem_outcome,76.417566,0.512273,19.396733,18.884461,-56.14111,76.050116,above,3.0
+CHN,China,wipo_out_6_1_3_score,ecosystem_outcome,100.0,0.808085,24.422489,23.614405,-70.035129,95.265703,above,3.0
+TJK,Tajikistan,wipo_out_6_1_3_score,ecosystem_outcome,100.0,0.808085,24.422489,23.614405,-70.035129,95.265703,above,3.0
+UKR,Ukraine,wipo_out_6_1_3_score,ecosystem_outcome,100.0,0.808085,24.422489,23.614405,-70.035129,95.265703,above,3.0
+GBR,United Kingdom,wipo_out_6_1_5_score,ecosystem_outcome,100.0,4.711779,28.320802,23.609023,-66.115288,99.14787,above,3.0
+USA,United States,wipo_out_6_1_5_score,ecosystem_outcome,100.0,4.711779,28.320802,23.609023,-66.115288,99.14787,above,3.0
+EST,Estonia,wipo_out_6_2_2_score,ecosystem_outcome,100.0,0.0,16.29005,16.29005,-48.870149,65.160198,above,3.0
+FIN,Finland,wipo_out_6_2_2_score,ecosystem_outcome,80.746638,0.0,16.29005,16.29005,-48.870149,65.160198,above,3.0
+GBR,United Kingdom,wipo_out_6_2_2_score,ecosystem_outcome,88.429164,0.0,16.29005,16.29005,-48.870149,65.160198,above,3.0
+IND,India,wipo_out_6_2_2_score,ecosystem_outcome,69.67152,0.0,16.29005,16.29005,-48.870149,65.160198,above,3.0
+ISR,Israel,wipo_out_6_2_2_score,ecosystem_outcome,100.0,0.0,16.29005,16.29005,-48.870149,65.160198,above,3.0
+LTU,Lithuania,wipo_out_6_2_2_score,ecosystem_outcome,100.0,0.0,16.29005,16.29005,-48.870149,65.160198,above,3.0
+MLT,Malta,wipo_out_6_2_2_score,ecosystem_outcome,65.986343,0.0,16.29005,16.29005,-48.870149,65.160198,above,3.0
+NGA,Nigeria,wipo_out_6_2_2_score,ecosystem_outcome,100.0,0.0,16.29005,16.29005,-48.870149,65.160198,above,3.0
+SEN,Senegal,wipo_out_6_2_2_score,ecosystem_outcome,77.927909,0.0,16.29005,16.29005,-48.870149,65.160198,above,3.0
+SGP,Singapore,wipo_out_6_2_2_score,ecosystem_outcome,100.0,0.0,16.29005,16.29005,-48.870149,65.160198,above,3.0
+SWE,Sweden,wipo_out_6_2_2_score,ecosystem_outcome,79.812923,0.0,16.29005,16.29005,-48.870149,65.160198,above,3.0
+USA,United States,wipo_out_6_2_2_score,ecosystem_outcome,100.0,0.0,16.29005,16.29005,-48.870149,65.160198,above,3.0
+USA,United States,wipo_out_6_2_3_score,ecosystem_outcome,100.0,4.266726,25.648669,21.381943,-59.879104,89.794499,above,3.0
+CHE,Switzerland,wipo_out_6_3_1_score,ecosystem_outcome,100.0,0.723925,14.741434,14.017509,-41.328603,56.793962,above,3.0
+CYP,Cyprus,wipo_out_6_3_1_score,ecosystem_outcome,61.207122,0.723925,14.741434,14.017509,-41.328603,56.793962,above,3.0
+DEU,Germany,wipo_out_6_3_1_score,ecosystem_outcome,69.405708,0.723925,14.741434,14.017509,-41.328603,56.793962,above,3.0
+DNK,Denmark,wipo_out_6_3_1_score,ecosystem_outcome,62.897924,0.723925,14.741434,14.017509,-41.328603,56.793962,above,3.0
+FIN,Finland,wipo_out_6_3_1_score,ecosystem_outcome,68.608576,0.723925,14.741434,14.017509,-41.328603,56.793962,above,3.0
+GBR,United Kingdom,wipo_out_6_3_1_score,ecosystem_outcome,69.88579,0.723925,14.741434,14.017509,-41.328603,56.793962,above,3.0
+IRL,Ireland,wipo_out_6_3_1_score,ecosystem_outcome,68.364018,0.723925,14.741434,14.017509,-41.328603,56.793962,above,3.0
+JPN,Japan,wipo_out_6_3_1_score,ecosystem_outcome,97.495392,0.723925,14.741434,14.017509,-41.328603,56.793962,above,3.0
+MLT,Malta,wipo_out_6_3_1_score,ecosystem_outcome,86.498473,0.723925,14.741434,14.017509,-41.328603,56.793962,above,3.0
+NLD,Netherlands (Kingdom of the),wipo_out_6_3_1_score,ecosystem_outcome,90.395957,0.723925,14.741434,14.017509,-41.328603,56.793962,above,3.0
+SWE,Sweden,wipo_out_6_3_1_score,ecosystem_outcome,74.147339,0.723925,14.741434,14.017509,-41.328603,56.793962,above,3.0
+USA,United States,wipo_out_6_3_1_score,ecosystem_outcome,87.289735,0.723925,14.741434,14.017509,-41.328603,56.793962,above,3.0
+MYS,Malaysia,wipo_out_6_3_3_score,ecosystem_outcome,100.0,1.081402,21.802366,20.720964,-61.081491,83.965259,above,3.0
+PHL,Philippines (the),wipo_out_6_3_3_score,ecosystem_outcome,100.0,1.081402,21.802366,20.720964,-61.081491,83.965259,above,3.0
+SGP,Singapore,wipo_out_6_3_3_score,ecosystem_outcome,87.705605,1.081402,21.802366,20.720964,-61.081491,83.965259,above,3.0
+VNM,Vietnam,wipo_out_6_3_3_score,ecosystem_outcome,100.0,1.081402,21.802366,20.720964,-61.081491,83.965259,above,3.0
+CYP,Cyprus,wipo_out_6_3_4_score,ecosystem_outcome,100.0,3.891208,27.098981,23.207774,-65.732113,96.722302,above,3.0
+IND,India,wipo_out_6_3_4_score,ecosystem_outcome,100.0,3.891208,27.098981,23.207774,-65.732113,96.722302,above,3.0
+IRL,Ireland,wipo_out_6_3_4_score,ecosystem_outcome,100.0,3.891208,27.098981,23.207774,-65.732113,96.722302,above,3.0
+ISR,Israel,wipo_out_6_3_4_score,ecosystem_outcome,100.0,3.891208,27.098981,23.207774,-65.732113,96.722302,above,3.0
+BGR,Bulgaria,wipo_out_6_3_5_score,ecosystem_outcome,100.0,4.00026,24.67432,20.67406,-58.021922,86.696502,above,3.0
+BLR,Belarus,wipo_out_6_3_5_score,ecosystem_outcome,86.750383,4.00026,24.67432,20.67406,-58.021922,86.696502,above,3.0
+ITA,Italy,wipo_out_6_3_5_score,ecosystem_outcome,96.299358,4.00026,24.67432,20.67406,-58.021922,86.696502,above,3.0
+GHA,Ghana,wipo_out_7_1_1_score,ecosystem_outcome,0.0,63.274916,83.125829,19.850913,3.722176,142.678568,below,3.0
+MNE,Montenegro,wipo_out_7_1_1_score,ecosystem_outcome,0.0,63.274916,83.125829,19.850913,3.722176,142.678568,below,3.0
+SRB,Serbia,wipo_out_7_1_1_score,ecosystem_outcome,0.0,63.274916,83.125829,19.850913,3.722176,142.678568,below,3.0
+SVK,Slovakia,wipo_out_7_1_1_score,ecosystem_outcome,0.0,63.274916,83.125829,19.850913,3.722176,142.678568,below,3.0
+CHN,China,wipo_out_7_1_2_score,ecosystem_outcome,100.0,7.287867,23.374829,16.086962,-40.97302,71.635717,above,3.0
+IRN,Iran,wipo_out_7_1_2_score,ecosystem_outcome,98.633478,7.287867,23.374829,16.086962,-40.97302,71.635717,above,3.0
+CYP,Cyprus,wipo_out_7_2_1_score,ecosystem_outcome,100.0,2.585789,21.076547,18.490758,-52.886485,76.548821,above,3.0
+LUX,Luxembourg,wipo_out_7_2_1_score,ecosystem_outcome,100.0,2.585789,21.076547,18.490758,-52.886485,76.548821,above,3.0
+MLT,Malta,wipo_out_7_2_1_score,ecosystem_outcome,100.0,2.585789,21.076547,18.490758,-52.886485,76.548821,above,3.0
+SGP,Singapore,wipo_out_7_2_1_score,ecosystem_outcome,100.0,2.585789,21.076547,18.490758,-52.886485,76.548821,above,3.0
+SWE,Sweden,wipo_out_7_2_1_score,ecosystem_outcome,83.693176,2.585789,21.076547,18.490758,-52.886485,76.548821,above,3.0
+ARE,United Arab Emirates,wipo_out_7_2_4_score,ecosystem_outcome,76.261911,0.952668,18.993037,18.040369,-53.168438,73.114143,above,3.0
+ARM,Armenia,wipo_out_7_2_4_score,ecosystem_outcome,85.01992,0.952668,18.993037,18.040369,-53.168438,73.114143,above,3.0
+CHN,China,wipo_out_7_2_4_score,ecosystem_outcome,100.0,0.952668,18.993037,18.040369,-53.168438,73.114143,above,3.0
+CZE,Czech Republic,wipo_out_7_2_4_score,ecosystem_outcome,100.0,0.952668,18.993037,18.040369,-53.168438,73.114143,above,3.0
+HKG,Hong Kong,wipo_out_7_2_4_score,ecosystem_outcome,100.0,0.952668,18.993037,18.040369,-53.168438,73.114143,above,3.0
+HUN,Hungary,wipo_out_7_2_4_score,ecosystem_outcome,76.437939,0.952668,18.993037,18.040369,-53.168438,73.114143,above,3.0
+MEX,Mexico,wipo_out_7_2_4_score,ecosystem_outcome,98.207887,0.952668,18.993037,18.040369,-53.168438,73.114143,above,3.0
+MYS,Malaysia,wipo_out_7_2_4_score,ecosystem_outcome,100.0,0.952668,18.993037,18.040369,-53.168438,73.114143,above,3.0
+THA,Thailand,wipo_out_7_2_4_score,ecosystem_outcome,95.028522,0.952668,18.993037,18.040369,-53.168438,73.114143,above,3.0
+VNM,Vietnam,wipo_out_7_2_4_score,ecosystem_outcome,100.0,0.952668,18.993037,18.040369,-53.168438,73.114143,above,3.0
+CHN,China,wipo_out_7_2_5_score,ecosystem_outcome,100.0,1.172746,19.221362,18.048616,-52.973102,73.36721,above,3.0
+CZE,Czech Republic,wipo_out_7_2_5_score,ecosystem_outcome,100.0,1.172746,19.221362,18.048616,-52.973102,73.36721,above,3.0
+HKG,Hong Kong,wipo_out_7_2_5_score,ecosystem_outcome,100.0,1.172746,19.221362,18.048616,-52.973102,73.36721,above,3.0
+HUN,Hungary,wipo_out_7_2_5_score,ecosystem_outcome,97.016397,1.172746,19.221362,18.048616,-52.973102,73.36721,above,3.0
+MEX,Mexico,wipo_out_7_2_5_score,ecosystem_outcome,100.0,1.172746,19.221362,18.048616,-52.973102,73.36721,above,3.0
+MYS,Malaysia,wipo_out_7_2_5_score,ecosystem_outcome,100.0,1.172746,19.221362,18.048616,-52.973102,73.36721,above,3.0
+PHL,Philippines (the),wipo_out_7_2_5_score,ecosystem_outcome,74.475546,1.172746,19.221362,18.048616,-52.973102,73.36721,above,3.0
+SVK,Slovakia,wipo_out_7_2_5_score,ecosystem_outcome,82.269772,1.172746,19.221362,18.048616,-52.973102,73.36721,above,3.0
+THA,Thailand,wipo_out_7_2_5_score,ecosystem_outcome,100.0,1.172746,19.221362,18.048616,-52.973102,73.36721,above,3.0
+VNM,Vietnam,wipo_out_7_2_5_score,ecosystem_outcome,93.252654,1.172746,19.221362,18.048616,-52.973102,73.36721,above,3.0
+CHE,Switzerland,wipo_out_7_3_1_score,ecosystem_outcome,100.0,0.826756,19.798734,18.971978,-56.089178,76.714669,above,3.0
+DEU,Germany,wipo_out_7_3_1_score,ecosystem_outcome,78.476659,0.826756,19.798734,18.971978,-56.089178,76.714669,above,3.0
+DNK,Denmark,wipo_out_7_3_1_score,ecosystem_outcome,79.588897,0.826756,19.798734,18.971978,-56.089178,76.714669,above,3.0
+ISL,Iceland,wipo_out_7_3_1_score,ecosystem_outcome,100.0,0.826756,19.798734,18.971978,-56.089178,76.714669,above,3.0
+LUX,Luxembourg,wipo_out_7_3_1_score,ecosystem_outcome,82.586215,0.826756,19.798734,18.971978,-56.089178,76.714669,above,3.0
+MNE,Montenegro,wipo_out_7_3_1_score,ecosystem_outcome,100.0,0.826756,19.798734,18.971978,-56.089178,76.714669,above,3.0
+NLD,Netherlands (Kingdom of the),wipo_out_7_3_1_score,ecosystem_outcome,100.0,0.826756,19.798734,18.971978,-56.089178,76.714669,above,3.0
+SYC,Seychelles,wipo_out_7_3_1_score,ecosystem_outcome,100.0,0.826756,19.798734,18.971978,-56.089178,76.714669,above,3.0
+AUT,Austria,wipo_patfam_score,ecosystem_outcome,66.408612,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+BEL,Belgium,wipo_patfam_score,ecosystem_outcome,44.129299,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+CAN,Canada,wipo_patfam_score,ecosystem_outcome,34.480147,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+CHE,Switzerland,wipo_patfam_score,ecosystem_outcome,100.0,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+CYP,Cyprus,wipo_patfam_score,ecosystem_outcome,35.539749,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+DEU,Germany,wipo_patfam_score,ecosystem_outcome,96.998293,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+DNK,Denmark,wipo_patfam_score,ecosystem_outcome,83.804634,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+FIN,Finland,wipo_patfam_score,ecosystem_outcome,100.0,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+FRA,France,wipo_patfam_score,ecosystem_outcome,56.165043,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+GBR,United Kingdom,wipo_patfam_score,ecosystem_outcome,35.096595,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+IRL,Ireland,wipo_patfam_score,ecosystem_outcome,34.269986,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+ISL,Iceland,wipo_patfam_score,ecosystem_outcome,40.478983,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+ISR,Israel,wipo_patfam_score,ecosystem_outcome,93.342842,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+JPN,Japan,wipo_patfam_score,ecosystem_outcome,100.0,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+KOR,South Korea,wipo_patfam_score,ecosystem_outcome,100.0,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+LUX,Luxembourg,wipo_patfam_score,ecosystem_outcome,95.46332,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+MLT,Malta,wipo_patfam_score,ecosystem_outcome,35.733346,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+NLD,Netherlands (Kingdom of the),wipo_patfam_score,ecosystem_outcome,81.785014,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+NOR,Norway,wipo_patfam_score,ecosystem_outcome,36.615082,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+SGP,Singapore,wipo_patfam_score,ecosystem_outcome,42.518368,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+SWE,Sweden,wipo_patfam_score,ecosystem_outcome,100.0,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+USA,United States,wipo_patfam_score,ecosystem_outcome,60.121153,0.13974,8.650767,8.511027,-25.393341,34.183849,above,3.0
+AUT,Austria,wipo_patorig_score,ecosystem_outcome,63.546638,1.383872,16.109643,14.725771,-42.79344,60.286955,above,3.0
+CHE,Switzerland,wipo_patorig_score,ecosystem_outcome,100.0,1.383872,16.109643,14.725771,-42.79344,60.286955,above,3.0
+CHN,China,wipo_patorig_score,ecosystem_outcome,100.0,1.383872,16.109643,14.725771,-42.79344,60.286955,above,3.0
+DEU,Germany,wipo_patorig_score,ecosystem_outcome,100.0,1.383872,16.109643,14.725771,-42.79344,60.286955,above,3.0
+DNK,Denmark,wipo_patorig_score,ecosystem_outcome,81.368765,1.383872,16.109643,14.725771,-42.79344,60.286955,above,3.0
+FIN,Finland,wipo_patorig_score,ecosystem_outcome,81.209516,1.383872,16.109643,14.725771,-42.79344,60.286955,above,3.0
+IRN,Iran,wipo_patorig_score,ecosystem_outcome,83.238634,1.383872,16.109643,14.725771,-42.79344,60.286955,above,3.0
+JPN,Japan,wipo_patorig_score,ecosystem_outcome,100.0,1.383872,16.109643,14.725771,-42.79344,60.286955,above,3.0
+KOR,South Korea,wipo_patorig_score,ecosystem_outcome,100.0,1.383872,16.109643,14.725771,-42.79344,60.286955,above,3.0
+NLD,Netherlands (Kingdom of the),wipo_patorig_score,ecosystem_outcome,67.099995,1.383872,16.109643,14.725771,-42.79344,60.286955,above,3.0
+SWE,Sweden,wipo_patorig_score,ecosystem_outcome,81.424229,1.383872,16.109643,14.725771,-42.79344,60.286955,above,3.0
+USA,United States,wipo_patorig_score,ecosystem_outcome,100.0,1.383872,16.109643,14.725771,-42.79344,60.286955,above,3.0
+CHE,Switzerland,wipo_pctpatorig_score,ecosystem_outcome,100.0,0.424636,14.663051,14.238415,-42.290607,57.378295,above,3.0
+DEU,Germany,wipo_pctpatorig_score,ecosystem_outcome,77.553531,0.424636,14.663051,14.238415,-42.290607,57.378295,above,3.0
+DNK,Denmark,wipo_pctpatorig_score,ecosystem_outcome,85.587274,0.424636,14.663051,14.238415,-42.290607,57.378295,above,3.0
+FIN,Finland,wipo_pctpatorig_score,ecosystem_outcome,100.0,0.424636,14.663051,14.238415,-42.290607,57.378295,above,3.0
+ISR,Israel,wipo_pctpatorig_score,ecosystem_outcome,100.0,0.424636,14.663051,14.238415,-42.290607,57.378295,above,3.0
+JPN,Japan,wipo_pctpatorig_score,ecosystem_outcome,100.0,0.424636,14.663051,14.238415,-42.290607,57.378295,above,3.0
+KOR,South Korea,wipo_pctpatorig_score,ecosystem_outcome,100.0,0.424636,14.663051,14.238415,-42.290607,57.378295,above,3.0
+LUX,Luxembourg,wipo_pctpatorig_score,ecosystem_outcome,83.392259,0.424636,14.663051,14.238415,-42.290607,57.378295,above,3.0
+NLD,Netherlands (Kingdom of the),wipo_pctpatorig_score,ecosystem_outcome,75.772366,0.424636,14.663051,14.238415,-42.290607,57.378295,above,3.0
+SWE,Sweden,wipo_pctpatorig_score,ecosystem_outcome,100.0,0.424636,14.663051,14.238415,-42.290607,57.378295,above,3.0
+YEM,"Yemen, Rep.",wipo_polstab_score,institutional_control,0.0,60.267859,79.017857,18.749999,4.017863,135.267853,below,3.0
+HKG,Hong Kong,wipo_printmedia_score,tech_infrastructure_control,100.0,11.515707,28.305598,16.78989,-38.853963,78.675268,above,3.0
+MLT,Malta,wipo_printmedia_score,tech_infrastructure_control,100.0,11.515707,28.305598,16.78989,-38.853963,78.675268,above,3.0
+LBN,Lebanon,wipo_r_growppp20_score,tech_infrastructure_control,0.0,50.346143,66.945979,16.599837,0.546633,116.745489,below,3.0
+ISR,Israel,wipo_rdexp_score,socioeconomic_control,100.0,4.776366,25.587598,20.811232,-57.65733,88.021294,above,3.0
+KOR,South Korea,wipo_rdexp_score,socioeconomic_control,94.021509,4.776366,25.587598,20.811232,-57.65733,88.021294,above,3.0
+ISR,Israel,wipo_sp52_score,tech_infrastructure_control,82.061374,16.523939,30.520687,13.996748,-25.466305,72.510932,above,3.0
+ARE,United Arab Emirates,wipo_tertmob_score,tech_infrastructure_control,100.0,3.910308,23.853939,19.943631,-55.920586,83.684833,above,3.0
+LUX,Luxembourg,wipo_tertmob_score,tech_infrastructure_control,100.0,3.910308,23.853939,19.943631,-55.920586,83.684833,above,3.0
+QAT,Qatar,wipo_tertmob_score,tech_infrastructure_control,100.0,3.910308,23.853939,19.943631,-55.920586,83.684833,above,3.0

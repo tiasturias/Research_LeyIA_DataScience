@@ -1,0 +1,200 @@
+iso3,country_name_canonical,region,income_group,regulatory_cluster_k4,cluster_status
+AFG,Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",Low income,,clustering_error: AttributeError
+AGO,Angola,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+ALB,Albania,Europe & Central Asia,Upper middle income,,clustering_error: AttributeError
+AND,Andorra,Europe & Central Asia,High income,,clustering_error: AttributeError
+ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",High income,,clustering_error: AttributeError
+ARG,Argentina,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+ARM,Armenia,Europe & Central Asia,Upper middle income,,clustering_error: AttributeError
+ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,,clustering_error: AttributeError
+AUS,Australia,East Asia & Pacific,High income,,clustering_error: AttributeError
+AUT,Austria,Europe & Central Asia,High income,,clustering_error: AttributeError
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,,clustering_error: AttributeError
+BDI,Burundi,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+BEL,Belgium,Europe & Central Asia,High income,,clustering_error: AttributeError
+BEN,Benin,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+BFA,Burkina Faso,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+BGD,Bangladesh,South Asia,Lower middle income,,clustering_error: AttributeError
+BGR,Bulgaria,Europe & Central Asia,High income,,clustering_error: AttributeError
+BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",High income,,clustering_error: AttributeError
+BHS,The Bahamas,Latin America & Caribbean ,High income,,clustering_error: AttributeError
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,,clustering_error: AttributeError
+BLR,Belarus,Europe & Central Asia,Upper middle income,,clustering_error: AttributeError
+BLZ,Belize,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+BOL,Bolivia,Latin America & Caribbean ,Lower middle income,,clustering_error: AttributeError
+BRA,Brazil,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+BRB,Barbados,Latin America & Caribbean ,High income,,clustering_error: AttributeError
+BRN,Brunei,East Asia & Pacific,High income,,clustering_error: AttributeError
+BTN,Bhutan,South Asia,Lower middle income,,clustering_error: AttributeError
+BWA,Botswana,Sub-Saharan Africa ,Upper middle income,,clustering_error: AttributeError
+CAF,Central African Republic (the),Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+CAN,Canada,North America,High income,,clustering_error: AttributeError
+CHE,Switzerland,Europe & Central Asia,High income,,clustering_error: AttributeError
+CHL,Chile,Latin America & Caribbean ,High income,,clustering_error: AttributeError
+CHN,China,East Asia & Pacific,Upper middle income,,clustering_error: AttributeError
+CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+CMR,Cameroon,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+COD,Democratic Republic of the Congo,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+COG,Republic of the Congo,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+COL,Colombia,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+COM,Comoros (the),Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+CPV,Cabo Verde,Sub-Saharan Africa ,Upper middle income,,clustering_error: AttributeError
+CRI,Costa Rica,Latin America & Caribbean ,High income,,clustering_error: AttributeError
+CUB,Cuba,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+CYP,Cyprus,Europe & Central Asia,High income,,clustering_error: AttributeError
+CZE,Czech Republic,Europe & Central Asia,High income,,clustering_error: AttributeError
+DEU,Germany,Europe & Central Asia,High income,,clustering_error: AttributeError
+DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,,clustering_error: AttributeError
+DMA,Dominica,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+DNK,Denmark,Europe & Central Asia,High income,,clustering_error: AttributeError
+DOM,Dominican Republic (the),Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,,clustering_error: AttributeError
+ECU,Ecuador,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+EGY,Egypt,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,,clustering_error: AttributeError
+ERI,Eritrea,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+ESP,Spain,Europe & Central Asia,High income,,clustering_error: AttributeError
+EST,Estonia,Europe & Central Asia,High income,,clustering_error: AttributeError
+ETH,Ethiopia,Sub-Saharan Africa ,Not classified,,clustering_error: AttributeError
+FIN,Finland,Europe & Central Asia,High income,,clustering_error: AttributeError
+FJI,Fiji,East Asia & Pacific,Upper middle income,,clustering_error: AttributeError
+FRA,France,Europe & Central Asia,High income,,clustering_error: AttributeError
+FSM,Micronesia (Federated States of),East Asia & Pacific,Lower middle income,,clustering_error: AttributeError
+GAB,Gabon,Sub-Saharan Africa ,Upper middle income,,clustering_error: AttributeError
+GBR,United Kingdom,Europe & Central Asia,High income,,clustering_error: AttributeError
+GEO,Georgia,Europe & Central Asia,Upper middle income,,clustering_error: AttributeError
+GHA,Ghana,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+GIN,Guinea,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+GMB,The Gambia,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+GNB,Guinea Bissau,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+GNQ,Equatorial Guinea,Sub-Saharan Africa ,Upper middle income,,clustering_error: AttributeError
+GRC,Greece,Europe & Central Asia,High income,,clustering_error: AttributeError
+GRD,Grenada,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+GTM,Guatemala,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+GUY,Guyana,Latin America & Caribbean ,High income,,clustering_error: AttributeError
+HKG,Hong Kong,East Asia & Pacific,High income,,clustering_error: AttributeError
+HND,Honduras,Latin America & Caribbean ,Lower middle income,,clustering_error: AttributeError
+HRV,Croatia,Europe & Central Asia,High income,,clustering_error: AttributeError
+HTI,Haiti,Latin America & Caribbean ,Lower middle income,,clustering_error: AttributeError
+HUN,Hungary,Europe & Central Asia,High income,,clustering_error: AttributeError
+IDN,Indonesia,East Asia & Pacific,Upper middle income,,clustering_error: AttributeError
+IND,India,South Asia,Lower middle income,,clustering_error: AttributeError
+IRL,Ireland,Europe & Central Asia,High income,,clustering_error: AttributeError
+IRN,Iran,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,,clustering_error: AttributeError
+IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,,clustering_error: AttributeError
+ISL,Iceland,Europe & Central Asia,High income,,clustering_error: AttributeError
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",High income,,clustering_error: AttributeError
+ITA,Italy,Europe & Central Asia,High income,,clustering_error: AttributeError
+JAM,Jamaica,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,,clustering_error: AttributeError
+JPN,Japan,East Asia & Pacific,High income,,clustering_error: AttributeError
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,,clustering_error: AttributeError
+KEN,Kenya,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,,clustering_error: AttributeError
+KHM,Cambodia,East Asia & Pacific,Lower middle income,,clustering_error: AttributeError
+KIR,Kiribati,East Asia & Pacific,Lower middle income,,clustering_error: AttributeError
+KNA,Saint Kitts and Nevis,Latin America & Caribbean ,High income,,clustering_error: AttributeError
+KOR,South Korea,East Asia & Pacific,High income,,clustering_error: AttributeError
+KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",High income,,clustering_error: AttributeError
+LAO,Laos,East Asia & Pacific,Lower middle income,,clustering_error: AttributeError
+LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,,clustering_error: AttributeError
+LBR,Liberia,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+LBY,Libya,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,,clustering_error: AttributeError
+LCA,Saint Lucia,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+LIE,Liechtenstein,Europe & Central Asia,High income,,clustering_error: AttributeError
+LKA,Sri Lanka,South Asia,Lower middle income,,clustering_error: AttributeError
+LSO,Lesotho,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+LTU,Lithuania,Europe & Central Asia,High income,,clustering_error: AttributeError
+LUX,Luxembourg,Europe & Central Asia,High income,,clustering_error: AttributeError
+LVA,Latvia,Europe & Central Asia,High income,,clustering_error: AttributeError
+MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,,clustering_error: AttributeError
+MCO,Monaco,Europe & Central Asia,High income,,clustering_error: AttributeError
+MDA,Moldova,Europe & Central Asia,Upper middle income,,clustering_error: AttributeError
+MDG,Madagascar,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+MDV,Maldives,South Asia,Upper middle income,,clustering_error: AttributeError
+MEX,Mexico,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+MHL,Marshall Islands (the),East Asia & Pacific,Upper middle income,,clustering_error: AttributeError
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,,clustering_error: AttributeError
+MLI,Mali,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",High income,,clustering_error: AttributeError
+MMR,Myanmar,East Asia & Pacific,Lower middle income,,clustering_error: AttributeError
+MNE,Montenegro,Europe & Central Asia,Upper middle income,,clustering_error: AttributeError
+MNG,Mongolia,East Asia & Pacific,Upper middle income,,clustering_error: AttributeError
+MOZ,Mozambique,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+MRT,Mauritania,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+MUS,Mauritius,Sub-Saharan Africa ,Upper middle income,,clustering_error: AttributeError
+MWI,Malawi,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+MYS,Malaysia,East Asia & Pacific,Upper middle income,,clustering_error: AttributeError
+NAM,Namibia,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+NER,Niger (the),Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+NGA,Nigeria,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+NIC,Nicaragua,Latin America & Caribbean ,Lower middle income,,clustering_error: AttributeError
+NLD,Netherlands (Kingdom of the),Europe & Central Asia,High income,,clustering_error: AttributeError
+NOR,Norway,Europe & Central Asia,High income,,clustering_error: AttributeError
+NPL,Nepal,South Asia,Lower middle income,,clustering_error: AttributeError
+NRU,Nauru,East Asia & Pacific,High income,,clustering_error: AttributeError
+NZL,New Zealand,East Asia & Pacific,High income,,clustering_error: AttributeError
+OMN,Oman,"Middle East, North Africa, Afghanistan & Pakistan",High income,,clustering_error: AttributeError
+PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,,clustering_error: AttributeError
+PAN,Panama,Latin America & Caribbean ,High income,,clustering_error: AttributeError
+PER,Peru,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+PHL,Philippines (the),East Asia & Pacific,Lower middle income,,clustering_error: AttributeError
+PLW,Palau,East Asia & Pacific,High income,,clustering_error: AttributeError
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,,clustering_error: AttributeError
+POL,Poland,Europe & Central Asia,High income,,clustering_error: AttributeError
+PRI,Puerto Rico,Latin America & Caribbean ,High income,,clustering_error: AttributeError
+PRK,North Korea,East Asia & Pacific,Low income,,clustering_error: AttributeError
+PRT,Portugal,Europe & Central Asia,High income,,clustering_error: AttributeError
+PRY,Paraguay,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+PSE,Palestine,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,,clustering_error: AttributeError
+QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",High income,,clustering_error: AttributeError
+ROU,Romania,Europe & Central Asia,High income,,clustering_error: AttributeError
+RUS,Russia,Europe & Central Asia,High income,,clustering_error: AttributeError
+RWA,Rwanda,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",High income,,clustering_error: AttributeError
+SDN,Sudan (the),Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+SEN,Senegal,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+SGP,Singapore,East Asia & Pacific,High income,,clustering_error: AttributeError
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,,clustering_error: AttributeError
+SLE,Sierra Leone,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+SLV,El Salvador,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+SMR,San Marino,Europe & Central Asia,High income,,clustering_error: AttributeError
+SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+SRB,Serbia,Europe & Central Asia,Upper middle income,,clustering_error: AttributeError
+SSD,South Sudan,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+STP,Sao Tome and Principe,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+SUR,Suriname,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+SVK,Slovakia,Europe & Central Asia,High income,,clustering_error: AttributeError
+SVN,Slovenia,Europe & Central Asia,High income,,clustering_error: AttributeError
+SWE,Sweden,Europe & Central Asia,High income,,clustering_error: AttributeError
+SWZ,Swaziland,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+SYC,Seychelles,Sub-Saharan Africa ,High income,,clustering_error: AttributeError
+SYR,Syria,"Middle East, North Africa, Afghanistan & Pakistan",Low income,,clustering_error: AttributeError
+TCD,Chad,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+TGO,Togo,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+THA,Thailand,East Asia & Pacific,Upper middle income,,clustering_error: AttributeError
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,,clustering_error: AttributeError
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,,clustering_error: AttributeError
+TLS,Timor Leste,East Asia & Pacific,Lower middle income,,clustering_error: AttributeError
+TON,Tonga,East Asia & Pacific,Upper middle income,,clustering_error: AttributeError
+TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,,clustering_error: AttributeError
+TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,,clustering_error: AttributeError
+TUR,Turkiye,Europe & Central Asia,Upper middle income,,clustering_error: AttributeError
+TUV,Tuvalu,East Asia & Pacific,Upper middle income,,clustering_error: AttributeError
+TWN,Taiwan,,,,clustering_error: AttributeError
+TZA,Tanzania,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+UGA,Uganda,Sub-Saharan Africa ,Low income,,clustering_error: AttributeError
+UKR,Ukraine,Europe & Central Asia,Upper middle income,,clustering_error: AttributeError
+URY,Uruguay,Latin America & Caribbean ,High income,,clustering_error: AttributeError
+USA,United States,North America,High income,,clustering_error: AttributeError
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,,clustering_error: AttributeError
+VAT,Vatican,,,,clustering_error: AttributeError
+VCT,Saint Vincent and the Grenadines,Latin America & Caribbean ,Upper middle income,,clustering_error: AttributeError
+VEN,Venezuela,Latin America & Caribbean ,Not classified,,clustering_error: AttributeError
+VNM,Vietnam,East Asia & Pacific,Lower middle income,,clustering_error: AttributeError
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,,clustering_error: AttributeError
+WSM,Samoa,East Asia & Pacific,Upper middle income,,clustering_error: AttributeError
+XKX,Kosovo,Europe & Central Asia,Upper middle income,,clustering_error: AttributeError
+YEM,"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",Low income,,clustering_error: AttributeError
+ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,,clustering_error: AttributeError
+ZMB,Zambia,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError
+ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,,clustering_error: AttributeError

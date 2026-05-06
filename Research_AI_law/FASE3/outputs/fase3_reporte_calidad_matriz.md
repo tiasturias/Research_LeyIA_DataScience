@@ -1,11 +1,25 @@
 # Reporte de calidad Fase 3
 
+**Version:** `1.1` (revision quality fix country_name_canonical, 2026-05-06)
+**Tag git:** `matriz-madre-v1.1`
+
 Este reporte resume la aptitud de la Matriz Madre para alimentar Fase 4.
 
 - Paises/entidades comparables en wide: 199
 - Variables en diccionario: 397
 - Variables core para EDA: 198
 - Variables con cobertura <30%: 48
+- Paises con `country_name_canonical` correctamente resuelto: 199/199 (post-fix v1.1)
+- Paises clave verificados manualmente: ARG, AUS, FRA, COL, BRA, CAN, CHN, USA, GBR, CHL, SGP, ARE, IRL
+
+## Estado de tests al cierre
+
+- `pytest -q`: **20 passed** en 8.77s.
+- `python -m src.fase3 validate`: **Fase 3 validation passed**.
+
+## Cambios desde v1.0
+
+Ver `FASE3_CIERRE_DOCUMENTACION_TECNICA.md` seccion 12.1 para detalle del fix de country_name_canonical aplicado el 2026-05-06. Las metricas de filas/columnas/cobertura no cambiaron — solo se corrigio el nombre humano de paises afectados.
 
 ## Variables por bloque
 - adoption_diffusion: 14

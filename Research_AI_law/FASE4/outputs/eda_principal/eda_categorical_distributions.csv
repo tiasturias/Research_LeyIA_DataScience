@@ -1,0 +1,18 @@
+variable_matriz,bloque_tematico,source_id,unit,n_non_null,n_missing,pct_complete,n_categories,modal_category,modal_freq,modal_pct,n_rare_categories_lt5pct,top3_categories
+iapp_adhiere_oecd_ai,regulatory_treatment,iapp,binary,28,171,14.07,2,1.0,18,64.29,0,1.0 | 0.0
+iapp_adopto_unesco_etica_ia,regulatory_treatment,iapp,binary,28,171,14.07,2,1.0,22,78.57,0,1.0 | 0.0
+iapp_categoria_obligatoriedad,regulatory_treatment,iapp,categorical,28,171,14.07,6,nonbinding_ai_frameworks_plus_adjacent_binding_laws,20,71.43,3,nonbinding_ai_frameworks_plus_adjacent_binding_laws | binding_ai_specific_horizontal_law | binding_ai_specific_laws_use_case
+iapp_endoso_declaracion_data_scraping,regulatory_treatment,iapp,binary,28,171,14.07,2,0.0,20,71.43,0,0.0 | 1.0
+iapp_endoso_hiroshima_g7,regulatory_treatment,iapp,binary,28,171,14.07,2,0.0,24,85.71,0,0.0 | 1.0
+iapp_estrategia_nacional_ia,regulatory_treatment,iapp,binary,28,171,14.07,2,1.0,27,96.43,1,1.0 | 0.0
+iapp_firmo_ai_action_summit,regulatory_treatment,iapp,binary,28,171,14.07,2,0.0,16,57.14,0,0.0 | 1.0
+iapp_firmo_bletchley,regulatory_treatment,iapp,binary,28,171,14.07,2,1.0,14,50.0,0,1.0 | 0.0
+iapp_firmo_coe_convencion,regulatory_treatment,iapp,binary,28,171,14.07,2,0.0,25,89.29,0,0.0 | 1.0
+iapp_guias_sectoriales,regulatory_treatment,iapp,binary,28,171,14.07,2,1.0,17,60.71,0,1.0 | 0.0
+iapp_herramientas_testing,regulatory_treatment,iapp,binary,28,171,14.07,2,0.0,22,78.57,0,0.0 | 1.0
+iapp_instituto_seguridad_ia,regulatory_treatment,iapp,binary,28,171,14.07,2,0.0,22,78.57,0,0.0 | 1.0
+iapp_ley_ia_vigente,regulatory_treatment,iapp,binary,28,171,14.07,2,0.0,21,75.0,0,0.0 | 1.0
+iapp_marcos_voluntarios,regulatory_treatment,iapp,binary,28,171,14.07,2,1.0,22,78.57,0,1.0 | 0.0
+iapp_modelo_gobernanza,regulatory_treatment,iapp,categorical,28,171,14.07,5,draft_horizontal_ai_law,11,39.29,0,draft_horizontal_ai_law | strategy_voluntary_sectoral | strategy_only
+iapp_proyecto_ley_ia,regulatory_treatment,iapp,binary,28,171,14.07,2,1.0,16,57.14,0,1.0 | 0.0
+iapp_sandbox_regulatorio,regulatory_treatment,iapp,binary,28,171,14.07,2,0.0,26,92.86,0,0.0 | 1.0

@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>EDA Principal - Fase 4 - Research AI Law</title>
+<style>
+  body { font-family: Arial, sans-serif; margin: 40px; color: #222; }
+  h1 { color: #1a3a5c; border-bottom: 3px solid #1a3a5c; }
+  h2 { color: #2c5282; border-bottom: 1px solid #ccc; margin-top: 40px; }
+  h3 { color: #2d3748; }
+  table { border-collapse: collapse; width: 100%; margin: 20px 0; font-size: 13px; }
+  th { background: #2c5282; color: white; padding: 8px 12px; text-align: left; }
+  td { padding: 6px 12px; border-bottom: 1px solid #e2e8f0; }
+  tr:hover { background: #edf2f7; }
+  .highlight { background: #ebf8ff; font-weight: bold; }
+  .metric-box { display: inline-block; background: #f7fafc; border: 1px solid #bee3f8;
+                border-radius: 8px; padding: 16px 24px; margin: 8px; text-align: center; }
+  .metric-value { font-size: 28px; font-weight: bold; color: #2c5282; }
+  .metric-label { font-size: 12px; color: #718096; margin-top: 4px; }
+  .alert { background: #fff5f5; border-left: 4px solid #fc8181; padding: 12px; margin: 12px 0; }
+  .note { background: #fffff0; border-left: 4px solid #f6e05e; padding: 12px; margin: 12px 0; }
+  .ok { background: #f0fff4; border-left: 4px solid #68d391; padding: 12px; margin: 12px 0; }
+  .toc a { display: block; color: #2c5282; text-decoration: none; padding: 4px 0; }
+  .toc a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+<h1>EDA Principal - Fase 4</h1>
+<p><strong>Proyecto:</strong> Research AI Law — Boletín 16821-19 (Ley Marco de IA Chile)</p>
+<p><strong>Fecha:</strong> 2026-05-06</p>
+<p><strong>Fuente de datos:</strong> Matriz Madre Fase 3 v1.1 (199 países × 1,203 columnas)</p>
+
+<div class="note">
+<strong>Principio rector:</strong> Este EDA explora patrones y prepara el terreno para modelado (Fase 6).
+No responde causalmente la pregunta principal. No imputa datos. No decide muestra final.
+</div>
+
+<div class="toc">
+<h2>Tabla de Contenidos</h2>
+<a href="#quality">1. Calidad y Cobertura</a>
+<a href="#blocks">2. Cobertura por Bloque Temático</a>
+<a href="#submuestras">3. Submuestras Candidatas (Multiverse Analysis)</a>
+<a href="#chile">4. Perfil de Chile</a>
+<a href="#countries">5. Rankings de Países</a>
+<a href="#methodology">6. Nota Metodológica</a>
+</div>
+
+<h2 id="quality">1. Calidad y Cobertura Global</h2>
+<div>
+<div class="metric-box"><div class="metric-value">199.0</div><div class="metric-label">N Countries</div></div>
+<div class="metric-box"><div class="metric-value">397.0</div><div class="metric-label">N Variables</div></div>
+<div class="metric-box"><div class="metric-value">67.3%</div><div class="metric-label">Pct Overall Coverage</div></div>
+<div class="metric-box"><div class="metric-value">174.0%</div><div class="metric-label">N Vars Above 70Pct</div></div>
+<div class="metric-box"><div class="metric-value">48.0%</div><div class="metric-label">N Vars Below 30Pct</div></div>
+<div class="metric-box"><div class="metric-value">97.7%</div><div class="metric-label">Chile Pct Coverage</div></div>
+</div>
+<h2 id="blocks">2. Cobertura por Bloque Temático</h2>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>bloque_tematico</th>
+      <th>n_variables</th>
+      <th>pct_complete_mean</th>
+      <th>pct_complete_median</th>
+      <th>pct_complete_min</th>
+      <th>pct_complete_max</th>
+      <th>n_vars_above_70pct</th>
+      <th>n_vars_above_30pct</th>
+      <th>n_vars_below_30pct</th>
+      <th>n_countries_with_any_data</th>
+      <th>pct_countries_with_any_data</th>
+      <th>n_iapp_variables</th>
+      <th>n_countries_with_any_iapp_data</th>
+      <th>pct_iapp_complete_mean</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>regulatory_treatment</td>
+      <td>33</td>
+      <td>25.00</td>
+      <td>14.07</td>
+      <td>5.03</td>
+      <td>69.35</td>
+      <td>0</td>
+      <td>5</td>
+      <td>28</td>
+      <td>151</td>
+      <td>75.88</td>
+      <td>19</td>
+      <td>28</td>
+      <td>14.07</td>
+    </tr>
+    <tr>
+      <td>ecosystem_outcome</td>
+      <td>124</td>
+      <td>83.13</td>
+      <td>93.97</td>
+      <td>19.60</td>
+      <td>97.99</td>
+      <td>92</td>
+      <td>123</td>
+      <td>1</td>
+      <td>196</td>
+      <td>98.49</td>
+      <td>0</td>
+      <td>0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>adoption_diffusion</td>
+      <td>14</td>
+      <td>51.90</td>
+      <td>73.37</td>
+      <td>18.09</td>
+      <td>81.91</td>
+      <td>8</td>
+      <td>8</td>
+      <td>6</td>
+      <td>183</td>
+      <td>91.96</td>
+      <td>0</td>
+      <td>0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>socioeconomic_control</td>
+      <td>28</td>
+      <td>79.65</td>
+      <td>86.68</td>
+      <td>26.13</td>
+      <td>98.99</td>
+      <td>20</td>
+      <td>27</td>
+      <td>1</td>
+      <td>198</td>
+      <td>99.50</td>
+      <td>0</td>
+      <td>0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>institutional_control</td>
+      <td>31</td>
+      <td>72.28</td>
+      <td>66.33</td>
+      <td>20.60</td>
+      <td>98.49</td>
+      <td>12</td>
+      <td>27</td>
+      <td>4</td>
+      <td>197</td>
+      <td>98.99</td>
+      <td>0</td>
+      <td>0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>tech_infrastructure_control</td>
+      <td>167</td>
+      <td>62.23</td>
+      <td>66.33</td>
+      <td>19.10</td>
+      <td>97.99</td>
+      <td>42</td>
+      <td>159</td>
+      <td>8</td>
+      <td>199</td>
+      <td>100.00</td>
+      <td>0</td>
+      <td>0</td>
+      <td>NaN</td>
+    </tr>
+  </tbody>
+</table>
+<div class="alert">
+<strong>Cuello de botella estructural:</strong> El bloque <code>regulatory_treatment</code>
+(IAPP) tiene cobertura ~14% (~28 países). Esto limita directamente la capacidad de responder
+las preguntas causales Q1-Q3. Ver submuestras 'regulada' para el análisis focalizado.
+</div>
+<h2 id="submuestras">3. Submuestras Candidatas (Multiverse Analysis)</h2>
+<div class="note">
+<strong>Filosofía:</strong> Fase 4 propone múltiples submuestras candidatas con criterios explícitos
+preregistrados. Fase 6 modela con una. Fase 7 remodela con todas para evaluar robustez.
+Esta práctica sigue los estándares de <em>multiverse analysis</em> (Simonsohn et al. 2020).
+</div>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>submuestra</th>
+      <th>n_countries</th>
+      <th>chile_present</th>
+      <th>key_countries_present</th>
+      <th>key_countries_total</th>
+      <th>pct_coverage_mean</th>
+      <th>criterion</th>
+      <th>cov_regulatory_treatment</th>
+      <th>cov_ecosystem_outcome</th>
+      <th>cov_adoption_diffusion</th>
+      <th>cov_socioeconomic_control</th>
+      <th>cov_institutional_control</th>
+      <th>cov_tech_infrastructure_control</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>densa_80</td>
+      <td>110</td>
+      <td>True</td>
+      <td>8</td>
+      <td>8</td>
+      <td>88.36</td>
+      <td>pct_variables_available &gt;= 80%</td>
+      <td>40.35</td>
+      <td>97.39</td>
+      <td>67.86</td>
+      <td>94.12</td>
+      <td>87.60</td>
+      <td>92.24</td>
+    </tr>
+    <tr>
+      <td>densa_60</td>
+      <td>132</td>
+      <td>True</td>
+      <td>8</td>
+      <td>8</td>
+      <td>86.40</td>
+      <td>pct_variables_available &gt;= 60%</td>
+      <td>35.83</td>
+      <td>96.13</td>
+      <td>63.91</td>
+      <td>91.69</td>
+      <td>86.31</td>
+      <td>90.36</td>
+    </tr>
+    <tr>
+      <td>regulada</td>
+      <td>28</td>
+      <td>True</td>
+      <td>6</td>
+      <td>8</td>
+      <td>90.82</td>
+      <td>al menos 1 variable IAPP no nula</td>
+      <td>91.59</td>
+      <td>94.61</td>
+      <td>67.60</td>
+      <td>90.82</td>
+      <td>86.98</td>
+      <td>90.42</td>
+    </tr>
+    <tr>
+      <td>comparable_chile</td>
+      <td>40</td>
+      <td>True</td>
+      <td>1</td>
+      <td>8</td>
+      <td>77.88</td>
+      <td>top-40 países por distancia de Gower a Chile (bloques de control)</td>
+      <td>31.77</td>
+      <td>89.76</td>
+      <td>63.93</td>
+      <td>89.73</td>
+      <td>77.18</td>
+      <td>77.66</td>
+    </tr>
+    <tr>
+      <td>oecd_plus_latam</td>
+      <td>44</td>
+      <td>True</td>
+      <td>5</td>
+      <td>8</td>
+      <td>93.08</td>
+      <td>OECD + LATAM (lista cerrada preregistrada)</td>
+      <td>52.86</td>
+      <td>98.31</td>
+      <td>88.15</td>
+      <td>97.89</td>
+      <td>97.65</td>
+      <td>96.16</td>
+    </tr>
+    <tr>
+      <td>full</td>
+      <td>199</td>
+      <td>True</td>
+      <td>8</td>
+      <td>8</td>
+      <td>67.31</td>
+      <td>todos los países soberanos (country_iso3)</td>
+      <td>25.71</td>
+      <td>83.13</td>
+      <td>51.90</td>
+      <td>79.65</td>
+      <td>72.28</td>
+      <td>62.23</td>
+    </tr>
+  </tbody>
+</table>
+<h2 id="chile">4. Perfil de Chile</h2>
+<div>
+<div class="metric-box"><div class="metric-value">CHL</div><div class="metric-label">Iso3</div></div>
+<div class="metric-box"><div class="metric-value">Chile</div><div class="metric-label">Country Name</div></div>
+<div class="metric-box"><div class="metric-value">31</div><div class="metric-label">N Vars Regulatory Treatment</div></div>
+<div class="metric-box"><div class="metric-value">30</div><div class="metric-label">N Data Regulatory Treatment</div></div>
+<div class="metric-box"><div class="metric-value">96.77</div><div class="metric-label">Pct Coverage Regulatory Treatment</div></div>
+<div class="metric-box"><div class="metric-value">81.21</div><div class="metric-label">Avg Percentile Regulatory Treatment</div></div>
+<div class="metric-box"><div class="metric-value">0.9587</div><div class="metric-label">Zscore Regulatory Treatment</div></div>
+<div class="metric-box"><div class="metric-value">54</div><div class="metric-label">Rank Regulatory Treatment Of 199</div></div>
+<div class="metric-box"><div class="metric-value">124</div><div class="metric-label">N Vars Ecosystem Outcome</div></div>
+<div class="metric-box"><div class="metric-value">123</div><div class="metric-label">N Data Ecosystem Outcome</div></div>
+<div class="metric-box"><div class="metric-value">99.19</div><div class="metric-label">Pct Coverage Ecosystem Outcome</div></div>
+<div class="metric-box"><div class="metric-value">65.81</div><div class="metric-label">Avg Percentile Ecosystem Outcome</div></div>
+<div class="metric-box"><div class="metric-value">0.7231</div><div class="metric-label">Zscore Ecosystem Outcome</div></div>
+<div class="metric-box"><div class="metric-value">59</div><div class="metric-label">Rank Ecosystem Outcome Of 199</div></div>
+<div class="metric-box"><div class="metric-value">14</div><div class="metric-label">N Vars Adoption Diffusion</div></div>
+<div class="metric-box"><div class="metric-value">8</div><div class="metric-label">N Data Adoption Diffusion</div></div>
+<div class="metric-box"><div class="metric-value">57.14</div><div class="metric-label">Pct Coverage Adoption Diffusion</div></div>
+<div class="metric-box"><div class="metric-value">69.81</div><div class="metric-label">Avg Percentile Adoption Diffusion</div></div>
+<div class="metric-box"><div class="metric-value">0.8752</div><div class="metric-label">Zscore Adoption Diffusion</div></div>
+<div class="metric-box"><div class="metric-value">46</div><div class="metric-label">Rank Adoption Diffusion Of 199</div></div>
+<div class="metric-box"><div class="metric-value">28</div><div class="metric-label">N Vars Socioeconomic Control</div></div>
+<div class="metric-box"><div class="metric-value">28</div><div class="metric-label">N Data Socioeconomic Control</div></div>
+<div class="metric-box"><div class="metric-value">100.0</div><div class="metric-label">Pct Coverage Socioeconomic Control</div></div>
+<div class="metric-box"><div class="metric-value">62.7</div><div class="metric-label">Avg Percentile Socioeconomic Control</div></div>
+<div class="metric-box"><div class="metric-value">1.8092</div><div class="metric-label">Zscore Socioeconomic Control</div></div>
+<div class="metric-box"><div class="metric-value">70</div><div class="metric-label">Rank Socioeconomic Control Of 199</div></div>
+<div class="metric-box"><div class="metric-value">31</div><div class="metric-label">N Vars Institutional Control</div></div>
+<div class="metric-box"><div class="metric-value">31</div><div class="metric-label">N Data Institutional Control</div></div>
+<div class="metric-box"><div class="metric-value">100.0</div><div class="metric-label">Pct Coverage Institutional Control</div></div>
+<div class="metric-box"><div class="metric-value">58.8</div><div class="metric-label">Avg Percentile Institutional Control</div></div>
+<div class="metric-box"><div class="metric-value">0.2872</div><div class="metric-label">Zscore Institutional Control</div></div>
+<div class="metric-box"><div class="metric-value">95</div><div class="metric-label">Rank Institutional Control Of 199</div></div>
+<div class="metric-box"><div class="metric-value">167</div><div class="metric-label">N Vars Tech Infrastructure Control</div></div>
+<div class="metric-box"><div class="metric-value">166</div><div class="metric-label">N Data Tech Infrastructure Control</div></div>
+<div class="metric-box"><div class="metric-value">99.4</div><div class="metric-label">Pct Coverage Tech Infrastructure Control</div></div>
+<div class="metric-box"><div class="metric-value">57.73</div><div class="metric-label">Avg Percentile Tech Infrastructure Control</div></div>
+<div class="metric-box"><div class="metric-value">0.4051</div><div class="metric-label">Zscore Tech Infrastructure Control</div></div>
+<div class="metric-box"><div class="metric-value">66</div><div class="metric-label">Rank Tech Infrastructure Control Of 199</div></div>
+</div>
+<div class="note">
+<strong>Nota metodológica:</strong> Las afirmaciones sobre Chile (n=1) son descriptivas, no causales.
+Chile es el caso focal del estudio (Boletín 16821-19), no un dato estadístico.
+</div>
+<h2 id="countries">5. Rankings de Países — Ecosystem Outcome</h2>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>iso3</th>
+      <th>country_name_canonical</th>
+      <th>region</th>
+      <th>zscore_ecosystem_outcome_mean</th>
+      <th>zscore_regulatory_treatment_mean</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>USA</td>
+      <td>United States</td>
+      <td>North America</td>
+      <td>5.4912</td>
+      <td>40.8813</td>
+    </tr>
+    <tr>
+      <td>CHE</td>
+      <td>Switzerland</td>
+      <td>Europe &amp; Central Asia</td>
+      <td>5.2540</td>
+      <td>4.5688</td>
+    </tr>
+    <tr>
+      <td>KOR</td>
+      <td>South Korea</td>
+      <td>East Asia &amp; Pacific</td>
+      <td>4.9720</td>
+      <td>2.1174</td>
+    </tr>
+    <tr>
+      <td>SWE</td>
+      <td>Sweden</td>
+      <td>Europe &amp; Central Asia</td>
+      <td>4.8528</td>
+      <td>0.6250</td>
+    </tr>
+    <tr>
+      <td>DEU</td>
+      <td>Germany</td>
+      <td>Europe &amp; Central Asia</td>
+      <td>4.8200</td>
+      <td>14.9879</td>
+    </tr>
+    <tr>
+      <td>HKG</td>
+      <td>Hong Kong</td>
+      <td>East Asia &amp; Pacific</td>
+      <td>4.6491</td>
+      <td>2.8770</td>
+    </tr>
+    <tr>
+      <td>NLD</td>
+      <td>Netherlands (Kingdom of the)</td>
+      <td>Europe &amp; Central Asia</td>
+      <td>4.4927</td>
+      <td>6.5417</td>
+    </tr>
+    <tr>
+      <td>JPN</td>
+      <td>Japan</td>
+      <td>East Asia &amp; Pacific</td>
+      <td>4.4340</td>
+      <td>3.0321</td>
+    </tr>
+    <tr>
+      <td>FIN</td>
+      <td>Finland</td>
+      <td>Europe &amp; Central Asia</td>
+      <td>4.3671</td>
+      <td>1.0955</td>
+    </tr>
+    <tr>
+      <td>DNK</td>
+      <td>Denmark</td>
+      <td>Europe &amp; Central Asia</td>
+      <td>4.1776</td>
+      <td>1.1000</td>
+    </tr>
+    <tr>
+      <td>GBR</td>
+      <td>United Kingdom</td>
+      <td>Europe &amp; Central Asia</td>
+      <td>4.1263</td>
+      <td>8.2564</td>
+    </tr>
+    <tr>
+      <td>SGP</td>
+      <td>Singapore</td>
+      <td>East Asia &amp; Pacific</td>
+      <td>4.1210</td>
+      <td>4.1714</td>
+    </tr>
+    <tr>
+      <td>ISR</td>
+      <td>Israel</td>
+      <td>Middle East, North Africa, Afghanistan &amp; Pakistan</td>
+      <td>4.0651</td>
+      <td>1.3412</td>
+    </tr>
+    <tr>
+      <td>CHN</td>
+      <td>China</td>
+      <td>East Asia &amp; Pacific</td>
+      <td>4.0228</td>
+      <td>18.0642</td>
+    </tr>
+    <tr>
+      <td>FRA</td>
+      <td>France</td>
+      <td>Europe &amp; Central Asia</td>
+      <td>3.7779</td>
+      <td>7.2459</td>
+    </tr>
+    <tr>
+      <td>LUX</td>
+      <td>Luxembourg</td>
+      <td>Europe &amp; Central Asia</td>
+      <td>3.4078</td>
+      <td>-0.0222</td>
+    </tr>
+    <tr>
+      <td>CAN</td>
+      <td>Canada</td>
+      <td>North America</td>
+      <td>3.2978</td>
+      <td>5.7879</td>
+    </tr>
+    <tr>
+      <td>AUT</td>
+      <td>Austria</td>
+      <td>Europe &amp; Central Asia</td>
+      <td>3.2303</td>
+      <td>1.3580</td>
+    </tr>
+    <tr>
+      <td>NOR</td>
+      <td>Norway</td>
+      <td>Europe &amp; Central Asia</td>
+      <td>2.7711</td>
+      <td>0.1556</td>
+    </tr>
+    <tr>
+      <td>IRL</td>
+      <td>Ireland</td>
+      <td>Europe &amp; Central Asia</td>
+      <td>2.7088</td>
+      <td>4.3639</td>
+    </tr>
+  </tbody>
+</table>
+<h2 id="methodology">6. Nota Metodológica</h2>
+<div class="ok">
+<strong>Principios de esta fase (no negociables):</strong><br>
+• Estadística robusta primero: mediana &gt; media, Spearman &gt; Pearson, IQR/MAD &gt; std<br>
+• Corrección FDR (Benjamini-Hochberg) para correlaciones masivas<br>
+• Outliers preservados (USA, SGP, ARE, IRL, EST) — son información, no ruido<br>
+• Sin imputación, sin modelos, sin decisión Y/X<br>
+• Toda correlación reportada ≠ causalidad<br>
+• El plan de exploración fue preregistrado en <code>config/fase4/decisions.yaml</code>
+</div>
+<p><strong>Referencias:</strong><br>
+Simonsohn, Simmons &amp; Nelson (2020). Specification Curve Analysis. <em>Nature Human Behaviour</em>.<br>
+Steegen, Tuerlinckx, Gelman &amp; Vanpaemel (2016). Increasing Transparency Through a Multiverse Analysis. <em>Perspectives on Psychological Science</em>.
+</p>
+
+</body></html>
