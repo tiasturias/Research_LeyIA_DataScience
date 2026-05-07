@@ -1,0 +1,17 @@
+version: "0.1"
+fecha: "2026-05-07"
+
+treatment_col: "iapp_ley_ia_vigente"
+caliper: 0.20
+n_boot: 2000
+seed: 42
+
+valid_status:
+  - ok
+  - exploratory_low_n
+  - insufficient_n
+
+notes: |
+  PSM es exploratorio. Caliper 0.20 (no 0.10) porque N=18 IAPP produce
+  solo 3-6 pares con caliper estricto. Si k<5 marcar status="exploratory_low_n".
+  Bootstrap-OLS es el motor principal de Q1; PSM es auxiliar.

@@ -1,0 +1,6 @@
+question,tier,x_var,n_y_total,n_y_negative,n_y_positive,n_y_significant_05
+Q6,primary,n_binding,5,0,5,0
+Q6,primary,n_non_binding,5,4,1,0
+Q6,primary,n_hybrid,5,3,2,0
+Q6,primary,regulatory_intensity,5,4,1,0
+Q6,primary,n_regulatory_mechanisms,5,1,4,0

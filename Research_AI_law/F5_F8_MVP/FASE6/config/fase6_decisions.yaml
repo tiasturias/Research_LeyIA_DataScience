@@ -1,0 +1,69 @@
+version: "0.1"
+fecha: "2026-05-07"
+firma_humana: PENDIENTE
+
+decisiones:
+  - id: F6-A
+    decision: "Orden ejecución: Q4 → Q1 → Q3 → Q2 → Q5 → Q6 → manifest"
+    justificacion: "Q4 self-contained desbloquea narrativa; Q1 consolida _common_regression; Q3 reusa; Q2 último por binarización; Q5/Q6 al final"
+    estado: approved
+
+  - id: F6-B
+    decision: "Bootstrap-OLS como motor principal de Q1; PSM degradado a exploratorio (caliper 0.20)"
+    justificacion: "6 tratados + 12 controles producen 3-5 pares — IC PSM no interpretables. Bootstrap 2000 sobre OLS da IC válidos"
+    estado: approved
+
+  - id: F6-C
+    decision: "Q3 dual: primary (6 Y sin Stanford) + auxiliary (solo Stanford con N=26)"
+    justificacion: "C1 pierde info; C2 contamina promedio signos; C3 honesto"
+    estado: approved
+
+  - id: F6-D
+    decision: "Repeated 5-fold CV + Bootstrap 2000 + LOOCV sanity check"
+    justificacion: "5-fold para R²/AUC; bootstrap para IC coeficientes; LOOCV para detectar inestabilidad"
+    estado: approved
+
+  - id: F6-E
+    decision: "Q1 modelos separados por Y + tabla consistency + FDR-BH"
+    justificacion: "Audiencia política necesita 'efecto sobre {algo concreto}'. Índice compuesto opaca. SUR requiere pareo"
+    estado: approved
+
+  - id: F6-F
+    decision: "Hyperparams fijos en producción; GridSearchCV solo en Fase 7"
+    justificacion: "Con N=18-25 GridSearch infla métricas y hyperparams artificiales. F1 elimina investigator degrees of freedom"
+    estado: approved
+
+  - id: F6-G
+    decision: "Q4 dual: cluster N=43 oficial (Gower mixto) + N=18 complementario (Jaccard binario puro)"
+    justificacion: "False clustering por missingness si forzamos N=43 con vector binario IAPP. Dual es honesto"
+    estado: approved
+
+  - id: F6-H
+    decision: "Train/test split aceptado tal cual; agregar test_split_integrity.py"
+    justificacion: "Anomalía reportada fue parsing artifact, no bug real. CSV correcto verificado"
+    estado: approved
+
+  - id: F6-I
+    decision: "Lenguaje 'asociación' por defecto; 'ATT' solo en sección PSM con supuestos explícitos"
+    justificacion: "Asimetría política: overclaim daña credibilidad permanentemente"
+    estado: approved
+
+  - id: F6-J
+    decision: "Output schemas long-format, una fila por (y_var, model, x_var)"
+    justificacion: "Fase 8 hace .query() sin reshape; auditable celda-a-celda; agregar Y/modelos no rompe schema"
+    estado: approved
+
+  - id: F6-K
+    decision: "Q6 estrategia: expandir Fase 5 con 6 variables nuevas para hacer Q6 robusta"
+    justificacion: "Con solo oxford_public_sector_adoption Q6 quedaría sin consistency table; costo bajo (+2h) vs valor metodológico"
+    estado: approved
+
+  - id: F6-L
+    decision: "PCA fuera de scope Fase 6. Análisis exploratorio de varianza/redundancia delegado a Fase 4"
+    justificacion: "N/p ≈ 0.4 hace PCA inestable; Q4 clustering + Ridge/Lasso cubren función analítica; PC components no interpretables para Senado"
+    estado: approved
+
+  - id: F6-M
+    decision: "Q2 mantiene sus 9 Y. Q5 y Q6 reusan algunas; cada modelo se entrena por su sub-pregunta"
+    justificacion: "Variables conceptualmente reusables (uso ciudadano forma parte de adopción general). Forzar exclusividad sería artificial"
+    estado: approved

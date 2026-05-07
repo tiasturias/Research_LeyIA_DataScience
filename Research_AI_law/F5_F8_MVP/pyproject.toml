@@ -22,8 +22,8 @@ dependencies = [
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["_common*", "FASE5*"]
+include = ["_common*", "FASE5*", "FASE6*"]
 
 [tool.pytest.ini_options]
-testpaths = ["FASE5/tests"]
+testpaths = ["FASE5/tests", "FASE6/tests"]
 addopts = "-q"

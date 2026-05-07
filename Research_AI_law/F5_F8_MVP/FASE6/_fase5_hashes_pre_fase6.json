@@ -1,0 +1,17 @@
+{
+  "phase": "pre_fase6",
+  "hashes": {
+    "phase6_column_groups.yaml": "12ed7b880e7dfb061fb3b7aaa79da4115850c64ebfba8965223f03efdbccc07c",
+    "phase6_feature_matrix.csv": "949aa6984a4a39d62ab209bea9c9ebf93f1fc174542714110bcb2b8f4eb4af9b",
+    "phase6_llm_context.json": "099c0be25d007ccaa54eeda19f06b05df6653d8dba73cd581161b7727e51cf8a",
+    "phase6_missingness_by_column.csv": "57c34ceee2d0eb6d9057e0d47f38c6b4b90894accafe4889b06bcb96f28817cc",
+    "phase6_missingness_by_country.csv": "ca3aa2eba8a45224bdb5dae4b544b8c0caa2798e6c21cf278bc107c23cd192ce",
+    "phase6_modeling_contract.yaml": "023a10805a81466c1eae1533ed9f40ab2eefda07546e4c0f1b1d27d2d45f310e",
+    "phase6_ready_manifest.json": "4f4b60a98391823135b91d9d3bacf79a01940b95bfcfefbe77c12cae446d5d83",
+    "phase6_schema.csv": "c7461b2accce46b6ca23fcdb4e360570d3bcb09bda758ac82b856e304104cc7a",
+    "phase6_schema.json": "06c4203dee72024304bab04441eac2484e0db554b42ad8fb14796425a5bba478",
+    "phase6_train_test_split.csv": "6c270efcfcadb79735b313da0ad323d38ec2f083b3e0ff912edde1387b1d3ca1",
+    "phase6_transform_params.csv": "25c5cc63b58cc81df3014460c0af784e95dd1cb011e924b3c89b21e415b2e7fc",
+    "phase6_variables_catalog.csv": "33b9fe8832cfbe0020d6c3d8062ba17212d97f4bb1ee915b5ab0add9669c44e5"
+  }
+}

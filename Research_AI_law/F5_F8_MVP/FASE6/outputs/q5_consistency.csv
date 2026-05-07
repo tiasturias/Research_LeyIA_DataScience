@@ -1,0 +1,6 @@
+question,x_var,n_y_total,n_y_negative,n_y_positive,n_y_significant_05,n_y_significant_05_after_fdr,direction_summary
+Q5,n_binding,3,2,1,1,1,robust_negative
+Q5,n_non_binding,3,3,0,1,0,robust_negative
+Q5,n_hybrid,3,1,2,0,0,null
+Q5,regulatory_intensity,3,2,1,1,0,robust_negative
+Q5,n_regulatory_mechanisms,3,0,3,1,0,robust_positive

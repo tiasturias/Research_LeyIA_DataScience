@@ -1,0 +1,5 @@
+method,scope,k,silhouette_score,n_observations
+kmeans,n43_mixed,4,0.7553393019395112,43
+hca,n43_mixed,4,0.7553393019395112,43
+kmeans,n18_binary,4,0.7646596001806356,18
+hca,n18_binary,4,0.7890373707040373,18
