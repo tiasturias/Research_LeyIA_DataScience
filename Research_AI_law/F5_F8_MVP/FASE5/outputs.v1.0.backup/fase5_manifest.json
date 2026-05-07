@@ -1,0 +1,501 @@
+{
+  "version": "0.1",
+  "created_at": "2026-05-07T14:05:35.818674+00:00",
+  "git_sha": "6cd6c36bc471d04f8af580068e1575ca843227ab",
+  "fase3_version": "1.1",
+  "inputs_hashed": {
+    "FASE3/outputs/Matriz_Madre_Fase3.xlsx": {
+      "sha256": "5183a17e4f65ec6ca1eef4a8c2cdd7bc2284084cd6375da7c090abe3a401749a",
+      "bytes": 28416186
+    },
+    "FASE3/outputs/README_MATRIZ_MADRE.md": {
+      "sha256": "911c0b9e8c290b2ed92301a7ae30260e76d5ad8e45df8df63238273824e6ad56",
+      "bytes": 4191
+    },
+    "FASE3/outputs/fase3_auditoria_muestra_valores.csv": {
+      "sha256": "813399c884d5638692b92b6596267ce2a39bed41cc0df1ac9922fec7079db237",
+      "bytes": 11668
+    },
+    "FASE3/outputs/fase3_decisiones_metodologicas.csv": {
+      "sha256": "3af4c35f03ace6ca2a321e7c589d679ba666e9ba46459a4dab7fedf6a9d9f08a",
+      "bytes": 918
+    },
+    "FASE3/outputs/fase3_diccionario_variables.csv": {
+      "sha256": "65c041be79455db3c8251bc771a8f0d4eea4acaf54d8657a8a25f5265e393a9d",
+      "bytes": 154571
+    },
+    "FASE3/outputs/fase3_entidades_excluidas_geografia.csv": {
+      "sha256": "0e43cd86ee7a2847e6f9efe5fc202697e7b9a5b515aab3c14bd523f3fa7ecdf2",
+      "bytes": 6522
+    },
+    "FASE3/outputs/fase3_fuentes_usadas.csv": {
+      "sha256": "47dbdf5d962ef214a3f8611a0a32eb5d156773c5678f03c69296f44e1505e957",
+      "bytes": 1263
+    },
+    "FASE3/outputs/fase3_geo_crosswalk_manual.csv": {
+      "sha256": "f3887557ee80fe393167d124bf7c684f388444cf13eb172674f3fad4e1d9d507",
+      "bytes": 45158
+    },
+    "FASE3/outputs/fase3_human_review_log.csv": {
+      "sha256": "fce1b75c276ffeae6acf5e12324c6e0aae5bdcb8fecced38c4ffdccfbb536698",
+      "bytes": 586
+    },
+    "FASE3/outputs/fase3_issue_resolution_log.csv": {
+      "sha256": "13ef9e8b54363b0876b9445ca126bfad46360e5b0dbbfdc28a6e8d21ef59f607",
+      "bytes": 611
+    },
+    "FASE3/outputs/fase3_reglas_temporales.csv": {
+      "sha256": "41e18939e20c3086fcb1aab0b27f7abbd046bf274a58f2098e1367dea279154e",
+      "bytes": 708
+    },
+    "FASE3/outputs/fase3_reporte_calidad_matriz.csv": {
+      "sha256": "18c7ae8dca2aa6588818d42dc62731f8878c09bbec01496581b2878ce662af77",
+      "bytes": 1603
+    },
+    "FASE3/outputs/fase3_reporte_calidad_matriz.md": {
+      "sha256": "d1a2782971eab31e75d9961b2eda8e1910babad9f5c3ae91b221148c5de0830c",
+      "bytes": 4977
+    },
+    "FASE3/outputs/fase3_tablas_seleccionadas.csv": {
+      "sha256": "33dcb3cddb9b7c2f3e3b2552e151d25d8dbe7e75e60d3ff64b1e9154ad1a1a55",
+      "bytes": 526
+    },
+    "FASE3/outputs/fase3_universo_geografico.csv": {
+      "sha256": "f9e6139902c341e3eedc68ddca8dcbe293248dbb3bfdfe83264dbfb07a54d450",
+      "bytes": 39086
+    },
+    "FASE3/outputs/fase3_variables_excluidas.csv": {
+      "sha256": "63727b60e0d953a110536ce23c0df47f328a2654277843df951e8a2c4fd5b1ba",
+      "bytes": 524
+    },
+    "FASE3/outputs/manifest.json": {
+      "sha256": "5db83f59ec74de21a2abfc5e24ac6f252ee353b9d148a200f7997c71812bb9ea",
+      "bytes": 9831
+    },
+    "FASE3/outputs/matriz_larga_panel.csv": {
+      "sha256": "950d505757d778c7eeb1dbc6a734c3e73763a081c2cf103ac85a2649c4c7b06c",
+      "bytes": 57629187
+    },
+    "FASE3/outputs/matriz_larga_snapshot.csv": {
+      "sha256": "1cf6d5053711f1947472475885a2b521b9af3b6362003a4f5e3e0c9570bbf027",
+      "bytes": 23512583
+    },
+    "FASE3/outputs/matriz_madre_trazabilidad.csv": {
+      "sha256": "410243d46c8c16d183e6290d13508e6e750ae47d1757beec10c57b759adcde91",
+      "bytes": 18207054
+    },
+    "FASE3/outputs/matriz_madre_wide.csv": {
+      "sha256": "ce8fe90f069c8c5d8ba4853310220a226ae964e888394e8da24956d003d390c1",
+      "bytes": 1715939
+    },
+    "FASE4/outputs/eda_principal/EDA_Principal_Fase4.html": {
+      "sha256": "7ab7a2f66a51571821cf626041cd9c0d103ac97a75af450471fc3039f4038616",
+      "bytes": 18120
+    },
+    "FASE4/outputs/eda_principal/README_EDA_PRINCIPAL.md": {
+      "sha256": "149d4d02165f7a1e328cf8a43fd176e77a674a84a126f7146970b7892c9fbf88",
+      "bytes": 1657
+    },
+    "FASE4/outputs/eda_principal/contract_check.csv": {
+      "sha256": "8e4e18b7d03a1cbb2f80cb639bc9fa58500d69657e3004c0f598a51fbbd5313c",
+      "bytes": 763
+    },
+    "FASE4/outputs/eda_principal/eda_binding_classification.csv": {
+      "sha256": "8541f77a23d78ceb2b63b306bbda3d7a5612f20d9ebf51de3f54d8b583a88dce",
+      "bytes": 18902
+    },
+    "FASE4/outputs/eda_principal/eda_binding_vs_outcome.csv": {
+      "sha256": "e4bfca25850644507fdf240cf7be8366012ac2ad59ba3ba56241142fbe17d575",
+      "bytes": 16102
+    },
+    "FASE4/outputs/eda_principal/eda_block_adoption_diffusion_summary.csv": {
+      "sha256": "fc3484085dc0bd3c5d7aac873f842152184b42acef33f2713bdc40d1622102f0",
+      "bytes": 1774
+    },
+    "FASE4/outputs/eda_principal/eda_block_ecosystem_outcome_summary.csv": {
+      "sha256": "7a3743feb327d3cbc2f6f6db3dc1691c09c67061b61ac2c8f78473f9706e010d",
+      "bytes": 14504
+    },
+    "FASE4/outputs/eda_principal/eda_block_institutional_control_summary.csv": {
+      "sha256": "bfa2c27afdc05394b572077ef16c380d082d61dfba5801b0c899ef62e5b4ea1b",
+      "bytes": 3968
+    },
+    "FASE4/outputs/eda_principal/eda_block_pca_loadings.csv": {
+      "sha256": "2bb28a8df8d8b4c5121688b269dd583617c8d1cfcd22c23225011a93769523af",
+      "bytes": 74231
+    },
+    "FASE4/outputs/eda_principal/eda_block_regulatory_treatment_summary.csv": {
+      "sha256": "fdca3ba6bf3d9edef557d8a4eaf6d27d178e85936616f2a8d28645e16f968276",
+      "bytes": 3862
+    },
+    "FASE4/outputs/eda_principal/eda_block_socioeconomic_control_summary.csv": {
+      "sha256": "59b4795cc21a995371d2fa2c365d1a4d69bc61f36af3b8d7de8054ca506e4364",
+      "bytes": 3515
+    },
+    "FASE4/outputs/eda_principal/eda_block_tech_infrastructure_control_summary.csv": {
+      "sha256": "4f0b93932526a6f291f9cfff58a8d4b745341e701ae749044790ee2f6f19ab95",
+      "bytes": 20734
+    },
+    "FASE4/outputs/eda_principal/eda_candidates_for_feature_engineering.csv": {
+      "sha256": "ea94e2dbccb9af7ebbdd767ae5835e7f5c8759aa513e46605ba9516dcd9a0305",
+      "bytes": 36008
+    },
+    "FASE4/outputs/eda_principal/eda_categorical_distributions.csv": {
+      "sha256": "509b5db1b3241309d3a9cdda72b16e7c90eaec843a455af16b1f2d4cd38d3115",
+      "bytes": 2098
+    },
+    "FASE4/outputs/eda_principal/eda_chile_profile.csv": {
+      "sha256": "4db8cb8de6f01141d3fbb4afd0f53a3d3f641c6029c792d76d3fa15b8d67fb90",
+      "bytes": 1342
+    },
+    "FASE4/outputs/eda_principal/eda_chile_vs_peers.csv": {
+      "sha256": "a8114157451f6ef8b6caf55fb1c9fa9cb33083e673efd8bdc73507247e64368c",
+      "bytes": 2750
+    },
+    "FASE4/outputs/eda_principal/eda_clustering_countries.csv": {
+      "sha256": "639038c89023eee1fadd3be546b2dc49f0000ef87f1e4e5d0f8ca8774e630018",
+      "bytes": 17804
+    },
+    "FASE4/outputs/eda_principal/eda_correlations_kendall.csv": {
+      "sha256": "6042ff7515acaa8badbc40873f9a817301f41f9f24132939246a8e4e89df6f4f",
+      "bytes": 6797702
+    },
+    "FASE4/outputs/eda_principal/eda_correlations_pearson.csv": {
+      "sha256": "beba03df57712200372eca9f4d82729ffd8d0ba49478d6fd188106ba4dc1bbd5",
+      "bytes": 6831763
+    },
+    "FASE4/outputs/eda_principal/eda_correlations_spearman.csv": {
+      "sha256": "cef9a9bdbdb83107f3490d47fc8f65862bd79ecebf719e278371147f4d705e7b",
+      "bytes": 6859758
+    },
+    "FASE4/outputs/eda_principal/eda_country_profiles.csv": {
+      "sha256": "c44a8d320a87be5c54a25bd13663c5a7f6ead289d14b0bf019d5eff1a4ddc07e",
+      "bytes": 31966
+    },
+    "FASE4/outputs/eda_principal/eda_data_gaps.csv": {
+      "sha256": "31d1998a5ac5456d20ba5b246b6d33e8c0a83e80210946b47868c83815834f68",
+      "bytes": 915
+    },
+    "FASE4/outputs/eda_principal/eda_decisions_for_fase5.yaml": {
+      "sha256": "b0dd38d17cb1cf84eae13ebd6b557aaaa658e408bcdd26b439b716ca8c083b14",
+      "bytes": 9689
+    },
+    "FASE4/outputs/eda_principal/eda_enabling_classification.csv": {
+      "sha256": "b540df0ae37f955a69596023a530700c45cf2b5009a208065ce251a9544b624d",
+      "bytes": 18273
+    },
+    "FASE4/outputs/eda_principal/eda_inter_block_correlations.csv": {
+      "sha256": "be4082c97df2fa1e8b585c5ca85227804b63a1e06cc3346c75f8fd3c5d138cb0",
+      "bytes": 4288648
+    },
+    "FASE4/outputs/eda_principal/eda_inter_block_fdr.csv": {
+      "sha256": "755bc8b8593ccd9ca81d457a0c0ea67bc6dfc0e28cab0296627eaca20985fc5c",
+      "bytes": 3987065
+    },
+    "FASE4/outputs/eda_principal/eda_missingness_by_block.csv": {
+      "sha256": "747abdc2aa1d60ec022331e134820464cfaab92625cdfa8f616ab37527050f00",
+      "bytes": 713
+    },
+    "FASE4/outputs/eda_principal/eda_missingness_by_country.csv": {
+      "sha256": "cee422e4c20702467b9d6b081d5ffba218f1d6c2b3ddc16481c88451dcf14bd3",
+      "bytes": 22912
+    },
+    "FASE4/outputs/eda_principal/eda_missingness_by_region.csv": {
+      "sha256": "ca308abe2a4416115331dce0af8d14aa3e58c66c805f4ed4eeb99047bf8c9097",
+      "bytes": 655
+    },
+    "FASE4/outputs/eda_principal/eda_missingness_by_variable.csv": {
+      "sha256": "a1355e62ec9fa53ba30ca8bf8efb079bc7a64f4b0c1d6faa14def6cb9e6166ea",
+      "bytes": 41682
+    },
+    "FASE4/outputs/eda_principal/eda_mutual_information.csv": {
+      "sha256": "67fdb26f4169e5bc93dd515ff18449edb8f8d2e2bda5e349fc133d7f5f6faaf7",
+      "bytes": 429348
+    },
+    "FASE4/outputs/eda_principal/eda_numeric_distributions.csv": {
+      "sha256": "6ec0536a7fc4566426d732236607717c0ebaf20cd19038a8902bd09ebab23856",
+      "bytes": 65078
+    },
+    "FASE4/outputs/eda_principal/eda_outliers.csv": {
+      "sha256": "02757df3949bc3859c63ea755f9613b92d63b14e17d7800ccddd81fd2bff7597",
+      "bytes": 112097
+    },
+    "FASE4/outputs/eda_principal/eda_partial_correlations.csv": {
+      "sha256": "c4f8b742a87ba965aa8cae6355b082d083615a97b4b4d16bc0c9dec4590cd621",
+      "bytes": 11568
+    },
+    "FASE4/outputs/eda_principal/eda_pca_global.csv": {
+      "sha256": "e34ca78a2b4d2cff048cb6c98a457627b9259a31b517046a485bf14b23de88eb",
+      "bytes": 110095
+    },
+    "FASE4/outputs/eda_principal/eda_quality_overview.csv": {
+      "sha256": "c64ea09375e5ad9d9570aefa7422747e3bbcdcfe69e8c33d3fe48a1fee54d884",
+      "bytes": 304
+    },
+    "FASE4/outputs/eda_principal/eda_question_q1_investment.csv": {
+      "sha256": "a75e4c9d9a148a86b6733d01a90fba27ddc1ecbdef103e2ce2133f95f4dbccea",
+      "bytes": 2916
+    },
+    "FASE4/outputs/eda_principal/eda_question_q2_adoption.csv": {
+      "sha256": "14bb62454bf94e2247fba3800e292b0a1cee0907971a9beabba6b5d0cdfd0441",
+      "bytes": 3092
+    },
+    "FASE4/outputs/eda_principal/eda_question_q3_innovation.csv": {
+      "sha256": "a81411f66289a0a1895a897d65e79ec41a648ab7f6602d652ced7e453b36dbf3",
+      "bytes": 3121
+    },
+    "FASE4/outputs/eda_principal/eda_question_q4_content.csv": {
+      "sha256": "0488ffdaeafd1fce3b10ce6edcd554992e6d6a46be8f72300ca1b02981463dc8",
+      "bytes": 6098
+    },
+    "FASE4/outputs/eda_principal/eda_question_viability.csv": {
+      "sha256": "0c1d4232b0e035f746d22d998da32ec188069e54f03384b596a44887ec4afc30",
+      "bytes": 354
+    },
+    "FASE4/outputs/eda_principal/eda_redundancy_report.csv": {
+      "sha256": "9e6f6fb32944d96dd95c66ee45eea524b65071e8f44ce66cd59e703d5a63b30c",
+      "bytes": 220189
+    },
+    "FASE4/outputs/eda_principal/eda_singapore_uae_ireland_profiles.csv": {
+      "sha256": "ce0f56b3347fe3459b925b7bd217d6f32df2771ad7012e7c542d23b167cc7f5a",
+      "bytes": 968
+    },
+    "FASE4/outputs/eda_principal/eda_snapshot_vs_panel.csv": {
+      "sha256": "33cca8d7fb7254d9b0deae9acff4ac4651603a49293ba0db04f890fcd225ab9d",
+      "bytes": 24464
+    },
+    "FASE4/outputs/eda_principal/eda_submuestra_membership.csv": {
+      "sha256": "aa50cfd929c426ccd5c43a6226874f0cf2d2299ac1881d6bd58a9d227e85b2ea",
+      "bytes": 13454
+    },
+    "FASE4/outputs/eda_principal/eda_submuestras_candidatas.csv": {
+      "sha256": "5b045aa53cc484e77cf94a12c3ba3755a31308f890c11eb5fbf54e7eb0cab3d8",
+      "bytes": 897
+    },
+    "FASE4/outputs/eda_principal/eda_temporal_stability.csv": {
+      "sha256": "80121db42a6e33a27530c164c5b8e7bfa3dc98512a1bd451424e5fa7bc7b0e48",
+      "bytes": 25272
+    },
+    "FASE4/outputs/eda_principal/eda_umap_coords.csv": {
+      "sha256": "8c51173a683436da1f6fd7d0aca6711abb5d9d5bbead3dc83cf503754a32bd7d",
+      "bytes": 18648
+    },
+    "FASE4/outputs/eda_principal/eda_variable_summary.csv": {
+      "sha256": "6c50c33b5eef0b66a7a6e3643c0d6980099d61ad25613147781aac6712e7b500",
+      "bytes": 107866
+    },
+    "FASE4/outputs/eda_principal/eda_vif_diagnostics.csv": {
+      "sha256": "be2a0461d9edea4fa28fbc8679ca31a9c464485011abb905054ee835ecd32245",
+      "bytes": 103
+    },
+    "FASE4/outputs/eda_principal/eda_year_used_distribution.csv": {
+      "sha256": "ffc7261247b88407c7a4b9f60839540e2cbe02cf0548785fb3c071ea9abb26b2",
+      "bytes": 285
+    },
+    "FASE4/outputs/eda_principal/fase3_input_hashes.csv": {
+      "sha256": "7df631e21fe95ce88da1d79def324fd8f6fa169c0cc83d1a7656ce5231752fd7",
+      "bytes": 2109
+    },
+    "FASE4/outputs/eda_principal/manifest_eda_principal.json": {
+      "sha256": "cfcd0eb28f90342409ead80a044e2f21c5f932c973a2aba32faa30d5a5708ec1",
+      "bytes": 9778
+    }
+  },
+  "phase5_implementation_hashed": {
+    "FASE5/config/mvp_decisions.yaml": {
+      "sha256": "1515b9d180f2d3bd3870760b5ee5f6de285041ad70f2c9f931153a0e4cc36625",
+      "bytes": 1241
+    },
+    "FASE5/config/mvp_pipeline.yaml": {
+      "sha256": "730e078ca285419368304d4f7aee7feb628dae3892a26a34693872be2ab6d331",
+      "bytes": 875
+    },
+    "FASE5/config/mvp_sample.yaml": {
+      "sha256": "5e12c707438d654a504a36baaec624b17d3a045a8aad9d3d22c3565b1716e089",
+      "bytes": 4678
+    },
+    "FASE5/config/mvp_variables.yaml": {
+      "sha256": "56b9aec4ae3253d21247d9ebf69a7c4e1be8c665fa087a2e12d732fcd08e0e5b",
+      "bytes": 8075
+    },
+    "FASE5/src/__init__.py": {
+      "sha256": "40a47b0288bb8cc72cb660fbed3385b6bdd343307f736f1a260135fbd08d8e22",
+      "bytes": 60
+    },
+    "FASE5/src/api.py": {
+      "sha256": "42b6d03e6bf0289ece4257072312835e5a20e3918f7394e290040b2e0fe1c4f5",
+      "bytes": 2487
+    },
+    "FASE5/src/audit_excel.py": {
+      "sha256": "8dc1986d505e86adaa5807022d213b8a85200b4645c999270bbdcbf8964943d9",
+      "bytes": 48552
+    },
+    "FASE5/src/build.py": {
+      "sha256": "96cb89e9d3ba85bd0e56f226a8b14f3b7395c3f95e6ca37cb695a9e1c31ffb42",
+      "bytes": 7230
+    },
+    "FASE5/src/config.py": {
+      "sha256": "676baa8ace19856dd1f9fd6a87207d2e350a7226ee484e19acc6b63c467b82d7",
+      "bytes": 247
+    },
+    "FASE5/src/engineer.py": {
+      "sha256": "7aa53516c0bfd01ee78f239a79cec7da12af7485d4f33772ac9ea062607bdc2e",
+      "bytes": 1966
+    },
+    "FASE5/src/phase6_bundle.py": {
+      "sha256": "0e74b012ec2dd901303f7a12e79b1cde3daba809d8c60fa4c42f81220b5e5211",
+      "bytes": 13839
+    },
+    "FASE5/src/sample.py": {
+      "sha256": "2b732cf7cac02704d32cc94fecbd7fa48cd29df232805d0c4aa6170c467c017c",
+      "bytes": 1317
+    },
+    "FASE5/src/transform.py": {
+      "sha256": "8a309344c1dabf90a287697fd266d10b42a6858143c89f2ab609490a55268623",
+      "bytes": 3549
+    },
+    "FASE5/src/validate.py": {
+      "sha256": "edbffd962e4741a09ff8215ca0a077819da8d29254ceb7a68f92903d252a88c4",
+      "bytes": 6539
+    },
+    "FASE5/src/variables.py": {
+      "sha256": "9e2c93e0cd5557d16a4aa355b6e69f28da1ee5a73722a96326f8e929b02bb674",
+      "bytes": 2563
+    },
+    "FASE5/tests/conftest.py": {
+      "sha256": "75db28b0f7cb31f005dd5652620d0bea135d69c7782892a87fc9d24cd88f29d7",
+      "bytes": 415
+    },
+    "FASE5/tests/test_api_and_validate.py": {
+      "sha256": "3088342fa6bc7acc3759f007633e9b046b3bd0b4fe5811c8913c611694f99d98",
+      "bytes": 1592
+    },
+    "FASE5/tests/test_input_immutability.py": {
+      "sha256": "9ab6e28a3086a6ba89e29ad1e1df20b3a94030c6ae33a71bbf01e3cebbfb0203",
+      "bytes": 790
+    },
+    "FASE5/tests/test_no_imputation.py": {
+      "sha256": "24bfda4df1145f65263057a8f91689ac42957e8ab5c8b5fffdf23021d7e868b1",
+      "bytes": 1450
+    },
+    "FASE5/tests/test_outputs.py": {
+      "sha256": "f682b50004be427aa066fef0ba97f42e3f7d6c432f881190fbd7354559a6c10a",
+      "bytes": 2459
+    },
+    "FASE5/tests/test_phase6_ready_bundle.py": {
+      "sha256": "13f8407a87d8bd5365cb9042eac97d364bccf11fb8f49d1a5b17f9b19f674e1b",
+      "bytes": 2770
+    },
+    "FASE5/tests/test_sample_integrity.py": {
+      "sha256": "17fee51da6baac46e8d9318cdeae92414d4cc90c3a58906b36fef431f0840814",
+      "bytes": 636
+    },
+    "FASE5/tests/test_variables_integrity.py": {
+      "sha256": "3688080f7bd0178ffb66a316e098ad4b2c5ef8cac1a8e07a5d82b8a5ea1dc226",
+      "bytes": 771
+    }
+  },
+  "outputs_hashed": {
+    "feature_matrix_mvp.csv": {
+      "path": "FASE5/outputs/feature_matrix_mvp.csv",
+      "sha256": "a8744becf7dc188289c864f397c4dff5b5651e3c1be4c81d000a352a0b81585d",
+      "bytes": 87200
+    },
+    "coverage_report_mvp.csv": {
+      "path": "FASE5/outputs/coverage_report_mvp.csv",
+      "sha256": "40a6f1b2121ef694d47a1acd5e2e9a1fefd9f0432d043b11cd0711331644ba97",
+      "bytes": 1948
+    },
+    "mvp_countries.csv": {
+      "path": "FASE5/outputs/mvp_countries.csv",
+      "sha256": "733a39f0ce0ae48800f19e973bf0792ff60bd11f3cf3fea88365d920c4082354",
+      "bytes": 4335
+    },
+    "mvp_variables_catalog.csv": {
+      "path": "FASE5/outputs/mvp_variables_catalog.csv",
+      "sha256": "981fc0516b8aab29bc58aa7368e8cbc261ac4c9922b7e791b66a8183b0498529",
+      "bytes": 8927
+    },
+    "mvp_transform_params.csv": {
+      "path": "FASE5/outputs/mvp_transform_params.csv",
+      "sha256": "30b80bffb198387731f0613a228f4aee9be32cf049bd91a1f34be592782ed68a",
+      "bytes": 6358
+    },
+    "mvp_train_test_split.csv": {
+      "path": "FASE5/outputs/mvp_train_test_split.csv",
+      "sha256": "6c270efcfcadb79735b313da0ad323d38ec2f083b3e0ff912edde1387b1d3ca1",
+      "bytes": 1872
+    },
+    "MVP_AUDITABLE.xlsx": {
+      "path": "FASE5/outputs/MVP_AUDITABLE.xlsx",
+      "sha256": "00b5336100378f02060b5467b37a54ce02e624431822383437955eb1584be3cd",
+      "bytes": 175902
+    },
+    "phase6_ready/phase6_feature_matrix.csv": {
+      "path": "FASE5/outputs/phase6_ready/phase6_feature_matrix.csv",
+      "sha256": "a8744becf7dc188289c864f397c4dff5b5651e3c1be4c81d000a352a0b81585d",
+      "bytes": 87200
+    },
+    "phase6_ready/phase6_schema.csv": {
+      "path": "FASE5/outputs/phase6_ready/phase6_schema.csv",
+      "sha256": "c395cf920ada9354cde7b00a1fd093d3d51e04b52369b1561750c09b78c2046f",
+      "bytes": 14080
+    },
+    "phase6_ready/phase6_schema.json": {
+      "path": "FASE5/outputs/phase6_ready/phase6_schema.json",
+      "sha256": "28ad3ea8ef8c7b311c115ff209f993a2f75f529a891c412e6150bbb2a7b41adb",
+      "bytes": 44053
+    },
+    "phase6_ready/phase6_column_groups.yaml": {
+      "path": "FASE5/outputs/phase6_ready/phase6_column_groups.yaml",
+      "sha256": "ba76a715d4ed6f62c47723efbdb1aa1e9e0c8267deade09fa1b92d176842c8f8",
+      "bytes": 9246
+    },
+    "phase6_ready/phase6_modeling_contract.yaml": {
+      "path": "FASE5/outputs/phase6_ready/phase6_modeling_contract.yaml",
+      "sha256": "b78d7cb1f4a183de65fd3a5d76e1038b1511fd936ea22e40a5974d5262efa2e8",
+      "bytes": 13124
+    },
+    "phase6_ready/phase6_missingness_by_column.csv": {
+      "path": "FASE5/outputs/phase6_ready/phase6_missingness_by_column.csv",
+      "sha256": "c21e5189fc5dd27c97df834215b848c219d8405af3e0aa0176a530c7831a4073",
+      "bytes": 5469
+    },
+    "phase6_ready/phase6_missingness_by_country.csv": {
+      "path": "FASE5/outputs/phase6_ready/phase6_missingness_by_country.csv",
+      "sha256": "c36614210b2b7b6708e71ca431774ce9d44d2a055472948fe57b3a6386b04b24",
+      "bytes": 1066
+    },
+    "phase6_ready/phase6_variables_catalog.csv": {
+      "path": "FASE5/outputs/phase6_ready/phase6_variables_catalog.csv",
+      "sha256": "981fc0516b8aab29bc58aa7368e8cbc261ac4c9922b7e791b66a8183b0498529",
+      "bytes": 8927
+    },
+    "phase6_ready/phase6_transform_params.csv": {
+      "path": "FASE5/outputs/phase6_ready/phase6_transform_params.csv",
+      "sha256": "30b80bffb198387731f0613a228f4aee9be32cf049bd91a1f34be592782ed68a",
+      "bytes": 6358
+    },
+    "phase6_ready/phase6_train_test_split.csv": {
+      "path": "FASE5/outputs/phase6_ready/phase6_train_test_split.csv",
+      "sha256": "6c270efcfcadb79735b313da0ad323d38ec2f083b3e0ff912edde1387b1d3ca1",
+      "bytes": 1872
+    },
+    "phase6_ready/phase6_llm_context.json": {
+      "path": "FASE5/outputs/phase6_ready/phase6_llm_context.json",
+      "sha256": "34a2166172edbfd14f86a67fe8fcfec8445a500d0e56bf41da2c7bd2bb7eb92c",
+      "bytes": 1068
+    },
+    "phase6_ready/phase6_ready_manifest.json": {
+      "path": "FASE5/outputs/phase6_ready/phase6_ready_manifest.json",
+      "sha256": "d7d4597c62ca4b638c3507e87510fc7ffd5a9a039845036dadd9426c207b3b18",
+      "bytes": 2374
+    }
+  },
+  "rules": {
+    "phase3_phase4_immutable": true,
+    "no_imputation": true,
+    "n_mvp_entities": 43,
+    "n_observed_core_variables": 40
+  }
+}

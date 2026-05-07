@@ -1,0 +1,37 @@
+{
+  "phase": "FASE5",
+  "next_phase": "FASE6",
+  "fase5_version": "2.0",
+  "bundle_version": "0.2",
+  "artifact_type": "machine_consumable_data_preparation_bundle",
+  "primary_dataset": "phase6_feature_matrix.csv",
+  "required_contracts": [
+    "phase6_schema.json",
+    "phase6_column_groups.yaml",
+    "phase6_modeling_contract.yaml",
+    "phase6_ready_manifest.json"
+  ],
+  "preferred_api": {
+    "module": "FASE5.src.api",
+    "load_matrix": "load_phase6_feature_matrix",
+    "load_schema": "load_phase6_schema",
+    "load_groups": "load_phase6_column_groups",
+    "load_contract": "load_phase6_modeling_contract",
+    "load_manifest": "load_phase6_ready_manifest"
+  },
+  "hard_rules": {
+    "do_not_recompute_phase5": true,
+    "do_not_impute_in_phase5": true,
+    "do_not_mutate_phase3_or_phase4": true,
+    "preserve_missingness_for_phase6_model_selection": true,
+    "human_audit_excel_is_not_model_input": true,
+    "do_not_run_pca_in_phase5_or_phase6": true
+  },
+  "minimum_load_sequence": [
+    "phase6_ready_manifest.json",
+    "phase6_modeling_contract.yaml",
+    "phase6_column_groups.yaml",
+    "phase6_schema.json",
+    "phase6_feature_matrix.csv"
+  ]
+}

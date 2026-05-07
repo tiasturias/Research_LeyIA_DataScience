@@ -1,0 +1,44 @@
+iso3,category,rank_ms,reason,country_name_canonical,region,income_group
+ARE,ms_top30,1.0,Microsoft Top 30 #1; AI leader emergente del Golfo,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",High income
+SGP,ms_top30,2.0,Microsoft Top 30 #2; gobierno digital lider global,Singapore,East Asia & Pacific,High income
+NOR,ms_top30,3.0,Microsoft Top 30 #3; ecosistema nordico,Norway,Europe & Central Asia,High income
+IRL,ms_top30,4.0,Microsoft Top 30 #4; hub europeo de IA,Ireland,Europe & Central Asia,High income
+FRA,ms_top30,5.0,Microsoft Top 30 #5; EU AI Act protagonista,France,Europe & Central Asia,High income
+ESP,ms_top30,6.0,Microsoft Top 30 #6; adoptante EU AI Act,Spain,Europe & Central Asia,High income
+NZL,ms_top30,7.0,Microsoft Top 30 #7; OECD AI policy,New Zealand,East Asia & Pacific,High income
+NLD,ms_top30,8.0,Microsoft Top 30 #8; EU AI Act,Netherlands (Kingdom of the),Europe & Central Asia,High income
+GBR,ms_top30,9.0,Microsoft Top 30 #9; estrategia IA post-Brexit,United Kingdom,Europe & Central Asia,High income
+QAT,ms_top30,10.0,Microsoft Top 30 #10; Golfo Persico,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",High income
+AUS,ms_top30,11.0,Microsoft Top 30 #11; OECD AI principles,Australia,East Asia & Pacific,High income
+ISR,ms_top30,12.0,Microsoft Top 30 #12; AI tech leader,Israel,"Middle East, North Africa, Afghanistan & Pakistan",High income
+BEL,ms_top30,13.0,Microsoft Top 30 #13; EU AI Act,Belgium,Europe & Central Asia,High income
+CAN,ms_top30,14.0,Microsoft Top 30 #14; marco federal de IA,Canada,North America,High income
+CHE,ms_top30,15.0,Microsoft Top 30 #15; europeo no-UE,Switzerland,Europe & Central Asia,High income
+SWE,ms_top30,16.0,Microsoft Top 30 #16; EU AI Act,Sweden,Europe & Central Asia,High income
+AUT,ms_top30,17.0,Microsoft Top 30 #17; EU AI Act,Austria,Europe & Central Asia,High income
+KOR,ms_top30,18.0,Microsoft Top 30 #18; Asian AI leader,South Korea,East Asia & Pacific,High income
+HUN,ms_top30,19.0,Microsoft Top 30 #19; EU AI Act,Hungary,Europe & Central Asia,High income
+DNK,ms_top30,20.0,Microsoft Top 30 #20; gobierno digital nordico,Denmark,Europe & Central Asia,High income
+DEU,ms_top30,21.0,Microsoft Top 30 #21; EU AI Act lider,Germany,Europe & Central Asia,High income
+POL,ms_top30,22.0,Microsoft Top 30 #22; EU AI Act,Poland,Europe & Central Asia,High income
+TWN,ms_top30,23.0,Microsoft Top 30 #23; Asian AI,Taiwan,,
+CZE,ms_top30,25.0,Microsoft Top 30 #25; EU AI Act,Czech Republic,Europe & Central Asia,High income
+ITA,ms_top30,26.0,Microsoft Top 30 #26; EU AI Act,Italy,Europe & Central Asia,High income
+BGR,ms_top30,27.0,Microsoft Top 30 #27; EU oriental,Bulgaria,Europe & Central Asia,High income
+FIN,ms_top30,28.0,Microsoft Top 30 #28; gobierno digital,Finland,Europe & Central Asia,High income
+CRI,ms_top30,29.0,Microsoft Top 30 #29; LATAM en Top 30,Costa Rica,Latin America & Caribbean ,High income
+CHL,focal,,Caso focal; Boletin 16821-19 Ley Marco IA,Chile,Latin America & Caribbean ,High income
+USA,mandatory,,"AI gigante; USA completo, estados descartados por sparsity",United States,North America,High income
+CHN,mandatory,,AI gigante con marco regulatorio diferenciado,China,East Asia & Pacific,Upper middle income
+IND,mandatory,,"BRIC, mercado masivo y AI emergente",India,South Asia,Lower middle income
+JPN,mandatory,,OECD AI player fuera del Top 30 MS,Japan,East Asia & Pacific,High income
+EST,mandatory,,"Gobierno digital lider, e-residency",Estonia,Europe & Central Asia,High income
+ARG,latam_peer,,Peer regional de Chile,Argentina,Latin America & Caribbean ,Upper middle income
+BRA,latam_peer,,"Mayor economia LATAM, marco IA federal",Brazil,Latin America & Caribbean ,Upper middle income
+COL,latam_peer,,Peer economico de Chile,Colombia,Latin America & Caribbean ,Upper middle income
+MEX,latam_peer,,OECD + LATAM,Mexico,Latin America & Caribbean ,Upper middle income
+PER,latam_peer,,Peer regional,Peru,Latin America & Caribbean ,Upper middle income
+URY,latam_peer,,Gobierno digital LATAM,Uruguay,Latin America & Caribbean ,High income
+GRC,eu_laggard,,EU sur con bajo desarrollo IA relativo,Greece,Europe & Central Asia,High income
+ROU,eu_laggard,,"EU este, contraste con lideres",Romania,Europe & Central Asia,High income
+HRV,eu_laggard,,"EU pequeno, contraste regulatorio",Croatia,Europe & Central Asia,High income

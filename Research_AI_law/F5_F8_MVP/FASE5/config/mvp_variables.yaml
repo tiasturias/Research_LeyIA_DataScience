@@ -1,0 +1,60 @@
+version: "2.0"
+fecha: "2026-05-07"
+nota: "46 variables observadas reales. v1.0=40 (preservadas byte-a-byte) + v2.0=6 nuevas para Q6 (oxford+oecd)."
+backwards_compatible: true
+v1_0_count: 40
+v2_0_total: 46
+
+variables:
+  - {variable_matriz: iapp_ley_ia_vigente, bloque: regulatory_treatment, rol_mvp: X1_regulatory, tipo: binary, subpregunta: all, transform: none, razon: "Ley IA vigente; proxy binding principal"}
+  - {variable_matriz: iapp_categoria_obligatoriedad, bloque: regulatory_treatment, rol_mvp: X1_regulatory, tipo: categorical, subpregunta: all, transform: one_hot, razon: "Categoria de obligatoriedad/restrictividad"}
+  - {variable_matriz: iapp_proyecto_ley_ia, bloque: regulatory_treatment, rol_mvp: X1_regulatory, tipo: binary, subpregunta: all, transform: none, razon: "Proyecto de ley IA en tramite"}
+  - {variable_matriz: iapp_modelo_gobernanza, bloque: regulatory_treatment, rol_mvp: X1_regulatory, tipo: categorical, subpregunta: all, transform: one_hot, razon: "Modelo institucional de gobernanza"}
+  - {variable_matriz: iapp_n_leyes_relacionadas, bloque: regulatory_treatment, rol_mvp: X1_regulatory, tipo: numeric, subpregunta: all, transform: zscore, razon: "Densidad normativa relacionada"}
+  - {variable_matriz: iapp_n_autoridades, bloque: regulatory_treatment, rol_mvp: X1_regulatory, tipo: numeric, subpregunta: all, transform: zscore, razon: "Capacidad institucional/enforcement"}
+
+  - {variable_matriz: oxford_ind_company_investment_emerging_tech, bloque: ecosystem_outcome, rol_mvp: Y_Q1_investment, tipo: numeric, subpregunta: Q1, transform: zscore, razon: "Inversion empresarial en tecnologias emergentes"}
+  - {variable_matriz: oxford_ind_ai_unicorns_log, bloque: ecosystem_outcome, rol_mvp: Y_Q1_investment, tipo: numeric, subpregunta: Q1, transform: log_zscore, razon: "Unicornios IA, indicador de inversion/escala"}
+  - {variable_matriz: oxford_ind_non_ai_unicorns_log, bloque: ecosystem_outcome, rol_mvp: Y_Q1_investment, tipo: numeric, subpregunta: Q1, transform: log_zscore, razon: "Unicornios no-IA como control de ecosistema emprendedor"}
+  - {variable_matriz: oxford_ind_vc_availability, bloque: ecosystem_outcome, rol_mvp: Y_Q1_investment, tipo: numeric, subpregunta: Q1, transform: log_zscore, razon: "Disponibilidad de capital de riesgo"}
+  - {variable_matriz: wipo_c_vencapdeal_score, bloque: tech_infrastructure_control, rol_mvp: Y_Q1_investment, tipo: numeric, subpregunta: Q1, transform: zscore, razon: "Deals de venture capital WIPO"}
+  - {variable_matriz: wb_fdi_net_inflows, bloque: socioeconomic_control, rol_mvp: Y_Q1_or_control, tipo: numeric, subpregunta: Q1, transform: signed_log_zscore, razon: "Flujos netos FDI; proxy macro de inversion"}
+
+  - {variable_matriz: ms_h2_2025_ai_diffusion_pct, bloque: adoption_diffusion, rol_mvp: Y_Q2_adoption, tipo: numeric, subpregunta: Q2, transform: zscore, razon: "Difusion IA Microsoft H2 2025"}
+  - {variable_matriz: ms_h1_2025_ai_diffusion_pct, bloque: adoption_diffusion, rol_mvp: Y_Q2_adoption, tipo: numeric, subpregunta: Q2, transform: zscore, razon: "Difusion IA Microsoft H1 2025"}
+  - {variable_matriz: ms_change_pp, bloque: adoption_diffusion, rol_mvp: Y_Q2_adoption, tipo: numeric, subpregunta: Q2, transform: zscore, razon: "Cambio en difusion IA"}
+  - {variable_matriz: anthropic_usage_pct, bloque: adoption_diffusion, rol_mvp: Y_Q2_adoption, tipo: numeric, subpregunta: Q2, transform: zscore, razon: "Uso IA Anthropic"}
+  - {variable_matriz: anthropic_collaboration_pct, bloque: adoption_diffusion, rol_mvp: Y_Q2_adoption, tipo: numeric, subpregunta: Q2, transform: zscore, razon: "Colaboracion en uso IA"}
+  - {variable_matriz: oecd_5_ict_business_oecd_biz_ai_pct, bloque: adoption_diffusion, rol_mvp: Y_Q2_adoption, tipo: numeric, subpregunta: Q2, transform: zscore, razon: "Adopcion IA empresarial OECD"}
+  - {variable_matriz: oecd_5_ict_business_oecd_biz_bigdata_pct, bloque: adoption_diffusion, rol_mvp: Y_Q2_adoption, tipo: numeric, subpregunta: Q2, transform: zscore, razon: "Big data empresarial OECD"}
+  - {variable_matriz: oxford_public_sector_adoption, bloque: ecosystem_outcome, rol_mvp: Y_Q2_adoption, tipo: numeric, subpregunta: Q2, transform: zscore, razon: "Adopcion sector publico"}
+  - {variable_matriz: oxford_ind_adoption_emerging_tech, bloque: ecosystem_outcome, rol_mvp: Y_Q2_adoption, tipo: numeric, subpregunta: Q2, transform: zscore, razon: "Adopcion de tecnologias emergentes"}
+
+  - {variable_matriz: wipo_out_score, bloque: ecosystem_outcome, rol_mvp: Y_Q3_innovation, tipo: numeric, subpregunta: Q3, transform: zscore, razon: "Outputs de innovacion WIPO"}
+  - {variable_matriz: oxford_total_score, bloque: ecosystem_outcome, rol_mvp: Y_Q3_innovation, tipo: numeric, subpregunta: Q3, transform: zscore, razon: "Readiness/score total Oxford"}
+  - {variable_matriz: wipo_gii_score, bloque: ecosystem_outcome, rol_mvp: Y_Q3_innovation, tipo: numeric, subpregunta: Q3, transform: zscore, razon: "Global Innovation Index"}
+  - {variable_matriz: oxford_innovation_capacity, bloque: ecosystem_outcome, rol_mvp: Y_Q3_innovation, tipo: numeric, subpregunta: Q3, transform: zscore, razon: "Capacidad de innovacion Oxford"}
+  - {variable_matriz: oxford_ind_ai_research_papers_log, bloque: ecosystem_outcome, rol_mvp: Y_Q3_innovation, tipo: numeric, subpregunta: Q3, transform: zscore, razon: "Investigacion IA, papers log"}
+  - {variable_matriz: stanford_fig_6_3_5_fig_6_3_5_volume_of_publications, bloque: ecosystem_outcome, rol_mvp: Y_Q3_innovation, tipo: numeric, subpregunta: Q3, transform: zscore, razon: "Publicaciones IA Stanford"}
+  - {variable_matriz: wb_patent_applications_residents, bloque: tech_infrastructure_control, rol_mvp: Y_Q3_innovation, tipo: numeric, subpregunta: Q3, transform: zscore, razon: "Patentes residentes, proxy innovacion"}
+
+  - {variable_matriz: wb_gdp_per_capita_ppp, bloque: socioeconomic_control, rol_mvp: X2_control, tipo: numeric, subpregunta: controls, transform: log_zscore, razon: "Nivel de desarrollo economico"}
+  - {variable_matriz: wb_internet_penetration, bloque: tech_infrastructure_control, rol_mvp: X2_control, tipo: numeric, subpregunta: controls, transform: zscore, razon: "Penetracion internet"}
+  - {variable_matriz: wb_tertiary_education_enrollment, bloque: socioeconomic_control, rol_mvp: X2_control, tipo: numeric, subpregunta: controls, transform: zscore, razon: "Capital humano terciario"}
+  - {variable_matriz: wb_rd_expenditure_pct_gdp, bloque: socioeconomic_control, rol_mvp: X2_control, tipo: numeric, subpregunta: controls, transform: zscore, razon: "Gasto I+D"}
+  - {variable_matriz: wb_researchers_rd_per_million, bloque: socioeconomic_control, rol_mvp: X2_control, tipo: numeric, subpregunta: controls, transform: log_zscore, razon: "Investigadores I+D por millon"}
+  - {variable_matriz: wb_government_effectiveness, bloque: institutional_control, rol_mvp: X2_control, tipo: numeric, subpregunta: controls, transform: zscore, razon: "Efectividad gubernamental"}
+  - {variable_matriz: wb_rule_of_law, bloque: institutional_control, rol_mvp: X2_control, tipo: numeric, subpregunta: controls, transform: zscore, razon: "Estado de derecho"}
+  - {variable_matriz: wb_regulatory_quality, bloque: institutional_control, rol_mvp: X2_control, tipo: numeric, subpregunta: controls, transform: zscore, razon: "Calidad regulatoria"}
+  - {variable_matriz: wipo_in_score, bloque: tech_infrastructure_control, rol_mvp: X2_control, tipo: numeric, subpregunta: controls, transform: zscore, razon: "Innovation inputs WIPO"}
+  - {variable_matriz: wb_mobile_subscriptions_per100, bloque: socioeconomic_control, rol_mvp: X2_control, tipo: numeric, subpregunta: controls, transform: log_zscore, razon: "Suscripciones moviles"}
+  - {variable_matriz: wb_secure_servers_per_1m, bloque: tech_infrastructure_control, rol_mvp: X2_control, tipo: numeric, subpregunta: controls, transform: log_zscore, razon: "Servidores seguros por millon"}
+  - {variable_matriz: wb_electric_consumption_kwh_pc, bloque: tech_infrastructure_control, rol_mvp: X2_control, tipo: numeric, subpregunta: controls, transform: log_zscore, razon: "Capacidad energetica per capita"}
+
+  # === NUEVAS v2.0 - Y_Q6 sector publico ===
+  - {variable_matriz: oxford_e_government_delivery, bloque: tech_infrastructure_control, rol_mvp: Y_Q6_public_sector, tipo: numeric, subpregunta: Q6, transform: zscore, razon: "Entrega de gobierno electronico - proxy directo IA en sector publico", added_in_version: "2.0"}
+  - {variable_matriz: oxford_government_digital_policy, bloque: institutional_control, rol_mvp: Y_Q6_public_sector, tipo: numeric, subpregunta: Q6, transform: zscore, razon: "Politica digital gubernamental", added_in_version: "2.0"}
+  - {variable_matriz: oxford_ind_data_governance, bloque: institutional_control, rol_mvp: Y_Q6_public_sector, tipo: numeric, subpregunta: Q6, transform: zscore, razon: "Gobernanza de datos del sector publico", added_in_version: "2.0"}
+  - {variable_matriz: oxford_governance_ethics, bloque: institutional_control, rol_mvp: Y_Q6_public_sector, tipo: numeric, subpregunta: Q6, transform: zscore, razon: "Etica en gobernanza publica IA", added_in_version: "2.0"}
+  - {variable_matriz: oecd_2_indigo_oecd_indigo_score, bloque: tech_infrastructure_control, rol_mvp: Y_Q6_public_sector, tipo: numeric, subpregunta: Q6, transform: zscore, razon: "OECD INDIGO - indice gobernanza inteligencia digital", added_in_version: "2.0"}
+  - {variable_matriz: oecd_4_digital_gov_oecd_digital_gov_overall, bloque: tech_infrastructure_control, rol_mvp: Y_Q6_public_sector_aux, tipo: numeric, subpregunta: Q6, transform: zscore, razon: "OECD digital gov score (auxiliary tier por cobertura 31/43)", added_in_version: "2.0", tier: auxiliary_low_n}

@@ -1,0 +1,45 @@
+version: "2.0"
+fecha: "2026-05-07"
+
+transformaciones:
+  log_transform:
+    method_default: log1p_nonnegative
+    method_for_signed: signed_log1p
+    variables:
+      - oxford_ind_ai_unicorns_log
+      - oxford_ind_non_ai_unicorns_log
+      - oxford_ind_vc_availability
+      - wb_fdi_net_inflows
+      - wb_gdp_per_capita_ppp
+      - wb_researchers_rd_per_million
+      - wb_mobile_subscriptions_per100
+      - wb_secure_servers_per_1m
+      - wb_electric_consumption_kwh_pc
+  zscore_robusto:
+    aplica_a: "variables numericas observadas y derivadas no binarias"
+    metodo: "(value - median) / MAD"
+  one_hot:
+    - iapp_categoria_obligatoriedad
+    - iapp_modelo_gobernanza
+  agregadas:
+    - n_binding
+    - n_non_binding
+    - n_hybrid
+    - regulatory_intensity
+
+transformations_v2:
+  zscore_robust:
+    apply_to:
+      - oxford_e_government_delivery
+      - oxford_government_digital_policy
+      - oxford_ind_data_governance
+      - oxford_governance_ethics
+      - oecd_2_indigo_oecd_indigo_score
+      - oecd_4_digital_gov_oecd_digital_gov_overall
+    method: median_mad
+    added_in_version: "2.0"
+
+reglas:
+  no_imputation: true
+  preserve_original_columns: true
+  missing_transforms_remain_missing: true

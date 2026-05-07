@@ -1,0 +1,93 @@
+version: "0.1"
+fecha: "2026-05-06"
+nota: "43 entidades preregistradas para MVP. No modificar sin actualizar mvp_decisions.yaml."
+
+entities:
+  - ARE
+  - SGP
+  - NOR
+  - IRL
+  - FRA
+  - ESP
+  - NZL
+  - NLD
+  - GBR
+  - QAT
+  - AUS
+  - ISR
+  - BEL
+  - CAN
+  - CHE
+  - SWE
+  - AUT
+  - KOR
+  - HUN
+  - DNK
+  - DEU
+  - POL
+  - TWN
+  - CZE
+  - ITA
+  - BGR
+  - FIN
+  - CRI
+  - CHL
+  - USA
+  - CHN
+  - IND
+  - JPN
+  - EST
+  - ARG
+  - BRA
+  - COL
+  - MEX
+  - PER
+  - URY
+  - GRC
+  - ROU
+  - HRV
+
+entities_detail:
+  - {iso3: ARE, category: ms_top30, rank_ms: 1, reason: "Microsoft Top 30 #1; AI leader emergente del Golfo"}
+  - {iso3: SGP, category: ms_top30, rank_ms: 2, reason: "Microsoft Top 30 #2; gobierno digital lider global"}
+  - {iso3: NOR, category: ms_top30, rank_ms: 3, reason: "Microsoft Top 30 #3; ecosistema nordico"}
+  - {iso3: IRL, category: ms_top30, rank_ms: 4, reason: "Microsoft Top 30 #4; hub europeo de IA"}
+  - {iso3: FRA, category: ms_top30, rank_ms: 5, reason: "Microsoft Top 30 #5; EU AI Act protagonista"}
+  - {iso3: ESP, category: ms_top30, rank_ms: 6, reason: "Microsoft Top 30 #6; adoptante EU AI Act"}
+  - {iso3: NZL, category: ms_top30, rank_ms: 7, reason: "Microsoft Top 30 #7; OECD AI policy"}
+  - {iso3: NLD, category: ms_top30, rank_ms: 8, reason: "Microsoft Top 30 #8; EU AI Act"}
+  - {iso3: GBR, category: ms_top30, rank_ms: 9, reason: "Microsoft Top 30 #9; estrategia IA post-Brexit"}
+  - {iso3: QAT, category: ms_top30, rank_ms: 10, reason: "Microsoft Top 30 #10; Golfo Persico"}
+  - {iso3: AUS, category: ms_top30, rank_ms: 11, reason: "Microsoft Top 30 #11; OECD AI principles"}
+  - {iso3: ISR, category: ms_top30, rank_ms: 12, reason: "Microsoft Top 30 #12; AI tech leader"}
+  - {iso3: BEL, category: ms_top30, rank_ms: 13, reason: "Microsoft Top 30 #13; EU AI Act"}
+  - {iso3: CAN, category: ms_top30, rank_ms: 14, reason: "Microsoft Top 30 #14; marco federal de IA"}
+  - {iso3: CHE, category: ms_top30, rank_ms: 15, reason: "Microsoft Top 30 #15; europeo no-UE"}
+  - {iso3: SWE, category: ms_top30, rank_ms: 16, reason: "Microsoft Top 30 #16; EU AI Act"}
+  - {iso3: AUT, category: ms_top30, rank_ms: 17, reason: "Microsoft Top 30 #17; EU AI Act"}
+  - {iso3: KOR, category: ms_top30, rank_ms: 18, reason: "Microsoft Top 30 #18; Asian AI leader"}
+  - {iso3: HUN, category: ms_top30, rank_ms: 19, reason: "Microsoft Top 30 #19; EU AI Act"}
+  - {iso3: DNK, category: ms_top30, rank_ms: 20, reason: "Microsoft Top 30 #20; gobierno digital nordico"}
+  - {iso3: DEU, category: ms_top30, rank_ms: 21, reason: "Microsoft Top 30 #21; EU AI Act lider"}
+  - {iso3: POL, category: ms_top30, rank_ms: 22, reason: "Microsoft Top 30 #22; EU AI Act"}
+  - {iso3: TWN, category: ms_top30, rank_ms: 23, reason: "Microsoft Top 30 #23; Asian AI"}
+  - {iso3: CZE, category: ms_top30, rank_ms: 25, reason: "Microsoft Top 30 #25; EU AI Act"}
+  - {iso3: ITA, category: ms_top30, rank_ms: 26, reason: "Microsoft Top 30 #26; EU AI Act"}
+  - {iso3: BGR, category: ms_top30, rank_ms: 27, reason: "Microsoft Top 30 #27; EU oriental"}
+  - {iso3: FIN, category: ms_top30, rank_ms: 28, reason: "Microsoft Top 30 #28; gobierno digital"}
+  - {iso3: CRI, category: ms_top30, rank_ms: 29, reason: "Microsoft Top 30 #29; LATAM en Top 30"}
+  - {iso3: CHL, category: focal, rank_ms: null, reason: "Caso focal; Boletin 16821-19 Ley Marco IA"}
+  - {iso3: USA, category: mandatory, rank_ms: null, reason: "AI gigante; USA completo, estados descartados por sparsity"}
+  - {iso3: CHN, category: mandatory, rank_ms: null, reason: "AI gigante con marco regulatorio diferenciado"}
+  - {iso3: IND, category: mandatory, rank_ms: null, reason: "BRIC, mercado masivo y AI emergente"}
+  - {iso3: JPN, category: mandatory, rank_ms: null, reason: "OECD AI player fuera del Top 30 MS"}
+  - {iso3: EST, category: mandatory, rank_ms: null, reason: "Gobierno digital lider, e-residency"}
+  - {iso3: ARG, category: latam_peer, rank_ms: null, reason: "Peer regional de Chile"}
+  - {iso3: BRA, category: latam_peer, rank_ms: null, reason: "Mayor economia LATAM, marco IA federal"}
+  - {iso3: COL, category: latam_peer, rank_ms: null, reason: "Peer economico de Chile"}
+  - {iso3: MEX, category: latam_peer, rank_ms: null, reason: "OECD + LATAM"}
+  - {iso3: PER, category: latam_peer, rank_ms: null, reason: "Peer regional"}
+  - {iso3: URY, category: latam_peer, rank_ms: null, reason: "Gobierno digital LATAM"}
+  - {iso3: GRC, category: eu_laggard, rank_ms: null, reason: "EU sur con bajo desarrollo IA relativo"}
+  - {iso3: ROU, category: eu_laggard, rank_ms: null, reason: "EU este, contraste con lideres"}
+  - {iso3: HRV, category: eu_laggard, rank_ms: null, reason: "EU pequeno, contraste regulatorio"}

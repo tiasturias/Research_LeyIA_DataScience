@@ -1,0 +1,59 @@
+version: "2.0"
+fecha: "2026-05-07"
+estado_revision: "approved_for_fase5_mvp"
+revision:
+  responsable_tecnico: "Codex"
+  aprobacion_usuario_conversacional: true
+  alcance: "MVP Fase 5; preparar datos para Fase 6 sin modificar Fase 3/4"
+  fecha: "2026-05-06"
+
+decisiones:
+  - id: MVP-001
+    decision: "Submuestra de 43 entidades preregistradas."
+    razon: "Balance entre auditabilidad, comparabilidad con Chile y poder estadistico minimo."
+    estado: approved
+  - id: MVP-002
+    decision: "USA mantenido como pais; estados de EEUU descartados."
+    razon: "El nivel subnacional no tiene cobertura comparable en la Matriz Madre."
+    estado: approved
+  - id: MVP-003
+    decision: "Fase 5 usa 40 variables observadas reales y agrega features derivadas auditables."
+    razon: "Evita variables fantasma y mantiene el feature matrix interpretable."
+    estado: approved
+  - id: MVP-004
+    decision: "NLP del corpus legal queda fuera de Fase 5 MVP."
+    razon: "Reservado para iteracion post-MVP; Q4 usa perfil regulatorio estructurado observado."
+    estado: approved
+  - id: MVP-005
+    decision: "No imputar datos faltantes."
+    razon: "Los NaN observados se preservan para que Fase 6 decida submuestras por modelo."
+    estado: approved
+
+decisiones_v2:
+  - id: F5-V2-001
+    fecha: "2026-05-07"
+    decision: "Expansion Fase 5 a 46 variables: agregar 6 vars Oxford/OECD para soporte Q6"
+    justificacion: "Plan Fase 6 v0.2 requiere Q6 robusta con consistency table; oxford_public_sector_adoption sola era insuficiente"
+    revisor: "investigador_principal"
+    estado: approved
+
+  - id: F5-V2-002
+    fecha: "2026-05-07"
+    decision: "Q5 (uso poblacion) reusa Y existentes de Q2: anthropic_usage_pct, anthropic_collaboration_pct, oxford_ind_adoption_emerging_tech"
+    justificacion: "Variables conceptualmente reusables; modeling_contract.yaml permite multiples roles por variable"
+    revisor: "investigador_principal"
+    estado: approved
+
+  - id: F5-V2-003
+    fecha: "2026-05-07"
+    decision: "Backwards compatible: 40 vars v1.0 preservadas byte-a-byte; 6 vars v2.0 son aditivas"
+    justificacion: "Test golden compara feature_matrix v1.0 vs subset v2.0 - debe coincidir 100% en columnas heredadas"
+    revisor: "investigador_principal"
+    estado: approved
+
+  - id: F5-V2-004
+    fecha: "2026-05-07"
+    decision: "No se incorpora reduccion dimensional (PCA) en Fase 5"
+    justificacion: "Fase 4 ya contiene analisis exploratorio de redundancia y estructura de varianza. Ratio N/p ~= 0.4 hace PCA inestable. Ridge/Lasso/Q4 cubren la funcion analitica relevante para sub-preguntas. Riesgo de investigator degrees of freedom y opacidad para audiencia politica supera beneficio diagnostico."
+    revisor: "investigador_principal"
+    estado: approved
