@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "created_at": "2026-05-07T14:17:43.426190+00:00",
-  "git_sha": "6cd6c36bc471d04f8af580068e1575ca843227ab",
+  "created_at": "2026-05-07T14:26:04.732963+00:00",
+  "git_sha": "d86e87c0f4fd5a0b080b7934c6836d1f43ec1c92",
   "fase3_version": "1.1",
   "inputs_hashed": {
     "FASE3/outputs/Matriz_Madre_Fase3.xlsx": {
@@ -432,7 +432,7 @@
     },
     "MVP_AUDITABLE.xlsx": {
       "path": "FASE5/outputs/MVP_AUDITABLE.xlsx",
-      "sha256": "b4a064f46de25fa505df649ad1f19ff1414628b680e448394951fbf107b7e35f",
+      "sha256": "8ced59ddbdc2ea76c0b43408141f7dacc7cce52db222622ccb57792ede9b2914",
       "bytes": 256983
     },
     "phase6_ready/phase6_feature_matrix.csv": {
@@ -457,7 +457,7 @@
     },
     "phase6_ready/phase6_modeling_contract.yaml": {
       "path": "FASE5/outputs/phase6_ready/phase6_modeling_contract.yaml",
-      "sha256": "4ec5885db43032b9b968834f220a6553d8858c8b2f03c1856d202de28b695efa",
+      "sha256": "023a10805a81466c1eae1533ed9f40ab2eefda07546e4c0f1b1d27d2d45f310e",
       "bytes": 16915
     },
     "phase6_ready/phase6_missingness_by_column.csv": {
@@ -492,7 +492,7 @@
     },
     "phase6_ready/phase6_ready_manifest.json": {
       "path": "FASE5/outputs/phase6_ready/phase6_ready_manifest.json",
-      "sha256": "e039b1cff1b420387443c2aa018c9ec0a611444d4b1f8dec399b4a85da376614",
+      "sha256": "4f4b60a98391823135b91d9d3bacf79a01940b95bfcfefbe77c12cae446d5d83",
       "bytes": 2463
     }
   },

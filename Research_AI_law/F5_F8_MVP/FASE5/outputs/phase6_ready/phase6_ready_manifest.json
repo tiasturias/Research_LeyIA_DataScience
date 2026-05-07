@@ -1,6 +1,6 @@
 {
   "version": "0.2",
-  "created_at": "2026-05-07T14:17:43.413236+00:00",
+  "created_at": "2026-05-07T14:26:04.720133+00:00",
   "bundle_type": "phase6_ready_technical",
   "fase5_version": "2.0",
   "rules": {
@@ -33,7 +33,7 @@
     },
     "phase6_modeling_contract.yaml": {
       "path": "phase6_modeling_contract.yaml",
-      "sha256": "4ec5885db43032b9b968834f220a6553d8858c8b2f03c1856d202de28b695efa",
+      "sha256": "023a10805a81466c1eae1533ed9f40ab2eefda07546e4c0f1b1d27d2d45f310e",
       "bytes": 16915
     },
     "phase6_missingness_by_column.csv": {
