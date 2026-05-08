@@ -5,13 +5,13 @@
 [![Estado](https://img.shields.io/badge/Fase-6%20v2.2%20completada-brightgreen)](#)
 [![Metodología](https://img.shields.io/badge/Metodolog%C3%ADa-Inferencial%20Comparativa%20Observacional-blue)](#)
 [![Muestra](https://img.shields.io/badge/Muestra-43%20pa%C3%ADses-orange)](#)
-[![Fuentes](https://img.shields.io/badge/Fuentes-8%20internacionales-purple)](#)
+[![Fuentes](https://img.shields.io/badge/Fuentes-9%20internacionales-purple)](#)
 
 ---
 
 ## Resumen
 
-Este repositorio investiga la relación entre las características regulatorias de inteligencia artificial (IA) de los países y el desarrollo de sus ecosistemas de IA, usando una muestra preregistrada de **43 países** y datos de **8 fuentes internacionales** (Oxford Insights, WIPO, OECD, Banco Mundial, IAPP, Microsoft, Anthropic, Stanford HAI). El caso focal es **Chile**, donde el Boletín 16821-19 propone una Ley Marco de IA actualmente en trámite legislativo.
+Este repositorio investiga la relación entre las características regulatorias de inteligencia artificial (IA) de los países y el desarrollo de sus ecosistemas de IA, usando una muestra preregistrada de **43 países** y datos de **9 fuentes internacionales** (Oxford Insights, WIPO, OECD, Banco Mundial, IAPP, Microsoft, Anthropic, Stanford HAI, Techieray). El caso focal es **Chile**, donde el Boletín 16821-19 propone una Ley Marco de IA actualmente en trámite legislativo.
 
 **Pregunta principal:** *¿Existe una asociación estadísticamente significativa entre las características de la regulación de IA de un país y el desarrollo de su ecosistema de IA, después de controlar por factores socioeconómicos e institucionales?*
 
@@ -41,9 +41,11 @@ Research_AI_law/
 │   ├── FASE8/                         # 🔜 Narrativa y Política Pública (pendiente)
 │   └── auditoria_fase5_v2_1_plus/    # Registro de auditoría Fase 5
 │
-├── FUENTES/                           # 📥 Datos crudos de las 8 fuentes
+├── FUENTES/                           # 📥 Datos crudos de las 9 fuentes
+│   ├── TECHIERAY/                     # ⚠️ Fuente #9: metadatos regulatorios 43 países
+│   └── ...                            # (8 fuentes originales)
 ├── notebooks/                         # 📓 Notebooks exploratorios (Fase 1-2)
-├── NUEVA_METODOLOGIA_08/             # 🔧 Blueprints de reestructuración (v0.3)
+├── NUEVA_METODOLOGIA_08/             # 🔧 Blueprints, Fase 7, solución cuello botella IAPP
 └── .claude/                           # ⚙️ Skills y configuración Claude
 ```
 
@@ -160,14 +162,21 @@ Archivos originales descargados de las 8 fuentes internacionales, organizados po
 | `MICROSOFT/` | AI Diffusion Index 2025 | Difusión poblacional de IA |
 | `ANTROPHIC/` | Usage Data 2024 | Uso de Claude por país |
 | `STANFORD AI INDEX 26/` | AI Index Report | Publicaciones y patentes de IA |
+| `TECHIERAY/` ★ | Global AI Regulation Tracker (Raymond Sun) | **Nueva fuente #9.** 43 archivos con RAW del tracker + checklist de 15 variables regulatorias (ley vigente, proyecto, estrategia, guías, sandbox, autoridades). Resuelve el cuello de botella de IAPP (solo 18 países). |
 
 ### `notebooks/` — Exploración Inicial
 
 Notebooks de las Fases 1-2 (exploración preliminar de datos crudos, antes de la construcción de la matriz madre).
 
-### `NUEVA_METODOLOGIA_08/` — Blueprints de Reestructuración
+### `NUEVA_METODOLOGIA_08/` — Blueprints y Planes de Corrección
 
-Documentos técnicos que guiaron la corrección metodológica del pipeline. Contiene el blueprint maestro de reestructuración arquitectónica F5-F8 (v0.3) y especificaciones detalladas de implementación.
+Documentos técnicos que guiaron la corrección metodológica del pipeline y la solución del cuello de botella regulatorio:
+
+| Archivo | Contenido |
+|---|---|
+| `PLAN_SOLUCION_cuello_botella.md` ★ | **Blueprint end-to-end** (975 líneas). Plan de 6 pasos para integrar Techieray como fuente #9: desde parsear 43 checklists hasta re-ejecutar Fase 6.2 con Q4 expandido a 43 países. Incluye código Python, mapeo de 19 variables IAPP → 15 Techieray, tiempos y criterios de éxito. |
+| `FASE7_PLAN.md` | Blueprint de implementación técnica de Fase 7 (2,757 líneas). Código Python completo para cada módulo de robustez. |
+| `05/` | Blueprints de reestructuración arquitectónica F5-F8 (v0.3). |
 
 ---
 
@@ -204,7 +213,8 @@ Documentos técnicos que guiaron la corrección metodológica del pipeline. Cont
 | **WIPO** | 2 (output innovación, deals VC) | Outcomes (Y) |
 | **OECD** | 3 (adopción empresarial, INDIGO, gobierno digital) | Outcomes (Y) |
 | **Banco Mundial** | 11 (PIB, internet, gobernanza, I+D, educación, infraestructura) | Controles (C) |
-| **IAPP** | 4 (ley vigente, proyecto, n_binding, n_non_binding) | Predictores (X1) |
+| **IAPP** | 4 (ley vigente, proyecto, n_binding, n_non_binding) | Predictores (X1) — 18 países ⚠️ |
+| **Techieray** ★ | 15 (ley vigente, proyecto, estrategia, guías, sandbox, autoridades, OECD, UNESCO...) | Predictores (X1) — **43 países** — resuelve cuello de botella IAPP |
 | **Microsoft** | 1 (difusión poblacional IA) | Outcome (Y) |
 | **Anthropic** | 2 (uso Claude, colaboración humano-IA) | Outcomes (Y) |
 | **Stanford HAI** | 2 (publicaciones, patentes — pendientes) | Outcomes (Y) |
@@ -230,6 +240,8 @@ Documentos técnicos que guiaron la corrección metodológica del pipeline. Cont
 |---|---|
 | Entender el proyecto completo de una sentada | `CONTEXTOS/6.ARQUITECTURA_COMPLETA_PROYECTO.md` |
 | Ver el plan para las fases que faltan | `CONTEXTOS/7.PLAN_FASES_7_8_Y_CORRECCION_IAPP.md` |
+| Ver plan de solución del cuello de botella IAPP | `NUEVA_METODOLOGIA_08/PLAN_SOLUCION_cuello_botella.md` |
+| Ver la fuente Techieray (43 países) | `FUENTES/TECHIERAY/` (43 archivos `ISO3-Nombre.md` con RAW + checklist) |
 | Ver los resultados país por país | `F5_F8_MVP/FASE6/outputs/country_intelligence/country_q_profile_wide.csv` |
 | Ver gráficos y sus explicaciones | `F5_F8_MVP/FASE6/outputs/country_intelligence/figures/` (cada PNG tiene su `.md`) |
 | Ver el catálogo completo de outputs | `F5_F8_MVP/FASE6/outputs/INDICE_ARQUITECTONICO_OUTPUTS.md` |
@@ -253,6 +265,7 @@ Documentos técnicos que guiaron la corrección metodológica del pipeline. Cont
 
 | Fase | Estado | Entregable principal |
 |---|---|---|
+| **Fase 0: Fuente Techieray** | 🔄 | 43 RAW pegados, checklists en progreso. Plan de integración listo. |
 | Fase 1-2: Definición y comprensión | ✅ | Plan de investigación, hipótesis, Q1-Q6 |
 | Fase 3: Matriz Madre | ✅ | 199 países × 1,203 columnas, API estable |
 | Fase 4: EDA Principal | ✅ | PCA, clustering, taxonomía, decisiones preregistradas |
