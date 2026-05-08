@@ -1,0 +1,1251 @@
+iso3,year,country_name,value,wb_indicator,canonical_name
+AFG,2024,Afghanistan,-6.60118564073725,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AFG,2023,Afghanistan,-4.64470870797774,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AFG,2022,Afghanistan,13.7121023720064,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AFG,2021,Afghanistan,5.13320340824962,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AFG,2020,Afghanistan,5.60188791482224,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AFG,2019,Afghanistan,2.30237251516833,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AFG,2018,Afghanistan,0.626149149168846,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ALB,2024,Albania,2.21587375089991,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ALB,2023,Albania,4.75834555150038,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ALB,2022,Albania,6.72520271530059,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ALB,2021,Albania,2.04147163139544,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ALB,2020,Albania,1.6208866171702,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ALB,2019,Albania,1.41109078954242,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ALB,2018,Albania,2.02805963071134,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DZA,2024,Algeria,4.04611455313434,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DZA,2023,Algeria,9.32217375928322,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DZA,2022,Algeria,9.26551551551552,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DZA,2021,Algeria,7.22606307415477,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DZA,2020,Algeria,2.41513094083413,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DZA,2019,Algeria,1.95176821052891,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DZA,2018,Algeria,4.26999020467083,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AGO,2024,Angola,28.2404948915772,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AGO,2023,Angola,13.6441017767714,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AGO,2022,Angola,21.3552901320822,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AGO,2021,Angola,25.754294884189,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AGO,2020,Angola,22.2715392470509,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AGO,2019,Angola,17.080954143438,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AGO,2018,Angola,19.628937970152,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ATG,2024,Antigua and Barbuda,6.19886698842115,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ATG,2023,Antigua and Barbuda,5.06713865364212,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ATG,2022,Antigua and Barbuda,7.53107834634288,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ATG,2021,Antigua and Barbuda,2.06299638545334,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ATG,2020,Antigua and Barbuda,0.625989707046719,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ATG,2019,Antigua and Barbuda,1.43135598182983,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ATG,2018,Antigua and Barbuda,1.20715793367007,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARG,2024,Argentina,219.883929014578,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARG,2023,Argentina,133.488935594175,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARG,2022,Argentina,72.430757531824,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARG,2021,Argentina,48.4093786255199,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARG,2020,Argentina,42.0150947376509,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARG,2019,Argentina,53.5483043492339,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARG,2018,Argentina,34.2772237131003,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARM,2024,Armenia,0.269511978259125,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARM,2023,Armenia,1.98041877615553,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARM,2022,Armenia,8.64091108973854,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARM,2021,Armenia,7.1848362944337,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARM,2020,Armenia,1.21143577838464,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARM,2019,Armenia,1.44344660770698,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARM,2018,Armenia,2.52023382001637,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ABW,2019,Aruba,4.25746204335427,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ABW,2018,Aruba,3.6260414135296,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AUS,2024,Australia,3.16656665428797,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AUS,2023,Australia,5.59701792296707,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AUS,2022,Australia,6.59409658717841,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AUS,2021,Australia,2.86391284709318,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AUS,2020,Australia,0.846900734607273,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AUS,2019,Australia,1.610770929127,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AUS,2018,Australia,1.91140002818579,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AUT,2024,Austria,2.93791574279375,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AUT,2023,Austria,7.81413417002831,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AUT,2022,Austria,8.54686993188457,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AUT,2021,Austria,2.7666666666667,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AUT,2020,Austria,1.38191063351853,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AUT,2019,Austria,1.53089564152643,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AUT,2018,Austria,1.99837981429548,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AZE,2024,Azerbaijan,2.21217188919901,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AZE,2023,Azerbaijan,8.7854304984908,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AZE,2022,Azerbaijan,13.8522590144267,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AZE,2021,Azerbaijan,6.65029912708778,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AZE,2020,Azerbaijan,2.75980947008127,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AZE,2019,Azerbaijan,2.61057182799215,FP.CPI.TOTL.ZG,inflation_consumer_prices
+AZE,2018,Azerbaijan,2.26854690373999,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BHS,2024,"Bahamas, The",0.409162489083286,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BHS,2023,"Bahamas, The",3.05291578969742,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BHS,2022,"Bahamas, The",5.60540633583043,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BHS,2021,"Bahamas, The",2.90491262928478,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BHS,2020,"Bahamas, The",0.0385210980054557,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BHS,2019,"Bahamas, The",2.49123527368045,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BHS,2018,"Bahamas, The",2.26586346678735,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BHR,2024,Bahrain,0.919635459817651,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BHR,2023,Bahrain,0.0746206782192255,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BHR,2022,Bahrain,3.62574104304482,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BHR,2021,Bahrain,-0.60631938514085,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BHR,2020,Bahrain,-2.31770629331378,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BHR,2019,Bahrain,1.00582004702136,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BHR,2018,Bahrain,2.08766938046978,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BGD,2024,Bangladesh,10.4657482763412,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BGD,2023,Bangladesh,9.8835030377921,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BGD,2022,Bangladesh,7.69695437176898,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BGD,2021,Bangladesh,5.54565430773473,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BGD,2020,Bangladesh,5.69107474746211,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BGD,2019,Bangladesh,5.59199639930629,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BGD,2018,Bangladesh,5.54362139486476,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRB,2024,Barbados,1.44643664306159,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRB,2023,Barbados,3.18718905472631,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRB,2019,Barbados,1.67662473276987,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRB,2018,Barbados,3.1060057242059,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BLR,2024,Belarus,5.78531910427998,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BLR,2023,Belarus,5.00059903091312,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BLR,2022,Belarus,15.2096752740809,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BLR,2021,Belarus,9.46028389623105,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BLR,2020,Belarus,5.5481435745651,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BLR,2019,Belarus,5.59815595039853,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BLR,2018,Belarus,4.87230220550689,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BEL,2024,Belgium,3.14349136500041,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BEL,2023,Belgium,4.04901077613941,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BEL,2022,Belgium,9.597511728725,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BEL,2021,Belgium,2.44024851144084,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BEL,2020,Belgium,0.740791812220343,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BEL,2019,Belgium,1.43681956996438,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BEL,2018,Belgium,2.05316499865177,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BLZ,2024,Belize,3.28955985952768,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BLZ,2023,Belize,4.38984017487674,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BLZ,2022,Belize,6.27689319447543,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BLZ,2021,Belize,3.2356365923707,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BLZ,2020,Belize,0.121434644614893,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BLZ,2019,Belize,0.187069385181424,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BLZ,2018,Belize,0.269982622646335,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BEN,2024,Benin,1.16093089640415,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BEN,2023,Benin,2.73870078406074,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BEN,2022,Benin,1.35077863583527,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BEN,2021,Benin,1.73353962694035,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BEN,2020,Benin,3.02272119663759,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BEN,2019,Benin,0.732849371241066,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BEN,2018,Benin,0.919170717886053,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BTN,2024,Bhutan,2.76131569624097,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BTN,2023,Bhutan,4.22934419929251,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BTN,2022,Bhutan,5.6391667139637,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BTN,2021,Bhutan,7.3468144053353,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BTN,2020,Bhutan,5.62936522632507,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BTN,2019,Bhutan,2.72643037388832,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BTN,2018,Bhutan,2.72396386183713,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BOL,2024,Bolivia,5.09976568317427,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BOL,2023,Bolivia,2.57688800489192,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BOL,2022,Bolivia,1.74632872945968,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BOL,2021,Bolivia,0.737383721452274,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BOL,2020,Bolivia,0.940742153381849,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BOL,2019,Bolivia,1.83954504969025,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BOL,2018,Bolivia,2.27205987230154,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BIH,2024,Bosnia and Herzegovina,1.69212733599723,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BIH,2023,Bosnia and Herzegovina,6.1059011284828,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BIH,2022,Bosnia and Herzegovina,14.0208440826771,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BIH,2021,Bosnia and Herzegovina,1.98163900587622,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BIH,2020,Bosnia and Herzegovina,-1.05129600763489,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BIH,2019,Bosnia and Herzegovina,0.56278215406123,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BIH,2018,Bosnia and Herzegovina,1.41710814018033,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BWA,2024,Botswana,2.81835131676251,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BWA,2023,Botswana,5.06761549343829,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BWA,2022,Botswana,11.665567478802,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BWA,2021,Botswana,7.24097765588442,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BWA,2020,Botswana,1.8903591682421,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BWA,2019,Botswana,2.7728644286332,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BWA,2018,Botswana,3.23801558947715,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRA,2024,Brazil,4.36746407652336,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRA,2023,Brazil,4.59356282283203,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRA,2022,Brazil,9.28010608956872,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRA,2021,Brazil,8.30165975585673,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRA,2020,Brazil,3.21176803803376,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRA,2019,Brazil,3.73297621216893,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRA,2018,Brazil,3.66485028376728,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRN,2024,Brunei Darussalam,-0.38867416503646,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRN,2023,Brunei Darussalam,0.35706431153689,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRN,2022,Brunei Darussalam,3.68225030604215,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRN,2021,Brunei Darussalam,1.73341388450593,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRN,2020,Brunei Darussalam,1.94031996607183,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRN,2019,Brunei Darussalam,-0.390522069165529,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BRN,2018,Brunei Darussalam,1.02505179290212,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BGR,2024,Bulgaria,2.44651943006078,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BGR,2023,Bulgaria,9.44284140088564,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BGR,2022,Bulgaria,15.3252589264367,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BGR,2021,Bulgaria,3.29774435299506,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BGR,2020,Bulgaria,1.67244096855756,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BGR,2019,Bulgaria,3.10372944796771,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BGR,2018,Bulgaria,2.81454473824838,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BFA,2024,Burkina Faso,4.19081721344523,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BFA,2023,Burkina Faso,0.742910428668917,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BFA,2022,Burkina Faso,14.2902354303358,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BFA,2021,Burkina Faso,3.65326761825508,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BFA,2020,Burkina Faso,1.88470066518847,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BFA,2019,Burkina Faso,-3.23338933983321,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BFA,2018,Burkina Faso,1.95594302672532,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BDI,2024,Burundi,20.2124925027847,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BDI,2023,Burundi,26.9414835762453,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BDI,2022,Burundi,18.8008786664944,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BDI,2021,Burundi,8.4045384507634,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BDI,2020,Burundi,7.3211064341552,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BDI,2019,Burundi,-0.686772170797358,FP.CPI.TOTL.ZG,inflation_consumer_prices
+BDI,2018,Burundi,-2.81469807668465,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CPV,2024,Cabo Verde,1.0481698336865,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CPV,2023,Cabo Verde,3.72437535861454,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CPV,2022,Cabo Verde,7.93092928079189,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CPV,2021,Cabo Verde,1.86215256793885,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CPV,2020,Cabo Verde,0.6057961856899,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CPV,2019,Cabo Verde,1.10750930553819,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CPV,2018,Cabo Verde,1.25615185860785,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KHM,2024,Cambodia,0.808042016536654,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KHM,2023,Cambodia,2.12746796594194,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KHM,2022,Cambodia,5.34370264895437,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KHM,2021,Cambodia,2.92073477592949,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KHM,2020,Cambodia,2.9402951426397,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KHM,2019,Cambodia,1.94257500833107,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KHM,2018,Cambodia,2.45908515380146,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CMR,2024,Cameroon,4.53331349711606,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CMR,2023,Cameroon,7.38281384280983,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CMR,2022,Cameroon,6.24767713343861,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CMR,2021,Cameroon,2.27185762503637,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CMR,2020,Cameroon,2.43760882182236,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CMR,2019,Cameroon,2.45280214062732,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CMR,2018,Cameroon,1.0688581131292,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CAN,2024,Canada,2.38158383281173,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CAN,2023,Canada,3.87900159788425,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CAN,2022,Canada,6.80280115341612,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CAN,2021,Canada,3.39519318527527,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CAN,2020,Canada,0.716999632307827,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CAN,2019,Canada,1.94926902411592,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CAN,2018,Canada,2.26822567248103,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CAF,2024,Central African Republic,1.47733600718743,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CAF,2023,Central African Republic,2.97913852618936,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CAF,2022,Central African Republic,5.58316735183246,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CAF,2021,Central African Republic,4.25936417542868,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CAF,2020,Central African Republic,1.71015659523152,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CAF,2019,Central African Republic,2.68537355266786,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CAF,2018,Central African Republic,1.61215686991555,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TCD,2024,Chad,8.89950732263754,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TCD,2023,Chad,10.8363568399843,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TCD,2022,Chad,5.78802687843616,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TCD,2021,Chad,-0.77284437035914,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TCD,2020,Chad,4.46414437232861,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TCD,2019,Chad,-0.971939175419401,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TCD,2018,Chad,4.27462198610545,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHL,2024,Chile,4.29763891572524,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHL,2023,Chile,7.58168251407962,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHL,2022,Chile,11.6438667110559,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHL,2021,Chile,4.52456838259143,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHL,2020,Chile,3.04549084804326,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHL,2019,Chile,2.55754475703326,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHL,2018,Chile,2.43488981353057,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHN,2024,China,0.218128938439177,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHN,2023,China,0.23483682889305,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHN,2022,China,1.9735755573905,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHN,2021,China,0.981015135544881,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHN,2020,China,2.41942189457782,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHN,2019,China,2.89923416358226,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHN,2018,China,2.07479039965576,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COL,2024,Colombia,6.60908593728228,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COL,2023,Colombia,11.7359044948689,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COL,2022,Colombia,10.1772313546166,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COL,2021,Colombia,3.49505757399448,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COL,2020,Colombia,2.52663500084706,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COL,2019,Colombia,3.52301932741446,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COL,2018,Colombia,3.24056932930569,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COM,2024,Comoros,5.05192609588218,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COM,2023,Comoros,8.37373955490995,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COM,2022,Comoros,12.5320314570998,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COM,2021,Comoros,-0.00441793682346988,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COM,2020,Comoros,0.786641929499151,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COM,2019,Comoros,3.58213544469211,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COM,2018,Comoros,2.15155084413033,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COG,2024,"Congo, Rep.",3.09143630919166,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COG,2023,"Congo, Rep.",4.30174563591016,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COG,2022,"Congo, Rep.",3.04344334698477,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COG,2021,"Congo, Rep.",1.7156427545126,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COG,2020,"Congo, Rep.",1.79537147083107,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COG,2019,"Congo, Rep.",2.20607305781525,FP.CPI.TOTL.ZG,inflation_consumer_prices
+COG,2018,"Congo, Rep.",1.15277896375523,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CRI,2024,Costa Rica,-0.412853001047069,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CRI,2023,Costa Rica,0.525193508693455,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CRI,2022,Costa Rica,8.27477490232654,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CRI,2021,Costa Rica,1.72647755109241,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CRI,2020,Costa Rica,0.724911478131375,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CRI,2019,Costa Rica,2.09604635327807,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CRI,2018,Costa Rica,2.2211146152658,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CIV,2024,Cote d'Ivoire,3.45053028131018,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CIV,2023,Cote d'Ivoire,4.36972254867474,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CIV,2022,Cote d'Ivoire,5.23352856100842,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CIV,2021,Cote d'Ivoire,4.15919657911797,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CIV,2020,Cote d'Ivoire,2.41252617189052,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CIV,2019,Cote d'Ivoire,0.79085551205366,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CIV,2018,Cote d'Ivoire,0.401297817263547,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HRV,2024,Croatia,2.97200477643618,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HRV,2023,Croatia,7.9412817758683,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HRV,2022,Croatia,10.7805806758686,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HRV,2021,Croatia,2.55450699642041,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HRV,2020,Croatia,0.154811374562106,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HRV,2019,Croatia,0.771820346498019,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HRV,2018,Croatia,1.50012501041756,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CUW,2019,Curacao,2.62220783425058,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CUW,2018,Curacao,2.58368756641813,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CYP,2024,Cyprus,1.80023018624815,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CYP,2023,Cyprus,3.54134188751663,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CYP,2022,Cyprus,8.39548297993334,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CYP,2021,Cyprus,2.44608867175474,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CYP,2020,Cyprus,-0.638422797978958,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CYP,2019,Cyprus,0.250370996758493,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CYP,2018,Cyprus,1.43549119531759,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CZE,2024,Czechia,2.43531202435314,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CZE,2023,Czechia,10.6612601372427,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CZE,2022,Czechia,15.100165146837,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CZE,2021,Czechia,3.83984491500146,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CZE,2020,Czechia,3.1612952849781,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CZE,2019,Czechia,2.84787595918041,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CZE,2018,Czechia,2.14949494949492,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DNK,2024,Denmark,1.37220049768925,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DNK,2023,Denmark,3.30517811237605,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DNK,2022,Denmark,7.69656699889259,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DNK,2021,Denmark,1.85304543989689,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DNK,2020,Denmark,0.420711974110024,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DNK,2019,Denmark,0.75813157251162,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DNK,2018,Denmark,0.813609467455631,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DJI,2024,Djibouti,2.1120116728497,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DJI,2023,Djibouti,1.44905087029085,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DJI,2022,Djibouti,5.17222088647605,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DJI,2021,Djibouti,1.18086783934059,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DJI,2020,Djibouti,1.77900535643955,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DJI,2019,Djibouti,3.31763203299602,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DJI,2018,Djibouti,0.138836400011405,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DMA,2024,Dominica,2.56921890367725,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DMA,2023,Dominica,5.08677483158111,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DMA,2022,Dominica,2.88490226829353,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DMA,2021,Dominica,2.22891330700343,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DMA,2020,Dominica,1.22026442242476,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DMA,2019,Dominica,1.50462353858141,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DMA,2018,Dominica,0.989191119189889,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DOM,2024,Dominican Republic,3.30223338951227,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DOM,2023,Dominican Republic,4.78561281021135,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DOM,2022,Dominican Republic,8.81109209279587,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DOM,2021,Dominican Republic,8.24300347981809,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DOM,2020,Dominican Republic,3.78103179915516,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DOM,2019,Dominican Republic,1.81060377042959,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DOM,2018,Dominican Republic,3.56443426013507,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ECU,2024,Ecuador,1.54732515615369,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ECU,2023,Ecuador,2.21568764237058,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ECU,2022,Ecuador,3.46616972213076,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ECU,2021,Ecuador,0.133251386096389,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ECU,2020,Ecuador,-0.338872392562139,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ECU,2019,Ecuador,0.266012515466155,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ECU,2018,Ecuador,-0.224103246005552,FP.CPI.TOTL.ZG,inflation_consumer_prices
+EGY,2024,"Egypt, Arab Rep.",28.2705899322082,FP.CPI.TOTL.ZG,inflation_consumer_prices
+EGY,2023,"Egypt, Arab Rep.",33.8847763115546,FP.CPI.TOTL.ZG,inflation_consumer_prices
+EGY,2022,"Egypt, Arab Rep.",13.8956609775177,FP.CPI.TOTL.ZG,inflation_consumer_prices
+EGY,2021,"Egypt, Arab Rep.",5.21404940513042,FP.CPI.TOTL.ZG,inflation_consumer_prices
+EGY,2020,"Egypt, Arab Rep.",5.04493288977538,FP.CPI.TOTL.ZG,inflation_consumer_prices
+EGY,2019,"Egypt, Arab Rep.",9.15279959324803,FP.CPI.TOTL.ZG,inflation_consumer_prices
+EGY,2018,"Egypt, Arab Rep.",14.4014657807421,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLV,2024,El Salvador,0.853782292567288,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLV,2023,El Salvador,4.04554694222477,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLV,2022,El Salvador,7.19861615609867,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLV,2021,El Salvador,3.46692585313082,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLV,2020,El Salvador,-0.371590212324095,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLV,2019,El Salvador,0.0753241350024612,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLV,2018,El Salvador,1.09033000581892,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GNQ,2024,Equatorial Guinea,2.92140227309103,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GNQ,2023,Equatorial Guinea,2.85949506037322,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GNQ,2022,Equatorial Guinea,4.78671704710803,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GNQ,2021,Equatorial Guinea,-0.0971007664640198,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GNQ,2020,Equatorial Guinea,4.76669523944228,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GNQ,2019,Equatorial Guinea,1.53027528964189,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GNQ,2018,Equatorial Guinea,1.06007410662171,FP.CPI.TOTL.ZG,inflation_consumer_prices
+EST,2024,Estonia,3.5194118998392,FP.CPI.TOTL.ZG,inflation_consumer_prices
+EST,2023,Estonia,9.15922507983982,FP.CPI.TOTL.ZG,inflation_consumer_prices
+EST,2022,Estonia,19.3982634080616,FP.CPI.TOTL.ZG,inflation_consumer_prices
+EST,2021,Estonia,4.65316673847472,FP.CPI.TOTL.ZG,inflation_consumer_prices
+EST,2020,Estonia,-0.444531097679829,FP.CPI.TOTL.ZG,inflation_consumer_prices
+EST,2019,Estonia,2.27725931243522,FP.CPI.TOTL.ZG,inflation_consumer_prices
+EST,2018,Estonia,3.43632688420446,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SWZ,2019,Eswatini,2.59801620311077,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SWZ,2018,Eswatini,4.81506167461513,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ETH,2024,Ethiopia,21.037746057771,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ETH,2023,Ethiopia,30.2188278135278,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ETH,2022,Ethiopia,33.8898797100898,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ETH,2021,Ethiopia,26.8395221557722,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ETH,2020,Ethiopia,20.3563468559061,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ETH,2019,Ethiopia,15.8096321719344,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ETH,2018,Ethiopia,13.8330356586661,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FJI,2024,Fiji,3.89084237884105,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FJI,2023,Fiji,2.97544080604538,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FJI,2022,Fiji,6.07882431529724,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FJI,2021,Fiji,1.53454853751591,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FJI,2020,Fiji,-1.70014167847317,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FJI,2019,Fiji,1.79388647514555,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FJI,2018,Fiji,4.08147637644542,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FIN,2024,Finland,1.56568906231615,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FIN,2023,Finland,6.25064322154762,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FIN,2022,Finland,7.12350773301402,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FIN,2021,Finland,2.19457432340007,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FIN,2020,Finland,0.290554555653239,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FIN,2019,Finland,1.0240939296343,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FIN,2018,Finland,1.08382098409305,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FRA,2024,France,1.99904942291462,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FRA,2023,France,4.8783572650844,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FRA,2022,France,5.22236748369725,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FRA,2021,France,1.64233141038393,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FRA,2020,France,0.476498852725065,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FRA,2019,France,1.10825492288293,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FRA,2018,France,1.85081508315492,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GAB,2024,Gabon,1.17311998381218,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GAB,2023,Gabon,3.62901534185376,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GAB,2022,Gabon,4.23124798274579,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GAB,2021,Gabon,1.0869074651941,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GAB,2020,Gabon,1.35276110675333,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GAB,2019,Gabon,2.46456756151187,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GAB,2018,Gabon,4.74906652083221,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GMB,2024,"Gambia, The",11.5610532897511,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GMB,2023,"Gambia, The",16.9742129632327,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GMB,2022,"Gambia, The",11.5131198380505,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GMB,2021,"Gambia, The",7.37034758876618,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GMB,2020,"Gambia, The",5.93127636562441,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GMB,2019,"Gambia, The",7.11567625631192,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GMB,2018,"Gambia, The",6.52096823946573,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GEO,2024,Georgia,1.10971758022096,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GEO,2023,Georgia,2.48776056578715,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GEO,2022,Georgia,11.8981654203198,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GEO,2021,Georgia,9.56691433824769,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GEO,2020,Georgia,5.2024648897534,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GEO,2019,Georgia,4.85289821696723,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GEO,2018,Georgia,2.6152447139767,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DEU,2024,Germany,2.2564981433876,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DEU,2023,Germany,5.94643667725823,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DEU,2022,Germany,6.87257438551096,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DEU,2021,Germany,3.06666666666673,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DEU,2020,Germany,0.144877925813981,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DEU,2019,Germany,1.44565976888253,FP.CPI.TOTL.ZG,inflation_consumer_prices
+DEU,2018,Germany,1.73216879766941,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GHA,2024,Ghana,22.8483281157842,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GHA,2023,Ghana,38.1069656296501,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GHA,2022,Ghana,31.2558951049016,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GHA,2021,Ghana,9.9710886750444,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GHA,2020,Ghana,9.88728956269944,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GHA,2019,Ghana,7.14364003330857,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GHA,2018,Ghana,7.80876516610703,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GRC,2024,Greece,2.74101875679477,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GRC,2023,Greece,3.46480128513405,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GRC,2022,Greece,9.64525981280642,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GRC,2021,Greece,1.22382501019854,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GRC,2020,Greece,-1.24798355581405,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GRC,2019,Greece,0.253007522038059,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GRC,2018,Greece,0.62562141345364,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GRD,2024,Grenada,1.08615365134737,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GRD,2023,Grenada,2.69612269814564,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GRD,2022,Grenada,2.5805392590792,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GRD,2021,Grenada,1.21951193916838,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GRD,2020,Grenada,-0.740732597045498,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GRD,2019,Grenada,0.598149764736022,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GRD,2018,Grenada,0.804102313277033,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GTM,2024,Guatemala,2.86992752918294,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GTM,2023,Guatemala,6.20657592272126,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GTM,2022,Guatemala,6.88512823344287,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GTM,2021,Guatemala,4.26105127422813,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GTM,2020,Guatemala,3.21444062197345,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GTM,2019,Guatemala,3.69998398008605,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GTM,2018,Guatemala,3.75186186704508,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GIN,2024,Guinea,8.12313914948596,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GIN,2023,Guinea,7.80497591927973,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GIN,2022,Guinea,10.4930409984424,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GIN,2021,Guinea,12.5972882566934,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GIN,2020,Guinea,10.6016203387167,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GIN,2019,Guinea,9.47001039253012,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GIN,2018,Guinea,9.82761701259191,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GNB,2024,Guinea-Bissau,3.76555825770114,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GNB,2023,Guinea-Bissau,7.10220928557059,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GNB,2022,Guinea-Bissau,9.39075933985203,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GNB,2021,Guinea-Bissau,2.24248879577658,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GNB,2020,Guinea-Bissau,1.14000939393222,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GNB,2019,Guinea-Bissau,0.24660026814783,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GNB,2018,Guinea-Bissau,0.381324702790992,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GUY,2024,Guyana,2.90395226446373,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GUY,2023,Guyana,2.82110335099641,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GUY,2022,Guyana,6.11505550109935,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GUY,2021,Guyana,5.03285574626702,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GUY,2020,Guyana,0.99333702283873,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GUY,2019,Guyana,2.08723089162013,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GUY,2018,Guyana,1.28284288443528,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HTI,2024,Haiti,26.9490564091987,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HTI,2023,Haiti,36.8135162780854,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HTI,2022,Haiti,33.98393194707,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HTI,2021,Haiti,16.8415240198785,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HTI,2020,Haiti,22.7963113642528,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HTI,2019,Haiti,18.7037825672506,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HTI,2018,Haiti,12.4814111170435,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HND,2024,Honduras,4.60621098127107,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HND,2023,Honduras,6.66325180347457,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HND,2022,Honduras,9.08963911525025,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HND,2021,Honduras,4.48087963413445,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HND,2020,Honduras,3.46841177951184,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HND,2019,Honduras,4.36587159819267,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HND,2018,Honduras,4.34734937777528,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HKG,2024,"Hong Kong SAR, China",1.72972119105914,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HKG,2023,"Hong Kong SAR, China",2.09660511249089,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HKG,2022,"Hong Kong SAR, China",1.88136707196853,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HKG,2021,"Hong Kong SAR, China",1.56875834445922,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HKG,2020,"Hong Kong SAR, China",0.2509620210808,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HKG,2019,"Hong Kong SAR, China",2.88320853773996,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HKG,2018,"Hong Kong SAR, China",2.40613432046534,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HUN,2024,Hungary,3.70370370370369,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HUN,2023,Hungary,17.1249659678737,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HUN,2022,Hungary,14.6081439492433,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HUN,2021,Hungary,5.11096534382855,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HUN,2020,Hungary,3.32674385766738,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HUN,2019,Hungary,3.33858635382008,FP.CPI.TOTL.ZG,inflation_consumer_prices
+HUN,2018,Hungary,2.85024792594646,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ISL,2024,Iceland,5.85683849970066,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ISL,2023,Iceland,8.73630299937298,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ISL,2022,Iceland,8.3087551155892,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ISL,2021,Iceland,4.44423970189739,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ISL,2020,Iceland,2.84792401518665,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ISL,2019,Iceland,3.01397179156053,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ISL,2018,Iceland,2.68291768267392,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IND,2024,India,4.95303550973656,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IND,2023,India,5.64914318907925,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IND,2022,India,6.69903414079852,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IND,2021,India,5.13140747176369,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IND,2020,India,6.62343677628535,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IND,2019,India,3.72950573539129,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IND,2018,India,3.9388264669163,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IDN,2024,Indonesia,2.18151273615189,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IDN,2023,Indonesia,3.66938654859761,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IDN,2022,Indonesia,4.20946463714784,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IDN,2021,Indonesia,1.56007882983334,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IDN,2020,Indonesia,1.91983527270793,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IDN,2019,Indonesia,3.03058460941661,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IDN,2018,Indonesia,3.19834755924996,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRN,2024,"Iran, Islamic Rep.",32.455871402917,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRN,2023,"Iran, Islamic Rep.",44.5791857572797,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRN,2022,"Iran, Islamic Rep.",43.4884641742179,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRN,2021,"Iran, Islamic Rep.",43.3890162681514,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRN,2020,"Iran, Islamic Rep.",30.5941390387295,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRN,2019,"Iran, Islamic Rep.",39.9073455697784,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRN,2018,"Iran, Islamic Rep.",18.0141183371874,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRQ,2024,Iraq,-12.2969837587007,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRQ,2023,Iraq,4.35835351089586,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRQ,2022,Iraq,4.99476596381044,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRQ,2021,Iraq,6.04186489058044,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRQ,2020,Iraq,0.574162679425795,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRQ,2019,Iraq,-0.198965380023928,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRQ,2018,Iraq,0.367441488936849,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRL,2024,Ireland,2.11344999577317,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRL,2023,Ireland,6.29942487419125,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRL,2022,Ireland,7.82945736434105,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRL,2021,Ireland,2.34034113447044,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRL,2020,Ireland,-0.326183651280033,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRL,2019,Ireland,0.937842961189274,FP.CPI.TOTL.ZG,inflation_consumer_prices
+IRL,2018,Ireland,0.471130713712916,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ISR,2024,Israel,3.07480889805025,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ISR,2023,Israel,4.22522603168918,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ISR,2022,Israel,4.41162725488371,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ISR,2021,Israel,1.47965474722561,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ISR,2020,Israel,-0.575254620897756,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ISR,2019,Israel,0.817645940292794,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ISR,2018,Israel,0.805060379528526,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ITA,2024,Italy,0.982373023061417,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ITA,2023,Italy,5.62219442195901,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ITA,2022,Italy,8.20128991161718,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ITA,2021,Italy,1.87378325762481,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ITA,2020,Italy,-0.13770757391651,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ITA,2019,Italy,0.611246943765304,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ITA,2018,Italy,1.13748763600391,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JAM,2024,Jamaica,5.41194447981659,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JAM,2023,Jamaica,6.47413734662063,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JAM,2022,Jamaica,10.3495688391272,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JAM,2021,Jamaica,5.86278242801063,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JAM,2020,Jamaica,5.2267777929352,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JAM,2019,Jamaica,3.90510000865872,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JAM,2018,Jamaica,3.73663882152163,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JPN,2024,Japan,2.73853681635241,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JPN,2023,Japan,3.26813365933163,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JPN,2022,Japan,2.49770278172255,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JPN,2021,Japan,-0.233352779398264,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JPN,2020,Japan,-0.024995834027731,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JPN,2019,Japan,0.46877615938395,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JPN,2018,Japan,0.989094598021848,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JOR,2024,Jordan,1.55659611283953,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JOR,2023,Jordan,2.08486986327134,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JOR,2022,Jordan,4.22915568897117,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JOR,2021,Jordan,1.34609377243118,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JOR,2020,Jordan,0.333294350628378,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JOR,2019,Jordan,0.761514047265601,FP.CPI.TOTL.ZG,inflation_consumer_prices
+JOR,2018,Jordan,4.46231108475481,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KAZ,2024,Kazakhstan,8.69082156104494,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KAZ,2023,Kazakhstan,14.5275597825952,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KAZ,2022,Kazakhstan,15.0278644440851,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KAZ,2021,Kazakhstan,8.04147134028401,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KAZ,2020,Kazakhstan,6.71815454861458,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KAZ,2019,Kazakhstan,5.33356098916669,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KAZ,2018,Kazakhstan,6.16366247577762,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KEN,2024,Kenya,4.48978854243448,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KEN,2023,Kenya,7.67139634029402,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KEN,2022,Kenya,7.65986268272224,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KEN,2021,Kenya,6.10793603659176,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KEN,2020,Kenya,5.40516207933392,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KEN,2019,Kenya,5.23963795764792,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KEN,2018,Kenya,4.6898064677633,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KIR,2024,Kiribati,2.45545072159028,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KIR,2023,Kiribati,9.28307374517721,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KIR,2022,Kiribati,5.34595440908904,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KIR,2021,Kiribati,2.05361676773907,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KIR,2020,Kiribati,2.5532455441463,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KIR,2019,Kiribati,-1.81307995302947,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KIR,2018,Kiribati,0.564030491493476,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KOR,2024,"Korea, Rep.",2.32174328643542,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KOR,2023,"Korea, Rep.",3.5974562502901,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KOR,2022,"Korea, Rep.",5.08951365062842,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KOR,2021,"Korea, Rep.",2.49833333333339,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KOR,2020,"Korea, Rep.",0.537288023411737,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KOR,2019,"Korea, Rep.",0.383000303608136,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KOR,2018,"Korea, Rep.",1.47583935002645,FP.CPI.TOTL.ZG,inflation_consumer_prices
+XKX,2024,Kosovo,1.61944994559476,FP.CPI.TOTL.ZG,inflation_consumer_prices
+XKX,2023,Kosovo,4.94432438791283,FP.CPI.TOTL.ZG,inflation_consumer_prices
+XKX,2022,Kosovo,11.5805104542012,FP.CPI.TOTL.ZG,inflation_consumer_prices
+XKX,2021,Kosovo,3.35369139207997,FP.CPI.TOTL.ZG,inflation_consumer_prices
+XKX,2020,Kosovo,0.198227922994854,FP.CPI.TOTL.ZG,inflation_consumer_prices
+XKX,2019,Kosovo,2.67599202639893,FP.CPI.TOTL.ZG,inflation_consumer_prices
+XKX,2018,Kosovo,1.05379773654991,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KWT,2024,Kuwait,2.89855072463762,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KWT,2023,Kuwait,3.64216403030709,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KWT,2022,Kuwait,3.98064961990313,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KWT,2021,Kuwait,3.42362947609188,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KWT,2020,Kuwait,2.101729548274,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KWT,2019,Kuwait,1.09184802655856,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KWT,2018,Kuwait,0.543133148199567,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KGZ,2024,Kyrgyz Republic,4.99760701207323,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KGZ,2023,Kyrgyz Republic,10.7532770416742,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KGZ,2022,Kyrgyz Republic,13.9229093174176,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KGZ,2021,Kyrgyz Republic,11.9050398185147,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KGZ,2020,Kyrgyz Republic,6.32542296338078,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KGZ,2019,Kyrgyz Republic,1.13362257718804,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KGZ,2018,Kyrgyz Republic,1.54266145238436,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LAO,2024,Lao PDR,23.1305695942588,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LAO,2023,Lao PDR,31.2301341732646,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LAO,2022,Lao PDR,22.9562225132056,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LAO,2021,Lao PDR,3.75562036658877,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LAO,2020,Lao PDR,5.10407262959919,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LAO,2019,Lao PDR,3.32255881256925,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LAO,2018,Lao PDR,2.04039266890201,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LVA,2024,Latvia,1.26579885828729,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LVA,2023,Latvia,8.9380462331663,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LVA,2022,Latvia,17.3102830198815,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LVA,2021,Latvia,3.27582937431165,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LVA,2020,Latvia,0.219064904841985,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LVA,2019,Latvia,2.81140920075624,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LVA,2018,Latvia,2.53445424186598,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBN,2024,Lebanon,45.2430422716718,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBN,2023,Lebanon,221.341644023365,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBN,2022,Lebanon,171.205491336641,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBN,2021,Lebanon,154.756096023393,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBN,2020,Lebanon,84.8643330472041,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBN,2019,Lebanon,3.00538949390383,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBN,2018,Lebanon,6.07698907889607,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LSO,2024,Lesotho,6.10544624245032,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LSO,2023,Lesotho,6.34221743124953,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LSO,2022,Lesotho,8.27180389943028,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LSO,2021,Lesotho,6.04774591950676,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LSO,2020,Lesotho,4.97809676252309,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LSO,2019,Lesotho,5.18708359197982,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LSO,2018,Lesotho,4.7518030162474,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBR,2024,Liberia,8.21497439118964,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBR,2023,Liberia,10.0944535665552,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBR,2022,Liberia,7.59298486560313,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBR,2021,Liberia,7.81559385858648,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBR,2020,Liberia,16.9557241496255,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBR,2019,Liberia,26.9662760197878,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBR,2018,Liberia,23.5635148953742,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBY,2024,Libya,2.12615766885025,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBY,2023,Libya,2.37317531435169,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBY,2022,Libya,4.51030149235703,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBY,2021,Libya,2.86833027751019,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBY,2020,Libya,1.44703656998741,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBY,2019,Libya,-2.16217883470595,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LBY,2018,Libya,13.1702038536721,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LTU,2024,Lithuania,0.715735835228723,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LTU,2023,Lithuania,9.11731962390475,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LTU,2022,Lithuania,19.7050461518394,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LTU,2021,Lithuania,4.68354420903453,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LTU,2020,Lithuania,1.19989444983569,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LTU,2019,Lithuania,2.33450937988027,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LTU,2018,Lithuania,2.69792779208394,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LUX,2024,Luxembourg,2.05113269954859,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LUX,2023,Luxembourg,3.74140361983136,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LUX,2022,Luxembourg,6.33600807777919,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LUX,2021,Luxembourg,2.52692009066166,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LUX,2020,Luxembourg,0.819957302127036,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LUX,2019,Luxembourg,1.74332075653848,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LUX,2018,Luxembourg,1.5281952430738,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MAC,2024,"Macao SAR, China",0.672498598854365,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MAC,2023,"Macao SAR, China",0.476384495788075,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MAC,2022,"Macao SAR, China",1.04502802369954,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MAC,2021,"Macao SAR, China",0.0264543647055504,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MAC,2020,"Macao SAR, China",0.811410511491512,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MAC,2019,"Macao SAR, China",2.75193081051975,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MAC,2018,"Macao SAR, China",3.00446293166953,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDG,2024,Madagascar,7.61335784313723,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDG,2023,Madagascar,9.87432675044888,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDG,2022,Madagascar,8.16059031991844,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDG,2021,Madagascar,5.81225118787715,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDG,2020,Madagascar,4.20179312190557,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDG,2019,Madagascar,5.61051441492365,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDG,2018,Madagascar,8.59422958870476,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MWI,2024,Malawi,32.1796504225025,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MWI,2023,Malawi,28.7897428247298,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MWI,2022,Malawi,20.953969729969,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MWI,2021,Malawi,9.33014410835212,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MWI,2020,Malawi,8.62551469650552,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MWI,2019,Malawi,9.3708360560567,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MWI,2018,Malawi,12.420178108921,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MYS,2024,Malaysia,1.834100204499,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MYS,2023,Malaysia,2.48886560125754,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MYS,2022,Malaysia,3.37869862549928,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MYS,2021,Malaysia,2.47710241465447,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MYS,2020,Malaysia,-1.1387021539305,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MYS,2019,Malaysia,0.662891865764326,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MYS,2018,Malaysia,0.884709160571235,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDV,2024,Maldives,1.39979779674928,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDV,2023,Maldives,2.92746542425035,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDV,2022,Maldives,2.33314337624567,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDV,2021,Maldives,0.543149688737013,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDV,2020,Maldives,-1.36977425569811,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDV,2019,Maldives,0.220029731065383,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDV,2018,Maldives,-0.133373386117595,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MLI,2024,Mali,3.2063986409966,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MLI,2023,Mali,2.05880228274223,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MLI,2022,Mali,9.62147608489064,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MLI,2021,Mali,3.92560283104277,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MLI,2020,Mali,0.438088940320669,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MLI,2019,Mali,-1.65826694846365,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MLI,2018,Mali,0.299546507387843,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MLT,2024,Malta,1.65079469283109,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MLT,2023,Malta,5.09396758978883,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MLT,2022,Malta,6.15375621933037,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MLT,2021,Malta,1.49789217934724,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MLT,2020,Malta,0.638544956776712,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MLT,2019,Malta,1.6420600176894,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MLT,2018,Malta,1.15782362451517,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MRT,2024,Mauritania,2.49164347481972,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MRT,2023,Mauritania,4.95305034506872,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MRT,2022,Mauritania,9.52526628622843,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MRT,2021,Mauritania,3.56516484650185,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MRT,2020,Mauritania,2.3856948845632,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MRT,2019,Mauritania,2.30009262117937,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MRT,2018,Mauritania,3.06735996058356,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MUS,2024,Mauritius,3.6045220384796,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MUS,2023,Mauritius,7.05298238454736,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MUS,2022,Mauritius,10.7737512242899,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MUS,2021,Mauritius,4.02852888157376,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MUS,2020,Mauritius,2.5808007718283,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MUS,2019,Mauritius,0.405655190309553,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MUS,2018,Mauritius,3.2160538314457,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MEX,2024,Mexico,4.72225588452932,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MEX,2023,Mexico,5.52796087314389,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MEX,2022,Mexico,7.8962761916855,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MEX,2021,Mexico,5.68920847683753,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MEX,2020,Mexico,3.39683415570006,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MEX,2019,Mexico,3.63596142127046,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MEX,2018,Mexico,4.89935015356551,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FSM,2022,"Micronesia, Fed. Sts.",5.40874375479067,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FSM,2021,"Micronesia, Fed. Sts.",3.19128406597466,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FSM,2020,"Micronesia, Fed. Sts.",0.554594630853174,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FSM,2019,"Micronesia, Fed. Sts.",1.92385170787923,FP.CPI.TOTL.ZG,inflation_consumer_prices
+FSM,2018,"Micronesia, Fed. Sts.",1.49840023593737,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDA,2024,Moldova,4.67773516007052,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDA,2023,Moldova,13.4170104381299,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDA,2022,Moldova,28.7372976766235,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDA,2021,Moldova,5.10641129002835,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDA,2020,Moldova,3.76597122245351,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDA,2019,Moldova,4.83778351428728,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MDA,2018,Moldova,3.04505397337071,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MNG,2024,Mongolia,6.1977990165842,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MNG,2023,Mongolia,10.347583131434,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MNG,2022,Mongolia,15.1509728200805,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MNG,2021,Mongolia,7.35894657888155,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MNG,2020,Mongolia,3.7237230614026,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MNG,2019,Mongolia,7.30106953550729,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MNG,2018,Mongolia,6.82424790145522,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MNE,2024,Montenegro,3.33675009282281,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MNE,2023,Montenegro,8.58476910455403,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MNE,2022,Montenegro,13.0403036347004,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MNE,2021,Montenegro,2.41080198403165,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MNE,2020,Montenegro,-0.255655699848551,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MNE,2019,Montenegro,0.361563704540767,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MNE,2018,Montenegro,2.611223782638,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MAR,2024,Morocco,0.985256592004507,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MAR,2023,Morocco,6.09114152504141,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MAR,2022,Morocco,6.65704202759067,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MAR,2021,Morocco,1.40195883962006,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MAR,2020,Morocco,0.705968661338261,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MAR,2019,Morocco,0.303386036590383,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MAR,2018,Morocco,1.80391671141896,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MOZ,2024,Mozambique,4.07856834812022,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MOZ,2023,Mozambique,7.12697482131851,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MOZ,2022,Mozambique,10.2794018093421,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MOZ,2021,Mozambique,6.40847652975692,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MOZ,2020,Mozambique,3.48393567493204,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MOZ,2019,Mozambique,2.80270307928111,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MOZ,2018,Mozambique,3.91133439990729,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MMR,2019,Myanmar,8.82506696804558,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MMR,2018,Myanmar,6.87232865662935,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NAM,2024,Namibia,4.23903922877036,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NAM,2023,Namibia,5.87993463284275,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NAM,2022,Namibia,6.08128114112413,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NAM,2021,Namibia,3.61690530108814,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NAM,2020,Namibia,2.20938236933469,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NAM,2019,Namibia,3.72239414422695,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NAM,2018,Namibia,4.29159105337875,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NPL,2024,Nepal,4.6850965426577,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NPL,2023,Nepal,7.11587261530826,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NPL,2022,Nepal,7.6702057938028,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NPL,2021,Nepal,4.12676744440695,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NPL,2020,Nepal,5.05635826238499,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NPL,2019,Nepal,5.56616035243723,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NPL,2018,Nepal,4.40659410175714,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NLD,2024,Netherlands,3.34754304219953,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NLD,2023,Netherlands,3.83839354342808,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NLD,2022,Netherlands,10.0012078753473,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NLD,2021,Netherlands,2.67572008805385,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NLD,2020,Netherlands,1.27246037789161,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NLD,2019,Netherlands,2.63369910249591,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NLD,2018,Netherlands,1.70349794744479,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NZL,2024,New Zealand,2.92279782301957,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NZL,2023,New Zealand,5.73316283034957,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NZL,2022,New Zealand,7.17222476016441,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NZL,2021,New Zealand,3.94112060778728,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NZL,2020,New Zealand,1.71456170007245,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NZL,2019,New Zealand,1.61963190184048,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NZL,2018,New Zealand,1.59829703801696,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NIC,2024,Nicaragua,4.62473841057141,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NIC,2023,Nicaragua,8.38765854872536,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NIC,2022,Nicaragua,10.4674244465991,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NIC,2021,Nicaragua,4.92841396948968,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NIC,2020,Nicaragua,3.68181341625572,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NIC,2019,Nicaragua,5.37628990844126,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NIC,2018,Nicaragua,4.94723728039886,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NER,2024,Niger,9.07151997725013,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NER,2023,Niger,3.70097316425834,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NER,2022,Niger,4.22621791916392,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NER,2021,Niger,3.8378680284051,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NER,2020,Niger,2.8981937602627,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NER,2019,Niger,-2.48979265070855,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NER,2018,Niger,2.96760366004456,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NGA,2024,Nigeria,33.2420966545406,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NGA,2023,Nigeria,24.659550203114,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NGA,2022,Nigeria,18.8471877843274,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NGA,2021,Nigeria,16.9528457221608,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NGA,2020,Nigeria,13.2460234276597,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NGA,2019,Nigeria,11.3964223378116,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NGA,2018,Nigeria,12.0951065173432,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MKD,2024,North Macedonia,3.48974086026954,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MKD,2023,North Macedonia,9.36187249769015,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MKD,2022,North Macedonia,14.2047173195833,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MKD,2021,North Macedonia,3.23074912132928,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MKD,2020,North Macedonia,1.20007348888469,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MKD,2019,North Macedonia,0.766439573459805,FP.CPI.TOTL.ZG,inflation_consumer_prices
+MKD,2018,North Macedonia,1.45831298507126,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NOR,2024,Norway,3.14530134431081,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NOR,2023,Norway,5.51784987104659,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NOR,2022,Norway,5.76412317852272,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NOR,2021,Norway,3.48388055266669,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NOR,2020,Norway,1.28658490707996,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NOR,2019,Norway,2.16773003305411,FP.CPI.TOTL.ZG,inflation_consumer_prices
+NOR,2018,Norway,2.76483134528797,FP.CPI.TOTL.ZG,inflation_consumer_prices
+OMN,2024,Oman,0.593589236248469,FP.CPI.TOTL.ZG,inflation_consumer_prices
+OMN,2023,Oman,0.950782997762827,FP.CPI.TOTL.ZG,inflation_consumer_prices
+OMN,2022,Oman,2.5061425061425,FP.CPI.TOTL.ZG,inflation_consumer_prices
+OMN,2021,Oman,1.68221185876085,FP.CPI.TOTL.ZG,inflation_consumer_prices
+OMN,2020,Oman,-0.40640291946585,FP.CPI.TOTL.ZG,inflation_consumer_prices
+OMN,2019,Oman,0.490815362820671,FP.CPI.TOTL.ZG,inflation_consumer_prices
+OMN,2018,Oman,0.889312370970404,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PAK,2024,Pakistan,12.6325318530452,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PAK,2023,Pakistan,30.7681280657005,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PAK,2022,Pakistan,19.8738599646655,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PAK,2021,Pakistan,9.49641577285205,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PAK,2020,Pakistan,9.74011619320125,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PAK,2019,Pakistan,10.5780305672025,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PAK,2018,Pakistan,5.07805725868917,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PLW,2024,Palau,2.23172772921704,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PLW,2023,Palau,12.8199748216534,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PLW,2022,Palau,12.3526638378124,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PLW,2021,Palau,2.6124818577648,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PLW,2020,Palau,0.218181818181833,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PLW,2019,Palau,0.26737967914444,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PLW,2018,Palau,2.10970464135017,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PAN,2024,Panama,0.693225551004538,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PAN,2023,Panama,1.48641355277038,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PAN,2022,Panama,2.85965128834711,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PAN,2021,Panama,1.63070337301898,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PAN,2020,Panama,-1.5502754080376,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PAN,2019,Panama,-0.355083821021245,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PAN,2018,Panama,0.761578359399944,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PNG,2024,Papua New Guinea,0.602403921107917,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PNG,2023,Papua New Guinea,2.29869991296791,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PNG,2022,Papua New Guinea,5.25323922215241,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PNG,2021,Papua New Guinea,4.48359014042398,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PNG,2020,Papua New Guinea,4.87167398565555,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PNG,2019,Papua New Guinea,3.92867290939597,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PNG,2018,Papua New Guinea,4.37448921453162,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PRY,2024,Paraguay,3.83540271728533,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PRY,2023,Paraguay,4.63202285403356,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PRY,2022,Paraguay,9.76556667164402,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PRY,2021,Paraguay,4.787983101236,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PRY,2020,Paraguay,1.76751592356698,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PRY,2019,Paraguay,2.75709727562775,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PRY,2018,Paraguay,3.97561015740694,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PER,2024,Peru,2.00770739412712,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PER,2023,Peru,6.45561348369586,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PER,2022,Peru,8.33370630096231,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PER,2021,Peru,4.27166381536798,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PER,2020,Peru,2.00241205759292,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PER,2019,Peru,2.25212191358027,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PER,2018,Peru,1.50915423024742,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PHL,2024,Philippines,3.21260487006347,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PHL,2023,Philippines,5.97802515541409,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PHL,2022,Philippines,5.82115811213955,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PHL,2021,Philippines,3.92718022100332,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PHL,2020,Philippines,2.3931623931624,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PHL,2019,Philippines,2.39206534422404,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PHL,2018,Philippines,5.30934661627707,FP.CPI.TOTL.ZG,inflation_consumer_prices
+POL,2024,Poland,3.79060897630197,FP.CPI.TOTL.ZG,inflation_consumer_prices
+POL,2023,Poland,11.5289127961105,FP.CPI.TOTL.ZG,inflation_consumer_prices
+POL,2022,Poland,14.4294507575758,FP.CPI.TOTL.ZG,inflation_consumer_prices
+POL,2021,Poland,5.05502704719272,FP.CPI.TOTL.ZG,inflation_consumer_prices
+POL,2020,Poland,3.37446972618589,FP.CPI.TOTL.ZG,inflation_consumer_prices
+POL,2019,Poland,2.22747880938291,FP.CPI.TOTL.ZG,inflation_consumer_prices
+POL,2018,Poland,1.81295156542689,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PRT,2024,Portugal,2.41613187791884,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PRT,2023,Portugal,4.31128191898672,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PRT,2022,Portugal,7.83269124233323,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PRT,2021,Portugal,1.26565719069044,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PRT,2020,Portugal,-0.0124383299575305,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PRT,2019,Portugal,0.338178410046034,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PRT,2018,Portugal,0.993715683468326,FP.CPI.TOTL.ZG,inflation_consumer_prices
+QAT,2024,Qatar,1.26734310292375,FP.CPI.TOTL.ZG,inflation_consumer_prices
+QAT,2023,Qatar,3.02764899198902,FP.CPI.TOTL.ZG,inflation_consumer_prices
+QAT,2022,Qatar,4.99527553740761,FP.CPI.TOTL.ZG,inflation_consumer_prices
+QAT,2021,Qatar,2.30446565742003,FP.CPI.TOTL.ZG,inflation_consumer_prices
+QAT,2020,Qatar,-2.5403150300476,FP.CPI.TOTL.ZG,inflation_consumer_prices
+QAT,2019,Qatar,-0.666641124861147,FP.CPI.TOTL.ZG,inflation_consumer_prices
+QAT,2018,Qatar,0.255815382724408,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ROU,2024,Romania,5.72140574354439,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ROU,2023,Romania,10.3971874764996,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ROU,2022,Romania,13.7954887432521,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ROU,2021,Romania,5.05232876096582,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ROU,2020,Romania,2.63107311184743,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ROU,2019,Romania,3.82785432599438,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ROU,2018,Romania,4.62548443137779,FP.CPI.TOTL.ZG,inflation_consumer_prices
+RUS,2024,Russian Federation,8.43486410496723,FP.CPI.TOTL.ZG,inflation_consumer_prices
+RUS,2023,Russian Federation,5.86571931748967,FP.CPI.TOTL.ZG,inflation_consumer_prices
+RUS,2022,Russian Federation,13.7436797398232,FP.CPI.TOTL.ZG,inflation_consumer_prices
+RUS,2021,Russian Federation,6.69445891957612,FP.CPI.TOTL.ZG,inflation_consumer_prices
+RUS,2020,Russian Federation,3.38219796948068,FP.CPI.TOTL.ZG,inflation_consumer_prices
+RUS,2019,Russian Federation,4.47202631837903,FP.CPI.TOTL.ZG,inflation_consumer_prices
+RUS,2018,Russian Federation,2.87831382614981,FP.CPI.TOTL.ZG,inflation_consumer_prices
+RWA,2024,Rwanda,1.77029240198635,FP.CPI.TOTL.ZG,inflation_consumer_prices
+RWA,2023,Rwanda,19.789546746467,FP.CPI.TOTL.ZG,inflation_consumer_prices
+RWA,2022,Rwanda,17.6892095588153,FP.CPI.TOTL.ZG,inflation_consumer_prices
+RWA,2021,Rwanda,-0.391346748300791,FP.CPI.TOTL.ZG,inflation_consumer_prices
+RWA,2020,Rwanda,9.85039902274207,FP.CPI.TOTL.ZG,inflation_consumer_prices
+RWA,2019,Rwanda,3.34787655037648,FP.CPI.TOTL.ZG,inflation_consumer_prices
+RWA,2018,Rwanda,-0.311210160390699,FP.CPI.TOTL.ZG,inflation_consumer_prices
+WSM,2024,Samoa,2.17245530514377,FP.CPI.TOTL.ZG,inflation_consumer_prices
+WSM,2023,Samoa,7.92164684826777,FP.CPI.TOTL.ZG,inflation_consumer_prices
+WSM,2022,Samoa,10.9618822286844,FP.CPI.TOTL.ZG,inflation_consumer_prices
+WSM,2021,Samoa,3.13320473174494,FP.CPI.TOTL.ZG,inflation_consumer_prices
+WSM,2020,Samoa,-1.56891247740895,FP.CPI.TOTL.ZG,inflation_consumer_prices
+WSM,2019,Samoa,0.982326569888117,FP.CPI.TOTL.ZG,inflation_consumer_prices
+WSM,2018,Samoa,4.19745888663752,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SMR,2024,San Marino,1.24216507945569,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SMR,2023,San Marino,5.93190858629403,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SMR,2022,San Marino,5.32545321311365,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SMR,2021,San Marino,1.61551411551421,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SMR,2020,San Marino,-0.133368898372915,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SMR,2019,San Marino,0.472651967352852,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SMR,2018,San Marino,1.16333522293158,FP.CPI.TOTL.ZG,inflation_consumer_prices
+STP,2024,Sao Tome and Principe,14.3519273571008,FP.CPI.TOTL.ZG,inflation_consumer_prices
+STP,2023,Sao Tome and Principe,21.2589138473,FP.CPI.TOTL.ZG,inflation_consumer_prices
+STP,2022,Sao Tome and Principe,18.0056351122841,FP.CPI.TOTL.ZG,inflation_consumer_prices
+STP,2021,Sao Tome and Principe,8.13777038378732,FP.CPI.TOTL.ZG,inflation_consumer_prices
+STP,2020,Sao Tome and Principe,9.81932791540146,FP.CPI.TOTL.ZG,inflation_consumer_prices
+STP,2019,Sao Tome and Principe,7.72024525213248,FP.CPI.TOTL.ZG,inflation_consumer_prices
+STP,2018,Sao Tome and Principe,7.86859628873909,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SAU,2024,Saudi Arabia,1.68792112375809,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SAU,2023,Saudi Arabia,2.32708518362706,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SAU,2022,Saudi Arabia,2.47407371925372,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SAU,2021,Saudi Arabia,3.06328988941548,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SAU,2020,Saudi Arabia,3.37234961012303,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SAU,2019,Saudi Arabia,-1.19298644533328,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SAU,2018,Saudi Arabia,2.46594308994843,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SEN,2024,Senegal,0.804503298792438,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SEN,2023,Senegal,5.93947798773215,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SEN,2022,Senegal,9.69681899081073,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SEN,2021,Senegal,2.18032278088147,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SEN,2020,Senegal,2.54314685681662,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SEN,2019,Senegal,1.76011151192939,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SEN,2018,Senegal,0.460985642464188,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SRB,2024,Serbia,4.6705297488997,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SRB,2023,Serbia,12.3719043552519,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SRB,2022,Serbia,11.9815117344703,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SRB,2021,Serbia,4.08510285335102,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SRB,2020,Serbia,1.57553290083415,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SRB,2019,Serbia,1.84922984511086,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SRB,2018,Serbia,1.95984076293801,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SYC,2024,Seychelles,0.311726050919668,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SYC,2023,Seychelles,-1.03530088431952,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SYC,2022,Seychelles,2.6260363285129,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SYC,2021,Seychelles,9.76909936973542,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SYC,2020,Seychelles,1.20266463987123,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SYC,2019,Seychelles,1.80709400809982,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SYC,2018,Seychelles,3.70291839111568,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLE,2024,Sierra Leone,28.6337500014115,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLE,2023,Sierra Leone,47.6428733253179,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLE,2022,Sierra Leone,27.2082883814653,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLE,2021,Sierra Leone,11.8739588840234,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLE,2020,Sierra Leone,13.4468711101052,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLE,2019,Sierra Leone,14.8049990906021,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLE,2018,Sierra Leone,16.0295447693699,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SGP,2024,Singapore,2.38951123595017,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SGP,2023,Singapore,4.83372362825798,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SGP,2022,Singapore,6.13095418919732,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SGP,2021,Singapore,2.31610315765146,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SGP,2020,Singapore,-0.172111865925382,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SGP,2019,Singapore,0.567829988405447,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SGP,2018,Singapore,0.438784215129623,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SVK,2024,Slovak Republic,2.75760909424272,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SVK,2023,Slovak Republic,10.5319476645211,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SVK,2022,Slovak Republic,12.7741463637611,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SVK,2021,Slovak Republic,3.14960629921268,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SVK,2020,Slovak Republic,1.93694126694223,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SVK,2019,Slovak Republic,2.66456133425431,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SVK,2018,Slovak Republic,2.51403712883812,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SVN,2024,Slovenia,1.96562656432512,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SVN,2023,Slovenia,7.44687717385838,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SVN,2022,Slovenia,8.83369886749452,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SVN,2021,Slovenia,1.91706506089259,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SVN,2020,Slovenia,-0.05485681576061,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SVN,2019,Slovenia,1.63052260754344,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SVN,2018,Slovenia,1.7386086198818,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLB,2024,Solomon Islands,4.32183948388033,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLB,2023,Solomon Islands,5.88585897042164,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLB,2022,Solomon Islands,5.51812928576938,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLB,2021,Solomon Islands,-0.115437894412839,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLB,2020,Solomon Islands,2.96354992076065,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLB,2019,Solomon Islands,1.63485544012247,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SLB,2018,Solomon Islands,3.46147484973729,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZAF,2024,South Africa,4.36115246518962,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZAF,2023,South Africa,6.0752438457966,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZAF,2022,South Africa,7.03987272546482,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZAF,2021,South Africa,4.61874544887136,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZAF,2020,South Africa,3.23238831615113,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZAF,2019,South Africa,4.10285075461156,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZAF,2018,South Africa,4.50987264867388,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SSD,2024,South Sudan,91.4408220769046,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SSD,2023,South Sudan,2.38280434813754,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SSD,2022,South Sudan,-6.68732094212668,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SSD,2021,South Sudan,10.5167158294358,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SSD,2020,South Sudan,29.6758435538572,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SSD,2019,South Sudan,87.2413641500032,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SSD,2018,South Sudan,83.5015294922,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ESP,2024,Spain,2.77417826534772,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ESP,2023,Spain,3.53236133492432,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ESP,2022,Spain,8.39057634118626,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ESP,2021,Spain,3.09313511976419,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ESP,2020,Spain,-0.322753017299739,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ESP,2019,Spain,0.699518994458738,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ESP,2018,Spain,1.6749813686379,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LKA,2024,Sri Lanka,-0.42936004906973,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LKA,2023,Sri Lanka,16.5411742279832,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LKA,2022,Sri Lanka,49.7211021114327,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LKA,2021,Sri Lanka,7.01478071238195,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LKA,2020,Sri Lanka,6.15394508391738,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LKA,2019,Sri Lanka,3.52839358231811,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LKA,2018,Sri Lanka,2.135037737132,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KNA,2023,St. Kitts and Nevis,3.55711230848243,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KNA,2022,St. Kitts and Nevis,2.66817533111249,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KNA,2021,St. Kitts and Nevis,1.195688870384,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KNA,2020,St. Kitts and Nevis,-1.16724501769353,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KNA,2019,St. Kitts and Nevis,-0.329562063663977,FP.CPI.TOTL.ZG,inflation_consumer_prices
+KNA,2018,St. Kitts and Nevis,-1.03712214131572,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LCA,2024,St. Lucia,-0.110283575834694,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LCA,2023,St. Lucia,4.07060821926204,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LCA,2022,St. Lucia,6.37814695133351,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LCA,2021,St. Lucia,2.41070312174393,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LCA,2020,St. Lucia,-1.75580833517594,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LCA,2019,St. Lucia,0.539087559191757,FP.CPI.TOTL.ZG,inflation_consumer_prices
+LCA,2018,St. Lucia,1.93561893150602,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VCT,2024,St. Vincent and the Grenadines,3.62770736940927,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VCT,2023,St. Vincent and the Grenadines,4.56457719814894,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VCT,2022,St. Vincent and the Grenadines,5.66009779226552,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VCT,2021,St. Vincent and the Grenadines,1.57272932500558,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VCT,2020,St. Vincent and the Grenadines,-0.628131309354654,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VCT,2019,St. Vincent and the Grenadines,0.91306972532459,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VCT,2018,St. Vincent and the Grenadines,2.32414485367921,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SDN,2022,Sudan,138.80846024176,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SDN,2021,Sudan,359.093040778999,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SDN,2020,Sudan,163.257782355458,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SDN,2019,Sudan,50.9940515002965,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SDN,2018,Sudan,63.2925073455888,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SUR,2024,Suriname,16.2296159130279,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SUR,2023,Suriname,51.5873159600861,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SUR,2022,Suriname,52.446027276241,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SUR,2021,Suriname,59.1196626251977,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SUR,2020,Suriname,34.889784309078,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SWE,2024,Sweden,2.83581658224034,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SWE,2023,Sweden,8.5486248974891,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SWE,2022,Sweden,8.36929098869189,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SWE,2021,Sweden,2.16319736447143,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SWE,2020,Sweden,0.497367318853572,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SWE,2019,Sweden,1.78415097403835,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SWE,2018,Sweden,1.95353530127028,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHE,2024,Switzerland,1.06234041976594,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHE,2023,Switzerland,2.13540088016386,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHE,2022,Switzerland,2.83502798644451,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHE,2021,Switzerland,0.581814168489855,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHE,2020,Switzerland,-0.725874933313402,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHE,2019,Switzerland,0.362886179940674,FP.CPI.TOTL.ZG,inflation_consumer_prices
+CHE,2018,Switzerland,0.936335464113572,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SYR,2019,Syrian Arab Republic,13.4175653228571,FP.CPI.TOTL.ZG,inflation_consumer_prices
+SYR,2018,Syrian Arab Republic,0.940983843906769,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TZA,2024,Tanzania,3.05694676312373,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TZA,2023,Tanzania,3.79923291384916,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TZA,2022,Tanzania,4.35027204269101,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TZA,2021,Tanzania,3.69091958802199,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TZA,2020,Tanzania,3.29029062798325,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TZA,2019,Tanzania,3.46428057999021,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TZA,2018,Tanzania,3.49445848856181,FP.CPI.TOTL.ZG,inflation_consumer_prices
+THA,2024,Thailand,1.36580540798037,FP.CPI.TOTL.ZG,inflation_consumer_prices
+THA,2023,Thailand,8.47805174421543,FP.CPI.TOTL.ZG,inflation_consumer_prices
+THA,2022,Thailand,-1.61068030486688,FP.CPI.TOTL.ZG,inflation_consumer_prices
+THA,2021,Thailand,1.23039541318384,FP.CPI.TOTL.ZG,inflation_consumer_prices
+THA,2020,Thailand,-0.845937147357041,FP.CPI.TOTL.ZG,inflation_consumer_prices
+THA,2019,Thailand,0.706728601314311,FP.CPI.TOTL.ZG,inflation_consumer_prices
+THA,2018,Thailand,1.06389754183024,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TLS,2024,Timor-Leste,2.06284153005468,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TLS,2023,Timor-Leste,8.42035103310377,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TLS,2022,Timor-Leste,7.00530945399787,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TLS,2021,Timor-Leste,3.69792094666786,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TLS,2020,Timor-Leste,0.495499215459571,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TLS,2019,Timor-Leste,0.958812739703141,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TLS,2018,Timor-Leste,2.63647201015892,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TGO,2024,Togo,2.86262074089801,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TGO,2023,Togo,5.48928568141131,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TGO,2022,Togo,7.96757361617945,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TGO,2021,Togo,4.1862150652352,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TGO,2020,Togo,1.69928463299399,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TGO,2019,Togo,0.674652770077525,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TGO,2018,Togo,0.927755426457183,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TON,2024,Tonga,3.230563002681,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TON,2023,Tonga,6.35112980255189,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TON,2022,Tonga,10.9713652903022,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TON,2021,Tonga,5.64051140636751,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TON,2020,Tonga,-0.349737696727496,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TON,2019,Tonga,1.17954334821808,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TON,2018,Tonga,5.03209691984874,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TTO,2024,Trinidad and Tobago,0.526884625776839,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TTO,2023,Trinidad and Tobago,4.62930242419968,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TTO,2022,Trinidad and Tobago,5.82838638517959,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TTO,2021,Trinidad and Tobago,2.05922746915458,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TTO,2020,Trinidad and Tobago,0.598986330824643,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TTO,2019,Trinidad and Tobago,1.00054293027237,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TTO,2018,Trinidad and Tobago,1.01856930188822,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TUN,2024,Tunisia,7.20661657168794,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TUN,2023,Tunisia,9.32899597507865,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TUN,2022,Tunisia,8.30646124447623,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TUN,2021,Tunisia,5.706350208307,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TUN,2020,Tunisia,5.63415115897625,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TUN,2019,Tunisia,6.72007532863799,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TUN,2018,Tunisia,7.30759176031652,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TUR,2024,Turkiye,58.5064507300342,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TUR,2023,Turkiye,53.8594087593315,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TUR,2022,Turkiye,72.3088359891207,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TUR,2021,Turkiye,19.5964926913324,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TUR,2020,Turkiye,12.2789574462574,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TUR,2019,Turkiye,15.1768215720022,FP.CPI.TOTL.ZG,inflation_consumer_prices
+TUR,2018,Turkiye,16.3324638988929,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UGA,2024,Uganda,3.3233806708656,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UGA,2023,Uganda,5.35094804280395,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UGA,2022,Uganda,7.1957888597581,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UGA,2021,Uganda,2.20457204757414,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UGA,2020,Uganda,3.31332289544502,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UGA,2019,Uganda,2.867588034469,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UGA,2018,Uganda,2.61601190952274,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UKR,2024,Ukraine,6.50198464669254,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UKR,2023,Ukraine,12.8490222828559,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UKR,2022,Ukraine,20.1836366617478,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UKR,2021,Ukraine,9.36313917695223,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UKR,2020,Ukraine,2.73249209419427,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UKR,2019,Ukraine,7.88671745611133,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UKR,2018,Ukraine,10.9518559353178,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARE,2024,United Arab Emirates,1.66336510224894,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARE,2023,United Arab Emirates,1.62670837213248,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARE,2022,United Arab Emirates,5.29122604376849,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARE,2021,United Arab Emirates,0.179935336174431,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARE,2020,United Arab Emirates,-2.07940317940943,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARE,2019,United Arab Emirates,-1.93108114782172,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ARE,2018,United Arab Emirates,3.06863379251996,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GBR,2024,United Kingdom,3.2715729463592,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GBR,2023,United Kingdom,6.79396706793963,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GBR,2022,United Kingdom,7.92204883147902,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GBR,2021,United Kingdom,2.51837109614213,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GBR,2020,United Kingdom,0.989486703772491,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GBR,2019,United Kingdom,1.73810460086513,FP.CPI.TOTL.ZG,inflation_consumer_prices
+GBR,2018,United Kingdom,2.29283990345938,FP.CPI.TOTL.ZG,inflation_consumer_prices
+USA,2024,United States,2.94952520485207,FP.CPI.TOTL.ZG,inflation_consumer_prices
+USA,2023,United States,4.11633838374488,FP.CPI.TOTL.ZG,inflation_consumer_prices
+USA,2022,United States,8.00279982052121,FP.CPI.TOTL.ZG,inflation_consumer_prices
+USA,2021,United States,4.69785886363742,FP.CPI.TOTL.ZG,inflation_consumer_prices
+USA,2020,United States,1.23358439630629,FP.CPI.TOTL.ZG,inflation_consumer_prices
+USA,2019,United States,1.81221007526021,FP.CPI.TOTL.ZG,inflation_consumer_prices
+USA,2018,United States,2.44258329692817,FP.CPI.TOTL.ZG,inflation_consumer_prices
+URY,2024,Uruguay,4.84914366613156,FP.CPI.TOTL.ZG,inflation_consumer_prices
+URY,2023,Uruguay,5.86910359896119,FP.CPI.TOTL.ZG,inflation_consumer_prices
+URY,2022,Uruguay,9.10437983075437,FP.CPI.TOTL.ZG,inflation_consumer_prices
+URY,2021,Uruguay,7.74791402314762,FP.CPI.TOTL.ZG,inflation_consumer_prices
+URY,2020,Uruguay,9.75640636078194,FP.CPI.TOTL.ZG,inflation_consumer_prices
+URY,2019,Uruguay,7.88198870879619,FP.CPI.TOTL.ZG,inflation_consumer_prices
+URY,2018,Uruguay,7.60653360377047,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UZB,2024,Uzbekistan,9.62825465956682,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UZB,2023,Uzbekistan,9.95659071258018,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UZB,2022,Uzbekistan,11.4466436998836,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UZB,2021,Uzbekistan,10.8492397508122,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UZB,2020,Uzbekistan,12.8677297362606,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UZB,2019,Uzbekistan,14.5257359560687,FP.CPI.TOTL.ZG,inflation_consumer_prices
+UZB,2018,Uzbekistan,17.5241796514055,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VUT,2023,Vanuatu,11.1825017088175,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VUT,2022,Vanuatu,6.67930581887121,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VUT,2021,Vanuatu,2.34328358208953,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VUT,2020,Vanuatu,5.32935073101715,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VUT,2019,Vanuatu,2.76252019386111,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VUT,2018,Vanuatu,2.33096379566866,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VNM,2024,Viet Nam,3.62109273885843,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VNM,2023,Viet Nam,3.25289282667662,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VNM,2022,Viet Nam,3.15650749963129,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VNM,2021,Viet Nam,1.83471554810444,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VNM,2020,Viet Nam,3.22093436652514,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VNM,2019,Viet Nam,2.7958236745225,FP.CPI.TOTL.ZG,inflation_consumer_prices
+VNM,2018,Viet Nam,3.53962805942641,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PSE,2024,West Bank and Gaza,53.6691458303782,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PSE,2023,West Bank and Gaza,5.87110177678988,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PSE,2022,West Bank and Gaza,3.74122391852077,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PSE,2021,West Bank and Gaza,1.23748102831369,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PSE,2020,West Bank and Gaza,-0.735332001092191,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PSE,2019,West Bank and Gaza,1.58018333639455,FP.CPI.TOTL.ZG,inflation_consumer_prices
+PSE,2018,West Bank and Gaza,-0.195107773730735,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZMB,2024,Zambia,14.9856262747939,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZMB,2023,Zambia,10.884531691282,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZMB,2022,Zambia,10.9932039209136,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZMB,2021,Zambia,22.0207676245777,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZMB,2020,Zambia,15.7330604721369,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZMB,2019,Zambia,9.15031644316296,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZMB,2018,Zambia,7.4945719272852,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZWE,2022,Zimbabwe,104.705170628667,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZWE,2021,Zimbabwe,98.5461050920624,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZWE,2020,Zimbabwe,557.201817362051,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZWE,2019,Zimbabwe,255.304990757856,FP.CPI.TOTL.ZG,inflation_consumer_prices
+ZWE,2018,Zimbabwe,10.6188658669575,FP.CPI.TOTL.ZG,inflation_consumer_prices

@@ -1,4 +1,4 @@
-"""API publica para consumir artefactos de Fase 5 v2.0 desde Fases 6-8."""
+"""API publica para consumir artefactos de Fase 5 v2.1+ desde Fases 6-8."""
 
 from __future__ import annotations
 
@@ -21,7 +21,7 @@ def phase6_ready_path(filename: str) -> Path:
 
 
 def load_feature_matrix() -> pd.DataFrame:
-    """Carga la matriz tecnica canonica v2.0: 43 paises x 138 columnas."""
+    """Carga la matriz tecnica canonica v2.1+: 43 paises sin split predictivo."""
     return pd.read_csv(output_path("feature_matrix_mvp.csv"))
 
 
@@ -42,12 +42,22 @@ def load_transform_params() -> pd.DataFrame:
     return pd.read_csv(output_path("mvp_transform_params.csv"))
 
 
+def load_analysis_sample_membership() -> pd.DataFrame:
+    """Carga los 43 países de la muestra primaria con flags de sensibilidad; no es split."""
+    return pd.read_csv(output_path("analysis_sample_membership.csv"))
+
+
+def load_phase6_analysis_sample_membership() -> pd.DataFrame:
+    """Carga membership exportado en phase6_ready; no contiene train/test."""
+    return pd.read_csv(phase6_ready_path("phase6_analysis_sample_membership.csv"))
+
+
 def load_train_test_split() -> pd.DataFrame:
-    return pd.read_csv(output_path("mvp_train_test_split.csv"))
+    raise RuntimeError("Fase 5 v2.1+ no exposes train/test split. Use load_analysis_sample_membership().")
 
 
 def load_manifest() -> dict:
-    """Carga el manifiesto Fase 5 v2.0 con hashes de entradas y outputs."""
+    """Carga el manifiesto Fase 5 v2.1+ con hashes de entradas y outputs."""
     return json.loads(output_path("fase5_manifest.json").read_text(encoding="utf-8"))
 
 
@@ -66,12 +76,12 @@ def load_phase6_column_groups() -> dict:
 
 
 def load_phase6_modeling_contract() -> dict:
-    """Carga el contrato v0.2 con mapeos Q1-Q6, Q5/Q6 y solapes Y."""
+    """Carga el contrato inferencial con mapeos Q1-Q6."""
     return yaml.safe_load(phase6_ready_path("phase6_modeling_contract.yaml").read_text(encoding="utf-8"))
 
 
 def load_phase6_ready_manifest() -> dict:
-    """Carga el manifiesto del bundle phase6_ready v0.2."""
+    """Carga el manifiesto del bundle phase6_ready."""
     return json.loads(phase6_ready_path("phase6_ready_manifest.json").read_text(encoding="utf-8"))
 
 
@@ -92,7 +102,8 @@ __all__ = [
     "load_phase6_llm_context",
     "load_phase6_ready_manifest",
     "load_phase6_schema",
-    "load_train_test_split",
+    "load_analysis_sample_membership",
+    "load_phase6_analysis_sample_membership",
     "load_transform_params",
     "output_path",
     "phase6_ready_path",

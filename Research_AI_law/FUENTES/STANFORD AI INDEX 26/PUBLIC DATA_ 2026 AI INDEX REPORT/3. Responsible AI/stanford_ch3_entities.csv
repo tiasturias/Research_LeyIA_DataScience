@@ -1,0 +1,2445 @@
+fig_id,entity_type,entity_name,year,variable,value
+fig_3.2.1,global,Global,2012,fig_3.2.1_Number of AI incidents,8
+fig_3.2.1,global,Global,2013,fig_3.2.1_Number of AI incidents,6
+fig_3.2.1,global,Global,2014,fig_3.2.1_Number of AI incidents,13
+fig_3.2.1,global,Global,2015,fig_3.2.1_Number of AI incidents,24
+fig_3.2.1,global,Global,2016,fig_3.2.1_Number of AI incidents,41
+fig_3.2.1,global,Global,2017,fig_3.2.1_Number of AI incidents,50
+fig_3.2.1,global,Global,2018,fig_3.2.1_Number of AI incidents,45
+fig_3.2.1,global,Global,2019,fig_3.2.1_Number of AI incidents,43
+fig_3.2.1,global,Global,2020,fig_3.2.1_Number of AI incidents,90
+fig_3.2.1,global,Global,2021,fig_3.2.1_Number of AI incidents,77
+fig_3.2.1,global,Global,2022,fig_3.2.1_Number of AI incidents,104
+fig_3.2.1,global,Global,2023,fig_3.2.1_Number of AI incidents,168
+fig_3.2.1,global,Global,2024,fig_3.2.1_Number of AI incidents,281
+fig_3.2.1,global,Global,2025,fig_3.2.1_Number of AI incidents,362
+fig_3.2.2,category,6-month moving average,0,fig_3.2.2_Number of AI incidents,51.0
+fig_3.2.2,category,6-month moving average,1,fig_3.2.2_Number of AI incidents,41.0
+fig_3.2.2,category,6-month moving average,2,fig_3.2.2_Number of AI incidents,35.67
+fig_3.2.2,category,6-month moving average,3,fig_3.2.2_Number of AI incidents,36.0
+fig_3.2.2,category,6-month moving average,4,fig_3.2.2_Number of AI incidents,35.4
+fig_3.2.2,category,6-month moving average,5,fig_3.2.2_Number of AI incidents,35.83
+fig_3.2.2,category,6-month moving average,6,fig_3.2.2_Number of AI incidents,34.5
+fig_3.2.2,category,6-month moving average,7,fig_3.2.2_Number of AI incidents,38.5
+fig_3.2.2,category,6-month moving average,8,fig_3.2.2_Number of AI incidents,41.67
+fig_3.2.2,category,6-month moving average,9,fig_3.2.2_Number of AI incidents,42.17
+fig_3.2.2,category,6-month moving average,10,fig_3.2.2_Number of AI incidents,43.33
+fig_3.2.2,category,6-month moving average,11,fig_3.2.2_Number of AI incidents,43.67
+fig_3.2.2,category,6-month moving average,12,fig_3.2.2_Number of AI incidents,42.0
+fig_3.2.2,category,6-month moving average,13,fig_3.2.2_Number of AI incidents,41.33
+fig_3.2.2,category,6-month moving average,14,fig_3.2.2_Number of AI incidents,41.33
+fig_3.2.2,category,6-month moving average,15,fig_3.2.2_Number of AI incidents,42.5
+fig_3.2.2,category,6-month moving average,16,fig_3.2.2_Number of AI incidents,44.5
+fig_3.2.2,category,6-month moving average,17,fig_3.2.2_Number of AI incidents,69.0
+fig_3.2.2,category,6-month moving average,18,fig_3.2.2_Number of AI incidents,78.33
+fig_3.2.2,category,6-month moving average,19,fig_3.2.2_Number of AI incidents,83.17
+fig_3.2.2,category,6-month moving average,20,fig_3.2.2_Number of AI incidents,91.83
+fig_3.2.2,category,6-month moving average,21,fig_3.2.2_Number of AI incidents,97.83
+fig_3.2.2,category,6-month moving average,22,fig_3.2.2_Number of AI incidents,101.33
+fig_3.2.2,category,6-month moving average,23,fig_3.2.2_Number of AI incidents,80.5
+fig_3.2.2,category,6-month moving average,24,fig_3.2.2_Number of AI incidents,74.5
+fig_3.2.2,category,6-month moving average,25,fig_3.2.2_Number of AI incidents,68.83
+fig_3.2.2,category,6-month moving average,26,fig_3.2.2_Number of AI incidents,61.0
+fig_3.2.2,category,6-month moving average,27,fig_3.2.2_Number of AI incidents,56.0
+fig_3.2.2,category,6-month moving average,28,fig_3.2.2_Number of AI incidents,52.67
+fig_3.2.2,category,6-month moving average,29,fig_3.2.2_Number of AI incidents,53.83
+fig_3.2.2,category,6-month moving average,30,fig_3.2.2_Number of AI incidents,56.67
+fig_3.2.2,category,6-month moving average,31,fig_3.2.2_Number of AI incidents,58.17
+fig_3.2.2,category,6-month moving average,32,fig_3.2.2_Number of AI incidents,59.83
+fig_3.2.2,category,6-month moving average,33,fig_3.2.2_Number of AI incidents,57.67
+fig_3.2.2,category,6-month moving average,34,fig_3.2.2_Number of AI incidents,57.0
+fig_3.2.2,category,6-month moving average,35,fig_3.2.2_Number of AI incidents,57.67
+fig_3.2.2,category,6-month moving average,36,fig_3.2.2_Number of AI incidents,56.67
+fig_3.2.2,category,6-month moving average,37,fig_3.2.2_Number of AI incidents,63.83
+fig_3.2.2,category,6-month moving average,38,fig_3.2.2_Number of AI incidents,67.33
+fig_3.2.2,category,6-month moving average,39,fig_3.2.2_Number of AI incidents,81.5
+fig_3.2.2,category,6-month moving average,40,fig_3.2.2_Number of AI incidents,89.33
+fig_3.2.2,category,6-month moving average,41,fig_3.2.2_Number of AI incidents,90.83
+fig_3.2.2,category,6-month moving average,42,fig_3.2.2_Number of AI incidents,99.67
+fig_3.2.2,category,6-month moving average,43,fig_3.2.2_Number of AI incidents,101.83
+fig_3.2.2,category,6-month moving average,44,fig_3.2.2_Number of AI incidents,110.0
+fig_3.2.2,category,6-month moving average,45,fig_3.2.2_Number of AI incidents,114.0
+fig_3.2.2,category,6-month moving average,46,fig_3.2.2_Number of AI incidents,115.5
+fig_3.2.2,category,6-month moving average,47,fig_3.2.2_Number of AI incidents,130.83
+fig_3.2.2,category,6-month moving average,48,fig_3.2.2_Number of AI incidents,138.0
+fig_3.2.2,category,6-month moving average,49,fig_3.2.2_Number of AI incidents,147.33
+fig_3.2.2,category,6-month moving average,50,fig_3.2.2_Number of AI incidents,150.33
+fig_3.2.2,category,6-month moving average,51,fig_3.2.2_Number of AI incidents,152.17
+fig_3.2.2,category,6-month moving average,52,fig_3.2.2_Number of AI incidents,156.33
+fig_3.2.2,category,6-month moving average,53,fig_3.2.2_Number of AI incidents,149.67
+fig_3.2.2,category,6-month moving average,54,fig_3.2.2_Number of AI incidents,145.0
+fig_3.2.2,category,6-month moving average,55,fig_3.2.2_Number of AI incidents,133.67
+fig_3.2.2,category,6-month moving average,56,fig_3.2.2_Number of AI incidents,134.83
+fig_3.2.2,category,6-month moving average,57,fig_3.2.2_Number of AI incidents,128.67
+fig_3.2.2,category,6-month moving average,58,fig_3.2.2_Number of AI incidents,124.33
+fig_3.2.2,category,6-month moving average,59,fig_3.2.2_Number of AI incidents,133.33
+fig_3.2.2,category,6-month moving average,60,fig_3.2.2_Number of AI incidents,148.0
+fig_3.2.2,category,6-month moving average,61,fig_3.2.2_Number of AI incidents,163.17
+fig_3.2.2,category,6-month moving average,62,fig_3.2.2_Number of AI incidents,173.5
+fig_3.2.2,category,6-month moving average,63,fig_3.2.2_Number of AI incidents,191.0
+fig_3.2.2,category,6-month moving average,64,fig_3.2.2_Number of AI incidents,209.17
+fig_3.2.2,category,6-month moving average,65,fig_3.2.2_Number of AI incidents,217.83
+fig_3.2.2,category,6-month moving average,66,fig_3.2.2_Number of AI incidents,229.33
+fig_3.2.2,category,6-month moving average,67,fig_3.2.2_Number of AI incidents,242.67
+fig_3.2.2,category,6-month moving average,68,fig_3.2.2_Number of AI incidents,261.0
+fig_3.2.2,category,6-month moving average,69,fig_3.2.2_Number of AI incidents,280.33
+fig_3.2.2,category,6-month moving average,70,fig_3.2.2_Number of AI incidents,293.5
+fig_3.2.2,category,6-month moving average,71,fig_3.2.2_Number of AI incidents,326.0
+fig_3.2.2,category,total incidents,0,fig_3.2.2_Number of AI incidents,51.0
+fig_3.2.2,category,total incidents,1,fig_3.2.2_Number of AI incidents,31.0
+fig_3.2.2,category,total incidents,2,fig_3.2.2_Number of AI incidents,25.0
+fig_3.2.2,category,total incidents,3,fig_3.2.2_Number of AI incidents,37.0
+fig_3.2.2,category,total incidents,4,fig_3.2.2_Number of AI incidents,33.0
+fig_3.2.2,category,total incidents,5,fig_3.2.2_Number of AI incidents,38.0
+fig_3.2.2,category,total incidents,6,fig_3.2.2_Number of AI incidents,43.0
+fig_3.2.2,category,total incidents,7,fig_3.2.2_Number of AI incidents,55.0
+fig_3.2.2,category,total incidents,8,fig_3.2.2_Number of AI incidents,44.0
+fig_3.2.2,category,total incidents,9,fig_3.2.2_Number of AI incidents,40.0
+fig_3.2.2,category,total incidents,10,fig_3.2.2_Number of AI incidents,40.0
+fig_3.2.2,category,total incidents,11,fig_3.2.2_Number of AI incidents,40.0
+fig_3.2.2,category,total incidents,12,fig_3.2.2_Number of AI incidents,33.0
+fig_3.2.2,category,total incidents,13,fig_3.2.2_Number of AI incidents,51.0
+fig_3.2.2,category,total incidents,14,fig_3.2.2_Number of AI incidents,44.0
+fig_3.2.2,category,total incidents,15,fig_3.2.2_Number of AI incidents,47.0
+fig_3.2.2,category,total incidents,16,fig_3.2.2_Number of AI incidents,52.0
+fig_3.2.2,category,total incidents,17,fig_3.2.2_Number of AI incidents,187.0
+fig_3.2.2,category,total incidents,18,fig_3.2.2_Number of AI incidents,89.0
+fig_3.2.2,category,total incidents,19,fig_3.2.2_Number of AI incidents,80.0
+fig_3.2.2,category,total incidents,20,fig_3.2.2_Number of AI incidents,96.0
+fig_3.2.2,category,total incidents,21,fig_3.2.2_Number of AI incidents,83.0
+fig_3.2.2,category,total incidents,22,fig_3.2.2_Number of AI incidents,73.0
+fig_3.2.2,category,total incidents,23,fig_3.2.2_Number of AI incidents,62.0
+fig_3.2.2,category,total incidents,24,fig_3.2.2_Number of AI incidents,53.0
+fig_3.2.2,category,total incidents,25,fig_3.2.2_Number of AI incidents,46.0
+fig_3.2.2,category,total incidents,26,fig_3.2.2_Number of AI incidents,49.0
+fig_3.2.2,category,total incidents,27,fig_3.2.2_Number of AI incidents,53.0
+fig_3.2.2,category,total incidents,28,fig_3.2.2_Number of AI incidents,53.0
+fig_3.2.2,category,total incidents,29,fig_3.2.2_Number of AI incidents,69.0
+fig_3.2.2,category,total incidents,30,fig_3.2.2_Number of AI incidents,70.0
+fig_3.2.2,category,total incidents,31,fig_3.2.2_Number of AI incidents,55.0
+fig_3.2.2,category,total incidents,32,fig_3.2.2_Number of AI incidents,59.0
+fig_3.2.2,category,total incidents,33,fig_3.2.2_Number of AI incidents,40.0
+fig_3.2.2,category,total incidents,34,fig_3.2.2_Number of AI incidents,49.0
+fig_3.2.2,category,total incidents,35,fig_3.2.2_Number of AI incidents,73.0
+fig_3.2.2,category,total incidents,36,fig_3.2.2_Number of AI incidents,64.0
+fig_3.2.2,category,total incidents,37,fig_3.2.2_Number of AI incidents,98.0
+fig_3.2.2,category,total incidents,38,fig_3.2.2_Number of AI incidents,80.0
+fig_3.2.2,category,total incidents,39,fig_3.2.2_Number of AI incidents,125.0
+fig_3.2.2,category,total incidents,40,fig_3.2.2_Number of AI incidents,96.0
+fig_3.2.2,category,total incidents,41,fig_3.2.2_Number of AI incidents,82.0
+fig_3.2.2,category,total incidents,42,fig_3.2.2_Number of AI incidents,117.0
+fig_3.2.2,category,total incidents,43,fig_3.2.2_Number of AI incidents,111.0
+fig_3.2.2,category,total incidents,44,fig_3.2.2_Number of AI incidents,129.0
+fig_3.2.2,category,total incidents,45,fig_3.2.2_Number of AI incidents,149.0
+fig_3.2.2,category,total incidents,46,fig_3.2.2_Number of AI incidents,105.0
+fig_3.2.2,category,total incidents,47,fig_3.2.2_Number of AI incidents,174.0
+fig_3.2.2,category,total incidents,48,fig_3.2.2_Number of AI incidents,160.0
+fig_3.2.2,category,total incidents,49,fig_3.2.2_Number of AI incidents,167.0
+fig_3.2.2,category,total incidents,50,fig_3.2.2_Number of AI incidents,147.0
+fig_3.2.2,category,total incidents,51,fig_3.2.2_Number of AI incidents,160.0
+fig_3.2.2,category,total incidents,52,fig_3.2.2_Number of AI incidents,130.0
+fig_3.2.2,category,total incidents,53,fig_3.2.2_Number of AI incidents,134.0
+fig_3.2.2,category,total incidents,54,fig_3.2.2_Number of AI incidents,132.0
+fig_3.2.2,category,total incidents,55,fig_3.2.2_Number of AI incidents,99.0
+fig_3.2.2,category,total incidents,56,fig_3.2.2_Number of AI incidents,154.0
+fig_3.2.2,category,total incidents,57,fig_3.2.2_Number of AI incidents,123.0
+fig_3.2.2,category,total incidents,58,fig_3.2.2_Number of AI incidents,104.0
+fig_3.2.2,category,total incidents,59,fig_3.2.2_Number of AI incidents,188.0
+fig_3.2.2,category,total incidents,60,fig_3.2.2_Number of AI incidents,220.0
+fig_3.2.2,category,total incidents,61,fig_3.2.2_Number of AI incidents,190.0
+fig_3.2.2,category,total incidents,62,fig_3.2.2_Number of AI incidents,216.0
+fig_3.2.2,category,total incidents,63,fig_3.2.2_Number of AI incidents,228.0
+fig_3.2.2,category,total incidents,64,fig_3.2.2_Number of AI incidents,213.0
+fig_3.2.2,category,total incidents,65,fig_3.2.2_Number of AI incidents,240.0
+fig_3.2.2,category,total incidents,66,fig_3.2.2_Number of AI incidents,289.0
+fig_3.2.2,category,total incidents,67,fig_3.2.2_Number of AI incidents,270.0
+fig_3.2.2,category,total incidents,68,fig_3.2.2_Number of AI incidents,326.0
+fig_3.2.2,category,total incidents,69,fig_3.2.2_Number of AI incidents,344.0
+fig_3.2.2,category,total incidents,70,fig_3.2.2_Number of AI incidents,292.0
+fig_3.2.2,category,total incidents,71,fig_3.2.2_Number of AI incidents,435.0
+fig_3.2.5,model,qwen/qwen3-14b,,fig_3.2.5_Hallucination Rate,0.054
+fig_3.2.5,model,deepseek-ai/DeepSeek-V3.2-Exp,,fig_3.2.5_Hallucination Rate,0.053
+fig_3.2.5,model,ai21labs/jamba-mini-2,,fig_3.2.5_Hallucination Rate,0.053
+fig_3.2.5,model,ibm-granite/granite-4.0-h-small,,fig_3.2.5_Hallucination Rate,0.052
+fig_3.2.5,model,mistralai/mistral-small-2501,,fig_3.2.5_Hallucination Rate,0.051
+fig_3.2.5,model,amazon/nova-2-lite-v1:0,,fig_3.2.5_Hallucination Rate,0.051
+fig_3.2.5,model,amazon/nova-pro-v1:0,,fig_3.2.5_Hallucination Rate,0.051
+fig_3.2.5,model,qwen/qwen3-8b,,fig_3.2.5_Hallucination Rate,0.048
+fig_3.2.5,model,mistralai/mistral-large-2411,,fig_3.2.5_Hallucination Rate,0.045
+fig_3.2.5,model,google/gemma-3-12b-it,,fig_3.2.5_Hallucination Rate,0.044
+fig_3.2.5,model,snowflake/snowflake-arctic-instruct,,fig_3.2.5_Hallucination Rate,0.043
+fig_3.2.5,model,meta-llama/Llama-3.3-70B-Instruct-Turbo,,fig_3.2.5_Hallucination Rate,0.041
+fig_3.2.5,model,microsoft/Phi-4,,fig_3.2.5_Hallucination Rate,0.037
+fig_3.2.5,model,google/gemini-2.5-flash-lite,,fig_3.2.5_Hallucination Rate,0.033
+fig_3.2.5,model,antgroup/finix_s1_32b,,fig_3.2.5_Hallucination Rate,0.018
+fig_3.2.6,model,gpt-oss-20B (high),,fig_3.2.6_Hallucination Rate,0.94
+fig_3.2.6,model,Gemini 3 Flash,,fig_3.2.6_Hallucination Rate,0.92
+fig_3.2.6,model,gpt-oss-128B (high),,fig_3.2.6_Hallucination Rate,0.91
+fig_3.2.6,model,GPT-5.4 mini (xhigh),,fig_3.2.6_Hallucination Rate,0.9
+fig_3.2.6,model,Nova 2.0 Pro Preview<br>(medium),,fig_3.2.6_Hallucination Rate,0.9
+fig_3.2.6,model,K-EXAONE,,fig_3.2.6_Hallucination Rate,0.89
+fig_3.2.6,model,Qwen3.5 397B A17B,,fig_3.2.6_Hallucination Rate,0.89
+fig_3.2.6,model,Midm K2.5 Pro,,fig_3.2.6_Hallucination Rate,0.89
+fig_3.2.6,model,GPT-5.4 (xhigh),,fig_3.2.6_Hallucination Rate,0.89
+fig_3.2.6,model,Llama 4 Maverick,,fig_3.2.6_Hallucination Rate,0.87
+fig_3.2.6,model,Nvidia Nemotron Super,,fig_3.2.6_Hallucination Rate,0.87
+fig_3.2.6,model,Mistral Large 3,,fig_3.2.6_Hallucination Rate,0.84
+fig_3.2.6,model,NVIDIA Nemotron Nano,,fig_3.2.6_Hallucination Rate,0.83
+fig_3.2.6,model,DeepSeek V3.2,,fig_3.2.6_Hallucination Rate,0.82
+fig_3.2.6,model,Gemini 3.1 Fast Preview,,fig_3.2.6_Hallucination Rate,0.82
+fig_3.2.6,model,Kimi K2.5,,fig_3.2.6_Hallucination Rate,0.65
+fig_3.2.6,model,Claude Opus 4.6 (max),,fig_3.2.6_Hallucination Rate,0.61
+fig_3.2.6,model,K2 Think V2,,fig_3.2.6_Hallucination Rate,0.59
+fig_3.2.6,model,Gemini 3.1 Pro Preview,,fig_3.2.6_Hallucination Rate,0.5
+fig_3.2.6,model,MiMo-V2-Flash (Feb 2026),,fig_3.2.6_Hallucination Rate,0.48
+fig_3.2.6,model,Claude Sonnet 4.6 (max),,fig_3.2.6_Hallucination Rate,0.46
+fig_3.2.6,model,MiniMax-M2.7,,fig_3.2.6_Hallucination Rate,0.34
+fig_3.2.6,model,GLM-5,,fig_3.2.6_Hallucination Rate,0.34
+fig_3.2.6,model,MiMo-V2-Pro,,fig_3.2.6_Hallucination Rate,0.3
+fig_3.2.6,model,Claude 4.5 Haiku,,fig_3.2.6_Hallucination Rate,0.26
+fig_3.2.6,model,Grok 4.20 Beta 0305,,fig_3.2.6_Hallucination Rate,0.22
+fig_3.3.1,category,2.1,,fig_3.3.1_Region,North America
+fig_3.3.1,category,1.8,,fig_3.3.1_Region,Latin America
+fig_3.3.1,category,2,,fig_3.3.1_Region,Europe
+fig_3.3.1,category,2.2,,fig_3.3.1_Region,"Asia-Pacific (excl. China, incl. India)"
+fig_3.3.1,category,2.2,,fig_3.3.1_Region,North America
+fig_3.3.1,category,2.2,,fig_3.3.1_Region,Latin America
+fig_3.3.1,category,2.3,,fig_3.3.1_Region,Europe
+fig_3.3.1,category,2.5,,fig_3.3.1_Region,"Asia-Pacific (excl. China, incl. India)"
+fig_3.3.3,category,0.29,2025,fig_3.3.3_Number of AI Incidents,1–2
+fig_3.3.3,category,0.5,2025,fig_3.3.3_Number of AI Incidents,3–5
+fig_3.3.3,category,0.13,2025,fig_3.3.3_Number of AI Incidents,6–9
+fig_3.3.3,category,0.08,2025,fig_3.3.3_Number of AI Incidents,10+
+fig_3.3.3,category,0,2025,fig_3.3.3_Number of AI Incidents,Unknown
+fig_3.3.3,category,0.42,2024,fig_3.3.3_Number of AI Incidents,1–2
+fig_3.3.3,category,0.3,2024,fig_3.3.3_Number of AI Incidents,3–5
+fig_3.3.3,category,0.13,2024,fig_3.3.3_Number of AI Incidents,6–9
+fig_3.3.3,category,0.11,2024,fig_3.3.3_Number of AI Incidents,10+
+fig_3.3.3,category,0.05,2024,fig_3.3.3_Number of AI Incidents,Unknown
+fig_3.3.4,category,0.18,2025,fig_3.3.4_Organizational Response to Incidents,Excellent
+fig_3.3.4,category,0.24,2025,fig_3.3.4_Organizational Response to Incidents,Good
+fig_3.3.4,category,0.32,2025,fig_3.3.4_Organizational Response to Incidents,Satisfactory
+fig_3.3.4,category,0.21,2025,fig_3.3.4_Organizational Response to Incidents,Needs improvement
+fig_3.3.4,category,0.05,2025,fig_3.3.4_Organizational Response to Incidents,Insufficient
+fig_3.3.4,category,0,2025,fig_3.3.4_Organizational Response to Incidents,Unknown
+fig_3.3.4,category,0.28,2024,fig_3.3.4_Organizational Response to Incidents,Excellent
+fig_3.3.4,category,0.39,2024,fig_3.3.4_Organizational Response to Incidents,Good
+fig_3.3.4,category,0.19,2024,fig_3.3.4_Organizational Response to Incidents,Satisfactory
+fig_3.3.4,category,0.13,2024,fig_3.3.4_Organizational Response to Incidents,Needs improvement
+fig_3.3.4,category,0.02,2024,fig_3.3.4_Organizational Response to Incidents,Insufficient
+fig_3.3.4,category,0,2024,fig_3.3.4_Organizational Response to Incidents,Unknown
+fig_3.3.5,category,Political stability,,fig_3.3.5_perc_respondents_2024,0.07
+fig_3.3.5,category,Political stability,,fig_3.3.5_perc_respondents_2025,0.038306452
+fig_3.3.5,category,Political stability,,fig_3.3.5_pp_change,-0.031693548
+fig_3.3.5,category,Political stability,,fig_3.3.5_type,relevance
+fig_3.3.5,category,Physical safety,,fig_3.3.5_perc_respondents_2024,0.06
+fig_3.3.5,category,Physical safety,,fig_3.3.5_perc_respondents_2025,0.072580645
+fig_3.3.5,category,Physical safety,,fig_3.3.5_pp_change,0.012580645
+fig_3.3.5,category,Physical safety,,fig_3.3.5_type,relevance
+fig_3.3.5,category,National security,,fig_3.3.5_perc_respondents_2024,0.11
+fig_3.3.5,category,National security,,fig_3.3.5_perc_respondents_2025,0.116935484
+fig_3.3.5,category,National security,,fig_3.3.5_pp_change,0.006935484
+fig_3.3.5,category,National security,,fig_3.3.5_type,relevance
+fig_3.3.5,category,Environmental impact,,fig_3.3.5_perc_respondents_2024,0.16
+fig_3.3.5,category,Environmental impact,,fig_3.3.5_perc_respondents_2025,0.139112903
+fig_3.3.5,category,Environmental impact,,fig_3.3.5_pp_change,-0.020887097
+fig_3.3.5,category,Environmental impact,,fig_3.3.5_type,relevance
+fig_3.3.5,category,Workforce labor displacement,,fig_3.3.5_perc_respondents_2024,0.2
+fig_3.3.5,category,Workforce labor displacement,,fig_3.3.5_perc_respondents_2025,0.155241935
+fig_3.3.5,category,Workforce labor displacement,,fig_3.3.5_pp_change,-0.044758065
+fig_3.3.5,category,Workforce labor displacement,,fig_3.3.5_type,relevance
+fig_3.3.5,category,Resource misuse,,fig_3.3.5_perc_respondents_2025,0.268145161
+fig_3.3.5,category,Resource misuse,,fig_3.3.5_type,relevance
+fig_3.3.5,category,Equity and fairness,,fig_3.3.5_perc_respondents_2024,0.34
+fig_3.3.5,category,Equity and fairness,,fig_3.3.5_perc_respondents_2025,0.298387097
+fig_3.3.5,category,Equity and fairness,,fig_3.3.5_pp_change,-0.041612903
+fig_3.3.5,category,Equity and fairness,,fig_3.3.5_type,relevance
+fig_3.3.5,category,Explainability,,fig_3.3.5_perc_respondents_2024,0.4
+fig_3.3.5,category,Explainability,,fig_3.3.5_perc_respondents_2025,0.362903226
+fig_3.3.5,category,Explainability,,fig_3.3.5_pp_change,-0.037096774
+fig_3.3.5,category,Explainability,,fig_3.3.5_type,relevance
+fig_3.3.5,category,Organizational reputation,,fig_3.3.5_perc_respondents_2024,0.45
+fig_3.3.5,category,Organizational reputation,,fig_3.3.5_perc_respondents_2025,0.372983871
+fig_3.3.5,category,Organizational reputation,,fig_3.3.5_pp_change,-0.077016129
+fig_3.3.5,category,Organizational reputation,,fig_3.3.5_type,relevance
+fig_3.3.5,category,Autonomous/unintended system actions,,fig_3.3.5_perc_respondents_2025,0.4375
+fig_3.3.5,category,Autonomous/unintended system actions,,fig_3.3.5_type,relevance
+fig_3.3.5,category,IP infringement,,fig_3.3.5_perc_respondents_2024,0.57
+fig_3.3.5,category,IP infringement,,fig_3.3.5_perc_respondents_2025,0.514112903
+fig_3.3.5,category,IP infringement,,fig_3.3.5_pp_change,-0.055887097
+fig_3.3.5,category,IP infringement,,fig_3.3.5_type,relevance
+fig_3.3.5,category,Personal/individual privacy,,fig_3.3.5_perc_respondents_2024,0.6
+fig_3.3.5,category,Personal/individual privacy,,fig_3.3.5_perc_respondents_2025,0.544354839
+fig_3.3.5,category,Personal/individual privacy,,fig_3.3.5_pp_change,-0.055645161
+fig_3.3.5,category,Personal/individual privacy,,fig_3.3.5_type,relevance
+fig_3.3.5,category,Regulatory compliance,,fig_3.3.5_perc_respondents_2024,0.63
+fig_3.3.5,category,Regulatory compliance,,fig_3.3.5_perc_respondents_2025,0.629032258
+fig_3.3.5,category,Regulatory compliance,,fig_3.3.5_pp_change,-0.000967742
+fig_3.3.5,category,Regulatory compliance,,fig_3.3.5_type,relevance
+fig_3.3.5,category,Cybersecurity,,fig_3.3.5_perc_respondents_2024,0.66
+fig_3.3.5,category,Cybersecurity,,fig_3.3.5_perc_respondents_2025,0.717741935
+fig_3.3.5,category,Cybersecurity,,fig_3.3.5_pp_change,0.057741935
+fig_3.3.5,category,Cybersecurity,,fig_3.3.5_type,relevance
+fig_3.3.5,category,Inaccuracy,,fig_3.3.5_perc_respondents_2024,0.6
+fig_3.3.5,category,Inaccuracy,,fig_3.3.5_perc_respondents_2025,0.739919355
+fig_3.3.5,category,Inaccuracy,,fig_3.3.5_pp_change,0.139919355
+fig_3.3.5,category,Inaccuracy,,fig_3.3.5_type,relevance
+fig_3.3.5,category,Political stability,,fig_3.3.5_perc_respondents_2024,0.03
+fig_3.3.5,category,Political stability,,fig_3.3.5_perc_respondents_2025,0.032258065
+fig_3.3.5,category,Political stability,,fig_3.3.5_pp_change,0.002258065
+fig_3.3.5,category,Political stability,,fig_3.3.5_type,to_mitigate
+fig_3.3.5,category,Environmental impact,,fig_3.3.5_perc_respondents_2024,0.09
+fig_3.3.5,category,Environmental impact,,fig_3.3.5_perc_respondents_2025,0.046370968
+fig_3.3.5,category,Environmental impact,,fig_3.3.5_pp_change,-0.043629032
+fig_3.3.5,category,Environmental impact,,fig_3.3.5_type,to_mitigate
+fig_3.3.5,category,Physical safety,,fig_3.3.5_perc_respondents_2024,0.04
+fig_3.3.5,category,Physical safety,,fig_3.3.5_perc_respondents_2025,0.056451613
+fig_3.3.5,category,Physical safety,,fig_3.3.5_pp_change,0.016451613
+fig_3.3.5,category,Physical safety,,fig_3.3.5_type,to_mitigate
+fig_3.3.5,category,National security,,fig_3.3.5_perc_respondents_2024,0.04
+fig_3.3.5,category,National security,,fig_3.3.5_perc_respondents_2025,0.058467742
+fig_3.3.5,category,National security,,fig_3.3.5_pp_change,0.018467742
+fig_3.3.5,category,National security,,fig_3.3.5_type,to_mitigate
+fig_3.3.5,category,Workforce labor displacement,,fig_3.3.5_perc_respondents_2024,0.12
+fig_3.3.5,category,Workforce labor displacement,,fig_3.3.5_perc_respondents_2025,0.112903226
+fig_3.3.5,category,Workforce labor displacement,,fig_3.3.5_pp_change,-0.007096774
+fig_3.3.5,category,Workforce labor displacement,,fig_3.3.5_type,to_mitigate
+fig_3.3.5,category,Resource misuse,,fig_3.3.5_perc_respondents_2025,0.181451613
+fig_3.3.5,category,Resource misuse,,fig_3.3.5_type,to_mitigate
+fig_3.3.5,category,Organizational reputation,,fig_3.3.5_perc_respondents_2024,0.29
+fig_3.3.5,category,Organizational reputation,,fig_3.3.5_perc_respondents_2025,0.219758065
+fig_3.3.5,category,Organizational reputation,,fig_3.3.5_pp_change,-0.070241935
+fig_3.3.5,category,Organizational reputation,,fig_3.3.5_type,to_mitigate
+fig_3.3.5,category,Equity and fairness,,fig_3.3.5_perc_respondents_2024,0.26
+fig_3.3.5,category,Equity and fairness,,fig_3.3.5_perc_respondents_2025,0.225806452
+fig_3.3.5,category,Equity and fairness,,fig_3.3.5_pp_change,-0.034193548
+fig_3.3.5,category,Equity and fairness,,fig_3.3.5_type,to_mitigate
+fig_3.3.5,category,Autonomous/unintended system actions,,fig_3.3.5_perc_respondents_2025,0.288306452
+fig_3.3.5,category,Autonomous/unintended system actions,,fig_3.3.5_type,to_mitigate
+fig_3.3.5,category,Explainability,,fig_3.3.5_perc_respondents_2024,0.31
+fig_3.3.5,category,Explainability,,fig_3.3.5_perc_respondents_2025,0.29233871
+fig_3.3.5,category,Explainability,,fig_3.3.5_pp_change,-0.01766129
+fig_3.3.5,category,Explainability,,fig_3.3.5_type,to_mitigate
+fig_3.3.5,category,IP infringement,,fig_3.3.5_perc_respondents_2024,0.38
+fig_3.3.5,category,IP infringement,,fig_3.3.5_perc_respondents_2025,0.397177419
+fig_3.3.5,category,IP infringement,,fig_3.3.5_pp_change,0.017177419
+fig_3.3.5,category,IP infringement,,fig_3.3.5_type,to_mitigate
+fig_3.3.5,category,Personal/individual privacy,,fig_3.3.5_perc_respondents_2024,0.46
+fig_3.3.5,category,Personal/individual privacy,,fig_3.3.5_perc_respondents_2025,0.439516129
+fig_3.3.5,category,Personal/individual privacy,,fig_3.3.5_pp_change,-0.020483871
+fig_3.3.5,category,Personal/individual privacy,,fig_3.3.5_type,to_mitigate
+fig_3.3.5,category,Regulatory compliance,,fig_3.3.5_perc_respondents_2024,0.5
+fig_3.3.5,category,Regulatory compliance,,fig_3.3.5_perc_respondents_2025,0.534274194
+fig_3.3.5,category,Regulatory compliance,,fig_3.3.5_pp_change,0.034274194
+fig_3.3.5,category,Regulatory compliance,,fig_3.3.5_type,to_mitigate
+fig_3.3.5,category,Cybersecurity,,fig_3.3.5_perc_respondents_2024,0.53
+fig_3.3.5,category,Cybersecurity,,fig_3.3.5_perc_respondents_2025,0.614919355
+fig_3.3.5,category,Cybersecurity,,fig_3.3.5_pp_change,0.084919355
+fig_3.3.5,category,Cybersecurity,,fig_3.3.5_type,to_mitigate
+fig_3.3.5,category,Inaccuracy,,fig_3.3.5_perc_respondents_2024,0.55
+fig_3.3.5,category,Inaccuracy,,fig_3.3.5_perc_respondents_2025,0.705645161
+fig_3.3.5,category,Inaccuracy,,fig_3.3.5_pp_change,0.155645161
+fig_3.3.5,category,Inaccuracy,,fig_3.3.5_type,to_mitigate
+fig_3.3.6,category,0.01,2024,fig_3.3.6_Business function,Other
+fig_3.3.6,category,0.02,2024,fig_3.3.6_Business function,Customer care
+fig_3.3.6,category,0.09,2024,fig_3.3.6_Business function,No business function<br>primarily responsible
+fig_3.3.6,category,0.04,2024,fig_3.3.6_Business function,Internal audit/ethics
+fig_3.3.6,category,0.07,2024,fig_3.3.6_Business function,Legal
+fig_3.3.6,category,0.1,2024,fig_3.3.6_Business function,Engineering
+fig_3.3.6,category,0.17,2024,fig_3.3.6_Business function,Data and analytics
+fig_3.3.6,category,0.14,2024,fig_3.3.6_Business function,AI-specific governance<br>roles
+fig_3.3.6,category,0.13,2024,fig_3.3.6_Business function,Risk/compliance
+fig_3.3.6,category,0.21,2024,fig_3.3.6_Business function,Information security<br>(cyber/fraud/privacy)
+fig_3.3.6,category,0.01,2025,fig_3.3.6_Business function,Other
+fig_3.3.6,category,0.01,2025,fig_3.3.6_Business function,Customer care
+fig_3.3.6,category,0.05,2025,fig_3.3.6_Business function,No business function<br>primarily responsible
+fig_3.3.6,category,0.05,2025,fig_3.3.6_Business function,Internal audit/ethics
+fig_3.3.6,category,0.06,2025,fig_3.3.6_Business function,Legal
+fig_3.3.6,category,0.08,2025,fig_3.3.6_Business function,Engineering
+fig_3.3.6,category,0.13,2025,fig_3.3.6_Business function,Data and analytics
+fig_3.3.6,category,0.17,2025,fig_3.3.6_Business function,AI-specific governance<br>roles
+fig_3.3.6,category,0.19,2025,fig_3.3.6_Business function,Risk/compliance
+fig_3.3.6,category,0.21,2025,fig_3.3.6_Business function,Information security<br>(cyber/fraud/privacy)
+fig_3.3.7,category,0.397435897435897,,fig_3.3.7_Revenue in USD,<1B
+fig_3.3.7,category,0.397435897435897,,fig_3.3.7_Label,<1M
+fig_3.3.7,category,0.21505376344086,,fig_3.3.7_Revenue in USD,1B–10B
+fig_3.3.7,category,0.21505376344086,,fig_3.3.7_Label,<1M
+fig_3.3.7,category,0.116883116883117,,fig_3.3.7_Revenue in USD,10B–30B
+fig_3.3.7,category,0.116883116883117,,fig_3.3.7_Label,<1M
+fig_3.3.7,category,0.0300751879699248,,fig_3.3.7_Revenue in USD,30B+
+fig_3.3.7,category,0.0300751879699248,,fig_3.3.7_Label,<1M
+fig_3.3.7,category,0.397435897435897,,fig_3.3.7_Revenue in USD,<1B
+fig_3.3.7,category,0.397435897435897,,fig_3.3.7_Label,1–5M
+fig_3.3.7,category,0.365591397849462,,fig_3.3.7_Revenue in USD,1B–10B
+fig_3.3.7,category,0.365591397849462,,fig_3.3.7_Label,1–5M
+fig_3.3.7,category,0.324675324675325,,fig_3.3.7_Revenue in USD,10B–30B
+fig_3.3.7,category,0.324675324675325,,fig_3.3.7_Label,1–5M
+fig_3.3.7,category,0.150375939849624,,fig_3.3.7_Revenue in USD,30B+
+fig_3.3.7,category,0.150375939849624,,fig_3.3.7_Label,1–5M
+fig_3.3.7,category,0.128205128205128,,fig_3.3.7_Revenue in USD,<1B
+fig_3.3.7,category,0.128205128205128,,fig_3.3.7_Label,5–10M
+fig_3.3.7,category,0.204301075268817,,fig_3.3.7_Revenue in USD,1B–10B
+fig_3.3.7,category,0.204301075268817,,fig_3.3.7_Label,5–10M
+fig_3.3.7,category,0.220779220779221,,fig_3.3.7_Revenue in USD,10B–30B
+fig_3.3.7,category,0.220779220779221,,fig_3.3.7_Label,5–10M
+fig_3.3.7,category,0.233082706766917,,fig_3.3.7_Revenue in USD,30B+
+fig_3.3.7,category,0.233082706766917,,fig_3.3.7_Label,5–10M
+fig_3.3.8,category,0.24,2024,fig_3.3.8_Result,Have not implemented RAI policies
+fig_3.3.8,category,0.12,2024,fig_3.3.8_Result,Slower time-to-market
+fig_3.3.8,category,0.14,2024,fig_3.3.8_Result,Faster time-to-market
+fig_3.3.8,category,0.18,2024,fig_3.3.8_Result,None/No significant impact
+fig_3.3.8,category,0.23,2024,fig_3.3.8_Result,Enhanced brand reputation
+fig_3.3.8,category,0.17,2024,fig_3.3.8_Result,Decrease in number of incidents
+fig_3.3.8,category,0.21,2024,fig_3.3.8_Result,"Improved business outcomes (e.g., revenue)"
+fig_3.3.8,category,0.26,2024,fig_3.3.8_Result,Increased customer trust
+fig_3.3.8,category,0.32,2024,fig_3.3.8_Result,"Improved business operations (e.g., efficiency, lower costs)"
+fig_3.3.8,category,0.11,2025,fig_3.3.8_Result,Have not implemented RAI policies
+fig_3.3.8,category,0.16,2025,fig_3.3.8_Result,Slower time-to-market
+fig_3.3.8,category,0.19,2025,fig_3.3.8_Result,Faster time-to-market
+fig_3.3.8,category,0.2,2025,fig_3.3.8_Result,None/No significant impact
+fig_3.3.8,category,0.23,2025,fig_3.3.8_Result,Enhanced brand reputation
+fig_3.3.8,category,0.25,2025,fig_3.3.8_Result,Decrease in number of incidents
+fig_3.3.8,category,0.28,2025,fig_3.3.8_Result,"Improved business outcomes (e.g., revenue)"
+fig_3.3.8,category,0.29,2025,fig_3.3.8_Result,Increased user adoption
+fig_3.3.8,category,0.3,2025,fig_3.3.8_Result,Increased customer trust
+fig_3.3.8,category,0.36,2025,fig_3.3.8_Result,"Improved business operations (e.g., efficiency, lower costs)"
+fig_3.3.9,category,0.02,2024,fig_3.3.9_Obstacle,Other
+fig_3.3.9,category,0.16,2024,fig_3.3.9_Obstacle,Lack of executive support
+fig_3.3.9,category,0.22,2024,fig_3.3.9_Obstacle,Organizational resistance
+fig_3.3.9,category,0.32,2024,fig_3.3.9_Obstacle,Technical limitations
+fig_3.3.9,category,0.4,2024,fig_3.3.9_Obstacle,Regulatory uncertainty
+fig_3.3.9,category,0.45,2024,fig_3.3.9_Obstacle,Resource or budget constraints
+fig_3.3.9,category,0.51,2024,fig_3.3.9_Obstacle,Knowledge and training gaps
+fig_3.3.9,category,0,2024,fig_3.3.9_Obstacle,Other
+fig_3.3.9,category,0.14,2025,fig_3.3.9_Obstacle,Lack of executive support
+fig_3.3.9,category,0.26,2025,fig_3.3.9_Obstacle,Organizational resistance
+fig_3.3.9,category,0.38,2025,fig_3.3.9_Obstacle,Technical limitations
+fig_3.3.9,category,0.41,2025,fig_3.3.9_Obstacle,Regulatory uncertainty
+fig_3.3.9,category,0.48,2025,fig_3.3.9_Obstacle,Resource or budget constraints
+fig_3.3.9,category,0.59,2025,fig_3.3.9_Obstacle,Knowledge and training gaps
+fig_3.3.10,category,0.008948545861297539,,fig_3.3.10_Main obstacle,None
+fig_3.3.10,category,0.02237136465324385,,fig_3.3.10_Main obstacle,Other
+fig_3.3.10,category,0.08501118568232663,,fig_3.3.10_Main obstacle,Lack of executive support
+fig_3.3.10,category,0.22595078299776286,,fig_3.3.10_Main obstacle,Organizational resistance
+fig_3.3.10,category,0.28187919463087246,,fig_3.3.10_Main obstacle,Immature vendor or<br>ecosystem landscape
+fig_3.3.10,category,0.3243847874720358,,fig_3.3.10_Main obstacle,Unclear or insufficient<br>business value
+fig_3.3.10,category,0.34451901565995524,,fig_3.3.10_Main obstacle,Resource or budget constraints
+fig_3.3.10,category,0.36017897091722595,,fig_3.3.10_Main obstacle,Gaps in RAI tooling and control
+fig_3.3.10,category,0.37583892617449666,,fig_3.3.10_Main obstacle,Regulatory uncertainty
+fig_3.3.10,category,0.37583892617449666,,fig_3.3.10_Main obstacle,Technical limitations
+fig_3.3.10,category,0.61744966442953,,fig_3.3.10_Main obstacle,Security and risk concerns
+fig_3.3.11,category,0.07,2024,fig_3.3.11_Regulation,Other
+fig_3.3.11,category,0.169960474,2024,fig_3.3.11_Regulation,None of the these/no change
+fig_3.3.11,category,0.212121212,2024,fig_3.3.11_Regulation,OECD AI Principles
+fig_3.3.11,category,0.19,2024,fig_3.3.11_Regulation,US Presidential Executive Order on AI
+fig_3.3.11,category,0.409749671,2024,fig_3.3.11_Regulation,EU AI Act
+fig_3.3.11,category,0.654808959,2024,fig_3.3.11_Regulation,EU General Data Protection Regulation (GDPR)
+fig_3.3.11,category,0.036290323,2025,fig_3.3.11_Regulation,Other
+fig_3.3.11,category,0.118951613,2025,fig_3.3.11_Regulation,None of the these/no change
+fig_3.3.11,category,0.163306452,2025,fig_3.3.11_Regulation,OECD AI Principles
+fig_3.3.11,category,0.21,2025,fig_3.3.11_Regulation,US Presidential Executive Order on AI
+fig_3.3.11,category,0.326612903,2025,fig_3.3.11_Regulation,NIST AI Risk Management Framework (AI RMF)
+fig_3.3.11,category,0.360887097,2025,fig_3.3.11_Regulation,ISO/IEC 42001 (AI Management System Standard)
+fig_3.3.11,category,0.427419355,2025,fig_3.3.11_Regulation,EU AI Act
+fig_3.3.11,category,0.598790323,2025,fig_3.3.11_Regulation,EU General Data Protection Regulation (GDPR)
+fig_3.4.1,global,Global,2019,fig_3.4.1_Number of RAI papers,329
+fig_3.4.1,global,Global,2020,fig_3.4.1_Number of RAI papers,489
+fig_3.4.1,global,Global,2021,fig_3.4.1_Number of RAI papers,644
+fig_3.4.1,global,Global,2022,fig_3.4.1_Number of RAI papers,696
+fig_3.4.1,global,Global,2023,fig_3.4.1_Number of RAI papers,992
+fig_3.4.1,global,Global,2024,fig_3.4.1_Number of RAI papers,1278
+fig_3.4.1,global,Global,2025,fig_3.4.1_Number of RAI papers,1521
+fig_3.4.2,category,Fairness & Bias,2019,fig_3.4.2_count,57
+fig_3.4.2,category,Fairness & Bias,2020,fig_3.4.2_count,98
+fig_3.4.2,category,Fairness & Bias,2021,fig_3.4.2_count,150
+fig_3.4.2,category,Fairness & Bias,2022,fig_3.4.2_count,169
+fig_3.4.2,category,Fairness & Bias,2023,fig_3.4.2_count,212
+fig_3.4.2,category,Fairness & Bias,2024,fig_3.4.2_count,408
+fig_3.4.2,category,Fairness & Bias,2025,fig_3.4.2_count,462
+fig_3.4.2,category,Privacy,2022,fig_3.4.2_count,7
+fig_3.4.2,category,Privacy & Data Governance,2019,fig_3.4.2_count,39
+fig_3.4.2,category,Privacy & Data Governance,2020,fig_3.4.2_count,124
+fig_3.4.2,category,Privacy & Data Governance,2021,fig_3.4.2_count,150
+fig_3.4.2,category,Privacy & Data Governance,2022,fig_3.4.2_count,85
+fig_3.4.2,category,Privacy & Data Governance,2023,fig_3.4.2_count,213
+fig_3.4.2,category,Privacy & Data Governance,2024,fig_3.4.2_count,186
+fig_3.4.2,category,Privacy & Data Governance,2025,fig_3.4.2_count,248
+fig_3.4.2,category,Security,2019,fig_3.4.2_count,162
+fig_3.4.2,category,Security,2020,fig_3.4.2_count,168
+fig_3.4.2,category,Security,2021,fig_3.4.2_count,215
+fig_3.4.2,category,Security,2022,fig_3.4.2_count,285
+fig_3.4.2,category,Security,2023,fig_3.4.2_count,276
+fig_3.4.2,category,Security,2024,fig_3.4.2_count,521
+fig_3.4.2,category,Security,2025,fig_3.4.2_count,641
+fig_3.4.2,category,Transparency & Explainability,2019,fig_3.4.2_count,89
+fig_3.4.2,category,Transparency & Explainability,2020,fig_3.4.2_count,134
+fig_3.4.2,category,Transparency & Explainability,2021,fig_3.4.2_count,189
+fig_3.4.2,category,Transparency & Explainability,2022,fig_3.4.2_count,231
+fig_3.4.2,category,Transparency & Explainability,2023,fig_3.4.2_count,393
+fig_3.4.2,category,Transparency & Explainability,2024,fig_3.4.2_count,355
+fig_3.4.2,category,Transparency & Explainability,2025,fig_3.4.2_count,405
+fig_3.4.3,category,ICLR,2019,fig_3.4.3_RAI papers (% of total),0.088
+fig_3.4.3,category,ICLR,2020,fig_3.4.3_RAI papers (% of total),0.08879184861717612
+fig_3.4.3,category,ICLR,2021,fig_3.4.3_RAI papers (% of total),0.10930232558139535
+fig_3.4.3,category,ICLR,2022,fig_3.4.3_RAI papers (% of total),0.039269406392694065
+fig_3.4.3,category,ICLR,2023,fig_3.4.3_RAI papers (% of total),0.10609911054637865
+fig_3.4.3,category,ICLR,2024,fig_3.4.3_RAI papers (% of total),0.07555555555555556
+fig_3.4.3,category,ICLR,2025,fig_3.4.3_RAI papers (% of total),0.07615446934917634
+fig_3.4.3,category,ICML,2019,fig_3.4.3_RAI papers (% of total),0.06080206985769728
+fig_3.4.3,category,ICML,2020,fig_3.4.3_RAI papers (% of total),0.07077205882352941
+fig_3.4.3,category,ICML,2021,fig_3.4.3_RAI papers (% of total),0.05912162162162162
+fig_3.4.3,category,ICML,2022,fig_3.4.3_RAI papers (% of total),0.06720647773279352
+fig_3.4.3,category,ICML,2023,fig_3.4.3_RAI papers (% of total),0.03393541324575807
+fig_3.4.3,category,ICML,2024,fig_3.4.3_RAI papers (% of total),0.08237547892720307
+fig_3.4.3,category,ICML,2025,fig_3.4.3_RAI papers (% of total),0.07645072152287381
+fig_3.4.3,category,NeurIPS,2019,fig_3.4.3_RAI papers (% of total),0.10294117647058823
+fig_3.4.3,category,NeurIPS,2020,fig_3.4.3_RAI papers (% of total),0.09526315789473684
+fig_3.4.3,category,NeurIPS,2021,fig_3.4.3_RAI papers (% of total),0.09812286689419795
+fig_3.4.3,category,NeurIPS,2022,fig_3.4.3_RAI papers (% of total),0.11332082551594747
+fig_3.4.3,category,NeurIPS,2023,fig_3.4.3_RAI papers (% of total),0.1379738968303294
+fig_3.4.3,category,NeurIPS,2024,fig_3.4.3_RAI papers (% of total),0.09016596482536537
+fig_3.4.3,category,NeurIPS,2025,fig_3.4.3_RAI papers (% of total),0.07981842254586723
+fig_3.4.3,category,AAAI,2019,fig_3.4.3_RAI papers (% of total),0.04521739130434783
+fig_3.4.3,category,AAAI,2020,fig_3.4.3_RAI papers (% of total),0.06913890634820867
+fig_3.4.3,category,AAAI,2021,fig_3.4.3_RAI papers (% of total),0.09456264775413711
+fig_3.4.3,category,AAAI,2022,fig_3.4.3_RAI papers (% of total),0.10155670867309118
+fig_3.4.3,category,AAAI,2023,fig_3.4.3_RAI papers (% of total),0.09936083672283556
+fig_3.4.3,category,AAAI,2024,fig_3.4.3_RAI papers (% of total),0.1336464560204953
+fig_3.4.3,category,AAAI,2025,fig_3.4.3_RAI papers (% of total),0.08003570365962512
+fig_3.4.3,category,AIES,2019,fig_3.4.3_RAI papers (% of total),0.18571428571428572
+fig_3.4.3,category,AIES,2020,fig_3.4.3_RAI papers (% of total),0.14084507042253522
+fig_3.4.3,category,AIES,2021,fig_3.4.3_RAI papers (% of total),0.33962264150943394
+fig_3.4.3,category,AIES,2022,fig_3.4.3_RAI papers (% of total),0.2564102564102564
+fig_3.4.3,category,AIES,2023,fig_3.4.3_RAI papers (% of total),0.6567164179104478
+fig_3.4.3,category,AIES,2024,fig_3.4.3_RAI papers (% of total),0.6333333333333333
+fig_3.4.3,category,AIES,2025,fig_3.4.3_RAI papers (% of total),0.5467625899280576
+fig_3.4.3,category,FAccT,2019,fig_3.4.3_RAI papers (% of total),0.6341463414634146
+fig_3.4.3,category,FAccT,2020,fig_3.4.3_RAI papers (% of total),0.7246376811594203
+fig_3.4.3,category,FAccT,2021,fig_3.4.3_RAI papers (% of total),0.6585365853658537
+fig_3.4.3,category,FAccT,2022,fig_3.4.3_RAI papers (% of total),0.6132596685082873
+fig_3.4.3,category,FAccT,2023,fig_3.4.3_RAI papers (% of total),0.6797385620915033
+fig_3.4.3,category,FAccT,2024,fig_3.4.3_RAI papers (% of total),0.6914285714285714
+fig_3.4.3,category,FAccT,2025,fig_3.4.3_RAI papers (% of total),0.6743119266055045
+fig_3.4.4,country,Italy,,fig_3.4.4_Number of RAI submissions,29
+fig_3.4.4,country,Canada,,fig_3.4.4_Number of RAI submissions,54
+fig_3.4.4,country,South Korea,,fig_3.4.4_Number of RAI submissions,57
+fig_3.4.4,country,Germany,,fig_3.4.4_Number of RAI submissions,68
+fig_3.4.4,country,Australia,,fig_3.4.4_Number of RAI submissions,84
+fig_3.4.4,country,Hong Kong,,fig_3.4.4_Number of RAI submissions,98
+fig_3.4.4,country,United Kingdom,,fig_3.4.4_Number of RAI submissions,103
+fig_3.4.4,country,Singapore,,fig_3.4.4_Number of RAI submissions,112
+fig_3.4.4,country,United States,,fig_3.4.4_Number of RAI submissions,394
+fig_3.4.4,country,China,,fig_3.4.4_Number of RAI submissions,812
+fig_3.4.5,country,ISL,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,DZA,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,SVK,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,ETH,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,LAO,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,SRB,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,KHM,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,PRY,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,SVN,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,GTM,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,NAM,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,HRV,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,HUN,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,NGA,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,IDN,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,OMN,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,BLM,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,LBY,,fig_3.4.5_number_of_rai_submissions,1
+fig_3.4.5,country,ROU,,fig_3.4.5_number_of_rai_submissions,2
+fig_3.4.5,country,PER,,fig_3.4.5_number_of_rai_submissions,2
+fig_3.4.5,country,CRI,,fig_3.4.5_number_of_rai_submissions,2
+fig_3.4.5,country,MAR,,fig_3.4.5_number_of_rai_submissions,2
+fig_3.4.5,country,CIV,,fig_3.4.5_number_of_rai_submissions,2
+fig_3.4.5,country,BFA,,fig_3.4.5_number_of_rai_submissions,2
+fig_3.4.5,country,TCD,,fig_3.4.5_number_of_rai_submissions,2
+fig_3.4.5,country,THA,,fig_3.4.5_number_of_rai_submissions,2
+fig_3.4.5,country,TUR,,fig_3.4.5_number_of_rai_submissions,3
+fig_3.4.5,country,NCL,,fig_3.4.5_number_of_rai_submissions,3
+fig_3.4.5,country,MLI,,fig_3.4.5_number_of_rai_submissions,3
+fig_3.4.5,country,PAK,,fig_3.4.5_number_of_rai_submissions,3
+fig_3.4.5,country,BWA,,fig_3.4.5_number_of_rai_submissions,3
+fig_3.4.5,country,CZE,,fig_3.4.5_number_of_rai_submissions,3
+fig_3.4.5,country,QAT,,fig_3.4.5_number_of_rai_submissions,3
+fig_3.4.5,country,MEX,,fig_3.4.5_number_of_rai_submissions,3
+fig_3.4.5,country,EST,,fig_3.4.5_number_of_rai_submissions,3
+fig_3.4.5,country,EGY,,fig_3.4.5_number_of_rai_submissions,3
+fig_3.4.5,country,KEN,,fig_3.4.5_number_of_rai_submissions,3
+fig_3.4.5,country,BGR,,fig_3.4.5_number_of_rai_submissions,4
+fig_3.4.5,country,URY,,fig_3.4.5_number_of_rai_submissions,4
+fig_3.4.5,country,LUX,,fig_3.4.5_number_of_rai_submissions,5
+fig_3.4.5,country,ZAF,,fig_3.4.5_number_of_rai_submissions,5
+fig_3.4.5,country,GHA,,fig_3.4.5_number_of_rai_submissions,5
+fig_3.4.5,country,CYP,,fig_3.4.5_number_of_rai_submissions,5
+fig_3.4.5,country,UKR,,fig_3.4.5_number_of_rai_submissions,6
+fig_3.4.5,country,MYS,,fig_3.4.5_number_of_rai_submissions,6
+fig_3.4.5,country,JEY,,fig_3.4.5_number_of_rai_submissions,7
+fig_3.4.5,country,VNM,,fig_3.4.5_number_of_rai_submissions,9
+fig_3.4.5,country,ARG,,fig_3.4.5_number_of_rai_submissions,10
+fig_3.4.5,country,GRC,,fig_3.4.5_number_of_rai_submissions,11
+fig_3.4.5,country,PRT,,fig_3.4.5_number_of_rai_submissions,11
+fig_3.4.5,country,IRN,,fig_3.4.5_number_of_rai_submissions,12
+fig_3.4.5,country,NOR,,fig_3.4.5_number_of_rai_submissions,13
+fig_3.4.5,country,PHL,,fig_3.4.5_number_of_rai_submissions,13
+fig_3.4.5,country,CHL,,fig_3.4.5_number_of_rai_submissions,14
+fig_3.4.5,country,COL,,fig_3.4.5_number_of_rai_submissions,16
+fig_3.4.5,country,IRL,,fig_3.4.5_number_of_rai_submissions,19
+fig_3.4.5,country,BGD,,fig_3.4.5_number_of_rai_submissions,20
+fig_3.4.5,country,RUS,,fig_3.4.5_number_of_rai_submissions,20
+fig_3.4.5,country,POL,,fig_3.4.5_number_of_rai_submissions,21
+fig_3.4.5,country,MAC,,fig_3.4.5_number_of_rai_submissions,21
+fig_3.4.5,country,FIN,,fig_3.4.5_number_of_rai_submissions,22
+fig_3.4.5,country,NZL,,fig_3.4.5_number_of_rai_submissions,22
+fig_3.4.5,country,TWN,,fig_3.4.5_number_of_rai_submissions,30
+fig_3.4.5,country,SWE,,fig_3.4.5_number_of_rai_submissions,31
+fig_3.4.5,country,BRA,,fig_3.4.5_number_of_rai_submissions,34
+fig_3.4.5,country,SAU,,fig_3.4.5_number_of_rai_submissions,37
+fig_3.4.5,country,ARE,,fig_3.4.5_number_of_rai_submissions,39
+fig_3.4.5,country,ESP,,fig_3.4.5_number_of_rai_submissions,43
+fig_3.4.5,country,GEO,,fig_3.4.5_number_of_rai_submissions,43
+fig_3.4.5,country,AUT,,fig_3.4.5_number_of_rai_submissions,48
+fig_3.4.5,country,BEL,,fig_3.4.5_number_of_rai_submissions,49
+fig_3.4.5,country,DNK,,fig_3.4.5_number_of_rai_submissions,50
+fig_3.4.5,country,ISR,,fig_3.4.5_number_of_rai_submissions,125
+fig_3.4.5,country,ITA,,fig_3.4.5_number_of_rai_submissions,134
+fig_3.4.5,country,NLD,,fig_3.4.5_number_of_rai_submissions,136
+fig_3.4.5,country,JPN,,fig_3.4.5_number_of_rai_submissions,181
+fig_3.4.5,country,IND,,fig_3.4.5_number_of_rai_submissions,194
+fig_3.4.5,country,KOR,,fig_3.4.5_number_of_rai_submissions,194
+fig_3.4.5,country,FRA,,fig_3.4.5_number_of_rai_submissions,210
+fig_3.4.5,country,CHE,,fig_3.4.5_number_of_rai_submissions,224
+fig_3.4.5,country,HKG,,fig_3.4.5_number_of_rai_submissions,247
+fig_3.4.5,country,AUS,,fig_3.4.5_number_of_rai_submissions,287
+fig_3.4.5,country,SGP,,fig_3.4.5_number_of_rai_submissions,321
+fig_3.4.5,country,CAN,,fig_3.4.5_number_of_rai_submissions,383
+fig_3.4.5,country,DEU,,fig_3.4.5_number_of_rai_submissions,483
+fig_3.4.5,country,GBR,,fig_3.4.5_number_of_rai_submissions,646
+fig_3.4.5,country,CHN,,fig_3.4.5_number_of_rai_submissions,2015
+fig_3.4.5,country,USA,,fig_3.4.5_number_of_rai_submissions,3865
+fig_3.5.1,country,Angola,,fig_3.5.1_Country Code,AGO
+fig_3.5.1,country,Angola,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Canada,,fig_3.5.1_Country Code,CAN
+fig_3.5.1,country,Canada,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Comoros,,fig_3.5.1_Country Code,COM
+fig_3.5.1,country,Comoros,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Djibouti,,fig_3.5.1_Country Code,DJI
+fig_3.5.1,country,Djibouti,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,El Salvador,,fig_3.5.1_Country Code,SLV
+fig_3.5.1,country,El Salvador,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Honduras,,fig_3.5.1_Country Code,HND
+fig_3.5.1,country,Honduras,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Kazakhstan,,fig_3.5.1_Country Code,KAZ
+fig_3.5.1,country,Kazakhstan,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Panama,,fig_3.5.1_Country Code,PAN
+fig_3.5.1,country,Panama,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Poland,,fig_3.5.1_Country Code,POL
+fig_3.5.1,country,Poland,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Somalia,,fig_3.5.1_Country Code,SOM
+fig_3.5.1,country,Somalia,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Sri Lanka,,fig_3.5.1_Country Code,LKA
+fig_3.5.1,country,Sri Lanka,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Suriname,,fig_3.5.1_Country Code,SUR
+fig_3.5.1,country,Suriname,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Trinidad and Tobago,,fig_3.5.1_Country Code,TTO
+fig_3.5.1,country,Trinidad and Tobago,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Tunisia,,fig_3.5.1_Country Code,TUN
+fig_3.5.1,country,Tunisia,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Ukraine,,fig_3.5.1_Country Code,UKR
+fig_3.5.1,country,Ukraine,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Uganda,,fig_3.5.1_Country Code,UGA
+fig_3.5.1,country,Uganda,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Uzbekistan,,fig_3.5.1_Country Code,UZB
+fig_3.5.1,country,Uzbekistan,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Zambia,,fig_3.5.1_Country Code,ZMB
+fig_3.5.1,country,Zambia,,fig_3.5.1_Status_Category,In preparation
+fig_3.5.1,country,Argentina,,fig_3.5.1_Country Code,ARG
+fig_3.5.1,country,Argentina,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Bangladesh,,fig_3.5.1_Country Code,BGD
+fig_3.5.1,country,Bangladesh,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Bahrain,,fig_3.5.1_Country Code,BHR
+fig_3.5.1,country,Bahrain,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Bangladesh,,fig_3.5.1_Country Code,BGD
+fig_3.5.1,country,Bangladesh,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Belgium,,fig_3.5.1_Country Code,BEL
+fig_3.5.1,country,Belgium,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Botswana,,fig_3.5.1_Country Code,BWA
+fig_3.5.1,country,Botswana,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Cameroon,,fig_3.5.1_Country Code,CMR
+fig_3.5.1,country,Cameroon,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Colombia,,fig_3.5.1_Country Code,COL
+fig_3.5.1,country,Colombia,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Costa Rica,,fig_3.5.1_Country Code,CRI
+fig_3.5.1,country,Costa Rica,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Côte d'Ivoire,,fig_3.5.1_Country Code,CIV
+fig_3.5.1,country,Côte d'Ivoire,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Congo,,fig_3.5.1_Country Code,COG
+fig_3.5.1,country,Congo,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Ecuador,,fig_3.5.1_Country Code,ECU
+fig_3.5.1,country,Ecuador,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Ethiopia,,fig_3.5.1_Country Code,ETH
+fig_3.5.1,country,Ethiopia,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Georgia,,fig_3.5.1_Country Code,GEO
+fig_3.5.1,country,Georgia,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Ghana,,fig_3.5.1_Country Code,GHA
+fig_3.5.1,country,Ghana,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Guatemala,,fig_3.5.1_Country Code,GTM
+fig_3.5.1,country,Guatemala,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,India,,fig_3.5.1_Country Code,IND
+fig_3.5.1,country,India,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Jamaica,,fig_3.5.1_Country Code,JAM
+fig_3.5.1,country,Jamaica,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Laos,,fig_3.5.1_Country Code,LAO
+fig_3.5.1,country,Laos,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Malawi,,fig_3.5.1_Country Code,MWI
+fig_3.5.1,country,Malawi,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Mauritius,,fig_3.5.1_Country Code,MUS
+fig_3.5.1,country,Mauritius,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Moldova,,fig_3.5.1_Country Code,MDA
+fig_3.5.1,country,Moldova,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Nigeria,,fig_3.5.1_Country Code,NGA
+fig_3.5.1,country,Nigeria,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Oman,,fig_3.5.1_Country Code,OMN
+fig_3.5.1,country,Oman,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Palestine,,fig_3.5.1_Country Code,PSE
+fig_3.5.1,country,Palestine,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Paraguay,,fig_3.5.1_Country Code,PRY
+fig_3.5.1,country,Paraguay,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Rwanda,,fig_3.5.1_Country Code,RWA
+fig_3.5.1,country,Rwanda,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Slovakia,,fig_3.5.1_Country Code,SVK
+fig_3.5.1,country,Slovakia,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Slovenia,,fig_3.5.1_Country Code,SVN
+fig_3.5.1,country,Slovenia,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Timor Leste,,fig_3.5.1_Country Code,TLS
+fig_3.5.1,country,Timor Leste,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Tunisia,,fig_3.5.1_Country Code,TUN
+fig_3.5.1,country,Tunisia,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Turkey,,fig_3.5.1_Country Code,TUR
+fig_3.5.1,country,Turkey,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Uruguay,,fig_3.5.1_Country Code,URY
+fig_3.5.1,country,Uruguay,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Uzbekistan,,fig_3.5.1_Country Code,UZB
+fig_3.5.1,country,Uzbekistan,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Vietnam,,fig_3.5.1_Country Code,VNM
+fig_3.5.1,country,Vietnam,,fig_3.5.1_Status_Category,In process
+fig_3.5.1,country,Antigua and Barbuda,,fig_3.5.1_Country Code,ATG
+fig_3.5.1,country,Antigua and Barbuda,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Brazil,,fig_3.5.1_Country Code,BRA
+fig_3.5.1,country,Brazil,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Cambodia,,fig_3.5.1_Country Code,KHM
+fig_3.5.1,country,Cambodia,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Chad,,fig_3.5.1_Country Code,TCD
+fig_3.5.1,country,Chad,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Chile,,fig_3.5.1_Country Code,CHL
+fig_3.5.1,country,Chile,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Cuba,,fig_3.5.1_Country Code,CUB
+fig_3.5.1,country,Cuba,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Curacao,,fig_3.5.1_Country Code,CUW
+fig_3.5.1,country,Curacao,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Dominican Republic,,fig_3.5.1_Country Code,DOM
+fig_3.5.1,country,Dominican Republic,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Egypt,,fig_3.5.1_Country Code,EGY
+fig_3.5.1,country,Egypt,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Gabon,,fig_3.5.1_Country Code,GAB
+fig_3.5.1,country,Gabon,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Indonesia,,fig_3.5.1_Country Code,IDN
+fig_3.5.1,country,Indonesia,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Kenya,,fig_3.5.1_Country Code,KEN
+fig_3.5.1,country,Kenya,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Malaysia,,fig_3.5.1_Country Code,MYS
+fig_3.5.1,country,Malaysia,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Maldives,,fig_3.5.1_Country Code,MDV
+fig_3.5.1,country,Maldives,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Mexico,,fig_3.5.1_Country Code,MEX
+fig_3.5.1,country,Mexico,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Morocco,,fig_3.5.1_Country Code,MAR
+fig_3.5.1,country,Morocco,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Mozambique,,fig_3.5.1_Country Code,MOZ
+fig_3.5.1,country,Mozambique,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Namibia,,fig_3.5.1_Country Code,NAM
+fig_3.5.1,country,Namibia,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Netherlands,,fig_3.5.1_Country Code,NLD
+fig_3.5.1,country,Netherlands,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Peru,,fig_3.5.1_Country Code,PER
+fig_3.5.1,country,Peru,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Philippines,,fig_3.5.1_Country Code,PHL
+fig_3.5.1,country,Philippines,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Saudi Arabia,,fig_3.5.1_Country Code,SAU
+fig_3.5.1,country,Saudi Arabia,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,São Tomé and Príncipe,,fig_3.5.1_Country Code,STP
+fig_3.5.1,country,São Tomé and Príncipe,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Senegal,,fig_3.5.1_Country Code,SEN
+fig_3.5.1,country,Senegal,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,South Africa,,fig_3.5.1_Country Code,ZAF
+fig_3.5.1,country,South Africa,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Tanzania,,fig_3.5.1_Country Code,TZA
+fig_3.5.1,country,Tanzania,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Thailand,,fig_3.5.1_Country Code,THA
+fig_3.5.1,country,Thailand,,fig_3.5.1_Status_Category,Completed
+fig_3.5.1,country,Zimbabwe,,fig_3.5.1_Country Code,ZWE
+fig_3.5.1,country,Zimbabwe,,fig_3.5.1_Status_Category,Completed
+fig_3.5.2,country,Vietnam,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,Vietnam,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Vietnam,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Vietnam,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Vietnam,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Vietnam,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Vietnam,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Vietnam,,fig_3.5.2_ai_action_summit_inclusive_2025,0
+fig_3.5.2,country,Uruguay,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,Uruguay,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Uruguay,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Uruguay,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Uruguay,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Uruguay,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Uruguay,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Uruguay,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,United States,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,United States,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,United States,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,United States,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,United States,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,United States,,fig_3.5.2_g7_hiroshima_ai_process_2023,1
+fig_3.5.2,country,United States,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,United States,,fig_3.5.2_ai_action_summit_inclusive_2025,0
+fig_3.5.2,country,United Kindom,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,United Kindom,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,United Kindom,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,United Kindom,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,United Kindom,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,United Kindom,,fig_3.5.2_g7_hiroshima_ai_process_2023,1
+fig_3.5.2,country,United Kindom,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,United Kindom,,fig_3.5.2_ai_action_summit_inclusive_2025,0
+fig_3.5.2,country,United Arab Emirates,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,United Arab Emirates,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,United Arab Emirates,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,United Arab Emirates,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,United Arab Emirates,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,United Arab Emirates,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,United Arab Emirates,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,United Arab Emirates,,fig_3.5.2_ai_action_summit_inclusive_2025,0
+fig_3.5.2,country,Turkey,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Turkey,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,Turkey,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Turkey,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Turkey,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Turkey,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Turkey,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Turkey,,fig_3.5.2_ai_action_summit_inclusive_2025,0
+fig_3.5.2,country,Tunisia,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,Tunisia,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Tunisia,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Tunisia,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Tunisia,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Tunisia,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Tunisia,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Tunisia,,fig_3.5.2_ai_action_summit_inclusive_2025,0
+fig_3.5.2,country,Switzerland,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Switzerland,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Switzerland,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Switzerland,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Switzerland,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Switzerland,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Switzerland,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Switzerland,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Sweden,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Sweden,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Sweden,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Sweden,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Sweden,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Sweden,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Sweden,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Sweden,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Sri Lanka,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,Sri Lanka,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Sri Lanka,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Sri Lanka,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Sri Lanka,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Sri Lanka,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Sri Lanka,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Sri Lanka,,fig_3.5.2_ai_action_summit_inclusive_2025,0
+fig_3.5.2,country,Spain,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Spain,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Spain,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Spain,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Spain,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Spain,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Spain,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Spain,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,South Africa,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,South Africa,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,South Africa,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,South Africa,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,South Africa,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,South Africa,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,South Africa,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,South Africa,,fig_3.5.2_ai_action_summit_inclusive_2025,0
+fig_3.5.2,country,Slovenia,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Slovenia,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Slovenia,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Slovenia,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Slovenia,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Slovenia,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Slovenia,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Slovenia,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Slovakia,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Slovakia,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Slovakia,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Slovakia,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Slovakia,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Slovakia,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Slovakia,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Slovakia,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Singapore,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Singapore,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Singapore,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Singapore,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Singapore,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Singapore,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Singapore,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Singapore,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Saudi Arabia,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,Saudi Arabia,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,Saudi Arabia,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Saudi Arabia,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Saudi Arabia,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Saudi Arabia,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Saudi Arabia,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Saudi Arabia,,fig_3.5.2_ai_action_summit_inclusive_2025,0
+fig_3.5.2,country,Russian Federation,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,Russian Federation,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,Russian Federation,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Russian Federation,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Russian Federation,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Russian Federation,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Russian Federation,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Russian Federation,,fig_3.5.2_ai_action_summit_inclusive_2025,0
+fig_3.5.2,country,Republic of Korea,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Republic of Korea,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,Republic of Korea,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Republic of Korea,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Republic of Korea,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Republic of Korea,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Republic of Korea,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Republic of Korea,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Qatar,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,Qatar,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Qatar,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Qatar,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Qatar,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Qatar,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Qatar,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Qatar,,fig_3.5.2_ai_action_summit_inclusive_2025,0
+fig_3.5.2,country,Portugal,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Portugal,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Portugal,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Portugal,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Portugal,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Portugal,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Portugal,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Portugal,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Pakistan,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,Pakistan,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Pakistan,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Pakistan,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Pakistan,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Pakistan,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Pakistan,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Pakistan,,fig_3.5.2_ai_action_summit_inclusive_2025,0
+fig_3.5.2,country,Norway,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Norway,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Norway,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Norway,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Norway,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Norway,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Norway,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Norway,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Nigeria,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,Nigeria,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Nigeria,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Nigeria,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Nigeria,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Nigeria,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Nigeria,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Nigeria,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,New Zealand,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,New Zealand,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,New Zealand,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,New Zealand,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,New Zealand,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,New Zealand,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,New Zealand,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,New Zealand,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Netherlands,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Netherlands,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Netherlands,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Netherlands,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Netherlands,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Netherlands,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Netherlands,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Netherlands,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Morocco,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,Morocco,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Morocco,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Morocco,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Morocco,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Morocco,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Morocco,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Morocco,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Mexico,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Mexico,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,Mexico,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Mexico,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Mexico,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Mexico,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Mexico,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Mexico,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Malta,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Malta,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Malta,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Malta,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Malta,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Malta,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Malta,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Malta,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Malaysia,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,Malaysia,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Malaysia,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Malaysia,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Malaysia,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Malaysia,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Malaysia,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Malaysia,,fig_3.5.2_ai_action_summit_inclusive_2025,0
+fig_3.5.2,country,Luxembourg,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Luxembourg,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Luxembourg,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Luxembourg,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Luxembourg,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Luxembourg,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Luxembourg,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Luxembourg,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Lithuania,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Lithuania,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Lithuania,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Lithuania,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Lithuania,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Lithuania,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Lithuania,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Lithuania,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Kenya,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,Kenya,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Kenya,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Kenya,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Kenya,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Kenya,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Kenya,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Kenya,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Japan,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Japan,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,Japan,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Japan,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Japan,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Japan,,fig_3.5.2_g7_hiroshima_ai_process_2023,1
+fig_3.5.2,country,Japan,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Japan,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Italy,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Italy,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,Italy,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Italy,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Italy,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Italy,,fig_3.5.2_g7_hiroshima_ai_process_2023,1
+fig_3.5.2,country,Italy,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Italy,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Israel,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Israel,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Israel,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Israel,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Israel,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Israel,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Israel,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Israel,,fig_3.5.2_ai_action_summit_inclusive_2025,0
+fig_3.5.2,country,Ireland,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Ireland,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Ireland,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Ireland,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Ireland,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Ireland,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Ireland,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Ireland,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Indonesia,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,Indonesia,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,Indonesia,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Indonesia,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Indonesia,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Indonesia,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Indonesia,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Indonesia,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,India,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,India,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,India,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,India,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,India,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,India,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,India,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,India,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Iceland,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Iceland,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Iceland,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Iceland,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Iceland,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Iceland,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Iceland,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Iceland,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Hungary,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Hungary,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Hungary,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Hungary,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Hungary,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Hungary,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Hungary,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Hungary,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Greece,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Greece,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Greece,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Greece,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Greece,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Greece,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Greece,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Greece,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Germany,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Germany,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,Germany,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Germany,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Germany,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Germany,,fig_3.5.2_g7_hiroshima_ai_process_2023,1
+fig_3.5.2,country,Germany,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Germany,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,France,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,France,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,France,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,France,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,France,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,France,,fig_3.5.2_g7_hiroshima_ai_process_2023,1
+fig_3.5.2,country,France,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,France,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Finland,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Finland,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Finland,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Finland,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Finland,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Finland,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Finland,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Finland,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,European Union,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,European Union,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,European Union,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,European Union,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,European Union,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,European Union,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,European Union,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,European Union,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Estonia,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Estonia,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Estonia,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Estonia,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Estonia,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Estonia,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Estonia,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Estonia,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Egypt,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Egypt,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Egypt,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Egypt,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Egypt,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Egypt,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Egypt,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Egypt,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Denmark,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Denmark,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Denmark,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Denmark,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Denmark,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Denmark,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Denmark,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Denmark,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Colombia,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Colombia,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Colombia,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Colombia,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Colombia,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Colombia,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Colombia,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Colombia,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,China,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,China,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,China,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,China,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,China,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,China,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,China,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,China,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Chile,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Chile,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Chile,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Chile,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Chile,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Chile,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Chile,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Chile,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Canada,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Canada,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,Canada,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Canada,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Canada,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Canada,,fig_3.5.2_g7_hiroshima_ai_process_2023,1
+fig_3.5.2,country,Canada,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Canada,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Brazil,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Brazil,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,Brazil,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Brazil,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Brazil,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Brazil,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Brazil,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Brazil,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Belgium,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Belgium,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Belgium,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Belgium,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Belgium,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Belgium,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Belgium,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Belgium,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Bahrain,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,Bahrain,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Bahrain,,fig_3.5.2_coe_drafters_2022,0
+fig_3.5.2,country,Bahrain,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Bahrain,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Bahrain,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Bahrain,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Bahrain,,fig_3.5.2_ai_action_summit_inclusive_2025,0
+fig_3.5.2,country,Austria,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Austria,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Austria,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Austria,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Austria,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Austria,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Austria,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Austria,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Australia,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Australia,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,Australia,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Australia,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Australia,,fig_3.5.2_bletchley_declaration_2023,1
+fig_3.5.2,country,Australia,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Australia,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Australia,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Armenia,,fig_3.5.2_oecd_ai_principles_2019,0
+fig_3.5.2,country,Armenia,,fig_3.5.2_g20_ai_principles_2019,0
+fig_3.5.2,country,Armenia,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Armenia,,fig_3.5.2_gpai_ministerial_declaration_2022,0
+fig_3.5.2,country,Armenia,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Armenia,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Armenia,,fig_3.5.2_seoul_ministerial_statement_2024,0
+fig_3.5.2,country,Armenia,,fig_3.5.2_ai_action_summit_inclusive_2025,1
+fig_3.5.2,country,Argentina,,fig_3.5.2_oecd_ai_principles_2019,1
+fig_3.5.2,country,Argentina,,fig_3.5.2_g20_ai_principles_2019,1
+fig_3.5.2,country,Argentina,,fig_3.5.2_coe_drafters_2022,1
+fig_3.5.2,country,Argentina,,fig_3.5.2_gpai_ministerial_declaration_2022,1
+fig_3.5.2,country,Argentina,,fig_3.5.2_bletchley_declaration_2023,0
+fig_3.5.2,country,Argentina,,fig_3.5.2_g7_hiroshima_ai_process_2023,0
+fig_3.5.2,country,Argentina,,fig_3.5.2_seoul_ministerial_statement_2024,1
+fig_3.5.2,country,Argentina,,fig_3.5.2_ai_action_summit_inclusive_2025,0
+fig_3.6.1,country,Uzbekistan,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Guinea,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Ghana,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Gambia,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Eritrea,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,El Salvador,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Democratic Republic of the Congo,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Côte d'Ivoire,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Chad,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Central African Republic,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Guyana,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Botswana,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Bhutan,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Belize,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Barbados,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Azerbaijan,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Armenia,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Antigua and Barbuda,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Algeria,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Albania,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Afghanistan,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Bolivia (Plurinational State of),,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Haiti,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Burundi,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Indonesia,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Honduras,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Uganda,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Turkmenistan,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Togo,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,South Sudan,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Somalia,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Sierra Leone,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Saint Lucia,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Nepal,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Myanmar,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Mozambique,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,United Republic of Tanzania,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Mali,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Malawi,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Libya,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Liberia,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Lesotho,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Lebanon,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Lao People's Democratic Republic,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Kyrgyz Republic,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Kosovo,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Mauritius,,fig_3.6.1_Data Protection & Privacy,0
+fig_3.6.1,country,Belarus,,fig_3.6.1_Data Protection & Privacy,1.82
+fig_3.6.1,country,Ethiopia,,fig_3.6.1_Data Protection & Privacy,2.71
+fig_3.6.1,country,Kenya,,fig_3.6.1_Data Protection & Privacy,4.69
+fig_3.6.1,country,Jamaica,,fig_3.6.1_Data Protection & Privacy,6.3
+fig_3.6.1,country,Trinidad and Tobago,,fig_3.6.1_Data Protection & Privacy,6.46
+fig_3.6.1,country,Ecuador,,fig_3.6.1_Data Protection & Privacy,10.83
+fig_3.6.1,country,Cambodia,,fig_3.6.1_Data Protection & Privacy,11.29
+fig_3.6.1,country,"China, Hong Kong Special Administrative Region",,fig_3.6.1_Data Protection & Privacy,12.41
+fig_3.6.1,country,Zimbabwe,,fig_3.6.1_Data Protection & Privacy,12.69
+fig_3.6.1,country,Egypt,,fig_3.6.1_Data Protection & Privacy,13.36
+fig_3.6.1,country,Mongolia,,fig_3.6.1_Data Protection & Privacy,13.89
+fig_3.6.1,country,Guatemala,,fig_3.6.1_Data Protection & Privacy,14.17
+fig_3.6.1,country,Tajikistan,,fig_3.6.1_Data Protection & Privacy,14.89
+fig_3.6.1,country,Jordan,,fig_3.6.1_Data Protection & Privacy,15.08
+fig_3.6.1,country,Paraguay,,fig_3.6.1_Data Protection & Privacy,16.72
+fig_3.6.1,country,Gabon,,fig_3.6.1_Data Protection & Privacy,17.15
+fig_3.6.1,country,Cameroon,,fig_3.6.1_Data Protection & Privacy,17.52
+fig_3.6.1,country,Rwanda,,fig_3.6.1_Data Protection & Privacy,18.08
+fig_3.6.1,country,Niger,,fig_3.6.1_Data Protection & Privacy,18.63
+fig_3.6.1,country,Burkina Faso,,fig_3.6.1_Data Protection & Privacy,19.41
+fig_3.6.1,country,Zambia,,fig_3.6.1_Data Protection & Privacy,19.76
+fig_3.6.1,country,Panama,,fig_3.6.1_Data Protection & Privacy,21.46
+fig_3.6.1,country,Pakistan,,fig_3.6.1_Data Protection & Privacy,21.64
+fig_3.6.1,country,Qatar,,fig_3.6.1_Data Protection & Privacy,22.33
+fig_3.6.1,country,Oman,,fig_3.6.1_Data Protection & Privacy,23.16
+fig_3.6.1,country,Kazakhstan,,fig_3.6.1_Data Protection & Privacy,23.3
+fig_3.6.1,country,Singapore,,fig_3.6.1_Data Protection & Privacy,23.44
+fig_3.6.1,country,Peru,,fig_3.6.1_Data Protection & Privacy,23.89
+fig_3.6.1,country,Republic of Korea,,fig_3.6.1_Data Protection & Privacy,24.07
+fig_3.6.1,country,Vietnam,,fig_3.6.1_Data Protection & Privacy,25.54
+fig_3.6.1,country,Serbia,,fig_3.6.1_Data Protection & Privacy,26.87
+fig_3.6.1,country,Dominican Republic,,fig_3.6.1_Data Protection & Privacy,29.01
+fig_3.6.1,country,Nigeria,,fig_3.6.1_Data Protection & Privacy,29.13
+fig_3.6.1,country,China,,fig_3.6.1_Data Protection & Privacy,30.16
+fig_3.6.1,country,Sri Lanka,,fig_3.6.1_Data Protection & Privacy,31.44
+fig_3.6.1,country,Palestine,,fig_3.6.1_Data Protection & Privacy,31.58
+fig_3.6.1,country,Costa Rica,,fig_3.6.1_Data Protection & Privacy,32.01
+fig_3.6.1,country,Kuwait,,fig_3.6.1_Data Protection & Privacy,32.02
+fig_3.6.1,country,Republic of Moldova,,fig_3.6.1_Data Protection & Privacy,32.94
+fig_3.6.1,country,Namibia,,fig_3.6.1_Data Protection & Privacy,33.55
+fig_3.6.1,country,Colombia,,fig_3.6.1_Data Protection & Privacy,34.19
+fig_3.6.1,country,Argentina,,fig_3.6.1_Data Protection & Privacy,34.35
+fig_3.6.1,country,Tunisia,,fig_3.6.1_Data Protection & Privacy,35.57
+fig_3.6.1,country,Belgium,,fig_3.6.1_Data Protection & Privacy,36.25
+fig_3.6.1,country,Slovakia,,fig_3.6.1_Data Protection & Privacy,38.59
+fig_3.6.1,country,Montenegro,,fig_3.6.1_Data Protection & Privacy,39.07
+fig_3.6.1,country,Spain,,fig_3.6.1_Data Protection & Privacy,39.14
+fig_3.6.1,country,Latvia,,fig_3.6.1_Data Protection & Privacy,41.05
+fig_3.6.1,country,Greece,,fig_3.6.1_Data Protection & Privacy,41.5
+fig_3.6.1,country,Saudi Arabia,,fig_3.6.1_Data Protection & Privacy,41.63
+fig_3.6.1,country,Thailand,,fig_3.6.1_Data Protection & Privacy,42.07
+fig_3.6.1,country,Brazil,,fig_3.6.1_Data Protection & Privacy,46.26
+fig_3.6.1,country,Slovenia,,fig_3.6.1_Data Protection & Privacy,46.44
+fig_3.6.1,country,Japan,,fig_3.6.1_Data Protection & Privacy,47.24
+fig_3.6.1,country,Canada,,fig_3.6.1_Data Protection & Privacy,47.37
+fig_3.6.1,country,India,,fig_3.6.1_Data Protection & Privacy,47.94
+fig_3.6.1,country,Lithuania,,fig_3.6.1_Data Protection & Privacy,48.22
+fig_3.6.1,country,New Zealand,,fig_3.6.1_Data Protection & Privacy,51.35
+fig_3.6.1,country,Senegal,,fig_3.6.1_Data Protection & Privacy,51.37
+fig_3.6.1,country,Ukraine,,fig_3.6.1_Data Protection & Privacy,51.85
+fig_3.6.1,country,Malaysia,,fig_3.6.1_Data Protection & Privacy,53.04
+fig_3.6.1,country,Mexico,,fig_3.6.1_Data Protection & Privacy,54.1
+fig_3.6.1,country,Benin,,fig_3.6.1_Data Protection & Privacy,55.13
+fig_3.6.1,country,Morocco,,fig_3.6.1_Data Protection & Privacy,58.79
+fig_3.6.1,country,Philippines,,fig_3.6.1_Data Protection & Privacy,61.06
+fig_3.6.1,country,Romania,,fig_3.6.1_Data Protection & Privacy,61.22
+fig_3.6.1,country,Bahrain,,fig_3.6.1_Data Protection & Privacy,63.44
+fig_3.6.1,country,Chile,,fig_3.6.1_Data Protection & Privacy,64.63
+fig_3.6.1,country,Croatia,,fig_3.6.1_Data Protection & Privacy,65.18
+fig_3.6.1,country,United States of America,,fig_3.6.1_Data Protection & Privacy,66.16
+fig_3.6.1,country,Bulgaria,,fig_3.6.1_Data Protection & Privacy,66.21
+fig_3.6.1,country,Georgia,,fig_3.6.1_Data Protection & Privacy,66.98
+fig_3.6.1,country,North Macedonia,,fig_3.6.1_Data Protection & Privacy,67.18
+fig_3.6.1,country,South Africa,,fig_3.6.1_Data Protection & Privacy,68.26
+fig_3.6.1,country,Taiwan,,fig_3.6.1_Data Protection & Privacy,69.75
+fig_3.6.1,country,Poland,,fig_3.6.1_Data Protection & Privacy,71.89
+fig_3.6.1,country,Hungary,,fig_3.6.1_Data Protection & Privacy,71.9
+fig_3.6.1,country,Austria,,fig_3.6.1_Data Protection & Privacy,73.92
+fig_3.6.1,country,Switzerland,,fig_3.6.1_Data Protection & Privacy,74.35
+fig_3.6.1,country,United Arab Emirates,,fig_3.6.1_Data Protection & Privacy,78.08
+fig_3.6.1,country,Italy,,fig_3.6.1_Data Protection & Privacy,79.01
+fig_3.6.1,country,Uruguay,,fig_3.6.1_Data Protection & Privacy,80.92
+fig_3.6.1,country,Australia,,fig_3.6.1_Data Protection & Privacy,83.49
+fig_3.6.1,country,Portugal,,fig_3.6.1_Data Protection & Privacy,87.26
+fig_3.6.1,country,France,,fig_3.6.1_Data Protection & Privacy,88.69
+fig_3.6.1,country,Finland,,fig_3.6.1_Data Protection & Privacy,92.34
+fig_3.6.1,country,United Kingdom of Great Britain and Northern Ireland,,fig_3.6.1_Data Protection & Privacy,92.64
+fig_3.6.1,country,Germany,,fig_3.6.1_Data Protection & Privacy,93.7
+fig_3.6.1,country,Estonia,,fig_3.6.1_Data Protection & Privacy,94.48
+fig_3.6.1,country,Ireland,,fig_3.6.1_Data Protection & Privacy,96.11
+fig_3.6.1,country,Netherlands,,fig_3.6.1_Data Protection & Privacy,97.31
+fig_3.6.2,country,Albania,,fig_3.6.2_Country Code,ALB
+fig_3.6.2,country,Albania,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Algeria,,fig_3.6.2_Country Code,DZA
+fig_3.6.2,country,Algeria,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Andorra,,fig_3.6.2_Country Code,AND
+fig_3.6.2,country,Andorra,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Angola,,fig_3.6.2_Country Code,AGO
+fig_3.6.2,country,Angola,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Antigua and Barbuda,,fig_3.6.2_Country Code,ATG
+fig_3.6.2,country,Antigua and Barbuda,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Argentina,,fig_3.6.2_Country Code,ARG
+fig_3.6.2,country,Argentina,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Armenia,,fig_3.6.2_Country Code,ARM
+fig_3.6.2,country,Armenia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Australia,,fig_3.6.2_Country Code,AUS
+fig_3.6.2,country,Australia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Austria,,fig_3.6.2_Country Code,AUT
+fig_3.6.2,country,Austria,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Azerbaijan,,fig_3.6.2_Country Code,AZE
+fig_3.6.2,country,Azerbaijan,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Bahamas,,fig_3.6.2_Country Code,BHS
+fig_3.6.2,country,Bahamas,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Bahrain,,fig_3.6.2_Country Code,BHR
+fig_3.6.2,country,Bahrain,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Bangladesh,,fig_3.6.2_Country Code,BGD
+fig_3.6.2,country,Bangladesh,,fig_3.6.2_Status_Category,Draft legislation
+fig_3.6.2,country,Barbados,,fig_3.6.2_Country Code,BRB
+fig_3.6.2,country,Barbados,,fig_3.6.2_Status_Category,Draft legislation
+fig_3.6.2,country,Belarus,,fig_3.6.2_Country Code,BLR
+fig_3.6.2,country,Belarus,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Belgium,,fig_3.6.2_Country Code,BEL
+fig_3.6.2,country,Belgium,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Belize,,fig_3.6.2_Country Code,BLZ
+fig_3.6.2,country,Belize,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Benin,,fig_3.6.2_Country Code,BEN
+fig_3.6.2,country,Benin,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Bhutan,,fig_3.6.2_Country Code,BTN
+fig_3.6.2,country,Bhutan,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Bolivia (Plurinational State of),,fig_3.6.2_Country Code,BOL
+fig_3.6.2,country,Bolivia (Plurinational State of),,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Bosnia and Herzegovina,,fig_3.6.2_Country Code,BIH
+fig_3.6.2,country,Bosnia and Herzegovina,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Botswana,,fig_3.6.2_Country Code,BWA
+fig_3.6.2,country,Botswana,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Brazil,,fig_3.6.2_Country Code,BRA
+fig_3.6.2,country,Brazil,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Bulgaria,,fig_3.6.2_Country Code,BGR
+fig_3.6.2,country,Bulgaria,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Burkina Faso,,fig_3.6.2_Country Code,BFA
+fig_3.6.2,country,Burkina Faso,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Cambodia,,fig_3.6.2_Country Code,KHM
+fig_3.6.2,country,Cambodia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Cameroon,,fig_3.6.2_Country Code,CMR
+fig_3.6.2,country,Cameroon,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Canada,,fig_3.6.2_Country Code,CAN
+fig_3.6.2,country,Canada,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Chad,,fig_3.6.2_Country Code,TCD
+fig_3.6.2,country,Chad,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Chile,,fig_3.6.2_Country Code,CHL
+fig_3.6.2,country,Chile,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,China,,fig_3.6.2_Country Code,CHN
+fig_3.6.2,country,China,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Colombia,,fig_3.6.2_Country Code,COL
+fig_3.6.2,country,Colombia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Costa Rica,,fig_3.6.2_Country Code,CRI
+fig_3.6.2,country,Costa Rica,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Côte d'Ivoire,,fig_3.6.2_Country Code,CIV
+fig_3.6.2,country,Côte d'Ivoire,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Croatia,,fig_3.6.2_Country Code,HRV
+fig_3.6.2,country,Croatia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Cuba,,fig_3.6.2_Country Code,CUB
+fig_3.6.2,country,Cuba,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Cyprus,,fig_3.6.2_Country Code,CYP
+fig_3.6.2,country,Cyprus,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Democratic Republic of the Congo,,fig_3.6.2_Country Code,COD
+fig_3.6.2,country,Democratic Republic of the Congo,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Denmark,,fig_3.6.2_Country Code,DNK
+fig_3.6.2,country,Denmark,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Dominican Republic,,fig_3.6.2_Country Code,DOM
+fig_3.6.2,country,Dominican Republic,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Ecuador,,fig_3.6.2_Country Code,ECU
+fig_3.6.2,country,Ecuador,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Egypt,,fig_3.6.2_Country Code,EGY
+fig_3.6.2,country,Egypt,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,El Salvador,,fig_3.6.2_Country Code,SLV
+fig_3.6.2,country,El Salvador,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Estonia,,fig_3.6.2_Country Code,EST
+fig_3.6.2,country,Estonia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Eswatini,,fig_3.6.2_Country Code,SWZ
+fig_3.6.2,country,Eswatini,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Ethiopia,,fig_3.6.2_Country Code,ETH
+fig_3.6.2,country,Ethiopia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Finland,,fig_3.6.2_Country Code,FIN
+fig_3.6.2,country,Finland,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,France,,fig_3.6.2_Country Code,FRA
+fig_3.6.2,country,France,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Gabon,,fig_3.6.2_Country Code,GAB
+fig_3.6.2,country,Gabon,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Gambia,,fig_3.6.2_Country Code,GMB
+fig_3.6.2,country,Gambia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Georgia,,fig_3.6.2_Country Code,GEO
+fig_3.6.2,country,Georgia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Germany,,fig_3.6.2_Country Code,DEU
+fig_3.6.2,country,Germany,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Ghana,,fig_3.6.2_Country Code,GHA
+fig_3.6.2,country,Ghana,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Greece,,fig_3.6.2_Country Code,GRC
+fig_3.6.2,country,Greece,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Grenada,,fig_3.6.2_Country Code,GRD
+fig_3.6.2,country,Grenada,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Guatemala,,fig_3.6.2_Country Code,GTM
+fig_3.6.2,country,Guatemala,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Guinea,,fig_3.6.2_Country Code,GIN
+fig_3.6.2,country,Guinea,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Guyana,,fig_3.6.2_Country Code,GUY
+fig_3.6.2,country,Guyana,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Honduras,,fig_3.6.2_Country Code,HND
+fig_3.6.2,country,Honduras,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Hungary,,fig_3.6.2_Country Code,HUN
+fig_3.6.2,country,Hungary,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Iceland,,fig_3.6.2_Country Code,ISL
+fig_3.6.2,country,Iceland,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,India,,fig_3.6.2_Country Code,IND
+fig_3.6.2,country,India,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Indonesia,,fig_3.6.2_Country Code,IDN
+fig_3.6.2,country,Indonesia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Iran (Islamic Republic of),,fig_3.6.2_Country Code,IRN
+fig_3.6.2,country,Iran (Islamic Republic of),,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Ireland,,fig_3.6.2_Country Code,IRL
+fig_3.6.2,country,Ireland,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Israel,,fig_3.6.2_Country Code,ISR
+fig_3.6.2,country,Israel,,fig_3.6.2_Status_Category,Draft legislation
+fig_3.6.2,country,Italy,,fig_3.6.2_Country Code,ITA
+fig_3.6.2,country,Italy,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Jamaica,,fig_3.6.2_Country Code,JAM
+fig_3.6.2,country,Jamaica,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Japan,,fig_3.6.2_Country Code,JPN
+fig_3.6.2,country,Japan,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Jordan,,fig_3.6.2_Country Code,JOR
+fig_3.6.2,country,Jordan,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Kazakhstan,,fig_3.6.2_Country Code,KAZ
+fig_3.6.2,country,Kazakhstan,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Kenya,,fig_3.6.2_Country Code,KEN
+fig_3.6.2,country,Kenya,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Kuwait,,fig_3.6.2_Country Code,KWT
+fig_3.6.2,country,Kuwait,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Lao People's Democratic Republic,,fig_3.6.2_Country Code,LAO
+fig_3.6.2,country,Lao People's Democratic Republic,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Latvia,,fig_3.6.2_Country Code,LVA
+fig_3.6.2,country,Latvia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Lebanon,,fig_3.6.2_Country Code,LBN
+fig_3.6.2,country,Lebanon,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Lesotho,,fig_3.6.2_Country Code,LSO
+fig_3.6.2,country,Lesotho,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Liechtenstein,,fig_3.6.2_Country Code,LIE
+fig_3.6.2,country,Liechtenstein,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Lithuania,,fig_3.6.2_Country Code,LTU
+fig_3.6.2,country,Lithuania,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Luxembourg,,fig_3.6.2_Country Code,LUX
+fig_3.6.2,country,Luxembourg,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Madagascar,,fig_3.6.2_Country Code,MDG
+fig_3.6.2,country,Madagascar,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Malawi,,fig_3.6.2_Country Code,MWI
+fig_3.6.2,country,Malawi,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Malaysia,,fig_3.6.2_Country Code,MYS
+fig_3.6.2,country,Malaysia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Maldives,,fig_3.6.2_Country Code,MDV
+fig_3.6.2,country,Maldives,,fig_3.6.2_Status_Category,Draft legislation
+fig_3.6.2,country,Mali,,fig_3.6.2_Country Code,MLI
+fig_3.6.2,country,Mali,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Malta,,fig_3.6.2_Country Code,MLT
+fig_3.6.2,country,Malta,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Mauritania,,fig_3.6.2_Country Code,MRT
+fig_3.6.2,country,Mauritania,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Mauritius,,fig_3.6.2_Country Code,MUS
+fig_3.6.2,country,Mauritius,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Mexico,,fig_3.6.2_Country Code,MEX
+fig_3.6.2,country,Mexico,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Monaco,,fig_3.6.2_Country Code,MCO
+fig_3.6.2,country,Monaco,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Mongolia,,fig_3.6.2_Country Code,MNG
+fig_3.6.2,country,Mongolia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Montenegro,,fig_3.6.2_Country Code,MNE
+fig_3.6.2,country,Montenegro,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Morocco,,fig_3.6.2_Country Code,MAR
+fig_3.6.2,country,Morocco,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Namibia,,fig_3.6.2_Country Code,NAM
+fig_3.6.2,country,Namibia,,fig_3.6.2_Status_Category,Draft legislation
+fig_3.6.2,country,Nepal,,fig_3.6.2_Country Code,NPL
+fig_3.6.2,country,Nepal,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Netherlands,,fig_3.6.2_Country Code,NLD
+fig_3.6.2,country,Netherlands,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,New Zealand,,fig_3.6.2_Country Code,NZL
+fig_3.6.2,country,New Zealand,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Nicaragua,,fig_3.6.2_Country Code,NIC
+fig_3.6.2,country,Nicaragua,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Niger,,fig_3.6.2_Country Code,NER
+fig_3.6.2,country,Niger,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Nigeria,,fig_3.6.2_Country Code,NGA
+fig_3.6.2,country,Nigeria,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,North Macedonia,,fig_3.6.2_Country Code,MKD
+fig_3.6.2,country,North Macedonia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Norway,,fig_3.6.2_Country Code,NOR
+fig_3.6.2,country,Norway,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Oman,,fig_3.6.2_Country Code,OMN
+fig_3.6.2,country,Oman,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Pakistan,,fig_3.6.2_Country Code,PAK
+fig_3.6.2,country,Pakistan,,fig_3.6.2_Status_Category,Draft legislation
+fig_3.6.2,country,Panama,,fig_3.6.2_Country Code,PAN
+fig_3.6.2,country,Panama,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Paraguay,,fig_3.6.2_Country Code,PRY
+fig_3.6.2,country,Paraguay,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Peru,,fig_3.6.2_Country Code,PER
+fig_3.6.2,country,Peru,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Philippines,,fig_3.6.2_Country Code,PHL
+fig_3.6.2,country,Philippines,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Poland,,fig_3.6.2_Country Code,POL
+fig_3.6.2,country,Poland,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Portugal,,fig_3.6.2_Country Code,PRT
+fig_3.6.2,country,Portugal,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Qatar,,fig_3.6.2_Country Code,QAT
+fig_3.6.2,country,Qatar,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Republic of Korea,,fig_3.6.2_Country Code,KOR
+fig_3.6.2,country,Republic of Korea,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Republic of Moldova,,fig_3.6.2_Country Code,MDA
+fig_3.6.2,country,Republic of Moldova,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Romania,,fig_3.6.2_Country Code,ROU
+fig_3.6.2,country,Romania,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Russian Federation,,fig_3.6.2_Country Code,RUS
+fig_3.6.2,country,Russian Federation,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Rwanda,,fig_3.6.2_Country Code,RWA
+fig_3.6.2,country,Rwanda,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Saint Kitts and Nevis,,fig_3.6.2_Country Code,KNA
+fig_3.6.2,country,Saint Kitts and Nevis,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Saint Lucia,,fig_3.6.2_Country Code,LCA
+fig_3.6.2,country,Saint Lucia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Saint Vincent and the Grenadines,,fig_3.6.2_Country Code,VCT
+fig_3.6.2,country,Saint Vincent and the Grenadines,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,San Marino,,fig_3.6.2_Country Code,SMR
+fig_3.6.2,country,San Marino,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Saudi Arabia,,fig_3.6.2_Country Code,SAU
+fig_3.6.2,country,Saudi Arabia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Senegal,,fig_3.6.2_Country Code,SEN
+fig_3.6.2,country,Senegal,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Serbia,,fig_3.6.2_Country Code,SRB
+fig_3.6.2,country,Serbia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Seychelles,,fig_3.6.2_Country Code,SYC
+fig_3.6.2,country,Seychelles,,fig_3.6.2_Status_Category,Draft legislation
+fig_3.6.2,country,Singapore,,fig_3.6.2_Country Code,SGP
+fig_3.6.2,country,Singapore,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Slovakia,,fig_3.6.2_Country Code,SVK
+fig_3.6.2,country,Slovakia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Slovenia,,fig_3.6.2_Country Code,SVN
+fig_3.6.2,country,Slovenia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,South Africa,,fig_3.6.2_Country Code,ZAF
+fig_3.6.2,country,South Africa,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Spain,,fig_3.6.2_Country Code,ESP
+fig_3.6.2,country,Spain,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Sri Lanka,,fig_3.6.2_Country Code,LKA
+fig_3.6.2,country,Sri Lanka,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Suriname,,fig_3.6.2_Country Code,SUR
+fig_3.6.2,country,Suriname,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Sweden,,fig_3.6.2_Country Code,SWE
+fig_3.6.2,country,Sweden,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Switzerland,,fig_3.6.2_Country Code,CHE
+fig_3.6.2,country,Switzerland,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Syrian Arab Republic,,fig_3.6.2_Country Code,SYR
+fig_3.6.2,country,Syrian Arab Republic,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Tajikistan,,fig_3.6.2_Country Code,TJK
+fig_3.6.2,country,Tajikistan,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Thailand,,fig_3.6.2_Country Code,THA
+fig_3.6.2,country,Thailand,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Togo,,fig_3.6.2_Country Code,TGO
+fig_3.6.2,country,Togo,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Trinidad and Tobago,,fig_3.6.2_Country Code,TTO
+fig_3.6.2,country,Trinidad and Tobago,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Tunisia,,fig_3.6.2_Country Code,TUN
+fig_3.6.2,country,Tunisia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Türkiye,,fig_3.6.2_Country Code,TUR
+fig_3.6.2,country,Türkiye,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Turkmenistan,,fig_3.6.2_Country Code,TKM
+fig_3.6.2,country,Turkmenistan,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Uganda,,fig_3.6.2_Country Code,UGA
+fig_3.6.2,country,Uganda,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Ukraine,,fig_3.6.2_Country Code,UKR
+fig_3.6.2,country,Ukraine,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,United Arab Emirates,,fig_3.6.2_Country Code,ARE
+fig_3.6.2,country,United Arab Emirates,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,United Kingdom of Great Britain and Northern Ireland,,fig_3.6.2_Country Code,GBR
+fig_3.6.2,country,United Kingdom of Great Britain and Northern Ireland,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,United Republic of Tanzania,,fig_3.6.2_Country Code,TZA
+fig_3.6.2,country,United Republic of Tanzania,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,United States of America,,fig_3.6.2_Country Code,USA
+fig_3.6.2,country,United States of America,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Uruguay,,fig_3.6.2_Country Code,URY
+fig_3.6.2,country,Uruguay,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Uzbekistan,,fig_3.6.2_Country Code,UZB
+fig_3.6.2,country,Uzbekistan,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Viet Nam,,fig_3.6.2_Country Code,VNM
+fig_3.6.2,country,Viet Nam,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Yemen,,fig_3.6.2_Country Code,YEM
+fig_3.6.2,country,Yemen,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Zambia,,fig_3.6.2_Country Code,ZMB
+fig_3.6.2,country,Zambia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Zimbabwe,,fig_3.6.2_Country Code,ZWE
+fig_3.6.2,country,Zimbabwe,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Congo,,fig_3.6.2_Country Code,COG
+fig_3.6.2,country,Congo,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Equatorial Guinea,,fig_3.6.2_Country Code,GNQ
+fig_3.6.2,country,Equatorial Guinea,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Sao Tome and Principe,,fig_3.6.2_Country Code,STP
+fig_3.6.2,country,Sao Tome and Principe,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Somalia,,fig_3.6.2_Country Code,SOM
+fig_3.6.2,country,Somalia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Czechia,,fig_3.6.2_Country Code,CZE
+fig_3.6.2,country,Czechia,,fig_3.6.2_Status_Category,Legislation
+fig_3.6.2,country,Venezuela,,fig_3.6.2_Country Code,VEN
+fig_3.6.2,country,Venezuela,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,Sierra Leone,,fig_3.6.2_Country Code,SLE
+fig_3.6.2,country,Sierra Leone,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,Guinea-Bissau,,fig_3.6.2_Country Code,GNB
+fig_3.6.2,country,Guinea-Bissau,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,Sierra Leone,,fig_3.6.2_Country Code,SLE
+fig_3.6.2,country,Sierra Leone,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,Liberia,,fig_3.6.2_Country Code,LBR
+fig_3.6.2,country,Liberia,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,Libia,,fig_3.6.2_Country Code,LBY
+fig_3.6.2,country,Libia,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,Sudan,,fig_3.6.2_Country Code,SDN
+fig_3.6.2,country,Sudan,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,Ethiopia,,fig_3.6.2_Country Code,ETH
+fig_3.6.2,country,Ethiopia,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,Mozambique,,fig_3.6.2_Country Code,MOZ
+fig_3.6.2,country,Mozambique,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,Cental African Republica,,fig_3.6.2_Country Code,CAF
+fig_3.6.2,country,Cental African Republica,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,Israel,,fig_3.6.2_Country Code,ISR
+fig_3.6.2,country,Israel,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,Iraq,,fig_3.6.2_Country Code,IRQ
+fig_3.6.2,country,Iraq,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,Afghanistan,,fig_3.6.2_Country Code,AFG
+fig_3.6.2,country,Afghanistan,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,Myanmar,,fig_3.6.2_Country Code,MMR
+fig_3.6.2,country,Myanmar,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,Papua New Guinea,,fig_3.6.2_Country Code,PNG
+fig_3.6.2,country,Papua New Guinea,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,South Sudan,,fig_3.6.2_Country Code,SSD
+fig_3.6.2,country,South Sudan,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,Eritrea,,fig_3.6.2_Country Code,ERI
+fig_3.6.2,country,Eritrea,,fig_3.6.2_Status_Category,No legislation
+fig_3.6.2,country,Kyrgyzstan,,fig_3.6.2_Country Code,KGZ
+fig_3.6.2,country,Kyrgyzstan,,fig_3.6.2_Status_Category,Legislation
+fig_3.7.1,country,Zimbabwe,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Guinea,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Guatemala,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Ghana,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Gabon,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Ethiopia,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Eritrea,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,El Salvador,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Ecuador,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Democratic Republic of the Congo,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Côte d'Ivoire,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Chad,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Central African Republic,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Haiti,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Burundi,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Botswana,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Bolivia (Plurinational State of),,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Bhutan,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Belize,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Belarus,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Barbados,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Bahrain,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Azerbaijan,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Antigua and Barbuda,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Algeria,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Albania,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Afghanistan,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Burkina Faso,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Honduras,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Gambia,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Indonesia,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Uzbekistan,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,United Republic of Tanzania,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Uganda,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Turkmenistan,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Togo,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Tajikistan,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,South Sudan,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Somalia,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Hungary,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Saint Lucia,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Rwanda,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Peru,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Paraguay,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Sierra Leone,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Myanmar,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Kazakhstan,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Panama,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Kyrgyz Republic,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Lao People's Democratic Republic,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Lesotho,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Kosovo,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Malawi,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Liberia,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Mozambique,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Mongolia,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Zambia,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Mali,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Mauritius,,fig_3.7.1_Bias & Unfair Discrimination,0
+fig_3.7.1,country,Kuwait,,fig_3.7.1_Bias & Unfair Discrimination,3.65
+fig_3.7.1,country,Malaysia,,fig_3.7.1_Bias & Unfair Discrimination,4.17
+fig_3.7.1,country,Nigeria,,fig_3.7.1_Bias & Unfair Discrimination,4.53
+fig_3.7.1,country,Nepal,,fig_3.7.1_Bias & Unfair Discrimination,4.9
+fig_3.7.1,country,Lebanon,,fig_3.7.1_Bias & Unfair Discrimination,4.9
+fig_3.7.1,country,Senegal,,fig_3.7.1_Bias & Unfair Discrimination,5.16
+fig_3.7.1,country,Cameroon,,fig_3.7.1_Bias & Unfair Discrimination,5.42
+fig_3.7.1,country,Cambodia,,fig_3.7.1_Bias & Unfair Discrimination,5.64
+fig_3.7.1,country,Republic of Korea,,fig_3.7.1_Bias & Unfair Discrimination,6.15
+fig_3.7.1,country,Lithuania,,fig_3.7.1_Bias & Unfair Discrimination,6.3
+fig_3.7.1,country,Guyana,,fig_3.7.1_Bias & Unfair Discrimination,6.3
+fig_3.7.1,country,Morocco,,fig_3.7.1_Bias & Unfair Discrimination,7.6
+fig_3.7.1,country,Thailand,,fig_3.7.1_Bias & Unfair Discrimination,8.99
+fig_3.7.1,country,Kenya,,fig_3.7.1_Bias & Unfair Discrimination,9.38
+fig_3.7.1,country,Sri Lanka,,fig_3.7.1_Bias & Unfair Discrimination,9.48
+fig_3.7.1,country,North Macedonia,,fig_3.7.1_Bias & Unfair Discrimination,10.42
+fig_3.7.1,country,Montenegro,,fig_3.7.1_Bias & Unfair Discrimination,10.83
+fig_3.7.1,country,Benin,,fig_3.7.1_Bias & Unfair Discrimination,11.46
+fig_3.7.1,country,Croatia,,fig_3.7.1_Bias & Unfair Discrimination,12.4
+fig_3.7.1,country,"China, Hong Kong Special Administrative Region",,fig_3.7.1_Bias & Unfair Discrimination,12.41
+fig_3.7.1,country,Trinidad and Tobago,,fig_3.7.1_Bias & Unfair Discrimination,12.92
+fig_3.7.1,country,Egypt,,fig_3.7.1_Bias & Unfair Discrimination,13.36
+fig_3.7.1,country,Philippines,,fig_3.7.1_Bias & Unfair Discrimination,14.53
+fig_3.7.1,country,Libya,,fig_3.7.1_Bias & Unfair Discrimination,15.35
+fig_3.7.1,country,Bulgaria,,fig_3.7.1_Bias & Unfair Discrimination,17.97
+fig_3.7.1,country,Niger,,fig_3.7.1_Bias & Unfair Discrimination,18.63
+fig_3.7.1,country,South Africa,,fig_3.7.1_Bias & Unfair Discrimination,19.53
+fig_3.7.1,country,Oman,,fig_3.7.1_Bias & Unfair Discrimination,19.87
+fig_3.7.1,country,Pakistan,,fig_3.7.1_Bias & Unfair Discrimination,21.64
+fig_3.7.1,country,Armenia,,fig_3.7.1_Bias & Unfair Discrimination,21.86
+fig_3.7.1,country,Serbia,,fig_3.7.1_Bias & Unfair Discrimination,22.03
+fig_3.7.1,country,Republic of Moldova,,fig_3.7.1_Bias & Unfair Discrimination,22.52
+fig_3.7.1,country,Singapore,,fig_3.7.1_Bias & Unfair Discrimination,23.44
+fig_3.7.1,country,Namibia,,fig_3.7.1_Bias & Unfair Discrimination,24.67
+fig_3.7.1,country,Austria,,fig_3.7.1_Bias & Unfair Discrimination,24.97
+fig_3.7.1,country,Vietnam,,fig_3.7.1_Bias & Unfair Discrimination,25.54
+fig_3.7.1,country,Mexico,,fig_3.7.1_Bias & Unfair Discrimination,27.09
+fig_3.7.1,country,Dominican Republic,,fig_3.7.1_Bias & Unfair Discrimination,29.01
+fig_3.7.1,country,Latvia,,fig_3.7.1_Bias & Unfair Discrimination,29.31
+fig_3.7.1,country,Qatar,,fig_3.7.1_Bias & Unfair Discrimination,30.84
+fig_3.7.1,country,Ukraine,,fig_3.7.1_Bias & Unfair Discrimination,31
+fig_3.7.1,country,Colombia,,fig_3.7.1_Bias & Unfair Discrimination,31.04
+fig_3.7.1,country,Jamaica,,fig_3.7.1_Bias & Unfair Discrimination,32.3
+fig_3.7.1,country,Tunisia,,fig_3.7.1_Bias & Unfair Discrimination,32.92
+fig_3.7.1,country,Costa Rica,,fig_3.7.1_Bias & Unfair Discrimination,34.85
+fig_3.7.1,country,Palestine,,fig_3.7.1_Bias & Unfair Discrimination,35.02
+fig_3.7.1,country,Georgia,,fig_3.7.1_Bias & Unfair Discrimination,35.26
+fig_3.7.1,country,India,,fig_3.7.1_Bias & Unfair Discrimination,37.11
+fig_3.7.1,country,China,,fig_3.7.1_Bias & Unfair Discrimination,38.59
+fig_3.7.1,country,Estonia,,fig_3.7.1_Bias & Unfair Discrimination,40.06
+fig_3.7.1,country,Portugal,,fig_3.7.1_Bias & Unfair Discrimination,40.51
+fig_3.7.1,country,Argentina,,fig_3.7.1_Bias & Unfair Discrimination,40.73
+fig_3.7.1,country,Slovakia,,fig_3.7.1_Bias & Unfair Discrimination,40.91
+fig_3.7.1,country,Greece,,fig_3.7.1_Bias & Unfair Discrimination,41.5
+fig_3.7.1,country,Jordan,,fig_3.7.1_Bias & Unfair Discrimination,42.77
+fig_3.7.1,country,France,,fig_3.7.1_Bias & Unfair Discrimination,43.61
+fig_3.7.1,country,Saudi Arabia,,fig_3.7.1_Bias & Unfair Discrimination,43.61
+fig_3.7.1,country,Romania,,fig_3.7.1_Bias & Unfair Discrimination,44.31
+fig_3.7.1,country,Brazil,,fig_3.7.1_Bias & Unfair Discrimination,44.32
+fig_3.7.1,country,Switzerland,,fig_3.7.1_Bias & Unfair Discrimination,45.4
+fig_3.7.1,country,United Arab Emirates,,fig_3.7.1_Bias & Unfair Discrimination,52.62
+fig_3.7.1,country,Finland,,fig_3.7.1_Bias & Unfair Discrimination,52.77
+fig_3.7.1,country,Taiwan,,fig_3.7.1_Bias & Unfair Discrimination,54.7
+fig_3.7.1,country,Spain,,fig_3.7.1_Bias & Unfair Discrimination,57.77
+fig_3.7.1,country,Belgium,,fig_3.7.1_Bias & Unfair Discrimination,60.35
+fig_3.7.1,country,Chile,,fig_3.7.1_Bias & Unfair Discrimination,61.21
+fig_3.7.1,country,Poland,,fig_3.7.1_Bias & Unfair Discrimination,61.63
+fig_3.7.1,country,Germany,,fig_3.7.1_Bias & Unfair Discrimination,62.44
+fig_3.7.1,country,Slovenia,,fig_3.7.1_Bias & Unfair Discrimination,62.63
+fig_3.7.1,country,Japan,,fig_3.7.1_Bias & Unfair Discrimination,63.57
+fig_3.7.1,country,Italy,,fig_3.7.1_Bias & Unfair Discrimination,69.31
+fig_3.7.1,country,Uruguay,,fig_3.7.1_Bias & Unfair Discrimination,76.6
+fig_3.7.1,country,Ireland,,fig_3.7.1_Bias & Unfair Discrimination,76.77
+fig_3.7.1,country,United Kingdom of Great Britain and Northern Ireland,,fig_3.7.1_Bias & Unfair Discrimination,80.17
+fig_3.7.1,country,Australia,,fig_3.7.1_Bias & Unfair Discrimination,83.49
+fig_3.7.1,country,New Zealand,,fig_3.7.1_Bias & Unfair Discrimination,84.47
+fig_3.7.1,country,Netherlands,,fig_3.7.1_Bias & Unfair Discrimination,84.47
+fig_3.7.1,country,Canada,,fig_3.7.1_Bias & Unfair Discrimination,85.67
+fig_3.7.1,country,United States of America,,fig_3.7.1_Bias & Unfair Discrimination,90.8
+fig_3.7.2,country,Zambia,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Honduras,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Haiti,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Guyana,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Guatemala,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Ghana,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Georgia,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Gambia,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Gabon,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Eritrea,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,El Salvador,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Democratic Republic of the Congo,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Côte d'Ivoire,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Hungary,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Chad,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Burundi,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Burkina Faso,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Botswana,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Bolivia (Plurinational State of),,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Bhutan,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Belarus,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Barbados,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Bahrain,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Azerbaijan,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Armenia,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Algeria,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Afghanistan,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Central African Republic,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Indonesia,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Guinea,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Lao People's Democratic Republic,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Turkmenistan,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Togo,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Switzerland,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,South Sudan,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Sierra Leone,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Saint Lucia,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Rwanda,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Republic of Moldova,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Jamaica,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Peru,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Paraguay,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Palestine,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Oman,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Republic of Korea,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Niger,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Lesotho,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Nigeria,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Lithuania,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Malawi,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Mali,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Liberia,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Mongolia,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Mauritius,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,New Zealand,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Namibia,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Uganda,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Mozambique,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Myanmar,,fig_3.7.2_Gender Equality,0
+fig_3.7.2,country,Tajikistan,,fig_3.7.2_Gender Equality,1.87
+fig_3.7.2,country,Uzbekistan,,fig_3.7.2_Gender Equality,2.5
+fig_3.7.2,country,Cameroon,,fig_3.7.2_Gender Equality,2.71
+fig_3.7.2,country,United Republic of Tanzania,,fig_3.7.2_Gender Equality,3.8
+fig_3.7.2,country,China,,fig_3.7.2_Gender Equality,4.48
+fig_3.7.2,country,Sri Lanka,,fig_3.7.2_Gender Equality,4.74
+fig_3.7.2,country,Lebanon,,fig_3.7.2_Gender Equality,4.9
+fig_3.7.2,country,Kosovo,,fig_3.7.2_Gender Equality,4.9
+fig_3.7.2,country,Albania,,fig_3.7.2_Gender Equality,5.36
+fig_3.7.2,country,Ethiopia,,fig_3.7.2_Gender Equality,5.42
+fig_3.7.2,country,Poland,,fig_3.7.2_Gender Equality,5.78
+fig_3.7.2,country,Antigua and Barbuda,,fig_3.7.2_Gender Equality,6.09
+fig_3.7.2,country,Latvia,,fig_3.7.2_Gender Equality,6.35
+fig_3.7.2,country,Thailand,,fig_3.7.2_Gender Equality,6.46
+fig_3.7.2,country,Trinidad and Tobago,,fig_3.7.2_Gender Equality,6.46
+fig_3.7.2,country,Slovakia,,fig_3.7.2_Gender Equality,6.51
+fig_3.7.2,country,Vietnam,,fig_3.7.2_Gender Equality,7.03
+fig_3.7.2,country,India,,fig_3.7.2_Gender Equality,9.06
+fig_3.7.2,country,Somalia,,fig_3.7.2_Gender Equality,9.25
+fig_3.7.2,country,Kenya,,fig_3.7.2_Gender Equality,9.38
+fig_3.7.2,country,North Macedonia,,fig_3.7.2_Gender Equality,10.42
+fig_3.7.2,country,Montenegro,,fig_3.7.2_Gender Equality,10.83
+fig_3.7.2,country,Ecuador,,fig_3.7.2_Gender Equality,10.83
+fig_3.7.2,country,Benin,,fig_3.7.2_Gender Equality,11.46
+fig_3.7.2,country,Zimbabwe,,fig_3.7.2_Gender Equality,11.61
+fig_3.7.2,country,Libya,,fig_3.7.2_Gender Equality,12.59
+fig_3.7.2,country,Uruguay,,fig_3.7.2_Gender Equality,13.02
+fig_3.7.2,country,Finland,,fig_3.7.2_Gender Equality,13.33
+fig_3.7.2,country,Colombia,,fig_3.7.2_Gender Equality,14.84
+fig_3.7.2,country,Jordan,,fig_3.7.2_Gender Equality,15.08
+fig_3.7.2,country,Cambodia,,fig_3.7.2_Gender Equality,15.3
+fig_3.7.2,country,"China, Hong Kong Special Administrative Region",,fig_3.7.2_Gender Equality,15.8
+fig_3.7.2,country,Kyrgyz Republic,,fig_3.7.2_Gender Equality,16.88
+fig_3.7.2,country,Dominican Republic,,fig_3.7.2_Gender Equality,17.14
+fig_3.7.2,country,Egypt,,fig_3.7.2_Gender Equality,17.15
+fig_3.7.2,country,Pakistan,,fig_3.7.2_Gender Equality,17.78
+fig_3.7.2,country,Bulgaria,,fig_3.7.2_Gender Equality,17.8
+fig_3.7.2,country,Serbia,,fig_3.7.2_Gender Equality,18.28
+fig_3.7.2,country,South Africa,,fig_3.7.2_Gender Equality,19.53
+fig_3.7.2,country,Senegal,,fig_3.7.2_Gender Equality,20.22
+fig_3.7.2,country,Belize,,fig_3.7.2_Gender Equality,20.4
+fig_3.7.2,country,Nepal,,fig_3.7.2_Gender Equality,20.65
+fig_3.7.2,country,Panama,,fig_3.7.2_Gender Equality,21.46
+fig_3.7.2,country,Slovenia,,fig_3.7.2_Gender Equality,22.28
+fig_3.7.2,country,Singapore,,fig_3.7.2_Gender Equality,23.44
+fig_3.7.2,country,Kazakhstan,,fig_3.7.2_Gender Equality,23.46
+fig_3.7.2,country,Croatia,,fig_3.7.2_Gender Equality,25.84
+fig_3.7.2,country,Kuwait,,fig_3.7.2_Gender Equality,28.37
+fig_3.7.2,country,Malaysia,,fig_3.7.2_Gender Equality,29.1
+fig_3.7.2,country,Tunisia,,fig_3.7.2_Gender Equality,30.72
+fig_3.7.2,country,Ukraine,,fig_3.7.2_Gender Equality,31
+fig_3.7.2,country,Mexico,,fig_3.7.2_Gender Equality,32.09
+fig_3.7.2,country,Argentina,,fig_3.7.2_Gender Equality,32.18
+fig_3.7.2,country,Morocco,,fig_3.7.2_Gender Equality,32.38
+fig_3.7.2,country,Italy,,fig_3.7.2_Gender Equality,32.42
+fig_3.7.2,country,Austria,,fig_3.7.2_Gender Equality,32.82
+fig_3.7.2,country,Qatar,,fig_3.7.2_Gender Equality,34.02
+fig_3.7.2,country,Spain,,fig_3.7.2_Gender Equality,34.29
+fig_3.7.2,country,Costa Rica,,fig_3.7.2_Gender Equality,34.85
+fig_3.7.2,country,Greece,,fig_3.7.2_Gender Equality,35.3
+fig_3.7.2,country,Chile,,fig_3.7.2_Gender Equality,35.38
+fig_3.7.2,country,Philippines,,fig_3.7.2_Gender Equality,35.63
+fig_3.7.2,country,Taiwan,,fig_3.7.2_Gender Equality,38.89
+fig_3.7.2,country,Estonia,,fig_3.7.2_Gender Equality,40.06
+fig_3.7.2,country,United Arab Emirates,,fig_3.7.2_Gender Equality,40.37
+fig_3.7.2,country,Brazil,,fig_3.7.2_Gender Equality,40.53
+fig_3.7.2,country,Saudi Arabia,,fig_3.7.2_Gender Equality,41.63
+fig_3.7.2,country,United States of America,,fig_3.7.2_Gender Equality,43.08
+fig_3.7.2,country,Romania,,fig_3.7.2_Gender Equality,44.31
+fig_3.7.2,country,Belgium,,fig_3.7.2_Gender Equality,45.58
+fig_3.7.2,country,France,,fig_3.7.2_Gender Equality,49.55
+fig_3.7.2,country,United Kingdom of Great Britain and Northern Ireland,,fig_3.7.2_Gender Equality,51.57
+fig_3.7.2,country,Germany,,fig_3.7.2_Gender Equality,62.44
+fig_3.7.2,country,Japan,,fig_3.7.2_Gender Equality,63.57
+fig_3.7.2,country,Portugal,,fig_3.7.2_Gender Equality,64.7
+fig_3.7.2,country,Ireland,,fig_3.7.2_Gender Equality,83.44
+fig_3.7.2,country,Australia,,fig_3.7.2_Gender Equality,83.49
+fig_3.7.2,country,Netherlands,,fig_3.7.2_Gender Equality,84.47
+fig_3.7.2,country,Canada,,fig_3.7.2_Gender Equality,95.99
+fig_3.7.3,country,Zambia,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Gabon,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Finland,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,El Salvador,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Ecuador,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Dominican Republic,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Democratic Republic of the Congo,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Croatia,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Côte d'Ivoire,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Colombia,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Chad,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Central African Republic,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Burundi,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Gambia,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Botswana,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Benin,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Belize,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Belgium,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Belarus,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Barbados,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Bahrain,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Azerbaijan,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Austria,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Antigua and Barbuda,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Algeria,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Albania,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Afghanistan,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Bolivia (Plurinational State of),,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Guatemala,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Eritrea,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Haiti,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Trinidad and Tobago,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Togo,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Thailand,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Tajikistan,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Switzerland,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,South Sudan,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Somalia,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Slovakia,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Sierra Leone,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Guinea,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Romania,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Republic of Moldova,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Panama,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Oman,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Saint Lucia,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Myanmar,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Honduras,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Niger,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Jamaica,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Kuwait,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Lao People's Democratic Republic,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Indonesia,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Liberia,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Malaysia,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Mali,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Mauritius,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Mozambique,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Lesotho,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,United Republic of Tanzania,,fig_3.7.3_Cultural & Linguistic Diversity,0
+fig_3.7.3,country,Saudi Arabia,,fig_3.7.3_Cultural & Linguistic Diversity,1.98
+fig_3.7.3,country,Ethiopia,,fig_3.7.3_Cultural & Linguistic Diversity,2.71
+fig_3.7.3,country,Libya,,fig_3.7.3_Cultural & Linguistic Diversity,2.76
+fig_3.7.3,country,Zimbabwe,,fig_3.7.3_Cultural & Linguistic Diversity,3.39
+fig_3.7.3,country,Uganda,,fig_3.7.3_Cultural & Linguistic Diversity,3.91
+fig_3.7.3,country,Burkina Faso,,fig_3.7.3_Cultural & Linguistic Diversity,4.22
+fig_3.7.3,country,Bhutan,,fig_3.7.3_Cultural & Linguistic Diversity,4.27
+fig_3.7.3,country,Georgia,,fig_3.7.3_Cultural & Linguistic Diversity,4.53
+fig_3.7.3,country,Nigeria,,fig_3.7.3_Cultural & Linguistic Diversity,4.53
+fig_3.7.3,country,Sri Lanka,,fig_3.7.3_Cultural & Linguistic Diversity,4.74
+fig_3.7.3,country,Armenia,,fig_3.7.3_Cultural & Linguistic Diversity,4.74
+fig_3.7.3,country,Kosovo,,fig_3.7.3_Cultural & Linguistic Diversity,4.9
+fig_3.7.3,country,Nepal,,fig_3.7.3_Cultural & Linguistic Diversity,4.9
+fig_3.7.3,country,Lebanon,,fig_3.7.3_Cultural & Linguistic Diversity,4.9
+fig_3.7.3,country,Senegal,,fig_3.7.3_Cultural & Linguistic Diversity,5.16
+fig_3.7.3,country,Paraguay,,fig_3.7.3_Cultural & Linguistic Diversity,5.21
+fig_3.7.3,country,Peru,,fig_3.7.3_Cultural & Linguistic Diversity,5.26
+fig_3.7.3,country,Malawi,,fig_3.7.3_Cultural & Linguistic Diversity,5.36
+fig_3.7.3,country,United Arab Emirates,,fig_3.7.3_Cultural & Linguistic Diversity,5.42
+fig_3.7.3,country,Montenegro,,fig_3.7.3_Cultural & Linguistic Diversity,5.42
+fig_3.7.3,country,Ghana,,fig_3.7.3_Cultural & Linguistic Diversity,5.94
+fig_3.7.3,country,France,,fig_3.7.3_Cultural & Linguistic Diversity,5.94
+fig_3.7.3,country,Namibia,,fig_3.7.3_Cultural & Linguistic Diversity,6.15
+fig_3.7.3,country,China,,fig_3.7.3_Cultural & Linguistic Diversity,6.72
+fig_3.7.3,country,Cameroon,,fig_3.7.3_Cultural & Linguistic Diversity,8.12
+fig_3.7.3,country,Kenya,,fig_3.7.3_Cultural & Linguistic Diversity,9.38
+fig_3.7.3,country,Tunisia,,fig_3.7.3_Cultural & Linguistic Diversity,9.69
+fig_3.7.3,country,Guyana,,fig_3.7.3_Cultural & Linguistic Diversity,12.6
+fig_3.7.3,country,Argentina,,fig_3.7.3_Cultural & Linguistic Diversity,12.6
+fig_3.7.3,country,Japan,,fig_3.7.3_Cultural & Linguistic Diversity,13.02
+fig_3.7.3,country,Turkmenistan,,fig_3.7.3_Cultural & Linguistic Diversity,13.09
+fig_3.7.3,country,Chile,,fig_3.7.3_Cultural & Linguistic Diversity,13.33
+fig_3.7.3,country,Ukraine,,fig_3.7.3_Cultural & Linguistic Diversity,13.59
+fig_3.7.3,country,Bulgaria,,fig_3.7.3_Cultural & Linguistic Diversity,17.97
+fig_3.7.3,country,"China, Hong Kong Special Administrative Region",,fig_3.7.3_Cultural & Linguistic Diversity,18.62
+fig_3.7.3,country,Cambodia,,fig_3.7.3_Cultural & Linguistic Diversity,18.69
+fig_3.7.3,country,Uruguay,,fig_3.7.3_Cultural & Linguistic Diversity,19.53
+fig_3.7.3,country,South Africa,,fig_3.7.3_Cultural & Linguistic Diversity,19.53
+fig_3.7.3,country,Uzbekistan,,fig_3.7.3_Cultural & Linguistic Diversity,20.5
+fig_3.7.3,country,Pakistan,,fig_3.7.3_Cultural & Linguistic Diversity,21.64
+fig_3.7.3,country,Serbia,,fig_3.7.3_Cultural & Linguistic Diversity,22.58
+fig_3.7.3,country,Kyrgyz Republic,,fig_3.7.3_Cultural & Linguistic Diversity,24.35
+fig_3.7.3,country,Kazakhstan,,fig_3.7.3_Cultural & Linguistic Diversity,26.16
+fig_3.7.3,country,North Macedonia,,fig_3.7.3_Cultural & Linguistic Diversity,26.82
+fig_3.7.3,country,Mexico,,fig_3.7.3_Cultural & Linguistic Diversity,27.09
+fig_3.7.3,country,Costa Rica,,fig_3.7.3_Cultural & Linguistic Diversity,28.4
+fig_3.7.3,country,Rwanda,,fig_3.7.3_Cultural & Linguistic Diversity,29.32
+fig_3.7.3,country,Mongolia,,fig_3.7.3_Cultural & Linguistic Diversity,29.38
+fig_3.7.3,country,Vietnam,,fig_3.7.3_Cultural & Linguistic Diversity,30.23
+fig_3.7.3,country,Philippines,,fig_3.7.3_Cultural & Linguistic Diversity,30.79
+fig_3.7.3,country,Poland,,fig_3.7.3_Cultural & Linguistic Diversity,30.8
+fig_3.7.3,country,Palestine,,fig_3.7.3_Cultural & Linguistic Diversity,31.73
+fig_3.7.3,country,Morocco,,fig_3.7.3_Cultural & Linguistic Diversity,32.38
+fig_3.7.3,country,New Zealand,,fig_3.7.3_Cultural & Linguistic Diversity,33.02
+fig_3.7.3,country,Hungary,,fig_3.7.3_Cultural & Linguistic Diversity,34.07
+fig_3.7.3,country,Greece,,fig_3.7.3_Cultural & Linguistic Diversity,35.3
+fig_3.7.3,country,Republic of Korea,,fig_3.7.3_Cultural & Linguistic Diversity,37.69
+fig_3.7.3,country,Spain,,fig_3.7.3_Cultural & Linguistic Diversity,39.07
+fig_3.7.3,country,Egypt,,fig_3.7.3_Cultural & Linguistic Diversity,39.1
+fig_3.7.3,country,United Kingdom of Great Britain and Northern Ireland,,fig_3.7.3_Cultural & Linguistic Diversity,39.28
+fig_3.7.3,country,Portugal,,fig_3.7.3_Cultural & Linguistic Diversity,40.51
+fig_3.7.3,country,Latvia,,fig_3.7.3_Cultural & Linguistic Diversity,41.05
+fig_3.7.3,country,Taiwan,,fig_3.7.3_Cultural & Linguistic Diversity,42.5
+fig_3.7.3,country,Jordan,,fig_3.7.3_Cultural & Linguistic Diversity,44.27
+fig_3.7.3,country,India,,fig_3.7.3_Cultural & Linguistic Diversity,48.15
+fig_3.7.3,country,Netherlands,,fig_3.7.3_Cultural & Linguistic Diversity,48.25
+fig_3.7.3,country,United States of America,,fig_3.7.3_Cultural & Linguistic Diversity,50.3
+fig_3.7.3,country,Brazil,,fig_3.7.3_Cultural & Linguistic Diversity,59.69
+fig_3.7.3,country,Lithuania,,fig_3.7.3_Cultural & Linguistic Diversity,69.03
+fig_3.7.3,country,Canada,,fig_3.7.3_Cultural & Linguistic Diversity,70.33
+fig_3.7.3,country,Australia,,fig_3.7.3_Cultural & Linguistic Diversity,70.55
+fig_3.7.3,country,Slovenia,,fig_3.7.3_Cultural & Linguistic Diversity,73.77
+fig_3.7.3,country,Estonia,,fig_3.7.3_Cultural & Linguistic Diversity,74.48
+fig_3.7.3,country,Qatar,,fig_3.7.3_Cultural & Linguistic Diversity,77.29
+fig_3.7.3,country,Italy,,fig_3.7.3_Cultural & Linguistic Diversity,79.01
+fig_3.7.3,country,Ireland,,fig_3.7.3_Cultural & Linguistic Diversity,82.77
+fig_3.7.3,country,Germany,,fig_3.7.3_Cultural & Linguistic Diversity,87.55
+fig_3.7.3,country,Singapore,,fig_3.7.3_Cultural & Linguistic Diversity,89.8
+fig_3.7.4,category,Africa,,fig_3.7.4_Share of countries,2
+fig_3.7.4,category,Africa,,fig_3.7.4_Category,Government frameworks
+fig_3.7.4,category,Asia and Oceania,,fig_3.7.4_Share of countries,27
+fig_3.7.4,category,Asia and Oceania,,fig_3.7.4_Category,Government frameworks
+fig_3.7.4,category,Caribbean,,fig_3.7.4_Share of countries,0
+fig_3.7.4,category,Caribbean,,fig_3.7.4_Category,Government frameworks
+fig_3.7.4,category,Europe,,fig_3.7.4_Share of countries,38
+fig_3.7.4,category,Europe,,fig_3.7.4_Category,Government frameworks
+fig_3.7.4,category,Middle East,,fig_3.7.4_Share of countries,33
+fig_3.7.4,category,Middle East,,fig_3.7.4_Category,Government frameworks
+fig_3.7.4,category,North America,,fig_3.7.4_Share of countries,33
+fig_3.7.4,category,North America,,fig_3.7.4_Category,Government frameworks
+fig_3.7.4,category,South and Central America,,fig_3.7.4_Share of countries,7
+fig_3.7.4,category,South and Central America,,fig_3.7.4_Category,Government frameworks
+fig_3.7.4,category,Africa,,fig_3.7.4_Share of countries,7
+fig_3.7.4,category,Africa,,fig_3.7.4_Category,Government actions
+fig_3.7.4,category,Asia and Oceania,,fig_3.7.4_Share of countries,37
+fig_3.7.4,category,Asia and Oceania,,fig_3.7.4_Category,Government actions
+fig_3.7.4,category,Caribbean,,fig_3.7.4_Share of countries,0
+fig_3.7.4,category,Caribbean,,fig_3.7.4_Category,Government actions
+fig_3.7.4,category,Europe,,fig_3.7.4_Share of countries,31
+fig_3.7.4,category,Europe,,fig_3.7.4_Category,Government actions
+fig_3.7.4,category,Middle East,,fig_3.7.4_Share of countries,22
+fig_3.7.4,category,Middle East,,fig_3.7.4_Category,Government actions
+fig_3.7.4,category,North America,,fig_3.7.4_Share of countries,100
+fig_3.7.4,category,North America,,fig_3.7.4_Category,Government actions
+fig_3.7.4,category,South and Central America,,fig_3.7.4_Share of countries,14
+fig_3.7.4,category,South and Central America,,fig_3.7.4_Category,Government actions
+fig_3.7.4,category,Africa,,fig_3.7.4_Share of countries,39
+fig_3.7.4,category,Africa,,fig_3.7.4_Category,Nonstate actors
+fig_3.7.4,category,Asia and Oceania,,fig_3.7.4_Share of countries,70
+fig_3.7.4,category,Asia and Oceania,,fig_3.7.4_Category,Nonstate actors
+fig_3.7.4,category,Caribbean,,fig_3.7.4_Share of countries,11
+fig_3.7.4,category,Caribbean,,fig_3.7.4_Category,Nonstate actors
+fig_3.7.4,category,Europe,,fig_3.7.4_Share of countries,59
+fig_3.7.4,category,Europe,,fig_3.7.4_Category,Nonstate actors
+fig_3.7.4,category,Middle East,,fig_3.7.4_Share of countries,67
+fig_3.7.4,category,Middle East,,fig_3.7.4_Category,Nonstate actors
+fig_3.7.4,category,North America,,fig_3.7.4_Share of countries,100
+fig_3.7.4,category,North America,,fig_3.7.4_Category,Nonstate actors
+fig_3.7.4,category,South and Central America,,fig_3.7.4_Share of countries,43
+fig_3.7.4,category,South and Central America,,fig_3.7.4_Category,Nonstate actors
+fig_3.7.5,model,Falcon3-7B-Instruct,2024,fig_3.7.5_Mean score,0.37
+fig_3.7.5,model,Falcon3-10B-Instruct,2024,fig_3.7.5_Mean score,0.413
+fig_3.7.5,model,Jais-adapted-7b-chat,2024,fig_3.7.5_Mean score,0.525
+fig_3.7.5,model,Jais-adapted-13b-chat,2024,fig_3.7.5_Mean score,0.591
+fig_3.7.5,model,AceGPT-v2-8B-Chat,2024,fig_3.7.5_Mean score,0.626
+fig_3.7.5,model,SILMA 9B,2024,fig_3.7.5_Mean score,0.633
+fig_3.7.5,model,Jais-family-30b-16k-chat,2024,fig_3.7.5_Mean score,0.638
+fig_3.7.5,model,Qwen2.5 Instruct Turbo (7B),2024,fig_3.7.5_Mean score,0.65
+fig_3.7.5,model,Jais-adapted-70b-chat,2024,fig_3.7.5_Mean score,0.663
+fig_3.7.5,model,Mistral Large (2411),2024,fig_3.7.5_Mean score,0.706
+fig_3.7.5,model,AceGPT-v2-32B-Chat,2024,fig_3.7.5_Mean score,0.708
+fig_3.7.5,model,AceGPT-v2-70B-Chat,2024,fig_3.7.5_Mean score,0.737
+fig_3.7.5,model,Llama 3.3 Instruct Turbo (70B),2024,fig_3.7.5_Mean score,0.755
+fig_3.7.5,model,Qwen2.5 Instruct Turbo (72B),2024,fig_3.7.5_Mean score,0.759
+fig_3.7.5,model,GPT-4.1 nano (2025-04-14),2025,fig_3.7.5_Mean score,0.695
+fig_3.7.5,model,ALLaM-7B-Instruct-preview,2025,fig_3.7.5_Mean score,0.699
+fig_3.7.5,model,Llama 4 Scout (17Bx16E) Instruct,2025,fig_3.7.5_Mean score,0.746
+fig_3.7.5,model,GPT-4.1 mini (2025-04-14),2025,fig_3.7.5_Mean score,0.756
+fig_3.7.5,model,Cohere Labs Command A,2025,fig_3.7.5_Mean score,0.767
+fig_3.7.5,model,DeepSeek v3.1,2025,fig_3.7.5_Mean score,0.77
+fig_3.7.5,model,Qwen3-Next 80B A3B Instruct,2025,fig_3.7.5_Mean score,0.773
+fig_3.7.5,model,Llama 4 Maverick (17Bx128E)<br>Instruct FP8,2025,fig_3.7.5_Mean score,0.782
+fig_3.7.5,model,Arabic.AI LLM-S,2025,fig_3.7.5_Mean score,0.784
+fig_3.7.5,model,Gemini 2.5 Flash-Lite,2025,fig_3.7.5_Mean score,0.785
+fig_3.7.5,model,Qwen3 235B A22B<br>Instruct 2507 FP8,2025,fig_3.7.5_Mean score,0.786
+fig_3.7.5,model,GPT-4.1 (2025-04-14),2025,fig_3.7.5_Mean score,0.805
+fig_3.7.5,model,GPT-5.1 (2025-11-13),2025,fig_3.7.5_Mean score,0.809
+fig_3.7.5,model,Gemini 2.5 Flash,2025,fig_3.7.5_Mean score,0.817
+fig_3.7.5,model,Arabic.AI LLM-X,2025,fig_3.7.5_Mean score,0.863
+fig_3.7.6,model,Qwen3-235B-A22B-Thinking-2507,,fig_3.7.6_Score,974
+fig_3.7.6,model,granite-4-h-small,,fig_3.7.6_Score,985
+fig_3.7.6,model,Llama-4-Scout-17B-16E-Instruct,,fig_3.7.6_Score,1082
+fig_3.7.6,model,Qwen3-30B-A3B-Instruct,,fig_3.7.6_Score,1087
+fig_3.7.6,model,gpt-4o-mini,,fig_3.7.6_Score,1089
+fig_3.7.6,model,Llama-3.2-3B-Instruct,,fig_3.7.6_Score,1090
+fig_3.7.6,model,Llama-4-Maverick-17B-128E-Instruct,,fig_3.7.6_Score,1108
+fig_3.7.6,model,gpt-4,,fig_3.7.6_Score,1110
+fig_3.7.6,model,gpt-4.1-nano,,fig_3.7.6_Score,1114
+fig_3.7.6,model,gpt-4o,,fig_3.7.6_Score,1114
+fig_3.7.6,model,gemma-3-12b-it,,fig_3.7.6_Score,1117
+fig_3.7.6,model,Qwen3-235B-A22B-Instruct-2507,,fig_3.7.6_Score,1117
+fig_3.7.6,model,gemma-3-27b-it,,fig_3.7.6_Score,1126
+fig_3.7.6,model,gpt-4.1-mini,,fig_3.7.6_Score,1134
+fig_3.7.6,model,gpt-5-pro,,fig_3.7.6_Score,1142
+fig_3.7.6,model,Qwen3-Next-80B-A3B-Instruct,,fig_3.7.6_Score,1156
+fig_3.7.6,model,gpt-4.1,,fig_3.7.6_Score,1165
+fig_3.7.6,model,gpt-5-nano,,fig_3.7.6_Score,1167
+fig_3.7.6,model,gemini-2.5-flash-lite,,fig_3.7.6_Score,1173
+fig_3.7.6,model,gemini-2.5-flash,,fig_3.7.6_Score,1195
+fig_3.7.6,model,gpt-5,,fig_3.7.6_Score,1198
+fig_3.7.6,model,gpt-5-mini,,fig_3.7.6_Score,1199
+fig_3.7.6,model,gemini-2.5-pro,,fig_3.7.6_Score,1209
+fig_3.7.6,model,gemini-3-pro,,fig_3.7.6_Score,1256
+fig_3.7.6,model,gemini-3-flash,,fig_3.7.6_Score,1288
+fig_3.7.6,model,gpt-5.1,,fig_3.7.6_Score,1298
+fig_3.7.6,model,gpt-5.2,,fig_3.7.6_Score,1314
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_model,GPT-5 model (gpt-5-2025-08-07)
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_accuracy,0.998
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_model,GPT-5 model (gpt-5-2025-08-07)
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_accuracy,0.886
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_model,Gemini 2.5 Pro
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_accuracy,0.986
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_model,Gemini 2.5 Pro
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_accuracy,0.864
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_model,Gemini 2.5 Flash
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_accuracy,0.974
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_model,Gemini 2.5 Flash
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_accuracy,0.742
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_model,GPT-4o (gpt-4o-2024-08-06)
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_accuracy,0.97
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_model,GPT-4o (gpt-4o-2024-08-06)
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_accuracy,0.676
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_model,Claude Haiku 4.5
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_accuracy,0.926
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_model,Claude Haiku 4.5
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_accuracy,0.562
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_model,Mistral Medium 3.1
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_accuracy,0.9
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_model,Mistral Medium 3.1
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_accuracy,0.532
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_model,LLama 3.3
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_accuracy,0.87
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_model,LLama 3.3
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_accuracy,0.536
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_model,Gemma 3
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_accuracy,0.862
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_model,Gemma 3
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_accuracy,0.578
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_model,GPT-3.5-Turbo
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_accuracy,0.842
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_model,GPT-3.5-Turbo
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_accuracy,0.528
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_model,Qwen 3 (Qwen3-2504)
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_accuracy,0.826
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_model,Qwen 3 (Qwen3-2504)
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_accuracy,0.544
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_model,GaMS-27B-Instruct
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_accuracy,0.82
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_model,GaMS-27B-Instruct
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_accuracy,0.51
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_model,DeepSeek-R1-Distill-Qwen-14B
+fig_3.7.7,category,Standard Slovenian,,fig_3.7.7_accuracy,0.53
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_model,DeepSeek-R1-Distill-Qwen-14B
+fig_3.7.7,category,Cerkno dialect,,fig_3.7.7_accuracy,0.492
+fig_3.8.1,model,K2 Think,,fig_3.8.1_Component,Model availability
+fig_3.8.1,model,K2 Think,,fig_3.8.1_Score,6
+fig_3.8.1,model,K2 Think,,fig_3.8.1_Component,Transparency: methodology
+fig_3.8.1,model,K2 Think,,fig_3.8.1_Score,6
+fig_3.8.1,model,K2 Think,,fig_3.8.1_Component,Transparency: post-training data
+fig_3.8.1,model,K2 Think,,fig_3.8.1_Score,2
+fig_3.8.1,model,K2 Think,,fig_3.8.1_Component,Transparency: pre-training data
+fig_3.8.1,model,K2 Think,,fig_3.8.1_Score,2
+fig_3.8.1,model,Olmo 3 32B Think,,fig_3.8.1_Component,Model availability
+fig_3.8.1,model,Olmo 3 32B Think,,fig_3.8.1_Score,6
+fig_3.8.1,model,Olmo 3 32B Think,,fig_3.8.1_Component,Transparency: methodology
+fig_3.8.1,model,Olmo 3 32B Think,,fig_3.8.1_Score,6
+fig_3.8.1,model,Olmo 3 32B Think,,fig_3.8.1_Component,Transparency: post-training data
+fig_3.8.1,model,Olmo 3 32B Think,,fig_3.8.1_Score,2
+fig_3.8.1,model,Olmo 3 32B Think,,fig_3.8.1_Component,Transparency: pre-training data
+fig_3.8.1,model,Olmo 3 32B Think,,fig_3.8.1_Score,2
+fig_3.8.1,model,NVIDIA Nemotron 3 Super,,fig_3.8.1_Component,Model availability
+fig_3.8.1,model,NVIDIA Nemotron 3 Super,,fig_3.8.1_Score,6
+fig_3.8.1,model,NVIDIA Nemotron 3 Super,,fig_3.8.1_Component,Transparency: methodology
+fig_3.8.1,model,NVIDIA Nemotron 3 Super,,fig_3.8.1_Score,6
+fig_3.8.1,model,NVIDIA Nemotron 3 Super,,fig_3.8.1_Component,Transparency: post-training data
+fig_3.8.1,model,NVIDIA Nemotron 3 Super,,fig_3.8.1_Score,3
+fig_3.8.1,model,NVIDIA Nemotron 3 Nano,,fig_3.8.1_Component,Model availability
+fig_3.8.1,model,NVIDIA Nemotron 3 Nano,,fig_3.8.1_Score,6
+fig_3.8.1,model,NVIDIA Nemotron 3 Nano,,fig_3.8.1_Component,Transparency: methodology
+fig_3.8.1,model,NVIDIA Nemotron 3 Nano,,fig_3.8.1_Score,6
+fig_3.8.1,model,NVIDIA Nemotron 3 Nano,,fig_3.8.1_Component,Transparency: post-training data
+fig_3.8.1,model,NVIDIA Nemotron 3 Nano,,fig_3.8.1_Score,3
+fig_3.8.1,model,NVIDIA Nemotron 9B V2,,fig_3.8.1_Component,Model availability
+fig_3.8.1,model,NVIDIA Nemotron 9B V2,,fig_3.8.1_Score,6
+fig_3.8.1,model,NVIDIA Nemotron 9B V2,,fig_3.8.1_Component,Transparency: methodology
+fig_3.8.1,model,NVIDIA Nemotron 9B V2,,fig_3.8.1_Score,4
+fig_3.8.1,model,NVIDIA Nemotron 9B V2,,fig_3.8.1_Component,Transparency: post-training data
+fig_3.8.1,model,NVIDIA Nemotron 9B V2,,fig_3.8.1_Score,3
+fig_3.8.1,model,GLM-5,,fig_3.8.1_Component,Model availability
+fig_3.8.1,model,GLM-5,,fig_3.8.1_Score,6
+fig_3.8.1,model,GLM-5,,fig_3.8.1_Component,Transparency: methodology
+fig_3.8.1,model,GLM-5,,fig_3.8.1_Score,3
+fig_3.8.1,model,gpt-oss-120B (high),,fig_3.8.1_Component,Model availability
+fig_3.8.1,model,gpt-oss-120B (high),,fig_3.8.1_Score,6
+fig_3.8.1,model,gpt-oss-120B (high),,fig_3.8.1_Component,Transparency: methodology
+fig_3.8.1,model,gpt-oss-120B (high),,fig_3.8.1_Score,1
+fig_3.8.1,model,gpt-oss-20B (high),,fig_3.8.1_Component,Model availability
+fig_3.8.1,model,gpt-oss-20B (high),,fig_3.8.1_Score,6
+fig_3.8.1,model,gpt-oss-20B (high),,fig_3.8.1_Component,Transparency: methodology
+fig_3.8.1,model,gpt-oss-20B (high),,fig_3.8.1_Score,1
+fig_3.8.1,model,Mistral Large 3,,fig_3.8.1_Component,Model availability
+fig_3.8.1,model,Mistral Large 3,,fig_3.8.1_Score,6
+fig_3.8.1,model,Mistral Large 3,,fig_3.8.1_Component,Transparency: methodology
+fig_3.8.1,model,Mistral Large 3,,fig_3.8.1_Score,1
+fig_3.8.1,model,Qwen3.5 397B A17B,,fig_3.8.1_Component,Model availability
+fig_3.8.1,model,Qwen3.5 397B A17B,,fig_3.8.1_Score,6
+fig_3.8.1,model,Qwen3.5 397B A17B,,fig_3.8.1_Component,Transparency: methodology
+fig_3.8.1,model,Qwen3.5 397B A17B,,fig_3.8.1_Score,1
+fig_3.8.1,model,Kimi K2.5,,fig_3.8.1_Component,Model availability
+fig_3.8.1,model,Kimi K2.5,,fig_3.8.1_Score,4
+fig_3.8.1,model,Kimi K2.5,,fig_3.8.1_Component,Transparency: methodology
+fig_3.8.1,model,Kimi K2.5,,fig_3.8.1_Score,2
+fig_3.8.1,model,Llama 4 Maverick,,fig_3.8.1_Component,Model availability
+fig_3.8.1,model,Llama 4 Maverick,,fig_3.8.1_Score,4
+fig_3.8.1,model,Llama 4 Maverick,,fig_3.8.1_Component,Transparency: methodology
+fig_3.8.1,model,Llama 4 Maverick,,fig_3.8.1_Score,1
+fig_3.8.1,model,K-EXAONE,,fig_3.8.1_Component,Model availability
+fig_3.8.1,model,K-EXAONE,,fig_3.8.1_Score,4
+fig_3.8.1,model,K-EXAONE,,fig_3.8.1_Component,Transparency: methodology
+fig_3.8.1,model,K-EXAONE,,fig_3.8.1_Score,1
+fig_3.8.1,model,Claude 4.5 Haiku,,fig_3.8.1_Component,Model availability
+fig_3.8.1,model,Claude 4.5 Haiku,,fig_3.8.1_Score,2
+fig_3.8.3,country,GBR,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,USA,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,JPN,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,SGP,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,ISR,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,IND,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,FRA,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,KOR,,fig_3.8.3_Status_Category,Announced (in development)
+fig_3.8.3,country,CAN,,fig_3.8.3_Status_Category,Announced (in development)
+fig_3.8.3,country,DEU,,fig_3.8.3_Status_Category,Announced (in development)
+fig_3.8.3,country,BRA,,fig_3.8.3_Status_Category,Announced (in development)
+fig_3.8.3,country,KEN,,fig_3.8.3_Status_Category,Network member (no formal institute)
+fig_3.8.3,country,AUS,,fig_3.8.3_Status_Category,Network member (no formal institute)
+fig_3.8.3,country,AUT,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,BEL,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,BGR,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,HRV,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,CYP,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,CZE,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,DNK,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,EST,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,FIN,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,FRA,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,DEU,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,GRC,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,HUN,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,IRL,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,ITA,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,LVA,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,LTU,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,LUX,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,MLT,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,NLD,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,POL,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,PRT,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,ROU,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,SVK,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,SVN,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,ESP,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.8.3,country,SWE,,fig_3.8.3_Status_Category,Established (operational)
+fig_3.9.2,model,Mistral Instruct v0.1 (7B),2023,fig_3.9.2_Mean score,0.53
+fig_3.9.2,model,GPT-3.5 Turbo (0125),2023,fig_3.9.2_Mean score,0.81
+fig_3.9.2,model,GPT-3.5 Turbo (1106),2023,fig_3.9.2_Mean score,0.84
+fig_3.9.2,model,GPT-3.5 Turbo (0613),2023,fig_3.9.2_Mean score,0.85
+fig_3.9.2,model,DeepSeek LLM Chat (67B),2023,fig_3.9.2_Mean score,0.87
+fig_3.9.2,model,DBRX Instruct,2024,fig_3.9.2_Mean score,0.63
+fig_3.9.2,model,Mistral Instruct v0.3 (7B),2024,fig_3.9.2_Mean score,0.73
+fig_3.9.2,model,Command R,2024,fig_3.9.2_Mean score,0.81
+fig_3.9.2,model,Mixtral Instruct (8x7B),2024,fig_3.9.2_Mean score,0.81
+fig_3.9.2,model,Llama 3.1 Instruct Turbo (70B),2024,fig_3.9.2_Mean score,0.85
+fig_3.9.2,model,Mixtral Instruct (8x22B),2024,fig_3.9.2_Mean score,0.85
+fig_3.9.2,model,Command R Plus,2024,fig_3.9.2_Mean score,0.86
+fig_3.9.2,model,Llama 3.1 Instruct Turbo (8B),2024,fig_3.9.2_Mean score,0.86
+fig_3.9.2,model,DeepSeek v3,2024,fig_3.9.2_Mean score,0.87
+fig_3.9.2,model,Claude 3 Haiku (20240307),2024,fig_3.9.2_Mean score,0.88
+fig_3.9.2,model,Qwen1.5 Chat (72B),2024,fig_3.9.2_Mean score,0.89
+fig_3.9.2,model,Llama 3 Instruct (8B),2024,fig_3.9.2_Mean score,0.89
+fig_3.9.2,model,Llama 3 Instruct (70B),2024,fig_3.9.2_Mean score,0.90
+fig_3.9.2,model,Llama 3.1 Instruct Turbo (405B),2024,fig_3.9.2_Mean score,0.90
+fig_3.9.2,model,Gemini 1.5 Pro (001),2024,fig_3.9.2_Mean score,0.92
+fig_3.9.2,model,Gemini 1.5 Flash (001),2024,fig_3.9.2_Mean score,0.93
+fig_3.9.2,model,GPT-4o mini (2024-07-18),2024,fig_3.9.2_Mean score,0.93
+fig_3.9.2,model,Qwen2 Instruct (72B),2024,fig_3.9.2_Mean score,0.93
+fig_3.9.2,model,Claude 3 Sonnet (20240229),2024,fig_3.9.2_Mean score,0.94
+fig_3.9.2,model,GPT-4o (2024-05-13),2024,fig_3.9.2_Mean score,0.95
+fig_3.9.2,model,o1-mini (2024-09-12),2024,fig_3.9.2_Mean score,0.96
+fig_3.9.2,model,GPT-4 Turbo (2024-04-09),2024,fig_3.9.2_Mean score,0.96
+fig_3.9.2,model,Claude 3 Opus (20240229),2024,fig_3.9.2_Mean score,0.97
+fig_3.9.2,model,o1 (2024-12-17),2024,fig_3.9.2_Mean score,0.98
+fig_3.9.2,model,Claude 3.5 Sonnet (20240620),2024,fig_3.9.2_Mean score,0.98
+fig_3.9.2,model,DeepSeek R1,2025,fig_3.9.2_Mean score,0.87
+fig_3.9.2,model,DeepSeek R1 (hide reasoning),2025,fig_3.9.2_Mean score,0.87
+fig_3.9.2,model,o3-mini (2025-01-31),2025,fig_3.9.2_Mean score,0.96

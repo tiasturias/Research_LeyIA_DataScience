@@ -1,0 +1,127 @@
+variable,tipo,anos,framework,descripcion
+iso3,string,2019-2025,todos,Codigo ISO 3166-1 alpha-3 del pais
+entity_type,string,2019-2025,todos,"Tipo de entidad: pais, region"
+pais_original,string,2019-2025,todos,Nombre exacto del pais en el Excel fuente de ese ano
+year,int,2019-2025,todos,Ano del indice
+scale,string,2019-2025,todos,Escala del total_score: 0-10 (2019) o 0-100 (2020-2025)
+framework,string,2019-2025,todos,"Framework usado: 4_clusters, 3_pillars_10_dims, 6_pillars_14_dims"
+total_score,float,2019-2025,todos,Puntaje indice de preparacion gubernamental para IA. Escala 0-10 (2019) o 0-100 (2020-2025)
+rank,int,2020-2025,"3_pillars_10_dims,6_pillars_14_dims",Ranking global (1=mejor). No existe en 2019 en el Consolidado (ver Rankings_Regionales_2019)
+privacy_laws,int,2019,4_clusters,"Leyes de privacidad: 0=no, 1=si"
+ai_strategy,int,2019,4_clusters,"Estrategia IA: 0=none, 1=forthcoming, 2=yes"
+data_availability,float,2019,4_clusters,"Disponibilidad de datos abiertos (OKFN, escala 1-100)"
+govt_procurement_advanced_tech,float,2019,4_clusters,Compras gubernamentales de tecnologia avanzada (WEF NRI)
+data_capability_govt,float,2019,4_clusters,"Capacidad de datos en gobierno (UN e-gov index, 0-1)"
+technology_skills,float,2019,4_clusters,Habilidades tecnologicas (WEF GCR)
+ai_startups,int,2019,4_clusters,"Numero de startups IA (Crunchbase, conteo directo)"
+log_ai_startups,float,2019,4_clusters,Log de AI startups
+innovation_capability,float,2019,4_clusters,Capacidad de innovacion sector privado (WEF GCR)
+digital_public_services,float,2019,4_clusters,"Servicios publicos digitales (UN e-gov, 0-1)"
+govt_effectiveness,float,2019,4_clusters,Efectividad del gobierno (World Bank)
+ict_govt_vision,float,2019,4_clusters,Importancia TIC en vision de gobierno (WEF NRI)
+norm_privacy_laws,float,2019,4_clusters,Normalizado (0-1): Privacy laws
+norm_ai_strategy,float,2019,4_clusters,Normalizado (0-1): AI strategy
+norm_data_availability,float,2019,4_clusters,Normalizado (0-1): Data availability
+norm_govt_procurement,float,2019,4_clusters,Normalizado (0-1): Gov't procurement
+norm_data_capability,float,2019,4_clusters,Normalizado (0-1): Data capability
+norm_technology_skills,float,2019,4_clusters,Normalizado (0-1): Technology skills
+norm_log_ai_startups,float,2019,4_clusters,Normalizado (0-1): Log AI startups
+norm_innovation_capability,float,2019,4_clusters,Normalizado (0-1): Innovation capability
+norm_digital_public_services,float,2019,4_clusters,Normalizado (0-1): Digital public services
+norm_govt_effectiveness,float,2019,4_clusters,Normalizado (0-1): Govt effectiveness
+norm_ict_govt_vision,float,2019,4_clusters,Normalizado (0-1): ICT govt vision
+avg_governance,float,2019,4_clusters,Promedio cluster Governance (0-1)
+avg_infrastructure_data,float,2019,4_clusters,Promedio cluster Infrastructure and data (0-1)
+avg_skills_education,float,2019,4_clusters,Promedio cluster Skills and education (0-1)
+avg_govt_public_services,float,2019,4_clusters,Promedio cluster Government and public services (0-1)
+government,float,2020-2024,3_pillars_10_dims,Pilar Government (0-100). Capacidad gubernamental para IA
+technology_sector,float,2020-2024,3_pillars_10_dims,Pilar Technology Sector (0-100). Madurez del ecosistema tecnologico
+data_infrastructure,float,2020-2024,3_pillars_10_dims,Pilar Data and Infrastructure (0-100). Datos e infraestructura
+vision,float,2020-2024,3_pillars_10_dims,Dimension Vision (0-100). Estrategia nacional IA
+governance_ethics,float,2020-2024,3_pillars_10_dims,Dimension Governance and Ethics (0-100)
+digital_capacity,float,2020-2024,3_pillars_10_dims,Dimension Digital Capacity (0-100)
+adaptability,float,2020-2024,3_pillars_10_dims,Dimension Adaptability (0-100)
+size,float,2020-2021,3_pillars_10_dims,"Dimension Size (0-100, solo 2020-2021). Renombrada a maturity desde 2022"
+maturity,float,2022-2024,3_pillars_10_dims,"Dimension Maturity (0-100, desde 2022). Antes llamada Size"
+innovation_capacity,float,2020-2024,3_pillars_10_dims,Dimension Innovation Capacity (0-100)
+human_capital,float,2020-2024,3_pillars_10_dims,Dimension Human Capital (0-100)
+infrastructure,float,2020-2024,3_pillars_10_dims,Dimension Infrastructure (0-100)
+data_availability,float,2020-2024,3_pillars_10_dims,Dimension Data Availability (0-100)
+data_representativeness,float,2020-2024,3_pillars_10_dims,Dimension Data Representativeness (0-100). Tiene missing en 2020-2023
+ranking_detail,float,2024,3_pillars_10_dims,Ranking dentro de detailed scores 2024. 82 missing (solo 106 paises rankeados)
+policy_capacity,float,2025,6_pillars_14_dims,Pilar Policy Capacity (0-100). Capacidad de diseno politico IA
+ai_infrastructure,float,2025,6_pillars_14_dims,Pilar AI Infrastructure (0-100). Condiciones tecnicas para IA
+governance_2025,float,2025,6_pillars_14_dims,Pilar Governance (0-100). Marco de gobernanza IA (nota: distinto del pilar Government 2020-2024)
+public_sector_adoption,float,2025,6_pillars_14_dims,Pilar Public Sector Adoption (0-100). Adopcion IA en sector publico
+development_diffusion,float,2025,6_pillars_14_dims,Pilar Development and Diffusion (0-100). Desarrollo y difusion IA
+resilience,float,2025,6_pillars_14_dims,Pilar Resilience (0-100). Resiliencia ante impactos de IA
+policy_vision,float,2025,6_pillars_14_dims,Dimension Policy vision (0-100)
+policy_commitment,float,2025,6_pillars_14_dims,Dimension Policy commitment (0-100)
+compute_capacity,float,2025,6_pillars_14_dims,Dimension Compute capacity (0-100)
+enabling_technical_infrastructure,float,2025,6_pillars_14_dims,Dimension Enabling technical infrastructure (0-100)
+data_quality,float,2025,6_pillars_14_dims,Dimension Data quality (0-100)
+governance_principles,float,2025,6_pillars_14_dims,Dimension Governance principles (0-100)
+regulatory_compliance,float,2025,6_pillars_14_dims,Dimension Regulatory compliance (0-100)
+government_digital_policy,float,2025,6_pillars_14_dims,Dimension Government digital policy (0-100)
+e_government_delivery,float,2025,6_pillars_14_dims,Dimension e-Government delivery (0-100)
+human_capital_2025,float,2025,6_pillars_14_dims,Dimension Human capital (0-100). Nota: distinto de human_capital 2020-2024
+ai_sector_maturity,float,2025,6_pillars_14_dims,Dimension AI sector maturity (0-100)
+ai_technology_diffusion,float,2025,6_pillars_14_dims,Dimension AI technology diffusion (0-100)
+societal_transition,float,2025,6_pillars_14_dims,Dimension Societal transition (0-100)
+safety_security,float,2025,6_pillars_14_dims,Dimension Safety and security (0-100)
+ind_ai_strategy,float,2023,3_pillars_10_dims,"Indicador: AI strategy (0-100, ternario)"
+ind_data_protection_laws,float,2023,3_pillars_10_dims,Indicador: Data protection and privacy laws (0-100)
+ind_cybersecurity,float,2023,3_pillars_10_dims,Indicador: Cybersecurity (0-100)
+ind_regulatory_quality,float,2023,3_pillars_10_dims,Indicador: Regulatory quality (0-100)
+ind_ethical_principles,float,2023,3_pillars_10_dims,"Indicador: Ethical principles (0-100, ternario)"
+ind_accountability,float,2023,3_pillars_10_dims,Indicador: Accountability (0-100)
+ind_online_services,float,2023,3_pillars_10_dims,Indicador: Online services (0-100)
+ind_foundational_it,float,2023,3_pillars_10_dims,Indicador: Foundational IT infrastructure (0-100)
+ind_govt_promotion_emerging_tech,float,2023,3_pillars_10_dims,Indicador: Govt Promotion of Investment in Emerging Tech (0-100)
+ind_govt_effectiveness,float,2023,3_pillars_10_dims,Indicador: Government Effectiveness (0-100)
+ind_govt_responsiveness,float,2023,3_pillars_10_dims,Indicador: Government responsiveness to change (0-100)
+ind_procurement_data,float,2023,3_pillars_10_dims,Indicador: Procurement Data (0-100)
+ind_ai_unicorns_log,float,2023,3_pillars_10_dims,Indicador: Number of AI Unicorns log transformation (0-100)
+ind_non_ai_unicorns_log,float,2023,3_pillars_10_dims,Indicador: Number of non-AI Unicorns log transformation (0-100)
+ind_ict_trade_services_log,float,2023,3_pillars_10_dims,Indicador: Value of trade in ICT services per capita log (0-100)
+ind_ict_trade_goods_log,float,2023,3_pillars_10_dims,Indicador: Value of trade in ICT goods per capita log (0-100)
+ind_software_spending,float,2023,3_pillars_10_dims,Indicador: Computer software spending (0-100)
+ind_time_govt_regulations,float,2023,3_pillars_10_dims,Indicador: Time spent dealing with govt regulations (0-100)
+ind_vc_availability,float,2023,3_pillars_10_dims,Indicador: VC availability (0-100)
+ind_rd_spending_log,float,2023,3_pillars_10_dims,Indicador: R&D Spending log transformation (0-100)
+ind_company_investment_emerging_tech,float,2023,3_pillars_10_dims,Indicador: Company investment in emerging technology (0-100)
+ind_ai_research_papers_log,float,2023,3_pillars_10_dims,Indicador: AI research papers log transformation (0-100)
+ind_stem_graduates,float,2023,3_pillars_10_dims,Indicador: Graduates in STEM or computer science (0-100)
+ind_github_activity_log,float,2023,3_pillars_10_dims,Indicador: Github Activity log transformation (0-100)
+ind_female_stem_graduates,float,2023,3_pillars_10_dims,Indicador: Female STEM Graduates (0-100)
+ind_eng_tech_higher_ed_quality,float,2023,3_pillars_10_dims,Indicador: Quality of Engineering and Technology Higher Ed (0-100)
+ind_ict_skills,float,2023,3_pillars_10_dims,Indicador: ICT skills (0-100)
+ind_telecom_infrastructure,float,2023,3_pillars_10_dims,Indicador: Telecommunications Infrastructure (0-100)
+ind_supercomputers_log,float,2023,3_pillars_10_dims,Indicador: Supercomputers log transformation (0-100)
+ind_broadband_quality,float,2023,3_pillars_10_dims,Indicador: Broadband Quality (0-100)
+ind_5g_infrastructure,float,2023,3_pillars_10_dims,"Indicador: 5G Infrastructure (0-100, binario)"
+ind_adoption_emerging_tech,float,2023,3_pillars_10_dims,Indicador: Adoption of Emerging Technologies (0-100)
+ind_open_data,float,2023,3_pillars_10_dims,Indicador: Open Data (0-100)
+ind_data_governance,float,2023,3_pillars_10_dims,"Indicador: Data governance (0-100, ternario)"
+ind_mobile_subscriptions,float,2023,3_pillars_10_dims,Indicador: Mobile-cellular telephone subscriptions (0-100)
+ind_households_internet,float,2023,3_pillars_10_dims,Indicador: Households with internet access (0-100)
+ind_statistical_capacity,float,2023,3_pillars_10_dims,Indicador: Statistical Capacity (0-100)
+ind_cost_internet_device,float,2023,3_pillars_10_dims,"Indicador: Cost of cheapest internet-enabled device (0-100, invertido)"
+ind_gender_gap_internet,float,2023,3_pillars_10_dims,"Indicador: Gender gap in internet access (0-100, 100=sin brecha)"
+rank_global,int,2019,4_clusters,Ranking global en 2019 (hoja Rankings)
+score_global,float,2019,4_clusters,"Score global en 2019 (hoja Rankings, escala 0-10)"
+rank_asia_pacific,float,2019,4_clusters,Ranking regional Asia-Pacific en 2019
+score_asia_pacific,float,2019,4_clusters,Score regional Asia-Pacific en 2019
+rank_africa,float,2019,4_clusters,Ranking regional Africa en 2019
+score_africa,float,2019,4_clusters,Score regional Africa en 2019
+rank_latam,float,2019,4_clusters,Ranking regional Latin America and Caribbean en 2019
+score_latam,float,2019,4_clusters,Score regional Latin America and Caribbean en 2019
+rank_north_america,float,2019,4_clusters,Ranking regional North America en 2019
+score_north_america,float,2019,4_clusters,Score regional North America en 2019
+rank_eastern_europe,float,2019,4_clusters,Ranking regional Eastern Europe en 2019
+score_eastern_europe,float,2019,4_clusters,Score regional Eastern Europe en 2019
+rank_australasia,float,2019,4_clusters,Ranking regional Australia/NZ en 2019
+score_australasia,float,2019,4_clusters,Score regional Australia/NZ en 2019
+rank_western_europe,float,2019,4_clusters,Ranking regional Western Europe en 2019
+score_western_europe,float,2019,4_clusters,Score regional Western Europe en 2019
+region_pertenece,string,2019,4_clusters,Region a la que pertenece el pais segun Oxford Insights 2019

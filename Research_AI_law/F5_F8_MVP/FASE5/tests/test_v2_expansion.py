@@ -44,7 +44,7 @@ def test_v1_vars_preserved_byte_for_byte(phase5_results):
 def test_modeling_contract_has_q5_q6(phase5_results):
     with open(PHASE6_READY / "phase6_modeling_contract.yaml", encoding="utf-8") as f:
         contract = yaml.safe_load(f)
-    assert contract["version"] == "0.2"
+    assert contract["version"] == "0.3"
     assert "Q5" in contract["questions"]
     assert "Q6" in contract["questions"]
     assert "Y_Q5_population_usage" in contract["variables_by_role"]

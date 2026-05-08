@@ -1,114 +1,97 @@
-"""Q2 Adopción: Logistic + Random Forest sobre Y binarizada."""
+"""Q2: Adopción y difusión."""
 
-from __future__ import annotations
-import numpy as np
 import pandas as pd
-from sklearn.linear_model import LogisticRegression
-
-from ._common_data import (
-    load_bundle, get_x2_controls, get_x1_aggregated, F5_F8_MVP,
-)
-from ._common_classification import (
-    binarize_by_median, fit_logistic_cv, fit_random_forest_cv,
-)
-
-OUTPUTS = F5_F8_MVP / "FASE6" / "outputs"
-
-Y_VARS_Q2 = [
-    "ms_h2_2025_ai_diffusion_pct",
-    "ms_h1_2025_ai_diffusion_pct",
-    "anthropic_usage_pct",
-    "anthropic_collaboration_pct",
-    "oecd_5_ict_business_oecd_biz_ai_pct",
-    "oxford_public_sector_adoption",
-    "oxford_ind_adoption_emerging_tech",
-]
+from ._common_design import ModelDesign, build_model_frame
+from ._common_fractional import fit_fractional_logit_or_ols
+from ._common_bootstrap import bootstrap_coefficients
+from ._common_classification import fit_binary_median_sensitivity
 
 
-def run_q2(seed: int = 42) -> dict:
-    bundle = load_bundle()
-    fm = bundle["feature_matrix"].copy()
-    x1_agg = get_x1_aggregated()
-    x2 = get_x2_controls()
-
-    def col_z(c):
-        return f"{c}_z" if f"{c}_z" in fm.columns else c
-    x1_z = [col_z(c) for c in x1_agg]
-    x2_z = [col_z(c) for c in x2]
-
-    rows = []
-    rows_predictions = []
-
-    for y in Y_VARS_Q2:
-        if y not in fm.columns:
+def run_q2(fm: pd.DataFrame, config: dict) -> tuple[pd.DataFrame, pd.DataFrame]:
+    questions_cfg = config.get("questions", {})
+    q2_cfg = questions_cfg.get("Q2_adoption", {})
+    outcomes = q2_cfg.get("primary_outcomes", [])
+    
+    predictor_sets = config.get("predictor_sets", {})
+    x1_core = predictor_sets.get("regulatory_core", ["n_binding", "n_non_binding"])
+    x2_minimal = predictor_sets.get("controls_minimal", ["wb_gdp_per_capita_ppp_log", "wb_internet_penetration"])
+    
+    results = []
+    scores = []
+    
+    for outcome in outcomes:
+        if outcome not in fm.columns:
             continue
-        sub = fm[[y, "iso3"] + x1_z + x2_z].dropna()
-        if len(sub) < 20:
-            continue
-        y_binary, threshold = binarize_by_median(sub[y])
-        sub = sub.assign(y_binary=y_binary.values)
-        sub_y = sub.copy()
-
-        log = fit_logistic_cv(sub_y, "y_binary", x1_z + x2_z, seed=seed)
-        rf = fit_random_forest_cv(sub_y, "y_binary", x1_z + x2_z, seed=seed)
-
-        if log.get("status") == "ok":
-            rows.append({
-                "question": "Q2", "y_var": y,
-                "binarization_threshold_value": float(threshold),
-                "binarization_method": "median",
-                "model": "Logistic", "x_var": "__model_metadata__",
-                "n_effective": log["n"],
-                "n_class_0": log["n_class_0"], "n_class_1": log["n_class_1"],
-                "auc_cv_5fold_mean": log["auc_cv_5fold_mean"],
-                "auc_cv_5fold_std": log["auc_cv_5fold_std"],
-                "auc_loocv": log["auc_loocv"],
-                "confusion_tp": log["confusion_tp"], "confusion_tn": log["confusion_tn"],
-                "confusion_fp": log["confusion_fp"], "confusion_fn": log["confusion_fn"],
-                "model_hyperparams_json": '{"penalty":"l2","C":1.0}',
-                "seed": seed,
-            })
-            for x, coef in log["logistic_coef"].items():
-                rows.append({
-                    "question": "Q2", "y_var": y, "model": "Logistic", "x_var": x,
-                    "coefficient_or_importance": coef,
-                    "n_effective": log["n"], "seed": seed,
+            
+        for predictor in x1_core:
+            # Primary Continuous/Fractional Model
+            design = ModelDesign(
+                question="Q2",
+                outcome=outcome,
+                predictors=[predictor],
+                controls=x2_minimal,
+                model_family="fractional_or_linear_by_scale",
+                analysis_role="primary_continuous_or_fractional",
+            )
+            sub, meta = build_model_frame(fm, design)
+            if meta["status"] != "ok":
+                results.append(meta)
+                continue
+                
+            fit_res = fit_fractional_logit_or_ols(sub, outcome, [predictor] + x2_minimal)
+            
+            def boot_func(sample):
+                res = fit_fractional_logit_or_ols(sample, outcome, [predictor] + x2_minimal)
+                return {r["term"]: r["estimate"] for r in res["rows"]}
+                
+            boot_res = bootstrap_coefficients(boot_func, sub, [predictor])
+            boot_dict = boot_res.set_index("term").to_dict("index")
+            
+            for row in fit_res["rows"]:
+                if row["term"] == predictor:
+                    rec = {**meta, **row, "fit_status": fit_res["fit_status"]}
+                    if predictor in boot_dict:
+                        b = boot_dict[predictor]
+                        rec["ci95_low"] = b["ci_low"]
+                        rec["ci95_high"] = b["ci_high"]
+                        rec["ci_method"] = b["ci_method"]
+                        rec["bootstrap_success_rate"] = b["bootstrap_success_rate"]
+                    
+                    rec["primary_analysis"] = True
+                    rec["external_validation_used"] = False
+                    rec["independent_prediction"] = False
+                    rec["causal_claim"] = False
+                    results.append(rec)
+            
+            # Sensitivity Binary Median Model
+            med = sub[outcome].median()
+            y_bin = (sub[outcome] >= med).astype(int)
+            bin_res = fit_binary_median_sensitivity(sub[[predictor] + x2_minimal].values, y_bin)
+            bin_rec = {
+                **meta,
+                **bin_res,
+                "analysis_role": "sensitivity_binary_median",
+                "primary_analysis": False,
+                "term": predictor,
+            }
+            results.append(bin_rec)
+            
+            # Descriptive In-Sample Scores
+            for idx, r in sub.iterrows():
+                scores.append({
+                    "iso3": r["iso3"],
+                    "question": "Q2",
+                    "outcome": outcome,
+                    "predictor": predictor,
+                    "score_value": float(r[outcome]),
+                    "score_scope": "in_sample_descriptive_positioning",
+                    "independent_prediction": False,
+                    "holdout_used": False,
+                    "analysis_scope": "full_preregistered_sample_available_by_outcome"
                 })
 
-        if rf.get("status") == "ok":
-            rows.append({
-                "question": "Q2", "y_var": y, "model": "RandomForest",
-                "x_var": "__model_metadata__",
-                "n_effective": rf["n"],
-                "auc_cv_5fold_mean": rf["auc_cv_5fold_mean"],
-                "auc_cv_5fold_std": rf["auc_cv_5fold_std"],
-                "auc_loocv": rf["auc_loocv"],
-                "model_hyperparams_json": '{"n_estimators":300,"max_depth":4}',
-                "seed": seed,
-            })
-            for x, imp in rf["feature_importance"].items():
-                rows.append({
-                    "question": "Q2", "y_var": y, "model": "RandomForest", "x_var": x,
-                    "coefficient_or_importance": imp,
-                    "n_effective": rf["n"], "seed": seed,
-                })
-
-        # Predicciones por país
-        if log.get("status") == "ok":
-            X_full = sub_y[x1_z + x2_z].values
-            full_log = LogisticRegression(
-                penalty="l2", C=1.0, max_iter=1000,
-                class_weight="balanced", random_state=seed,
-            ).fit(X_full, sub_y["y_binary"].values)
-            probs = full_log.predict_proba(X_full)[:, 1]
-            for iso3, prob in zip(sub_y["iso3"].values, probs):
-                rows_predictions.append({
-                    "y_var": y, "iso3": iso3,
-                    "p_high_adoption": float(prob),
-                    "model": "Logistic_in_sample", "seed": seed,
-                })
-
-    pd.DataFrame(rows).to_csv(OUTPUTS / "q2_results.csv", index=False)
-    pd.DataFrame(rows_predictions).to_csv(OUTPUTS / "q2_predictions_per_country.csv", index=False)
-
-    return {"n_rows": len(rows)}
+    df_scores = pd.DataFrame(scores)
+    if not df_scores.empty and "country_name_canonical" in fm.columns:
+        df_scores = df_scores.merge(fm[["iso3", "country_name_canonical"]], on="iso3", how="left")
+        
+    return pd.DataFrame(results), df_scores

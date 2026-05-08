@@ -1,0 +1,114 @@
+================================================================================
+AUDITORIA PROFESIONAL DE INTEGRIDAD DE DATOS
+Oxford_Insights_Unificado.xlsx
+================================================================================
+
+Fecha: 2026-05-04 14:57:34.728400
+Fuentes a verificar: 7 archivos .xlsx originales
+Objetivo: 0 datos sinteticos, 0 estimaciones, 0 invenciones
+
+
+----------------------------------------------------------------------
+PARTE 1a: 2019 — Data sheet (raw indicators + normalized + clusters)
+----------------------------------------------------------------------
+  2019: 194 paises verificados, 28 variables c/u
+  2019: 5432 checks hasta ahora
+
+----------------------------------------------------------------------
+PARTE 1b: 2020 — Detailed scores
+----------------------------------------------------------------------
+  2020: 172 paises verificados, 14 variables c/u
+
+----------------------------------------------------------------------
+PARTE 1c: 2021 — Detailed scores
+----------------------------------------------------------------------
+  2021: 160 paises verificados, 14 variables c/u
+
+----------------------------------------------------------------------
+PARTE 1d: 2022 — Detailed scores (con Maturity)
+----------------------------------------------------------------------
+  2022: 181 paises verificados, 14 variables c/u
+
+----------------------------------------------------------------------
+PARTE 1e: 2023 — Pillar & dimension scores
+----------------------------------------------------------------------
+  2023 pillars: 193 paises verificados, 14 variables c/u
+
+----------------------------------------------------------------------
+PARTE 1f: 2023 — Indicator scores (39 indicadores)
+----------------------------------------------------------------------
+  2023 indicators: 193 paises verificados, 39 variables c/u
+
+----------------------------------------------------------------------
+PARTE 1g: 2024 — Scores per pillar and dimension
+----------------------------------------------------------------------
+  2024: 188 paises verificados, 15 variables c/u
+
+----------------------------------------------------------------------
+PARTE 1h: 2025 — Dimensions-Pillars
+----------------------------------------------------------------------
+  2025: 195 paises verificados, 21 variables c/u
+
+----------------------------------------------------------------------
+PARTE 2: Detalle_2019 vs fuente Data sheet
+----------------------------------------------------------------------
+  Detalle_2019: 194 paises verificados
+
+----------------------------------------------------------------------
+PARTE 3: Rankings_Regionales_2019 vs fuente Rankings sheet
+----------------------------------------------------------------------
+  Rankings: 181 entradas verificadas
+
+----------------------------------------------------------------------
+PARTE 4: DETECCION DE POSIBLES DATOS SINTETICOS
+----------------------------------------------------------------------
+  Verificando que variables que NO existen en un ano sean NaN:
+  ✓ 2019/government: 100% NaN (194/194)
+  ✓ 2019/technology_sector: 100% NaN (194/194)
+  ✓ 2019/policy_capacity: 100% NaN (194/194)
+  ✓ 2020/policy_capacity: 100% NaN (172/172)
+  ✓ 2020/ai_infrastructure: 100% NaN (172/172)
+  ✓ 2021/policy_capacity: 100% NaN (160/160)
+  ✓ 2021/governance_2025: 100% NaN (160/160)
+  ✓ 2022/policy_capacity: 100% NaN (181/181)
+  ✓ 2022/size: 100% NaN (181/181)
+  ✓ 2023/policy_capacity: 100% NaN (193/193)
+  ✓ 2023/size: 100% NaN (193/193)
+  ✓ 2024/policy_capacity: 100% NaN (188/188)
+  ✓ 2024/size: 100% NaN (188/188)
+  ✓ 2025/government: 100% NaN (195/195)
+  ✓ 2025/size: 100% NaN (195/195)
+  ✓ 2025/maturity: 100% NaN (195/195)
+  Verificando que variables que SI existen tengan datos reales:
+  ✓ 2020/government: 195/172 con datos reales
+  ✓ 2020/total_score: 172/172 con datos reales
+  ✓ 2020/vision: 172/172 con datos reales
+  ✓ 2021/total_score: 172/160 con datos reales
+  ✓ 2022/maturity: 160/181 con datos reales
+  ✓ 2023/ind_ai_strategy: 181/193 con datos reales
+  ✓ 2024/ranking_detail: 111/188 con datos reales
+  ✓ 2025/policy_capacity: 188/195 con datos reales
+  Verificando variacion natural de datos (columnas constantes = posible sintesis):
+  Verificando que rankings regionales no duplican scores principales:
+
+----------------------------------------------------------------------
+PARTE 5: Verificacion de ISO3 mapping
+----------------------------------------------------------------------
+  Verificando que iso3 proviene del mapping manual, no de datos externos:
+  ✓ Todos los 229 paises unicos tienen ISO3
+  ✓ 0 filas sin ISO3 en Consolidado
+
+================================================================================
+RESULTADO DE LA AUDITORIA
+================================================================================
+
+  Total de valores verificados contra fuentes originales: 29758
+  Discrepancias encontradas: 0
+  Errores reportados: 0
+
+  ✅ CONCLUSION: AUDITORIA PASADA
+  No se encontraron datos sinteticos, estimados ni inventados.
+  Cada valor verificado coincide exactamente con su fuente original.
+  Las columnas derivadas (iso3, entity_type, scale, framework)
+  son metadatos agregados durante la consolidacion y estan
+  documentadas como tales en Diccionario_Variables y Fuentes_Directas.

@@ -1,0 +1,43 @@
+iso3,country_name,is_top_5_q1,is_bottom_5_q1,is_top_5_q2,is_bottom_5_q2,is_top_5_q3,is_bottom_5_q3,is_top_5_q5,is_bottom_5_q5,is_top_5_q6,is_bottom_5_q6,is_consistent_pioneer,is_consistent_laggard,is_chile_benchmark,is_latam_leader,headline_candidate,suggested_headline,caution_note
+ARE,United Arab Emirates,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True,benchmark relevante para Chile,Descriptive flag; verify robustness in Fase 7.
+ARG,Argentina,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+AUS,Australia,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+AUT,Austria,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+BEL,Belgium,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+BGR,Bulgaria,False,False,False,True,False,False,False,True,False,True,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+BRA,Brazil,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,benchmark relevante para Chile,Descriptive flag; verify robustness in Fase 7.
+CAN,Canada,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+CHE,Switzerland,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+CHL,Chile,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+CHN,China,False,False,False,True,True,False,False,True,False,True,False,True,False,False,True,caso rezagado para aprendizaje de errores,Descriptive flag; verify robustness in Fase 7.
+COL,Colombia,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+CRI,Costa Rica,False,False,False,True,False,True,False,False,False,True,False,True,False,False,True,caso rezagado para aprendizaje de errores,Descriptive flag; verify robustness in Fase 7.
+CZE,Czech Republic,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+DEU,Germany,False,False,True,False,False,False,True,False,False,False,True,False,False,False,True,caso pionero consistente,Descriptive flag; verify robustness in Fase 7.
+DNK,Denmark,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+ESP,Spain,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+EST,Estonia,False,False,False,False,False,False,False,False,True,False,False,False,True,False,True,benchmark relevante para Chile,Descriptive flag; verify robustness in Fase 7.
+FIN,Finland,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+FRA,France,False,False,True,False,False,False,False,False,True,False,True,False,False,False,True,caso pionero consistente,Descriptive flag; verify robustness in Fase 7.
+GBR,United Kingdom,True,False,False,False,True,False,True,False,False,False,True,False,False,False,True,caso pionero consistente,Descriptive flag; verify robustness in Fase 7.
+GRC,Greece,False,True,False,True,False,False,False,True,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+HRV,Croatia,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+HUN,Hungary,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+IND,India,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+IRL,Ireland,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,benchmark relevante para Chile,Descriptive flag; verify robustness in Fase 7.
+ISR,Israel,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+ITA,Italy,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+JPN,Japan,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+KOR,South Korea,False,False,False,False,True,False,False,False,False,False,False,False,True,False,True,benchmark relevante para Chile,Descriptive flag; verify robustness in Fase 7.
+MEX,Mexico,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+NLD,Netherlands (Kingdom of the),False,False,True,False,True,False,True,False,True,False,True,False,False,False,True,caso pionero consistente,Descriptive flag; verify robustness in Fase 7.
+NOR,Norway,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+NZL,New Zealand,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+PER,Peru,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+POL,Poland,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+QAT,Qatar,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+ROU,Romania,False,True,False,True,False,False,False,False,False,True,False,True,False,False,True,caso rezagado para aprendizaje de errores,Descriptive flag; verify robustness in Fase 7.
+SGP,Singapore,True,False,True,False,False,False,False,False,False,False,True,False,True,False,True,caso pionero consistente,Descriptive flag; verify robustness in Fase 7.
+SWE,Sweden,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,Descriptive flag; verify robustness in Fase 7.
+URY,Uruguay,False,False,False,False,False,True,False,True,False,False,False,False,True,False,True,benchmark relevante para Chile,Descriptive flag; verify robustness in Fase 7.
+USA,United States,True,False,False,False,True,False,True,False,True,False,True,False,False,False,True,caso pionero consistente,Descriptive flag; verify robustness in Fase 7.

@@ -1,0 +1,16 @@
+version: "0.3"
+architecture: "observational_inferential_pipeline"
+phases:
+  FASE5: "Data Preparation & Analytical Contract"
+  FASE6: "Inferential Estimation by Outcome"
+  FASE7: "Robustness & Sensitivity Analysis"
+  FASE8: "Policy Translation & Reporting"
+core_rules:
+  no_holdout_test_set: true
+  train_test_split_prohibited: true
+  cero_imputation: true
+  preserve_missingness: true
+  use_full_sample_by_outcome: true
+  report_effective_n: true
+  bootstrap_bca_preferred: true
+  loocv_not_for_auc_r2: true

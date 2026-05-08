@@ -9,7 +9,6 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import pandas as pd
-from sklearn.model_selection import train_test_split
 
 from _common.load import fase3_version, load_dictionary, load_wide
 from _common.paths import FASE3_ROOT, FASE4_ROOT, FASE5_OUTPUTS, FASE5_ROOT, MVP_ROOT
@@ -26,6 +25,14 @@ from .variables import (
     validate_mvp_variables_exist,
 )
 
+AI_LEADERS = {"USA", "CHN", "SGP", "ARE", "IRL", "ISR", "KOR", "JPN"}
+LARGE_AI_POWERS = {"USA", "CHN", "IND", "JPN"}
+LATAM_PEERS = {"ARG", "BRA", "CHL", "COL", "CRI", "MEX", "PER", "URY"}
+EU_LAGGARDS = {"GRC", "ROU", "HRV"}
+
+FORBIDDEN_MEMBERSHIP_COLUMNS = {
+    "split", "train", "test", "holdout", "fold", "partition", "set"
+}
 
 def sha256_file(path: Path) -> str:
     h = hashlib.sha256()
@@ -34,20 +41,51 @@ def sha256_file(path: Path) -> str:
             h.update(chunk)
     return h.hexdigest()
 
+def build_analysis_sample_membership(feature_matrix: pd.DataFrame) -> pd.DataFrame:
+    """Documenta muestra primaria y flags de sensibilidad. No es split."""
+    required = ["iso3", "country_name_canonical"]
+    for col in required:
+        if col not in feature_matrix.columns:
+            raise ValueError(f"Missing required column for membership: {col}")
 
-def _build_split(feature_matrix: pd.DataFrame) -> pd.DataFrame:
-    split_df = feature_matrix[["iso3", "country_name_canonical", "region"]].copy()
-    stratify = split_df["region"] if split_df["region"].value_counts().min() >= 2 else None
-    train_idx, test_idx = train_test_split(
-        split_df.index,
-        test_size=0.20,
-        random_state=42,
-        stratify=stratify,
-    )
-    split_df["split"] = "train"
-    split_df.loc[test_idx, "split"] = "test"
-    return split_df
+    optional = ["region", "income_group"]
+    cols = required + [c for c in optional if c in feature_matrix.columns]
+    membership = feature_matrix[cols].copy()
 
+    membership["is_primary_analysis_sample"] = True
+    membership["sample_inclusion_category"] = "mvp_preregistered"
+    membership["inclusion_reason"] = "Included in preregistered 43-country MVP sample"
+    membership["is_chile_focal"] = membership["iso3"].eq("CHL")
+    membership["is_ai_leader_sensitivity"] = membership["iso3"].isin(AI_LEADERS)
+    membership["is_large_ai_power_sensitivity"] = membership["iso3"].isin(LARGE_AI_POWERS)
+    membership["is_latam_peer_sensitivity"] = membership["iso3"].isin(LATAM_PEERS)
+    membership["is_eu_laggard_sensitivity"] = membership["iso3"].isin(EU_LAGGARDS)
+    membership["is_eu_member_or_laggard_sensitivity"] = membership["is_eu_laggard_sensitivity"]
+
+    if "region" not in membership.columns:
+        membership["region"] = pd.NA
+    if "income_group" not in membership.columns:
+        membership["income_group"] = pd.NA
+
+    membership["has_comparable_region_income"] = membership["region"].notna() & membership["income_group"].notna()
+    membership["leave_group_region"] = membership["region"]
+    membership["leave_group_income"] = membership["income_group"]
+    membership["special_case_flag"] = "none"
+    membership.loc[~membership["has_comparable_region_income"], "special_case_flag"] = "metadata_incomplete"
+    membership["notes"] = "Primary analysis sample; sensitivity flags only; particiones predictivas eliminadas."
+
+    forbidden = FORBIDDEN_MEMBERSHIP_COLUMNS.intersection(set(membership.columns))
+    if forbidden:
+        raise ValueError(f"Forbidden membership columns present: {sorted(forbidden)}")
+
+    if len(membership) != 43:
+        raise ValueError(f"Expected 43 countries, got {len(membership)}")
+    if membership["iso3"].nunique() != 43:
+        raise ValueError("Expected 43 unique ISO3 codes")
+    if "CHL" not in set(membership["iso3"]):
+        raise ValueError("CHL must be present in analysis sample membership")
+
+    return membership
 
 def _write_manifest(outputs: dict[str, Path]) -> None:
     try:
@@ -59,10 +97,27 @@ def _write_manifest(outputs: dict[str, Path]) -> None:
 
     n_observed = len(get_mvp_variables())
     manifest = {
-        "version": "2.0",
+        "version": "2.1",
         "created_at": datetime.now(timezone.utc).isoformat(),
         "git_sha": git_sha,
         "fase3_version": fase3_version(),
+        "fase5_version": "2.1",
+        "methodology_version": "mvp-v0.2-methodology-correction-plus",
+        "methodology": "inferential_comparative_observational",
+        "primary_estimand": "adjusted_association",
+        "n_primary_sample": 43,
+        "n_observed_core_variables": 46,
+        "train_test_split_created": False,
+        "split_column_present": False,
+        "holdout_used": False,
+        "analysis_sample_membership_created": True,
+        "phase6_ready_bundle_created": True,
+        "non_estimable_transforms_flagged": True,
+        "non_estimable_transforms_excluded_from_primary_groups": True,
+        "workbook_holdout_language_removed": True,
+        "no_imputation": True,
+        "missing_values_preserved": True,
+        "outliers_preserved": True,
         "inputs_hashed": {},
         "phase5_implementation_hashed": {},
         "outputs_hashed": {},
@@ -95,6 +150,11 @@ def _write_manifest(outputs: dict[str, Path]) -> None:
             "sha256": sha256_file(path),
             "bytes": path.stat().st_size,
         }
+    
+    # Required top level outputs hash by instructions
+    manifest["outputs"] = {
+        name: metadata["sha256"] for name, metadata in manifest["outputs_hashed"].items()
+    }
 
     for target in [FASE5_OUTPUTS / "fase5_manifest.json", MVP_ROOT / "manifest_mvp.json"]:
         with open(target, "w", encoding="utf-8") as f:
@@ -118,8 +178,12 @@ def build_phase5(save: bool = True) -> dict[str, pd.DataFrame | str]:
     transformed = apply_transforms(curated, get_mvp_variables())
     transform_params = compute_transform_params(transformed, get_mvp_variables())
     feature_matrix = build_feature_matrix(wide_mvp, curated, transformed)
-    split = _build_split(feature_matrix)
-    feature_matrix = feature_matrix.merge(split[["iso3", "split"]], on="iso3", how="left")
+    
+    assert "split" not in feature_matrix.columns
+    assert len(feature_matrix) == 43
+    assert feature_matrix["iso3"].nunique() == 43
+
+    membership = build_analysis_sample_membership(feature_matrix)
 
     countries = get_mvp_entities_detail().merge(
         wide_mvp[["iso3", "country_name_canonical", "region", "income_group"]],
@@ -140,22 +204,24 @@ def build_phase5(save: bool = True) -> dict[str, pd.DataFrame | str]:
             "mvp_countries.csv": FASE5_OUTPUTS / "mvp_countries.csv",
             "mvp_variables_catalog.csv": FASE5_OUTPUTS / "mvp_variables_catalog.csv",
             "mvp_transform_params.csv": FASE5_OUTPUTS / "mvp_transform_params.csv",
-            "mvp_train_test_split.csv": FASE5_OUTPUTS / "mvp_train_test_split.csv",
+            "analysis_sample_membership.csv": FASE5_OUTPUTS / "analysis_sample_membership.csv",
         }
         feature_matrix.to_csv(paths["feature_matrix_mvp.csv"], index=False)
         coverage.to_csv(paths["coverage_report_mvp.csv"], index=False)
         countries.to_csv(paths["mvp_countries.csv"], index=False)
         variables_catalog.to_csv(paths["mvp_variables_catalog.csv"], index=False)
         transform_params.to_csv(paths["mvp_transform_params.csv"], index=False)
-        split.to_csv(paths["mvp_train_test_split.csv"], index=False)
-        excel_path = Path(write_audit_excel(wide_mvp, feature_matrix, coverage, transform_params))
+        membership.to_csv(paths["analysis_sample_membership.csv"], index=False)
+        
+        excel_path = Path(write_audit_excel(wide_mvp, feature_matrix, coverage, transform_params, membership=membership))
         paths["MVP_AUDITABLE.xlsx"] = excel_path
+        
         phase6_paths = write_phase6_bundle(
             feature_matrix=feature_matrix,
             coverage=coverage,
             variables_catalog=variables_catalog,
             transform_params=transform_params,
-            split=split,
+            membership=membership,
         )
         paths.update({f"phase6_ready/{name}": path for name, path in phase6_paths.items()})
         outputs = paths
@@ -169,7 +235,7 @@ def build_phase5(save: bool = True) -> dict[str, pd.DataFrame | str]:
         "countries": countries,
         "variables_catalog": variables_catalog,
         "transform_params": transform_params,
-        "split": split,
+        "membership": membership,
         "excel_path": str(FASE5_OUTPUTS / "MVP_AUDITABLE.xlsx"),
     }
 

@@ -1,0 +1,237 @@
+fig_id,entity_type,entity_name,year,variable,value
+fig_5.1.1,category,Earth science,2010,fig_5.1.1_Number of AI publications in natural sciences (in thousands),0.686
+fig_5.1.1,category,Earth science,2011,fig_5.1.1_Number of AI publications in natural sciences (in thousands),0.728
+fig_5.1.1,category,Earth science,2012,fig_5.1.1_Number of AI publications in natural sciences (in thousands),0.785
+fig_5.1.1,category,Earth science,2013,fig_5.1.1_Number of AI publications in natural sciences (in thousands),0.907
+fig_5.1.1,category,Earth science,2014,fig_5.1.1_Number of AI publications in natural sciences (in thousands),1.048
+fig_5.1.1,category,Earth science,2015,fig_5.1.1_Number of AI publications in natural sciences (in thousands),1.218
+fig_5.1.1,category,Earth science,2016,fig_5.1.1_Number of AI publications in natural sciences (in thousands),1.493
+fig_5.1.1,category,Earth science,2017,fig_5.1.1_Number of AI publications in natural sciences (in thousands),1.738
+fig_5.1.1,category,Earth science,2018,fig_5.1.1_Number of AI publications in natural sciences (in thousands),2.544
+fig_5.1.1,category,Earth science,2019,fig_5.1.1_Number of AI publications in natural sciences (in thousands),4.062
+fig_5.1.1,category,Earth science,2020,fig_5.1.1_Number of AI publications in natural sciences (in thousands),6.033
+fig_5.1.1,category,Earth science,2021,fig_5.1.1_Number of AI publications in natural sciences (in thousands),9.467
+fig_5.1.1,category,Earth science,2022,fig_5.1.1_Number of AI publications in natural sciences (in thousands),12.614
+fig_5.1.1,category,Earth science,2023,fig_5.1.1_Number of AI publications in natural sciences (in thousands),13.653
+fig_5.1.1,category,Earth science,2024,fig_5.1.1_Number of AI publications in natural sciences (in thousands),16.585
+fig_5.1.1,category,Earth science,2025,fig_5.1.1_Number of AI publications in natural sciences (in thousands),20.459
+fig_5.1.1,category,Life sciences,2010,fig_5.1.1_Number of AI publications in natural sciences (in thousands),1.291
+fig_5.1.1,category,Life sciences,2011,fig_5.1.1_Number of AI publications in natural sciences (in thousands),1.351
+fig_5.1.1,category,Life sciences,2012,fig_5.1.1_Number of AI publications in natural sciences (in thousands),1.504
+fig_5.1.1,category,Life sciences,2013,fig_5.1.1_Number of AI publications in natural sciences (in thousands),1.578
+fig_5.1.1,category,Life sciences,2014,fig_5.1.1_Number of AI publications in natural sciences (in thousands),1.653
+fig_5.1.1,category,Life sciences,2015,fig_5.1.1_Number of AI publications in natural sciences (in thousands),2.036
+fig_5.1.1,category,Life sciences,2016,fig_5.1.1_Number of AI publications in natural sciences (in thousands),2.366
+fig_5.1.1,category,Life sciences,2017,fig_5.1.1_Number of AI publications in natural sciences (in thousands),2.969
+fig_5.1.1,category,Life sciences,2018,fig_5.1.1_Number of AI publications in natural sciences (in thousands),4.222
+fig_5.1.1,category,Life sciences,2019,fig_5.1.1_Number of AI publications in natural sciences (in thousands),6.607
+fig_5.1.1,category,Life sciences,2020,fig_5.1.1_Number of AI publications in natural sciences (in thousands),9.573
+fig_5.1.1,category,Life sciences,2021,fig_5.1.1_Number of AI publications in natural sciences (in thousands),14.199
+fig_5.1.1,category,Life sciences,2022,fig_5.1.1_Number of AI publications in natural sciences (in thousands),18.171
+fig_5.1.1,category,Life sciences,2023,fig_5.1.1_Number of AI publications in natural sciences (in thousands),18.742
+fig_5.1.1,category,Life sciences,2024,fig_5.1.1_Number of AI publications in natural sciences (in thousands),22.584
+fig_5.1.1,category,Life sciences,2025,fig_5.1.1_Number of AI publications in natural sciences (in thousands),28.911
+fig_5.1.1,category,Physical sciences,2010,fig_5.1.1_Number of AI publications in natural sciences (in thousands),1.028
+fig_5.1.1,category,Physical sciences,2011,fig_5.1.1_Number of AI publications in natural sciences (in thousands),1.036
+fig_5.1.1,category,Physical sciences,2012,fig_5.1.1_Number of AI publications in natural sciences (in thousands),1.087
+fig_5.1.1,category,Physical sciences,2013,fig_5.1.1_Number of AI publications in natural sciences (in thousands),1.207
+fig_5.1.1,category,Physical sciences,2014,fig_5.1.1_Number of AI publications in natural sciences (in thousands),1.168
+fig_5.1.1,category,Physical sciences,2015,fig_5.1.1_Number of AI publications in natural sciences (in thousands),1.344
+fig_5.1.1,category,Physical sciences,2016,fig_5.1.1_Number of AI publications in natural sciences (in thousands),1.6
+fig_5.1.1,category,Physical sciences,2017,fig_5.1.1_Number of AI publications in natural sciences (in thousands),2.2
+fig_5.1.1,category,Physical sciences,2018,fig_5.1.1_Number of AI publications in natural sciences (in thousands),3.528
+fig_5.1.1,category,Physical sciences,2019,fig_5.1.1_Number of AI publications in natural sciences (in thousands),6.252
+fig_5.1.1,category,Physical sciences,2020,fig_5.1.1_Number of AI publications in natural sciences (in thousands),9.769
+fig_5.1.1,category,Physical sciences,2021,fig_5.1.1_Number of AI publications in natural sciences (in thousands),14.353
+fig_5.1.1,category,Physical sciences,2022,fig_5.1.1_Number of AI publications in natural sciences (in thousands),19.284
+fig_5.1.1,category,Physical sciences,2023,fig_5.1.1_Number of AI publications in natural sciences (in thousands),22.355
+fig_5.1.1,category,Physical sciences,2024,fig_5.1.1_Number of AI publications in natural sciences (in thousands),26.097
+fig_5.1.1,category,Physical sciences,2025,fig_5.1.1_Number of AI publications in natural sciences (in thousands),33.045
+fig_5.1.1,category,Natural sciences,2010,fig_5.1.1_Number of AI publications in natural sciences (in thousands),2.874
+fig_5.1.1,category,Natural sciences,2011,fig_5.1.1_Number of AI publications in natural sciences (in thousands),3.0
+fig_5.1.1,category,Natural sciences,2012,fig_5.1.1_Number of AI publications in natural sciences (in thousands),3.255
+fig_5.1.1,category,Natural sciences,2013,fig_5.1.1_Number of AI publications in natural sciences (in thousands),3.578
+fig_5.1.1,category,Natural sciences,2014,fig_5.1.1_Number of AI publications in natural sciences (in thousands),3.741
+fig_5.1.1,category,Natural sciences,2015,fig_5.1.1_Number of AI publications in natural sciences (in thousands),4.429
+fig_5.1.1,category,Natural sciences,2016,fig_5.1.1_Number of AI publications in natural sciences (in thousands),5.305
+fig_5.1.1,category,Natural sciences,2017,fig_5.1.1_Number of AI publications in natural sciences (in thousands),6.725
+fig_5.1.1,category,Natural sciences,2018,fig_5.1.1_Number of AI publications in natural sciences (in thousands),10.046
+fig_5.1.1,category,Natural sciences,2019,fig_5.1.1_Number of AI publications in natural sciences (in thousands),16.55
+fig_5.1.1,category,Natural sciences,2020,fig_5.1.1_Number of AI publications in natural sciences (in thousands),24.81
+fig_5.1.1,category,Natural sciences,2021,fig_5.1.1_Number of AI publications in natural sciences (in thousands),37.12
+fig_5.1.1,category,Natural sciences,2022,fig_5.1.1_Number of AI publications in natural sciences (in thousands),48.999
+fig_5.1.1,category,Natural sciences,2023,fig_5.1.1_Number of AI publications in natural sciences (in thousands),53.351
+fig_5.1.1,category,Natural sciences,2024,fig_5.1.1_Number of AI publications in natural sciences (in thousands),63.547
+fig_5.1.1,category,Natural sciences,2025,fig_5.1.1_Number of AI publications in natural sciences (in thousands),80.15
+fig_5.1.2,category,Physical sciences,2010,fig_5.1.2_AI publications in natural sciences (% of total),0.00358138238573021
+fig_5.1.2,category,Physical sciences,2011,fig_5.1.2_AI publications in natural sciences (% of total),0.00333148965180144
+fig_5.1.2,category,Physical sciences,2012,fig_5.1.2_AI publications in natural sciences (% of total),0.00343052631911153
+fig_5.1.2,category,Physical sciences,2013,fig_5.1.2_AI publications in natural sciences (% of total),0.00359431579950447
+fig_5.1.2,category,Physical sciences,2014,fig_5.1.2_AI publications in natural sciences (% of total),0.00332651701137509
+fig_5.1.2,category,Physical sciences,2015,fig_5.1.2_AI publications in natural sciences (% of total),0.00372161026101114
+fig_5.1.2,category,Physical sciences,2016,fig_5.1.2_AI publications in natural sciences (% of total),0.00431132044967072
+fig_5.1.2,category,Physical sciences,2017,fig_5.1.2_AI publications in natural sciences (% of total),0.00573263013070396
+fig_5.1.2,category,Physical sciences,2018,fig_5.1.2_AI publications in natural sciences (% of total),0.0087218573007236
+fig_5.1.2,category,Physical sciences,2019,fig_5.1.2_AI publications in natural sciences (% of total),0.0140530698944671
+fig_5.1.2,category,Physical sciences,2020,fig_5.1.2_AI publications in natural sciences (% of total),0.021168985669925
+fig_5.1.2,category,Physical sciences,2021,fig_5.1.2_AI publications in natural sciences (% of total),0.0289007913335883
+fig_5.1.2,category,Physical sciences,2022,fig_5.1.2_AI publications in natural sciences (% of total),0.0383347712517046
+fig_5.1.2,category,Physical sciences,2023,fig_5.1.2_AI publications in natural sciences (% of total),0.0446665840802739
+fig_5.1.2,category,Physical sciences,2024,fig_5.1.2_AI publications in natural sciences (% of total),0.0489821429241759
+fig_5.1.2,category,Physical sciences,2025,fig_5.1.2_AI publications in natural sciences (% of total),0.0583835985286167
+fig_5.1.2,category,Life sciences,2010,fig_5.1.2_AI publications in natural sciences (% of total),0.00496269330862878
+fig_5.1.2,category,Life sciences,2011,fig_5.1.2_AI publications in natural sciences (% of total),0.00491037029498568
+fig_5.1.2,category,Life sciences,2012,fig_5.1.2_AI publications in natural sciences (% of total),0.00530837268729308
+fig_5.1.2,category,Life sciences,2013,fig_5.1.2_AI publications in natural sciences (% of total),0.00541072475595162
+fig_5.1.2,category,Life sciences,2014,fig_5.1.2_AI publications in natural sciences (% of total),0.00539783302964399
+fig_5.1.2,category,Life sciences,2015,fig_5.1.2_AI publications in natural sciences (% of total),0.00639049837098789
+fig_5.1.2,category,Life sciences,2016,fig_5.1.2_AI publications in natural sciences (% of total),0.00717234856522714
+fig_5.1.2,category,Life sciences,2017,fig_5.1.2_AI publications in natural sciences (% of total),0.00869168098691124
+fig_5.1.2,category,Life sciences,2018,fig_5.1.2_AI publications in natural sciences (% of total),0.0123431885888361
+fig_5.1.2,category,Life sciences,2019,fig_5.1.2_AI publications in natural sciences (% of total),0.0172841379382511
+fig_5.1.2,category,Life sciences,2020,fig_5.1.2_AI publications in natural sciences (% of total),0.0229808624845161
+fig_5.1.2,category,Life sciences,2021,fig_5.1.2_AI publications in natural sciences (% of total),0.0313876761536336
+fig_5.1.2,category,Life sciences,2022,fig_5.1.2_AI publications in natural sciences (% of total),0.041212585817028
+fig_5.1.2,category,Life sciences,2023,fig_5.1.2_AI publications in natural sciences (% of total),0.0454469401759971
+fig_5.1.2,category,Life sciences,2024,fig_5.1.2_AI publications in natural sciences (% of total),0.0523348372878763
+fig_5.1.2,category,Life sciences,2025,fig_5.1.2_AI publications in natural sciences (% of total),0.0648163301909
+fig_5.1.2,category,Natural sciences,2010,fig_5.1.2_AI publications in natural sciences (% of total),0.00469706849973278
+fig_5.1.2,category,Natural sciences,2011,fig_5.1.2_AI publications in natural sciences (% of total),0.00458933835508934
+fig_5.1.2,category,Natural sciences,2012,fig_5.1.2_AI publications in natural sciences (% of total),0.00485145312572194
+fig_5.1.2,category,Natural sciences,2013,fig_5.1.2_AI publications in natural sciences (% of total),0.00507018622802517
+fig_5.1.2,category,Natural sciences,2014,fig_5.1.2_AI publications in natural sciences (% of total),0.00504918262897618
+fig_5.1.2,category,Natural sciences,2015,fig_5.1.2_AI publications in natural sciences (% of total),0.00573707635790859
+fig_5.1.2,category,Natural sciences,2016,fig_5.1.2_AI publications in natural sciences (% of total),0.00660736437777434
+fig_5.1.2,category,Natural sciences,2017,fig_5.1.2_AI publications in natural sciences (% of total),0.00807707875181809
+fig_5.1.2,category,Natural sciences,2018,fig_5.1.2_AI publications in natural sciences (% of total),0.011527714825036
+fig_5.1.2,category,Natural sciences,2019,fig_5.1.2_AI publications in natural sciences (% of total),0.0170630166588654
+fig_5.1.2,category,Natural sciences,2020,fig_5.1.2_AI publications in natural sciences (% of total),0.0238969455061028
+fig_5.1.2,category,Natural sciences,2021,fig_5.1.2_AI publications in natural sciences (% of total),0.0328358129738613
+fig_5.1.2,category,Natural sciences,2022,fig_5.1.2_AI publications in natural sciences (% of total),0.0434609455520805
+fig_5.1.2,category,Natural sciences,2023,fig_5.1.2_AI publications in natural sciences (% of total),0.0498151225979943
+fig_5.1.2,category,Natural sciences,2024,fig_5.1.2_AI publications in natural sciences (% of total),0.0565215419057419
+fig_5.1.2,category,Natural sciences,2025,fig_5.1.2_AI publications in natural sciences (% of total),0.0679822050322947
+fig_5.1.2,category,Earth science,2010,fig_5.1.2_AI publications in natural sciences (% of total),0.00717010713352495
+fig_5.1.2,category,Earth science,2011,fig_5.1.2_AI publications in natural sciences (% of total),0.00716013926864291
+fig_5.1.2,category,Earth science,2012,fig_5.1.2_AI publications in natural sciences (% of total),0.00745992074428151
+fig_5.1.2,category,Earth science,2013,fig_5.1.2_AI publications in natural sciences (% of total),0.00789835762927356
+fig_5.1.2,category,Earth science,2014,fig_5.1.2_AI publications in natural sciences (% of total),0.00856552051066194
+fig_5.1.2,category,Earth science,2015,fig_5.1.2_AI publications in natural sciences (% of total),0.00927689003305558
+fig_5.1.2,category,Earth science,2016,fig_5.1.2_AI publications in natural sciences (% of total),0.0105013645443547
+fig_5.1.2,category,Earth science,2017,fig_5.1.2_AI publications in natural sciences (% of total),0.0116974808014591
+fig_5.1.2,category,Earth science,2018,fig_5.1.2_AI publications in natural sciences (% of total),0.0151204464811083
+fig_5.1.2,category,Earth science,2019,fig_5.1.2_AI publications in natural sciences (% of total),0.0209222908414757
+fig_5.1.2,category,Earth science,2020,fig_5.1.2_AI publications in natural sciences (% of total),0.0280634672546365
+fig_5.1.2,category,Earth science,2021,fig_5.1.2_AI publications in natural sciences (% of total),0.0389641391629315
+fig_5.1.2,category,Earth science,2022,fig_5.1.2_AI publications in natural sciences (% of total),0.050804109760076
+fig_5.1.2,category,Earth science,2023,fig_5.1.2_AI publications in natural sciences (% of total),0.061510805952397
+fig_5.1.2,category,Earth science,2024,fig_5.1.2_AI publications in natural sciences (% of total),0.0744660311872808
+fig_5.1.2,category,Earth science,2025,fig_5.1.2_AI publications in natural sciences (% of total),0.0879030698833487
+fig_5.3.1,model,Asta v0,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,Asta v0,,fig_5.3.1_Models Used,Claude Sonnet 4 (2025-05) + 6
+fig_5.3.1,model,Asta v0,,fig_5.3.1_Overall Score,0.53
+fig_5.3.1,model,Asta v0,,fig_5.3.1_Overall Cost,3.4
+fig_5.3.1,model,ReAct,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,ReAct,,fig_5.3.1_Models Used,GPT-5 (2025-08)
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Score,0.44
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Cost,0.31
+fig_5.3.1,model,ReAct,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,ReAct,,fig_5.3.1_Models Used,Claude Sonnet 4 (2025-05)
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Score,0.401
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Cost,0.4
+fig_5.3.1,model,ReAct,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,ReAct,,fig_5.3.1_Models Used,o3 (2025-04)
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Score,0.394
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Cost,0.16
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Models Used,Claude Sonnet 4 (2025-05)
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Overall Score,0.381
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Overall Cost,1.02
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Models Used,GPT-5 (2025-08)
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Overall Score,0.375
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Overall Cost,0.13
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Models Used,GPT-4.1 (2025-04)
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Overall Score,0.328
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Overall Cost,0.32
+fig_5.3.1,model,ReAct,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,ReAct,,fig_5.3.1_Models Used,GPT-4.1 (2025-04)
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Score,0.316
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Cost,0.2
+fig_5.3.1,model,ReAct,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,ReAct,,fig_5.3.1_Models Used,GPT-5 Mini (2025-08)
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Score,0.316
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Cost,0.04
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Models Used,GPT-5 Mini (2025-08)
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Overall Score,0.291
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Overall Cost,0.07
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Models Used,Gemini 2.5 Flash (2024-05)
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Overall Score,0.264
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Overall Cost,0.71
+fig_5.3.1,model,ReAct,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,ReAct,,fig_5.3.1_Models Used,Claude 3.5 Haiku (2024-10)
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Score,0.219
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Cost,0.04
+fig_5.3.1,model,ReAct,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,ReAct,,fig_5.3.1_Models Used,GPT-4o (2024-08)
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Score,0.162
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Cost,0.12
+fig_5.3.1,model,ReAct,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,ReAct,,fig_5.3.1_Models Used,Gemini 2.5 Flash (2024-05)
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Score,0.153
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Cost,0.71
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Models Used,GPT-4o (2024-08)
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Overall Score,0.136
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Overall Cost,0.36
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Models Used,Claude 3.5 Haiku (2024-10)
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Overall Score,0.127
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Overall Cost,0.3
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Models Used,Llama 4 Scout 17B (unpinned)
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Overall Score,0.111
+fig_5.3.1,model,Smolagents Coder,,fig_5.3.1_Overall Cost,0.11
+fig_5.3.1,model,ReAct,,fig_5.3.1_Submitter,Ai2
+fig_5.3.1,model,ReAct,,fig_5.3.1_Models Used,Llama 4 Scout 17B (unpinned)
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Score,0.079
+fig_5.3.1,model,ReAct,,fig_5.3.1_Overall Cost,0.68
+fig_5.3.2,model,Gemini 2.5 Pro,,fig_5.3.2_Agent Type,Single-agent
+fig_5.3.2,model,Gemini 2.5 Pro,,fig_5.3.2_Avg. Score,36.1
+fig_5.3.2,model,OpenAI o4-mini-high,,fig_5.3.2_Agent Type,Single-agent
+fig_5.3.2,model,OpenAI o4-mini-high,,fig_5.3.2_Avg. Score,33.93
+fig_5.3.2,model,Claude Sonnet 4,,fig_5.3.2_Agent Type,Single-agent
+fig_5.3.2,model,Claude Sonnet 4,,fig_5.3.2_Avg. Score,34.18
+fig_5.3.2,model,GPT-4.1,,fig_5.3.2_Agent Type,Single-agent
+fig_5.3.2,model,GPT-4.1,,fig_5.3.2_Avg. Score,30.61
+fig_5.3.2,model,Claude 3.5 Sonnet,,fig_5.3.2_Agent Type,Single-agent
+fig_5.3.2,model,Claude 3.5 Sonnet,,fig_5.3.2_Avg. Score,24.62
+fig_5.3.2,model,Qwen3-235B-Thinking,,fig_5.3.2_Agent Type,Single-agent
+fig_5.3.2,model,Qwen3-235B-Thinking,,fig_5.3.2_Avg. Score,29.97
+fig_5.3.2,model,GLM-4.5,,fig_5.3.2_Agent Type,Single-agent
+fig_5.3.2,model,GLM-4.5,,fig_5.3.2_Avg. Score,27.17
+fig_5.3.2,model,Qwen3-235B-Instruct,,fig_5.3.2_Agent Type,Single-agent
+fig_5.3.2,model,Qwen3-235B-Instruct,,fig_5.3.2_Avg. Score,23.47
+fig_5.3.2,model,Kimi-K2-Instruct,,fig_5.3.2_Agent Type,Single-agent
+fig_5.3.2,model,Kimi-K2-Instruct,,fig_5.3.2_Avg. Score,22.32
+fig_5.3.2,model,Gemini 2.5 Pro,,fig_5.3.2_Agent Type,Multi-agent
+fig_5.3.2,model,Gemini 2.5 Pro,,fig_5.3.2_Avg. Score,38.78
+fig_5.3.2,model,OpenAI o4-mini-high,,fig_5.3.2_Agent Type,Multi-agent
+fig_5.3.2,model,OpenAI o4-mini-high,,fig_5.3.2_Avg. Score,37.37
+fig_5.3.2,model,Claude Sonnet 4,,fig_5.3.2_Agent Type,Multi-agent
+fig_5.3.2,model,Claude Sonnet 4,,fig_5.3.2_Avg. Score,36.73
+fig_5.3.2,model,GPT-4.1,,fig_5.3.2_Agent Type,Multi-agent
+fig_5.3.2,model,GPT-4.1,,fig_5.3.2_Avg. Score,34.57
+fig_5.3.2,model,Claude 3.5 Sonnet,,fig_5.3.2_Agent Type,Multi-agent
+fig_5.3.2,model,Claude 3.5 Sonnet,,fig_5.3.2_Avg. Score,29.34
+fig_5.3.2,model,Qwen3-235B-Thinking,,fig_5.3.2_Agent Type,Multi-agent
+fig_5.3.2,model,Qwen3-235B-Thinking,,fig_5.3.2_Avg. Score,34.31
+fig_5.3.2,model,GLM-4.5,,fig_5.3.2_Agent Type,Multi-agent
+fig_5.3.2,model,GLM-4.5,,fig_5.3.2_Avg. Score,30.74
+fig_5.3.2,model,Qwen3-235B-Instruct,,fig_5.3.2_Agent Type,Multi-agent
+fig_5.3.2,model,Qwen3-235B-Instruct,,fig_5.3.2_Avg. Score,28.83
+fig_5.3.2,model,Kimi-K2-Instruct,,fig_5.3.2_Agent Type,Multi-agent
+fig_5.3.2,model,Kimi-K2-Instruct,,fig_5.3.2_Avg. Score,26.28

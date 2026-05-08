@@ -1,0 +1,42 @@
+fig_id,section,entity_type,num_data_rows,num_cols,is_wide,note,columns_preview
+fig_7.2.1_hardware,fig_7.2.1_hardware,organization,11,5,Y,,Year | Associate’s | Bachelor’s | Master’s | PhD
+fig_7.2.1_software,fig_7.2.1_software,organization,11,5,Y,,Year | Associate’s | Bachelor’s | Master’s | PhD
+fig_7.2.2_hardware,fig_7.2.2_hardware,category,4,3,N,,AWLEVEL | Female | Male
+fig_7.2.2_software,fig_7.2.2_software,category,4,3,N,,AWLEVEL | Female | Male
+fig_7.2.3,fig_7.2.3,category,21,3,N,,Ratio | Race/Ethnicity | Label
+fig_7.2.4,fig_7.2.4,category,21,3,N,,Ratio | Race/Ethnicity | Label
+fig_7.2.5_hardware,fig_7.2.5_hardware,category,4,3,N,,AWLEVEL | Nonresident | Resident
+fig_7.2.5_software,fig_7.2.5_software,category,4,3,N,,AWLEVEL | Nonresident | Resident
+fig_7.2.7,fig_7.2.7,category,60,3,N,,Year | Number of new AI PhD graduates | Label
+fig_7.2.8,fig_7.2.8,category,45,3,N,,Year | New AI PhD graduates (% of total) | Label
+fig_7.2.9,fig_7.2.9,country,15,3,N,,Country | 2023 | 2022
+fig_7.2.10,fig_7.2.10,country,15,3,N,,Country | 2023 | 2022
+fig_7.2.11,fig_7.2.11,country,15,3,N,,Country | 2023 | 2022
+fig_7.2.12,fig_7.2.12,country,15,3,N,,Country | 2023 | 2022
+fig_7.2.13,fig_7.2.13,country,176,4,N,,Country | Percent Female | Group | Education level abbreviated
+fig_7.2.14,fig_7.2.14,category,15,3,N,,"Year | Number of CS, CE, and information faculty | Label"
+fig_7.2.15,fig_7.2.15,category,16,3,N,,Ratio | Race/Ethnicity | Label
+fig_7.2.16,fig_7.2.16,country,30,3,N,,University students (% of total) who have used GenAI | Country | Year
+fig_7.2.17,fig_7.2.17,category,9,2,N,,% of Respondents | Use
+fig_7.3.1,fig_7.3.1,global,8,2,N,,Year | % of schools
+fig_7.3.2,fig_7.3.2,us_state,51,3,N,,code | School Year | percent_public_hs_teach_cs
+fig_7.3.3,fig_7.3.3,us_state,51,2,N,,code | percent_students
+fig_7.3.4,fig_7.3.4,global,3,2,N,,Year | % of schools
+fig_7.3.5,fig_7.3.5,category,3,2,N,,Category | Percent
+fig_7.3.6,fig_7.3.6,category,2,2,N,,Category | Percent
+fig_7.3.7,fig_7.3.7,category,7,2,N,,Race/ethnicity | Percent
+fig_7.3.8,fig_7.3.8,us_state,50,3,N,,code | percent_students | name
+fig_7.3.9,fig_7.3.9,us_state,51,2,N,,code | percent_students
+fig_7.3.10,fig_7.3.10,us_state,42,3,N,,State | Percent of HS offering CS | Percent of students enrolled
+fig_7.3.11,fig_7.3.11,category,14,3,N,,Ratio | Race/Ethnicity | Year
+fig_7.3.12,fig_7.3.12,category,10,3,N,,Ratio | Group | Year
+fig_7.3.13,fig_7.3.13,global,18,2,N,,Year | Number of AP computer science exams taken (in thousands)
+fig_7.3.14,fig_7.3.14,category,144,3,N,,Year | Number of AP computer science exams taken | Label
+fig_7.3.15,fig_7.3.15,category,144,3,N,,Year | AP computer science exams taken (% of total responding students) | Label
+fig_7.3.16,fig_7.3.16,category,28,3,N,,Ratio | Race/Ethnicity | Year
+fig_7.3.17,fig_7.3.17,category,7,2,N,,% of Respondents | Use
+fig_7.3.18,fig_7.3.18,us_state,51,2,N,,State | Status
+fig_7.3.19,fig_7.3.19,country,217,3,N,,Country | Country Code | Status
+fig_7.4.1,fig_7.4.1,country,15,2,N,,Relative AI skill penetration rate | Country
+fig_7.4.2,fig_7.4.2,country,30,3,N,,Relative AI Skill Penetration Rate | Country | Label
+fig_7.4.3,fig_7.4.3,country,458,4,N,,Country | Skills Diffusion Index (AI Engineering skills) | Skills Diffusion Index (AI Literacy skills) | Year

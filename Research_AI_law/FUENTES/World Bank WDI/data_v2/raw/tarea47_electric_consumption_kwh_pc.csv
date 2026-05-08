@@ -1,0 +1,935 @@
+iso3,year,country_name,value,wb_indicator,canonical_name
+ALB,2023,Albania,2888.86725667383,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ALB,2022,Albania,2840.96007727085,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ALB,2021,Albania,2834.40746545252,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ALB,2020,Albania,2642.69442510916,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ALB,2019,Albania,2553.9362279242,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ALB,2018,Albania,2502.55681850864,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DZA,2023,Algeria,1827.95251014644,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DZA,2022,Algeria,1756.58721304339,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DZA,2021,Algeria,1681.48239613152,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DZA,2020,Algeria,1591.97709300405,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DZA,2019,Algeria,1651.17795668766,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DZA,2018,Algeria,1568.47300560981,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AGO,2023,Angola,379.103010494775,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AGO,2022,Angola,373.031827755774,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AGO,2021,Angola,394.730414127544,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AGO,2020,Angola,439.11817393803,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AGO,2019,Angola,411.266102851676,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AGO,2018,Angola,370.736573340292,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARG,2024,Argentina,2822.09714825266,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARG,2023,Argentina,2821.77233232234,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARG,2022,Argentina,2833.11909750338,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARG,2021,Argentina,2942.91077511635,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARG,2020,Argentina,2827.42739776861,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARG,2019,Argentina,2876.71852724712,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARG,2018,Argentina,2971.34364838317,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARM,2023,Armenia,2386.06079006848,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARM,2022,Armenia,2403.67775831874,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARM,2021,Armenia,2262.09364345272,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARM,2020,Armenia,2114.13135235523,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARM,2019,Armenia,2084.05063291139,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARM,2018,Armenia,1938.69989895588,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AUS,2024,Australia,9800.04568182477,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AUS,2023,Australia,9819.87119092096,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AUS,2022,Australia,9923.43167060364,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AUS,2021,Australia,9843.21372769882,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AUS,2020,Australia,9933.58557724577,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AUS,2019,Australia,10025.7250631996,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AUS,2018,Australia,10036.6706941858,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AUT,2024,Austria,7896.83396633378,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AUT,2023,Austria,7860.14877086687,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AUT,2022,Austria,8254.39392885373,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AUT,2021,Austria,8381.61025757953,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AUT,2020,Austria,8025.46724947246,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AUT,2019,Austria,8339.93999945946,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AUT,2018,Austria,8396.45084265961,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AZE,2023,Azerbaijan,2366.9587760753,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AZE,2022,Azerbaijan,2365.86247983091,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AZE,2021,Azerbaijan,2389.09028137407,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AZE,2020,Azerbaijan,2257.18090568814,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AZE,2019,Azerbaijan,2243.85125599507,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+AZE,2018,Azerbaijan,2182.74646367607,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BHR,2023,Bahrain,23120.2510495803,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BHR,2022,Bahrain,23151.5459177684,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BHR,2021,Bahrain,22118.967138959,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BHR,2020,Bahrain,21442.6804980831,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BHR,2019,Bahrain,21808.1679197927,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BHR,2018,Bahrain,19439.9407620696,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BGD,2023,Bangladesh,602.897385671726,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BGD,2022,Bangladesh,603.642956431942,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BGD,2021,Bangladesh,572.513754627,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BGD,2020,Bangladesh,511.695797419698,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BGD,2019,Bangladesh,513.634290505382,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BGD,2018,Bangladesh,473.303151543057,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BLR,2023,Belarus,4197.72816267243,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BLR,2022,Belarus,3902.76581096959,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BLR,2021,Belarus,4094.66830993751,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BLR,2020,Belarus,3764.62480831458,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BLR,2019,Belarus,3759.65072563435,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BLR,2018,Belarus,3725.05571426831,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BEL,2024,Belgium,7098.80837636114,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BEL,2023,Belgium,6931.1013819588,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BEL,2022,Belgium,7285.91352381507,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BEL,2021,Belgium,7681.12395829692,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BEL,2020,Belgium,7420.56838071573,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BEL,2019,Belgium,7673.26603406047,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BEL,2018,Belgium,7748.27877771471,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BEN,2023,Benin,114.662043901248,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BEN,2022,Benin,105.309051541913,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BEN,2021,Benin,113.244820465956,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BEN,2020,Benin,98.4685048831427,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BEN,2019,Benin,98.6897288428983,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BEN,2018,Benin,96.9043345066564,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BOL,2023,Bolivia,890.13871838809,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BOL,2022,Bolivia,859.639613769933,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BOL,2021,Bolivia,834.020252384112,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BOL,2020,Bolivia,770.291950127531,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BOL,2019,Bolivia,802.818105750251,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BOL,2018,Bolivia,791.597905106962,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BIH,2023,Bosnia and Herzegovina,3676.52483946208,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BIH,2022,Bosnia and Herzegovina,3773.08800980529,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BIH,2021,Bosnia and Herzegovina,3835.85723720279,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BIH,2020,Bosnia and Herzegovina,3513.72346484109,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BIH,2019,Bosnia and Herzegovina,3735.12979845065,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BIH,2018,Bosnia and Herzegovina,3898.73043991733,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BWA,2023,Botswana,1640.96758222175,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BWA,2022,Botswana,1590.23432184703,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BWA,2021,Botswana,1463.704500756,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BWA,2020,Botswana,1472.17077350042,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BWA,2019,Botswana,1501.66181906905,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BWA,2018,Botswana,1574.93603045659,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BRA,2024,Brazil,3068.09612345834,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BRA,2023,Brazil,2916.48609397384,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BRA,2022,Brazil,2787.76089640442,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BRA,2021,Brazil,2723.96659104663,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BRA,2020,Brazil,2624.84323723758,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BRA,2019,Brazil,2661.18328561313,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BRA,2018,Brazil,2640.41643831267,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BRN,2023,Brunei Darussalam,10674.3886575633,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BRN,2022,Brunei Darussalam,11197.4877572084,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BRN,2021,Brunei Darussalam,11482.7515214037,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BRN,2020,Brunei Darussalam,11837.1762433952,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BRN,2019,Brunei Darussalam,10023.0414746544,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BRN,2018,Brunei Darussalam,8709.2574404422,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BGR,2023,Bulgaria,5360.50343468088,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BGR,2022,Bulgaria,5536.49852430675,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BGR,2021,Bulgaria,5560.98450033278,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BGR,2020,Bulgaria,5304.93248351015,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BGR,2019,Bulgaria,5395.41761287984,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BGR,2018,Bulgaria,5353.90873037752,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BFA,2023,Burkina Faso,133.328839818471,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BFA,2022,Burkina Faso,126.615806504036,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BFA,2021,Burkina Faso,126.481894289597,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BFA,2020,Burkina Faso,131.898174423114,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BFA,2019,Burkina Faso,124.034250245397,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+BFA,2018,Burkina Faso,118.943426181293,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KHM,2023,Cambodia,932.398524324088,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KHM,2022,Cambodia,813.639377076391,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KHM,2021,Cambodia,725.802912107447,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KHM,2020,Cambodia,706.287905502708,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KHM,2019,Cambodia,650.79801938002,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KHM,2018,Cambodia,553.564645400952,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CMR,2023,Cameroon,226.09772560491,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CMR,2022,Cameroon,222.923716191909,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CMR,2021,Cameroon,241.754291296571,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CMR,2020,Cameroon,259.780810465767,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CMR,2019,Cameroon,261.584534990558,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CMR,2018,Cameroon,275.33236102982,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CAN,2024,Canada,14084.4933973177,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CAN,2023,Canada,14459.8957515769,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CAN,2022,Canada,14907.0778679664,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CAN,2021,Canada,15003.7144483568,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CAN,2020,Canada,14763.7419988589,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CAN,2019,Canada,15204.0638521025,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CAN,2018,Canada,15569.5497108108,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TCD,2023,Chad,13.7170206589719,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TCD,2022,Chad,15.5510748231025,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TCD,2021,Chad,16.9954767912742,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TCD,2020,Chad,14.2818336411378,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TCD,2019,Chad,14.683651516075,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TCD,2018,Chad,14.2357291921143,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHL,2024,Chile,4373.3873769648,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHL,2023,Chile,4322.99269005513,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHL,2022,Chile,4405.86310995387,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHL,2021,Chile,4306.7208858565,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHL,2020,Chile,4166.72173286725,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHL,2019,Chile,4218.62068793083,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHL,2018,Chile,4172.29678141718,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHN,2023,China,6523.71926193193,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHN,2022,China,6112.13553560996,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHN,2021,China,5847.80226004701,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHN,2020,China,5261.94103890582,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHN,2019,China,5082.38779040238,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHN,2018,China,4842.2067923237,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COL,2024,Colombia,1551.19383043981,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COL,2023,Colombia,1552.83278166352,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COL,2022,Colombia,1528.08546083702,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COL,2021,Colombia,1514.11928689074,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COL,2020,Colombia,1470.27462790488,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COL,2019,Colombia,1531.81900651769,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COL,2018,Colombia,1466.90025072176,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COD,2023,"Congo, Dem. Rep.",128.528543096494,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COD,2022,"Congo, Dem. Rep.",130.667931495784,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COD,2021,"Congo, Dem. Rep.",133.627258839258,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COD,2020,"Congo, Dem. Rep.",130.451091373082,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COD,2019,"Congo, Dem. Rep.",125.67317344785,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COD,2018,"Congo, Dem. Rep.",120.558401283658,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COG,2023,"Congo, Rep.",338.353373869965,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COG,2022,"Congo, Rep.",305.877081819965,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COG,2021,"Congo, Rep.",321.612550051483,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COG,2020,"Congo, Rep.",310.284173369066,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COG,2019,"Congo, Rep.",265.638250198828,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+COG,2018,"Congo, Rep.",243.109851000836,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CRI,2024,Costa Rica,2282.30124894979,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CRI,2023,Costa Rica,2206.04149426357,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CRI,2022,Costa Rica,2142.95623666187,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CRI,2021,Costa Rica,2111.26982909841,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CRI,2020,Costa Rica,2022.31880373119,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CRI,2019,Costa Rica,2090.18686270553,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CRI,2018,Costa Rica,2066.0298542625,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CIV,2023,Cote d'Ivoire,353.81898290984,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CIV,2022,Cote d'Ivoire,329.560761338328,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CIV,2021,Cote d'Ivoire,308.403556630869,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CIV,2020,Cote d'Ivoire,290.502146447735,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CIV,2019,Cote d'Ivoire,279.040807598792,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CIV,2018,Cote d'Ivoire,259.829414852579,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HRV,2023,Croatia,4484.04352063873,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HRV,2022,Croatia,4475.52041281852,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HRV,2021,Croatia,4506.59593331341,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HRV,2020,Croatia,4164.06290317883,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HRV,2019,Croatia,4363.71186436386,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HRV,2018,Croatia,4310.8473152785,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CUB,2023,Cuba,1461.7151414106,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CUB,2022,Cuba,1346.76694557416,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CUB,2021,Cuba,1420.22670400231,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CUB,2020,Cuba,1525.98960269154,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CUB,2019,Cuba,1584.50807946481,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CUB,2018,Cuba,1563.0012973944,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CUW,2023,Curacao,5276.29417926468,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CUW,2022,Curacao,5028.66534916939,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CUW,2021,Curacao,4897.75768441292,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CUW,2020,Curacao,4804.41465893158,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CUW,2019,Curacao,4973.29158224351,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CUW,2018,Curacao,4832.55510368027,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CYP,2023,Cyprus,3841.70423858864,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CYP,2022,Cyprus,3848.66716239663,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CYP,2021,Cyprus,3716.66784330783,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CYP,2020,Cyprus,3540.03503175665,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CYP,2019,Cyprus,3853.35489802755,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CYP,2018,Cyprus,3857.60389443292,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CZE,2024,Czechia,5876.92209501892,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CZE,2023,Czechia,5965.3672178366,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CZE,2022,Czechia,6363.02934431572,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CZE,2021,Czechia,6690.60779160256,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CZE,2020,Czechia,6286.67907164219,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CZE,2019,Czechia,6525.47304268137,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CZE,2018,Czechia,6572.10472168767,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DNK,2024,Denmark,6165.47587816748,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DNK,2023,Denmark,5878.13723736126,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DNK,2022,Denmark,5847.15969085066,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DNK,2021,Denmark,6132.42912046699,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DNK,2020,Denmark,5693.99753472749,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DNK,2019,Denmark,5755.1722252014,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DNK,2018,Denmark,5744.7516550919,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DOM,2023,Dominican Republic,1867.39962396078,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DOM,2022,Dominican Republic,1818.6700887048,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DOM,2021,Dominican Republic,1819.12560426255,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DOM,2020,Dominican Republic,1693.44948811351,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DOM,2019,Dominican Republic,1706.98793827048,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DOM,2018,Dominican Republic,1605.53838865381,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ECU,2023,Ecuador,1675.63186443578,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ECU,2022,Ecuador,1589.55137588598,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ECU,2021,Ecuador,1550.01110140029,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ECU,2020,Ecuador,1467.05258415491,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ECU,2019,Ecuador,1510.20578348781,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ECU,2018,Ecuador,1484.61422464773,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+EGY,2023,"Egypt, Arab Rep.",1492.89603600873,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+EGY,2022,"Egypt, Arab Rep.",1477.94873388638,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+EGY,2021,"Egypt, Arab Rep.",1459.17777451245,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+EGY,2020,"Egypt, Arab Rep.",1431.42132830586,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+EGY,2019,"Egypt, Arab Rep.",1509.96960963248,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+EGY,2018,"Egypt, Arab Rep.",1557.63378420568,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SLV,2023,El Salvador,1136.99326615976,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SLV,2022,El Salvador,1109.9754646221,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SLV,2021,El Salvador,1070.6894837448,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SLV,2020,El Salvador,989.466488458978,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SLV,2019,El Salvador,1057.80514592793,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SLV,2018,El Salvador,1017.71646612186,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GNQ,2023,Equatorial Guinea,792.401175828084,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GNQ,2022,Equatorial Guinea,745.199038560169,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GNQ,2021,Equatorial Guinea,732.891892475833,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GNQ,2020,Equatorial Guinea,732.900351186273,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GNQ,2019,Equatorial Guinea,749.621147938213,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GNQ,2018,Equatorial Guinea,752.27879848208,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ERI,2023,Eritrea,123.329078288031,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ERI,2022,Eritrea,118.787592240032,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ERI,2021,Eritrea,115.217586621388,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ERI,2020,Eritrea,110.291738358829,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ERI,2019,Eritrea,109.252717584194,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ERI,2018,Eritrea,108.056978914795,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+EST,2024,Estonia,5297.51716227964,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+EST,2023,Estonia,5722.16311047475,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+EST,2022,Estonia,6464.07283295276,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+EST,2021,Estonia,6644.21623343642,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+EST,2020,Estonia,7030.34624474059,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+EST,2019,Estonia,6987.72626079774,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+EST,2018,Estonia,7354.89346637649,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SWZ,2023,Eswatini,1199.5065444622,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SWZ,2022,Eswatini,1155.12376970704,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SWZ,2021,Eswatini,1082.38652138708,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SWZ,2020,Eswatini,1092.45268623468,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SWZ,2019,Eswatini,1133.17184716334,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SWZ,2018,Eswatini,1065.93300362982,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ETH,2023,Ethiopia,112.555828390227,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ETH,2022,Ethiopia,95.6499437604969,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ETH,2021,Ethiopia,83.8801247645011,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ETH,2020,Ethiopia,93.3839345037291,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ETH,2019,Ethiopia,92.3124380650632,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ETH,2018,Ethiopia,91.919211356599,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+FIN,2024,Finland,14819.2738283578,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+FIN,2023,Finland,14392.7795410779,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+FIN,2022,Finland,14738.1997391698,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+FIN,2021,Finland,15646.5861772306,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+FIN,2020,Finland,14688.7364832862,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+FIN,2019,Finland,15508.1691812129,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+FIN,2018,Finland,15805.3857067097,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+FRA,2024,France,6447.21141881145,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+FRA,2023,France,6415.02611160317,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+FRA,2022,France,6649.38931756837,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+FRA,2021,France,6950.69961060428,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+FRA,2020,France,6685.6150734803,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+FRA,2019,France,7059.07466974036,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+FRA,2018,France,7156.81690085647,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GAB,2023,Gabon,1023.42693886684,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GAB,2022,Gabon,1050.7058118348,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GAB,2021,Gabon,1063.22910294094,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GAB,2020,Gabon,1052.29664604125,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GAB,2019,Gabon,1072.44942686574,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GAB,2018,Gabon,1017.0328135467,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GEO,2023,Georgia,3382.3327949556,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GEO,2022,Georgia,3682.96097887624,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GEO,2021,Georgia,3604.85464904641,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GEO,2020,Georgia,3150.65667109712,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GEO,2019,Georgia,3311.95343427341,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GEO,2018,Georgia,3268.97620291589,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DEU,2024,Germany,6109.08541252395,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DEU,2023,Germany,5947.27119952649,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DEU,2022,Germany,6316.27571164921,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DEU,2021,Germany,6582.54587433797,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DEU,2020,Germany,6367.10502947955,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DEU,2019,Germany,6580.29256436905,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+DEU,2018,Germany,6815.82136213371,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GHA,2023,Ghana,564.994926884211,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GHA,2022,Ghana,552.502821188307,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GHA,2021,Ghana,542.211680584058,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GHA,2020,Ghana,503.546668885278,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GHA,2019,Ghana,469.785528590296,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GHA,2018,Ghana,444.388811977184,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GIB,2023,Gibraltar,5016.7658755946,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GIB,2022,Gibraltar,4812.6778164801,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GIB,2021,Gibraltar,4910.73850995713,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GIB,2020,Gibraltar,4893.15235120117,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GIB,2019,Gibraltar,7945.00478954189,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GIB,2018,Gibraltar,7947.43788374362,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GRC,2024,Greece,4685.95599057158,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GRC,2023,Greece,4693.50942425215,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GRC,2022,Greece,4827.78285698736,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GRC,2021,Greece,4994.41443430903,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GRC,2020,Greece,4851.28940714574,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GRC,2019,Greece,5118.46106292896,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GRC,2018,Greece,5059.03260652637,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GTM,2023,Guatemala,733.082414309027,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GTM,2022,Guatemala,670.611972505189,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GTM,2021,Guatemala,784.832927525691,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GTM,2020,Guatemala,680.001094638719,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GTM,2019,Guatemala,653.948130716894,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GTM,2018,Guatemala,653.223659352529,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HTI,2022,Haiti,76.2369643049319,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HTI,2021,Haiti,74.1125874823048,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HTI,2020,Haiti,75.5079577738867,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HTI,2019,Haiti,82.0339152158325,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HTI,2018,Haiti,81.3693253333543,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HND,2023,Honduras,752.100710474952,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HND,2022,Honduras,757.081126374635,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HND,2021,Honduras,780.475801605792,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HND,2020,Honduras,676.901549857505,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HND,2019,Honduras,776.979600916486,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HND,2018,Honduras,739.359419817905,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HKG,2023,"Hong Kong SAR, China",6359.12474622152,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HKG,2022,"Hong Kong SAR, China",6423.27221246648,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HKG,2021,"Hong Kong SAR, China",6506.05010049777,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HKG,2020,"Hong Kong SAR, China",6193.15599518781,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HKG,2019,"Hong Kong SAR, China",6338.12384288549,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HKG,2018,"Hong Kong SAR, China",6298.07047205002,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HUN,2024,Hungary,4812.45421360344,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HUN,2023,Hungary,4604.58127063007,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HUN,2022,Hungary,4702.93097169267,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HUN,2021,Hungary,4757.79498806554,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HUN,2020,Hungary,4494.94484158339,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HUN,2019,Hungary,4495.49161490709,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+HUN,2018,Hungary,4435.78445330589,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ISL,2024,Iceland,48997.9456981263,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ISL,2023,Iceland,50951.2190694985,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ISL,2022,Iceland,51258.7597479601,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ISL,2021,Iceland,51135.5095028455,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ISL,2020,Iceland,50719.9908312708,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ISL,2019,Iceland,52576.1101388662,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ISL,2018,Iceland,54646.5903646225,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IND,2023,India,1181.63126786529,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IND,2022,India,1085.33520920382,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IND,2021,India,963.363913685612,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IND,2020,India,901.399579163301,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IND,2019,India,988.272169542114,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IND,2018,India,970.834176233242,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IDN,2023,Indonesia,1445.21463483986,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IDN,2022,Indonesia,1330.98768392036,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IDN,2021,Indonesia,1210.58446671469,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IDN,2020,Indonesia,1119.6155596619,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IDN,2019,Indonesia,1107.15140125038,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IDN,2018,Indonesia,1065.26035758244,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRN,2023,"Iran, Islamic Rep.",3814.54510767933,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRN,2022,"Iran, Islamic Rep.",3695.72506648087,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRN,2021,"Iran, Islamic Rep.",3589.04808710116,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRN,2020,"Iran, Islamic Rep.",3445.73798819091,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRN,2019,"Iran, Islamic Rep.",3299.83413984305,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRN,2018,"Iran, Islamic Rep.",3171.00961868621,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRQ,2023,Iraq,1377.37792315929,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRQ,2022,Iraq,1373.11648315901,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRQ,2021,Iraq,1382.15291880231,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRQ,2020,Iraq,1184.44969626588,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRQ,2019,Iraq,1104.84586986202,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRQ,2018,Iraq,1019.45520576063,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRL,2024,Ireland,6298.24363068244,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRL,2023,Ireland,6144.73623270699,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRL,2022,Ireland,6107.0403902981,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRL,2021,Ireland,6106.1502743815,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRL,2020,Ireland,5951.88607682092,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRL,2019,Ireland,5926.10484248228,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+IRL,2018,Ireland,5923.81986034362,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ISR,2024,Israel,7206.44850818094,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ISR,2023,Israel,6772.05807696213,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ISR,2022,Israel,6842.79361757782,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ISR,2021,Israel,6809.86832276928,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ISR,2020,Israel,6819.67640069017,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ISR,2019,Israel,6986.08349900596,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ISR,2018,Israel,6812.82928806232,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ITA,2024,Italy,5136.67702163416,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ITA,2023,Italy,5047.46897034285,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ITA,2022,Italy,5215.69012140866,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ITA,2021,Italy,5290.22854904133,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ITA,2020,Italy,4969.24141417202,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ITA,2019,Italy,5260.0173104957,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ITA,2018,Italy,5247.31574227309,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JAM,2023,Jamaica,1204.66823908562,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JAM,2022,Jamaica,1121.81699836289,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JAM,2021,Jamaica,1107.24175577108,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JAM,2020,Jamaica,1094.06059689714,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JAM,2019,Jamaica,1179.12874817897,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JAM,2018,Jamaica,1155.27941060183,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JPN,2024,Japan,7530.06014396198,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JPN,2023,Japan,7655.01641748312,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JPN,2022,Japan,7800.08060580129,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JPN,2021,Japan,7960.01209182637,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JPN,2020,Japan,7687.25893189504,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JPN,2019,Japan,7853.03988691731,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JPN,2018,Japan,8058.01547184393,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JOR,2023,Jordan,1857.90753262484,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JOR,2022,Jordan,1790.64757104556,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JOR,2021,Jordan,1739.50666325934,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JOR,2020,Jordan,1713.99992710691,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JOR,2019,Jordan,1725.46739842077,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+JOR,2018,Jordan,1759.55472913906,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KAZ,2023,Kazakhstan,5145.57131631004,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KAZ,2022,Kazakhstan,5271.52788457214,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KAZ,2021,Kazakhstan,5321.52110230336,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KAZ,2020,Kazakhstan,5306.86680508078,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KAZ,2019,Kazakhstan,5034.26549964328,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KAZ,2018,Kazakhstan,5152.77064946851,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KEN,2024,Kenya,195.293727720461,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KEN,2023,Kenya,190.082933008388,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KEN,2022,Kenya,189.355465367737,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KEN,2021,Kenya,184.426039295693,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KEN,2020,Kenya,172.643819770653,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KEN,2019,Kenya,175.810605144907,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KEN,2018,Kenya,178.142110438668,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRK,2023,"Korea, Dem. People's Rep.",788.585022660889,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRK,2022,"Korea, Dem. People's Rep.",832.508983967964,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRK,2021,"Korea, Dem. People's Rep.",809.414751925986,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRK,2020,"Korea, Dem. People's Rep.",776.505881931621,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRK,2019,"Korea, Dem. People's Rep.",772.151630378676,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRK,2018,"Korea, Dem. People's Rep.",801.082960194549,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KOR,2024,"Korea, Rep.",11350.1625522103,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KOR,2023,"Korea, Rep.",11426.0699114852,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KOR,2022,"Korea, Rep.",11705.6305058105,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KOR,2021,"Korea, Rep.",11726.219930218,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KOR,2020,"Korea, Rep.",11104.6636697543,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KOR,2019,"Korea, Rep.",10943.203861495,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KOR,2018,"Korea, Rep.",11161.8174394609,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KWT,2023,Kuwait,16496.2026776994,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KWT,2022,Kuwait,16570.5698678525,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KWT,2021,Kuwait,16867.9837601026,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KWT,2020,Kuwait,15481.1060328839,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KWT,2019,Kuwait,15390.6205681901,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KWT,2018,Kuwait,15618.0792711486,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KGZ,2023,Kyrgyz Republic,2068.80523962111,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KGZ,2022,Kyrgyz Republic,1971.26398880609,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KGZ,2021,Kyrgyz Republic,1975.4134443714,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KGZ,2020,Kyrgyz Republic,1889.5143992593,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KGZ,2019,Kyrgyz Republic,1911.92664392688,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+KGZ,2018,Kyrgyz Republic,1855.34659025751,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LAO,2023,Lao PDR,1664.71123978848,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LAO,2022,Lao PDR,1263.65804397324,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LAO,2021,Lao PDR,1030.56488265299,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LAO,2020,Lao PDR,867.892378622678,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LAO,2019,Lao PDR,935.664628616305,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LAO,2018,Lao PDR,841.464945858226,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LVA,2024,Latvia,3767.70246778885,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LVA,2023,Latvia,3616.79876414098,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LVA,2022,Latvia,3714.51694518893,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LVA,2021,Latvia,3838.17372339466,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LVA,2020,Latvia,3669.13292595592,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LVA,2019,Latvia,3725.00681881596,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LVA,2018,Latvia,3728.25702297769,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LBN,2023,Lebanon,975.319446996818,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LBN,2022,Lebanon,680.652360897549,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LBN,2021,Lebanon,1750.05010386277,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LBN,2020,Lebanon,2868.6177288923,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LBN,2019,Lebanon,3358.30258340791,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LBN,2018,Lebanon,3171.56126073028,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LBY,2023,Libya,3796.09833965697,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LBY,2022,Libya,3979.06643382539,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LBY,2021,Libya,4001.72385400498,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LBY,2020,Libya,3521.02130766476,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LBY,2019,Libya,4088.60093168886,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LBY,2018,Libya,4050.77780803337,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LTU,2024,Lithuania,4387.04307549343,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LTU,2023,Lithuania,4202.90536411076,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LTU,2022,Lithuania,4416.1702815931,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LTU,2021,Lithuania,4698.79432270562,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LTU,2020,Lithuania,4438.91887506587,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LTU,2019,Lithuania,4421.41817637222,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LTU,2018,Lithuania,4330.66118047673,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LUX,2024,Luxembourg,11661.5362800069,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LUX,2023,Luxembourg,11447.5638851792,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LUX,2022,Luxembourg,11676.5655646965,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LUX,2021,Luxembourg,12151.9098090191,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LUX,2020,Luxembourg,11980.920625806,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LUX,2019,Luxembourg,12309.6575650684,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LUX,2018,Luxembourg,13497.8205444527,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MDG,2023,Madagascar,80.0745430526006,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MDG,2022,Madagascar,81.3148068743768,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MDG,2021,Madagascar,80.0913863600058,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MDG,2020,Madagascar,70.2159002507326,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MDG,2019,Madagascar,82.8503526313704,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MDG,2018,Madagascar,82.2333546196851,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MYS,2023,Malaysia,5083.71249369916,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MYS,2022,Malaysia,5240.96890624958,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MYS,2021,Malaysia,4860.54082737909,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MYS,2020,Malaysia,4738.24415178268,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MYS,2019,Malaysia,4916.27003298625,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MYS,2018,Malaysia,4778.80215430923,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MLT,2023,Malta,5013.14344537374,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MLT,2022,Malta,5168.39166053175,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MLT,2021,Malta,4940.6542506996,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MLT,2020,Malta,4713.96147354944,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MLT,2019,Malta,5036.59369096191,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MLT,2018,Malta,5044.39939409344,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MUS,2023,Mauritius,2465.06818980865,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MUS,2022,Mauritius,2334.2149014315,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MUS,2021,Mauritius,2211.89670339737,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MUS,2020,Mauritius,2164.27306491081,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MUS,2019,Mauritius,2412.35085723764,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MUS,2018,Mauritius,2330.16244764246,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MEX,2024,Mexico,2658.04923845649,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MEX,2023,Mexico,2597.3996144081,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MEX,2022,Mexico,2513.81046926963,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MEX,2021,Mexico,2407.87668928812,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MEX,2020,Mexico,2354.26835282225,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MEX,2019,Mexico,2392.19041418722,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MEX,2018,Mexico,2499.62048573796,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MDA,2023,Moldova,2411.52290499202,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MDA,2022,Moldova,2255.35007952848,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MDA,2021,Moldova,2401.17820687115,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MDA,2020,Moldova,2198.37351477916,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MDA,2019,Moldova,2166.48449980182,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MDA,2018,Moldova,2126.54906189155,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MNG,2023,Mongolia,2728.12537254265,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MNG,2022,Mongolia,2545.61487913499,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MNG,2021,Mongolia,2427.49075653249,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MNG,2020,Mongolia,2189.52610059377,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MNG,2019,Mongolia,2358.86516184453,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MNG,2018,Mongolia,2275.11533765623,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MNE,2023,Montenegro,4564.34263683004,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MNE,2022,Montenegro,4345.79716512907,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MNE,2021,Montenegro,4962.77915632754,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MNE,2020,Montenegro,4744.72940838507,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MNE,2019,Montenegro,5094.51091578341,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MNE,2018,Montenegro,4966.17382725824,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MAR,2023,Morocco,997.255419654568,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MAR,2022,Morocco,978.27258674367,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MAR,2021,Morocco,950.467605491107,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MAR,2020,Morocco,916.187662173799,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MAR,2019,Morocco,940.186570352384,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MAR,2018,Morocco,923.0251541863,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MOZ,2023,Mozambique,390.662628035663,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MOZ,2022,Mozambique,397.688086989546,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MOZ,2021,Mozambique,406.177659755644,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MOZ,2020,Mozambique,417.428866872611,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MOZ,2019,Mozambique,459.102715197705,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MOZ,2018,Mozambique,450.331173296726,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MMR,2023,Myanmar,368.438955640984,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MMR,2022,Myanmar,379.914818941839,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MMR,2021,Myanmar,422.536514531169,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MMR,2020,Myanmar,395.027799069882,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MMR,2019,Myanmar,415.058967761322,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MMR,2018,Myanmar,367.192938922254,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NAM,2023,Namibia,1232.15759197731,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NAM,2022,Namibia,1218.8276691184,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NAM,2021,Namibia,1238.54849659212,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NAM,2020,Namibia,1411.26268982051,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NAM,2019,Namibia,1556.31365322842,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NAM,2018,Namibia,1658.3072307084,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NPL,2023,Nepal,350.972738692613,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NPL,2022,Nepal,321.381789585722,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NPL,2021,Nepal,305.716605354841,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NPL,2020,Nepal,257.262042794567,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NPL,2019,Nepal,231.188329835535,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NPL,2018,Nepal,229.988302220869,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NLD,2024,Netherlands,6386.36706563515,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NLD,2023,Netherlands,6206.42579001972,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NLD,2022,Netherlands,6352.1899519473,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NLD,2021,Netherlands,6708.8179325849,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NLD,2020,Netherlands,6643.57996731932,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NLD,2019,Netherlands,6757.32784222013,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NLD,2018,Netherlands,6790.77027214614,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NZL,2024,New Zealand,7992.62411347518,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NZL,2023,New Zealand,8021.15384615385,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NZL,2022,New Zealand,8144.71535116201,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NZL,2021,New Zealand,8203.39849742359,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NZL,2020,New Zealand,8195.72588912546,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NZL,2019,New Zealand,8479.56863770799,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NZL,2018,New Zealand,8519.77308900951,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NIC,2023,Nicaragua,640.569739227591,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NIC,2022,Nicaragua,656.548382965459,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NIC,2021,Nicaragua,618.233276511455,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NIC,2020,Nicaragua,581.088324359086,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NIC,2019,Nicaragua,604.597066131043,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NIC,2018,Nicaragua,605.929925875927,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NER,2023,Niger,67.7373474414071,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NER,2022,Niger,60.0111259600348,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NER,2021,Niger,55.7094196670168,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NER,2020,Niger,61.2203260083551,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NER,2019,Niger,61.6182226437207,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NER,2018,Niger,55.615475145674,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NGA,2023,Nigeria,144.13540249798,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NGA,2022,Nigeria,139.215215160955,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NGA,2021,Nigeria,151.14678954289,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NGA,2020,Nigeria,145.161469026403,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NGA,2019,Nigeria,138.214723748059,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NGA,2018,Nigeria,139.470936085271,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MKD,2023,North Macedonia,3320.35609711262,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MKD,2022,North Macedonia,3484.17218427351,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MKD,2021,North Macedonia,3793.4499437705,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MKD,2020,North Macedonia,3581.11850285865,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MKD,2019,North Macedonia,3580.52340238197,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+MKD,2018,North Macedonia,3457.82088466643,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NOR,2024,Norway,23673.0788246604,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NOR,2023,Norway,23520.1783607185,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NOR,2022,Norway,23373.4710590389,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NOR,2021,Norway,24650.1686290752,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NOR,2020,Norway,23863.2952100344,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NOR,2019,Norway,23926.0449343069,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+NOR,2018,Norway,24357.3128791946,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+OMN,2023,Oman,8203.16762683866,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+OMN,2022,Oman,8092.6365886112,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+OMN,2021,Oman,8282.10853021849,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+OMN,2020,Oman,7657.27428896028,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+OMN,2019,Oman,7688.11743927187,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+OMN,2018,Oman,7407.76667144423,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PAK,2023,Pakistan,518.297657583956,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PAK,2022,Pakistan,517.072856431698,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PAK,2021,Pakistan,570.20734042902,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PAK,2020,Pakistan,517.774876447088,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PAK,2019,Pakistan,481.280621008326,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PAK,2018,Pakistan,494.718847875924,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PAN,2023,Panama,2714.88097921417,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PAN,2022,Panama,2546.37083076087,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PAN,2021,Panama,2419.56733607109,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PAN,2020,Panama,2170.14525788206,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PAN,2019,Panama,2384.82064845207,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PAN,2018,Panama,2271.66939388559,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRY,2023,Paraguay,2388.61064623694,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRY,2022,Paraguay,2213.01378130259,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRY,2021,Paraguay,2126.51301236262,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRY,2020,Paraguay,2141.3626431935,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRY,2019,Paraguay,2030.5268195617,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRY,2018,Paraguay,2020.57385106409,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PER,2023,Peru,1594.68211201468,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PER,2022,Peru,1568.31405760845,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PER,2021,Peru,1517.34766096706,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PER,2020,Peru,1405.23741907346,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PER,2019,Peru,1560.3724986019,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PER,2018,Peru,1536.48000425361,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PHL,2023,Philippines,924.622607515829,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PHL,2022,Philippines,884.846977306182,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PHL,2021,Philippines,850.249268463262,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PHL,2020,Philippines,821.11850558716,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PHL,2019,Philippines,866.966967452089,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PHL,2018,Philippines,829.148696243769,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+POL,2024,Poland,4369.59385882083,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+POL,2023,Poland,4381.86423534017,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+POL,2022,Poland,4552.82555969843,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+POL,2021,Poland,4631.20010705876,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+POL,2020,Poland,4299.90093760092,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+POL,2019,Poland,4363.43809737663,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+POL,2018,Poland,4393.41931151621,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRT,2024,Portugal,5293.84653922824,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRT,2023,Portugal,5146.35134570484,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRT,2022,Portugal,5085.23209727273,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRT,2021,Portugal,4901.6433485549,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRT,2020,Portugal,4858.94983248165,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRT,2019,Portugal,5016.98235792727,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+PRT,2018,Portugal,5048.60935943854,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+QAT,2023,Qatar,19963.2383947181,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+QAT,2022,Qatar,19381.0862244213,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+QAT,2021,Qatar,19448.6029438183,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+QAT,2020,Qatar,16636.1982257203,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+QAT,2019,Qatar,17849.9895969806,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+QAT,2018,Qatar,17485.7230539839,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ROU,2023,Romania,2585.27043246593,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ROU,2022,Romania,2717.53652859422,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ROU,2021,Romania,2900.83824132119,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ROU,2020,Romania,2726.41154410143,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ROU,2019,Romania,2820.56539536543,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ROU,2018,Romania,2838.45564104289,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+RUS,2023,Russian Federation,7285.35211230393,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+RUS,2022,Russian Federation,7184.39430489,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+RUS,2021,Russian Federation,7186.67544355845,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+RUS,2020,Russian Federation,6770.33287198,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+RUS,2019,Russian Federation,6902.44952931316,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+RUS,2018,Russian Federation,6873.34950566688,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+RWA,2023,Rwanda,76.6779335454565,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+RWA,2022,Rwanda,69.5185638006802,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+RWA,2021,Rwanda,61.9980442162863,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+RWA,2020,Rwanda,56.1005008710885,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+RWA,2019,Rwanda,56.2769414116339,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+RWA,2018,Rwanda,57.49521380372,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SAU,2023,Saudi Arabia,11910.5778104451,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SAU,2022,Saudi Arabia,11840.6013272821,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SAU,2021,Saudi Arabia,12074.531427185,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SAU,2020,Saudi Arabia,11360.9979047626,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SAU,2019,Saudi Arabia,11876.2768471144,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SAU,2018,Saudi Arabia,11788.7033837048,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SEN,2023,Senegal,410.176742198745,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SEN,2022,Senegal,399.521774928173,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SEN,2021,Senegal,329.600129888931,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SEN,2020,Senegal,312.164609920211,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SEN,2019,Senegal,310.52554399758,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SEN,2018,Senegal,271.6391054245,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SRB,2023,Serbia,5089.5468236345,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SRB,2022,Serbia,5113.70107266182,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SRB,2021,Serbia,5034.14674687745,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SRB,2020,Serbia,4778.43135492815,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SRB,2019,Serbia,4800.8454717515,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SRB,2018,Serbia,4727.46270589024,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SGP,2023,Singapore,9750.49546711802,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SGP,2022,Singapore,10143.4764668295,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SGP,2021,Singapore,10220.4685888096,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SGP,2020,Singapore,9306.5065346045,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SGP,2019,Singapore,9451.80114416079,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SGP,2018,Singapore,9326.12549470833,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SVK,2024,Slovak Republic,4674.59930886162,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SVK,2023,Slovak Republic,4673.89261324478,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SVK,2022,Slovak Republic,4957.70057248564,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SVK,2021,Slovak Republic,5404.56491141305,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SVK,2020,Slovak Republic,5050.16920301742,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SVK,2019,Slovak Republic,5213.46417689146,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SVK,2018,Slovak Republic,5400.99813265511,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SVN,2024,Slovenia,6449.65685813669,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SVN,2023,Slovenia,6418.41561811323,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SVN,2022,Slovenia,6731.29186639117,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SVN,2021,Slovenia,7006.37879320462,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SVN,2020,Slovenia,6820.23897234566,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SVN,2019,Slovenia,7145.7130749359,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SVN,2018,Slovenia,7206.25065697668,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZAF,2023,South Africa,3247.14853342661,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZAF,2022,South Africa,3404.62349072379,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZAF,2021,South Africa,3518.45270679031,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZAF,2020,South Africa,3477.81901111187,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZAF,2019,South Africa,3768.65196675465,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZAF,2018,South Africa,3906.31764444206,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SSD,2023,South Sudan,47.8953311108739,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SSD,2022,South Sudan,48.9058473518754,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SSD,2021,South Sudan,50.5255950332144,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SSD,2020,South Sudan,49.63327923524,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SSD,2019,South Sudan,50.6553341985674,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SSD,2018,South Sudan,51.3682882021761,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ESP,2024,Spain,5196.11110519718,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ESP,2023,Spain,5117.82961999422,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ESP,2022,Spain,5179.76963260155,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ESP,2021,Spain,5236.4247812165,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ESP,2020,Spain,5089.18774012116,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ESP,2019,Spain,5418.86933117843,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ESP,2018,Spain,5556.79404205176,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LKA,2023,Sri Lanka,644.461587330399,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LKA,2022,Sri Lanka,657.45457824264,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LKA,2021,Sri Lanka,713.666726846001,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LKA,2020,Sri Lanka,682.604133400246,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LKA,2019,Sri Lanka,679.264321423657,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+LKA,2018,Sri Lanka,652.099676972773,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SDN,2023,Sudan,222.629469247628,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SDN,2022,Sudan,280.620920259231,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SDN,2021,Sudan,304.575345824085,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SDN,2020,Sudan,300.902573072851,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SDN,2019,Sudan,283.084887594289,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SDN,2018,Sudan,305.195977915378,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SUR,2023,Suriname,2897.18645350668,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SUR,2022,Suriname,2955.88320249565,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SUR,2021,Suriname,2955.18987013996,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SUR,2020,Suriname,2931.48810175122,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SUR,2019,Suriname,2936.76787152837,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SUR,2018,Suriname,2778.92222520613,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SWE,2024,Sweden,12226.2590199976,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SWE,2023,Sweden,12149.5179863926,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SWE,2022,Sweden,12418.3973191038,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SWE,2021,Sweden,13017.9973503743,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SWE,2020,Sweden,12607.4980668265,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SWE,2019,Sweden,12811.5038135938,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SWE,2018,Sweden,13330.4321658493,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHE,2024,Switzerland,7117.25238857411,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHE,2023,Switzerland,7174.96649162285,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHE,2022,Switzerland,7422.84912718204,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHE,2021,Switzerland,7398.77760425414,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHE,2020,Switzerland,7203.03277304085,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHE,2019,Switzerland,7356.96093888479,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+CHE,2018,Switzerland,7436.28769806758,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SYR,2023,Syrian Arab Republic,853.965753129431,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SYR,2022,Syrian Arab Republic,850.318444257374,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SYR,2021,Syrian Arab Republic,918.126026089519,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SYR,2020,Syrian Arab Republic,967.674705095326,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SYR,2019,Syrian Arab Republic,1033.38319527213,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+SYR,2018,Syrian Arab Republic,1042.86248052327,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TJK,2023,Tajikistan,1497.4303160244,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TJK,2022,Tajikistan,1475.61111906615,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TJK,2021,Tajikistan,1427.12263422116,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TJK,2020,Tajikistan,1647.1934936934,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TJK,2019,Tajikistan,1640.50952542748,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TJK,2018,Tajikistan,1555.54765258748,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TZA,2023,Tanzania,134.964321593904,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TZA,2022,Tanzania,131.645190451371,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TZA,2021,Tanzania,129.045787571789,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TZA,2020,Tanzania,119.331902728164,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TZA,2019,Tanzania,121.740824161383,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TZA,2018,Tanzania,110.956072067997,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+THA,2023,Thailand,2965.2131060821,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+THA,2022,Thailand,2828.55049009394,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+THA,2021,Thailand,2722.00282034748,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+THA,2020,Thailand,2673.06020629053,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+THA,2019,Thailand,2774.0170610634,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+THA,2018,Thailand,2700.1763433937,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TGO,2023,Togo,217.210533109452,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TGO,2022,Togo,192.854843560948,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TGO,2021,Togo,162.304402639266,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TGO,2020,Togo,162.404322169574,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TGO,2019,Togo,167.315210039669,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TGO,2018,Togo,125.563370271001,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TTO,2023,Trinidad and Tobago,6663.93664397335,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TTO,2022,Trinidad and Tobago,6590.98480383364,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TTO,2021,Trinidad and Tobago,6459.68946106856,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TTO,2020,Trinidad and Tobago,6438.74956556732,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TTO,2019,Trinidad and Tobago,6425.29060070309,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TTO,2018,Trinidad and Tobago,6474.43004782985,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TUN,2023,Tunisia,1628.63098852819,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TUN,2022,Tunisia,1595.4672096668,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TUN,2021,Tunisia,1519.59286298466,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TUN,2020,Tunisia,1423.24360072781,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TUN,2019,Tunisia,1533.80006418483,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TUN,2018,Tunisia,1464.78938361724,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TUR,2024,Turkiye,3730.82314747655,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TUR,2023,Turkiye,3581.25454543643,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TUR,2022,Turkiye,3554.2281621305,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TUR,2021,Turkiye,3587.45836676577,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TUR,2020,Turkiye,3318.84705919601,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TUR,2019,Turkiye,3294.2219031759,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TUR,2018,Turkiye,3347.76268694844,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TKM,2023,Turkmenistan,2777.67291950859,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TKM,2022,Turkmenistan,2829.2467434825,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TKM,2021,Turkmenistan,2659.17733437318,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TKM,2020,Turkmenistan,2618.73819409512,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TKM,2019,Turkmenistan,2577.18170519922,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+TKM,2018,Turkmenistan,2780.54740693595,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UGA,2023,Uganda,95.2799806135246,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UGA,2022,Uganda,89.8489896554032,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UGA,2021,Uganda,84.2718716436369,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UGA,2020,Uganda,78.9299323537414,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UGA,2019,Uganda,80.8146357142503,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UGA,2018,Uganda,75.1819445159174,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UKR,2023,Ukraine,2516.32291831974,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UKR,2022,Ukraine,2419.58552420309,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UKR,2021,Ukraine,3165.17617696616,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UKR,2020,Ukraine,2921.70902184587,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UKR,2019,Ukraine,2973.07734792301,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UKR,2018,Ukraine,3025.31091937259,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARE,2023,United Arab Emirates,15284.7010578561,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARE,2022,United Arab Emirates,14687.9739775088,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARE,2021,United Arab Emirates,14828.6941032372,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARE,2020,United Arab Emirates,13855.0657916711,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARE,2019,United Arab Emirates,13914.1426572805,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ARE,2018,United Arab Emirates,13702.8027322154,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GBR,2024,United Kingdom,4198.22032184439,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GBR,2023,United Kingdom,4231.37008701746,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GBR,2022,United Kingdom,4316.5197325602,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GBR,2021,United Kingdom,4569.6434969545,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GBR,2020,United Kingdom,4511.02720843821,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GBR,2019,United Kingdom,4775.40484159025,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+GBR,2018,United Kingdom,4901.86908838571,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+USA,2024,United States,12835.2954006884,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+USA,2023,United States,12551.2256333524,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+USA,2022,United States,12968.1628097364,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+USA,2021,United States,12556.0915792291,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+USA,2020,United States,12393.4382563461,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+USA,2019,United States,12678.2540503665,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+USA,2018,United States,13054.4045353944,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+URY,2023,Uruguay,3789.75591197495,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+URY,2022,Uruguay,3589.8886229166,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+URY,2021,Uruguay,3524.60259163687,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+URY,2020,Uruguay,3479.58556832544,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+URY,2019,Uruguay,3464.31744203913,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+URY,2018,Uruguay,3500.62777394482,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UZB,2023,Uzbekistan,2059.24963004498,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UZB,2022,Uzbekistan,2094.05232640759,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UZB,2021,Uzbekistan,2118.90095041143,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UZB,2020,Uzbekistan,1758.03447898451,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UZB,2019,Uzbekistan,1824.40605179461,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+UZB,2018,Uzbekistan,1781.58116409445,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+VEN,2023,"Venezuela, RB",1952.80326169663,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+VEN,2022,"Venezuela, RB",2138.23285896719,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+VEN,2021,"Venezuela, RB",2128.42164265762,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+VEN,2020,"Venezuela, RB",2014.65493149945,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+VEN,2019,"Venezuela, RB",2009.11614854577,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+VEN,2018,"Venezuela, RB",2539.35306146166,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+VNM,2023,Viet Nam,2585.49409663119,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+VNM,2022,Viet Nam,2624.40089303185,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+VNM,2021,Viet Nam,2403.54540306818,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+VNM,2020,Viet Nam,2303.70986644863,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+VNM,2019,Viet Nam,2290.2681069016,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+VNM,2018,Viet Nam,2115.35402394159,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+YEM,2023,"Yemen, Rep.",89.7417693913749,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+YEM,2022,"Yemen, Rep.",93.5827016261152,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+YEM,2021,"Yemen, Rep.",88.1793139137803,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+YEM,2020,"Yemen, Rep.",93.8705648337452,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+YEM,2019,"Yemen, Rep.",124.119203650278,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+YEM,2018,"Yemen, Rep.",117.529077591547,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZMB,2023,Zambia,726.743169079855,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZMB,2022,Zambia,704.8103854634,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZMB,2021,Zambia,675.079846275229,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZMB,2020,Zambia,618.645030442991,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZMB,2019,Zambia,714.546561628844,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZMB,2018,Zambia,748.821783809326,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZWE,2023,Zimbabwe,503.769027041602,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZWE,2022,Zimbabwe,554.481856308174,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZWE,2021,Zimbabwe,460.461056097881,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZWE,2020,Zimbabwe,479.877229744943,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZWE,2019,Zimbabwe,539.375385361678,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc
+ZWE,2018,Zimbabwe,641.659569633798,EG.USE.ELEC.KH.PC,electric_consumption_kwh_pc

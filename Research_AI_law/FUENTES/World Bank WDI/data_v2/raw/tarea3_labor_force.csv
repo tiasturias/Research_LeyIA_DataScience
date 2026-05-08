@@ -1,0 +1,1483 @@
+iso3,year,country_name,value,wb_indicator,canonical_name
+AFG,2025,Afghanistan,9433041,SL.TLF.TOTL.IN,labor_force
+AFG,2024,Afghanistan,9145340,SL.TLF.TOTL.IN,labor_force
+AFG,2023,Afghanistan,8846502,SL.TLF.TOTL.IN,labor_force
+AFG,2022,Afghanistan,8617545,SL.TLF.TOTL.IN,labor_force
+AFG,2021,Afghanistan,9128262,SL.TLF.TOTL.IN,labor_force
+AFG,2020,Afghanistan,9060510,SL.TLF.TOTL.IN,labor_force
+AFG,2019,Afghanistan,9192643,SL.TLF.TOTL.IN,labor_force
+AFG,2018,Afghanistan,9215046,SL.TLF.TOTL.IN,labor_force
+ALB,2025,Albania,1262236,SL.TLF.TOTL.IN,labor_force
+ALB,2024,Albania,1265271,SL.TLF.TOTL.IN,labor_force
+ALB,2023,Albania,1279356,SL.TLF.TOTL.IN,labor_force
+ALB,2022,Albania,1261497,SL.TLF.TOTL.IN,labor_force
+ALB,2021,Albania,1227911,SL.TLF.TOTL.IN,labor_force
+ALB,2020,Albania,1238064,SL.TLF.TOTL.IN,labor_force
+ALB,2019,Albania,1273761,SL.TLF.TOTL.IN,labor_force
+ALB,2018,Albania,1267869,SL.TLF.TOTL.IN,labor_force
+DZA,2025,Algeria,13556625,SL.TLF.TOTL.IN,labor_force
+DZA,2024,Algeria,13425069,SL.TLF.TOTL.IN,labor_force
+DZA,2023,Algeria,13290460,SL.TLF.TOTL.IN,labor_force
+DZA,2022,Algeria,13145205,SL.TLF.TOTL.IN,labor_force
+DZA,2021,Algeria,11881915,SL.TLF.TOTL.IN,labor_force
+DZA,2020,Algeria,11586994,SL.TLF.TOTL.IN,labor_force
+DZA,2019,Algeria,12673323,SL.TLF.TOTL.IN,labor_force
+DZA,2018,Algeria,12518797,SL.TLF.TOTL.IN,labor_force
+AGO,2025,Angola,16321277,SL.TLF.TOTL.IN,labor_force
+AGO,2024,Angola,15787244,SL.TLF.TOTL.IN,labor_force
+AGO,2023,Angola,15255232,SL.TLF.TOTL.IN,labor_force
+AGO,2022,Angola,14812783,SL.TLF.TOTL.IN,labor_force
+AGO,2021,Angola,14529142,SL.TLF.TOTL.IN,labor_force
+AGO,2020,Angola,13484525,SL.TLF.TOTL.IN,labor_force
+AGO,2019,Angola,13331298,SL.TLF.TOTL.IN,labor_force
+AGO,2018,Angola,12917977,SL.TLF.TOTL.IN,labor_force
+ARG,2025,Argentina,22422031,SL.TLF.TOTL.IN,labor_force
+ARG,2024,Argentina,22161435,SL.TLF.TOTL.IN,labor_force
+ARG,2023,Argentina,22069879,SL.TLF.TOTL.IN,labor_force
+ARG,2022,Argentina,21566906,SL.TLF.TOTL.IN,labor_force
+ARG,2021,Argentina,20993886,SL.TLF.TOTL.IN,labor_force
+ARG,2020,Argentina,19317784,SL.TLF.TOTL.IN,labor_force
+ARG,2019,Argentina,20580300,SL.TLF.TOTL.IN,labor_force
+ARG,2018,Argentina,20125838,SL.TLF.TOTL.IN,labor_force
+ARM,2025,Armenia,1449654,SL.TLF.TOTL.IN,labor_force
+ARM,2024,Armenia,1467933,SL.TLF.TOTL.IN,labor_force
+ARM,2023,Armenia,1430641,SL.TLF.TOTL.IN,labor_force
+ARM,2022,Armenia,1399516,SL.TLF.TOTL.IN,labor_force
+ARM,2021,Armenia,1467125,SL.TLF.TOTL.IN,labor_force
+ARM,2020,Armenia,1448279,SL.TLF.TOTL.IN,labor_force
+ARM,2019,Armenia,1387309,SL.TLF.TOTL.IN,labor_force
+ARM,2018,Armenia,1448464,SL.TLF.TOTL.IN,labor_force
+AUS,2025,Australia,15033307,SL.TLF.TOTL.IN,labor_force
+AUS,2024,Australia,14907959,SL.TLF.TOTL.IN,labor_force
+AUS,2023,Australia,14646578,SL.TLF.TOTL.IN,labor_force
+AUS,2022,Australia,14230223,SL.TLF.TOTL.IN,labor_force
+AUS,2021,Australia,13859964,SL.TLF.TOTL.IN,labor_force
+AUS,2020,Australia,13583584,SL.TLF.TOTL.IN,labor_force
+AUS,2019,Australia,13618789,SL.TLF.TOTL.IN,labor_force
+AUS,2018,Australia,13344850,SL.TLF.TOTL.IN,labor_force
+AUT,2025,Austria,4731937,SL.TLF.TOTL.IN,labor_force
+AUT,2024,Austria,4763195,SL.TLF.TOTL.IN,labor_force
+AUT,2023,Austria,4762160,SL.TLF.TOTL.IN,labor_force
+AUT,2022,Austria,4715201,SL.TLF.TOTL.IN,labor_force
+AUT,2021,Austria,4650207,SL.TLF.TOTL.IN,labor_force
+AUT,2020,Austria,4607777,SL.TLF.TOTL.IN,labor_force
+AUT,2019,Austria,4627750,SL.TLF.TOTL.IN,labor_force
+AUT,2018,Austria,4608423,SL.TLF.TOTL.IN,labor_force
+AZE,2025,Azerbaijan,5118728,SL.TLF.TOTL.IN,labor_force
+AZE,2024,Azerbaijan,5097655,SL.TLF.TOTL.IN,labor_force
+AZE,2023,Azerbaijan,5073676,SL.TLF.TOTL.IN,labor_force
+AZE,2022,Azerbaijan,5071753,SL.TLF.TOTL.IN,labor_force
+AZE,2021,Azerbaijan,4963081,SL.TLF.TOTL.IN,labor_force
+AZE,2020,Azerbaijan,5197914,SL.TLF.TOTL.IN,labor_force
+AZE,2019,Azerbaijan,4998924,SL.TLF.TOTL.IN,labor_force
+AZE,2018,Azerbaijan,4955866,SL.TLF.TOTL.IN,labor_force
+BHS,2025,"Bahamas, The",245159,SL.TLF.TOTL.IN,labor_force
+BHS,2024,"Bahamas, The",243754,SL.TLF.TOTL.IN,labor_force
+BHS,2023,"Bahamas, The",241834,SL.TLF.TOTL.IN,labor_force
+BHS,2022,"Bahamas, The",239500,SL.TLF.TOTL.IN,labor_force
+BHS,2021,"Bahamas, The",223263,SL.TLF.TOTL.IN,labor_force
+BHS,2020,"Bahamas, The",216992,SL.TLF.TOTL.IN,labor_force
+BHS,2019,"Bahamas, The",235355,SL.TLF.TOTL.IN,labor_force
+BHS,2018,"Bahamas, The",232799,SL.TLF.TOTL.IN,labor_force
+BHR,2025,Bahrain,932073,SL.TLF.TOTL.IN,labor_force
+BHR,2024,Bahrain,911274,SL.TLF.TOTL.IN,labor_force
+BHR,2023,Bahrain,903224,SL.TLF.TOTL.IN,labor_force
+BHR,2022,Bahrain,867174,SL.TLF.TOTL.IN,labor_force
+BHR,2021,Bahrain,837039,SL.TLF.TOTL.IN,labor_force
+BHR,2020,Bahrain,816393,SL.TLF.TOTL.IN,labor_force
+BHR,2019,Bahrain,846623,SL.TLF.TOTL.IN,labor_force
+BHR,2018,Bahrain,868320,SL.TLF.TOTL.IN,labor_force
+BGD,2025,Bangladesh,74739682,SL.TLF.TOTL.IN,labor_force
+BGD,2024,Bangladesh,73619393,SL.TLF.TOTL.IN,labor_force
+BGD,2023,Bangladesh,74789575,SL.TLF.TOTL.IN,labor_force
+BGD,2022,Bangladesh,74651451,SL.TLF.TOTL.IN,labor_force
+BGD,2021,Bangladesh,72637932,SL.TLF.TOTL.IN,labor_force
+BGD,2020,Bangladesh,70314500,SL.TLF.TOTL.IN,labor_force
+BGD,2019,Bangladesh,69165404,SL.TLF.TOTL.IN,labor_force
+BGD,2018,Bangladesh,67683856,SL.TLF.TOTL.IN,labor_force
+BRB,2025,Barbados,151620,SL.TLF.TOTL.IN,labor_force
+BRB,2024,Barbados,151889,SL.TLF.TOTL.IN,labor_force
+BRB,2023,Barbados,151472,SL.TLF.TOTL.IN,labor_force
+BRB,2022,Barbados,151781,SL.TLF.TOTL.IN,labor_force
+BRB,2021,Barbados,144514,SL.TLF.TOTL.IN,labor_force
+BRB,2020,Barbados,145656,SL.TLF.TOTL.IN,labor_force
+BRB,2019,Barbados,149274,SL.TLF.TOTL.IN,labor_force
+BRB,2018,Barbados,150452,SL.TLF.TOTL.IN,labor_force
+BLR,2025,Belarus,4789298,SL.TLF.TOTL.IN,labor_force
+BLR,2024,Belarus,4835456,SL.TLF.TOTL.IN,labor_force
+BLR,2023,Belarus,4861854,SL.TLF.TOTL.IN,labor_force
+BLR,2022,Belarus,4907541,SL.TLF.TOTL.IN,labor_force
+BLR,2021,Belarus,4938726,SL.TLF.TOTL.IN,labor_force
+BLR,2020,Belarus,4982156,SL.TLF.TOTL.IN,labor_force
+BLR,2019,Belarus,5025008,SL.TLF.TOTL.IN,labor_force
+BLR,2018,Belarus,5054114,SL.TLF.TOTL.IN,labor_force
+BEL,2025,Belgium,5433161,SL.TLF.TOTL.IN,labor_force
+BEL,2024,Belgium,5432908,SL.TLF.TOTL.IN,labor_force
+BEL,2023,Belgium,5365023,SL.TLF.TOTL.IN,labor_force
+BEL,2022,Belgium,5320892,SL.TLF.TOTL.IN,labor_force
+BEL,2021,Belgium,5217415,SL.TLF.TOTL.IN,labor_force
+BEL,2020,Belgium,5124712,SL.TLF.TOTL.IN,labor_force
+BEL,2019,Belgium,5146209,SL.TLF.TOTL.IN,labor_force
+BEL,2018,Belgium,5093485,SL.TLF.TOTL.IN,labor_force
+BLZ,2025,Belize,184286,SL.TLF.TOTL.IN,labor_force
+BLZ,2024,Belize,174087,SL.TLF.TOTL.IN,labor_force
+BLZ,2023,Belize,172940,SL.TLF.TOTL.IN,labor_force
+BLZ,2022,Belize,170023,SL.TLF.TOTL.IN,labor_force
+BLZ,2021,Belize,171060,SL.TLF.TOTL.IN,labor_force
+BLZ,2020,Belize,151949,SL.TLF.TOTL.IN,labor_force
+BLZ,2019,Belize,189886,SL.TLF.TOTL.IN,labor_force
+BLZ,2018,Belize,179388,SL.TLF.TOTL.IN,labor_force
+BEN,2025,Benin,6644562,SL.TLF.TOTL.IN,labor_force
+BEN,2024,Benin,6447181,SL.TLF.TOTL.IN,labor_force
+BEN,2023,Benin,6260192,SL.TLF.TOTL.IN,labor_force
+BEN,2022,Benin,6074872,SL.TLF.TOTL.IN,labor_force
+BEN,2021,Benin,5877845,SL.TLF.TOTL.IN,labor_force
+BEN,2020,Benin,5605006,SL.TLF.TOTL.IN,labor_force
+BEN,2019,Benin,5459336,SL.TLF.TOTL.IN,labor_force
+BEN,2018,Benin,5267149,SL.TLF.TOTL.IN,labor_force
+BTN,2025,Bhutan,411263,SL.TLF.TOTL.IN,labor_force
+BTN,2024,Bhutan,406288,SL.TLF.TOTL.IN,labor_force
+BTN,2023,Bhutan,401407,SL.TLF.TOTL.IN,labor_force
+BTN,2022,Bhutan,384122,SL.TLF.TOTL.IN,labor_force
+BTN,2021,Bhutan,414321,SL.TLF.TOTL.IN,labor_force
+BTN,2020,Bhutan,400199,SL.TLF.TOTL.IN,labor_force
+BTN,2019,Bhutan,384922,SL.TLF.TOTL.IN,labor_force
+BTN,2018,Bhutan,356713,SL.TLF.TOTL.IN,labor_force
+BOL,2025,Bolivia,6980187,SL.TLF.TOTL.IN,labor_force
+BOL,2024,Bolivia,6827098,SL.TLF.TOTL.IN,labor_force
+BOL,2023,Bolivia,6704214,SL.TLF.TOTL.IN,labor_force
+BOL,2022,Bolivia,6569575,SL.TLF.TOTL.IN,labor_force
+BOL,2021,Bolivia,6426918,SL.TLF.TOTL.IN,labor_force
+BOL,2020,Bolivia,5890135,SL.TLF.TOTL.IN,labor_force
+BOL,2019,Bolivia,5946418,SL.TLF.TOTL.IN,labor_force
+BOL,2018,Bolivia,5649910,SL.TLF.TOTL.IN,labor_force
+BIH,2025,Bosnia and Herzegovina,1340707,SL.TLF.TOTL.IN,labor_force
+BIH,2024,Bosnia and Herzegovina,1354967,SL.TLF.TOTL.IN,labor_force
+BIH,2023,Bosnia and Herzegovina,1366194,SL.TLF.TOTL.IN,labor_force
+BIH,2022,Bosnia and Herzegovina,1355798,SL.TLF.TOTL.IN,labor_force
+BIH,2021,Bosnia and Herzegovina,1339593,SL.TLF.TOTL.IN,labor_force
+BIH,2020,Bosnia and Herzegovina,1353715,SL.TLF.TOTL.IN,labor_force
+BIH,2019,Bosnia and Herzegovina,1409096,SL.TLF.TOTL.IN,labor_force
+BIH,2018,Bosnia and Herzegovina,1434054,SL.TLF.TOTL.IN,labor_force
+BWA,2025,Botswana,1199393,SL.TLF.TOTL.IN,labor_force
+BWA,2024,Botswana,1173288,SL.TLF.TOTL.IN,labor_force
+BWA,2023,Botswana,1146757,SL.TLF.TOTL.IN,labor_force
+BWA,2022,Botswana,1065472,SL.TLF.TOTL.IN,labor_force
+BWA,2021,Botswana,1036012,SL.TLF.TOTL.IN,labor_force
+BWA,2020,Botswana,973488,SL.TLF.TOTL.IN,labor_force
+BWA,2019,Botswana,987878,SL.TLF.TOTL.IN,labor_force
+BWA,2018,Botswana,962977,SL.TLF.TOTL.IN,labor_force
+BRA,2025,Brazil,108318282,SL.TLF.TOTL.IN,labor_force
+BRA,2024,Brazil,107871864,SL.TLF.TOTL.IN,labor_force
+BRA,2023,Brazil,106356432,SL.TLF.TOTL.IN,labor_force
+BRA,2022,Brazil,106610573,SL.TLF.TOTL.IN,labor_force
+BRA,2021,Brazil,104085430,SL.TLF.TOTL.IN,labor_force
+BRA,2020,Brazil,100001874,SL.TLF.TOTL.IN,labor_force
+BRA,2019,Brazil,106262669,SL.TLF.TOTL.IN,labor_force
+BRA,2018,Brazil,104554923,SL.TLF.TOTL.IN,labor_force
+BRN,2025,Brunei Darussalam,237763,SL.TLF.TOTL.IN,labor_force
+BRN,2024,Brunei Darussalam,236334,SL.TLF.TOTL.IN,labor_force
+BRN,2023,Brunei Darussalam,234630,SL.TLF.TOTL.IN,labor_force
+BRN,2022,Brunei Darussalam,230003,SL.TLF.TOTL.IN,labor_force
+BRN,2021,Brunei Darussalam,227037,SL.TLF.TOTL.IN,labor_force
+BRN,2020,Brunei Darussalam,224330,SL.TLF.TOTL.IN,labor_force
+BRN,2019,Brunei Darussalam,223877,SL.TLF.TOTL.IN,labor_force
+BRN,2018,Brunei Darussalam,225919,SL.TLF.TOTL.IN,labor_force
+BGR,2025,Bulgaria,3073503,SL.TLF.TOTL.IN,labor_force
+BGR,2024,Bulgaria,3100224,SL.TLF.TOTL.IN,labor_force
+BGR,2023,Bulgaria,3134615,SL.TLF.TOTL.IN,labor_force
+BGR,2022,Bulgaria,3134677,SL.TLF.TOTL.IN,labor_force
+BGR,2021,Bulgaria,3082471,SL.TLF.TOTL.IN,labor_force
+BGR,2020,Bulgaria,3132138,SL.TLF.TOTL.IN,labor_force
+BGR,2019,Bulgaria,3209606,SL.TLF.TOTL.IN,labor_force
+BGR,2018,Bulgaria,3181267,SL.TLF.TOTL.IN,labor_force
+BFA,2025,Burkina Faso,9914873,SL.TLF.TOTL.IN,labor_force
+BFA,2024,Burkina Faso,9601936,SL.TLF.TOTL.IN,labor_force
+BFA,2023,Burkina Faso,9442280,SL.TLF.TOTL.IN,labor_force
+BFA,2022,Burkina Faso,9286105,SL.TLF.TOTL.IN,labor_force
+BFA,2021,Burkina Faso,9191515,SL.TLF.TOTL.IN,labor_force
+BFA,2020,Burkina Faso,9036235,SL.TLF.TOTL.IN,labor_force
+BFA,2019,Burkina Faso,9029420,SL.TLF.TOTL.IN,labor_force
+BFA,2018,Burkina Faso,8776683,SL.TLF.TOTL.IN,labor_force
+BDI,2025,Burundi,6308213,SL.TLF.TOTL.IN,labor_force
+BDI,2024,Burundi,6097715,SL.TLF.TOTL.IN,labor_force
+BDI,2023,Burundi,5893737,SL.TLF.TOTL.IN,labor_force
+BDI,2022,Burundi,5691432,SL.TLF.TOTL.IN,labor_force
+BDI,2021,Burundi,5484419,SL.TLF.TOTL.IN,labor_force
+BDI,2020,Burundi,5256681,SL.TLF.TOTL.IN,labor_force
+BDI,2019,Burundi,5145487,SL.TLF.TOTL.IN,labor_force
+BDI,2018,Burundi,4958957,SL.TLF.TOTL.IN,labor_force
+CPV,2025,Cabo Verde,226448,SL.TLF.TOTL.IN,labor_force
+CPV,2024,Cabo Verde,222880,SL.TLF.TOTL.IN,labor_force
+CPV,2023,Cabo Verde,219684,SL.TLF.TOTL.IN,labor_force
+CPV,2022,Cabo Verde,216497,SL.TLF.TOTL.IN,labor_force
+CPV,2021,Cabo Verde,201583,SL.TLF.TOTL.IN,labor_force
+CPV,2020,Cabo Verde,196815,SL.TLF.TOTL.IN,labor_force
+CPV,2019,Cabo Verde,211472,SL.TLF.TOTL.IN,labor_force
+CPV,2018,Cabo Verde,204314,SL.TLF.TOTL.IN,labor_force
+KHM,2025,Cambodia,10367640,SL.TLF.TOTL.IN,labor_force
+KHM,2024,Cambodia,10200782,SL.TLF.TOTL.IN,labor_force
+KHM,2023,Cambodia,10027889,SL.TLF.TOTL.IN,labor_force
+KHM,2022,Cambodia,9850128,SL.TLF.TOTL.IN,labor_force
+KHM,2021,Cambodia,9341945,SL.TLF.TOTL.IN,labor_force
+KHM,2020,Cambodia,9480039,SL.TLF.TOTL.IN,labor_force
+KHM,2019,Cambodia,9329147,SL.TLF.TOTL.IN,labor_force
+KHM,2018,Cambodia,9127738,SL.TLF.TOTL.IN,labor_force
+CMR,2025,Cameroon,11466010,SL.TLF.TOTL.IN,labor_force
+CMR,2024,Cameroon,11175287,SL.TLF.TOTL.IN,labor_force
+CMR,2023,Cameroon,10831875,SL.TLF.TOTL.IN,labor_force
+CMR,2022,Cameroon,10499324,SL.TLF.TOTL.IN,labor_force
+CMR,2021,Cameroon,10140896,SL.TLF.TOTL.IN,labor_force
+CMR,2020,Cameroon,9926685,SL.TLF.TOTL.IN,labor_force
+CMR,2019,Cameroon,9850728,SL.TLF.TOTL.IN,labor_force
+CMR,2018,Cameroon,9687110,SL.TLF.TOTL.IN,labor_force
+CAN,2025,Canada,22837209,SL.TLF.TOTL.IN,labor_force
+CAN,2024,Canada,22690597,SL.TLF.TOTL.IN,labor_force
+CAN,2023,Canada,22189334,SL.TLF.TOTL.IN,labor_force
+CAN,2022,Canada,21454656,SL.TLF.TOTL.IN,labor_force
+CAN,2021,Canada,21005652,SL.TLF.TOTL.IN,labor_force
+CAN,2020,Canada,20505333,SL.TLF.TOTL.IN,labor_force
+CAN,2019,Canada,20799435,SL.TLF.TOTL.IN,labor_force
+CAN,2018,Canada,20391340,SL.TLF.TOTL.IN,labor_force
+CAF,2025,Central African Republic,2076374,SL.TLF.TOTL.IN,labor_force
+CAF,2024,Central African Republic,1995930,SL.TLF.TOTL.IN,labor_force
+CAF,2023,Central African Republic,1923117,SL.TLF.TOTL.IN,labor_force
+CAF,2022,Central African Republic,1901019,SL.TLF.TOTL.IN,labor_force
+CAF,2021,Central African Republic,1893361,SL.TLF.TOTL.IN,labor_force
+CAF,2020,Central African Republic,1867628,SL.TLF.TOTL.IN,labor_force
+CAF,2019,Central African Republic,1850874,SL.TLF.TOTL.IN,labor_force
+CAF,2018,Central African Republic,1825321,SL.TLF.TOTL.IN,labor_force
+TCD,2025,Chad,6746477,SL.TLF.TOTL.IN,labor_force
+TCD,2024,Chad,6524704,SL.TLF.TOTL.IN,labor_force
+TCD,2023,Chad,6143264,SL.TLF.TOTL.IN,labor_force
+TCD,2022,Chad,5803315,SL.TLF.TOTL.IN,labor_force
+TCD,2021,Chad,5534858,SL.TLF.TOTL.IN,labor_force
+TCD,2020,Chad,5321517,SL.TLF.TOTL.IN,labor_force
+TCD,2019,Chad,5188719,SL.TLF.TOTL.IN,labor_force
+TCD,2018,Chad,5014610,SL.TLF.TOTL.IN,labor_force
+CHI,2025,Channel Islands,81617,SL.TLF.TOTL.IN,labor_force
+CHI,2024,Channel Islands,81828,SL.TLF.TOTL.IN,labor_force
+CHI,2023,Channel Islands,81944,SL.TLF.TOTL.IN,labor_force
+CHI,2022,Channel Islands,82427,SL.TLF.TOTL.IN,labor_force
+CHI,2021,Channel Islands,82146,SL.TLF.TOTL.IN,labor_force
+CHI,2020,Channel Islands,81350,SL.TLF.TOTL.IN,labor_force
+CHI,2019,Channel Islands,82103,SL.TLF.TOTL.IN,labor_force
+CHI,2018,Channel Islands,81872,SL.TLF.TOTL.IN,labor_force
+CHL,2025,Chile,10326077,SL.TLF.TOTL.IN,labor_force
+CHL,2024,Chile,10223511,SL.TLF.TOTL.IN,labor_force
+CHL,2023,Chile,9991796,SL.TLF.TOTL.IN,labor_force
+CHL,2022,Chile,9670728,SL.TLF.TOTL.IN,labor_force
+CHL,2021,Chile,9171143,SL.TLF.TOTL.IN,labor_force
+CHL,2020,Chile,8906788,SL.TLF.TOTL.IN,labor_force
+CHL,2019,Chile,9843775,SL.TLF.TOTL.IN,labor_force
+CHL,2018,Chile,9671888,SL.TLF.TOTL.IN,labor_force
+CHN,2025,China,767626880,SL.TLF.TOTL.IN,labor_force
+CHN,2024,China,768163717,SL.TLF.TOTL.IN,labor_force
+CHN,2023,China,774607590,SL.TLF.TOTL.IN,labor_force
+CHN,2022,China,770113477,SL.TLF.TOTL.IN,labor_force
+CHN,2021,China,781187865,SL.TLF.TOTL.IN,labor_force
+CHN,2020,China,760877838,SL.TLF.TOTL.IN,labor_force
+CHN,2019,China,775928449,SL.TLF.TOTL.IN,labor_force
+CHN,2018,China,776868988,SL.TLF.TOTL.IN,labor_force
+COL,2025,Colombia,27099025,SL.TLF.TOTL.IN,labor_force
+COL,2024,Colombia,26786696,SL.TLF.TOTL.IN,labor_force
+COL,2023,Colombia,26478562,SL.TLF.TOTL.IN,labor_force
+COL,2022,Colombia,25828593,SL.TLF.TOTL.IN,labor_force
+COL,2021,Colombia,25915910,SL.TLF.TOTL.IN,labor_force
+COL,2020,Colombia,25151123,SL.TLF.TOTL.IN,labor_force
+COL,2019,Colombia,25000012,SL.TLF.TOTL.IN,labor_force
+COL,2018,Colombia,24727292,SL.TLF.TOTL.IN,labor_force
+COM,2025,Comoros,310841,SL.TLF.TOTL.IN,labor_force
+COM,2024,Comoros,301817,SL.TLF.TOTL.IN,labor_force
+COM,2023,Comoros,295028,SL.TLF.TOTL.IN,labor_force
+COM,2022,Comoros,288181,SL.TLF.TOTL.IN,labor_force
+COM,2021,Comoros,279968,SL.TLF.TOTL.IN,labor_force
+COM,2020,Comoros,264785,SL.TLF.TOTL.IN,labor_force
+COM,2019,Comoros,252874,SL.TLF.TOTL.IN,labor_force
+COM,2018,Comoros,239430,SL.TLF.TOTL.IN,labor_force
+COD,2025,"Congo, Dem. Rep.",39217778,SL.TLF.TOTL.IN,labor_force
+COD,2024,"Congo, Dem. Rep.",37985198,SL.TLF.TOTL.IN,labor_force
+COD,2023,"Congo, Dem. Rep.",36727006,SL.TLF.TOTL.IN,labor_force
+COD,2022,"Congo, Dem. Rep.",35515220,SL.TLF.TOTL.IN,labor_force
+COD,2021,"Congo, Dem. Rep.",34004531,SL.TLF.TOTL.IN,labor_force
+COD,2020,"Congo, Dem. Rep.",32851843,SL.TLF.TOTL.IN,labor_force
+COD,2019,"Congo, Dem. Rep.",32284525,SL.TLF.TOTL.IN,labor_force
+COD,2018,"Congo, Dem. Rep.",31449816,SL.TLF.TOTL.IN,labor_force
+COG,2025,"Congo, Rep.",2641346,SL.TLF.TOTL.IN,labor_force
+COG,2024,"Congo, Rep.",2558880,SL.TLF.TOTL.IN,labor_force
+COG,2023,"Congo, Rep.",2481698,SL.TLF.TOTL.IN,labor_force
+COG,2022,"Congo, Rep.",2408846,SL.TLF.TOTL.IN,labor_force
+COG,2021,"Congo, Rep.",2257465,SL.TLF.TOTL.IN,labor_force
+COG,2020,"Congo, Rep.",2175569,SL.TLF.TOTL.IN,labor_force
+COG,2019,"Congo, Rep.",2221302,SL.TLF.TOTL.IN,labor_force
+COG,2018,"Congo, Rep.",2165299,SL.TLF.TOTL.IN,labor_force
+CRI,2025,Costa Rica,2427166,SL.TLF.TOTL.IN,labor_force
+CRI,2024,Costa Rica,2402966,SL.TLF.TOTL.IN,labor_force
+CRI,2023,Costa Rica,2340628,SL.TLF.TOTL.IN,labor_force
+CRI,2022,Costa Rica,2504874,SL.TLF.TOTL.IN,labor_force
+CRI,2021,Costa Rica,2491035,SL.TLF.TOTL.IN,labor_force
+CRI,2020,Costa Rica,2419333,SL.TLF.TOTL.IN,labor_force
+CRI,2019,Costa Rica,2534006,SL.TLF.TOTL.IN,labor_force
+CRI,2018,Costa Rica,2422784,SL.TLF.TOTL.IN,labor_force
+CIV,2025,Cote d'Ivoire,13067763,SL.TLF.TOTL.IN,labor_force
+CIV,2024,Cote d'Ivoire,12671518,SL.TLF.TOTL.IN,labor_force
+CIV,2023,Cote d'Ivoire,12285672,SL.TLF.TOTL.IN,labor_force
+CIV,2022,Cote d'Ivoire,11906614,SL.TLF.TOTL.IN,labor_force
+CIV,2021,Cote d'Ivoire,11390094,SL.TLF.TOTL.IN,labor_force
+CIV,2020,Cote d'Ivoire,10849289,SL.TLF.TOTL.IN,labor_force
+CIV,2019,Cote d'Ivoire,10522774,SL.TLF.TOTL.IN,labor_force
+CIV,2018,Cote d'Ivoire,10349949,SL.TLF.TOTL.IN,labor_force
+HRV,2025,Croatia,1728075,SL.TLF.TOTL.IN,labor_force
+HRV,2024,Croatia,1742356,SL.TLF.TOTL.IN,labor_force
+HRV,2023,Croatia,1731788,SL.TLF.TOTL.IN,labor_force
+HRV,2022,Croatia,1734995,SL.TLF.TOTL.IN,labor_force
+HRV,2021,Croatia,1728310,SL.TLF.TOTL.IN,labor_force
+HRV,2020,Croatia,1706748,SL.TLF.TOTL.IN,labor_force
+HRV,2019,Croatia,1716971,SL.TLF.TOTL.IN,labor_force
+HRV,2018,Croatia,1735734,SL.TLF.TOTL.IN,labor_force
+CUB,2025,Cuba,4855941,SL.TLF.TOTL.IN,labor_force
+CUB,2024,Cuba,4895340,SL.TLF.TOTL.IN,labor_force
+CUB,2023,Cuba,4949822,SL.TLF.TOTL.IN,labor_force
+CUB,2022,Cuba,5005156,SL.TLF.TOTL.IN,labor_force
+CUB,2021,Cuba,4945430,SL.TLF.TOTL.IN,labor_force
+CUB,2020,Cuba,4943318,SL.TLF.TOTL.IN,labor_force
+CUB,2019,Cuba,5204593,SL.TLF.TOTL.IN,labor_force
+CUB,2018,Cuba,5224481,SL.TLF.TOTL.IN,labor_force
+CYP,2025,Cyprus,770268,SL.TLF.TOTL.IN,labor_force
+CYP,2024,Cyprus,765938,SL.TLF.TOTL.IN,labor_force
+CYP,2023,Cyprus,767136,SL.TLF.TOTL.IN,labor_force
+CYP,2022,Cyprus,755975,SL.TLF.TOTL.IN,labor_force
+CYP,2021,Cyprus,735675,SL.TLF.TOTL.IN,labor_force
+CYP,2020,Cyprus,719491,SL.TLF.TOTL.IN,labor_force
+CYP,2019,Cyprus,715150,SL.TLF.TOTL.IN,labor_force
+CYP,2018,Cyprus,698503,SL.TLF.TOTL.IN,labor_force
+CZE,2025,Czechia,5513783,SL.TLF.TOTL.IN,labor_force
+CZE,2024,Czechia,5593139,SL.TLF.TOTL.IN,labor_force
+CZE,2023,Czechia,5536510,SL.TLF.TOTL.IN,labor_force
+CZE,2022,Czechia,5369986,SL.TLF.TOTL.IN,labor_force
+CZE,2021,Czechia,5242069,SL.TLF.TOTL.IN,labor_force
+CZE,2020,Czechia,5343016,SL.TLF.TOTL.IN,labor_force
+CZE,2019,Czechia,5394887,SL.TLF.TOTL.IN,labor_force
+CZE,2018,Czechia,5405110,SL.TLF.TOTL.IN,labor_force
+DNK,2025,Denmark,3287645,SL.TLF.TOTL.IN,labor_force
+DNK,2024,Denmark,3277500,SL.TLF.TOTL.IN,labor_force
+DNK,2023,Denmark,3189737,SL.TLF.TOTL.IN,labor_force
+DNK,2022,Denmark,3147518,SL.TLF.TOTL.IN,labor_force
+DNK,2021,Denmark,3076617,SL.TLF.TOTL.IN,labor_force
+DNK,2020,Denmark,3032944,SL.TLF.TOTL.IN,labor_force
+DNK,2019,Denmark,3034322,SL.TLF.TOTL.IN,labor_force
+DNK,2018,Denmark,2992952,SL.TLF.TOTL.IN,labor_force
+DJI,2025,Djibouti,267610,SL.TLF.TOTL.IN,labor_force
+DJI,2024,Djibouti,263018,SL.TLF.TOTL.IN,labor_force
+DJI,2023,Djibouti,258002,SL.TLF.TOTL.IN,labor_force
+DJI,2022,Djibouti,252945,SL.TLF.TOTL.IN,labor_force
+DJI,2021,Djibouti,247690,SL.TLF.TOTL.IN,labor_force
+DJI,2020,Djibouti,240671,SL.TLF.TOTL.IN,labor_force
+DJI,2019,Djibouti,238047,SL.TLF.TOTL.IN,labor_force
+DJI,2018,Djibouti,233398,SL.TLF.TOTL.IN,labor_force
+DOM,2025,Dominican Republic,5512758,SL.TLF.TOTL.IN,labor_force
+DOM,2024,Dominican Republic,5424140,SL.TLF.TOTL.IN,labor_force
+DOM,2023,Dominican Republic,5323558,SL.TLF.TOTL.IN,labor_force
+DOM,2022,Dominican Republic,5169749,SL.TLF.TOTL.IN,labor_force
+DOM,2021,Dominican Republic,5099149,SL.TLF.TOTL.IN,labor_force
+DOM,2020,Dominican Republic,4805608,SL.TLF.TOTL.IN,labor_force
+DOM,2019,Dominican Republic,5117215,SL.TLF.TOTL.IN,labor_force
+DOM,2018,Dominican Republic,4935940,SL.TLF.TOTL.IN,labor_force
+ECU,2025,Ecuador,8977208,SL.TLF.TOTL.IN,labor_force
+ECU,2024,Ecuador,8842169,SL.TLF.TOTL.IN,labor_force
+ECU,2023,Ecuador,8695838,SL.TLF.TOTL.IN,labor_force
+ECU,2022,Ecuador,8739737,SL.TLF.TOTL.IN,labor_force
+ECU,2021,Ecuador,8597736,SL.TLF.TOTL.IN,labor_force
+ECU,2020,Ecuador,7753251,SL.TLF.TOTL.IN,labor_force
+ECU,2019,Ecuador,8393240,SL.TLF.TOTL.IN,labor_force
+ECU,2018,Ecuador,8250992,SL.TLF.TOTL.IN,labor_force
+EGY,2025,"Egypt, Arab Rep.",36106369,SL.TLF.TOTL.IN,labor_force
+EGY,2024,"Egypt, Arab Rep.",35343331,SL.TLF.TOTL.IN,labor_force
+EGY,2023,"Egypt, Arab Rep.",34567534,SL.TLF.TOTL.IN,labor_force
+EGY,2022,"Egypt, Arab Rep.",32394044,SL.TLF.TOTL.IN,labor_force
+EGY,2021,"Egypt, Arab Rep.",31865548,SL.TLF.TOTL.IN,labor_force
+EGY,2020,"Egypt, Arab Rep.",30264331,SL.TLF.TOTL.IN,labor_force
+EGY,2019,"Egypt, Arab Rep.",30072045,SL.TLF.TOTL.IN,labor_force
+EGY,2018,"Egypt, Arab Rep.",30208878,SL.TLF.TOTL.IN,labor_force
+SLV,2025,El Salvador,2989409,SL.TLF.TOTL.IN,labor_force
+SLV,2024,El Salvador,2951018,SL.TLF.TOTL.IN,labor_force
+SLV,2023,El Salvador,2904981,SL.TLF.TOTL.IN,labor_force
+SLV,2022,El Salvador,2806629,SL.TLF.TOTL.IN,labor_force
+SLV,2021,El Salvador,2739437,SL.TLF.TOTL.IN,labor_force
+SLV,2020,El Salvador,2595893,SL.TLF.TOTL.IN,labor_force
+SLV,2019,El Salvador,2732360,SL.TLF.TOTL.IN,labor_force
+SLV,2018,El Salvador,2664932,SL.TLF.TOTL.IN,labor_force
+GNQ,2025,Equatorial Guinea,737977,SL.TLF.TOTL.IN,labor_force
+GNQ,2024,Equatorial Guinea,722907,SL.TLF.TOTL.IN,labor_force
+GNQ,2023,Equatorial Guinea,706195,SL.TLF.TOTL.IN,labor_force
+GNQ,2022,Equatorial Guinea,687104,SL.TLF.TOTL.IN,labor_force
+GNQ,2021,Equatorial Guinea,630607,SL.TLF.TOTL.IN,labor_force
+GNQ,2020,Equatorial Guinea,607636,SL.TLF.TOTL.IN,labor_force
+GNQ,2019,Equatorial Guinea,633862,SL.TLF.TOTL.IN,labor_force
+GNQ,2018,Equatorial Guinea,612820,SL.TLF.TOTL.IN,labor_force
+ERI,2025,Eritrea,1763700,SL.TLF.TOTL.IN,labor_force
+ERI,2024,Eritrea,1713432,SL.TLF.TOTL.IN,labor_force
+ERI,2023,Eritrea,1667350,SL.TLF.TOTL.IN,labor_force
+ERI,2022,Eritrea,1624123,SL.TLF.TOTL.IN,labor_force
+ERI,2021,Eritrea,1572766,SL.TLF.TOTL.IN,labor_force
+ERI,2020,Eritrea,1520345,SL.TLF.TOTL.IN,labor_force
+ERI,2019,Eritrea,1498780,SL.TLF.TOTL.IN,labor_force
+ERI,2018,Eritrea,1469550,SL.TLF.TOTL.IN,labor_force
+EST,2025,Estonia,746793,SL.TLF.TOTL.IN,labor_force
+EST,2024,Estonia,757729,SL.TLF.TOTL.IN,labor_force
+EST,2023,Estonia,755414,SL.TLF.TOTL.IN,labor_force
+EST,2022,Estonia,735699,SL.TLF.TOTL.IN,labor_force
+EST,2021,Estonia,703200,SL.TLF.TOTL.IN,labor_force
+EST,2020,Estonia,700345,SL.TLF.TOTL.IN,labor_force
+EST,2019,Estonia,700344,SL.TLF.TOTL.IN,labor_force
+EST,2018,Estonia,702066,SL.TLF.TOTL.IN,labor_force
+SWZ,2025,Eswatini,430869,SL.TLF.TOTL.IN,labor_force
+SWZ,2024,Eswatini,424113,SL.TLF.TOTL.IN,labor_force
+SWZ,2023,Eswatini,418086,SL.TLF.TOTL.IN,labor_force
+SWZ,2022,Eswatini,406038,SL.TLF.TOTL.IN,labor_force
+SWZ,2021,Eswatini,393966,SL.TLF.TOTL.IN,labor_force
+SWZ,2020,Eswatini,385559,SL.TLF.TOTL.IN,labor_force
+SWZ,2019,Eswatini,384496,SL.TLF.TOTL.IN,labor_force
+SWZ,2018,Eswatini,380669,SL.TLF.TOTL.IN,labor_force
+ETH,2025,Ethiopia,56779061,SL.TLF.TOTL.IN,labor_force
+ETH,2024,Ethiopia,55099611,SL.TLF.TOTL.IN,labor_force
+ETH,2023,Ethiopia,53419507,SL.TLF.TOTL.IN,labor_force
+ETH,2022,Ethiopia,51764455,SL.TLF.TOTL.IN,labor_force
+ETH,2021,Ethiopia,49963936,SL.TLF.TOTL.IN,labor_force
+ETH,2020,Ethiopia,49138941,SL.TLF.TOTL.IN,labor_force
+ETH,2019,Ethiopia,48989009,SL.TLF.TOTL.IN,labor_force
+ETH,2018,Ethiopia,48392305,SL.TLF.TOTL.IN,labor_force
+FJI,2025,Fiji,390290,SL.TLF.TOTL.IN,labor_force
+FJI,2024,Fiji,387456,SL.TLF.TOTL.IN,labor_force
+FJI,2023,Fiji,383856,SL.TLF.TOTL.IN,labor_force
+FJI,2022,Fiji,379661,SL.TLF.TOTL.IN,labor_force
+FJI,2021,Fiji,359413,SL.TLF.TOTL.IN,labor_force
+FJI,2020,Fiji,354223,SL.TLF.TOTL.IN,labor_force
+FJI,2019,Fiji,374639,SL.TLF.TOTL.IN,labor_force
+FJI,2018,Fiji,373851,SL.TLF.TOTL.IN,labor_force
+FIN,2025,Finland,2873200,SL.TLF.TOTL.IN,labor_force
+FIN,2024,Finland,2871471,SL.TLF.TOTL.IN,labor_force
+FIN,2023,Finland,2863035,SL.TLF.TOTL.IN,labor_force
+FIN,2022,Finland,2846126,SL.TLF.TOTL.IN,labor_force
+FIN,2021,Finland,2799945,SL.TLF.TOTL.IN,labor_force
+FIN,2020,Finland,2744434,SL.TLF.TOTL.IN,labor_force
+FIN,2019,Finland,2749091,SL.TLF.TOTL.IN,labor_force
+FIN,2018,Finland,2745547,SL.TLF.TOTL.IN,labor_force
+FRA,2025,France,31827794,SL.TLF.TOTL.IN,labor_force
+FRA,2024,France,31859898,SL.TLF.TOTL.IN,labor_force
+FRA,2023,France,31826568,SL.TLF.TOTL.IN,labor_force
+FRA,2022,France,31586796,SL.TLF.TOTL.IN,labor_force
+FRA,2021,France,31188658,SL.TLF.TOTL.IN,labor_force
+FRA,2020,France,30289755,SL.TLF.TOTL.IN,labor_force
+FRA,2019,France,30500444,SL.TLF.TOTL.IN,labor_force
+FRA,2018,France,30534890,SL.TLF.TOTL.IN,labor_force
+PYF,2025,French Polynesia,120628,SL.TLF.TOTL.IN,labor_force
+PYF,2024,French Polynesia,120370,SL.TLF.TOTL.IN,labor_force
+PYF,2023,French Polynesia,120388,SL.TLF.TOTL.IN,labor_force
+PYF,2022,French Polynesia,120561,SL.TLF.TOTL.IN,labor_force
+PYF,2021,French Polynesia,120135,SL.TLF.TOTL.IN,labor_force
+PYF,2020,French Polynesia,119656,SL.TLF.TOTL.IN,labor_force
+PYF,2019,French Polynesia,120839,SL.TLF.TOTL.IN,labor_force
+PYF,2018,French Polynesia,120471,SL.TLF.TOTL.IN,labor_force
+GAB,2025,Gabon,844145,SL.TLF.TOTL.IN,labor_force
+GAB,2024,Gabon,827520,SL.TLF.TOTL.IN,labor_force
+GAB,2023,Gabon,810513,SL.TLF.TOTL.IN,labor_force
+GAB,2022,Gabon,792686,SL.TLF.TOTL.IN,labor_force
+GAB,2021,Gabon,728512,SL.TLF.TOTL.IN,labor_force
+GAB,2020,Gabon,702619,SL.TLF.TOTL.IN,labor_force
+GAB,2019,Gabon,737231,SL.TLF.TOTL.IN,labor_force
+GAB,2018,Gabon,718038,SL.TLF.TOTL.IN,labor_force
+GMB,2025,"Gambia, The",807275,SL.TLF.TOTL.IN,labor_force
+GMB,2024,"Gambia, The",783461,SL.TLF.TOTL.IN,labor_force
+GMB,2023,"Gambia, The",760304,SL.TLF.TOTL.IN,labor_force
+GMB,2022,"Gambia, The",738066,SL.TLF.TOTL.IN,labor_force
+GMB,2021,"Gambia, The",716337,SL.TLF.TOTL.IN,labor_force
+GMB,2020,"Gambia, The",695109,SL.TLF.TOTL.IN,labor_force
+GMB,2019,"Gambia, The",675484,SL.TLF.TOTL.IN,labor_force
+GMB,2018,"Gambia, The",656084,SL.TLF.TOTL.IN,labor_force
+GEO,2025,Georgia,1891375,SL.TLF.TOTL.IN,labor_force
+GEO,2024,Georgia,1885370,SL.TLF.TOTL.IN,labor_force
+GEO,2023,Georgia,1878810,SL.TLF.TOTL.IN,labor_force
+GEO,2022,Georgia,1863170,SL.TLF.TOTL.IN,labor_force
+GEO,2021,Georgia,1783433,SL.TLF.TOTL.IN,labor_force
+GEO,2020,Georgia,1864522,SL.TLF.TOTL.IN,labor_force
+GEO,2019,Georgia,1854016,SL.TLF.TOTL.IN,labor_force
+GEO,2018,Georgia,1893021,SL.TLF.TOTL.IN,labor_force
+DEU,2025,Germany,43199538,SL.TLF.TOTL.IN,labor_force
+DEU,2024,Germany,43801773,SL.TLF.TOTL.IN,labor_force
+DEU,2023,Germany,43771247,SL.TLF.TOTL.IN,labor_force
+DEU,2022,Germany,43561312,SL.TLF.TOTL.IN,labor_force
+DEU,2021,Germany,43283278,SL.TLF.TOTL.IN,labor_force
+DEU,2020,Germany,43372704,SL.TLF.TOTL.IN,labor_force
+DEU,2019,Germany,43981829,SL.TLF.TOTL.IN,labor_force
+DEU,2018,Germany,43612526,SL.TLF.TOTL.IN,labor_force
+GHA,2025,Ghana,13250486,SL.TLF.TOTL.IN,labor_force
+GHA,2024,Ghana,13049107,SL.TLF.TOTL.IN,labor_force
+GHA,2023,Ghana,12737097,SL.TLF.TOTL.IN,labor_force
+GHA,2022,Ghana,12434883,SL.TLF.TOTL.IN,labor_force
+GHA,2021,Ghana,12396107,SL.TLF.TOTL.IN,labor_force
+GHA,2020,Ghana,12333934,SL.TLF.TOTL.IN,labor_force
+GHA,2019,Ghana,12437098,SL.TLF.TOTL.IN,labor_force
+GHA,2018,Ghana,12431335,SL.TLF.TOTL.IN,labor_force
+GRC,2025,Greece,4692676,SL.TLF.TOTL.IN,labor_force
+GRC,2024,Greece,4725479,SL.TLF.TOTL.IN,labor_force
+GRC,2023,Greece,4658631,SL.TLF.TOTL.IN,labor_force
+GRC,2022,Greece,4659964,SL.TLF.TOTL.IN,labor_force
+GRC,2021,Greece,4573547,SL.TLF.TOTL.IN,labor_force
+GRC,2020,Greece,4596339,SL.TLF.TOTL.IN,labor_force
+GRC,2019,Greece,4672995,SL.TLF.TOTL.IN,labor_force
+GRC,2018,Greece,4668888,SL.TLF.TOTL.IN,labor_force
+GUM,2025,Guam,78007,SL.TLF.TOTL.IN,labor_force
+GUM,2024,Guam,77324,SL.TLF.TOTL.IN,labor_force
+GUM,2023,Guam,76663,SL.TLF.TOTL.IN,labor_force
+GUM,2022,Guam,76032,SL.TLF.TOTL.IN,labor_force
+GUM,2021,Guam,72348,SL.TLF.TOTL.IN,labor_force
+GUM,2020,Guam,71182,SL.TLF.TOTL.IN,labor_force
+GUM,2019,Guam,74816,SL.TLF.TOTL.IN,labor_force
+GUM,2018,Guam,75326,SL.TLF.TOTL.IN,labor_force
+GTM,2025,Guatemala,7684762,SL.TLF.TOTL.IN,labor_force
+GTM,2024,Guatemala,7519217,SL.TLF.TOTL.IN,labor_force
+GTM,2023,Guatemala,7329032,SL.TLF.TOTL.IN,labor_force
+GTM,2022,Guatemala,7234412,SL.TLF.TOTL.IN,labor_force
+GTM,2021,Guatemala,7391464,SL.TLF.TOTL.IN,labor_force
+GTM,2020,Guatemala,6751370,SL.TLF.TOTL.IN,labor_force
+GTM,2019,Guatemala,6643821,SL.TLF.TOTL.IN,labor_force
+GTM,2018,Guatemala,6638657,SL.TLF.TOTL.IN,labor_force
+GIN,2025,Guinea,4722818,SL.TLF.TOTL.IN,labor_force
+GIN,2024,Guinea,4603413,SL.TLF.TOTL.IN,labor_force
+GIN,2023,Guinea,4470129,SL.TLF.TOTL.IN,labor_force
+GIN,2022,Guinea,4337819,SL.TLF.TOTL.IN,labor_force
+GIN,2021,Guinea,4194116,SL.TLF.TOTL.IN,labor_force
+GIN,2020,Guinea,4051774,SL.TLF.TOTL.IN,labor_force
+GIN,2019,Guinea,3969628,SL.TLF.TOTL.IN,labor_force
+GIN,2018,Guinea,3904140,SL.TLF.TOTL.IN,labor_force
+GNB,2025,Guinea-Bissau,899220,SL.TLF.TOTL.IN,labor_force
+GNB,2024,Guinea-Bissau,872544,SL.TLF.TOTL.IN,labor_force
+GNB,2023,Guinea-Bissau,847738,SL.TLF.TOTL.IN,labor_force
+GNB,2022,Guinea-Bissau,823140,SL.TLF.TOTL.IN,labor_force
+GNB,2021,Guinea-Bissau,785828,SL.TLF.TOTL.IN,labor_force
+GNB,2020,Guinea-Bissau,748181,SL.TLF.TOTL.IN,labor_force
+GNB,2019,Guinea-Bissau,722591,SL.TLF.TOTL.IN,labor_force
+GNB,2018,Guinea-Bissau,709612,SL.TLF.TOTL.IN,labor_force
+GUY,2025,Guyana,326682,SL.TLF.TOTL.IN,labor_force
+GUY,2024,Guyana,324618,SL.TLF.TOTL.IN,labor_force
+GUY,2023,Guyana,319469,SL.TLF.TOTL.IN,labor_force
+GUY,2022,Guyana,313338,SL.TLF.TOTL.IN,labor_force
+GUY,2021,Guyana,294524,SL.TLF.TOTL.IN,labor_force
+GUY,2020,Guyana,288992,SL.TLF.TOTL.IN,labor_force
+GUY,2019,Guyana,297505,SL.TLF.TOTL.IN,labor_force
+GUY,2018,Guyana,311302,SL.TLF.TOTL.IN,labor_force
+HTI,2025,Haiti,5268189,SL.TLF.TOTL.IN,labor_force
+HTI,2024,Haiti,5181956,SL.TLF.TOTL.IN,labor_force
+HTI,2023,Haiti,5135239,SL.TLF.TOTL.IN,labor_force
+HTI,2022,Haiti,5073825,SL.TLF.TOTL.IN,labor_force
+HTI,2021,Haiti,5061618,SL.TLF.TOTL.IN,labor_force
+HTI,2020,Haiti,4940938,SL.TLF.TOTL.IN,labor_force
+HTI,2019,Haiti,4902625,SL.TLF.TOTL.IN,labor_force
+HTI,2018,Haiti,4823338,SL.TLF.TOTL.IN,labor_force
+HND,2025,Honduras,4340779,SL.TLF.TOTL.IN,labor_force
+HND,2024,Honduras,4250629,SL.TLF.TOTL.IN,labor_force
+HND,2023,Honduras,4149025,SL.TLF.TOTL.IN,labor_force
+HND,2022,Honduras,4209927,SL.TLF.TOTL.IN,labor_force
+HND,2021,Honduras,4260442,SL.TLF.TOTL.IN,labor_force
+HND,2020,Honduras,4083200,SL.TLF.TOTL.IN,labor_force
+HND,2019,Honduras,4231661,SL.TLF.TOTL.IN,labor_force
+HND,2018,Honduras,4341185,SL.TLF.TOTL.IN,labor_force
+HKG,2025,"Hong Kong SAR, China",3802007,SL.TLF.TOTL.IN,labor_force
+HKG,2024,"Hong Kong SAR, China",3827176,SL.TLF.TOTL.IN,labor_force
+HKG,2023,"Hong Kong SAR, China",3850529,SL.TLF.TOTL.IN,labor_force
+HKG,2022,"Hong Kong SAR, China",3786090,SL.TLF.TOTL.IN,labor_force
+HKG,2021,"Hong Kong SAR, China",3872131,SL.TLF.TOTL.IN,labor_force
+HKG,2020,"Hong Kong SAR, China",3914381,SL.TLF.TOTL.IN,labor_force
+HKG,2019,"Hong Kong SAR, China",3987130,SL.TLF.TOTL.IN,labor_force
+HKG,2018,"Hong Kong SAR, China",3996403,SL.TLF.TOTL.IN,labor_force
+HUN,2025,Hungary,4929485,SL.TLF.TOTL.IN,labor_force
+HUN,2024,Hungary,4965018,SL.TLF.TOTL.IN,labor_force
+HUN,2023,Hungary,4971665,SL.TLF.TOTL.IN,labor_force
+HUN,2022,Hungary,4912669,SL.TLF.TOTL.IN,labor_force
+HUN,2021,Hungary,4864077,SL.TLF.TOTL.IN,labor_force
+HUN,2020,Hungary,4829178,SL.TLF.TOTL.IN,labor_force
+HUN,2019,Hungary,4843975,SL.TLF.TOTL.IN,labor_force
+HUN,2018,Hungary,4835700,SL.TLF.TOTL.IN,labor_force
+ISL,2025,Iceland,241522,SL.TLF.TOTL.IN,labor_force
+ISL,2024,Iceland,238873,SL.TLF.TOTL.IN,labor_force
+ISL,2023,Iceland,236225,SL.TLF.TOTL.IN,labor_force
+ISL,2022,Iceland,232189,SL.TLF.TOTL.IN,labor_force
+ISL,2021,Iceland,222546,SL.TLF.TOTL.IN,labor_force
+ISL,2020,Iceland,219071,SL.TLF.TOTL.IN,labor_force
+ISL,2019,Iceland,221428,SL.TLF.TOTL.IN,labor_force
+ISL,2018,Iceland,216594,SL.TLF.TOTL.IN,labor_force
+IND,2025,India,617625336,SL.TLF.TOTL.IN,labor_force
+IND,2024,India,608500805,SL.TLF.TOTL.IN,labor_force
+IND,2023,India,589486854,SL.TLF.TOTL.IN,labor_force
+IND,2022,India,569155867,SL.TLF.TOTL.IN,labor_force
+IND,2021,India,550352877,SL.TLF.TOTL.IN,labor_force
+IND,2020,India,532528354,SL.TLF.TOTL.IN,labor_force
+IND,2019,India,531373378,SL.TLF.TOTL.IN,labor_force
+IND,2018,India,524292869,SL.TLF.TOTL.IN,labor_force
+IDN,2025,Indonesia,147104597,SL.TLF.TOTL.IN,labor_force
+IDN,2024,Indonesia,145198137,SL.TLF.TOTL.IN,labor_force
+IDN,2023,Indonesia,143318723,SL.TLF.TOTL.IN,labor_force
+IDN,2022,Indonesia,139637843,SL.TLF.TOTL.IN,labor_force
+IDN,2021,Indonesia,135672770,SL.TLF.TOTL.IN,labor_force
+IDN,2020,Indonesia,137375390,SL.TLF.TOTL.IN,labor_force
+IDN,2019,Indonesia,137425585,SL.TLF.TOTL.IN,labor_force
+IDN,2018,Indonesia,134532894,SL.TLF.TOTL.IN,labor_force
+IRN,2025,"Iran, Islamic Rep.",29521716,SL.TLF.TOTL.IN,labor_force
+IRN,2024,"Iran, Islamic Rep.",29306871,SL.TLF.TOTL.IN,labor_force
+IRN,2023,"Iran, Islamic Rep.",29026520,SL.TLF.TOTL.IN,labor_force
+IRN,2022,"Iran, Islamic Rep.",27880537,SL.TLF.TOTL.IN,labor_force
+IRN,2021,"Iran, Islamic Rep.",27754866,SL.TLF.TOTL.IN,labor_force
+IRN,2020,"Iran, Islamic Rep.",27655908,SL.TLF.TOTL.IN,labor_force
+IRN,2019,"Iran, Islamic Rep.",29161250,SL.TLF.TOTL.IN,labor_force
+IRN,2018,"Iran, Islamic Rep.",29067669,SL.TLF.TOTL.IN,labor_force
+IRQ,2025,Iraq,12493376,SL.TLF.TOTL.IN,labor_force
+IRQ,2024,Iraq,12134030,SL.TLF.TOTL.IN,labor_force
+IRQ,2023,Iraq,11803809,SL.TLF.TOTL.IN,labor_force
+IRQ,2022,Iraq,11408828,SL.TLF.TOTL.IN,labor_force
+IRQ,2021,Iraq,10581037,SL.TLF.TOTL.IN,labor_force
+IRQ,2020,Iraq,10441107,SL.TLF.TOTL.IN,labor_force
+IRQ,2019,Iraq,10196893,SL.TLF.TOTL.IN,labor_force
+IRQ,2018,Iraq,10075417,SL.TLF.TOTL.IN,labor_force
+IRL,2025,Ireland,2892490,SL.TLF.TOTL.IN,labor_force
+IRL,2024,Ireland,2857089,SL.TLF.TOTL.IN,labor_force
+IRL,2023,Ireland,2846866,SL.TLF.TOTL.IN,labor_force
+IRL,2022,Ireland,2705770,SL.TLF.TOTL.IN,labor_force
+IRL,2021,Ireland,2604356,SL.TLF.TOTL.IN,labor_force
+IRL,2020,Ireland,2459907,SL.TLF.TOTL.IN,labor_force
+IRL,2019,Ireland,2467948,SL.TLF.TOTL.IN,labor_force
+IRL,2018,Ireland,2413701,SL.TLF.TOTL.IN,labor_force
+ISR,2025,Israel,4822657,SL.TLF.TOTL.IN,labor_force
+ISR,2024,Israel,4742087,SL.TLF.TOTL.IN,labor_force
+ISR,2023,Israel,4637924,SL.TLF.TOTL.IN,labor_force
+ISR,2022,Israel,4467037,SL.TLF.TOTL.IN,labor_force
+ISR,2021,Israel,4275735,SL.TLF.TOTL.IN,labor_force
+ISR,2020,Israel,4204894,SL.TLF.TOTL.IN,labor_force
+ISR,2019,Israel,4229687,SL.TLF.TOTL.IN,labor_force
+ISR,2018,Israel,4172972,SL.TLF.TOTL.IN,labor_force
+ITA,2025,Italy,25579070,SL.TLF.TOTL.IN,labor_force
+ITA,2024,Italy,25756934,SL.TLF.TOTL.IN,labor_force
+ITA,2023,Italy,25806816,SL.TLF.TOTL.IN,labor_force
+ITA,2022,Italy,25351560,SL.TLF.TOTL.IN,labor_force
+ITA,2021,Italy,25032297,SL.TLF.TOTL.IN,labor_force
+ITA,2020,Italy,24984272,SL.TLF.TOTL.IN,labor_force
+ITA,2019,Italy,25761500,SL.TLF.TOTL.IN,labor_force
+ITA,2018,Italy,25901424,SL.TLF.TOTL.IN,labor_force
+JAM,2025,Jamaica,1612761,SL.TLF.TOTL.IN,labor_force
+JAM,2024,Jamaica,1602871,SL.TLF.TOTL.IN,labor_force
+JAM,2023,Jamaica,1595299,SL.TLF.TOTL.IN,labor_force
+JAM,2022,Jamaica,1544707,SL.TLF.TOTL.IN,labor_force
+JAM,2021,Jamaica,1490454,SL.TLF.TOTL.IN,labor_force
+JAM,2020,Jamaica,1457816,SL.TLF.TOTL.IN,labor_force
+JAM,2019,Jamaica,1491205,SL.TLF.TOTL.IN,labor_force
+JAM,2018,Jamaica,1446091,SL.TLF.TOTL.IN,labor_force
+JPN,2025,Japan,69386649,SL.TLF.TOTL.IN,labor_force
+JPN,2024,Japan,69501768,SL.TLF.TOTL.IN,labor_force
+JPN,2023,Japan,69197135,SL.TLF.TOTL.IN,labor_force
+JPN,2022,Japan,68931266,SL.TLF.TOTL.IN,labor_force
+JPN,2021,Japan,68592854,SL.TLF.TOTL.IN,labor_force
+JPN,2020,Japan,68656452,SL.TLF.TOTL.IN,labor_force
+JPN,2019,Japan,68812048,SL.TLF.TOTL.IN,labor_force
+JPN,2018,Japan,68187091,SL.TLF.TOTL.IN,labor_force
+JOR,2025,Jordan,3220931,SL.TLF.TOTL.IN,labor_force
+JOR,2024,Jordan,3204396,SL.TLF.TOTL.IN,labor_force
+JOR,2023,Jordan,3156548,SL.TLF.TOTL.IN,labor_force
+JOR,2022,Jordan,2957476,SL.TLF.TOTL.IN,labor_force
+JOR,2021,Jordan,2893220,SL.TLF.TOTL.IN,labor_force
+JOR,2020,Jordan,2914902,SL.TLF.TOTL.IN,labor_force
+JOR,2019,Jordan,2794037,SL.TLF.TOTL.IN,labor_force
+JOR,2018,Jordan,2717015,SL.TLF.TOTL.IN,labor_force
+KAZ,2025,Kazakhstan,10009918,SL.TLF.TOTL.IN,labor_force
+KAZ,2024,Kazakhstan,10266072,SL.TLF.TOTL.IN,labor_force
+KAZ,2023,Kazakhstan,10084786,SL.TLF.TOTL.IN,labor_force
+KAZ,2022,Kazakhstan,9896969,SL.TLF.TOTL.IN,labor_force
+KAZ,2021,Kazakhstan,9656830,SL.TLF.TOTL.IN,labor_force
+KAZ,2020,Kazakhstan,9543571,SL.TLF.TOTL.IN,labor_force
+KAZ,2019,Kazakhstan,9556218,SL.TLF.TOTL.IN,labor_force
+KAZ,2018,Kazakhstan,9452255,SL.TLF.TOTL.IN,labor_force
+KEN,2025,Kenya,24711751,SL.TLF.TOTL.IN,labor_force
+KEN,2024,Kenya,24031329,SL.TLF.TOTL.IN,labor_force
+KEN,2023,Kenya,23353083,SL.TLF.TOTL.IN,labor_force
+KEN,2022,Kenya,22679572,SL.TLF.TOTL.IN,labor_force
+KEN,2021,Kenya,22012863,SL.TLF.TOTL.IN,labor_force
+KEN,2020,Kenya,21267487,SL.TLF.TOTL.IN,labor_force
+KEN,2019,Kenya,20875750,SL.TLF.TOTL.IN,labor_force
+KEN,2018,Kenya,20958591,SL.TLF.TOTL.IN,labor_force
+PRK,2025,"Korea, Dem. People's Rep.",17696854,SL.TLF.TOTL.IN,labor_force
+PRK,2024,"Korea, Dem. People's Rep.",17646807,SL.TLF.TOTL.IN,labor_force
+PRK,2023,"Korea, Dem. People's Rep.",17585844,SL.TLF.TOTL.IN,labor_force
+PRK,2022,"Korea, Dem. People's Rep.",17514243,SL.TLF.TOTL.IN,labor_force
+PRK,2021,"Korea, Dem. People's Rep.",17137602,SL.TLF.TOTL.IN,labor_force
+PRK,2020,"Korea, Dem. People's Rep.",17050598,SL.TLF.TOTL.IN,labor_force
+PRK,2019,"Korea, Dem. People's Rep.",17306773,SL.TLF.TOTL.IN,labor_force
+PRK,2018,"Korea, Dem. People's Rep.",17213512,SL.TLF.TOTL.IN,labor_force
+KOR,2025,"Korea, Rep.",29848809,SL.TLF.TOTL.IN,labor_force
+KOR,2024,"Korea, Rep.",29835657,SL.TLF.TOTL.IN,labor_force
+KOR,2023,"Korea, Rep.",29587631,SL.TLF.TOTL.IN,labor_force
+KOR,2022,"Korea, Rep.",29201402,SL.TLF.TOTL.IN,labor_force
+KOR,2021,"Korea, Rep.",28560792,SL.TLF.TOTL.IN,labor_force
+KOR,2020,"Korea, Rep.",28369827,SL.TLF.TOTL.IN,labor_force
+KOR,2019,"Korea, Rep.",28561856,SL.TLF.TOTL.IN,labor_force
+KOR,2018,"Korea, Rep.",28257879,SL.TLF.TOTL.IN,labor_force
+KWT,2025,Kuwait,2996304,SL.TLF.TOTL.IN,labor_force
+KWT,2024,Kuwait,2946067,SL.TLF.TOTL.IN,labor_force
+KWT,2023,Kuwait,2922258,SL.TLF.TOTL.IN,labor_force
+KWT,2022,Kuwait,2756750,SL.TLF.TOTL.IN,labor_force
+KWT,2021,Kuwait,2459769,SL.TLF.TOTL.IN,labor_force
+KWT,2020,Kuwait,2417086,SL.TLF.TOTL.IN,labor_force
+KWT,2019,Kuwait,2580640,SL.TLF.TOTL.IN,labor_force
+KWT,2018,Kuwait,2510334,SL.TLF.TOTL.IN,labor_force
+KGZ,2025,Kyrgyz Republic,2863490,SL.TLF.TOTL.IN,labor_force
+KGZ,2024,Kyrgyz Republic,2808345,SL.TLF.TOTL.IN,labor_force
+KGZ,2023,Kyrgyz Republic,2720905,SL.TLF.TOTL.IN,labor_force
+KGZ,2022,Kyrgyz Republic,2769026,SL.TLF.TOTL.IN,labor_force
+KGZ,2021,Kyrgyz Republic,2709138,SL.TLF.TOTL.IN,labor_force
+KGZ,2020,Kyrgyz Republic,2587678,SL.TLF.TOTL.IN,labor_force
+KGZ,2019,Kyrgyz Republic,2614491,SL.TLF.TOTL.IN,labor_force
+KGZ,2018,Kyrgyz Republic,2549272,SL.TLF.TOTL.IN,labor_force
+LAO,2025,Lao PDR,3650484,SL.TLF.TOTL.IN,labor_force
+LAO,2024,Lao PDR,3578885,SL.TLF.TOTL.IN,labor_force
+LAO,2023,Lao PDR,3512483,SL.TLF.TOTL.IN,labor_force
+LAO,2022,Lao PDR,3446569,SL.TLF.TOTL.IN,labor_force
+LAO,2021,Lao PDR,3310087,SL.TLF.TOTL.IN,labor_force
+LAO,2020,Lao PDR,3161020,SL.TLF.TOTL.IN,labor_force
+LAO,2019,Lao PDR,3065141,SL.TLF.TOTL.IN,labor_force
+LAO,2018,Lao PDR,2946540,SL.TLF.TOTL.IN,labor_force
+LVA,2025,Latvia,946983,SL.TLF.TOTL.IN,labor_force
+LVA,2024,Latvia,960324,SL.TLF.TOTL.IN,labor_force
+LVA,2023,Latvia,968514,SL.TLF.TOTL.IN,labor_force
+LVA,2022,Latvia,962817,SL.TLF.TOTL.IN,labor_force
+LVA,2021,Latvia,950956,SL.TLF.TOTL.IN,labor_force
+LVA,2020,Latvia,982835,SL.TLF.TOTL.IN,labor_force
+LVA,2019,Latvia,982724,SL.TLF.TOTL.IN,labor_force
+LVA,2018,Latvia,994948,SL.TLF.TOTL.IN,labor_force
+LBN,2023,Lebanon,1837294,SL.TLF.TOTL.IN,labor_force
+LBN,2022,Lebanon,1815347,SL.TLF.TOTL.IN,labor_force
+LBN,2021,Lebanon,1884419,SL.TLF.TOTL.IN,labor_force
+LBN,2020,Lebanon,1949531,SL.TLF.TOTL.IN,labor_force
+LBN,2019,Lebanon,2042509,SL.TLF.TOTL.IN,labor_force
+LBN,2018,Lebanon,2102355,SL.TLF.TOTL.IN,labor_force
+LSO,2025,Lesotho,889530,SL.TLF.TOTL.IN,labor_force
+LSO,2024,Lesotho,878864,SL.TLF.TOTL.IN,labor_force
+LSO,2023,Lesotho,864326,SL.TLF.TOTL.IN,labor_force
+LSO,2022,Lesotho,850547,SL.TLF.TOTL.IN,labor_force
+LSO,2021,Lesotho,827248,SL.TLF.TOTL.IN,labor_force
+LSO,2020,Lesotho,819139,SL.TLF.TOTL.IN,labor_force
+LSO,2019,Lesotho,814339,SL.TLF.TOTL.IN,labor_force
+LSO,2018,Lesotho,820144,SL.TLF.TOTL.IN,labor_force
+LBR,2025,Liberia,2673807,SL.TLF.TOTL.IN,labor_force
+LBR,2024,Liberia,2600249,SL.TLF.TOTL.IN,labor_force
+LBR,2023,Liberia,2526283,SL.TLF.TOTL.IN,labor_force
+LBR,2022,Liberia,2452391,SL.TLF.TOTL.IN,labor_force
+LBR,2021,Liberia,2370566,SL.TLF.TOTL.IN,labor_force
+LBR,2020,Liberia,2297082,SL.TLF.TOTL.IN,labor_force
+LBR,2019,Liberia,2258308,SL.TLF.TOTL.IN,labor_force
+LBR,2018,Liberia,2206322,SL.TLF.TOTL.IN,labor_force
+LBY,2025,Libya,2616929,SL.TLF.TOTL.IN,labor_force
+LBY,2024,Libya,2585950,SL.TLF.TOTL.IN,labor_force
+LBY,2023,Libya,2552880,SL.TLF.TOTL.IN,labor_force
+LBY,2022,Libya,2516297,SL.TLF.TOTL.IN,labor_force
+LBY,2021,Libya,2302838,SL.TLF.TOTL.IN,labor_force
+LBY,2020,Libya,2237376,SL.TLF.TOTL.IN,labor_force
+LBY,2019,Libya,2397985,SL.TLF.TOTL.IN,labor_force
+LBY,2018,Libya,2353307,SL.TLF.TOTL.IN,labor_force
+LTU,2025,Lithuania,1530608,SL.TLF.TOTL.IN,labor_force
+LTU,2024,Lithuania,1554585,SL.TLF.TOTL.IN,labor_force
+LTU,2023,Lithuania,1536989,SL.TLF.TOTL.IN,labor_force
+LTU,2022,Lithuania,1509407,SL.TLF.TOTL.IN,labor_force
+LTU,2021,Lithuania,1485276,SL.TLF.TOTL.IN,labor_force
+LTU,2020,Lithuania,1494750,SL.TLF.TOTL.IN,labor_force
+LTU,2019,Lithuania,1481171,SL.TLF.TOTL.IN,labor_force
+LTU,2018,Lithuania,1473979,SL.TLF.TOTL.IN,labor_force
+LUX,2025,Luxembourg,354487,SL.TLF.TOTL.IN,labor_force
+LUX,2024,Luxembourg,352177,SL.TLF.TOTL.IN,labor_force
+LUX,2023,Luxembourg,345229,SL.TLF.TOTL.IN,labor_force
+LUX,2022,Luxembourg,334814,SL.TLF.TOTL.IN,labor_force
+LUX,2021,Luxembourg,330815,SL.TLF.TOTL.IN,labor_force
+LUX,2020,Luxembourg,318373,SL.TLF.TOTL.IN,labor_force
+LUX,2019,Luxembourg,312622,SL.TLF.TOTL.IN,labor_force
+LUX,2018,Luxembourg,302446,SL.TLF.TOTL.IN,labor_force
+MAC,2025,"Macao SAR, China",396773,SL.TLF.TOTL.IN,labor_force
+MAC,2024,"Macao SAR, China",403821,SL.TLF.TOTL.IN,labor_force
+MAC,2023,"Macao SAR, China",396357,SL.TLF.TOTL.IN,labor_force
+MAC,2022,"Macao SAR, China",386966,SL.TLF.TOTL.IN,labor_force
+MAC,2021,"Macao SAR, China",402627,SL.TLF.TOTL.IN,labor_force
+MAC,2020,"Macao SAR, China",403030,SL.TLF.TOTL.IN,labor_force
+MAC,2019,"Macao SAR, China",402804,SL.TLF.TOTL.IN,labor_force
+MAC,2018,"Macao SAR, China",398219,SL.TLF.TOTL.IN,labor_force
+MDG,2025,Madagascar,17092352,SL.TLF.TOTL.IN,labor_force
+MDG,2024,Madagascar,16596270,SL.TLF.TOTL.IN,labor_force
+MDG,2023,Madagascar,16111038,SL.TLF.TOTL.IN,labor_force
+MDG,2022,Madagascar,15639635,SL.TLF.TOTL.IN,labor_force
+MDG,2021,Madagascar,15114095,SL.TLF.TOTL.IN,labor_force
+MDG,2020,Madagascar,14599606,SL.TLF.TOTL.IN,labor_force
+MDG,2019,Madagascar,14297110,SL.TLF.TOTL.IN,labor_force
+MDG,2018,Madagascar,13885082,SL.TLF.TOTL.IN,labor_force
+MWI,2025,Malawi,8323726,SL.TLF.TOTL.IN,labor_force
+MWI,2024,Malawi,8079939,SL.TLF.TOTL.IN,labor_force
+MWI,2023,Malawi,7802263,SL.TLF.TOTL.IN,labor_force
+MWI,2022,Malawi,7532800,SL.TLF.TOTL.IN,labor_force
+MWI,2021,Malawi,7249519,SL.TLF.TOTL.IN,labor_force
+MWI,2020,Malawi,7584986,SL.TLF.TOTL.IN,labor_force
+MWI,2019,Malawi,6781042,SL.TLF.TOTL.IN,labor_force
+MWI,2018,Malawi,6554638,SL.TLF.TOTL.IN,labor_force
+MYS,2025,Malaysia,18719406,SL.TLF.TOTL.IN,labor_force
+MYS,2024,Malaysia,18384977,SL.TLF.TOTL.IN,labor_force
+MYS,2023,Malaysia,18064842,SL.TLF.TOTL.IN,labor_force
+MYS,2022,Malaysia,17730042,SL.TLF.TOTL.IN,labor_force
+MYS,2021,Malaysia,17233270,SL.TLF.TOTL.IN,labor_force
+MYS,2020,Malaysia,16871915,SL.TLF.TOTL.IN,labor_force
+MYS,2019,Malaysia,16636582,SL.TLF.TOTL.IN,labor_force
+MYS,2018,Malaysia,16212579,SL.TLF.TOTL.IN,labor_force
+MDV,2025,Maldives,272320,SL.TLF.TOTL.IN,labor_force
+MDV,2024,Maldives,268233,SL.TLF.TOTL.IN,labor_force
+MDV,2023,Maldives,266313,SL.TLF.TOTL.IN,labor_force
+MDV,2022,Maldives,264656,SL.TLF.TOTL.IN,labor_force
+MDV,2021,Maldives,244493,SL.TLF.TOTL.IN,labor_force
+MDV,2020,Maldives,230564,SL.TLF.TOTL.IN,labor_force
+MDV,2019,Maldives,243098,SL.TLF.TOTL.IN,labor_force
+MDV,2018,Maldives,226484,SL.TLF.TOTL.IN,labor_force
+MLI,2025,Mali,9156646,SL.TLF.TOTL.IN,labor_force
+MLI,2024,Mali,8855828,SL.TLF.TOTL.IN,labor_force
+MLI,2023,Mali,8552851,SL.TLF.TOTL.IN,labor_force
+MLI,2022,Mali,8260725,SL.TLF.TOTL.IN,labor_force
+MLI,2021,Mali,7917555,SL.TLF.TOTL.IN,labor_force
+MLI,2020,Mali,7540126,SL.TLF.TOTL.IN,labor_force
+MLI,2019,Mali,7442902,SL.TLF.TOTL.IN,labor_force
+MLI,2018,Mali,7290683,SL.TLF.TOTL.IN,labor_force
+MLT,2025,Malta,319715,SL.TLF.TOTL.IN,labor_force
+MLT,2024,Malta,317434,SL.TLF.TOTL.IN,labor_force
+MLT,2023,Malta,308595,SL.TLF.TOTL.IN,labor_force
+MLT,2022,Malta,295009,SL.TLF.TOTL.IN,labor_force
+MLT,2021,Malta,280621,SL.TLF.TOTL.IN,labor_force
+MLT,2020,Malta,274659,SL.TLF.TOTL.IN,labor_force
+MLT,2019,Malta,262597,SL.TLF.TOTL.IN,labor_force
+MLT,2018,Malta,247175,SL.TLF.TOTL.IN,labor_force
+MRT,2025,Mauritania,1248560,SL.TLF.TOTL.IN,labor_force
+MRT,2024,Mauritania,1211128,SL.TLF.TOTL.IN,labor_force
+MRT,2023,Mauritania,1170884,SL.TLF.TOTL.IN,labor_force
+MRT,2022,Mauritania,1130709,SL.TLF.TOTL.IN,labor_force
+MRT,2021,Mauritania,1086687,SL.TLF.TOTL.IN,labor_force
+MRT,2020,Mauritania,1047982,SL.TLF.TOTL.IN,labor_force
+MRT,2019,Mauritania,1027210,SL.TLF.TOTL.IN,labor_force
+MRT,2018,Mauritania,995824,SL.TLF.TOTL.IN,labor_force
+MUS,2025,Mauritius,622142,SL.TLF.TOTL.IN,labor_force
+MUS,2024,Mauritius,622583,SL.TLF.TOTL.IN,labor_force
+MUS,2023,Mauritius,625239,SL.TLF.TOTL.IN,labor_force
+MUS,2022,Mauritius,592892,SL.TLF.TOTL.IN,labor_force
+MUS,2021,Mauritius,560132,SL.TLF.TOTL.IN,labor_force
+MUS,2020,Mauritius,589990,SL.TLF.TOTL.IN,labor_force
+MUS,2019,Mauritius,628768,SL.TLF.TOTL.IN,labor_force
+MUS,2018,Mauritius,619649,SL.TLF.TOTL.IN,labor_force
+MEX,2025,Mexico,61707262,SL.TLF.TOTL.IN,labor_force
+MEX,2024,Mexico,60887761,SL.TLF.TOTL.IN,labor_force
+MEX,2023,Mexico,60144623,SL.TLF.TOTL.IN,labor_force
+MEX,2022,Mexico,58544385,SL.TLF.TOTL.IN,labor_force
+MEX,2021,Mexico,56864048,SL.TLF.TOTL.IN,labor_force
+MEX,2020,Mexico,52956486,SL.TLF.TOTL.IN,labor_force
+MEX,2019,Mexico,56614536,SL.TLF.TOTL.IN,labor_force
+MEX,2018,Mexico,55142830,SL.TLF.TOTL.IN,labor_force
+MDA,2025,Moldova,1375753,SL.TLF.TOTL.IN,labor_force
+MDA,2024,Moldova,1390446,SL.TLF.TOTL.IN,labor_force
+MDA,2023,Moldova,1391968,SL.TLF.TOTL.IN,labor_force
+MDA,2022,Moldova,1464574,SL.TLF.TOTL.IN,labor_force
+MDA,2021,Moldova,1503026,SL.TLF.TOTL.IN,labor_force
+MDA,2020,Moldova,1469067,SL.TLF.TOTL.IN,labor_force
+MDA,2019,Moldova,1481802,SL.TLF.TOTL.IN,labor_force
+MDA,2018,Moldova,1461369,SL.TLF.TOTL.IN,labor_force
+MNG,2025,Mongolia,1457041,SL.TLF.TOTL.IN,labor_force
+MNG,2024,Mongolia,1441482,SL.TLF.TOTL.IN,labor_force
+MNG,2023,Mongolia,1426526,SL.TLF.TOTL.IN,labor_force
+MNG,2022,Mongolia,1442982,SL.TLF.TOTL.IN,labor_force
+MNG,2021,Mongolia,1389087,SL.TLF.TOTL.IN,labor_force
+MNG,2020,Mongolia,1418986,SL.TLF.TOTL.IN,labor_force
+MNG,2019,Mongolia,1451060,SL.TLF.TOTL.IN,labor_force
+MNG,2018,Mongolia,1310964,SL.TLF.TOTL.IN,labor_force
+MNE,2025,Montenegro,292258,SL.TLF.TOTL.IN,labor_force
+MNE,2024,Montenegro,297284,SL.TLF.TOTL.IN,labor_force
+MNE,2023,Montenegro,298219,SL.TLF.TOTL.IN,labor_force
+MNE,2022,Montenegro,282083,SL.TLF.TOTL.IN,labor_force
+MNE,2021,Montenegro,245080,SL.TLF.TOTL.IN,labor_force
+MNE,2020,Montenegro,257436,SL.TLF.TOTL.IN,labor_force
+MNE,2019,Montenegro,278968,SL.TLF.TOTL.IN,labor_force
+MNE,2018,Montenegro,273696,SL.TLF.TOTL.IN,labor_force
+MAR,2025,Morocco,12631464,SL.TLF.TOTL.IN,labor_force
+MAR,2024,Morocco,12497271,SL.TLF.TOTL.IN,labor_force
+MAR,2023,Morocco,12335833,SL.TLF.TOTL.IN,labor_force
+MAR,2022,Morocco,12170356,SL.TLF.TOTL.IN,labor_force
+MAR,2021,Morocco,12266110,SL.TLF.TOTL.IN,labor_force
+MAR,2020,Morocco,11894936,SL.TLF.TOTL.IN,labor_force
+MAR,2019,Morocco,12163466,SL.TLF.TOTL.IN,labor_force
+MAR,2018,Morocco,11919387,SL.TLF.TOTL.IN,labor_force
+MOZ,2025,Mozambique,15658114,SL.TLF.TOTL.IN,labor_force
+MOZ,2024,Mozambique,15148294,SL.TLF.TOTL.IN,labor_force
+MOZ,2023,Mozambique,14644495,SL.TLF.TOTL.IN,labor_force
+MOZ,2022,Mozambique,14168284,SL.TLF.TOTL.IN,labor_force
+MOZ,2021,Mozambique,13595901,SL.TLF.TOTL.IN,labor_force
+MOZ,2020,Mozambique,13187062,SL.TLF.TOTL.IN,labor_force
+MOZ,2019,Mozambique,12903560,SL.TLF.TOTL.IN,labor_force
+MOZ,2018,Mozambique,12515124,SL.TLF.TOTL.IN,labor_force
+MMR,2025,Myanmar,22940495,SL.TLF.TOTL.IN,labor_force
+MMR,2024,Myanmar,22744175,SL.TLF.TOTL.IN,labor_force
+MMR,2023,Myanmar,22552833,SL.TLF.TOTL.IN,labor_force
+MMR,2022,Myanmar,22343279,SL.TLF.TOTL.IN,labor_force
+MMR,2021,Myanmar,22117425,SL.TLF.TOTL.IN,labor_force
+MMR,2020,Myanmar,23870997,SL.TLF.TOTL.IN,labor_force
+MMR,2019,Myanmar,23767370,SL.TLF.TOTL.IN,labor_force
+MMR,2018,Myanmar,24244077,SL.TLF.TOTL.IN,labor_force
+NAM,2025,Namibia,1152801,SL.TLF.TOTL.IN,labor_force
+NAM,2024,Namibia,1124198,SL.TLF.TOTL.IN,labor_force
+NAM,2023,Namibia,1094377,SL.TLF.TOTL.IN,labor_force
+NAM,2022,Namibia,1064363,SL.TLF.TOTL.IN,labor_force
+NAM,2021,Namibia,994464,SL.TLF.TOTL.IN,labor_force
+NAM,2020,Namibia,960250,SL.TLF.TOTL.IN,labor_force
+NAM,2019,Namibia,984283,SL.TLF.TOTL.IN,labor_force
+NAM,2018,Namibia,958630,SL.TLF.TOTL.IN,labor_force
+NPL,2025,Nepal,8362760,SL.TLF.TOTL.IN,labor_force
+NPL,2024,Nepal,8342811,SL.TLF.TOTL.IN,labor_force
+NPL,2023,Nepal,8335831,SL.TLF.TOTL.IN,labor_force
+NPL,2022,Nepal,8325856,SL.TLF.TOTL.IN,labor_force
+NPL,2021,Nepal,8226953,SL.TLF.TOTL.IN,labor_force
+NPL,2020,Nepal,7977675,SL.TLF.TOTL.IN,labor_force
+NPL,2019,Nepal,7802999,SL.TLF.TOTL.IN,labor_force
+NPL,2018,Nepal,7630668,SL.TLF.TOTL.IN,labor_force
+NLD,2025,Netherlands,10351609,SL.TLF.TOTL.IN,labor_force
+NLD,2024,Netherlands,10314837,SL.TLF.TOTL.IN,labor_force
+NLD,2023,Netherlands,10269843,SL.TLF.TOTL.IN,labor_force
+NLD,2022,Netherlands,10073395,SL.TLF.TOTL.IN,labor_force
+NLD,2021,Netherlands,9858813,SL.TLF.TOTL.IN,labor_force
+NLD,2020,Netherlands,9793423,SL.TLF.TOTL.IN,labor_force
+NLD,2019,Netherlands,9742856,SL.TLF.TOTL.IN,labor_force
+NLD,2018,Netherlands,9608481,SL.TLF.TOTL.IN,labor_force
+NCL,2025,New Caledonia,131488,SL.TLF.TOTL.IN,labor_force
+NCL,2024,New Caledonia,130995,SL.TLF.TOTL.IN,labor_force
+NCL,2023,New Caledonia,130221,SL.TLF.TOTL.IN,labor_force
+NCL,2022,New Caledonia,129375,SL.TLF.TOTL.IN,labor_force
+NCL,2021,New Caledonia,127574,SL.TLF.TOTL.IN,labor_force
+NCL,2020,New Caledonia,127349,SL.TLF.TOTL.IN,labor_force
+NCL,2019,New Caledonia,126548,SL.TLF.TOTL.IN,labor_force
+NCL,2018,New Caledonia,128747,SL.TLF.TOTL.IN,labor_force
+NZL,2025,New Zealand,3075239,SL.TLF.TOTL.IN,labor_force
+NZL,2024,New Zealand,3054575,SL.TLF.TOTL.IN,labor_force
+NZL,2023,New Zealand,3034955,SL.TLF.TOTL.IN,labor_force
+NZL,2022,New Zealand,2932530,SL.TLF.TOTL.IN,labor_force
+NZL,2021,New Zealand,2904263,SL.TLF.TOTL.IN,labor_force
+NZL,2020,New Zealand,2869748,SL.TLF.TOTL.IN,labor_force
+NZL,2019,New Zealand,2819371,SL.TLF.TOTL.IN,labor_force
+NZL,2018,New Zealand,2787916,SL.TLF.TOTL.IN,labor_force
+NIC,2025,Nicaragua,3319222,SL.TLF.TOTL.IN,labor_force
+NIC,2024,Nicaragua,3253536,SL.TLF.TOTL.IN,labor_force
+NIC,2023,Nicaragua,3183098,SL.TLF.TOTL.IN,labor_force
+NIC,2022,Nicaragua,3108200,SL.TLF.TOTL.IN,labor_force
+NIC,2021,Nicaragua,3032996,SL.TLF.TOTL.IN,labor_force
+NIC,2020,Nicaragua,2940072,SL.TLF.TOTL.IN,labor_force
+NIC,2019,Nicaragua,2916688,SL.TLF.TOTL.IN,labor_force
+NIC,2018,Nicaragua,2871355,SL.TLF.TOTL.IN,labor_force
+NER,2025,Niger,11971064,SL.TLF.TOTL.IN,labor_force
+NER,2024,Niger,11484657,SL.TLF.TOTL.IN,labor_force
+NER,2023,Niger,11037913,SL.TLF.TOTL.IN,labor_force
+NER,2022,Niger,10614399,SL.TLF.TOTL.IN,labor_force
+NER,2021,Niger,9808662,SL.TLF.TOTL.IN,labor_force
+NER,2020,Niger,9140912,SL.TLF.TOTL.IN,labor_force
+NER,2019,Niger,8590335,SL.TLF.TOTL.IN,labor_force
+NER,2018,Niger,8289312,SL.TLF.TOTL.IN,labor_force
+NGA,2025,Nigeria,116581818,SL.TLF.TOTL.IN,labor_force
+NGA,2024,Nigeria,113320742,SL.TLF.TOTL.IN,labor_force
+NGA,2023,Nigeria,110075281,SL.TLF.TOTL.IN,labor_force
+NGA,2022,Nigeria,105269418,SL.TLF.TOTL.IN,labor_force
+NGA,2021,Nigeria,100887576,SL.TLF.TOTL.IN,labor_force
+NGA,2020,Nigeria,97041268,SL.TLF.TOTL.IN,labor_force
+NGA,2019,Nigeria,96335866,SL.TLF.TOTL.IN,labor_force
+NGA,2018,Nigeria,93615892,SL.TLF.TOTL.IN,labor_force
+MKD,2025,North Macedonia,786790,SL.TLF.TOTL.IN,labor_force
+MKD,2024,North Macedonia,792140,SL.TLF.TOTL.IN,labor_force
+MKD,2023,North Macedonia,784466,SL.TLF.TOTL.IN,labor_force
+MKD,2022,North Macedonia,802703,SL.TLF.TOTL.IN,labor_force
+MKD,2021,North Macedonia,784953,SL.TLF.TOTL.IN,labor_force
+MKD,2020,North Macedonia,800704,SL.TLF.TOTL.IN,labor_force
+MKD,2019,North Macedonia,823317,SL.TLF.TOTL.IN,labor_force
+MKD,2018,North Macedonia,824281,SL.TLF.TOTL.IN,labor_force
+NOR,2025,Norway,3093894,SL.TLF.TOTL.IN,labor_force
+NOR,2024,Norway,3074577,SL.TLF.TOTL.IN,labor_force
+NOR,2023,Norway,3039025,SL.TLF.TOTL.IN,labor_force
+NOR,2022,Norway,2995482,SL.TLF.TOTL.IN,labor_force
+NOR,2021,Norway,2948722,SL.TLF.TOTL.IN,labor_force
+NOR,2020,Norway,2925043,SL.TLF.TOTL.IN,labor_force
+NOR,2019,Norway,2911217,SL.TLF.TOTL.IN,labor_force
+NOR,2018,Norway,2883492,SL.TLF.TOTL.IN,labor_force
+OMN,2025,Oman,2843365,SL.TLF.TOTL.IN,labor_force
+OMN,2024,Oman,2715317,SL.TLF.TOTL.IN,labor_force
+OMN,2023,Oman,2579803,SL.TLF.TOTL.IN,labor_force
+OMN,2022,Oman,2381905,SL.TLF.TOTL.IN,labor_force
+OMN,2021,Oman,2169738,SL.TLF.TOTL.IN,labor_force
+OMN,2020,Oman,2220588,SL.TLF.TOTL.IN,labor_force
+OMN,2019,Oman,2435263,SL.TLF.TOTL.IN,labor_force
+OMN,2018,Oman,2500377,SL.TLF.TOTL.IN,labor_force
+PAK,2025,Pakistan,85158214,SL.TLF.TOTL.IN,labor_force
+PAK,2024,Pakistan,83217450,SL.TLF.TOTL.IN,labor_force
+PAK,2023,Pakistan,81613188,SL.TLF.TOTL.IN,labor_force
+PAK,2022,Pakistan,80064041,SL.TLF.TOTL.IN,labor_force
+PAK,2021,Pakistan,78814704,SL.TLF.TOTL.IN,labor_force
+PAK,2020,Pakistan,75332749,SL.TLF.TOTL.IN,labor_force
+PAK,2019,Pakistan,73727954,SL.TLF.TOTL.IN,labor_force
+PAK,2018,Pakistan,71401725,SL.TLF.TOTL.IN,labor_force
+PAN,2025,Panama,2287522,SL.TLF.TOTL.IN,labor_force
+PAN,2024,Panama,2249161,SL.TLF.TOTL.IN,labor_force
+PAN,2023,Panama,2170438,SL.TLF.TOTL.IN,labor_force
+PAN,2022,Panama,2169258,SL.TLF.TOTL.IN,labor_force
+PAN,2021,Panama,2018222,SL.TLF.TOTL.IN,labor_force
+PAN,2020,Panama,2098423,SL.TLF.TOTL.IN,labor_force
+PAN,2019,Panama,2125347,SL.TLF.TOTL.IN,labor_force
+PAN,2018,Panama,2053703,SL.TLF.TOTL.IN,labor_force
+PNG,2025,Papua New Guinea,3746653,SL.TLF.TOTL.IN,labor_force
+PNG,2024,Papua New Guinea,3655667,SL.TLF.TOTL.IN,labor_force
+PNG,2023,Papua New Guinea,3573686,SL.TLF.TOTL.IN,labor_force
+PNG,2022,Papua New Guinea,3494880,SL.TLF.TOTL.IN,labor_force
+PNG,2021,Papua New Guinea,3393679,SL.TLF.TOTL.IN,labor_force
+PNG,2020,Papua New Guinea,3269241,SL.TLF.TOTL.IN,labor_force
+PNG,2019,Papua New Guinea,3193903,SL.TLF.TOTL.IN,labor_force
+PNG,2018,Papua New Guinea,3089167,SL.TLF.TOTL.IN,labor_force
+PRY,2025,Paraguay,3528777,SL.TLF.TOTL.IN,labor_force
+PRY,2024,Paraguay,3477137,SL.TLF.TOTL.IN,labor_force
+PRY,2023,Paraguay,3448638,SL.TLF.TOTL.IN,labor_force
+PRY,2022,Paraguay,3391301,SL.TLF.TOTL.IN,labor_force
+PRY,2021,Paraguay,3412056,SL.TLF.TOTL.IN,labor_force
+PRY,2020,Paraguay,3281326,SL.TLF.TOTL.IN,labor_force
+PRY,2019,Paraguay,3334564,SL.TLF.TOTL.IN,labor_force
+PRY,2018,Paraguay,3257956,SL.TLF.TOTL.IN,labor_force
+PER,2025,Peru,19242514,SL.TLF.TOTL.IN,labor_force
+PER,2024,Peru,18941504,SL.TLF.TOTL.IN,labor_force
+PER,2023,Peru,18608668,SL.TLF.TOTL.IN,labor_force
+PER,2022,Peru,18756175,SL.TLF.TOTL.IN,labor_force
+PER,2021,Peru,17853296,SL.TLF.TOTL.IN,labor_force
+PER,2020,Peru,16861243,SL.TLF.TOTL.IN,labor_force
+PER,2019,Peru,18599717,SL.TLF.TOTL.IN,labor_force
+PER,2018,Peru,18124121,SL.TLF.TOTL.IN,labor_force
+PHL,2025,Philippines,52204133,SL.TLF.TOTL.IN,labor_force
+PHL,2024,Philippines,51307682,SL.TLF.TOTL.IN,labor_force
+PHL,2023,Philippines,50378922,SL.TLF.TOTL.IN,labor_force
+PHL,2022,Philippines,49481401,SL.TLF.TOTL.IN,labor_force
+PHL,2021,Philippines,44699749,SL.TLF.TOTL.IN,labor_force
+PHL,2020,Philippines,42533348,SL.TLF.TOTL.IN,labor_force
+PHL,2019,Philippines,45267971,SL.TLF.TOTL.IN,labor_force
+PHL,2018,Philippines,44041398,SL.TLF.TOTL.IN,labor_force
+POL,2025,Poland,18017827,SL.TLF.TOTL.IN,labor_force
+POL,2024,Poland,18269205,SL.TLF.TOTL.IN,labor_force
+POL,2023,Poland,18449404,SL.TLF.TOTL.IN,labor_force
+POL,2022,Poland,18378935,SL.TLF.TOTL.IN,labor_force
+POL,2021,Poland,18351011,SL.TLF.TOTL.IN,labor_force
+POL,2020,Poland,18197725,SL.TLF.TOTL.IN,labor_force
+POL,2019,Poland,18454120,SL.TLF.TOTL.IN,labor_force
+POL,2018,Poland,18503688,SL.TLF.TOTL.IN,labor_force
+PRT,2025,Portugal,5419014,SL.TLF.TOTL.IN,labor_force
+PRT,2024,Portugal,5450166,SL.TLF.TOTL.IN,labor_force
+PRT,2023,Portugal,5395411,SL.TLF.TOTL.IN,labor_force
+PRT,2022,Portugal,5245513,SL.TLF.TOTL.IN,labor_force
+PRT,2021,Portugal,5114630,SL.TLF.TOTL.IN,labor_force
+PRT,2020,Portugal,5138884,SL.TLF.TOTL.IN,labor_force
+PRT,2019,Portugal,5245523,SL.TLF.TOTL.IN,labor_force
+PRT,2018,Portugal,5230976,SL.TLF.TOTL.IN,labor_force
+PRI,2025,Puerto Rico (US),1211661,SL.TLF.TOTL.IN,labor_force
+PRI,2024,Puerto Rico (US),1206343,SL.TLF.TOTL.IN,labor_force
+PRI,2023,Puerto Rico (US),1187834,SL.TLF.TOTL.IN,labor_force
+PRI,2022,Puerto Rico (US),1180357,SL.TLF.TOTL.IN,labor_force
+PRI,2021,Puerto Rico (US),1174411,SL.TLF.TOTL.IN,labor_force
+PRI,2020,Puerto Rico (US),1115681,SL.TLF.TOTL.IN,labor_force
+PRI,2019,Puerto Rico (US),1095857,SL.TLF.TOTL.IN,labor_force
+PRI,2018,Puerto Rico (US),1082217,SL.TLF.TOTL.IN,labor_force
+QAT,2025,Qatar,2158537,SL.TLF.TOTL.IN,labor_force
+QAT,2024,Qatar,2116940,SL.TLF.TOTL.IN,labor_force
+QAT,2023,Qatar,1972840,SL.TLF.TOTL.IN,labor_force
+QAT,2022,Qatar,1972313,SL.TLF.TOTL.IN,labor_force
+QAT,2021,Qatar,1827072,SL.TLF.TOTL.IN,labor_force
+QAT,2020,Qatar,2059100,SL.TLF.TOTL.IN,labor_force
+QAT,2019,Qatar,1971250,SL.TLF.TOTL.IN,labor_force
+QAT,2018,Qatar,1943088,SL.TLF.TOTL.IN,labor_force
+ROU,2025,Romania,8213271,SL.TLF.TOTL.IN,labor_force
+ROU,2024,Romania,8263437,SL.TLF.TOTL.IN,labor_force
+ROU,2023,Romania,8296265,SL.TLF.TOTL.IN,labor_force
+ROU,2022,Romania,8420718,SL.TLF.TOTL.IN,labor_force
+ROU,2021,Romania,8417695,SL.TLF.TOTL.IN,labor_force
+ROU,2020,Romania,8404862,SL.TLF.TOTL.IN,labor_force
+ROU,2019,Romania,8460344,SL.TLF.TOTL.IN,labor_force
+ROU,2018,Romania,8484137,SL.TLF.TOTL.IN,labor_force
+RUS,2025,Russian Federation,72386984,SL.TLF.TOTL.IN,labor_force
+RUS,2024,Russian Federation,73405850,SL.TLF.TOTL.IN,labor_force
+RUS,2023,Russian Federation,73713863,SL.TLF.TOTL.IN,labor_force
+RUS,2022,Russian Federation,73531906,SL.TLF.TOTL.IN,labor_force
+RUS,2021,Russian Federation,73799608,SL.TLF.TOTL.IN,labor_force
+RUS,2020,Russian Federation,73410465,SL.TLF.TOTL.IN,labor_force
+RUS,2019,Russian Federation,73911859,SL.TLF.TOTL.IN,labor_force
+RUS,2018,Russian Federation,74826387,SL.TLF.TOTL.IN,labor_force
+RWA,2025,Rwanda,5843274,SL.TLF.TOTL.IN,labor_force
+RWA,2024,Rwanda,5672552,SL.TLF.TOTL.IN,labor_force
+RWA,2023,Rwanda,5531930,SL.TLF.TOTL.IN,labor_force
+RWA,2022,Rwanda,5079189,SL.TLF.TOTL.IN,labor_force
+RWA,2021,Rwanda,4769099,SL.TLF.TOTL.IN,labor_force
+RWA,2020,Rwanda,4981285,SL.TLF.TOTL.IN,labor_force
+RWA,2019,Rwanda,4505832,SL.TLF.TOTL.IN,labor_force
+RWA,2018,Rwanda,4514731,SL.TLF.TOTL.IN,labor_force
+WSM,2025,Samoa,57776,SL.TLF.TOTL.IN,labor_force
+WSM,2024,Samoa,57801,SL.TLF.TOTL.IN,labor_force
+WSM,2023,Samoa,57666,SL.TLF.TOTL.IN,labor_force
+WSM,2022,Samoa,57627,SL.TLF.TOTL.IN,labor_force
+WSM,2021,Samoa,59735,SL.TLF.TOTL.IN,labor_force
+WSM,2020,Samoa,61909,SL.TLF.TOTL.IN,labor_force
+WSM,2019,Samoa,64742,SL.TLF.TOTL.IN,labor_force
+WSM,2018,Samoa,67014,SL.TLF.TOTL.IN,labor_force
+STP,2025,Sao Tome and Principe,35075,SL.TLF.TOTL.IN,labor_force
+STP,2024,Sao Tome and Principe,34253,SL.TLF.TOTL.IN,labor_force
+STP,2023,Sao Tome and Principe,33407,SL.TLF.TOTL.IN,labor_force
+STP,2022,Sao Tome and Principe,32567,SL.TLF.TOTL.IN,labor_force
+STP,2021,Sao Tome and Principe,31376,SL.TLF.TOTL.IN,labor_force
+STP,2020,Sao Tome and Principe,30200,SL.TLF.TOTL.IN,labor_force
+STP,2019,Sao Tome and Principe,30096,SL.TLF.TOTL.IN,labor_force
+STP,2018,Sao Tome and Principe,29532,SL.TLF.TOTL.IN,labor_force
+SAU,2025,Saudi Arabia,17858342,SL.TLF.TOTL.IN,labor_force
+SAU,2024,Saudi Arabia,17534019,SL.TLF.TOTL.IN,labor_force
+SAU,2023,Saudi Arabia,16713756,SL.TLF.TOTL.IN,labor_force
+SAU,2022,Saudi Arabia,15469059,SL.TLF.TOTL.IN,labor_force
+SAU,2021,Saudi Arabia,14623231,SL.TLF.TOTL.IN,labor_force
+SAU,2020,Saudi Arabia,14673206,SL.TLF.TOTL.IN,labor_force
+SAU,2019,Saudi Arabia,13661774,SL.TLF.TOTL.IN,labor_force
+SAU,2018,Saudi Arabia,13337661,SL.TLF.TOTL.IN,labor_force
+SEN,2025,Senegal,6131225,SL.TLF.TOTL.IN,labor_force
+SEN,2024,Senegal,5930338,SL.TLF.TOTL.IN,labor_force
+SEN,2023,Senegal,5755823,SL.TLF.TOTL.IN,labor_force
+SEN,2022,Senegal,5578418,SL.TLF.TOTL.IN,labor_force
+SEN,2021,Senegal,5361107,SL.TLF.TOTL.IN,labor_force
+SEN,2020,Senegal,5080703,SL.TLF.TOTL.IN,labor_force
+SEN,2019,Senegal,4904458,SL.TLF.TOTL.IN,labor_force
+SEN,2018,Senegal,4514053,SL.TLF.TOTL.IN,labor_force
+SRB,2025,Serbia,3314645,SL.TLF.TOTL.IN,labor_force
+SRB,2024,Serbia,3339034,SL.TLF.TOTL.IN,labor_force
+SRB,2023,Serbia,3295577,SL.TLF.TOTL.IN,labor_force
+SRB,2022,Serbia,3257209,SL.TLF.TOTL.IN,labor_force
+SRB,2021,Serbia,3290058,SL.TLF.TOTL.IN,labor_force
+SRB,2020,Serbia,3157142,SL.TLF.TOTL.IN,labor_force
+SRB,2019,Serbia,3219618,SL.TLF.TOTL.IN,labor_force
+SRB,2018,Serbia,3230350,SL.TLF.TOTL.IN,labor_force
+SLE,2025,Sierra Leone,2934968,SL.TLF.TOTL.IN,labor_force
+SLE,2024,Sierra Leone,2866950,SL.TLF.TOTL.IN,labor_force
+SLE,2023,Sierra Leone,2789202,SL.TLF.TOTL.IN,labor_force
+SLE,2022,Sierra Leone,2710522,SL.TLF.TOTL.IN,labor_force
+SLE,2021,Sierra Leone,2629616,SL.TLF.TOTL.IN,labor_force
+SLE,2020,Sierra Leone,2538353,SL.TLF.TOTL.IN,labor_force
+SLE,2019,Sierra Leone,2487971,SL.TLF.TOTL.IN,labor_force
+SLE,2018,Sierra Leone,2419052,SL.TLF.TOTL.IN,labor_force
+SGP,2025,Singapore,3736251,SL.TLF.TOTL.IN,labor_force
+SGP,2024,Singapore,3689424,SL.TLF.TOTL.IN,labor_force
+SGP,2023,Singapore,3622441,SL.TLF.TOTL.IN,labor_force
+SGP,2022,Singapore,3459003,SL.TLF.TOTL.IN,labor_force
+SGP,2021,Singapore,3385810,SL.TLF.TOTL.IN,labor_force
+SGP,2020,Singapore,3431193,SL.TLF.TOTL.IN,labor_force
+SGP,2019,Singapore,3454121,SL.TLF.TOTL.IN,labor_force
+SGP,2018,Singapore,3390276,SL.TLF.TOTL.IN,labor_force
+SVK,2025,Slovak Republic,2746734,SL.TLF.TOTL.IN,labor_force
+SVK,2024,Slovak Republic,2776940,SL.TLF.TOTL.IN,labor_force
+SVK,2023,Slovak Republic,2791584,SL.TLF.TOTL.IN,labor_force
+SVK,2022,Slovak Republic,2791445,SL.TLF.TOTL.IN,labor_force
+SVK,2021,Slovak Republic,2757031,SL.TLF.TOTL.IN,labor_force
+SVK,2020,Slovak Republic,2705756,SL.TLF.TOTL.IN,labor_force
+SVK,2019,Slovak Republic,2735233,SL.TLF.TOTL.IN,labor_force
+SVK,2018,Slovak Republic,2742867,SL.TLF.TOTL.IN,labor_force
+SVN,2025,Slovenia,1046040,SL.TLF.TOTL.IN,labor_force
+SVN,2024,Slovenia,1051473,SL.TLF.TOTL.IN,labor_force
+SVN,2023,Slovenia,1047279,SL.TLF.TOTL.IN,labor_force
+SVN,2022,Slovenia,1058958,SL.TLF.TOTL.IN,labor_force
+SVN,2021,Slovenia,1044095,SL.TLF.TOTL.IN,labor_force
+SVN,2020,Slovenia,1031435,SL.TLF.TOTL.IN,labor_force
+SVN,2019,Slovenia,1035062,SL.TLF.TOTL.IN,labor_force
+SVN,2018,Slovenia,1038040,SL.TLF.TOTL.IN,labor_force
+SLB,2025,Solomon Islands,448502,SL.TLF.TOTL.IN,labor_force
+SLB,2024,Solomon Islands,435148,SL.TLF.TOTL.IN,labor_force
+SLB,2023,Solomon Islands,422325,SL.TLF.TOTL.IN,labor_force
+SLB,2022,Solomon Islands,409847,SL.TLF.TOTL.IN,labor_force
+SLB,2021,Solomon Islands,396138,SL.TLF.TOTL.IN,labor_force
+SLB,2020,Solomon Islands,382865,SL.TLF.TOTL.IN,labor_force
+SLB,2019,Solomon Islands,376244,SL.TLF.TOTL.IN,labor_force
+SLB,2018,Solomon Islands,364564,SL.TLF.TOTL.IN,labor_force
+SOM,2025,"Somalia, Fed. Rep.",3555419,SL.TLF.TOTL.IN,labor_force
+SOM,2024,"Somalia, Fed. Rep.",3441587,SL.TLF.TOTL.IN,labor_force
+SOM,2023,"Somalia, Fed. Rep.",3319369,SL.TLF.TOTL.IN,labor_force
+SOM,2022,"Somalia, Fed. Rep.",3211325,SL.TLF.TOTL.IN,labor_force
+SOM,2021,"Somalia, Fed. Rep.",3090758,SL.TLF.TOTL.IN,labor_force
+SOM,2020,"Somalia, Fed. Rep.",2972858,SL.TLF.TOTL.IN,labor_force
+SOM,2019,"Somalia, Fed. Rep.",2883798,SL.TLF.TOTL.IN,labor_force
+SOM,2018,"Somalia, Fed. Rep.",2775849,SL.TLF.TOTL.IN,labor_force
+ZAF,2025,South Africa,26731522,SL.TLF.TOTL.IN,labor_force
+ZAF,2024,South Africa,26362253,SL.TLF.TOTL.IN,labor_force
+ZAF,2023,South Africa,25707269,SL.TLF.TOTL.IN,labor_force
+ZAF,2022,South Africa,24587967,SL.TLF.TOTL.IN,labor_force
+ZAF,2021,South Africa,23480812,SL.TLF.TOTL.IN,labor_force
+ZAF,2020,South Africa,22347803,SL.TLF.TOTL.IN,labor_force
+ZAF,2019,South Africa,23899064,SL.TLF.TOTL.IN,labor_force
+ZAF,2018,South Africa,23325105,SL.TLF.TOTL.IN,labor_force
+SSD,2023,South Sudan,5070344,SL.TLF.TOTL.IN,labor_force
+SSD,2022,South Sudan,4793498,SL.TLF.TOTL.IN,labor_force
+SSD,2021,South Sudan,4661528,SL.TLF.TOTL.IN,labor_force
+SSD,2020,South Sudan,4510898,SL.TLF.TOTL.IN,labor_force
+SSD,2019,South Sudan,4349614,SL.TLF.TOTL.IN,labor_force
+SSD,2018,South Sudan,4140093,SL.TLF.TOTL.IN,labor_force
+ESP,2025,Spain,24486385,SL.TLF.TOTL.IN,labor_force
+ESP,2024,Spain,24604513,SL.TLF.TOTL.IN,labor_force
+ESP,2023,Spain,24153349,SL.TLF.TOTL.IN,labor_force
+ESP,2022,Spain,23770575,SL.TLF.TOTL.IN,labor_force
+ESP,2021,Spain,23392854,SL.TLF.TOTL.IN,labor_force
+ESP,2020,Spain,22918332,SL.TLF.TOTL.IN,labor_force
+ESP,2019,Spain,23229297,SL.TLF.TOTL.IN,labor_force
+ESP,2018,Spain,23008131,SL.TLF.TOTL.IN,labor_force
+LKA,2025,Sri Lanka,8367977,SL.TLF.TOTL.IN,labor_force
+LKA,2024,Sri Lanka,8304691,SL.TLF.TOTL.IN,labor_force
+LKA,2023,Sri Lanka,8109783,SL.TLF.TOTL.IN,labor_force
+LKA,2022,Sri Lanka,8527218,SL.TLF.TOTL.IN,labor_force
+LKA,2021,Sri Lanka,8500316,SL.TLF.TOTL.IN,labor_force
+LKA,2020,Sri Lanka,8485010,SL.TLF.TOTL.IN,labor_force
+LKA,2019,Sri Lanka,8697166,SL.TLF.TOTL.IN,labor_force
+LKA,2018,Sri Lanka,8523299,SL.TLF.TOTL.IN,labor_force
+LCA,2025,St. Lucia,101771,SL.TLF.TOTL.IN,labor_force
+LCA,2024,St. Lucia,101133,SL.TLF.TOTL.IN,labor_force
+LCA,2023,St. Lucia,100958,SL.TLF.TOTL.IN,labor_force
+LCA,2022,St. Lucia,101159,SL.TLF.TOTL.IN,labor_force
+LCA,2021,St. Lucia,95353,SL.TLF.TOTL.IN,labor_force
+LCA,2020,St. Lucia,77845,SL.TLF.TOTL.IN,labor_force
+LCA,2019,St. Lucia,98910,SL.TLF.TOTL.IN,labor_force
+LCA,2018,St. Lucia,99636,SL.TLF.TOTL.IN,labor_force
+VCT,2025,St. Vincent and the Grenadines,53688,SL.TLF.TOTL.IN,labor_force
+VCT,2024,St. Vincent and the Grenadines,53881,SL.TLF.TOTL.IN,labor_force
+VCT,2023,St. Vincent and the Grenadines,53876,SL.TLF.TOTL.IN,labor_force
+VCT,2022,St. Vincent and the Grenadines,53833,SL.TLF.TOTL.IN,labor_force
+VCT,2021,St. Vincent and the Grenadines,53497,SL.TLF.TOTL.IN,labor_force
+VCT,2020,St. Vincent and the Grenadines,53554,SL.TLF.TOTL.IN,labor_force
+VCT,2019,St. Vincent and the Grenadines,54464,SL.TLF.TOTL.IN,labor_force
+VCT,2018,St. Vincent and the Grenadines,54559,SL.TLF.TOTL.IN,labor_force
+SDN,2022,Sudan,10949089,SL.TLF.TOTL.IN,labor_force
+SDN,2021,Sudan,10843717,SL.TLF.TOTL.IN,labor_force
+SDN,2020,Sudan,10720171,SL.TLF.TOTL.IN,labor_force
+SDN,2019,Sudan,10724574,SL.TLF.TOTL.IN,labor_force
+SDN,2018,Sudan,10606791,SL.TLF.TOTL.IN,labor_force
+SUR,2025,Suriname,257128,SL.TLF.TOTL.IN,labor_force
+SUR,2024,Suriname,253976,SL.TLF.TOTL.IN,labor_force
+SUR,2023,Suriname,249544,SL.TLF.TOTL.IN,labor_force
+SUR,2022,Suriname,245451,SL.TLF.TOTL.IN,labor_force
+SUR,2021,Suriname,241674,SL.TLF.TOTL.IN,labor_force
+SUR,2020,Suriname,235893,SL.TLF.TOTL.IN,labor_force
+SUR,2019,Suriname,248439,SL.TLF.TOTL.IN,labor_force
+SUR,2018,Suriname,244674,SL.TLF.TOTL.IN,labor_force
+SWE,2025,Sweden,5709480,SL.TLF.TOTL.IN,labor_force
+SWE,2024,Sweden,5680083,SL.TLF.TOTL.IN,labor_force
+SWE,2023,Sweden,5661389,SL.TLF.TOTL.IN,labor_force
+SWE,2022,Sweden,5586140,SL.TLF.TOTL.IN,labor_force
+SWE,2021,Sweden,5504637,SL.TLF.TOTL.IN,labor_force
+SWE,2020,Sweden,5463932,SL.TLF.TOTL.IN,labor_force
+SWE,2019,Sweden,5458324,SL.TLF.TOTL.IN,labor_force
+SWE,2018,Sweden,5397382,SL.TLF.TOTL.IN,labor_force
+CHE,2025,Switzerland,5138790,SL.TLF.TOTL.IN,labor_force
+CHE,2024,Switzerland,5139536,SL.TLF.TOTL.IN,labor_force
+CHE,2023,Switzerland,5095827,SL.TLF.TOTL.IN,labor_force
+CHE,2022,Switzerland,5000225,SL.TLF.TOTL.IN,labor_force
+CHE,2021,Switzerland,5007036,SL.TLF.TOTL.IN,labor_force
+CHE,2020,Switzerland,4988638,SL.TLF.TOTL.IN,labor_force
+CHE,2019,Switzerland,4978225,SL.TLF.TOTL.IN,labor_force
+CHE,2018,Switzerland,4963632,SL.TLF.TOTL.IN,labor_force
+SYR,2025,Syrian Arab Republic,6764801,SL.TLF.TOTL.IN,labor_force
+SYR,2024,Syrian Arab Republic,6464691,SL.TLF.TOTL.IN,labor_force
+SYR,2023,Syrian Arab Republic,6103412,SL.TLF.TOTL.IN,labor_force
+SYR,2022,Syrian Arab Republic,5706897,SL.TLF.TOTL.IN,labor_force
+SYR,2021,Syrian Arab Republic,5237189,SL.TLF.TOTL.IN,labor_force
+SYR,2020,Syrian Arab Republic,4944498,SL.TLF.TOTL.IN,labor_force
+SYR,2019,Syrian Arab Republic,4920535,SL.TLF.TOTL.IN,labor_force
+SYR,2018,Syrian Arab Republic,4590870,SL.TLF.TOTL.IN,labor_force
+TJK,2025,Tajikistan,2647875,SL.TLF.TOTL.IN,labor_force
+TJK,2024,Tajikistan,2588617,SL.TLF.TOTL.IN,labor_force
+TJK,2023,Tajikistan,2513014,SL.TLF.TOTL.IN,labor_force
+TJK,2022,Tajikistan,2442377,SL.TLF.TOTL.IN,labor_force
+TJK,2021,Tajikistan,2344147,SL.TLF.TOTL.IN,labor_force
+TJK,2020,Tajikistan,2279405,SL.TLF.TOTL.IN,labor_force
+TJK,2019,Tajikistan,2253843,SL.TLF.TOTL.IN,labor_force
+TJK,2018,Tajikistan,2253700,SL.TLF.TOTL.IN,labor_force
+TZA,2025,Tanzania,34052654,SL.TLF.TOTL.IN,labor_force
+TZA,2024,Tanzania,32994873,SL.TLF.TOTL.IN,labor_force
+TZA,2023,Tanzania,31961730,SL.TLF.TOTL.IN,labor_force
+TZA,2022,Tanzania,30944597,SL.TLF.TOTL.IN,labor_force
+TZA,2021,Tanzania,29917681,SL.TLF.TOTL.IN,labor_force
+TZA,2020,Tanzania,28601375,SL.TLF.TOTL.IN,labor_force
+TZA,2019,Tanzania,27975993,SL.TLF.TOTL.IN,labor_force
+TZA,2018,Tanzania,27078758,SL.TLF.TOTL.IN,labor_force
+THA,2025,Thailand,40871242,SL.TLF.TOTL.IN,labor_force
+THA,2024,Thailand,41014040,SL.TLF.TOTL.IN,labor_force
+THA,2023,Thailand,41287040,SL.TLF.TOTL.IN,labor_force
+THA,2022,Thailand,40754371,SL.TLF.TOTL.IN,labor_force
+THA,2021,Thailand,40439671,SL.TLF.TOTL.IN,labor_force
+THA,2020,Thailand,40252215,SL.TLF.TOTL.IN,labor_force
+THA,2019,Thailand,39952678,SL.TLF.TOTL.IN,labor_force
+THA,2018,Thailand,40193292,SL.TLF.TOTL.IN,labor_force
+TLS,2025,Timor-Leste,635489,SL.TLF.TOTL.IN,labor_force
+TLS,2024,Timor-Leste,620365,SL.TLF.TOTL.IN,labor_force
+TLS,2023,Timor-Leste,606149,SL.TLF.TOTL.IN,labor_force
+TLS,2022,Timor-Leste,593922,SL.TLF.TOTL.IN,labor_force
+TLS,2021,Timor-Leste,579432,SL.TLF.TOTL.IN,labor_force
+TLS,2020,Timor-Leste,559412,SL.TLF.TOTL.IN,labor_force
+TLS,2019,Timor-Leste,548771,SL.TLF.TOTL.IN,labor_force
+TLS,2018,Timor-Leste,538790,SL.TLF.TOTL.IN,labor_force
+TGO,2025,Togo,3421753,SL.TLF.TOTL.IN,labor_force
+TGO,2024,Togo,3330912,SL.TLF.TOTL.IN,labor_force
+TGO,2023,Togo,3239829,SL.TLF.TOTL.IN,labor_force
+TGO,2022,Togo,3148313,SL.TLF.TOTL.IN,labor_force
+TGO,2021,Togo,3048503,SL.TLF.TOTL.IN,labor_force
+TGO,2020,Togo,2950943,SL.TLF.TOTL.IN,labor_force
+TGO,2019,Togo,2899008,SL.TLF.TOTL.IN,labor_force
+TGO,2018,Togo,2823599,SL.TLF.TOTL.IN,labor_force
+TON,2025,Tonga,33628,SL.TLF.TOTL.IN,labor_force
+TON,2024,Tonga,33779,SL.TLF.TOTL.IN,labor_force
+TON,2023,Tonga,34073,SL.TLF.TOTL.IN,labor_force
+TON,2022,Tonga,34733,SL.TLF.TOTL.IN,labor_force
+TON,2021,Tonga,35255,SL.TLF.TOTL.IN,labor_force
+TON,2020,Tonga,35568,SL.TLF.TOTL.IN,labor_force
+TON,2019,Tonga,36164,SL.TLF.TOTL.IN,labor_force
+TON,2018,Tonga,36363,SL.TLF.TOTL.IN,labor_force
+TTO,2025,Trinidad and Tobago,653446,SL.TLF.TOTL.IN,labor_force
+TTO,2024,Trinidad and Tobago,654403,SL.TLF.TOTL.IN,labor_force
+TTO,2023,Trinidad and Tobago,664410,SL.TLF.TOTL.IN,labor_force
+TTO,2022,Trinidad and Tobago,651121,SL.TLF.TOTL.IN,labor_force
+TTO,2021,Trinidad and Tobago,641986,SL.TLF.TOTL.IN,labor_force
+TTO,2020,Trinidad and Tobago,651175,SL.TLF.TOTL.IN,labor_force
+TTO,2019,Trinidad and Tobago,671805,SL.TLF.TOTL.IN,labor_force
+TTO,2018,Trinidad and Tobago,672830,SL.TLF.TOTL.IN,labor_force
+TUN,2025,Tunisia,4268286,SL.TLF.TOTL.IN,labor_force
+TUN,2024,Tunisia,4241942,SL.TLF.TOTL.IN,labor_force
+TUN,2023,Tunisia,4220581,SL.TLF.TOTL.IN,labor_force
+TUN,2022,Tunisia,4232595,SL.TLF.TOTL.IN,labor_force
+TUN,2021,Tunisia,4089131,SL.TLF.TOTL.IN,labor_force
+TUN,2020,Tunisia,4082144,SL.TLF.TOTL.IN,labor_force
+TUN,2019,Tunisia,4418079,SL.TLF.TOTL.IN,labor_force
+TUN,2018,Tunisia,4284730,SL.TLF.TOTL.IN,labor_force
+TUR,2025,Turkiye,36818130,SL.TLF.TOTL.IN,labor_force
+TUR,2024,Turkiye,36409307,SL.TLF.TOTL.IN,labor_force
+TUR,2023,Turkiye,35554975,SL.TLF.TOTL.IN,labor_force
+TUR,2022,Turkiye,35081594,SL.TLF.TOTL.IN,labor_force
+TUR,2021,Turkiye,33490693,SL.TLF.TOTL.IN,labor_force
+TUR,2020,Turkiye,31770146,SL.TLF.TOTL.IN,labor_force
+TUR,2019,Turkiye,33686201,SL.TLF.TOTL.IN,labor_force
+TUR,2018,Turkiye,33302540,SL.TLF.TOTL.IN,labor_force
+TKM,2025,Turkmenistan,2202574,SL.TLF.TOTL.IN,labor_force
+TKM,2024,Turkmenistan,2164626,SL.TLF.TOTL.IN,labor_force
+TKM,2023,Turkmenistan,2113074,SL.TLF.TOTL.IN,labor_force
+TKM,2022,Turkmenistan,2084340,SL.TLF.TOTL.IN,labor_force
+TKM,2021,Turkmenistan,2025036,SL.TLF.TOTL.IN,labor_force
+TKM,2020,Turkmenistan,1985797,SL.TLF.TOTL.IN,labor_force
+TKM,2019,Turkmenistan,2011076,SL.TLF.TOTL.IN,labor_force
+TKM,2018,Turkmenistan,1985757,SL.TLF.TOTL.IN,labor_force
+UGA,2025,Uganda,23393999,SL.TLF.TOTL.IN,labor_force
+UGA,2024,Uganda,22581703,SL.TLF.TOTL.IN,labor_force
+UGA,2023,Uganda,21821722,SL.TLF.TOTL.IN,labor_force
+UGA,2022,Uganda,21087767,SL.TLF.TOTL.IN,labor_force
+UGA,2021,Uganda,20121421,SL.TLF.TOTL.IN,labor_force
+UGA,2020,Uganda,18996710,SL.TLF.TOTL.IN,labor_force
+UGA,2019,Uganda,18014065,SL.TLF.TOTL.IN,labor_force
+UGA,2018,Uganda,16685865,SL.TLF.TOTL.IN,labor_force
+UKR,2021,Ukraine,20538715,SL.TLF.TOTL.IN,labor_force
+UKR,2020,Ukraine,20851194,SL.TLF.TOTL.IN,labor_force
+UKR,2019,Ukraine,21427188,SL.TLF.TOTL.IN,labor_force
+UKR,2018,Ukraine,21532531,SL.TLF.TOTL.IN,labor_force
+ARE,2025,United Arab Emirates,7424844,SL.TLF.TOTL.IN,labor_force
+ARE,2024,United Arab Emirates,7233386,SL.TLF.TOTL.IN,labor_force
+ARE,2023,United Arab Emirates,6873426,SL.TLF.TOTL.IN,labor_force
+ARE,2022,United Arab Emirates,6499963,SL.TLF.TOTL.IN,labor_force
+ARE,2021,United Arab Emirates,6160044,SL.TLF.TOTL.IN,labor_force
+ARE,2020,United Arab Emirates,6178311,SL.TLF.TOTL.IN,labor_force
+ARE,2019,United Arab Emirates,6256531,SL.TLF.TOTL.IN,labor_force
+ARE,2018,United Arab Emirates,6158515,SL.TLF.TOTL.IN,labor_force
+GBR,2025,United Kingdom,35470266,SL.TLF.TOTL.IN,labor_force
+GBR,2024,United Kingdom,35289735,SL.TLF.TOTL.IN,labor_force
+GBR,2023,United Kingdom,34965327,SL.TLF.TOTL.IN,labor_force
+GBR,2022,United Kingdom,34472367,SL.TLF.TOTL.IN,labor_force
+GBR,2021,United Kingdom,34108417,SL.TLF.TOTL.IN,labor_force
+GBR,2020,United Kingdom,34260316,SL.TLF.TOTL.IN,labor_force
+GBR,2019,United Kingdom,34207438,SL.TLF.TOTL.IN,labor_force
+GBR,2018,United Kingdom,34016301,SL.TLF.TOTL.IN,labor_force
+USA,2025,United States,174845690,SL.TLF.TOTL.IN,labor_force
+USA,2024,United States,174221396,SL.TLF.TOTL.IN,labor_force
+USA,2023,United States,172300802,SL.TLF.TOTL.IN,labor_force
+USA,2022,United States,169494100,SL.TLF.TOTL.IN,labor_force
+USA,2021,United States,167182196,SL.TLF.TOTL.IN,labor_force
+USA,2020,United States,166565059,SL.TLF.TOTL.IN,labor_force
+USA,2019,United States,168920514,SL.TLF.TOTL.IN,labor_force
+USA,2018,United States,167002008,SL.TLF.TOTL.IN,labor_force
+URY,2025,Uruguay,1806025,SL.TLF.TOTL.IN,labor_force
+URY,2024,Uruguay,1799101,SL.TLF.TOTL.IN,labor_force
+URY,2023,Uruguay,1779292,SL.TLF.TOTL.IN,labor_force
+URY,2022,Uruguay,1733922,SL.TLF.TOTL.IN,labor_force
+URY,2021,Uruguay,1721005,SL.TLF.TOTL.IN,labor_force
+URY,2020,Uruguay,1665492,SL.TLF.TOTL.IN,labor_force
+URY,2019,Uruguay,1721844,SL.TLF.TOTL.IN,labor_force
+URY,2018,Uruguay,1718627,SL.TLF.TOTL.IN,labor_force
+UZB,2025,Uzbekistan,14638807,SL.TLF.TOTL.IN,labor_force
+UZB,2024,Uzbekistan,14455298,SL.TLF.TOTL.IN,labor_force
+UZB,2023,Uzbekistan,14231376,SL.TLF.TOTL.IN,labor_force
+UZB,2022,Uzbekistan,13993646,SL.TLF.TOTL.IN,labor_force
+UZB,2021,Uzbekistan,13396633,SL.TLF.TOTL.IN,labor_force
+UZB,2020,Uzbekistan,13101591,SL.TLF.TOTL.IN,labor_force
+UZB,2019,Uzbekistan,13189076,SL.TLF.TOTL.IN,labor_force
+UZB,2018,Uzbekistan,12995383,SL.TLF.TOTL.IN,labor_force
+VUT,2025,Vanuatu,120833,SL.TLF.TOTL.IN,labor_force
+VUT,2024,Vanuatu,117969,SL.TLF.TOTL.IN,labor_force
+VUT,2023,Vanuatu,114864,SL.TLF.TOTL.IN,labor_force
+VUT,2022,Vanuatu,111868,SL.TLF.TOTL.IN,labor_force
+VUT,2021,Vanuatu,108816,SL.TLF.TOTL.IN,labor_force
+VUT,2020,Vanuatu,105798,SL.TLF.TOTL.IN,labor_force
+VUT,2019,Vanuatu,104361,SL.TLF.TOTL.IN,labor_force
+VUT,2018,Vanuatu,103194,SL.TLF.TOTL.IN,labor_force
+VEN,2025,"Venezuela, RB",11118416,SL.TLF.TOTL.IN,labor_force
+VEN,2024,"Venezuela, RB",11010896,SL.TLF.TOTL.IN,labor_force
+VEN,2023,"Venezuela, RB",10735039,SL.TLF.TOTL.IN,labor_force
+VEN,2022,"Venezuela, RB",10509662,SL.TLF.TOTL.IN,labor_force
+VEN,2021,"Venezuela, RB",9968779,SL.TLF.TOTL.IN,labor_force
+VEN,2020,"Venezuela, RB",9889854,SL.TLF.TOTL.IN,labor_force
+VEN,2019,"Venezuela, RB",11487785,SL.TLF.TOTL.IN,labor_force
+VEN,2018,"Venezuela, RB",12502649,SL.TLF.TOTL.IN,labor_force
+VNM,2025,Viet Nam,57041323,SL.TLF.TOTL.IN,labor_force
+VNM,2024,Viet Nam,56703936,SL.TLF.TOTL.IN,labor_force
+VNM,2023,Viet Nam,56381956,SL.TLF.TOTL.IN,labor_force
+VNM,2022,Viet Nam,56475416,SL.TLF.TOTL.IN,labor_force
+VNM,2021,Viet Nam,55299911,SL.TLF.TOTL.IN,labor_force
+VNM,2020,Viet Nam,55149609,SL.TLF.TOTL.IN,labor_force
+VNM,2019,Viet Nam,56180127,SL.TLF.TOTL.IN,labor_force
+VNM,2018,Viet Nam,56235855,SL.TLF.TOTL.IN,labor_force
+VIR,2025,Virgin Islands (U.S.),47005,SL.TLF.TOTL.IN,labor_force
+VIR,2024,Virgin Islands (U.S.),47476,SL.TLF.TOTL.IN,labor_force
+VIR,2023,Virgin Islands (U.S.),47790,SL.TLF.TOTL.IN,labor_force
+VIR,2022,Virgin Islands (U.S.),47986,SL.TLF.TOTL.IN,labor_force
+VIR,2021,Virgin Islands (U.S.),47357,SL.TLF.TOTL.IN,labor_force
+VIR,2020,Virgin Islands (U.S.),46574,SL.TLF.TOTL.IN,labor_force
+VIR,2019,Virgin Islands (U.S.),46389,SL.TLF.TOTL.IN,labor_force
+VIR,2018,Virgin Islands (U.S.),48542,SL.TLF.TOTL.IN,labor_force
+PSE,2022,West Bank and Gaza,1391230,SL.TLF.TOTL.IN,labor_force
+PSE,2021,West Bank and Gaza,1301690,SL.TLF.TOTL.IN,labor_force
+PSE,2020,West Bank and Gaza,1193390,SL.TLF.TOTL.IN,labor_force
+PSE,2019,West Bank and Gaza,1254417,SL.TLF.TOTL.IN,labor_force
+PSE,2018,West Bank and Gaza,1198168,SL.TLF.TOTL.IN,labor_force
+YEM,2025,"Yemen, Rep.",8155939,SL.TLF.TOTL.IN,labor_force
+YEM,2024,"Yemen, Rep.",7928543,SL.TLF.TOTL.IN,labor_force
+YEM,2023,"Yemen, Rep.",7664536,SL.TLF.TOTL.IN,labor_force
+YEM,2022,"Yemen, Rep.",7408746,SL.TLF.TOTL.IN,labor_force
+YEM,2021,"Yemen, Rep.",7037044,SL.TLF.TOTL.IN,labor_force
+YEM,2020,"Yemen, Rep.",6884754,SL.TLF.TOTL.IN,labor_force
+YEM,2019,"Yemen, Rep.",6735232,SL.TLF.TOTL.IN,labor_force
+YEM,2018,"Yemen, Rep.",6505806,SL.TLF.TOTL.IN,labor_force
+ZMB,2025,Zambia,8011366,SL.TLF.TOTL.IN,labor_force
+ZMB,2024,Zambia,7724343,SL.TLF.TOTL.IN,labor_force
+ZMB,2023,Zambia,7453413,SL.TLF.TOTL.IN,labor_force
+ZMB,2022,Zambia,6905885,SL.TLF.TOTL.IN,labor_force
+ZMB,2021,Zambia,6728077,SL.TLF.TOTL.IN,labor_force
+ZMB,2020,Zambia,6574250,SL.TLF.TOTL.IN,labor_force
+ZMB,2019,Zambia,6200188,SL.TLF.TOTL.IN,labor_force
+ZMB,2018,Zambia,5870382,SL.TLF.TOTL.IN,labor_force
+ZWE,2025,Zimbabwe,6854692,SL.TLF.TOTL.IN,labor_force
+ZWE,2024,Zimbabwe,6660943,SL.TLF.TOTL.IN,labor_force
+ZWE,2023,Zimbabwe,6499497,SL.TLF.TOTL.IN,labor_force
+ZWE,2022,Zimbabwe,6118687,SL.TLF.TOTL.IN,labor_force
+ZWE,2021,Zimbabwe,6005153,SL.TLF.TOTL.IN,labor_force
+ZWE,2020,Zimbabwe,5805013,SL.TLF.TOTL.IN,labor_force
+ZWE,2019,Zimbabwe,5773237,SL.TLF.TOTL.IN,labor_force
+ZWE,2018,Zimbabwe,5654759,SL.TLF.TOTL.IN,labor_force

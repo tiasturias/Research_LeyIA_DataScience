@@ -1,146 +1,97 @@
-"""Q5 Uso de IA por la población:
-- Y candidatas: anthropic_usage_pct, anthropic_collaboration_pct, oxford_ind_adoption_emerging_tech
-- Modelos: OLS con bootstrap (regresión continua) + Logistic (clasificación binarizada)
-- Reusa Y de Q2_adoption (decisión M)."""
+"""Q5: Uso poblacional."""
 
-from __future__ import annotations
-import numpy as np
 import pandas as pd
-from sklearn.linear_model import LogisticRegression
-
-from ._common_data import (
-    load_bundle, get_x2_controls, get_x1_aggregated, F5_F8_MVP,
-)
-from ._common_regression import (
-    fit_ols_with_bootstrap, fit_ridge_lasso_cv, fdr_benjamini_hochberg,
-)
-from ._common_classification import (
-    binarize_by_median, fit_logistic_cv,
-)
-
-OUTPUTS = F5_F8_MVP / "FASE6" / "outputs"
-
-Y_VARS_Q5 = [
-    "anthropic_usage_pct",
-    "anthropic_collaboration_pct",
-    "oxford_ind_adoption_emerging_tech",
-]
+from ._common_design import ModelDesign, build_model_frame
+from ._common_fractional import fit_fractional_logit_or_ols
+from ._common_bootstrap import bootstrap_coefficients
+from ._common_classification import fit_binary_median_sensitivity
 
 
-def run_q5(seed: int = 42, n_boot: int = 2000) -> dict:
-    bundle = load_bundle()
-    fm = bundle["feature_matrix"]
-    x1_agg = get_x1_aggregated()
-    x2 = get_x2_controls()
-
-    def col_z(c):
-        return f"{c}_z" if f"{c}_z" in fm.columns else c
-    x1_z = [col_z(c) for c in x1_agg]
-    x2_z = [col_z(c) for c in x2]
-
-    rows = []
-    rows_consistency = []
-    rows_predictions = []
-
-    for y in Y_VARS_Q5:
-        if y not in fm.columns:
+def run_q5(fm: pd.DataFrame, config: dict) -> tuple[pd.DataFrame, pd.DataFrame]:
+    questions_cfg = config.get("questions", {})
+    q5_cfg = questions_cfg.get("Q5_population_usage", {})
+    outcomes = q5_cfg.get("primary_outcomes", [])
+    
+    predictor_sets = config.get("predictor_sets", {})
+    x1_core = predictor_sets.get("regulatory_core", ["n_binding", "n_non_binding"])
+    x2_minimal = predictor_sets.get("controls_minimal", ["wb_gdp_per_capita_ppp_log", "wb_internet_penetration"])
+    
+    results = []
+    scores = []
+    
+    for outcome in outcomes:
+        if outcome not in fm.columns:
             continue
-
-        # === OLS regresión continua ===
-        ols = fit_ols_with_bootstrap(fm, y, x1_z + x2_z, n_boot=n_boot, seed=seed)
-        if ols.get("status") == "ok":
-            for x in x1_z + x2_z + ["const"]:
-                rows.append({
-                    "question": "Q5", "y_var": y, "model": "OLS_full", "x_var": x,
-                    "coefficient": ols["coefficients"].get(x),
-                    "std_error": ols["std_errors_asymptotic"].get(x),
-                    "p_value": ols["pvalues_asymptotic"].get(x),
-                    "ci95_lower": ols["bootstrap"].get(x, {}).get("ci95_lower"),
-                    "ci95_upper": ols["bootstrap"].get(x, {}).get("ci95_upper"),
-                    "p_value_bootstrap": ols["bootstrap"].get(x, {}).get("p_two_sided_bootstrap"),
-                    "n_effective": ols["n"], "r2": ols["r2"], "ci_method": "bootstrap_2000",
-                    "n_boot": n_boot, "seed": seed,
+            
+        for predictor in x1_core:
+            # Primary Continuous/Fractional Model
+            design = ModelDesign(
+                question="Q5",
+                outcome=outcome,
+                predictors=[predictor],
+                controls=x2_minimal,
+                model_family="fractional_or_linear_by_scale",
+                analysis_role="primary_continuous_or_fractional",
+            )
+            sub, meta = build_model_frame(fm, design)
+            if meta["status"] != "ok":
+                results.append(meta)
+                continue
+                
+            fit_res = fit_fractional_logit_or_ols(sub, outcome, [predictor] + x2_minimal)
+            
+            def boot_func(sample):
+                res = fit_fractional_logit_or_ols(sample, outcome, [predictor] + x2_minimal)
+                return {r["term"]: r["estimate"] for r in res["rows"]}
+                
+            boot_res = bootstrap_coefficients(boot_func, sub, [predictor])
+            boot_dict = boot_res.set_index("term").to_dict("index")
+            
+            for row in fit_res["rows"]:
+                if row["term"] == predictor:
+                    rec = {**meta, **row, "fit_status": fit_res["fit_status"]}
+                    if predictor in boot_dict:
+                        b = boot_dict[predictor]
+                        rec["ci95_low"] = b["ci_low"]
+                        rec["ci95_high"] = b["ci_high"]
+                        rec["ci_method"] = b["ci_method"]
+                        rec["bootstrap_success_rate"] = b["bootstrap_success_rate"]
+                    
+                    rec["primary_analysis"] = True
+                    rec["external_validation_used"] = False
+                    rec["independent_prediction"] = False
+                    rec["causal_claim"] = False
+                    results.append(rec)
+            
+            # Sensitivity Binary Median Model
+            med = sub[outcome].median()
+            y_bin = (sub[outcome] >= med).astype(int)
+            bin_res = fit_binary_median_sensitivity(sub[[predictor] + x2_minimal].values, y_bin)
+            bin_rec = {
+                **meta,
+                **bin_res,
+                "analysis_role": "sensitivity_binary_median",
+                "primary_analysis": False,
+                "term": predictor,
+            }
+            results.append(bin_rec)
+            
+            # Descriptive In-Sample Scores
+            for idx, r in sub.iterrows():
+                scores.append({
+                    "iso3": r["iso3"],
+                    "question": "Q5",
+                    "outcome": outcome,
+                    "predictor": predictor,
+                    "score_value": float(r[outcome]),
+                    "score_scope": "in_sample_descriptive_positioning",
+                    "independent_prediction": False,
+                    "holdout_used": False,
+                    "analysis_scope": "full_preregistered_sample_available_by_outcome"
                 })
 
-        # === Logistic clasificación (Y binarizada) ===
-        sub = fm[[y, "iso3"] + x1_z + x2_z].dropna()
-        if len(sub) >= 20:
-            y_bin, threshold = binarize_by_median(sub[y])
-            sub = sub.assign(y_binary=y_bin.values)
-            log = fit_logistic_cv(sub, "y_binary", x1_z + x2_z, seed=seed)
-            if log.get("status") == "ok":
-                rows.append({
-                    "question": "Q5", "y_var": y,
-                    "binarization_threshold_value": float(threshold),
-                    "binarization_method": "median",
-                    "model": "Logistic", "x_var": "__model_metadata__",
-                    "n_effective": log["n"],
-                    "n_class_0": log["n_class_0"], "n_class_1": log["n_class_1"],
-                    "auc_cv_5fold_mean": log["auc_cv_5fold_mean"],
-                    "auc_cv_5fold_std": log["auc_cv_5fold_std"],
-                    "auc_loocv": log["auc_loocv"],
-                    "model_hyperparams_json": '{"penalty":"l2","C":1.0}', "seed": seed,
-                })
-                for x, coef in log["logistic_coef"].items():
-                    rows.append({
-                        "question": "Q5", "y_var": y, "model": "Logistic", "x_var": x,
-                        "coefficient": coef, "n_effective": log["n"], "seed": seed,
-                    })
-                # predictions per country
-                X_full = sub[x1_z + x2_z].values
-                full_log = LogisticRegression(
-                    penalty="l2", C=1.0, max_iter=1000,
-                    class_weight="balanced", random_state=seed,
-                ).fit(X_full, sub["y_binary"].values)
-                probs = full_log.predict_proba(X_full)[:, 1]
-                for iso3, prob in zip(sub["iso3"].values, probs):
-                    rows_predictions.append({
-                        "y_var": y, "iso3": iso3,
-                        "p_high_population_usage": float(prob),
-                        "model": "Logistic_in_sample", "seed": seed,
-                    })
-
-    df = pd.DataFrame(rows)
-    OUTPUTS.mkdir(parents=True, exist_ok=True)
-
-    # FDR sobre n_binding cruzando los 3 Y
-    focal = "n_binding_z" if "n_binding_z" in fm.columns else "n_binding"
-    focal_rows = df[(df["x_var"] == focal) & (df["model"] == "OLS_full") & df["p_value"].notna()]
-    if len(focal_rows) > 0:
-        pvals = focal_rows["p_value"].values
-        fdr_q = fdr_benjamini_hochberg(pvals)
-        df.loc[focal_rows.index, "fdr_q_value"] = fdr_q
-        df.loc[focal_rows.index, "fdr_significant_05"] = (fdr_q < 0.05)
-
-    df.to_csv(OUTPUTS / "q5_results.csv", index=False)
-    pd.DataFrame(rows_predictions).to_csv(
-        OUTPUTS / "q5_predictions_per_country.csv", index=False)
-
-    # consistency table
-    for x in x1_z:
-        x_rows = df[(df["x_var"] == x) & (df["model"] == "OLS_full")]
-        n_total = len(x_rows)
-        if n_total == 0:
-            continue
-        n_neg = (x_rows["coefficient"] < 0).sum()
-        n_pos = (x_rows["coefficient"] > 0).sum()
-        n_sig_05 = (x_rows["p_value"] < 0.05).sum()
-        n_sig_fdr = (x_rows.get("fdr_significant_05", pd.Series(False)) == True).sum()
-        if n_neg >= max(2, 0.66 * n_total) and n_sig_05 >= 1:
-            direction = "robust_negative"
-        elif n_pos >= max(2, 0.66 * n_total) and n_sig_05 >= 1:
-            direction = "robust_positive"
-        elif n_sig_05 == 0:
-            direction = "null"
-        else:
-            direction = "mixed"
-        rows_consistency.append({
-            "question": "Q5", "x_var": x,
-            "n_y_total": n_total, "n_y_negative": int(n_neg), "n_y_positive": int(n_pos),
-            "n_y_significant_05": int(n_sig_05),
-            "n_y_significant_05_after_fdr": int(n_sig_fdr),
-            "direction_summary": direction,
-        })
-    pd.DataFrame(rows_consistency).to_csv(OUTPUTS / "q5_consistency.csv", index=False)
-
-    return {"n_rows_results": len(df), "n_rows_consistency": len(rows_consistency)}
+    df_scores = pd.DataFrame(scores)
+    if not df_scores.empty and "country_name_canonical" in fm.columns:
+        df_scores = df_scores.merge(fm[["iso3", "country_name_canonical"]], on="iso3", how="left")
+        
+    return pd.DataFrame(results), df_scores

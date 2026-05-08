@@ -60,36 +60,90 @@ def apply_robust_zscore(df: pd.DataFrame, candidate_vars: list[str]) -> pd.DataF
 
 def compute_transform_params(df: pd.DataFrame, candidate_vars: list[str]) -> pd.DataFrame:
     rows = []
+    NON_ESTIMABLE_STATUSES = {
+        "zero_mad_or_not_estimable",
+        "constant_or_quasi_constant",
+        "insufficient_non_missing_values",
+        "source_missing",
+    }
+    
     for var in candidate_vars:
         log_col = f"{var}_log"
         if log_col in df.columns and var in df.columns:
-            method = "signed_log1p" if (df[var].dropna() < 0).any() else "log1p"
+            s_raw = df[var].dropna()
+            s_log = df[log_col].dropna()
+            
+            if len(s_raw) == 0:
+                status = "source_missing"
+            elif len(s_raw) < 5:
+                status = "insufficient_non_missing_values"
+            elif s_raw.nunique() <= 1:
+                status = "constant_or_quasi_constant"
+            else:
+                status = "ok"
+                
+            used = status not in NON_ESTIMABLE_STATUSES
+            ex_reason = "Derived feature is non-estimable or unstable; preserve raw variable and exclude derived column from primary models." if not used else ""
+
+            method = "signed_log1p" if (s_raw < 0).any() else "log1p"
             rows.append({
-                "source_variable": var,
-                "derived_variable": log_col,
-                "transform": "log_transform",
+                "variable_original": var,
+                "variable_derived": log_col,
+                "transform_type": "log_transform",
                 "method": method,
-                "center_median": np.nan,
-                "scale_mad": np.nan,
-                "n_non_null": int(df[log_col].notna().sum()),
-                "status": "ok",
+                "n_non_missing": int(len(s_log)),
+                "median": s_log.median() if len(s_log) > 0 else np.nan,
+                "mad": (s_log - s_log.median()).abs().median() if len(s_log) > 0 else np.nan,
+                "mean": s_log.mean() if len(s_log) > 0 else np.nan,
+                "std": s_log.std() if len(s_log) > 0 else np.nan,
+                "min": s_log.min() if len(s_log) > 0 else np.nan,
+                "max": s_log.max() if len(s_log) > 0 else np.nan,
+                "status": status,
+                "used_in_primary_modeling": used,
+                "exclusion_reason": ex_reason,
+                "notes": "",
             })
+            
         for col in [var, f"{var}_log"]:
             if col not in df.columns or not pd.api.types.is_numeric_dtype(df[col]):
                 continue
-            s = df[col]
-            med = s.median(skipna=True)
-            mad = (s - med).abs().median(skipna=True)
+            s = df[col].dropna()
+            
+            med = s.median() if len(s) > 0 else np.nan
+            mad = (s - med).abs().median() if len(s) > 0 else np.nan
+            
+            if len(s) == 0:
+                status = "source_missing"
+            elif len(s) < 5:
+                status = "insufficient_non_missing_values"
+            elif s.nunique() <= 1:
+                status = "constant_or_quasi_constant"
+            elif pd.isna(mad) or mad == 0:
+                status = "zero_mad_or_not_estimable"
+            else:
+                status = "ok"
+
+            used = status not in NON_ESTIMABLE_STATUSES
+            ex_reason = "Derived feature is non-estimable or unstable; preserve raw variable and exclude derived column from primary models." if not used else ""
+
             rows.append({
-                "source_variable": col,
-                "derived_variable": f"{col}_z",
-                "transform": "robust_zscore",
+                "variable_original": col,
+                "variable_derived": f"{col}_z",
+                "transform_type": "robust_zscore",
                 "method": "median_mad",
-                "center_median": med,
-                "scale_mad": mad,
-                "n_non_null": int(s.notna().sum()),
-                "status": "ok" if pd.notna(mad) and mad > 0 else "zero_mad_or_not_estimable",
+                "n_non_missing": int(len(s)),
+                "median": med,
+                "mad": mad,
+                "mean": s.mean() if len(s) > 0 else np.nan,
+                "std": s.std() if len(s) > 0 else np.nan,
+                "min": s.min() if len(s) > 0 else np.nan,
+                "max": s.max() if len(s) > 0 else np.nan,
+                "status": status,
+                "used_in_primary_modeling": used,
+                "exclusion_reason": ex_reason,
+                "notes": "",
             })
+            
     return pd.DataFrame(rows)
 
 

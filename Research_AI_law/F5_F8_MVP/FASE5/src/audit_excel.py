@@ -34,7 +34,6 @@ COLUMN_TYPE_COLORS = {
     "derivada_zscore": "FCE5CD",
     "agregado_regulatorio": "EADCF8",
     "one_hot_categorica": "F4CCCC",
-    "split_modelado": "D9D9D9",
     "auditoria": "EFEFEF",
 }
 
@@ -410,15 +409,6 @@ def classify_column(col: str, catalog_by_var: dict[str, dict], feature_columns: 
             "lectura_humana": "Vale 1 si el pais pertenece a esa categoria y 0 si no.",
             "parte_estudio_real_43x46": "NO, codificacion tecnica para Fase 6.",
         }
-    if col == "split":
-        return {
-            "tipo_columna": "split_modelado",
-            "origen": "Split reproducible Fase 5 para entrenamiento/evaluacion en Fase 6.",
-            "variable_fuente": "",
-            "rol_mvp": "",
-            "lectura_humana": "Indica si el pais queda en train o test para modelado inicial.",
-            "parte_estudio_real_43x46": "NO",
-        }
     return {
         "tipo_columna": "auditoria",
         "origen": "Columna auxiliar.",
@@ -502,7 +492,7 @@ def build_hypothesis_sheet() -> pd.DataFrame:
             "item": "Q6 - Uso IA sector publico",
             "explicacion_didactica": "Como se asocia la regulacion de IA con uso/capacidad de IA en sector publico?",
             "rol_en_el_proyecto": "Agrega 6 variables Oxford/OECD para consistencia metodologica de Fase 6.",
-            "fase_o_hoja_relacionada": "5b_Variables_46_Detalle y 11b_Features_Fase6_v2.",
+            "fase_o_hoja_relacionada": "5b_Variables_46_Detalle y Muestra_Analitica_v2_1.",
         },
     ]
     rows.extend([
@@ -632,7 +622,7 @@ def build_audit_protocol_sheet() -> pd.DataFrame:
         {
             "paso": 7,
             "accion_humana": "Dejar la matriz tecnica para el equipo de modelado.",
-            "que_debe_quedar_claro": "La hoja 10 tiene 138 columnas porque agrega transformaciones para Fase 6.",
+            "que_debe_quedar_claro": "La hoja 11 tiene columnas porque agrega transformaciones para Fase 6. Sin embargo, no hay divisiones predictivas artificiales.",
             "hoja_excel": "11_Features_Fase6",
         },
     ]
@@ -764,8 +754,8 @@ def build_normalization_sheet(transform_params: pd.DataFrame | None) -> pd.DataF
         n_log = 0
         n_z = 0
     else:
-        n_log = int(transform_params["transform"].eq("log_transform").sum())
-        n_z = int(transform_params["transform"].eq("robust_zscore").sum())
+        n_log = int(transform_params["transform_type"].eq("log_transform").sum())
+        n_z = int(transform_params["transform_type"].eq("robust_zscore").sum())
     rows = [
         {
             "tema": "Por que normalizar",
@@ -832,7 +822,7 @@ def build_normalization_sheet(transform_params: pd.DataFrame | None) -> pd.DataF
             "tema": "Formula del z-score robusto",
             "explicacion_didactica": "z_robusto = (valor - mediana_de_la_variable) / MAD_de_la_variable.",
             "decision_fase5": "Guardar mediana y MAD para auditoria/reproducibilidad.",
-            "donde_ver_detalle": "14_Transformaciones, columnas center_median y scale_mad",
+            "donde_ver_detalle": "14_Transformaciones, columnas median y mad",
         },
         {
             "tema": "Variables categoricas",
@@ -865,9 +855,7 @@ def build_normalization_sheet(transform_params: pd.DataFrame | None) -> pd.DataF
         {
             "tema": "Que queda para Fase 6",
             "explicacion_didactica": (
-                "Fase 6 debe decidir por modelo si usa complete-case analysis, modelos tolerantes a "
-                "faltantes o imputacion justificada. Cualquier imputacion debe compararse en analisis "
-                "de sensibilidad para evitar conclusiones artificiales."
+                "La validacion del estudio se realizara posteriormente mediante validacion interna, bootstrap, cross-validation diagnostica y analisis de sensibilidad en Fase 6/Fase 7. Cualquier score por pais en fases posteriores debe interpretarse como posicionamiento descriptivo in-sample, no como prediccion independiente."
             ),
             "decision_fase5": "Entregar matriz y missingness; no forzar una estrategia unica.",
             "donde_ver_detalle": "outputs/phase6_ready",
@@ -875,9 +863,7 @@ def build_normalization_sheet(transform_params: pd.DataFrame | None) -> pd.DataF
         {
             "tema": "Por que esto pertenece a Fase 5",
             "explicacion_didactica": (
-                "El pipeline profesional ubica limpieza, feature engineering, codificacion categorica, "
-                "normalizacion y particion train/test en Data Preparation. Por eso esta decision se "
-                "documenta aqui, antes del modelado."
+                "El pipeline profesional ubica limpieza, feature engineering, codificacion categorica y normalizacion en Data Preparation."
             ),
             "decision_fase5": "Fase 5 deja los datos listos; Fase 6 modela.",
             "donde_ver_detalle": "CONTEXTOS/pipeline_datascience.md, Paso 3",
@@ -896,12 +882,12 @@ def build_guide_sheet(
     income_counts = countries["grupo_ingreso"].fillna("Sin clasificacion").value_counts().to_dict()
     income_text = "; ".join(f"{k}: {v}" for k, v in income_counts.items())
     rows = [
-        ("1. Que es este Excel", "Es el archivo de auditoria humana de Fase 5. Su proposito es mostrar que datos entran al MVP antes de modelar."),
-        ("2. Que NO es", "No es todavia el resultado de los modelos ni una prueba causal. Eso corresponde a Fase 6."),
+        ("1. Que es este Excel", "Este workbook corresponde a Fase 5 v2.1+ del proyecto Research_AI_law. La Fase 5 es una fase de preparacion auditable y contractual, no una fase de pre-modelado predictivo. La muestra primaria contiene 43 paises preregistrados y 46 variables observadas reales. Particiones predictivas y conjuntos artificiales han sido eliminados."),
+        ("2. Que NO es", "No es todavia el resultado de los modelos ni una prueba causal. La inferencia ocurre en Fase 6."),
         ("3. Hipotesis", "La hipotesis y subpreguntas estan en 1_Hipotesis."),
-        ("4. Hoja mas importante para lectura sustantiva", f"6_Matriz_40_Humana: 43 paises x {n_observed} variables observadas. Esta es la matriz que debe revisar una autoridad."),
-        ("5. Por que tambien existe una matriz tecnica", "11_Features_Fase6 y 11b_Features_Fase6_v2 son para el equipo tecnico: incluyen transformaciones, agregados y split para modelado."),
-        ("6. Donde estan exactamente las 46 variables", f"5_Variables_40 lista V01-V{n_observed:02d}; 5b_Variables_46_Detalle destaca las 6 nuevas de v2.0."),
+        ("4. Hoja mas importante para lectura sustantiva", f"6_Matriz_40_Humana (nombre legacy): 43 paises x {n_observed} variables observadas. Esta es la matriz que debe revisar una autoridad."),
+        ("5. Por que tambien existe una matriz tecnica", "11_Features_Fase6 y Muestra_Analitica_v2_1 son para el equipo tecnico: incluyen transformaciones, agregados y flags de muestra analitica; el uso de datos es observacional completo."),
+        ("6. Donde estan exactamente las 46 variables", f"5_Variables_40 (legacy) lista V01-V{n_observed:02d}; 5b_Variables_46_Detalle destaca las 6 nuevas de v2.0."),
         ("7. Como auditar una celda", f"Use 2_Como_Auditar: elegir variable V01-V{n_observed:02d}, ir a 6_Matriz_40_Humana y luego filtrar 13_Trazabilidad."),
         ("8. Que significan los colores", "7_Leyenda_Colores explica cada color exacto. En 6_Matriz_40_Humana los colores son por rol analitico, no todos amarillos."),
         ("9. Que significa income_group", "Es grupo de ingreso heredado de Fase 3 / World Bank. La definicion y conteos estan en 4_Ingreso_Region."),
@@ -910,7 +896,7 @@ def build_guide_sheet(
         ("12. Vacio no significa cero", "Fase 5 no imputa. Una celda vacia significa dato no observado/no comparable en fuente."),
         ("13. Cobertura", f"La cobertura minima de las {n_observed} variables es {coverage_report['pct_complete'].min():.2f}%, sobre el umbral de 30%."),
         ("14. Grupos de ingreso presentes", income_text),
-        ("15. Transformaciones", f"Hay {0 if transform_params is None else len(transform_params)} registros de transformacion auditados en 14_Transformaciones."),
+        ("15. Transformaciones", f"Las transformaciones derivadas con status zero_mad_or_not_estimable o similares se excluyen de modelado primario. Hay {0 if transform_params is None else len(transform_params)} registros en 14_Transformaciones."),
     ]
     return pd.DataFrame(rows, columns=["pregunta_de_lectura", "respuesta_clara"])
 
@@ -1027,7 +1013,7 @@ def _style_workbook(path, feature_matrix: pd.DataFrame) -> None:
         "9_Normalizacion": "70AD47",
         "10_Cobertura": "5B9BD5",
         "11_Features_Fase6": "C55A11",
-        "11b_Features_Fase6_v2": "C55A11",
+        "Muestra_Analitica_v2_1": "C55A11",
         "12_Diccionario_Cols": "A5A5A5",
         "13_Trazabilidad": "8064A2",
         "14_Transformaciones": "70AD47",
@@ -1044,6 +1030,7 @@ def write_audit_excel(
     coverage_report: pd.DataFrame,
     transform_params: pd.DataFrame | None = None,
     output_path=None,
+    membership: pd.DataFrame | None = None,
 ) -> str:
     if output_path is None:
         output_path = FASE5_OUTPUTS / "MVP_AUDITABLE.xlsx"
@@ -1068,7 +1055,8 @@ def write_audit_excel(
         build_normalization_sheet(transform_params).to_excel(writer, sheet_name="9_Normalizacion", index=False)
         coverage_report.to_excel(writer, sheet_name="10_Cobertura", index=False)
         feature_matrix.to_excel(writer, sheet_name="11_Features_Fase6", index=False)
-        feature_matrix.to_excel(writer, sheet_name="11b_Features_Fase6_v2", index=False)
+        if membership is not None:
+            membership.to_excel(writer, sheet_name="Muestra_Analitica_v2_1", index=False)
         build_column_dictionary(feature_matrix).to_excel(writer, sheet_name="12_Diccionario_Cols", index=False)
         build_traceability_sheet().to_excel(writer, sheet_name="13_Trazabilidad", index=False)
         transform_params.to_excel(writer, sheet_name="14_Transformaciones", index=False)

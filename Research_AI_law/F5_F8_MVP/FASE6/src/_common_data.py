@@ -15,9 +15,63 @@ F5_F8_MVP = PROJECT_ROOT / "F5_F8_MVP"
 FASE5_BUNDLE = F5_F8_MVP / "FASE5" / "outputs" / "phase6_ready"
 FASE5_SRC = F5_F8_MVP / "FASE5"
 
-# Asegurar import de FASE5.src.api
 if str(FASE5_SRC) not in sys.path:
     sys.path.insert(0, str(FASE5_SRC))
+
+
+def get_analysis_sample_membership() -> pd.DataFrame:
+    path = FASE5_BUNDLE / "phase6_analysis_sample_membership.csv"
+    if not path.exists():
+        raise FileNotFoundError("Falta phase6_analysis_sample_membership.csv. Cerrar Fase 5 v2.1 primero.")
+    membership = pd.read_csv(path)
+    forbidden = {"split", "train", "test", "holdout"}
+    bad = forbidden.intersection(set(c.lower() for c in membership.columns))
+    if bad:
+        raise RuntimeError(f"Membership contiene columnas prohibidas: {bad}")
+    return membership
+
+
+def load_feature_matrix() -> pd.DataFrame:
+    path = FASE5_BUNDLE / "phase6_feature_matrix.csv"
+    if not path.exists():
+        raise FileNotFoundError("Falta phase6_feature_matrix.csv")
+    fm = pd.read_csv(path)
+    if "split" in fm.columns:
+        raise RuntimeError("Fase 6 v2.1+ no acepta columna split")
+    return fm
+
+
+def load_modeling_contract() -> dict:
+    path = FASE5_BUNDLE / "phase6_modeling_contract.yaml"
+    if not path.exists():
+        raise FileNotFoundError("Falta phase6_modeling_contract.yaml")
+    return yaml.safe_load(path.read_text())
+
+
+def validate_inferential_contract() -> dict:
+    if (FASE5_BUNDLE / "phase6_train_test_split.csv").exists():
+        raise RuntimeError("Archivo prohibido: phase6_train_test_split.csv")
+
+    fm = load_feature_matrix()
+    membership = get_analysis_sample_membership()
+    contract = load_modeling_contract()
+
+    assert len(fm) == 43
+    assert len(membership) == 43
+    assert membership["is_primary_analysis_sample"].fillna(False).all()
+    assert contract["methodology"] == "inferential_comparative_observational"
+    assert contract["sample_policy"]["use_holdout_test_set"] is False
+    assert contract["sample_policy"]["train_test_split_created"] is False
+    assert contract["sample_policy"]["split_column_present"] is False
+
+    return {
+        "status": "ok",
+        "methodology": contract["methodology"],
+        "primary_estimand": contract.get("primary_estimand", "adjusted_association"),
+        "n_feature_matrix": len(fm),
+        "n_membership": len(membership),
+        "holdout_used": False,
+    }
 
 
 def sha256_file(path: Path) -> str:
@@ -57,6 +111,7 @@ def load_bundle() -> dict:
         load_phase6_modeling_contract,
         load_phase6_ready_manifest,
         load_phase6_llm_context,
+        load_phase6_analysis_sample_membership,
     )
     return {
         "feature_matrix": load_phase6_feature_matrix(),
@@ -65,11 +120,8 @@ def load_bundle() -> dict:
         "contract": load_phase6_modeling_contract(),
         "manifest": load_phase6_ready_manifest(),
         "llm_context": load_phase6_llm_context(),
+        "analysis_sample_membership": load_phase6_analysis_sample_membership(),
     }
-
-
-def get_train_test_split() -> pd.DataFrame:
-    return pd.read_csv(FASE5_BUNDLE / "phase6_train_test_split.csv")
 
 
 def get_x2_controls() -> list[str]:

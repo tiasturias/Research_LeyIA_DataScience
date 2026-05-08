@@ -1,0 +1,1447 @@
+iso3,year,country_name,value,wb_indicator,canonical_name
+AFG,2023,Afghanistan,2.26694373649188,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AFG,2022,Afghanistan,-6.24017199240269,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AFG,2021,Afghanistan,-20.7388393676343,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AFG,2020,Afghanistan,-2.35110067203466,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AFG,2019,Afghanistan,3.91160341625552,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AFG,2018,Afghanistan,1.18922812944517,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ALB,2024,Albania,4.04592845095348,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ALB,2023,Albania,4.01541716935742,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ALB,2022,Albania,4.8268006234359,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ALB,2021,Albania,8.96957619074095,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ALB,2020,Albania,-3.31375636888916,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ALB,2019,Albania,2.06257790176122,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ALB,2018,Albania,3.67141928098908,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DZA,2024,Algeria,3.69999999907979,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DZA,2023,Algeria,4.10000000005964,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DZA,2022,Algeria,3.60000000094915,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DZA,2021,Algeria,3.79999999900707,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DZA,2020,Algeria,-4.99999999908597,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DZA,2019,Algeria,0.899999999219148,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DZA,2018,Algeria,1.40000000088281,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ASM,2022,American Samoa,1.73501577287065,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ASM,2021,American Samoa,-0.782472613458523,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ASM,2020,American Samoa,4.41176470588236,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ASM,2019,American Samoa,-0.487804878048777,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ASM,2018,American Samoa,2.6711185308848,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AND,2024,Andorra,3.37182032638998,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AND,2023,Andorra,2.58355480961319,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AND,2022,Andorra,9.56461225648184,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AND,2021,Andorra,8.28677879049404,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AND,2020,Andorra,-11.1839399355384,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AND,2019,Andorra,2.01554763848308,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AND,2018,Andorra,1.58876549046354,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AGO,2024,Angola,4.42390664406875,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AGO,2023,Angola,1.26330814020108,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AGO,2022,Angola,4.21600258475137,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AGO,2021,Angola,2.10275251923413,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AGO,2020,Angola,-4.04244724639663,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AGO,2019,Angola,-0.204680245744115,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AGO,2018,Angola,-0.59441122698307,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ATG,2024,Antigua and Barbuda,3.65638765956977,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ATG,2023,Antigua and Barbuda,2.42736300110336,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ATG,2022,Antigua and Barbuda,9.10780623385958,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ATG,2021,Antigua and Barbuda,8.17286311186622,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ATG,2020,Antigua and Barbuda,-18.8687765208148,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ATG,2019,Antigua and Barbuda,3.1722219373937,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ATG,2018,Antigua and Barbuda,6.71200487159726,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARG,2024,Argentina,-1.34293072157739,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARG,2023,Argentina,-1.85578803046339,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARG,2022,Argentina,6.02074537534855,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARG,2021,Argentina,10.4418119882506,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARG,2020,Argentina,-9.9004848136464,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARG,2019,Argentina,-2.00086100285785,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARG,2018,Argentina,-2.61739646282038,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARM,2024,Armenia,5.90000000046228,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARM,2023,Armenia,8.29999999959539,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARM,2022,Armenia,12.5999999997766,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARM,2021,Armenia,5.80000000065645,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARM,2020,Armenia,-7.19999999920631,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARM,2019,Armenia,7.59999999853918,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARM,2018,Armenia,5.19999999965324,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ABW,2024,Aruba,6.81077669324542,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ABW,2023,Aruba,7.70679839650956,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ABW,2022,Aruba,10.6364309604414,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ABW,2021,Aruba,14.7306159219273,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ABW,2020,Aruba,-23.8979898352395,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ABW,2019,Aruba,1.22511225158814,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ABW,2018,Aruba,3.21247111920076,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AUS,2024,Australia,1.37340773365975,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AUS,2023,Australia,3.58382100798981,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AUS,2022,Australia,4.25304559238732,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AUS,2021,Australia,2.00694844335034,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AUS,2020,Australia,-0.133531904304775,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AUS,2019,Australia,2.19401703622717,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AUS,2018,Australia,2.87417039499501,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AUT,2024,Austria,-0.659089573171372,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AUT,2023,Austria,-0.786244288594673,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AUT,2022,Austria,5.33096379400371,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AUT,2021,Austria,4.92309171717903,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AUT,2020,Austria,-6.31825509209936,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AUT,2019,Austria,1.75497619649288,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AUT,2018,Austria,2.48422114080024,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AZE,2024,Azerbaijan,4.07140205008956,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AZE,2023,Azerbaijan,1.35447749115767,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AZE,2022,Azerbaijan,4.71468033247649,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AZE,2021,Azerbaijan,5.61644027150554,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AZE,2020,Azerbaijan,-4.19896065333343,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AZE,2019,Azerbaijan,2.47980879185565,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+AZE,2018,Azerbaijan,1.50040167167313,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BHS,2024,"Bahamas, The",3.37866553336166,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BHS,2023,"Bahamas, The",3.04824180553773,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BHS,2022,"Bahamas, The",10.8779009410268,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BHS,2021,"Bahamas, The",17.5861390037409,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BHS,2020,"Bahamas, The",-20.0893664891399,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BHS,2019,"Bahamas, The",-0.838585871193203,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BHS,2018,"Bahamas, The",2.39795510823548,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BHR,2024,Bahrain,2.60379670648454,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BHR,2023,Bahrain,3.87811614845566,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BHR,2022,Bahrain,6.18016125475185,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BHR,2021,Bahrain,4.35004091668986,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BHR,2020,Bahrain,-5.9113629524152,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BHR,2019,Bahrain,2.05287774418655,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BHR,2018,Bahrain,2.05258864979861,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BGD,2024,Bangladesh,4.22325911250161,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BGD,2023,Bangladesh,5.77511237007889,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BGD,2022,Bangladesh,7.09982877575158,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BGD,2021,Bangladesh,6.93867912442445,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BGD,2020,Bangladesh,3.44801755122445,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BGD,2019,Bangladesh,7.88191515117722,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BGD,2018,Bangladesh,7.31941263014136,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRB,2024,Barbados,2.4822621396186,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRB,2023,Barbados,2.914357359625,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRB,2022,Barbados,17.2264626793379,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRB,2021,Barbados,-0.0967779613221893,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRB,2020,Barbados,-14.3647119341564,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRB,2019,Barbados,0.227712137486577,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRB,2018,Barbados,-1.2760241773002,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BLR,2024,Belarus,4.00984852465452,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BLR,2023,Belarus,4.12654007153881,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BLR,2022,Belarus,-4.65839591328999,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BLR,2021,Belarus,2.43886210234947,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BLR,2020,Belarus,-0.672742918585868,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BLR,2019,Belarus,1.44645548204305,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BLR,2018,Belarus,3.14919758275296,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BEL,2024,Belgium,1.07045413019414,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BEL,2023,Belgium,1.71412195515242,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BEL,2022,Belgium,3.9562379757933,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BEL,2021,Belgium,6.25445686466593,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BEL,2020,Belgium,-4.7929839083518,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BEL,2019,Belgium,2.4428900448156,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BEL,2018,Belgium,1.87796847383565,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BLZ,2024,Belize,3.50466435023895,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BLZ,2023,Belize,0.500127941638667,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BLZ,2022,Belize,9.25051329530994,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BLZ,2021,Belize,17.9899244143607,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BLZ,2020,Belize,-13.5228997055506,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BLZ,2019,Belize,4.25658710030072,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BLZ,2018,Belize,0.822068592512508,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BEN,2024,Benin,7.45311566226201,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BEN,2023,Benin,6.3527773854442,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BEN,2022,Benin,6.25294705373625,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BEN,2021,Benin,7.1554516457574,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BEN,2020,Benin,3.84879240030133,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BEN,2019,Benin,6.86568662848335,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BEN,2018,Benin,6.69725362180888,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BMU,2024,Bermuda,5.97253260071749,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BMU,2023,Bermuda,4.91721557264164,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BMU,2022,Bermuda,6.47622571186707,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BMU,2021,Bermuda,4.60742917109469,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BMU,2020,Bermuda,-6.82757303480177,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BMU,2019,Bermuda,0.307106461240664,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BMU,2018,Bermuda,-0.432801300339307,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BTN,2023,Bhutan,4.63215704523927,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BTN,2022,Bhutan,5.21386783786224,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BTN,2021,Bhutan,4.42136738945015,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BTN,2020,Bhutan,-10.2183974208569,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BTN,2019,Bhutan,5.75514851246506,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BTN,2018,Bhutan,3.50187185732737,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BOL,2024,Bolivia,-1.12335595517212,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BOL,2023,Bolivia,2.51636590154891,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BOL,2022,Bolivia,3.74741781241461,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BOL,2021,Bolivia,10.0290488827886,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BOL,2020,Bolivia,-12.7194690092717,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BOL,2019,Bolivia,1.50672102666863,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BOL,2018,Bolivia,2.86808404814794,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BIH,2024,Bosnia and Herzegovina,2.9715174617652,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BIH,2023,Bosnia and Herzegovina,1.99439414850893,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BIH,2022,Bosnia and Herzegovina,4.22681333390325,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BIH,2021,Bosnia and Herzegovina,7.39164256472846,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BIH,2020,Bosnia and Herzegovina,-3.01509335460439,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BIH,2019,Bosnia and Herzegovina,2.88585242083978,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BIH,2018,Bosnia and Herzegovina,3.82900399349064,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BWA,2024,Botswana,-2.98986879467928,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BWA,2023,Botswana,3.20806812224438,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BWA,2022,Botswana,5.48601706446772,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BWA,2021,Botswana,11.9162724376008,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BWA,2020,Botswana,-8.72888243996397,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BWA,2019,Botswana,3.0317733945467,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BWA,2018,Botswana,4.18869237159223,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRA,2024,Brazil,3.41931516597739,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRA,2023,Brazil,3.24165532813583,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRA,2022,Brazil,3.01669435408112,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRA,2021,Brazil,4.7626043797061,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRA,2020,Brazil,-3.27675879612903,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRA,2019,Brazil,1.22077782271943,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRA,2018,Brazil,1.78366676137003,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRN,2024,Brunei Darussalam,4.05251709306727,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRN,2023,Brunei Darussalam,1.12764418162719,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRN,2022,Brunei Darussalam,-1.62833154515108,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRN,2021,Brunei Darussalam,-1.59076260099606,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRN,2020,Brunei Darussalam,1.1335733495246,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRN,2019,Brunei Darussalam,3.86884436177075,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BRN,2018,Brunei Darussalam,0.0523710418528935,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BGR,2024,Bulgaria,3.38709063847314,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BGR,2023,Bulgaria,1.68151074972904,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BGR,2022,Bulgaria,4.0838640915123,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BGR,2021,Bulgaria,7.82817232822165,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BGR,2020,Bulgaria,-3.13323303076419,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BGR,2019,Bulgaria,3.79331765354152,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BGR,2018,Bulgaria,2.33015213407045,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BFA,2024,Burkina Faso,4.79980951667159,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BFA,2023,Burkina Faso,3.00027415814125,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BFA,2022,Burkina Faso,1.62673258211919,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BFA,2021,Burkina Faso,6.94252492572348,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BFA,2020,Burkina Faso,2.01077262406221,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BFA,2019,Burkina Faso,5.88920497068135,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BFA,2018,Burkina Faso,6.60456906812341,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BDI,2024,Burundi,4.11227376264944,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BDI,2023,Burundi,3.254768974261,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BDI,2022,Burundi,2.31770122223331,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BDI,2021,Burundi,3.23707479823578,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BDI,2020,Burundi,0.306443809481593,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BDI,2019,Burundi,4.45934202358784,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+BDI,2018,Burundi,5.3422447312502,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CPV,2024,Cabo Verde,7.24388538990945,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CPV,2023,Cabo Verde,4.7947613911073,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CPV,2022,Cabo Verde,15.843675684642,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CPV,2021,Cabo Verde,7.03353010694514,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CPV,2020,Cabo Verde,-20.8052758990735,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CPV,2019,Cabo Verde,6.94782634051859,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CPV,2018,Cabo Verde,3.70696458310842,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KHM,2024,Cambodia,5.97510939607335,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KHM,2023,Cambodia,5.00733043811898,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KHM,2022,Cambodia,5.12990110773977,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KHM,2021,Cambodia,3.08984284148661,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KHM,2020,Cambodia,-3.55572193406549,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KHM,2019,Cambodia,7.93695013588524,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KHM,2018,Cambodia,8.77622376224463,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CMR,2024,Cameroon,3.52472308052245,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CMR,2023,Cameroon,3.34756290750219,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CMR,2022,Cameroon,3.7367840056412,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CMR,2021,Cameroon,3.33885747179505,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CMR,2020,Cameroon,0.259932915907115,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CMR,2019,Cameroon,3.47505998194981,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CMR,2018,Cameroon,3.95551423892049,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CAN,2024,Canada,1.55479521049516,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CAN,2023,Canada,1.52874550838358,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CAN,2022,Canada,4.18903628100851,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CAN,2021,Canada,5.95052802804381,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CAN,2020,Canada,-5.03823343468899,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CAN,2019,Canada,1.90843194590616,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CAN,2018,Canada,2.74296344906655,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CYM,2023,Cayman Islands,5.8155918263088,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CYM,2022,Cayman Islands,5.77566708028824,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CYM,2021,Cayman Islands,4.86941655353661,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CYM,2020,Cayman Islands,-4.95480732200573,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CYM,2019,Cayman Islands,3.91563637725301,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CYM,2018,Cayman Islands,4.26726567162505,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CAF,2024,Central African Republic,1.49999999847535,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CAF,2023,Central African Republic,0.69996840076054,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CAF,2022,Central African Republic,0.453901876447787,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CAF,2021,Central African Republic,0.982919996264229,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CAF,2020,Central African Republic,0.899999996857062,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CAF,2019,Central African Republic,3.09999999999999,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CAF,2018,Central African Republic,3.78944359275462,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TCD,2024,Chad,4.19925854085865,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TCD,2023,Chad,3.98004368401293,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TCD,2022,Chad,4.12969897676332,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TCD,2021,Chad,0.29344264815208,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TCD,2020,Chad,-0.393646583111035,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TCD,2019,Chad,5.3828220290379,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TCD,2018,Chad,5.74111580758154,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHI,2023,Channel Islands,3.71500590367266,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHI,2022,Channel Islands,5.34196140375869,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHI,2021,Channel Islands,9.93680136985076,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHI,2020,Channel Islands,-8.89677926591959,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHI,2019,Channel Islands,1.57335596156342,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHI,2018,Channel Islands,1.1222435658518,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHL,2024,Chile,2.64431154871538,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHL,2023,Chile,0.521367977246825,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHL,2022,Chile,2.15399356192458,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHL,2021,Chile,11.3149204879049,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHL,2020,Chile,-6.14347479224092,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHL,2019,Chile,0.634367533828438,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHL,2018,Chile,3.99002947789977,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHN,2024,China,4.9773565917572,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHN,2023,China,5.41484330099675,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHN,2022,China,3.1341888719577,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHN,2021,China,8.57008513166322,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHN,2020,China,2.34018843078414,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHN,2019,China,6.06850235053705,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHN,2018,China,6.75671800166833,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COL,2024,Colombia,1.5983315366523,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COL,2023,Colombia,0.712380031974334,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COL,2022,Colombia,7.32827729427979,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COL,2021,Colombia,10.8011981904878,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COL,2020,Colombia,-7.18591413760859,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COL,2019,Colombia,3.18685539245533,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COL,2018,Colombia,2.56432428277704,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COM,2024,Comoros,3.3381010943571,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COM,2023,Comoros,2.99521564038136,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COM,2022,Comoros,2.60301031927843,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COM,2021,Comoros,2.0001921183449,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COM,2020,Comoros,-0.195577456821965,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COM,2019,Comoros,1.76070164655727,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COM,2018,Comoros,3.64259587408398,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COD,2024,"Congo, Dem. Rep.",6.12675551779212,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COD,2023,"Congo, Dem. Rep.",8.5334898318451,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COD,2022,"Congo, Dem. Rep.",9.31116944064918,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COD,2021,"Congo, Dem. Rep.",6.42961005647355,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COD,2020,"Congo, Dem. Rep.",0.775427992354622,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COD,2019,"Congo, Dem. Rep.",0.555384294580819,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COD,2018,"Congo, Dem. Rep.",6.07168870646615,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COG,2024,"Congo, Rep.",2.57966943921721,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COG,2023,"Congo, Rep.",1.90686426346754,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COG,2022,"Congo, Rep.",1.47535613247133,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COG,2021,"Congo, Rep.",1.01507036990908,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COG,2020,"Congo, Rep.",-6.26777227963225,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COG,2019,"Congo, Rep.",1.12447391976529,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+COG,2018,"Congo, Rep.",-2.30431780125842,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CRI,2024,Costa Rica,4.32122429646145,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CRI,2023,Costa Rica,5.11192183224598,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CRI,2022,Costa Rica,4.55149177958398,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CRI,2021,Costa Rica,7.93576224743147,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CRI,2020,Costa Rica,-4.27335432161462,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CRI,2019,Costa Rica,2.41751181762513,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CRI,2018,Costa Rica,2.6159044043379,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CIV,2024,Cote d'Ivoire,6.01953461940062,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CIV,2023,Cote d'Ivoire,6.60000045223954,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CIV,2022,Cote d'Ivoire,6.39988362720531,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CIV,2021,Cote d'Ivoire,7.06332910205232,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CIV,2020,Cote d'Ivoire,0.699728593494228,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CIV,2019,Cote d'Ivoire,6.72137167584978,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CIV,2018,Cote d'Ivoire,4.84314605889178,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HRV,2024,Croatia,3.82688702890739,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HRV,2023,Croatia,3.76164540703459,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HRV,2022,Croatia,7.29445343642668,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HRV,2021,Croatia,12.6322190351024,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HRV,2020,Croatia,-8.31086401501189,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HRV,2019,Croatia,3.10152683894853,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HRV,2018,Croatia,2.91107593407843,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CUB,2024,Cuba,-1.06173273220524,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CUB,2023,Cuba,-1.92937123169681,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CUB,2022,Cuba,1.77465227724316,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CUB,2021,Cuba,1.25448735650322,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CUB,2020,Cuba,-10.9494359030206,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CUB,2019,Cuba,-0.163087223606624,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CUB,2018,Cuba,2.24794852913217,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CUW,2024,Curacao,5.02690000000014,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CUW,2023,Curacao,4.20199999999977,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CUW,2022,Curacao,6.90599999999999,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CUW,2021,Curacao,4.18371193053579,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CUW,2020,Curacao,-18.4384703505393,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CUW,2019,Curacao,-3.20613171902549,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CUW,2018,Curacao,-2.10411142994484,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CYP,2024,Cyprus,3.94077381708404,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CYP,2023,Cyprus,3.61945644636856,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CYP,2022,Cyprus,8.27372597293814,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CYP,2021,Cyprus,11.3975590801512,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CYP,2020,Cyprus,-3.22063018637567,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CYP,2019,Cyprus,5.87559583386607,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CYP,2018,Cyprus,6.27166360056404,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CZE,2024,Czechia,1.23308611983484,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CZE,2023,Czechia,0.0475803308973752,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CZE,2022,Czechia,2.8471706583814,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CZE,2021,Czechia,4.02901832055149,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CZE,2020,Czechia,-5.30487955463876,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CZE,2019,Czechia,3.56577658128261,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CZE,2018,Czechia,2.83030588267866,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DNK,2024,Denmark,3.47783593140312,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DNK,2023,Denmark,0.604587766175584,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DNK,2022,Denmark,0.443832614908331,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DNK,2021,Denmark,6.50025445756295,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DNK,2020,Denmark,-1.78010601831291,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DNK,2019,Denmark,1.71140093932736,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DNK,2018,Denmark,1.8600074900921,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DJI,2024,Djibouti,6.98048467276334,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DJI,2023,Djibouti,6.80733529403308,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DJI,2022,Djibouti,5.16653702854374,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DJI,2021,Djibouti,4.40715667561153,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DJI,2020,Djibouti,1.2021151728969,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DJI,2019,Djibouti,5.54508081154978,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DJI,2018,Djibouti,4.77433934943193,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DMA,2024,Dominica,2.052738472526,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DMA,2023,Dominica,3.65221012208734,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DMA,2022,Dominica,10.3968076616121,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DMA,2021,Dominica,5.37983838954712,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DMA,2020,Dominica,-15.7064024545862,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DMA,2019,Dominica,3.94809757938053,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DMA,2018,Dominica,2.964010610466,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DOM,2024,Dominican Republic,4.95352204492849,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DOM,2023,Dominican Republic,2.19229848237939,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DOM,2022,Dominican Republic,5.23795652902595,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DOM,2021,Dominican Republic,14.0124289062207,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DOM,2020,Dominican Republic,-7.92905234231061,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DOM,2019,Dominican Republic,4.8940301149584,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DOM,2018,Dominican Republic,7.09751640210159,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ECU,2024,Ecuador,-2.00125476341026,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ECU,2023,Ecuador,1.98823813984235,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ECU,2022,Ecuador,5.86842354862311,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ECU,2021,Ecuador,9.42189269033631,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ECU,2020,Ecuador,-9.24509619165865,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ECU,2019,Ecuador,0.1654044646003,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ECU,2018,Ecuador,1.04429460679607,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+EGY,2024,"Egypt, Arab Rep.",2.3991692678251,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+EGY,2023,"Egypt, Arab Rep.",3.76028052279247,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+EGY,2022,"Egypt, Arab Rep.",6.58784560886967,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+EGY,2021,"Egypt, Arab Rep.",3.29064601202211,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+EGY,2020,"Egypt, Arab Rep.",3.55016483786838,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+EGY,2019,"Egypt, Arab Rep.",5.55209307156956,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+EGY,2018,"Egypt, Arab Rep.",5.3311086189448,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLV,2024,El Salvador,2.60202016121069,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLV,2023,El Salvador,3.5391566928735,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLV,2022,El Salvador,2.95461516549889,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLV,2021,El Salvador,11.9047617015957,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLV,2020,El Salvador,-7.893101359867,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLV,2019,El Salvador,2.43747159065784,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLV,2018,El Salvador,2.4124442237792,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GNQ,2024,Equatorial Guinea,0.907248245986736,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GNQ,2023,Equatorial Guinea,-5.08930872071532,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GNQ,2022,Equatorial Guinea,3.22350831658598,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GNQ,2021,Equatorial Guinea,0.860269956382069,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GNQ,2020,Equatorial Guinea,-4.79108083383294,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GNQ,2019,Equatorial Guinea,-5.48182537893445,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GNQ,2018,Equatorial Guinea,-6.23654406734575,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+EST,2024,Estonia,-0.0900428648493801,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+EST,2023,Estonia,-2.74421914571231,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+EST,2022,Estonia,-1.22616966587796,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+EST,2021,Estonia,8.25488044580031,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+EST,2020,Estonia,-2.88380751483778,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+EST,2019,Estonia,3.72664943466884,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+EST,2018,Estonia,3.69969756161726,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SWZ,2024,Eswatini,2.97391075973985,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SWZ,2023,Eswatini,3.53257662836211,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SWZ,2022,Eswatini,0.386070835562705,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SWZ,2021,Eswatini,4.23621913615419,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SWZ,2020,Eswatini,-2.95183453409287,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SWZ,2019,Eswatini,6.43186888691574,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SWZ,2018,Eswatini,0.0653956557843571,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ETH,2024,Ethiopia,7.61277447511073,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ETH,2023,Ethiopia,6.59424599357075,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ETH,2022,Ethiopia,5.32175988403378,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ETH,2021,Ethiopia,5.64153069257077,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ETH,2020,Ethiopia,6.05953089054807,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ETH,2019,Ethiopia,8.36408573314054,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ETH,2018,Ethiopia,6.81614778557282,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FRO,2024,Faroe Islands,0.843716851362103,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FRO,2023,Faroe Islands,3.15873872329266,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FRO,2022,Faroe Islands,3.86099981669155,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FRO,2021,Faroe Islands,5.06636291600633,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FRO,2020,Faroe Islands,-1.63732118017028,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FRO,2019,Faroe Islands,4.53851028676189,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FRO,2018,Faroe Islands,2.76370952267429,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FJI,2024,Fiji,3.53085896076352,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FJI,2023,Fiji,9.44245856738313,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FJI,2022,Fiji,17.7451269773594,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FJI,2021,Fiji,-4.3459619989752,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FJI,2020,Fiji,-17.1835352599354,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FJI,2019,Fiji,-0.581946709343867,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FJI,2018,Fiji,3.81235122208561,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FIN,2024,Finland,0.416171964862073,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FIN,2023,Finland,-0.939093459613758,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FIN,2022,Finland,0.763041912763526,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FIN,2021,Finland,2.67634641498897,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FIN,2020,Finland,-2.49103605535707,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FIN,2019,Finland,1.34973845741737,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FIN,2018,Finland,1.19297759742292,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FRA,2024,France,1.19046798275883,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FRA,2023,France,1.43921494437743,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FRA,2022,France,2.71676264185913,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FRA,2021,France,6.88233783360239,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FRA,2020,France,-7.44064589948231,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FRA,2019,France,2.02744646419237,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FRA,2018,France,1.64590872395887,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PYF,2024,French Polynesia,1.12638897730247,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PYF,2023,French Polynesia,2.77284077155413,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PYF,2022,French Polynesia,2.9373470716322,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PYF,2021,French Polynesia,3.36590242421546,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PYF,2020,French Polynesia,-10.5738138632489,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PYF,2019,French Polynesia,2.68946658143334,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PYF,2018,French Polynesia,1.80687498305207,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GAB,2024,Gabon,3.39403899592401,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GAB,2023,Gabon,2.43893665064327,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GAB,2022,Gabon,3.03761449530657,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GAB,2021,Gabon,1.46795731487489,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GAB,2020,Gabon,-1.83776106357656,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GAB,2019,Gabon,3.92080879452831,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GAB,2018,Gabon,0.83791658082157,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GMB,2024,"Gambia, The",5.55126069510321,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GMB,2023,"Gambia, The",5.9167957146697,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GMB,2022,"Gambia, The",5.49299823010114,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GMB,2021,"Gambia, The",5.25596878816744,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GMB,2020,"Gambia, The",0.591487287873974,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GMB,2019,"Gambia, The",6.22205315994859,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GMB,2018,"Gambia, The",7.23489033258579,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GEO,2024,Georgia,9.67979387500691,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GEO,2023,Georgia,7.83220126555726,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GEO,2022,Georgia,10.9585321385624,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GEO,2021,Georgia,10.6442336580969,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GEO,2020,Georgia,-6.2904717853839,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GEO,2019,Georgia,5.38071926589951,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GEO,2018,Georgia,6.062036412677,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DEU,2024,Germany,-0.495851897260366,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DEU,2023,Germany,-0.869647578573321,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DEU,2022,Germany,1.8092581243061,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DEU,2021,Germany,3.90999994204108,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DEU,2020,Germany,-4.13191443239947,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DEU,2019,Germany,0.977734697038784,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+DEU,2018,Germany,1.13569604599849,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GHA,2024,Ghana,5.59045469593266,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GHA,2023,Ghana,3.14009099763754,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GHA,2022,Ghana,3.80484980952164,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GHA,2021,Ghana,5.07646643533542,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GHA,2020,Ghana,0.513941670628171,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GHA,2019,Ghana,6.5077747939152,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GHA,2018,Ghana,6.20007768127284,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRC,2024,Greece,2.0865743380603,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRC,2023,Greece,2.13591131996631,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRC,2022,Greece,5.52198580589408,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRC,2021,Greece,8.65449786002131,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRC,2020,Greece,-9.19623149726978,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRC,2019,Greece,2.27718065334808,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRC,2018,Greece,2.06467207892409,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRL,2023,Greenland,0.865961986998158,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRL,2022,Greenland,2.00455580865604,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRL,2021,Greenland,1.63409410992996,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRL,2020,Greenland,0.250789762104304,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRL,2019,Greenland,2.83217756798683,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRL,2018,Greenland,0.62306542854094,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRD,2024,Grenada,3.96332516398188,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRD,2023,Grenada,4.52657497450693,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRD,2022,Grenada,7.31023806981959,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRD,2021,Grenada,4.6977240232674,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRD,2020,Grenada,-13.7566222572107,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRD,2019,Grenada,0.676511738873756,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GRD,2018,Grenada,4.36144039364797,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GUM,2022,Guam,5.09986426216793,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GUM,2021,Guam,2.0581832574708,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GUM,2020,Guam,-10.5188595714539,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GUM,2019,Guam,2.52360203340596,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GUM,2018,Guam,-0.828231904933389,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GTM,2024,Guatemala,3.65186382894819,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GTM,2023,Guatemala,3.5331575177533,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GTM,2022,Guatemala,4.18451817243695,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GTM,2021,Guatemala,8.04170378184928,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GTM,2020,Guatemala,-1.78555175063326,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GTM,2019,Guatemala,4.01789785040324,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GTM,2018,Guatemala,3.40687348346576,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GIN,2024,Guinea,5.35004659051708,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GIN,2023,Guinea,5.54172668627702,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GIN,2022,Guinea,3.97240784200721,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GIN,2021,Guinea,5.5823328114905,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GIN,2020,Guinea,4.70459096113575,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GIN,2019,Guinea,5.61691446889876,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GIN,2018,Guinea,6.35849192736715,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GNB,2024,Guinea-Bissau,4.14631137217332,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GNB,2023,Guinea-Bissau,5.82749502627256,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GNB,2022,Guinea-Bissau,5.52987253058352,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GNB,2021,Guinea-Bissau,5.05055831244401,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GNB,2020,Guinea-Bissau,2.89139814952995,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GNB,2019,Guinea-Bissau,5.32749571119344,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GNB,2018,Guinea-Bissau,3.76145359637003,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GUY,2024,Guyana,43.8193108024355,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GUY,2023,Guyana,33.795011115873,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GUY,2022,Guyana,63.3346343654855,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GUY,2021,Guyana,20.0599975568418,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GUY,2020,Guyana,43.479651716849,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GUY,2019,Guyana,5.35284003535665,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GUY,2018,Guyana,4.44091288475967,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HTI,2024,Haiti,-4.16963395808132,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HTI,2023,Haiti,-1.86388420254838,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HTI,2022,Haiti,-1.68198396897978,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HTI,2021,Haiti,-1.79823988931486,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HTI,2020,Haiti,-3.30550546965893,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HTI,2019,Haiti,-1.72309699839232,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HTI,2018,Haiti,1.66781095484656,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HND,2024,Honduras,3.55397003296669,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HND,2023,Honduras,3.57584760454412,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HND,2022,Honduras,4.14356194013767,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HND,2021,Honduras,12.5652843771279,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HND,2020,Honduras,-8.96508223267296,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HND,2019,Honduras,2.55963434592314,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HND,2018,Honduras,3.84499476966735,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HKG,2024,"Hong Kong SAR, China",2.50498758466826,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HKG,2023,"Hong Kong SAR, China",3.2238599613664,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HKG,2022,"Hong Kong SAR, China",-3.68378414495199,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HKG,2021,"Hong Kong SAR, China",6.45444409087024,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HKG,2020,"Hong Kong SAR, China",-6.54480412699255,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HKG,2019,"Hong Kong SAR, China",-1.6724459934221,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HKG,2018,"Hong Kong SAR, China",2.84695146463069,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HUN,2024,Hungary,0.560117843140432,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HUN,2023,Hungary,-0.817107370513455,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HUN,2022,Hungary,4.15238057779229,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HUN,2021,Hungary,7.22291580811137,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HUN,2020,Hungary,-4.33872540024058,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HUN,2019,Hungary,5.07718495088933,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+HUN,2018,Hungary,5.60613813768876,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ISL,2024,Iceland,-0.970676468918384,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ISL,2023,Iceland,5.18615760140189,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ISL,2022,Iceland,8.82069395623492,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ISL,2021,Iceland,5.1805719742238,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ISL,2020,Iceland,-6.64587816297836,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ISL,2019,Iceland,1.13821230465001,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ISL,2018,Iceland,4.66077032612084,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IND,2024,India,6.49476552383821,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IND,2023,India,9.19075493028345,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IND,2022,India,7.60936497768895,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IND,2021,India,9.68959249192875,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IND,2020,India,-5.77772470686801,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IND,2019,India,3.87143694070356,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IND,2018,India,6.45385134497769,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IDN,2024,Indonesia,5.03034469419038,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IDN,2023,Indonesia,5.04902331835997,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IDN,2022,Indonesia,5.30719722664799,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IDN,2021,Indonesia,3.70288562827751,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IDN,2020,Indonesia,-2.06551182934165,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IDN,2019,Indonesia,5.01928768046282,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IDN,2018,Indonesia,5.17429153955024,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRN,2024,"Iran, Islamic Rep.",3.66312056830718,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRN,2023,"Iran, Islamic Rep.",5.33235117216407,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRN,2022,"Iran, Islamic Rep.",4.35281087521344,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRN,2021,"Iran, Islamic Rep.",4.13089685034471,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRN,2020,"Iran, Islamic Rep.",4.44180865358672,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRN,2019,"Iran, Islamic Rep.",-2.36143538770575,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRN,2018,"Iran, Islamic Rep.",-3.74796015711334,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRQ,2024,Iraq,-1.54525198318304,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRQ,2023,Iraq,0.517705525131191,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRQ,2022,Iraq,7.95904804992662,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRQ,2021,Iraq,1.50218070952037,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRQ,2020,Iraq,-12.0367930931152,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRQ,2019,Iraq,5.51379057542323,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRQ,2018,Iraq,2.63385099105624,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRL,2024,Ireland,2.59946721553708,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRL,2023,Ireland,-2.53637409313261,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRL,2022,Ireland,7.51113888415304,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRL,2021,Ireland,16.2581881158197,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRL,2020,Ireland,7.15369505735335,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRL,2019,Ireland,4.97288003766816,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IRL,2018,Ireland,7.68865937437435,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IMN,2022,Isle of Man,-4.16539345213232,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IMN,2021,Isle of Man,3.83783632334639,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IMN,2020,Isle of Man,-8.83681697473475,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IMN,2019,Isle of Man,0.254877847398262,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+IMN,2018,Isle of Man,2.2133975392251,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ISR,2024,Israel,0.871968424377442,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ISR,2023,Israel,1.82652049482384,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ISR,2022,Israel,6.26326343841286,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ISR,2021,Israel,9.38837403354628,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ISR,2020,Israel,-2.02161548237589,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ISR,2019,Israel,3.71049632750405,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ISR,2018,Israel,4.00389862187025,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ITA,2024,Italy,0.692676948440536,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ITA,2023,Italy,0.975694840127005,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ITA,2022,Italy,4.82117669913565,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ITA,2021,Italy,8.93106210800055,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ITA,2020,Italy,-8.86822122185345,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ITA,2019,Italy,0.429162533780342,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ITA,2018,Italy,0.826646712344115,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JAM,2024,Jamaica,-0.535039063867487,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JAM,2023,Jamaica,2.74634433906714,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JAM,2022,Jamaica,6.43930323656186,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JAM,2021,Jamaica,5.70467978309095,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JAM,2020,Jamaica,-8.30441923583135,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JAM,2019,Jamaica,1.80943147301357,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JAM,2018,Jamaica,2.51584458612513,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JPN,2024,Japan,0.104309021773304,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JPN,2023,Japan,1.47503481053384,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JPN,2022,Japan,0.941998775483285,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JPN,2021,Japan,2.69657404187188,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JPN,2020,Japan,-4.16876457146743,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JPN,2019,Japan,-0.402169200894946,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JPN,2018,Japan,0.643391023533141,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JOR,2024,Jordan,2.48889409603647,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JOR,2023,Jordan,2.88408339281683,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JOR,2022,Jordan,2.64743514912058,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JOR,2021,Jordan,3.65564358999147,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JOR,2020,Jordan,-1.10275188309046,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JOR,2019,Jordan,1.75124077866225,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+JOR,2018,Jordan,1.91907091341564,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KAZ,2024,Kazakhstan,4.99999999996936,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KAZ,2023,Kazakhstan,5.09999999973641,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KAZ,2022,Kazakhstan,3.19999999970734,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KAZ,2021,Kazakhstan,4.29999999729456,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KAZ,2020,Kazakhstan,-2.49999999628,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KAZ,2019,Kazakhstan,4.50000000091883,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KAZ,2018,Kazakhstan,4.09999999309841,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KEN,2024,Kenya,4.72473994710138,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KEN,2023,Kenya,5.71999241214208,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KEN,2022,Kenya,4.85998104287999,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KEN,2021,Kenya,7.59048947333467,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KEN,2020,Kenya,-0.272766327438816,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KEN,2019,Kenya,5.11415885767801,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KEN,2018,Kenya,5.64794640709219,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KIR,2024,Kiribati,5.26689747917099,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KIR,2023,Kiribati,2.65201087489879,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KIR,2022,Kiribati,4.56632593100372,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KIR,2021,Kiribati,8.47973787138213,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KIR,2020,Kiribati,-1.46805538131593,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KIR,2019,Kiribati,3.26425930432951,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KIR,2018,Kiribati,3.47943880004293,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KOR,2024,"Korea, Rep.",2.00361101838986,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KOR,2023,"Korea, Rep.",1.58301467403629,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KOR,2022,"Korea, Rep.",2.72756456708991,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KOR,2021,"Korea, Rep.",4.61296795454287,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KOR,2020,"Korea, Rep.",-0.700242317542106,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KOR,2019,"Korea, Rep.",2.31380210595475,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KOR,2018,"Korea, Rep.",3.17611568177327,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+XKX,2024,Kosovo,4.5730971681166,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+XKX,2023,Kosovo,4.06762701436438,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+XKX,2022,Kosovo,4.27849895827543,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+XKX,2021,Kosovo,10.7456560819583,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+XKX,2020,Kosovo,-5.34027547826166,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+XKX,2019,Kosovo,4.75680057007834,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+XKX,2018,Kosovo,3.40663227056285,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KWT,2024,Kuwait,-2.56011099967517,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KWT,2023,Kuwait,-1.6672059801285,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KWT,2022,Kuwait,6.75866711966617,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KWT,2021,Kuwait,1.67213054307859,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KWT,2020,Kuwait,-4.81731593381585,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KWT,2019,Kuwait,2.26381706595791,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KWT,2018,Kuwait,2.74333045031415,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KGZ,2024,Kyrgyz Republic,9.04013556120012,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KGZ,2023,Kyrgyz Republic,9.0132928339342,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KGZ,2022,Kyrgyz Republic,8.96750520041391,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KGZ,2021,Kyrgyz Republic,5.50700762671923,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KGZ,2020,Kyrgyz Republic,-7.14897757727955,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KGZ,2019,Kyrgyz Republic,4.60062565707598,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KGZ,2018,Kyrgyz Republic,3.75791013557165,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LAO,2024,Lao PDR,4.13019264436937,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LAO,2023,Lao PDR,3.74568140158232,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LAO,2022,Lao PDR,2.70742652643155,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LAO,2021,Lao PDR,2.52835100486102,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LAO,2020,Lao PDR,0.503031829018681,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LAO,2019,Lao PDR,5.4577350924848,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LAO,2018,Lao PDR,6.24796000755872,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LVA,2024,Latvia,-0.0461080109713521,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LVA,2023,Latvia,-0.941606068823631,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LVA,2022,Latvia,1.90853419029801,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LVA,2021,Latvia,6.94254173062592,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LVA,2020,Latvia,-3.46922750780554,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LVA,2019,Latvia,0.675372771884227,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LVA,2018,Latvia,4.30971286294503,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBN,2023,Lebanon,-0.760584470257314,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBN,2022,Lebanon,-0.621678970663112,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBN,2021,Lebanon,-7.00123862514116,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBN,2020,Lebanon,-21.3998996914321,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBN,2019,Lebanon,-6.91492472851026,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBN,2018,Lebanon,-1.88470575631651,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LSO,2024,Lesotho,2.85452253179545,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LSO,2023,Lesotho,1.82662476743647,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LSO,2022,Lesotho,2.38778020186284,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LSO,2021,Lesotho,2.26670961833291,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LSO,2020,Lesotho,-8.15595785459911,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LSO,2019,Lesotho,-1.41799383085205,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LSO,2018,Lesotho,-1.48063315848241,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBR,2024,Liberia,4.02185464964835,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBR,2023,Liberia,4.68375688761311,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBR,2022,Liberia,4.80810517290655,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBR,2021,Liberia,4.98671283481617,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBR,2020,Liberia,-2.98249127649473,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBR,2019,Liberia,-2.46729763532686,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBR,2018,Liberia,1.15757512207355,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBY,2024,Libya,1.89995052025442,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBY,2023,Libya,10.2000497852517,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBY,2022,Libya,-8.29981811198795,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBY,2021,Libya,28.2996823429147,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBY,2020,Libya,-29.4552967282824,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBY,2019,Libya,-11.1960828853386,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LBY,2018,Libya,7.9413678529104,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LTU,2024,Lithuania,2.77263124530285,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LTU,2023,Lithuania,0.342262716277261,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LTU,2022,Lithuania,2.53752574011534,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LTU,2021,Lithuania,6.38001606179873,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LTU,2020,Lithuania,0.0428158336981426,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LTU,2019,Lithuania,4.67735183530451,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LTU,2018,Lithuania,4.91836780106811,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LUX,2024,Luxembourg,0.35861253942069,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LUX,2023,Luxembourg,0.0994399943552651,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LUX,2022,Luxembourg,-1.0974168968152,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LUX,2021,Luxembourg,6.9297342584233,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LUX,2020,Luxembourg,-0.510051634039826,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LUX,2019,Luxembourg,2.74931929072659,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LUX,2018,Luxembourg,1.61129561338169,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAC,2024,"Macao SAR, China",7.84960207010525,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAC,2023,"Macao SAR, China",75.3084184293413,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAC,2022,"Macao SAR, China",-18.956941494497,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAC,2021,"Macao SAR, China",22.4622020023362,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAC,2020,"Macao SAR, China",-54.4020925789353,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAC,2019,"Macao SAR, China",-2.4609094006739,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAC,2018,"Macao SAR, China",6.35917030567686,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDG,2024,Madagascar,4.19999999988647,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDG,2023,Madagascar,4.20304615840668,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDG,2022,Madagascar,4.15609778386296,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDG,2021,Madagascar,4.65068343174309,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDG,2020,Madagascar,-7.13767162064489,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDG,2019,Madagascar,4.41123212909589,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDG,2018,Madagascar,3.19435651744398,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MWI,2024,Malawi,1.6734340852915,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MWI,2023,Malawi,1.94575281675984,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MWI,2022,Malawi,0.921115069005936,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MWI,2021,Malawi,4.55829212016083,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MWI,2020,Malawi,0.793596429787286,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MWI,2019,Malawi,5.71682519194337,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MWI,2018,Malawi,4.35356471619211,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MYS,2024,Malaysia,5.10545921024041,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MYS,2023,Malaysia,3.5370638041057,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MYS,2022,Malaysia,9.03173723044451,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MYS,2021,Malaysia,3.31534954399166,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MYS,2020,Malaysia,-5.45684658426701,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MYS,2019,Malaysia,4.41318742129586,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MYS,2018,Malaysia,4.84308697634881,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDV,2024,Maldives,3.49440422654285,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDV,2023,Maldives,4.94286301229583,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDV,2022,Maldives,13.8260895184139,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDV,2021,Maldives,37.507870124321,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDV,2020,Maldives,-32.9088287752921,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDV,2019,Maldives,6.92305989050099,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDV,2018,Maldives,8.5689555834747,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MLI,2024,Mali,4.99226917482922,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MLI,2023,Mali,4.72541109080376,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MLI,2022,Mali,3.70319027595568,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MLI,2021,Mali,3.10094124444834,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MLI,2020,Mali,-1.16910834828603,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MLI,2019,Mali,4.99999911608818,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MLI,2018,Mali,4.86784999991505,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MLT,2024,Malta,6.79990300224401,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MLT,2023,Malta,10.6215185022616,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MLT,2022,Malta,2.48309993837792,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MLT,2021,Malta,13.4117042939322,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MLT,2020,Malta,-3.45728276294712,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MLT,2019,Malta,4.08505582134097,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MLT,2018,Malta,7.18921479603796,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MHL,2024,Marshall Islands,2.50192717852873,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MHL,2023,Marshall Islands,-5.00791779654826,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MHL,2022,Marshall Islands,-0.700563926576777,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MHL,2021,Marshall Islands,2.15938183019058,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MHL,2020,Marshall Islands,-2.77288732394366,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MHL,2019,Marshall Islands,10.4521147301896,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MHL,2018,Marshall Islands,5.48717948717949,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MRT,2024,Mauritania,6.30760213290844,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MRT,2023,Mauritania,6.80949001978621,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MRT,2022,Mauritania,6.79600500489967,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MRT,2021,Mauritania,0.742715486567747,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MRT,2020,Mauritania,-0.360657384151068,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MRT,2019,Mauritania,3.14100489306969,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MRT,2018,Mauritania,4.77217365692621,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MUS,2024,Mauritius,4.92512304864294,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MUS,2023,Mauritius,5.00791900868131,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MUS,2022,Mauritius,8.69306675264066,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MUS,2021,Mauritius,3.40379866177662,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MUS,2020,Mauritius,-14.5465381490166,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MUS,2019,Mauritius,2.89128499346516,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MUS,2018,Mauritius,4.00674057198549,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MEX,2024,Mexico,1.42742769080466,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MEX,2023,Mexico,3.35354140652768,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MEX,2022,Mexico,3.70975709163623,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MEX,2021,Mexico,6.0484834621255,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MEX,2020,Mexico,-8.35403458167995,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MEX,2019,Mexico,-0.392690505066824,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MEX,2018,Mexico,1.97208209405635,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FSM,2024,"Micronesia, Fed. Sts.",0.718990177344025,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FSM,2023,"Micronesia, Fed. Sts.",0.453118220707168,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FSM,2022,"Micronesia, Fed. Sts.",-2.90588999868474,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FSM,2021,"Micronesia, Fed. Sts.",3.09969928290539,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FSM,2020,"Micronesia, Fed. Sts.",-1.67294117647059,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FSM,2019,"Micronesia, Fed. Sts.",4.08163265306123,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+FSM,2018,"Micronesia, Fed. Sts.",0,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDA,2024,Moldova,0.103059364371205,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDA,2023,Moldova,1.2000000493378,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDA,2022,Moldova,-4.6000000255323,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDA,2021,Moldova,13.9299997889786,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDA,2020,Moldova,-8.27597831976949,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDA,2019,Moldova,3.5523140853476,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MDA,2018,Moldova,4.07559546585034,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MCO,2024,Monaco,8.51053758860212,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MCO,2023,Monaco,5.44395088840088,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MCO,2022,Monaco,11.2662955198601,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MCO,2021,Monaco,22.2322155851208,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MCO,2020,Monaco,-13.2391048292108,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MCO,2019,Monaco,7.12088951975396,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MCO,2018,Monaco,5.69790121192926,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNG,2024,Mongolia,5.12204539122661,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNG,2023,Mongolia,7.4221127615025,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNG,2022,Mongolia,5.0327096366527,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNG,2021,Mongolia,1.63676957736662,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNG,2020,Mongolia,-4.55775197583431,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNG,2019,Mongolia,5.60224422064255,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNG,2018,Mongolia,7.74488062024881,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNE,2024,Montenegro,3.16409886329913,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNE,2023,Montenegro,6.47836283518564,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNE,2022,Montenegro,7.73954689516201,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNE,2021,Montenegro,13.0462607426359,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNE,2020,Montenegro,-14.9926187023533,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNE,2019,Montenegro,4.39391565821528,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNE,2018,Montenegro,4.73292113433965,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAR,2024,Morocco,3.79336515978963,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAR,2023,Morocco,3.65564411017931,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAR,2022,Morocco,1.81269242194809,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAR,2021,Morocco,8.15473889823681,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAR,2020,Morocco,-7.17820744246774,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAR,2019,Morocco,2.89097476137077,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAR,2018,Morocco,3.06564133025955,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MOZ,2024,Mozambique,2.14854964610538,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MOZ,2023,Mozambique,5.48149036541776,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MOZ,2022,Mozambique,4.36445074432608,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MOZ,2021,Mozambique,2.37743572761507,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MOZ,2020,Mozambique,-1.21952250011192,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MOZ,2019,Mozambique,2.31781394821475,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MOZ,2018,Mozambique,3.48493202422782,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MMR,2024,Myanmar,-0.97204641363362,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MMR,2023,Myanmar,0.958446625126115,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MMR,2022,Myanmar,4.0374934360085,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MMR,2021,Myanmar,-12.0163724829177,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MMR,2020,Myanmar,-9.04834717984643,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MMR,2019,Myanmar,6.57911006765414,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MMR,2018,Myanmar,6.26886221471075,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NAM,2024,Namibia,3.71154502416731,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NAM,2023,Namibia,4.44280600303956,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NAM,2022,Namibia,5.3987247803654,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NAM,2021,Namibia,3.60382919248703,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NAM,2020,Namibia,-8.10140201443319,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NAM,2019,Namibia,-0.839152163419357,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NAM,2018,Namibia,1.05993949860752,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NRU,2024,Nauru,1.38888888888904,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NRU,2023,Nauru,0.699300699300778,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NRU,2022,Nauru,2.87769784172609,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NRU,2021,Nauru,7.75193798449692,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NRU,2020,Nauru,1.57480314960559,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NRU,2019,Nauru,8.5470085470084,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NRU,2018,Nauru,-0.847457627117805,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NPL,2024,Nepal,3.66537430744967,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NPL,2023,Nepal,1.98254843628392,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NPL,2022,Nepal,5.6313145568451,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NPL,2021,Nepal,4.838149614115,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NPL,2020,Nepal,-2.3696206292072,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NPL,2019,Nepal,6.65705543110467,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NPL,2018,Nepal,7.62237610397935,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NLD,2024,Netherlands,1.08100584845663,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NLD,2023,Netherlands,-0.598096167209832,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NLD,2022,Netherlands,5.00723455159611,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NLD,2021,Netherlands,6.2768306708326,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NLD,2020,Netherlands,-3.86795333823223,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NLD,2019,Netherlands,2.30009157916757,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NLD,2018,Netherlands,2.2587403735731,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NCL,2024,New Caledonia,-13.5,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NCL,2023,New Caledonia,2.8,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NCL,2022,New Caledonia,3.50000000000006,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NCL,2021,New Caledonia,-2.10000000000004,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NCL,2020,New Caledonia,-2.40000000000001,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NCL,2019,New Caledonia,-1.40000000000001,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NCL,2018,New Caledonia,0.400000000000006,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NZL,2024,New Zealand,1.28862004711685,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NZL,2023,New Zealand,1.39425181563566,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NZL,2022,New Zealand,3.49638686458842,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NZL,2021,New Zealand,4.53540565716095,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NZL,2020,New Zealand,-0.307246896026541,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NZL,2019,New Zealand,2.31747144034802,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NZL,2018,New Zealand,3.47058203866328,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NIC,2024,Nicaragua,3.5878302292345,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NIC,2023,Nicaragua,4.42774384760374,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NIC,2022,Nicaragua,3.55029945613975,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NIC,2021,Nicaragua,10.454389484408,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NIC,2020,Nicaragua,-2.23654176262323,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NIC,2019,Nicaragua,-2.89686986728901,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NIC,2018,Nicaragua,-3.3633566598573,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NER,2024,Niger,10.3000000007793,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NER,2023,Niger,1.66763406484279,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NER,2022,Niger,11.9000000000277,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NER,2021,Niger,1.38359636198477,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NER,2020,Niger,3.55064109436891,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NER,2019,Niger,5.93985257123522,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NER,2018,Niger,7.21141802762897,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NGA,2024,Nigeria,4.06236408888319,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NGA,2023,Nigeria,3.32684556421316,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NGA,2022,Nigeria,4.31882949523192,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NGA,2021,Nigeria,1.10925253938163,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NGA,2020,Nigeria,-6.36889840510109,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NGA,2019,Nigeria,2.20842927714892,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NGA,2018,Nigeria,1.92275734200614,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MKD,2024,North Macedonia,2.99373536567732,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MKD,2023,North Macedonia,2.554965253403,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MKD,2022,North Macedonia,2.75888415332967,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MKD,2021,North Macedonia,4.51067949038222,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MKD,2020,North Macedonia,-4.68845000956652,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MKD,2019,North Macedonia,3.91041953840173,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MKD,2018,North Macedonia,2.88059670964267,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNP,2022,Northern Mariana Islands,16.6427546628408,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNP,2021,Northern Mariana Islands,4.96987951807229,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNP,2020,Northern Mariana Islands,-29.0598290598291,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNP,2019,Northern Mariana Islands,-11.4474929044465,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MNP,2018,Northern Mariana Islands,-19.4973343488195,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NOR,2024,Norway,2.09723059960317,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NOR,2023,Norway,0.0721204806030329,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NOR,2022,Norway,3.24622860260932,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NOR,2021,Norway,3.90868676830634,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NOR,2020,Norway,-1.27817177234034,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NOR,2019,Norway,1.12374694968757,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+NOR,2018,Norway,0.828931500516902,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+OMN,2024,Oman,1.63163221127449,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+OMN,2023,Oman,1.41401395818599,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+OMN,2022,Oman,7.98570728354278,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+OMN,2021,Oman,2.5821749892893,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+OMN,2020,Oman,-3.37972052697999,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+OMN,2019,Oman,-1.12863801728058,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+OMN,2018,Oman,1.28710391543288,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PAK,2024,Pakistan,3.04898287335465,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PAK,2023,Pakistan,-0.414935997088406,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PAK,2022,Pakistan,4.7781068690358,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PAK,2021,Pakistan,6.51388575852702,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PAK,2020,Pakistan,-1.27408744338709,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PAK,2019,Pakistan,2.49763692943365,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PAK,2018,Pakistan,6.15170261099519,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PLW,2023,Palau,2.21599800170485,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PLW,2022,Palau,1.51267904038146,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PLW,2021,Palau,-13.2600319305925,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PLW,2020,Palau,-6.87233152299699,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PLW,2019,Palau,-0.362028649856498,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PLW,2018,Palau,-1.24390713667657,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PAN,2024,Panama,2.74788545546916,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PAN,2023,Panama,7.16632946099945,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PAN,2022,Panama,11.0385475261766,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PAN,2021,Panama,16.4671248604202,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PAN,2020,Panama,-17.8212299459324,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PAN,2019,Panama,3.10306793272473,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PAN,2018,Panama,3.9181980847881,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PNG,2024,Papua New Guinea,3.79979560086888,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PNG,2023,Papua New Guinea,3.81088622906051,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PNG,2022,Papua New Guinea,5.70758404238197,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PNG,2021,Papua New Guinea,-0.511353418578196,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PNG,2020,Papua New Guinea,-3.16743204434815,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PNG,2019,Papua New Guinea,4.48051456942582,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PNG,2018,Papua New Guinea,-0.279252284959952,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRY,2024,Paraguay,4.24996010464072,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRY,2023,Paraguay,4.9992279112746,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRY,2022,Paraguay,0.176038366149214,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRY,2021,Paraguay,4.01673731776404,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRY,2020,Paraguay,-0.819785390945569,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRY,2019,Paraguay,-0.401855100701937,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRY,2018,Paraguay,3.20425034080199,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PER,2024,Peru,3.30394098171516,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PER,2023,Peru,-0.403242151494268,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PER,2022,Peru,2.8090335533015,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PER,2021,Peru,13.3626240903125,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PER,2020,Peru,-10.9333065010382,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PER,2019,Peru,2.24063176875049,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PER,2018,Peru,3.969351341365,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PHL,2024,Philippines,5.69201612823412,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PHL,2023,Philippines,5.51894967862863,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PHL,2022,Philippines,7.58098212785563,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PHL,2021,Philippines,5.71473313185116,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PHL,2020,Philippines,-9.51829474045297,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PHL,2019,Philippines,6.11852566221303,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PHL,2018,Philippines,6.34148557153473,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+POL,2024,Poland,3.02841630700273,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+POL,2023,Poland,0.249610834017872,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+POL,2022,Poland,5.25545697386036,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+POL,2021,Poland,6.92718266052501,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+POL,2020,Poland,-2.03556882399977,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+POL,2019,Poland,4.58045817256199,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+POL,2018,Poland,6.2458584723942,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRT,2024,Portugal,2.13967177177636,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRT,2023,Portugal,3.09997909018263,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRT,2022,Portugal,6.98584137580278,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRT,2021,Portugal,5.55875672070374,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRT,2020,Portugal,-8.20463159324387,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRT,2019,Portugal,2.74568432648596,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRT,2018,Portugal,2.94628343449202,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRI,2024,Puerto Rico (US),3.17707554784896,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRI,2023,Puerto Rico (US),0.731492105366186,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRI,2022,Puerto Rico (US),2.95709565499587,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRI,2021,Puerto Rico (US),0.385222719529239,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRI,2020,Puerto Rico (US),-4.1808743093346,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRI,2019,Puerto Rico (US),1.67546379498209,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PRI,2018,Puerto Rico (US),-4.36142703162535,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+QAT,2024,Qatar,2.35970586926597,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+QAT,2023,Qatar,1.53979117720789,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+QAT,2022,Qatar,4.18497018544697,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+QAT,2021,Qatar,1.62693587314129,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+QAT,2020,Qatar,-3.55750284254954,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+QAT,2019,Qatar,0.688255893930972,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+QAT,2018,Qatar,1.23483197031548,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ROU,2024,Romania,0.916003764382594,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ROU,2023,Romania,2.25773416555121,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ROU,2022,Romania,4.18771305104109,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ROU,2021,Romania,5.58735072538869,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ROU,2020,Romania,-3.59802546034757,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ROU,2019,Romania,3.96028958497598,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ROU,2018,Romania,5.39452228185675,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+RUS,2024,Russian Federation,4.34437475491529,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+RUS,2023,Russian Federation,4.08252481259281,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+RUS,2022,Russian Federation,-1.43588213859842,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+RUS,2021,Russian Federation,5.86649177292595,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+RUS,2020,Russian Federation,-2.65365450102773,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+RUS,2019,Russian Federation,2.19807571335009,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+RUS,2018,Russian Federation,2.80724541059601,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+RWA,2024,Rwanda,8.89065529573114,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+RWA,2023,Rwanda,8.24990302014558,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+RWA,2022,Rwanda,8.16120720872912,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+RWA,2021,Rwanda,10.8584320184896,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+RWA,2020,Rwanda,-3.37368746369782,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+RWA,2019,Rwanda,9.44738518613097,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+RWA,2018,Rwanda,8.51646722592409,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+WSM,2024,Samoa,4.74838445564714,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+WSM,2023,Samoa,15.2336106467304,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+WSM,2022,Samoa,2.26705055249026,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+WSM,2021,Samoa,-5.04350521486909,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+WSM,2020,Samoa,-3.10864485863991,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+WSM,2019,Samoa,4.45185891688691,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+WSM,2018,Samoa,-0.609647103380141,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SMR,2023,San Marino,0.401934896977224,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SMR,2022,San Marino,7.89844145767604,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SMR,2021,San Marino,13.8977895076234,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SMR,2020,San Marino,-6.64791081780605,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SMR,2019,San Marino,2.06568514732739,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SMR,2018,San Marino,1.49390531817373,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+STP,2024,Sao Tome and Principe,1.09999940100751,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+STP,2023,Sao Tome and Principe,0.372252775001456,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+STP,2022,Sao Tome and Principe,0.168698492216564,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+STP,2021,Sao Tome and Principe,1.89929891337832,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+STP,2020,Sao Tome and Principe,2.62485949543812,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+STP,2019,Sao Tome and Principe,2.01431672129407,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+STP,2018,Sao Tome and Principe,4.37812808264972,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SAU,2024,Saudi Arabia,1.99650173436159,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SAU,2023,Saudi Arabia,0.542592439393161,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SAU,2022,Saudi Arabia,12.0005874752929,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SAU,2021,Saudi Arabia,6.51959698325419,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SAU,2020,Saudi Arabia,-3.80478901996312,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SAU,2019,Saudi Arabia,1.65158925617395,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SAU,2018,Saudi Arabia,3.2269508901591,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SEN,2024,Senegal,6.06055141198976,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SEN,2023,Senegal,4.2574308328029,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SEN,2022,Senegal,3.85043193735768,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SEN,2021,Senegal,6.54400109964304,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SEN,2020,Senegal,1.3420737726679,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SEN,2019,Senegal,4.61362809749708,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SEN,2018,Senegal,6.20924103389086,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SRB,2024,Serbia,3.94992622592932,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SRB,2023,Serbia,3.74793303561771,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SRB,2022,Serbia,2.70347705543654,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SRB,2021,Serbia,7.94905650472278,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SRB,2020,Serbia,-0.950023991851594,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SRB,2019,Serbia,4.75020793899014,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SRB,2018,Serbia,4.64935035491007,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SYC,2024,Seychelles,3.46568066415341,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SYC,2023,Seychelles,2.25925322283285,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SYC,2022,Seychelles,12.7104688902836,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SYC,2021,Seychelles,0.552281631207279,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SYC,2020,Seychelles,-11.7398608281732,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SYC,2019,Seychelles,5.5142920737342,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SYC,2018,Seychelles,4.93947272254312,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLE,2024,Sierra Leone,4.29322336690163,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLE,2023,Sierra Leone,5.7100218981806,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLE,2022,Sierra Leone,5.3135546141915,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLE,2021,Sierra Leone,5.8968527047094,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLE,2020,Sierra Leone,-1.2533490322766,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLE,2019,Sierra Leone,5.50270937378153,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLE,2018,Sierra Leone,2.8938564123677,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SGP,2024,Singapore,4.38802362461865,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SGP,2023,Singapore,1.82140694115385,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SGP,2022,Singapore,4.10800021897151,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SGP,2021,Singapore,9.7568044629903,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SGP,2020,Singapore,-3.81470885510713,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SGP,2019,Singapore,1.30804118153127,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SGP,2018,Singapore,3.4519759658687,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SXM,2024,Sint Maarten (Dutch part),3.00000000000014,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SXM,2023,Sint Maarten (Dutch part),3.8,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SXM,2022,Sint Maarten (Dutch part),13.9,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SXM,2021,Sint Maarten (Dutch part),4.57759677933345,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SXM,2020,Sint Maarten (Dutch part),-13.3167887221567,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SXM,2019,Sint Maarten (Dutch part),10.9650009352392,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SXM,2018,Sint Maarten (Dutch part),-6.85698299227944,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SVK,2024,Slovak Republic,1.93867445549446,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SVK,2023,Slovak Republic,2.11263633214959,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SVK,2022,Slovak Republic,0.544591632137454,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SVK,2021,Slovak Republic,5.6558588065555,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SVK,2020,Slovak Republic,-2.58551241733207,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SVK,2019,Slovak Republic,2.27589910019393,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SVK,2018,Slovak Republic,4.06211981896483,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SVN,2024,Slovenia,1.73139722479493,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SVN,2023,Slovenia,2.3758326648385,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SVN,2022,Slovenia,2.66850555542486,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SVN,2021,Slovenia,8.41686457725321,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SVN,2020,Slovenia,-4.08500094942896,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SVN,2019,Slovenia,3.50525332381912,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SVN,2018,Slovenia,4.37908347331195,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLB,2024,Solomon Islands,2.99755987604104,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLB,2023,Solomon Islands,2.84111851154807,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLB,2022,Solomon Islands,-2.58448361755723,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLB,2021,Solomon Islands,-0.227975292792024,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLB,2020,Solomon Islands,-3.38125925839405,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLB,2019,Solomon Islands,1.74925244485951,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SLB,2018,Solomon Islands,2.74585244829055,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SOM,2024,"Somalia, Fed. Rep.",4.11139335779471,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SOM,2023,"Somalia, Fed. Rep.",4.17524257571303,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SOM,2022,"Somalia, Fed. Rep.",2.71821202053759,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SOM,2021,"Somalia, Fed. Rep.",3.44719850031242,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SOM,2020,"Somalia, Fed. Rep.",-2.76455696202532,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SOM,2019,"Somalia, Fed. Rep.",2.80033312513012,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SOM,2018,"Somalia, Fed. Rep.",2.05431507259452,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZAF,2024,South Africa,0.534843531905139,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZAF,2023,South Africa,0.80610455095804,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZAF,2022,South Africa,2.05813661692193,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZAF,2021,South Africa,4.85864865060148,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZAF,2020,South Africa,-6.1689177146757,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZAF,2019,South Africa,0.25993557687633,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZAF,2018,South Africa,1.55678384721676,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ESP,2024,Spain,3.45525405630191,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ESP,2023,Spain,2.46085796805582,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ESP,2022,Spain,6.37031712129601,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ESP,2021,Spain,6.68314420473001,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ESP,2020,Spain,-10.9400706350371,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ESP,2019,Spain,1.96117850841711,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ESP,2018,Spain,2.39541124478878,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LKA,2024,Sri Lanka,5.00871930957159,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LKA,2023,Sri Lanka,-2.3298481898334,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LKA,2022,Sri Lanka,-7.34919301306745,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LKA,2021,Sri Lanka,4.2074764951157,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LKA,2020,Sri Lanka,-4.62451503749502,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LKA,2019,Sri Lanka,-0.220483886831275,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LKA,2018,Sri Lanka,2.31008425545845,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KNA,2024,St. Kitts and Nevis,0.312226855858171,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KNA,2023,St. Kitts and Nevis,3.02127526129283,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KNA,2022,St. Kitts and Nevis,10.4804941546807,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KNA,2021,St. Kitts and Nevis,0.367606879216311,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KNA,2020,St. Kitts and Nevis,-15.3018891740649,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KNA,2019,St. Kitts and Nevis,2.93824658056356,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+KNA,2018,St. Kitts and Nevis,2.00352549800972,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LCA,2024,St. Lucia,3.89175024218898,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LCA,2023,St. Lucia,2.20988276526516,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LCA,2022,St. Lucia,20.3884431828414,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LCA,2021,St. Lucia,11.598783583643,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LCA,2020,St. Lucia,-24.3614732129122,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LCA,2019,St. Lucia,-0.700322396299441,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+LCA,2018,St. Lucia,2.88677902171601,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAF,2021,St. Martin (French part),4.89999967133534,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAF,2020,St. Martin (French part),-12.500002246731,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAF,2019,St. Martin (French part),6.50000363700821,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+MAF,2018,St. Martin (French part),-7.99999506898229,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VCT,2024,St. Vincent and the Grenadines,4.06183490050209,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VCT,2023,St. Vincent and the Grenadines,5.32636472098717,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VCT,2022,St. Vincent and the Grenadines,3.1108330034352,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VCT,2021,St. Vincent and the Grenadines,2.09340124465459,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VCT,2020,St. Vincent and the Grenadines,-4.26892434422649,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VCT,2019,St. Vincent and the Grenadines,0.668428481084234,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VCT,2018,St. Vincent and the Grenadines,3.1756114423991,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SDN,2024,Sudan,-13.9643375197179,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SDN,2023,Sudan,-29.4332718325149,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SDN,2022,Sudan,-0.957816591119183,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SDN,2021,Sudan,-1.8685204827207,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SDN,2020,Sudan,-3.62980082410752,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SDN,2019,Sudan,-2.17825104530091,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SDN,2018,Sudan,-2.6809305497999,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SUR,2024,Suriname,1.72095737011739,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SUR,2023,Suriname,2.41659223498058,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SUR,2022,Suriname,2.40622235601218,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SUR,2021,Suriname,-2.43538583612838,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SUR,2020,Suriname,-15.9751917148622,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SUR,2019,Suriname,1.16758977233877,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SUR,2018,Suriname,4.94827108468886,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SWE,2024,Sweden,0.820071806703865,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SWE,2023,Sweden,-0.204061304891439,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SWE,2022,Sweden,1.25543620445816,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SWE,2021,Sweden,5.2258643028773,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SWE,2020,Sweden,-1.93379704032216,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SWE,2019,Sweden,2.60823012869524,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SWE,2018,Sweden,1.7702553546772,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHE,2024,Switzerland,1.30233332541106,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHE,2023,Switzerland,0.683328174376044,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHE,2022,Switzerland,3.04406102969423,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHE,2021,Switzerland,5.55962020605844,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHE,2020,Switzerland,-2.14173712008038,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHE,2019,Switzerland,1.14198218965691,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+CHE,2018,Switzerland,2.86044579439036,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SYR,2022,Syrian Arab Republic,0.732781301861365,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SYR,2021,Syrian Arab Republic,1.85421590064124,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SYR,2020,Syrian Arab Republic,-0.697154504235129,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SYR,2019,Syrian Arab Republic,1.22070522070523,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+SYR,2018,Syrian Arab Republic,1.39317607830837,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TJK,2024,Tajikistan,8.39999980983981,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TJK,2023,Tajikistan,8.29999921651935,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TJK,2022,Tajikistan,8.00000033846364,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TJK,2021,Tajikistan,9.39999955037523,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TJK,2020,Tajikistan,4.40000111553493,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TJK,2019,Tajikistan,7.40000016310556,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TJK,2018,Tajikistan,7.5999988895536,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TZA,2024,Tanzania,5.5263138305945,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TZA,2023,Tanzania,5.06952353203394,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TZA,2022,Tanzania,4.56600576430955,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TZA,2021,Tanzania,4.32138429480482,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TZA,2020,Tanzania,1.99196460647855,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TZA,2019,Tanzania,5.79999999996723,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TZA,2018,Tanzania,5.50267599385063,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+THA,2024,Thailand,2.54182067735289,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+THA,2023,Thailand,2.01775095328327,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+THA,2022,Thailand,2.58037874709827,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+THA,2021,Thailand,1.55216608426647,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+THA,2020,Thailand,-6.05003846851622,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+THA,2019,Thailand,2.11455779628278,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+THA,2018,Thailand,4.22287028746071,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TLS,2024,Timor-Leste,-9.10069369772735,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TLS,2023,Timor-Leste,-18.135905003556,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TLS,2022,Timor-Leste,-20.5224785561874,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TLS,2021,Timor-Leste,5.36980163959615,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TLS,2020,Timor-Leste,31.7257429812373,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TLS,2019,Timor-Leste,24.2128789232326,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TLS,2018,Timor-Leste,-0.466502371512661,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TGO,2024,Togo,6.53204505563791,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TGO,2023,Togo,6.19211576941919,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TGO,2022,Togo,6.29443692019429,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TGO,2021,Togo,5.12890113701732,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TGO,2020,Togo,2.16228657424364,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TGO,2019,Togo,4.92283321360694,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TGO,2018,Togo,4.79518333086139,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TON,2023,Tonga,2.79014366862668,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TON,2022,Tonga,-2.12854452405193,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TON,2021,Tonga,-0.934926303735025,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TON,2020,Tonga,1.80618735341196,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TON,2019,Tonga,-0.285208794735084,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TON,2018,Tonga,0.527827266310538,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TTO,2024,Trinidad and Tobago,2.50920813979569,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TTO,2023,Trinidad and Tobago,1.46645947294053,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TTO,2022,Trinidad and Tobago,0.86126082651883,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TTO,2021,Trinidad and Tobago,-0.716740625909793,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TTO,2020,Trinidad and Tobago,-8.78879817831519,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TTO,2019,Trinidad and Tobago,0.467734528855885,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TTO,2018,Trinidad and Tobago,-0.945449700943314,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUN,2024,Tunisia,1.61444564976986,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUN,2023,Tunisia,0.184015548469745,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUN,2022,Tunisia,2.75228761004381,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUN,2021,Tunisia,4.73603648206102,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUN,2020,Tunisia,-8.97512622934723,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUN,2019,Tunisia,1.55009304966742,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUN,2018,Tunisia,2.60696965356362,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUR,2024,Turkiye,3.3276230893799,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUR,2023,Turkiye,5.04512369812289,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUR,2022,Turkiye,5.44122511322401,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUR,2021,Turkiye,11.811094450607,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUR,2020,Turkiye,1.80306247087255,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUR,2019,Turkiye,1.30162365464503,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUR,2018,Turkiye,3.46815306092219,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TKM,2024,Turkmenistan,6.2994265836889,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TKM,2023,Turkmenistan,6.30015758549871,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TKM,2022,Turkmenistan,6.19999993621698,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TKM,2021,Turkmenistan,6.20000001747076,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TKM,2020,Turkmenistan,5.900000048526,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TKM,2019,Turkmenistan,6.30000004226711,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TKM,2018,Turkmenistan,6.19999994137119,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TCA,2024,Turks and Caicos Islands,5.63682517443362,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TCA,2023,Turks and Caicos Islands,13.7311481139228,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TCA,2022,Turks and Caicos Islands,14.0871234168153,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TCA,2021,Turks and Caicos Islands,29.6293781722414,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TCA,2020,Turks and Caicos Islands,-33.8170973434652,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TCA,2019,Turks and Caicos Islands,4.98170549382992,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TCA,2018,Turks and Caicos Islands,6.75264845178367,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUV,2023,Tuvalu,3.85280919517032,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUV,2022,Tuvalu,0.677309361438304,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUV,2021,Tuvalu,1.8041359113616,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUV,2020,Tuvalu,-4.27493206901397,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUV,2019,Tuvalu,13.8220984406966,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+TUV,2018,Tuvalu,1.38728384151602,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UGA,2024,Uganda,6.05558075875589,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UGA,2023,Uganda,5.33697295511469,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UGA,2022,Uganda,4.58802192181773,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UGA,2021,Uganda,3.53658034070898,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UGA,2020,Uganda,2.95130642218098,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UGA,2019,Uganda,6.43874503276439,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UGA,2018,Uganda,6.30392378262997,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UKR,2024,Ukraine,2.9138222142611,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UKR,2023,Ukraine,5.53473354963334,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UKR,2022,Ukraine,-28.7585842155085,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UKR,2021,Ukraine,3.44562065945944,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UKR,2020,Ukraine,-3.75281793983162,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UKR,2019,Ukraine,3.19950386354134,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UKR,2018,Ukraine,3.48836234022659,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARE,2024,United Arab Emirates,3.99180705485398,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARE,2023,United Arab Emirates,4.30118228020602,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARE,2022,United Arab Emirates,7.51448425801082,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARE,2021,United Arab Emirates,4.55278571242283,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARE,2020,United Arab Emirates,-8.69342617885171,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARE,2019,United Arab Emirates,1.27134240761141,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ARE,2018,United Arab Emirates,1.53716683173516,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GBR,2024,United Kingdom,1.1264226705118,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GBR,2023,United Kingdom,0.271650048355255,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GBR,2022,United Kingdom,5.14970388522993,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GBR,2021,United Kingdom,8.5431118453255,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GBR,2020,United Kingdom,-10.047896637362,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GBR,2019,United Kingdom,1.25629899760824,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+GBR,2018,United Kingdom,1.55133095078786,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+USA,2024,United States,2.79300127716779,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+USA,2023,United States,2.88755600749487,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+USA,2022,United States,2.51237531986017,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+USA,2021,United States,6.05505293244555,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+USA,2020,United States,-2.16302914036166,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+USA,2019,United States,2.58382533412825,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+USA,2018,United States,2.96650506901305,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+URY,2024,Uruguay,3.10825478066172,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+URY,2023,Uruguay,0.742128785315927,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+URY,2022,Uruguay,4.48622703072073,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+URY,2021,Uruguay,5.84427312558179,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+URY,2020,Uruguay,-7.35732706484723,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+URY,2019,Uruguay,0.928351141267498,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+URY,2018,Uruguay,0.164777608940113,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UZB,2024,Uzbekistan,6.49999999997677,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UZB,2023,Uzbekistan,6.29141635082311,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UZB,2022,Uzbekistan,6.00134232203442,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UZB,2021,Uzbekistan,8.03468312640049,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UZB,2020,Uzbekistan,1.56334277260515,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UZB,2019,Uzbekistan,6.77992399655236,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+UZB,2018,Uzbekistan,5.55919572919288,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VUT,2024,Vanuatu,0.942185362275907,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VUT,2023,Vanuatu,2.093743250054,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VUT,2022,Vanuatu,5.18622862422562,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VUT,2021,Vanuatu,-1.55229489129462,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VUT,2020,Vanuatu,-4.99249142889525,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VUT,2019,Vanuatu,3.24118765540442,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VUT,2018,Vanuatu,2.90023027256446,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VEN,2024,"Venezuela, RB",5.29999999999984,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VEN,2023,"Venezuela, RB",4.00168591128376,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VEN,2022,"Venezuela, RB",8.00091310654791,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VEN,2021,"Venezuela, RB",0.955433428579269,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VEN,2020,"Venezuela, RB",-29.9985699155957,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VEN,2019,"Venezuela, RB",-27.6579678662627,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VEN,2018,"Venezuela, RB",-19.6553415972227,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VNM,2024,Viet Nam,7.09118746633975,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VNM,2023,Viet Nam,5.06502391455075,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VNM,2022,Viet Nam,8.53750046755788,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VNM,2021,Viet Nam,2.55372852648131,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VNM,2020,Viet Nam,2.86541320912272,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VNM,2019,Viet Nam,7.35926270105006,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VNM,2018,Viet Nam,7.46500685572751,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VIR,2022,Virgin Islands (U.S.),-1.31123206333498,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VIR,2021,Virgin Islands (U.S.),3.66760707873814,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VIR,2020,Virgin Islands (U.S.),-1.61493817814787,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VIR,2019,Virgin Islands (U.S.),2.90833549727343,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+VIR,2018,Virgin Islands (U.S.),1.87830687830687,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PSE,2024,West Bank and Gaza,-26.5575264529877,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PSE,2023,West Bank and Gaza,-4.55580428525744,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PSE,2022,West Bank and Gaza,4.08276027347105,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PSE,2021,West Bank and Gaza,7.01198227592003,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PSE,2020,West Bank and Gaza,-11.3184661065134,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PSE,2019,West Bank and Gaza,1.36268746558062,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+PSE,2018,West Bank and Gaza,1.22707737782703,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+YEM,2018,"Yemen, Rep.",0.752447592962554,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZMB,2024,Zambia,3.82004825518591,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZMB,2023,Zambia,5.36794285493059,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZMB,2022,Zambia,5.21122360356247,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZMB,2021,Zambia,6.23492204726448,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZMB,2020,Zambia,-2.78505506545167,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZMB,2019,Zambia,1.44130602603785,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZMB,2018,Zambia,4.03449389667165,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZWE,2024,Zimbabwe,1.74239524880791,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZWE,2023,Zimbabwe,5.3508687909833,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZWE,2022,Zimbabwe,6.13926327570213,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZWE,2021,Zimbabwe,8.46801676808001,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZWE,2020,Zimbabwe,-7.81695060188729,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZWE,2019,Zimbabwe,-6.33244976028571,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct
+ZWE,2018,Zimbabwe,5.00992154297603,NY.GDP.MKTP.KD.ZG,gdp_growth_annual_pct

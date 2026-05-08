@@ -1,0 +1,13 @@
+methodology: "inferential_comparative_observational"
+primary_estimand: "adjusted_association"
+sample_n: 43
+variables_n: 46
+causality:
+  claims_allowed: false
+  psm_is_exploratory: true
+generalization:
+  external_validation_available: false
+  leave_group_out_is_external_test: false
+model_selection:
+  q2_q5_q6_primary_scale: "continuous_or_fractional"
+  binary_median_model: "sensitivity_only"

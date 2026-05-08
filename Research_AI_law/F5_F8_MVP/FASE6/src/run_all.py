@@ -1,97 +1,147 @@
-"""Orquestador Fase 6: q4 → q1 → q3 → q2 → q5 → q6 → manifest."""
+"""Orquestador de Fase 6 v2.1+: estimación inferencial."""
 
 from __future__ import annotations
+from pathlib import Path
 import json
-import subprocess
+import pandas as pd
+import yaml
 from datetime import datetime, timezone
 
-from ._common_data import F5_F8_MVP, sha256_file, validate_bundle_hash
-from .q4_clustering import run_q4
+from ._common_data import load_feature_matrix, load_modeling_contract, validate_inferential_contract
 from .q1_investment import run_q1
-from .q3_innovation import run_q3
 from .q2_adoption import run_q2
+from .q3_innovation import run_q3
+from .q4_clustering import run_q4
 from .q5_population_usage import run_q5
 from .q6_public_sector import run_q6
 
-OUTPUTS = F5_F8_MVP / "FASE6" / "outputs"
+
+FASE6_ROOT = Path(__file__).resolve().parents[1]
+OUTPUTS = FASE6_ROOT / "outputs"
 
 
-def main():
-    print("[Fase 6 v0.4] Iniciando build-all")
-    print("[T1] Validando bundle Fase 5 v2.0 (12 archivos)...")
-    validate_bundle_hash()
-
-    print("[T2] Q4 clustering...")
-    q4_result = run_q4(seed=42, k=4)
-    print(f"  Q4 silhouettes: {q4_result}")
-
-    print("[T3] Q1 inversión...")
-    q1_result = run_q1(seed=42, n_boot=2000)
-    print(f"  Q1: {q1_result}")
-
-    print("[T4] Q3 innovación...")
-    q3_result = run_q3(seed=42, n_boot=2000)
-    print(f"  Q3: {q3_result}")
-
-    print("[T5] Q2 adopción empresarial...")
-    q2_result = run_q2(seed=42)
-    print(f"  Q2: {q2_result}")
-
-    print("[T6] Q5 uso población (NUEVO v0.2)...")
-    q5_result = run_q5(seed=42, n_boot=2000)
-    print(f"  Q5: {q5_result}")
-
-    print("[T7] Q6 sector público (NUEVO v0.2)...")
-    q6_result = run_q6(seed=42, n_boot=2000)
-    print(f"  Q6: {q6_result}")
-
-    print("[T8] Generando manifest...")
-    write_manifest()
-
-    print("[Fase 6 v0.4] build-all completado")
-
-
-def write_manifest():
+def generate_manifest(results_meta: dict) -> dict:
     try:
+        import subprocess
         git_sha = subprocess.check_output(
-            ["git", "rev-parse", "HEAD"],
-            cwd=str(F5_F8_MVP.parent), stderr=subprocess.DEVNULL,
+            ["git", "rev-parse", "HEAD"], cwd=str(FASE6_ROOT), stderr=subprocess.DEVNULL
         ).decode().strip()
     except Exception:
         git_sha = "unknown"
 
     manifest = {
-        "phase6_run_id": f"phase6_{git_sha[:8]}_{datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%S')}",
-        "version": "0.4",
+        "fase6_version": "2.1+",
         "created_at": datetime.now(timezone.utc).isoformat(),
-        "git_sha": git_sha,
-        "seed": 42,
-        "n_bootstrap": 2000,
-        "fdr_method": "benjamini_hochberg",
-        "fdr_alpha": 0.05,
-        "n_subpreguntas": 6,
-        "outputs": {},
-        "decisions_log": [
-            "F6-A: Q4 → Q1 → Q3 → Q2 → Q5 → Q6 → manifest",
-            "F6-B: bootstrap-OLS principal, PSM exploratorio caliper 0.20",
-            "F6-C: Q3 dual primary + auxiliary Stanford",
-            "F6-D: 5×10 fold + bootstrap 2000 + LOOCV",
-            "F6-E: separate Y models + consistency table + FDR",
-            "F6-F: hyperparams fixed, no GridSearch",
-            "F6-G: Q4 N=43 oficial Gower + N=18 complementario Jaccard",
-            "F6-I: lenguaje 'asociación' por defecto",
-            "F6-K: Q6 expandida con 6 vars Fase 5",
-            "F6-L: PCA fuera de scope (Fase 4 cubre análisis exploratorio)",
-            "F6-M: Q2/Q5/Q6 reuso Y",
-        ],
+        "methodology_version": "mvp-v0.2-methodology-correction-plus",
+        "methodology": "inferential_comparative_observational",
+        "primary_estimand": "adjusted_association",
+        "analysis_scope": "full_preregistered_sample_available_by_outcome",
+        "validation_scope": "internal_resampling_not_external_test",
+        "analysis_sample_n": 43,
+        "holdout_used": False,
+        "train_test_split_used": False,
+        "external_validation_used": False,
+        "split_column_present": False,
+        "phase6_train_test_split_present": False,
+        "q2_q5_q6_primary_model_policy": "continuous_or_fractional_primary_binary_median_sensitivity_only",
+        "bootstrap_policy": {
+            "n_resamples_default": 2000,
+            "ci_method_preferred": "BCa",
+            "fallback": "percentile_logged"
+        },
+        "loocv_policy": {
+            "auc_loocv_used": False,
+            "r2_loocv_used": False,
+            "reason": "undefined_for_single_observation_test_folds"
+        },
+        "language_policy": {
+            "causal_claim": False,
+            "independent_prediction_claim": False,
+            "external_validation_claim": False
+        },
+        "outputs": {
+            "q1_results.csv": "adjusted_associations",
+            "q2_results.csv": "continuous_or_fractional_adjusted_associations",
+            "q2_scores_per_country.csv": "in_sample_descriptive_positioning",
+            "q3_results.csv": "adjusted_associations",
+            "q4_clusters.csv": "descriptive_typology",
+            "q5_results.csv": "continuous_or_fractional_adjusted_associations",
+            "q5_scores_per_country.csv": "in_sample_descriptive_positioning",
+            "q6_results.csv": "continuous_score_adjusted_associations",
+            "q6_scores_per_country.csv": "in_sample_descriptive_positioning"
+        },
+        "run_metadata": results_meta
     }
-    for p in sorted(OUTPUTS.glob("*")):
-        if p.is_file() and p.name != "fase6_manifest.json":
-            manifest["outputs"][p.name] = {
-                "sha256": sha256_file(p), "bytes": p.stat().st_size,
-            }
-    with open(OUTPUTS / "fase6_manifest.json", "w") as f:
-        json.dump(manifest, f, indent=2, ensure_ascii=False)
+    return manifest
+
+
+def main():
+    print("Iniciando Fase 6 (Modelado Inferencial)...")
+    contract_status = validate_inferential_contract()
+    print(f"Contrato inferencial validado: {contract_status}")
+
+    fm = load_feature_matrix()
+    
+    # We load the design plan if available, else fallback to modeling_contract
+    try:
+        config = yaml.safe_load((FASE6_ROOT / "config" / "phase6_analysis_plan.yaml").read_text())
+    except FileNotFoundError:
+        config = load_modeling_contract()
+        
+    OUTPUTS.mkdir(exist_ok=True)
+    
+    print("Ejecutando Q1...")
+    q1 = run_q1(fm, config)
+    q1.to_csv(OUTPUTS / "q1_results.csv", index=False)
+    
+    print("Ejecutando Q2...")
+    q2, q2_scores = run_q2(fm, config)
+    q2.to_csv(OUTPUTS / "q2_results.csv", index=False)
+    q2_scores.to_csv(OUTPUTS / "q2_scores_per_country.csv", index=False)
+    
+    print("Ejecutando Q3...")
+    q3 = run_q3(fm, config)
+    q3.to_csv(OUTPUTS / "q3_results.csv", index=False)
+    
+    print("Ejecutando Q4...")
+    q4, q4_dist = run_q4(fm, config)
+    if not q4.empty:
+        q4.to_csv(OUTPUTS / "q4_clusters.csv", index=False)
+        q4_dist.to_csv(OUTPUTS / "q4_distance_matrix.csv")
+    
+    print("Ejecutando Q5...")
+    q5, q5_scores = run_q5(fm, config)
+    q5.to_csv(OUTPUTS / "q5_results.csv", index=False)
+    q5_scores.to_csv(OUTPUTS / "q5_scores_per_country.csv", index=False)
+    
+    print("Ejecutando Q6...")
+    q6, q6_scores = run_q6(fm, config)
+    q6.to_csv(OUTPUTS / "q6_results.csv", index=False)
+    q6_scores.to_csv(OUTPUTS / "q6_scores_per_country.csv", index=False)
+    
+    results_meta = {
+        "q1_rows": len(q1),
+        "q2_rows": len(q2),
+        "q3_rows": len(q3),
+        "q4_countries": len(q4),
+        "q5_rows": len(q5),
+        "q6_rows": len(q6),
+    }
+    
+    manifest = generate_manifest(results_meta)
+    (OUTPUTS / "fase6_manifest.json").write_text(json.dumps(manifest, indent=2, ensure_ascii=False))
+    
+    # Consolidate primary results and effective_n
+    primary_results = pd.concat([
+        df for df in [q1, q2, q3, q5, q6] if not df.empty
+    ], ignore_eval=True) if any(not df.empty for df in [q1, q2, q3, q5, q6]) else pd.DataFrame()
+    
+    if not primary_results.empty:
+        primary_results.to_csv(OUTPUTS / "primary_results_long.csv", index=False)
+        eff_n = primary_results[["question", "outcome", "model_family", "analysis_role", "n_effective"]].drop_duplicates()
+        eff_n.to_csv(OUTPUTS / "phase6_effective_n_by_outcome.csv", index=False)
+    
+    print("Fase 6 completada exitosamente.")
 
 
 if __name__ == "__main__":

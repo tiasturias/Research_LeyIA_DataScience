@@ -1,0 +1,1055 @@
+fig_id,entity_type,entity_name,year,variable,value
+fig_6.1.1,category,Future  prediction,,fig_6.1.1_Number of publications,220
+fig_6.1.1,category,Protein structure prediction,,fig_6.1.1_Number of publications,648
+fig_6.1.1,category,Protein-drug interactions,,fig_6.1.1_Number of publications,1127
+fig_6.1.1,category,Synthetic protein design,,fig_6.1.1_Number of publications,264
+fig_6.1.1,category,Future  prediction,,fig_6.1.1_Number of publications,402
+fig_6.1.1,category,Protein structure prediction,,fig_6.1.1_Number of publications,922
+fig_6.1.1,category,Protein-drug interactions,,fig_6.1.1_Number of publications,2097
+fig_6.1.1,category,Synthetic protein design,,fig_6.1.1_Number of publications,434
+fig_6.1.2,global,Global,2025,fig_6.1.2_Number of publications,3311
+fig_6.1.2,global,Global,2024,fig_6.1.2_Number of publications,2100
+fig_6.1.2,global,Global,2023,fig_6.1.2_Number of publications,1470
+fig_6.1.2,global,Global,2022,fig_6.1.2_Number of publications,1229
+fig_6.1.2,global,Global,2021,fig_6.1.2_Number of publications,1083
+fig_6.1.2,global,Global,2020,fig_6.1.2_Number of publications,720
+fig_6.1.2,global,Global,2019,fig_6.1.2_Number of publications,612
+fig_6.1.2,global,Global,2018,fig_6.1.2_Number of publications,431
+fig_6.1.5,model,ProGen,2020,fig_6.1.5_Parameters (Billions),1.2
+fig_6.1.5,model,ProtBert,2020,fig_6.1.5_Parameters (Billions),0.42
+fig_6.1.5,model,ProGen2,2022,fig_6.1.5_Parameters (Billions),6.4
+fig_6.1.5,model,ProtT5,2022,fig_6.1.5_Parameters (Billions),1.2
+fig_6.1.5,model,ESM2,2023,fig_6.1.5_Parameters (Billions),15
+fig_6.1.5,model,OpenCRISPR-1 (proseLM),2024,fig_6.1.5_Parameters (Billions),6.4
+fig_6.1.5,model,ESM3,2024,fig_6.1.5_Parameters (Billions),98
+fig_6.1.5,model,SHIVER,2025,fig_6.1.5_Parameters (Billions),0.043
+fig_6.1.5,model,PoET-2,2025,fig_6.1.5_Parameters (Billions),0.182
+fig_6.1.5,model,Proteina,2025,fig_6.1.5_Parameters (Billions),0.4
+fig_6.1.5,model,ProGen3,2025,fig_6.1.5_Parameters (Billions),46
+fig_6.1.5,model,MSA-Pairformer,2025,fig_6.1.5_Parameters (Billions),0.111
+fig_6.1.5,model,E1,2025,fig_6.1.5_Parameters (Billions),0.6
+fig_6.1.5,model,MSA-Transformer,2025,fig_6.1.5_Parameters (Billions),0.1
+fig_6.1.6,model,MSA-Transformer,2021,fig_6.1.6_Parameters,100M
+fig_6.1.6,model,MSA-Transformer,2021,fig_6.1.6_Average Spearman,0.45
+fig_6.1.6,model,ESM-2,2022,fig_6.1.6_Parameters,150M
+fig_6.1.6,model,ESM-2,2022,fig_6.1.6_Average Spearman,0.387
+fig_6.1.6,model,ESM-2,2022,fig_6.1.6_Parameters,3B
+fig_6.1.6,model,ESM-2,2022,fig_6.1.6_Average Spearman,0.406
+fig_6.1.6,model,ESM-2,2022,fig_6.1.6_Parameters,650M
+fig_6.1.6,model,ESM-2,2022,fig_6.1.6_Average Spearman,0.414
+fig_6.1.6,model,PoET,2023,fig_6.1.6_Parameters,200M
+fig_6.1.6,model,PoET,2023,fig_6.1.6_Average Spearman,0.47
+fig_6.1.6,model,ESMC,2024,fig_6.1.6_Parameters,600M
+fig_6.1.6,model,ESMC,2024,fig_6.1.6_Average Spearman,0.405
+fig_6.1.6,model,ESMC,2024,fig_6.1.6_Parameters,300M
+fig_6.1.6,model,ESMC,2024,fig_6.1.6_Average Spearman,0.406
+fig_6.1.6,model,E1 (Single Sequence),2025,fig_6.1.6_Parameters,150M
+fig_6.1.6,model,E1 (Single Sequence),2025,fig_6.1.6_Average Spearman,0.401
+fig_6.1.6,model,E1 (Single Sequence),2025,fig_6.1.6_Parameters,300M
+fig_6.1.6,model,E1 (Single Sequence),2025,fig_6.1.6_Average Spearman,0.416
+fig_6.1.6,model,E1 (Single Sequence),2025,fig_6.1.6_Parameters,600M
+fig_6.1.6,model,E1 (Single Sequence),2025,fig_6.1.6_Average Spearman,0.42
+fig_6.1.6,model,MSA Pairformer,2025,fig_6.1.6_Parameters,111M
+fig_6.1.6,model,MSA Pairformer,2025,fig_6.1.6_Average Spearman,0.45
+fig_6.1.6,model,E1 (Retrieval Augmented),2025,fig_6.1.6_Parameters,150M
+fig_6.1.6,model,E1 (Retrieval Augmented),2025,fig_6.1.6_Average Spearman,0.473
+fig_6.1.6,model,E1 (Retrieval Augmented),2025,fig_6.1.6_Parameters,300M
+fig_6.1.6,model,E1 (Retrieval Augmented),2025,fig_6.1.6_Average Spearman,0.475
+fig_6.1.6,model,E1 (Retrieval Augmented),2025,fig_6.1.6_Parameters,600M
+fig_6.1.6,model,E1 (Retrieval Augmented),2025,fig_6.1.6_Average Spearman,0.477
+fig_6.1.8,model,AlphaFold 2,2021,fig_6.1.8_Date of Release,7/15/21
+fig_6.1.8,model,AlphaFold 2,2021,fig_6.1.8_Model Number of Parameters,93000000
+fig_6.1.8,model,RoseTTAFold,2021,fig_6.1.8_Date of Release,7/15/21
+fig_6.1.8,model,RoseTTAFold,2021,fig_6.1.8_Model Number of Parameters,14000000
+fig_6.1.8,model,OpenFold,2022,fig_6.1.8_Date of Release,11/22/22
+fig_6.1.8,model,OpenFold,2022,fig_6.1.8_Model Number of Parameters,93000000
+fig_6.1.8,model,RoseTTAFold All Atom,2024,fig_6.1.8_Date of Release,3/7/24
+fig_6.1.8,model,RoseTTAFold All Atom,2024,fig_6.1.8_Model Number of Parameters,83000000
+fig_6.1.8,model,AlphaFold 3,2024,fig_6.1.8_Date of Release,5/8/24
+fig_6.1.8,model,AlphaFold 3,2024,fig_6.1.8_Model Number of Parameters,370000000
+fig_6.1.8,model,ESM3,2024,fig_6.1.8_Date of Release,7/1/24
+fig_6.1.8,model,ESM3,2024,fig_6.1.8_Model Number of Parameters,98000000000
+fig_6.1.8,model,HelixFold3,2024,fig_6.1.8_Date of Release,8/15/24
+fig_6.1.8,model,HelixFold3,2024,fig_6.1.8_Model Number of Parameters,370000000
+fig_6.1.8,model,Chai-1,2024,fig_6.1.8_Date of Release,9/2/24
+fig_6.1.8,model,Chai-1,2024,fig_6.1.8_Model Number of Parameters,440000000
+fig_6.1.8,model,Boltz-1,2024,fig_6.1.8_Date of Release,11/19/24
+fig_6.1.8,model,Boltz-1,2024,fig_6.1.8_Model Number of Parameters,610000000
+fig_6.1.8,model,Boltz-2,2025,fig_6.1.8_Date of Release,6/14/25
+fig_6.1.8,model,Boltz-2,2025,fig_6.1.8_Model Number of Parameters,521000000
+fig_6.1.8,model,Protenix-Tiny,2025,fig_6.1.8_Date of Release,7/7/25
+fig_6.1.8,model,Protenix-Tiny,2025,fig_6.1.8_Model Number of Parameters,109000000
+fig_6.1.8,model,Protenix-Mini,2025,fig_6.1.8_Date of Release,7/17/25
+fig_6.1.8,model,Protenix-Mini,2025,fig_6.1.8_Model Number of Parameters,135000000
+fig_6.1.8,model,SimpleFold,2025,fig_6.1.8_Date of Release,7/23/25
+fig_6.1.8,model,SimpleFold,2025,fig_6.1.8_Model Number of Parameters,3000000000
+fig_6.1.8,model,RosettaFold-3,2025,fig_6.1.8_Date of Release,8/15/25
+fig_6.1.8,model,RosettaFold-3,2025,fig_6.1.8_Model Number of Parameters,730000000
+fig_6.1.8,model,Protenix v0.7,2025,fig_6.1.8_Date of Release,11/5/25
+fig_6.1.8,model,Protenix v0.7,2025,fig_6.1.8_Model Number of Parameters,370000000
+fig_6.1.8,model,SeedFold,2025,fig_6.1.8_Date of Release,12/30/25
+fig_6.1.8,model,SeedFold,2025,fig_6.1.8_Model Number of Parameters,923000000
+fig_6.1.9,model,Chai-1,2024,fig_6.1.9_Date of Release,9/2/24
+fig_6.1.9,model,Chai-1,2024,fig_6.1.9_Model Performance,0.5123
+fig_6.1.9,model,Chai-1,2024,fig_6.1.9_Parameters,440M
+fig_6.1.9,model,HelixFold3,2024,fig_6.1.9_Date of Release,8/15/24
+fig_6.1.9,model,HelixFold3,2024,fig_6.1.9_Model Performance,0.5182
+fig_6.1.9,model,HelixFold3,2024,fig_6.1.9_Parameters,370M
+fig_6.1.9,model,Boltz-1,2024,fig_6.1.9_Date of Release,11/19/24
+fig_6.1.9,model,Boltz-1,2024,fig_6.1.9_Model Performance,0.5504
+fig_6.1.9,model,Boltz-1,2024,fig_6.1.9_Parameters,610M
+fig_6.1.9,model,AlphaFold 3,2024,fig_6.1.9_Date of Release,5/8/24
+fig_6.1.9,model,AlphaFold 3,2024,fig_6.1.9_Model Performance,0.649
+fig_6.1.9,model,AlphaFold 3,2024,fig_6.1.9_Parameters,370M
+fig_6.1.9,model,Protenix v0.7,2025,fig_6.1.9_Date of Release,11/5/25
+fig_6.1.9,model,Protenix v0.7,2025,fig_6.1.9_Model Performance,0.507
+fig_6.1.9,model,Protenix v0.7,2025,fig_6.1.9_Parameters,368M
+fig_6.1.9,model,Boltz-2,2025,fig_6.1.9_Date of Release,6/14/25
+fig_6.1.9,model,Boltz-2,2025,fig_6.1.9_Model Performance,0.539
+fig_6.1.9,model,Boltz-2,2025,fig_6.1.9_Parameters,521M
+fig_6.1.9,model,RosettaFold-3,2025,fig_6.1.9_Date of Release,8/15/25
+fig_6.1.9,model,RosettaFold-3,2025,fig_6.1.9_Model Performance,0.5728
+fig_6.1.9,model,RosettaFold-3,2025,fig_6.1.9_Parameters,730M
+fig_6.1.9,model,SeedFold,2025,fig_6.1.9_Date of Release,12/30/25
+fig_6.1.9,model,SeedFold,2025,fig_6.1.9_Model Performance,0.631
+fig_6.1.9,model,SeedFold,2025,fig_6.1.9_Parameters,923M
+fig_6.1.10,category,Overall,,fig_6.1.10_Succes rate,85.86744639
+fig_6.1.10,category,BoltzGen,,fig_6.1.10_Succes rate,98.13084112
+fig_6.1.10,category,BindCraft,,fig_6.1.10_Succes rate,88.88888889
+fig_6.1.10,category,RDFDiffusion,,fig_6.1.10_Succes rate,88.23529412
+fig_6.1.10,category,Germinal,,fig_6.1.10_Succes rate,28.57142857
+fig_6.1.10,category,Mosaic,,fig_6.1.10_Succes rate,100
+fig_6.1.10,category,Overall,,fig_6.1.10_Succes rate,9.649122807
+fig_6.1.10,category,BoltzGen,,fig_6.1.10_Succes rate,1.869158879
+fig_6.1.10,category,BindCraft,,fig_6.1.10_Succes rate,7.407407407
+fig_6.1.10,category,RDFDiffusion,,fig_6.1.10_Succes rate,17.64705882
+fig_6.1.10,category,Germinal,,fig_6.1.10_Succes rate,0
+fig_6.1.10,category,Mosaic,,fig_6.1.10_Succes rate,88.88888889
+fig_6.1.11,global,Global,2025,fig_6.1.11_Number of publications,24
+fig_6.1.11,global,Global,2024,fig_6.1.11_Number of publications,16
+fig_6.1.11,global,Global,2023,fig_6.1.11_Number of publications,14
+fig_6.1.11,global,Global,2022,fig_6.1.11_Number of publications,10
+fig_6.1.11,global,Global,2021,fig_6.1.11_Number of publications,14
+fig_6.1.11,global,Global,2020,fig_6.1.11_Number of publications,7
+fig_6.1.11,global,Global,2019,fig_6.1.11_Number of publications,9
+fig_6.1.11,global,Global,2018,fig_6.1.11_Number of publications,6
+fig_6.1.12,model,Enformer (250M),2021,fig_6.1.12_Model Size,246000000
+fig_6.1.12,model,Enformer (250M),2021,fig_6.1.12_Model Performance,0.375
+fig_6.1.12,model,Borzoi (190M),2023,fig_6.1.12_Model Size,186000000
+fig_6.1.12,model,Borzoi (190M),2023,fig_6.1.12_Model Performance,0.4
+fig_6.1.12,model,Evo 2 (40B),2025,fig_6.1.12_Model Size,40000000000
+fig_6.1.12,model,Evo 2 (40B),2025,fig_6.1.12_Model Performance,0.525
+fig_6.1.12,model,GPN-Star (200M),2025,fig_6.1.12_Model Size,200000000
+fig_6.1.12,model,GPN-Star (200M),2025,fig_6.1.12_Model Performance,0.75
+fig_6.1.13,global,Global,2021,fig_6.1.13_Number of publications,2
+fig_6.1.13,global,Global,2022,fig_6.1.13_Number of publications,16
+fig_6.1.13,global,Global,2023,fig_6.1.13_Number of publications,171
+fig_6.1.13,global,Global,2024,fig_6.1.13_Number of publications,314
+fig_6.1.13,global,Global,2025,fig_6.1.13_Number of publications,462
+fig_6.2.3,global,Global,2011,fig_6.2.3_Number of papers reporting prospective clinical trials,2
+fig_6.2.3,global,Global,2012,fig_6.2.3_Number of papers reporting prospective clinical trials,3
+fig_6.2.3,global,Global,2013,fig_6.2.3_Number of papers reporting prospective clinical trials,3
+fig_6.2.3,global,Global,2014,fig_6.2.3_Number of papers reporting prospective clinical trials,6
+fig_6.2.3,global,Global,2015,fig_6.2.3_Number of papers reporting prospective clinical trials,5
+fig_6.2.3,global,Global,2016,fig_6.2.3_Number of papers reporting prospective clinical trials,6
+fig_6.2.3,global,Global,2017,fig_6.2.3_Number of papers reporting prospective clinical trials,14
+fig_6.2.3,global,Global,2018,fig_6.2.3_Number of papers reporting prospective clinical trials,34
+fig_6.2.3,global,Global,2019,fig_6.2.3_Number of papers reporting prospective clinical trials,58
+fig_6.2.3,global,Global,2020,fig_6.2.3_Number of papers reporting prospective clinical trials,99
+fig_6.2.3,global,Global,2021,fig_6.2.3_Number of papers reporting prospective clinical trials,160
+fig_6.2.3,global,Global,2022,fig_6.2.3_Number of papers reporting prospective clinical trials,203
+fig_6.2.3,global,Global,2023,fig_6.2.3_Number of papers reporting prospective clinical trials,282
+fig_6.2.3,global,Global,2024,fig_6.2.3_Number of papers reporting prospective clinical trials,417
+fig_6.2.3,global,Global,2025,fig_6.2.3_Number of papers reporting prospective clinical trials,536
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,53.75
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,90.74074074074075
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,60.82089552238806
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,88.88888888888889
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,80.43478260869566
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,35.0
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,48.14814814814815
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,35.82089552238806
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,31.94444444444444
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,56.52173913043478
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,23.125
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,48.14814814814815
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,20.14925373134328
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,18.05555555555556
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,65.21739130434783
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,52.5
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,36.11111111111111
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,63.04347826086956
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,19.40298507462687
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,29.16666666666667
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,32.5
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,51.85185185185185
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,43.28358208955224
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,38.88888888888889
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,65.21739130434783
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,22.5
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,43.28358208955224
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,30.55555555555556
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,60.8695652173913
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,81.48148148148148
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,41.66666666666666
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,89.1304347826087
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,33.75
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,66.66666666666667
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,34.32835820895522
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,50.0
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,63.04347826086956
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,41.25
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,62.96296296296296
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,19.40298507462687
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,22.5
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,55.55555555555556
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,29.85074626865672
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,12.5
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,57.4074074074074
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,33.20895522388059
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,45.83333333333334
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,54.34782608695652
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,27.5
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,62.96296296296296
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,28.35820895522388
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,30.55555555555556
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,60.8695652173913
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,13.75
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,35.18518518518518
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,21.64179104477612
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,27.77777777777778
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,43.47826086956522
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,47.5
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,61.11111111111111
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,47.38805970149254
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,29.16666666666667
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,69.56521739130434
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,56.25
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,44.02985074626866
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,25.0
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,50.0
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,37.03703703703704
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,27.23880597014925
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,47.82608695652174
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,48.14814814814815
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,40.27777777777778
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,47.82608695652174
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,37.03703703703704
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,36.56716417910448
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,44.44444444444444
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,22.5
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,25.92592592592593
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,23.13432835820895
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,20.83333333333333
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,60.8695652173913
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,30.0
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,29.1044776119403
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,23.61111111111111
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,43.47826086956522
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,47.5
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,38.88888888888889
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,69.56521739130434
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,40.0
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,74.07407407407408
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,45.8955223880597
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,43.05555555555556
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,33.75
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,41.04477611940298
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,60.8695652173913
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,41.25
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,50.0
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,22.38805970149254
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,9.722222222222221
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,39.1304347826087
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,57.4074074074074
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,16.41791044776119
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,52.17391304347826
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,42.5
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,57.4074074074074
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,51.49253731343283
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,45.83333333333334
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,71.73913043478261
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,36.25
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,18.51851851851852
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,20.8955223880597
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,36.11111111111111
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,52.17391304347826
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,51.85185185185185
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,31.34328358208955
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,27.77777777777778
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,63.04347826086956
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,21.25
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,45.14925373134329
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,32.5
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,62.96296296296296
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,45.52238805970149
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,33.33333333333334
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,60.8695652173913
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,38.88888888888889
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,36.56716417910448
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,31.94444444444444
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,25.37313432835821
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,34.72222222222222
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,82.6086956521739
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,46.25
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,79.62962962962963
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,44.02985074626866
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,63.88888888888889
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,47.82608695652174
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,22.5
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,51.85185185185185
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,35.07462686567164
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,19.44444444444444
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,47.82608695652174
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,17.5
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,36.56716417910448
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,73.91304347826087
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,23.75
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,54.16666666666666
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,58.69565217391305
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,10.0
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,66.66666666666667
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,23.13432835820895
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,23.61111111111111
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,50.0
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,51.85185185185185
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,31.34328358208955
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,58.69565217391305
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,42.53731343283582
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,34.72222222222222
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,32.5
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,57.4074074074074
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,41.79104477611941
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,30.55555555555556
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,52.17391304347826
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,50.0
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,43.05555555555556
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,20.0
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,53.7037037037037
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,32.83582089552239
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,40.27777777777778
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,58.69565217391305
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,50.0
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,71.73913043478261
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,57.4074074074074
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,17.16417910447761
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,38.88888888888889
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,65.21739130434783
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,26.25
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,37.03703703703704
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,35.07462686567164
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,16.66666666666667
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,54.34782608695652
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,30.0
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,59.25925925925926
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,27.23880597014925
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,26.38888888888889
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,58.69565217391305
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,38.75
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,53.7037037037037
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,28.35820895522388
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,56.52173913043478
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,43.75
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,29.16666666666667
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,56.52173913043478
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,18.75
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,37.03703703703704
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,18.65671641791045
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,23.61111111111111
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,58.69565217391305
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,48.75
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,61.11111111111111
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,32.08955223880597
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,30.55555555555556
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,45.65217391304348
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,21.875
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,70.37037037037037
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,8.955223880597014
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,26.25
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,55.55555555555556
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,29.1044776119403
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,27.77777777777778
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,52.17391304347826
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,37.5
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,48.14814814814815
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,38.80597014925373
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,33.33333333333334
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,47.82608695652174
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,47.5
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,46.2962962962963
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,52.98507462686567
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,69.56521739130434
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,26.25
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,35.18518518518518
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,24.62686567164179
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,20.83333333333333
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,34.78260869565217
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,46.2962962962963
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,45.14925373134329
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,38.88888888888889
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,54.34782608695652
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,22.5
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,31.48148148148148
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,20.14925373134328
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,18.05555555555556
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,65.21739130434783
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,37.5
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,64.81481481481481
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,71.73913043478261
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,31.34328358208955
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,37.5
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,71.73913043478261
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,44.44444444444444
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,27.61194029850746
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,34.72222222222222
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,45.65217391304348
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,30.0
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,50.0
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,29.85074626865672
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,23.61111111111111
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,52.17391304347826
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,31.48148148148148
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,30.59701492537313
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,47.82608695652174
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,12.5
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,57.4074074074074
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,11.94029850746269
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,38.88888888888889
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,35.0
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,51.85185185185185
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,29.85074626865672
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,25.0
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,52.17391304347826
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,18.75
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,51.85185185185185
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,26.11940298507463
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,26.38888888888889
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,39.1304347826087
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,23.75
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,40.74074074074074
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,23.13432835820895
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,20.83333333333333
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,43.47826086956522
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,27.5
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,18.51851851851852
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,36.56716417910448
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,20.83333333333333
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,54.34782608695652
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,21.25
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,37.03703703703704
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,33.33333333333334
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,25.0
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,48.88059701492537
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,86.95652173913044
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,57.4074074074074
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,41.41791044776119
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,38.88888888888889
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,58.69565217391305
+fig_6.2.4,category,o1-preview Only,,fig_6.2.4_total_pct,86.25
+fig_6.2.4,category,o1-preview Only,,fig_6.2.4_total_pct,92.5925925925926
+fig_6.2.4,category,o1-preview Only,,fig_6.2.4_total_pct,68.65671641791045
+fig_6.2.4,category,o1-preview Only,,fig_6.2.4_total_pct,91.66666666666667
+fig_6.2.4,category,o1-preview Only,,fig_6.2.4_total_pct,91.30434782608695
+fig_6.2.4,category,o1-preview Only,,fig_6.2.4_total_pct,78.75
+fig_6.2.4,category,o1-preview Only,,fig_6.2.4_total_pct,96.29629629629629
+fig_6.2.4,category,o1-preview Only,,fig_6.2.4_total_pct,67.16417910447761
+fig_6.2.4,category,o1-preview Only,,fig_6.2.4_total_pct,88.88888888888889
+fig_6.2.4,category,o1-preview Only,,fig_6.2.4_total_pct,91.30434782608695
+fig_6.2.4,category,o1-preview Only,,fig_6.2.4_total_pct,78.75
+fig_6.2.4,category,o1-preview Only,,fig_6.2.4_total_pct,92.5925925925926
+fig_6.2.4,category,o1-preview Only,,fig_6.2.4_total_pct,74.6268656716418
+fig_6.2.4,category,o1-preview Only,,fig_6.2.4_total_pct,88.88888888888889
+fig_6.2.4,category,o1-preview Only,,fig_6.2.4_total_pct,82.6086956521739
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,26.25
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,24.07407407407407
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,20.8955223880597
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,25.0
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,50.0
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,40.74074074074074
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,35.07462686567164
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,25.0
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,54.34782608695652
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,27.5
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,44.44444444444444
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,32.83582089552239
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,33.33333333333334
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,52.17391304347826
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,12.5
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,25.92592592592593
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,4.477611940298507
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,16.66666666666667
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,50.0
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,20.0
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,22.22222222222222
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,19.44444444444444
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,41.30434782608695
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,6.25
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,20.37037037037037
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,11.94029850746269
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,31.94444444444444
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,17.39130434782609
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,5.0
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,16.66666666666667
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,20.14925373134328
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,15.27777777777778
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,19.56521739130435
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,12.5
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,40.74074074074074
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,35.82089552238806
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,18.75
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,57.4074074074074
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,14.55223880597015
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,20.83333333333333
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,58.69565217391305
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,28.75
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,48.14814814814815
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,24.62686567164179
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,43.05555555555556
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,60.8695652173913
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,15.0
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,40.74074074074074
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,35.82089552238806
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,19.44444444444444
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,65.21739130434783
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,16.875
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,29.62962962962963
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,13.43283582089552
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,39.1304347826087
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,25.0
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,40.74074074074074
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,32.08955223880597
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,36.11111111111111
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,54.34782608695652
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,33.75
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,25.92592592592593
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,11.94029850746269
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,63.88888888888889
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,43.47826086956522
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,36.25
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,72.22222222222223
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,47.76119402985075
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,20.83333333333333
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,45.65217391304348
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,47.5
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,29.1044776119403
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,41.66666666666666
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,13.75
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,42.5925925925926
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,18.65671641791045
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,13.88888888888889
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,63.04347826086956
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,55.55555555555556
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,35.07462686567164
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,44.44444444444444
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,36.95652173913044
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,40.0
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,51.85185185185185
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,35.82089552238806
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,31.94444444444444
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,58.69565217391305
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,22.5
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,37.03703703703704
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,20.52238805970149
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,20.83333333333333
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,52.17391304347826
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,47.5
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,42.5925925925926
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,27.5
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,57.4074074074074
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,26.25
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,46.2962962962963
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,31.34328358208955
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,13.88888888888889
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,45.65217391304348
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,37.5
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,66.66666666666667
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,39.55223880597015
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,47.22222222222222
+fig_6.2.4,category,Physicians + GPT-4,,fig_6.2.4_total_pct,50.0
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,34.375
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,29.62962962962963
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,29.85074626865672
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,22.22222222222222
+fig_6.2.4,category,Physicians + Resources,,fig_6.2.4_total_pct,52.17391304347826
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,25.0
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,51.85185185185185
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,41.79104477611941
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,38.88888888888889
+fig_6.2.4,category,GPT-4 Only,,fig_6.2.4_total_pct,76.08695652173913
+fig_6.2.5,category,Cardiovascular,2011,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Cardiovascular,2012,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Cardiovascular,2013,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Cardiovascular,2014,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Cardiovascular,2015,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Cardiovascular,2016,fig_6.2.5_num_cleared_devices,4
+fig_6.2.5,category,Cardiovascular,2017,fig_6.2.5_num_cleared_devices,7
+fig_6.2.5,category,Cardiovascular,2018,fig_6.2.5_num_cleared_devices,10
+fig_6.2.5,category,Cardiovascular,2019,fig_6.2.5_num_cleared_devices,15
+fig_6.2.5,category,Cardiovascular,2020,fig_6.2.5_num_cleared_devices,8
+fig_6.2.5,category,Cardiovascular,2021,fig_6.2.5_num_cleared_devices,12
+fig_6.2.5,category,Cardiovascular,2022,fig_6.2.5_num_cleared_devices,14
+fig_6.2.5,category,Cardiovascular,2023,fig_6.2.5_num_cleared_devices,21
+fig_6.2.5,category,Cardiovascular,2024,fig_6.2.5_num_cleared_devices,15
+fig_6.2.5,category,Cardiovascular,2025,fig_6.2.5_num_cleared_devices,20
+fig_6.2.5,category,Gastroenterology-Urology,2011,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Gastroenterology-Urology,2012,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Gastroenterology-Urology,2013,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Gastroenterology-Urology,2014,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Gastroenterology-Urology,2015,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Gastroenterology-Urology,2016,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Gastroenterology-Urology,2017,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Gastroenterology-Urology,2018,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Gastroenterology-Urology,2019,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Gastroenterology-Urology,2020,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Gastroenterology-Urology,2021,fig_6.2.5_num_cleared_devices,3
+fig_6.2.5,category,Gastroenterology-Urology,2022,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Gastroenterology-Urology,2023,fig_6.2.5_num_cleared_devices,5
+fig_6.2.5,category,Gastroenterology-Urology,2024,fig_6.2.5_num_cleared_devices,5
+fig_6.2.5,category,Gastroenterology-Urology,2025,fig_6.2.5_num_cleared_devices,6
+fig_6.2.5,category,Neurology,2011,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Neurology,2012,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Neurology,2013,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Neurology,2014,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Neurology,2015,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Neurology,2016,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Neurology,2017,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Neurology,2018,fig_6.2.5_num_cleared_devices,6
+fig_6.2.5,category,Neurology,2019,fig_6.2.5_num_cleared_devices,5
+fig_6.2.5,category,Neurology,2020,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Neurology,2021,fig_6.2.5_num_cleared_devices,3
+fig_6.2.5,category,Neurology,2022,fig_6.2.5_num_cleared_devices,2
+fig_6.2.5,category,Neurology,2023,fig_6.2.5_num_cleared_devices,11
+fig_6.2.5,category,Neurology,2024,fig_6.2.5_num_cleared_devices,15
+fig_6.2.5,category,Neurology,2025,fig_6.2.5_num_cleared_devices,15
+fig_6.2.5,category,Ophthalmic,2011,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Ophthalmic,2012,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Ophthalmic,2013,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Ophthalmic,2014,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Ophthalmic,2015,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Ophthalmic,2016,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Ophthalmic,2017,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Ophthalmic,2018,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Ophthalmic,2019,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Ophthalmic,2020,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Ophthalmic,2021,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Ophthalmic,2022,fig_6.2.5_num_cleared_devices,2
+fig_6.2.5,category,Ophthalmic,2023,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Ophthalmic,2024,fig_6.2.5_num_cleared_devices,2
+fig_6.2.5,category,Ophthalmic,2025,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Orthopedic,2011,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Orthopedic,2012,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Orthopedic,2013,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Orthopedic,2014,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Orthopedic,2015,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Orthopedic,2016,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Orthopedic,2017,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Orthopedic,2018,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Orthopedic,2019,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Orthopedic,2020,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Orthopedic,2021,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Orthopedic,2022,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Orthopedic,2023,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Orthopedic,2024,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Orthopedic,2025,fig_6.2.5_num_cleared_devices,3
+fig_6.2.5,category,Pathology,2011,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Pathology,2012,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Pathology,2013,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Pathology,2014,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Pathology,2015,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Pathology,2016,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Pathology,2017,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Pathology,2018,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Pathology,2019,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Pathology,2020,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Pathology,2021,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Pathology,2022,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Pathology,2023,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Pathology,2024,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Pathology,2025,fig_6.2.5_num_cleared_devices,3
+fig_6.2.5,category,Radiology,2011,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Radiology,2012,fig_6.2.5_num_cleared_devices,2
+fig_6.2.5,category,Radiology,2013,fig_6.2.5_num_cleared_devices,0
+fig_6.2.5,category,Radiology,2014,fig_6.2.5_num_cleared_devices,5
+fig_6.2.5,category,Radiology,2015,fig_6.2.5_num_cleared_devices,1
+fig_6.2.5,category,Radiology,2016,fig_6.2.5_num_cleared_devices,11
+fig_6.2.5,category,Radiology,2017,fig_6.2.5_num_cleared_devices,16
+fig_6.2.5,category,Radiology,2018,fig_6.2.5_num_cleared_devices,40
+fig_6.2.5,category,Radiology,2019,fig_6.2.5_num_cleared_devices,51
+fig_6.2.5,category,Radiology,2020,fig_6.2.5_num_cleared_devices,99
+fig_6.2.5,category,Radiology,2021,fig_6.2.5_num_cleared_devices,110
+fig_6.2.5,category,Radiology,2022,fig_6.2.5_num_cleared_devices,138
+fig_6.2.5,category,Radiology,2023,fig_6.2.5_num_cleared_devices,178
+fig_6.2.5,category,Radiology,2024,fig_6.2.5_num_cleared_devices,183
+fig_6.2.5,category,Radiology,2025,fig_6.2.5_num_cleared_devices,198
+fig_6.2.6,global,Global,1995,fig_6.2.6_Number of AI medical devices,2
+fig_6.2.6,global,Global,1996,fig_6.2.6_Number of AI medical devices,0
+fig_6.2.6,global,Global,1997,fig_6.2.6_Number of AI medical devices,1
+fig_6.2.6,global,Global,1998,fig_6.2.6_Number of AI medical devices,2
+fig_6.2.6,global,Global,1999,fig_6.2.6_Number of AI medical devices,0
+fig_6.2.6,global,Global,2000,fig_6.2.6_Number of AI medical devices,0
+fig_6.2.6,global,Global,2001,fig_6.2.6_Number of AI medical devices,2
+fig_6.2.6,global,Global,2002,fig_6.2.6_Number of AI medical devices,1
+fig_6.2.6,global,Global,2003,fig_6.2.6_Number of AI medical devices,0
+fig_6.2.6,global,Global,2004,fig_6.2.6_Number of AI medical devices,1
+fig_6.2.6,global,Global,2005,fig_6.2.6_Number of AI medical devices,1
+fig_6.2.6,global,Global,2006,fig_6.2.6_Number of AI medical devices,1
+fig_6.2.6,global,Global,2007,fig_6.2.6_Number of AI medical devices,0
+fig_6.2.6,global,Global,2008,fig_6.2.6_Number of AI medical devices,5
+fig_6.2.6,global,Global,2009,fig_6.2.6_Number of AI medical devices,0
+fig_6.2.6,global,Global,2010,fig_6.2.6_Number of AI medical devices,2
+fig_6.2.6,global,Global,2011,fig_6.2.6_Number of AI medical devices,3
+fig_6.2.6,global,Global,2012,fig_6.2.6_Number of AI medical devices,5
+fig_6.2.6,global,Global,2013,fig_6.2.6_Number of AI medical devices,4
+fig_6.2.6,global,Global,2014,fig_6.2.6_Number of AI medical devices,6
+fig_6.2.6,global,Global,2015,fig_6.2.6_Number of AI medical devices,6
+fig_6.2.6,global,Global,2016,fig_6.2.6_Number of AI medical devices,18
+fig_6.2.6,global,Global,2017,fig_6.2.6_Number of AI medical devices,27
+fig_6.2.6,global,Global,2018,fig_6.2.6_Number of AI medical devices,65
+fig_6.2.6,global,Global,2019,fig_6.2.6_Number of AI medical devices,80
+fig_6.2.6,global,Global,2020,fig_6.2.6_Number of AI medical devices,114
+fig_6.2.6,global,Global,2021,fig_6.2.6_Number of AI medical devices,130
+fig_6.2.6,global,Global,2022,fig_6.2.6_Number of AI medical devices,162
+fig_6.2.6,global,Global,2023,fig_6.2.6_Number of AI medical devices,226
+fig_6.2.6,global,Global,2024,fig_6.2.6_Number of AI medical devices,235
+fig_6.2.6,global,Global,2025,fig_6.2.6_Number of AI medical devices,258
+fig_6.2.6,global,Global,1995,fig_6.2.6_Number of AI medical devices,2
+fig_6.2.6,global,Global,1996,fig_6.2.6_Number of AI medical devices,2
+fig_6.2.6,global,Global,1997,fig_6.2.6_Number of AI medical devices,3
+fig_6.2.6,global,Global,1998,fig_6.2.6_Number of AI medical devices,5
+fig_6.2.6,global,Global,1999,fig_6.2.6_Number of AI medical devices,5
+fig_6.2.6,global,Global,2000,fig_6.2.6_Number of AI medical devices,5
+fig_6.2.6,global,Global,2001,fig_6.2.6_Number of AI medical devices,7
+fig_6.2.6,global,Global,2002,fig_6.2.6_Number of AI medical devices,8
+fig_6.2.6,global,Global,2003,fig_6.2.6_Number of AI medical devices,8
+fig_6.2.6,global,Global,2004,fig_6.2.6_Number of AI medical devices,9
+fig_6.2.6,global,Global,2005,fig_6.2.6_Number of AI medical devices,10
+fig_6.2.6,global,Global,2006,fig_6.2.6_Number of AI medical devices,11
+fig_6.2.6,global,Global,2007,fig_6.2.6_Number of AI medical devices,11
+fig_6.2.6,global,Global,2008,fig_6.2.6_Number of AI medical devices,16
+fig_6.2.6,global,Global,2009,fig_6.2.6_Number of AI medical devices,16
+fig_6.2.6,global,Global,2010,fig_6.2.6_Number of AI medical devices,18
+fig_6.2.6,global,Global,2011,fig_6.2.6_Number of AI medical devices,21
+fig_6.2.6,global,Global,2012,fig_6.2.6_Number of AI medical devices,26
+fig_6.2.6,global,Global,2013,fig_6.2.6_Number of AI medical devices,30
+fig_6.2.6,global,Global,2014,fig_6.2.6_Number of AI medical devices,36
+fig_6.2.6,global,Global,2015,fig_6.2.6_Number of AI medical devices,42
+fig_6.2.6,global,Global,2016,fig_6.2.6_Number of AI medical devices,60
+fig_6.2.6,global,Global,2017,fig_6.2.6_Number of AI medical devices,87
+fig_6.2.6,global,Global,2018,fig_6.2.6_Number of AI medical devices,152
+fig_6.2.6,global,Global,2019,fig_6.2.6_Number of AI medical devices,232
+fig_6.2.6,global,Global,2020,fig_6.2.6_Number of AI medical devices,346
+fig_6.2.6,global,Global,2021,fig_6.2.6_Number of AI medical devices,476
+fig_6.2.6,global,Global,2022,fig_6.2.6_Number of AI medical devices,638
+fig_6.2.6,global,Global,2023,fig_6.2.6_Number of AI medical devices,864
+fig_6.2.6,global,Global,2024,fig_6.2.6_Number of AI medical devices,1099
+fig_6.2.6,global,Global,2025,fig_6.2.6_Number of AI medical devices,1357
+fig_6.2.7,category,Immunology,,fig_6.2.7_Number of Devices,1
+fig_6.2.7,category,Obstetrics and Gynecology,,fig_6.2.7_Number of Devices,4
+fig_6.2.7,category,General Hospital,,fig_6.2.7_Number of Devices,4
+fig_6.2.7,category,Orthopedic,,fig_6.2.7_Number of Devices,5
+fig_6.2.7,category,Dental,,fig_6.2.7_Number of Devices,5
+fig_6.2.7,category,Clinical Toxcicology,,fig_6.2.7_Number of Devices,5
+fig_6.2.7,category,General and Plastic Surgery,,fig_6.2.7_Number of Devices,6
+fig_6.2.7,category,Microbiology,,fig_6.2.7_Number of Devices,6
+fig_6.2.7,category,Pathology,,fig_6.2.7_Number of Devices,8
+fig_6.2.7,category,Clinical Chemistry,,fig_6.2.7_Number of Devices,9
+fig_6.2.7,category,Ophthalmic,,fig_6.2.7_Number of Devices,10
+fig_6.2.7,category,Hematology,,fig_6.2.7_Number of Devices,20
+fig_6.2.7,category,Gastroenterology-Urology,,fig_6.2.7_Number of Devices,21
+fig_6.2.7,category,Anesthesiology,,fig_6.2.7_Number of Devices,23
+fig_6.2.7,category,Neurology,,fig_6.2.7_Number of Devices,61
+fig_6.2.7,category,Cardiovascular,,fig_6.2.7_Number of Devices,130
+fig_6.2.7,category,Radiology,,fig_6.2.7_Number of Devices,1039
+fig_6.2.8,category,Radiology,2016,fig_6.2.8_value,11
+fig_6.2.8,category,Cardiovascular,2016,fig_6.2.8_value,4
+fig_6.2.8,category,Neurology,2016,fig_6.2.8_value,1
+fig_6.2.8,category,Anesthesiology,2016,fig_6.2.8_value,0
+fig_6.2.8,category,Hematology,2016,fig_6.2.8_value,0
+fig_6.2.8,category,Gastroenterology-Urology,2016,fig_6.2.8_value,0
+fig_6.2.8,category,Other,2016,fig_6.2.8_value,2
+fig_6.2.8,category,Radiology,2017,fig_6.2.8_value,16
+fig_6.2.8,category,Cardiovascular,2017,fig_6.2.8_value,7
+fig_6.2.8,category,Neurology,2017,fig_6.2.8_value,0
+fig_6.2.8,category,Anesthesiology,2017,fig_6.2.8_value,1
+fig_6.2.8,category,Hematology,2017,fig_6.2.8_value,1
+fig_6.2.8,category,Gastroenterology-Urology,2017,fig_6.2.8_value,0
+fig_6.2.8,category,Other,2017,fig_6.2.8_value,2
+fig_6.2.8,category,Radiology,2018,fig_6.2.8_value,40
+fig_6.2.8,category,Cardiovascular,2018,fig_6.2.8_value,10
+fig_6.2.8,category,Neurology,2018,fig_6.2.8_value,6
+fig_6.2.8,category,Anesthesiology,2018,fig_6.2.8_value,0
+fig_6.2.8,category,Hematology,2018,fig_6.2.8_value,2
+fig_6.2.8,category,Gastroenterology-Urology,2018,fig_6.2.8_value,1
+fig_6.2.8,category,Other,2018,fig_6.2.8_value,6
+fig_6.2.8,category,Radiology,2019,fig_6.2.8_value,51
+fig_6.2.8,category,Cardiovascular,2019,fig_6.2.8_value,15
+fig_6.2.8,category,Neurology,2019,fig_6.2.8_value,5
+fig_6.2.8,category,Anesthesiology,2019,fig_6.2.8_value,1
+fig_6.2.8,category,Hematology,2019,fig_6.2.8_value,1
+fig_6.2.8,category,Gastroenterology-Urology,2019,fig_6.2.8_value,0
+fig_6.2.8,category,Other,2019,fig_6.2.8_value,7
+fig_6.2.8,category,Radiology,2020,fig_6.2.8_value,99
+fig_6.2.8,category,Cardiovascular,2020,fig_6.2.8_value,8
+fig_6.2.8,category,Neurology,2020,fig_6.2.8_value,1
+fig_6.2.8,category,Anesthesiology,2020,fig_6.2.8_value,1
+fig_6.2.8,category,Hematology,2020,fig_6.2.8_value,3
+fig_6.2.8,category,Gastroenterology-Urology,2020,fig_6.2.8_value,0
+fig_6.2.8,category,Other,2020,fig_6.2.8_value,2
+fig_6.2.8,category,Radiology,2021,fig_6.2.8_value,110
+fig_6.2.8,category,Cardiovascular,2021,fig_6.2.8_value,12
+fig_6.2.8,category,Neurology,2021,fig_6.2.8_value,3
+fig_6.2.8,category,Anesthesiology,2021,fig_6.2.8_value,0
+fig_6.2.8,category,Hematology,2021,fig_6.2.8_value,0
+fig_6.2.8,category,Gastroenterology-Urology,2021,fig_6.2.8_value,3
+fig_6.2.8,category,Other,2021,fig_6.2.8_value,2
+fig_6.2.8,category,Radiology,2022,fig_6.2.8_value,138
+fig_6.2.8,category,Cardiovascular,2022,fig_6.2.8_value,14
+fig_6.2.8,category,Neurology,2022,fig_6.2.8_value,2
+fig_6.2.8,category,Anesthesiology,2022,fig_6.2.8_value,2
+fig_6.2.8,category,Hematology,2022,fig_6.2.8_value,2
+fig_6.2.8,category,Gastroenterology-Urology,2022,fig_6.2.8_value,1
+fig_6.2.8,category,Other,2022,fig_6.2.8_value,3
+fig_6.2.8,category,Radiology,2023,fig_6.2.8_value,178
+fig_6.2.8,category,Cardiovascular,2023,fig_6.2.8_value,21
+fig_6.2.8,category,Neurology,2023,fig_6.2.8_value,11
+fig_6.2.8,category,Anesthesiology,2023,fig_6.2.8_value,5
+fig_6.2.8,category,Hematology,2023,fig_6.2.8_value,1
+fig_6.2.8,category,Gastroenterology-Urology,2023,fig_6.2.8_value,5
+fig_6.2.8,category,Other,2023,fig_6.2.8_value,5
+fig_6.2.8,category,Radiology,2024,fig_6.2.8_value,183
+fig_6.2.8,category,Cardiovascular,2024,fig_6.2.8_value,15
+fig_6.2.8,category,Neurology,2024,fig_6.2.8_value,15
+fig_6.2.8,category,Anesthesiology,2024,fig_6.2.8_value,5
+fig_6.2.8,category,Hematology,2024,fig_6.2.8_value,1
+fig_6.2.8,category,Gastroenterology-Urology,2024,fig_6.2.8_value,5
+fig_6.2.8,category,Other,2024,fig_6.2.8_value,11
+fig_6.2.8,category,Radiology,2025,fig_6.2.8_value,198
+fig_6.2.8,category,Cardiovascular,2025,fig_6.2.8_value,20
+fig_6.2.8,category,Neurology,2025,fig_6.2.8_value,15
+fig_6.2.8,category,Anesthesiology,2025,fig_6.2.8_value,5
+fig_6.2.8,category,Hematology,2025,fig_6.2.8_value,3
+fig_6.2.8,category,Gastroenterology-Urology,2025,fig_6.2.8_value,6
+fig_6.2.8,category,Other,2025,fig_6.2.8_value,11
+fig_6.2.9,organization,Qure.ai Technologies,,fig_6.2.9_Number of Authorized Devices,8
+fig_6.2.9,organization,RaySearch Laboratories AB (publ),,fig_6.2.9_Number of Authorized Devices,8
+fig_6.2.9,organization,Zebra Medical Vision,,fig_6.2.9_Number of Authorized Devices,9
+fig_6.2.9,organization,Brainlab,,fig_6.2.9_Number of Authorized Devices,10
+fig_6.2.9,organization,Clarius Mobile Health Corp.,,fig_6.2.9_Number of Authorized Devices,11
+fig_6.2.9,organization,Viz.ai,,fig_6.2.9_Number of Authorized Devices,12
+fig_6.2.9,organization,Hyperfine,,fig_6.2.9_Number of Authorized Devices,12
+fig_6.2.9,organization,iSchemaView,,fig_6.2.9_Number of Authorized Devices,20
+fig_6.2.9,organization,Samsung,,fig_6.2.9_Number of Authorized Devices,20
+fig_6.2.9,organization,"Aidoc Medical, Ltd.",,fig_6.2.9_Number of Authorized Devices,30
+fig_6.2.9,organization,Canon Medical Systems Corporation,,fig_6.2.9_Number of Authorized Devices,35
+fig_6.2.9,organization,Philips Healthcare,,fig_6.2.9_Number of Authorized Devices,36
+fig_6.2.9,organization,Shanghai United Imaging Healthcare,,fig_6.2.9_Number of Authorized Devices,38
+fig_6.2.9,organization,Siemens Healthineers,,fig_6.2.9_Number of Authorized Devices,82
+fig_6.2.9,organization,GE Healthcare,,fig_6.2.9_Number of Authorized Devices,93
+fig_6.2.11,global,Global,2015,fig_6.2.11_Number of publications,0
+fig_6.2.11,global,Global,2016,fig_6.2.11_Number of publications,0
+fig_6.2.11,global,Global,2017,fig_6.2.11_Number of publications,0
+fig_6.2.11,global,Global,2018,fig_6.2.11_Number of publications,1
+fig_6.2.11,global,Global,2019,fig_6.2.11_Number of publications,6
+fig_6.2.11,global,Global,2020,fig_6.2.11_Number of publications,16
+fig_6.2.11,global,Global,2021,fig_6.2.11_Number of publications,47
+fig_6.2.11,global,Global,2022,fig_6.2.11_Number of publications,55
+fig_6.2.11,global,Global,2023,fig_6.2.11_Number of publications,116
+fig_6.2.11,global,Global,2024,fig_6.2.11_Number of publications,176
+fig_6.2.11,global,Global,2025,fig_6.2.11_Number of publications,372
+fig_6.2.12,global,Global,2015,fig_6.2.12_Number of patent filings,0
+fig_6.2.12,global,Global,2016,fig_6.2.12_Number of patent filings,30
+fig_6.2.12,global,Global,2017,fig_6.2.12_Number of patent filings,106
+fig_6.2.12,global,Global,2018,fig_6.2.12_Number of patent filings,292
+fig_6.2.12,global,Global,2019,fig_6.2.12_Number of patent filings,478
+fig_6.2.12,global,Global,2020,fig_6.2.12_Number of patent filings,667
+fig_6.2.12,global,Global,2021,fig_6.2.12_Number of patent filings,1159
+fig_6.2.12,global,Global,2022,fig_6.2.12_Number of patent filings,2395
+fig_6.2.12,global,Global,2023,fig_6.2.12_Number of patent filings,3878
+fig_6.2.12,global,Global,2024,fig_6.2.12_Number of patent filings,4926
+fig_6.2.12,global,Global,2025,fig_6.2.12_Number of patent filings,4087
+fig_6.3.1,category,"Condition queries (e.g., “dementia”)",,fig_6.3.1_% with AI Overview,0.84
+fig_6.3.1,category,"Condition question queries (e.g., “what is dementia?”)",,fig_6.3.1_% with AI Overview,0.88
+fig_6.3.1,category,"Treatment queries (e.g., “dementia treatment”)",,fig_6.3.1_% with AI Overview,0.9
+fig_6.3.1,category,"Symptom queries (e.g., “dementia symptoms”)",,fig_6.3.1_% with AI Overview,0.92
+fig_6.3.1,category,"Common health queries  (e.g., “does pus mean it is infected?”)",,fig_6.3.1_% with AI Overview,0.92
+fig_6.3.2,global,Global,2020,fig_6.3.2_Number of publications,9
+fig_6.3.2,global,Global,2021,fig_6.3.2_Number of publications,11
+fig_6.3.2,global,Global,2022,fig_6.3.2_Number of publications,6
+fig_6.3.2,global,Global,2023,fig_6.3.2_Number of publications,28
+fig_6.3.2,global,Global,2024,fig_6.3.2_Number of publications,48
+fig_6.3.2,global,Global,2025,fig_6.3.2_Number of publications,102
+fig_6.3.4,category,Anesthesia,,fig_6.3.4_Volume of Publications,1.0
+fig_6.3.4,category,Nephrology,,fig_6.3.4_Volume of Publications,1.0
+fig_6.3.4,category,Hematology,,fig_6.3.4_Volume of Publications,1.0
+fig_6.3.4,category,Geriatrics,,fig_6.3.4_Volume of Publications,1.0
+fig_6.3.4,category,ENT,,fig_6.3.4_Volume of Publications,1.0
+fig_6.3.4,category,PM&R,,fig_6.3.4_Volume of Publications,1.0
+fig_6.3.4,category,Neurosurgery,,fig_6.3.4_Volume of Publications,1.0
+fig_6.3.4,category,Thoracic Surgery,,fig_6.3.4_Volume of Publications,1.0
+fig_6.3.4,category,Transplant,,fig_6.3.4_Volume of Publications,1.0
+fig_6.3.4,category,Palliative Care,,fig_6.3.4_Volume of Publications,2.0
+fig_6.3.4,category,Gastroenterology,,fig_6.3.4_Volume of Publications,2.0
+fig_6.3.4,category,Endocrinology,,fig_6.3.4_Volume of Publications,2.0
+fig_6.3.4,category,Rheumatology,,fig_6.3.4_Volume of Publications,2.0
+fig_6.3.4,category,Genetics/Genomics,,fig_6.3.4_Volume of Publications,3.0
+fig_6.3.4,category,Ortho,,fig_6.3.4_Volume of Publications,3.0
+fig_6.3.4,category,Pediatric,,fig_6.3.4_Volume of Publications,3.0
+fig_6.3.4,category,Emergency Medicine,,fig_6.3.4_Volume of Publications,5.0
+fig_6.3.4,category,Cardiology,,fig_6.3.4_Volume of Publications,5.0
+fig_6.3.4,category,Neurology,,fig_6.3.4_Volume of Publications,6.0
+fig_6.3.4,category,Urology,,fig_6.3.4_Volume of Publications,6.0
+fig_6.3.4,category,Dermatology,,fig_6.3.4_Volume of Publications,7.0
+fig_6.3.4,category,Dentistry,,fig_6.3.4_Volume of Publications,7.0
+fig_6.3.4,category,Surgery (general),,fig_6.3.4_Volume of Publications,7.0
+fig_6.3.4,category,Ophthalmology,,fig_6.3.4_Volume of Publications,7.0
+fig_6.3.4,category,Psychiatry,,fig_6.3.4_Volume of Publications,10.0
+fig_6.3.4,category,Oncology,,fig_6.3.4_Volume of Publications,12.0
+fig_6.3.4,category,OB/Gyn,,fig_6.3.4_Volume of Publications,12.0
+fig_6.3.4,category,Radiology,,fig_6.3.4_Volume of Publications,16.0
+fig_6.3.4,category,Internal Medicine,,fig_6.3.4_Volume of Publications,24.0
+fig_6.3.4,category,General Healthcare,,fig_6.3.4_Volume of Publications,70.0
+fig_6.3.5,country,US,,fig_6.3.5_Volume of Publications,62
+fig_6.3.5,country,United Kingdom,,fig_6.3.5_Volume of Publications,27
+fig_6.3.5,country,Germany,,fig_6.3.5_Volume of Publications,24
+fig_6.3.5,country,Canada,,fig_6.3.5_Volume of Publications,13
+fig_6.3.5,country,China,,fig_6.3.5_Volume of Publications,9
+fig_6.3.5,country,Saudi Arabia,,fig_6.3.5_Volume of Publications,7
+fig_6.3.5,country,Australia,,fig_6.3.5_Volume of Publications,6
+fig_6.3.5,country,Switzerland,,fig_6.3.5_Volume of Publications,6
+fig_6.3.5,country,Denmark,,fig_6.3.5_Volume of Publications,5
+fig_6.3.5,country,South Korea,,fig_6.3.5_Volume of Publications,5
+fig_6.3.5,country,Netherlands,,fig_6.3.5_Volume of Publications,5
+fig_6.3.5,country,France,,fig_6.3.5_Volume of Publications,4
+fig_6.3.5,country,Norway,,fig_6.3.5_Volume of Publications,4
+fig_6.3.5,country,Ireland,,fig_6.3.5_Volume of Publications,3
+fig_6.3.5,country,Spain,,fig_6.3.5_Volume of Publications,3
+fig_6.3.5,country,Sweden,,fig_6.3.5_Volume of Publications,3
+fig_6.3.5,country,International,,fig_6.3.5_Volume of Publications,3
+fig_6.3.5,country,Japan,,fig_6.3.5_Volume of Publications,3
+fig_6.3.5,country,Italy,,fig_6.3.5_Volume of Publications,2
+fig_6.3.5,country,Brazil,,fig_6.3.5_Volume of Publications,2
+fig_6.3.5,country,New Zealand,,fig_6.3.5_Volume of Publications,2
+fig_6.3.5,country,Turkey,,fig_6.3.5_Volume of Publications,2
+fig_6.3.5,country,India,,fig_6.3.5_Volume of Publications,2
+fig_6.3.5,country,Israel,,fig_6.3.5_Volume of Publications,2
+fig_6.3.5,country,Malaysia,,fig_6.3.5_Volume of Publications,2
+fig_6.3.5,country,Portugal,,fig_6.3.5_Volume of Publications,2
+fig_6.3.5,country,Belgium,,fig_6.3.5_Volume of Publications,1
+fig_6.3.5,country,Cameroon,,fig_6.3.5_Volume of Publications,1
+fig_6.3.5,country,Finland,,fig_6.3.5_Volume of Publications,1
+fig_6.3.5,country,Ghana,,fig_6.3.5_Volume of Publications,1
+fig_6.3.5,country,Kazakhstan,,fig_6.3.5_Volume of Publications,1
+fig_6.3.5,country,Kuwait,,fig_6.3.5_Volume of Publications,1
+fig_6.3.5,country,Malta,,fig_6.3.5_Volume of Publications,1
+fig_6.3.5,country,Latvia,,fig_6.3.5_Volume of Publications,1
+fig_6.3.5,country,Pakistan,,fig_6.3.5_Volume of Publications,1
+fig_6.3.5,country,Peru,,fig_6.3.5_Volume of Publications,1
+fig_6.3.5,country,Singapore,,fig_6.3.5_Volume of Publications,1
+fig_6.3.5,country,Poland,,fig_6.3.5_Volume of Publications,1
+fig_6.3.5,country,South Africa,,fig_6.3.5_Volume of Publications,1
+fig_6.3.5,country,Yemen,,fig_6.3.5_Volume of Publications,1
+fig_6.4.1,category,"Medical AI, and ethics",2021,fig_6.4.1_num_pubs,295
+fig_6.4.1,category,Medical AI,2021,fig_6.4.1_num_pubs,1311
+fig_6.4.1,category,"Medical AI, and ethics",2022,fig_6.4.1_num_pubs,449
+fig_6.4.1,category,Medical AI,2022,fig_6.4.1_num_pubs,1650
+fig_6.4.1,category,"Medical AI, and ethics",2023,fig_6.4.1_num_pubs,624
+fig_6.4.1,category,Medical AI,2023,fig_6.4.1_num_pubs,1900
+fig_6.4.1,category,"Medical AI, and ethics",2024,fig_6.4.1_num_pubs,1114
+fig_6.4.1,category,Medical AI,2024,fig_6.4.1_num_pubs,3000
+fig_6.4.1,category,"Medical AI, and ethics",2025,fig_6.4.1_num_pubs,2378
+fig_6.4.1,category,Medical AI,2025,fig_6.4.1_num_pubs,5477
+fig_6.4.2,category,Algorithmic,2021,fig_6.4.2_num_pubs,107
+fig_6.4.2,category,Governance,2021,fig_6.4.2_num_pubs,130
+fig_6.4.2,category,Societal,2021,fig_6.4.2_num_pubs,72
+fig_6.4.2,category,Algorithmic,2022,fig_6.4.2_num_pubs,199
+fig_6.4.2,category,Governance,2022,fig_6.4.2_num_pubs,170
+fig_6.4.2,category,Societal,2022,fig_6.4.2_num_pubs,121
+fig_6.4.2,category,Algorithmic,2023,fig_6.4.2_num_pubs,241
+fig_6.4.2,category,Governance,2023,fig_6.4.2_num_pubs,278
+fig_6.4.2,category,Societal,2023,fig_6.4.2_num_pubs,182
+fig_6.4.2,category,Algorithmic,2024,fig_6.4.2_num_pubs,471
+fig_6.4.2,category,Governance,2024,fig_6.4.2_num_pubs,544
+fig_6.4.2,category,Societal,2024,fig_6.4.2_num_pubs,347
+fig_6.4.2,category,Algorithmic,2025,fig_6.4.2_num_pubs,896
+fig_6.4.2,category,Governance,2025,fig_6.4.2_num_pubs,1228
+fig_6.4.2,category,Societal,2025,fig_6.4.2_num_pubs,874
+fig_6.4.3,global,Global,2021,fig_6.4.3_Number of publications,5
+fig_6.4.3,global,Global,2022,fig_6.4.3_Number of publications,4
+fig_6.4.3,global,Global,2023,fig_6.4.3_Number of publications,8
+fig_6.4.3,global,Global,2024,fig_6.4.3_Number of publications,13
+fig_6.4.3,global,Global,2025,fig_6.4.3_Number of publications,14
+fig_6.4.5(1),category,"Medical AI, global health, and ethics",2021,fig_6.4.5(1)_num_pubs,7
+fig_6.4.5(1),category,Medical AI and global health,2021,fig_6.4.5(1)_num_pubs,22
+fig_6.4.5(1),category,"Medical AI, global health, and ethics",2022,fig_6.4.5(1)_num_pubs,4
+fig_6.4.5(1),category,Medical AI and global health,2022,fig_6.4.5(1)_num_pubs,10
+fig_6.4.5(1),category,"Medical AI, global health, and ethics",2023,fig_6.4.5(1)_num_pubs,8
+fig_6.4.5(1),category,Medical AI and global health,2023,fig_6.4.5(1)_num_pubs,26
+fig_6.4.5(1),category,"Medical AI, global health, and ethics",2024,fig_6.4.5(1)_num_pubs,27
+fig_6.4.5(1),category,Medical AI and global health,2024,fig_6.4.5(1)_num_pubs,67
+fig_6.4.5(1),category,"Medical AI, global health, and ethics",2025,fig_6.4.5(1)_num_pubs,100
+fig_6.4.5(1),category,Medical AI and global health,2025,fig_6.4.5(1)_num_pubs,193
+fig_6.4.5,category,Europe,2021,fig_6.4.5_num_pubs,1
+fig_6.4.5,category,Europe,2022,fig_6.4.5_num_pubs,2
+fig_6.4.5,category,Europe,2023,fig_6.4.5_num_pubs,2
+fig_6.4.5,category,Europe,2024,fig_6.4.5_num_pubs,10
+fig_6.4.5,category,Europe,2025,fig_6.4.5_num_pubs,23
+fig_6.4.5,category,East Asia,2021,fig_6.4.5_num_pubs,1
+fig_6.4.5,category,East Asia,2022,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,East Asia,2023,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,East Asia,2024,fig_6.4.5_num_pubs,5
+fig_6.4.5,category,East Asia,2025,fig_6.4.5_num_pubs,25
+fig_6.4.5,category,North America,2021,fig_6.4.5_num_pubs,5
+fig_6.4.5,category,North America,2022,fig_6.4.5_num_pubs,1
+fig_6.4.5,category,North America,2023,fig_6.4.5_num_pubs,1
+fig_6.4.5,category,North America,2024,fig_6.4.5_num_pubs,4
+fig_6.4.5,category,North America,2025,fig_6.4.5_num_pubs,17
+fig_6.4.5,category,South Asia,2021,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,South Asia,2022,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,South Asia,2023,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,South Asia,2024,fig_6.4.5_num_pubs,3
+fig_6.4.5,category,South Asia,2025,fig_6.4.5_num_pubs,11
+fig_6.4.5,category,Middle East,2021,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,Middle East,2022,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,Middle East,2023,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,Middle East,2024,fig_6.4.5_num_pubs,2
+fig_6.4.5,category,Middle East,2025,fig_6.4.5_num_pubs,9
+fig_6.4.5,category,Sub-Saharan Africa,2021,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,Sub-Saharan Africa,2022,fig_6.4.5_num_pubs,1
+fig_6.4.5,category,Sub-Saharan Africa,2023,fig_6.4.5_num_pubs,2
+fig_6.4.5,category,Sub-Saharan Africa,2024,fig_6.4.5_num_pubs,4
+fig_6.4.5,category,Sub-Saharan Africa,2025,fig_6.4.5_num_pubs,1
+fig_6.4.5,category,Southeast Asia,2021,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,Southeast Asia,2022,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,Southeast Asia,2023,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,Southeast Asia,2024,fig_6.4.5_num_pubs,4
+fig_6.4.5,category,Southeast Asia,2025,fig_6.4.5_num_pubs,1
+fig_6.4.5,category,North Africa,2021,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,North Africa,2022,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,North Africa,2023,fig_6.4.5_num_pubs,1
+fig_6.4.5,category,North Africa,2024,fig_6.4.5_num_pubs,2
+fig_6.4.5,category,North Africa,2025,fig_6.4.5_num_pubs,1
+fig_6.4.5,category,Latin America,2021,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,Latin America,2022,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,Latin America,2023,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,Latin America,2024,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,Latin America,2025,fig_6.4.5_num_pubs,3
+fig_6.4.5,category,Oceania,2021,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,Oceania,2022,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,Oceania,2023,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,Oceania,2024,fig_6.4.5_num_pubs,0
+fig_6.4.5,category,Oceania,2025,fig_6.4.5_num_pubs,3
+fig_6.4.6,category,Algorithmic,2021,fig_6.4.6_num_pubs,4
+fig_6.4.6,category,Governance,2021,fig_6.4.6_num_pubs,2
+fig_6.4.6,category,Societal,2021,fig_6.4.6_num_pubs,5
+fig_6.4.6,category,Algorithmic,2022,fig_6.4.6_num_pubs,1
+fig_6.4.6,category,Governance,2022,fig_6.4.6_num_pubs,1
+fig_6.4.6,category,Societal,2022,fig_6.4.6_num_pubs,2
+fig_6.4.6,category,Algorithmic,2023,fig_6.4.6_num_pubs,2
+fig_6.4.6,category,Governance,2023,fig_6.4.6_num_pubs,4
+fig_6.4.6,category,Societal,2023,fig_6.4.6_num_pubs,4
+fig_6.4.6,category,Algorithmic,2024,fig_6.4.6_num_pubs,14
+fig_6.4.6,category,Governance,2024,fig_6.4.6_num_pubs,12
+fig_6.4.6,category,Societal,2024,fig_6.4.6_num_pubs,13
+fig_6.4.6,category,Algorithmic,2025,fig_6.4.6_num_pubs,29
+fig_6.4.6,category,Governance,2025,fig_6.4.6_num_pubs,43
+fig_6.4.6,category,Societal,2025,fig_6.4.6_num_pubs,54

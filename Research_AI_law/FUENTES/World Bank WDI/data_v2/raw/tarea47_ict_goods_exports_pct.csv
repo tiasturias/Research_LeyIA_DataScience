@@ -1,0 +1,718 @@
+iso3,year,country_name,value,wb_indicator,canonical_name
+AFG,2019,Afghanistan,0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AFG,2018,Afghanistan,0,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ALB,2022,Albania,0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ALB,2021,Albania,0.08,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ALB,2020,Albania,0.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ALB,2019,Albania,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ALB,2018,Albania,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AND,2022,Andorra,12.56,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AND,2021,Andorra,21.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AND,2020,Andorra,21.3,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AND,2019,Andorra,30.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AND,2018,Andorra,26.38,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AGO,2022,Angola,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AGO,2021,Angola,0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AGO,2020,Angola,0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AGO,2019,Angola,0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AGO,2018,Angola,0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ATG,2019,Antigua and Barbuda,0.7,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ATG,2018,Antigua and Barbuda,1.24,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ARG,2022,Argentina,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ARG,2021,Argentina,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ARG,2020,Argentina,0.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ARG,2019,Argentina,0.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ARG,2018,Argentina,0.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ARM,2022,Armenia,9.78,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ARM,2021,Armenia,0.51,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ARM,2020,Armenia,0.43,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ARM,2019,Armenia,0.28,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ARM,2018,Armenia,0.32,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ABW,2021,Aruba,0.65,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ABW,2020,Aruba,1.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ABW,2019,Aruba,1.38,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ABW,2018,Aruba,1.33,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AUS,2022,Australia,0.7,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AUS,2021,Australia,0.87,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AUS,2020,Australia,1.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AUS,2019,Australia,1.1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AUS,2018,Australia,1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AUT,2022,Austria,4.88,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AUT,2021,Austria,4.95,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AUT,2020,Austria,3.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AUT,2019,Austria,3.13,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AUT,2018,Austria,3.41,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AZE,2022,Azerbaijan,0.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AZE,2021,Azerbaijan,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AZE,2020,Azerbaijan,0.14,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AZE,2019,Azerbaijan,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+AZE,2018,Azerbaijan,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BHS,2020,"Bahamas, The",0.71,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BHS,2019,"Bahamas, The",0.65,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BHS,2018,"Bahamas, The",0.64,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BHR,2022,Bahrain,0.68,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BHR,2021,Bahrain,0.9,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BHR,2020,Bahrain,1.11,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BHR,2019,Bahrain,0.64,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BHR,2018,Bahrain,0.39,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BRB,2022,Barbados,1.1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BRB,2021,Barbados,0.53,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BRB,2020,Barbados,0.52,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BRB,2019,Barbados,0.28,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BRB,2018,Barbados,0.64,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BLR,2021,Belarus,1.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BLR,2020,Belarus,1.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BLR,2019,Belarus,0.81,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BLR,2018,Belarus,0.75,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BEL,2022,Belgium,1.64,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BEL,2021,Belgium,1.85,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BEL,2020,Belgium,2.32,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BEL,2019,Belgium,2.17,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BEL,2018,Belgium,1.77,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BLZ,2022,Belize,0.14,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BLZ,2021,Belize,0.27,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BLZ,2020,Belize,0.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BLZ,2019,Belize,0.43,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BLZ,2018,Belize,0.13,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BEN,2022,Benin,0.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BEN,2021,Benin,0.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BEN,2020,Benin,0.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BEN,2019,Benin,0.19,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BEN,2018,Benin,0.12,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BMU,2022,Bermuda,2.5,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BMU,2021,Bermuda,4.53,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BMU,2020,Bermuda,1.86,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BMU,2019,Bermuda,3.86,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BMU,2018,Bermuda,5.36,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BOL,2022,Bolivia,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BOL,2021,Bolivia,0.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BOL,2020,Bolivia,0.08,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BOL,2019,Bolivia,0.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BOL,2018,Bolivia,0.08,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BIH,2022,Bosnia and Herzegovina,0.24,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BIH,2021,Bosnia and Herzegovina,0.16,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BIH,2020,Bosnia and Herzegovina,0.16,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BIH,2019,Bosnia and Herzegovina,0.2,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BIH,2018,Bosnia and Herzegovina,0.17,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BWA,2022,Botswana,0.16,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BWA,2021,Botswana,0.11,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BWA,2020,Botswana,0.24,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BWA,2019,Botswana,0.17,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BWA,2018,Botswana,0.23,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BRA,2022,Brazil,0.27,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BRA,2021,Brazil,0.26,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BRA,2020,Brazil,0.32,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BRA,2019,Brazil,0.35,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BRA,2018,Brazil,0.36,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BRN,2022,Brunei Darussalam,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BRN,2021,Brunei Darussalam,0.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BRN,2020,Brunei Darussalam,0.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BRN,2019,Brunei Darussalam,0.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BRN,2018,Brunei Darussalam,0.17,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BGR,2022,Bulgaria,3.31,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BGR,2021,Bulgaria,3.29,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BGR,2020,Bulgaria,3.42,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BGR,2019,Bulgaria,3.21,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BGR,2018,Bulgaria,3.25,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BFA,2021,Burkina Faso,0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BFA,2020,Burkina Faso,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BFA,2019,Burkina Faso,0.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BFA,2018,Burkina Faso,0.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BDI,2022,Burundi,0.1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BDI,2021,Burundi,0.46,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BDI,2020,Burundi,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BDI,2019,Burundi,0.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+BDI,2018,Burundi,0.15,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CPV,2020,Cabo Verde,0.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CPV,2018,Cabo Verde,0,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KHM,2021,Cambodia,2.53,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KHM,2020,Cambodia,1.73,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KHM,2019,Cambodia,0.99,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KHM,2018,Cambodia,1.43,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CMR,2018,Cameroon,0.17,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CAN,2022,Canada,1.37,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CAN,2021,Canada,1.48,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CAN,2020,Canada,1.72,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CAN,2019,Canada,1.83,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CAN,2018,Canada,1.83,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CYM,2021,Cayman Islands,43.27,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CYM,2020,Cayman Islands,45.35,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CAF,2020,Central African Republic,0.26,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CAF,2019,Central African Republic,0.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CAF,2018,Central African Republic,0.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CHL,2022,Chile,0.29,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CHL,2021,Chile,0.27,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CHL,2020,Chile,0.27,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CHL,2019,Chile,0.35,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CHL,2018,Chile,0.29,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CHN,2022,China,22.64,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CHN,2021,China,25.5,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CHN,2020,China,27.1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CHN,2019,China,26.48,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CHN,2018,China,27.37,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+COL,2021,Colombia,0.29,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+COL,2020,Colombia,0.44,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+COL,2019,Colombia,0.27,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+COL,2018,Colombia,0.21,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+COM,2021,Comoros,0.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+COM,2020,Comoros,0.08,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+COM,2019,Comoros,0.52,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+COM,2018,Comoros,0.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+COD,2021,"Congo, Dem. Rep.",0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+COD,2020,"Congo, Dem. Rep.",0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+COD,2019,"Congo, Dem. Rep.",0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+COD,2018,"Congo, Dem. Rep.",0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+COG,2021,"Congo, Rep.",0.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+COG,2020,"Congo, Rep.",0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+COG,2019,"Congo, Rep.",0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+COG,2018,"Congo, Rep.",0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CRI,2021,Costa Rica,0.83,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CRI,2020,Costa Rica,0.71,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CRI,2019,Costa Rica,0.81,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CRI,2018,Costa Rica,0.89,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CIV,2020,Cote d'Ivoire,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CIV,2019,Cote d'Ivoire,0.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CIV,2018,Cote d'Ivoire,0.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HRV,2022,Croatia,1.6,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HRV,2021,Croatia,2.14,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HRV,2020,Croatia,2.46,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HRV,2019,Croatia,2.33,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HRV,2018,Croatia,2.33,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CYP,2022,Cyprus,1.66,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CYP,2021,Cyprus,2.1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CYP,2020,Cyprus,1.91,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CYP,2019,Cyprus,2.3,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CYP,2018,Cyprus,4.47,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CZE,2022,Czechia,16.1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CZE,2021,Czechia,15.55,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CZE,2020,Czechia,17.96,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CZE,2019,Czechia,16.17,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CZE,2018,Czechia,15.1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+DNK,2022,Denmark,3.71,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+DNK,2021,Denmark,3.94,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+DNK,2020,Denmark,3.95,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+DNK,2019,Denmark,3.66,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+DNK,2018,Denmark,3.72,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+DOM,2022,Dominican Republic,0.56,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+DOM,2021,Dominican Republic,2.37,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+DOM,2020,Dominican Republic,2.37,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+DOM,2019,Dominican Republic,1.59,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+DOM,2018,Dominican Republic,1.75,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ECU,2021,Ecuador,0.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ECU,2020,Ecuador,0.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ECU,2019,Ecuador,0.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ECU,2018,Ecuador,0.08,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+EGY,2022,"Egypt, Arab Rep.",2.38,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+EGY,2021,"Egypt, Arab Rep.",2.88,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+EGY,2020,"Egypt, Arab Rep.",2.95,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+EGY,2019,"Egypt, Arab Rep.",2.85,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+EGY,2018,"Egypt, Arab Rep.",2.4,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SLV,2022,El Salvador,0.4,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SLV,2021,El Salvador,0.37,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SLV,2020,El Salvador,0.3,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SLV,2019,El Salvador,0.24,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SLV,2018,El Salvador,0.24,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+EST,2022,Estonia,7.28,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+EST,2021,Estonia,9.8,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+EST,2020,Estonia,9.59,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+EST,2019,Estonia,7.59,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+EST,2018,Estonia,8.51,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SWZ,2021,Eswatini,0.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SWZ,2020,Eswatini,0.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SWZ,2019,Eswatini,0.08,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SWZ,2018,Eswatini,0.63,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ETH,2021,Ethiopia,0.71,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ETH,2020,Ethiopia,1.26,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ETH,2019,Ethiopia,1.42,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ETH,2018,Ethiopia,2.42,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+FJI,2022,Fiji,0.5,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+FJI,2021,Fiji,2.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+FJI,2020,Fiji,2.3,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+FJI,2019,Fiji,5.95,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+FJI,2018,Fiji,4.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+FIN,2022,Finland,2.6,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+FIN,2021,Finland,2.56,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+FIN,2020,Finland,2.5,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+FIN,2019,Finland,2.58,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+FIN,2018,Finland,2.6,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+FRA,2022,France,3.65,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+FRA,2021,France,3.64,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+FRA,2020,France,3.77,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+FRA,2019,France,3.79,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+FRA,2018,France,3.96,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PYF,2022,French Polynesia,2.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PYF,2021,French Polynesia,1.16,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PYF,2020,French Polynesia,1.51,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PYF,2019,French Polynesia,0.76,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PYF,2018,French Polynesia,0.91,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GMB,2021,"Gambia, The",0,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GMB,2020,"Gambia, The",0.18,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GMB,2019,"Gambia, The",0.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GMB,2018,"Gambia, The",0.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GEO,2022,Georgia,1.26,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GEO,2021,Georgia,1.5,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GEO,2020,Georgia,0.36,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GEO,2019,Georgia,0.4,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GEO,2018,Georgia,0.45,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+DEU,2022,Germany,4.77,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+DEU,2021,Germany,5.12,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+DEU,2020,Germany,5.17,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+DEU,2019,Germany,4.9,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+DEU,2018,Germany,4.96,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GHA,2019,Ghana,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GHA,2018,Ghana,0.26,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GRC,2022,Greece,2.82,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GRC,2021,Greece,3.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GRC,2020,Greece,3.51,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GRC,2019,Greece,3.11,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GRC,2018,Greece,3.11,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GRL,2018,Greenland,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GRD,2022,Grenada,1.79,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GRD,2021,Grenada,0.4,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GRD,2020,Grenada,1.39,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GRD,2019,Grenada,2.3,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GRD,2018,Grenada,6.93,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GTM,2022,Guatemala,0.26,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GTM,2021,Guatemala,0.3,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GTM,2020,Guatemala,0.17,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GTM,2019,Guatemala,0.19,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GTM,2018,Guatemala,0.21,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GUY,2022,Guyana,0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GUY,2021,Guyana,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GUY,2020,Guyana,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GUY,2019,Guyana,0.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GUY,2018,Guyana,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HND,2021,Honduras,0.33,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HND,2020,Honduras,0.3,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HND,2019,Honduras,0.14,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HND,2018,Honduras,0.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HKG,2022,"Hong Kong SAR, China",62.47,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HKG,2021,"Hong Kong SAR, China",61.18,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HKG,2020,"Hong Kong SAR, China",57.95,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HKG,2019,"Hong Kong SAR, China",56.65,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HKG,2018,"Hong Kong SAR, China",55.48,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HUN,2022,Hungary,10.33,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HUN,2021,Hungary,12.29,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HUN,2020,Hungary,13.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HUN,2019,Hungary,12.82,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+HUN,2018,Hungary,11.34,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ISL,2022,Iceland,0.19,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ISL,2021,Iceland,0.32,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ISL,2020,Iceland,0.24,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ISL,2019,Iceland,0.17,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ISL,2018,Iceland,0.18,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+IND,2022,India,2.77,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+IND,2021,India,2.23,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+IND,2020,India,2.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+IND,2019,India,2,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+IND,2018,India,1.18,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+IDN,2021,Indonesia,2.92,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+IDN,2020,Indonesia,3.33,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+IDN,2019,Indonesia,3.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+IDN,2018,Indonesia,2.88,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+IRN,2018,"Iran, Islamic Rep.",0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+IRL,2022,Ireland,8.59,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+IRL,2021,Ireland,9.14,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+IRL,2020,Ireland,8.42,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+IRL,2019,Ireland,8.8,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+IRL,2018,Ireland,6.76,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ISR,2022,Israel,13.45,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ISR,2021,Israel,14.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ISR,2020,Israel,14.28,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ISR,2019,Israel,9.99,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ISR,2018,Israel,11.6,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ITA,2022,Italy,1.99,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ITA,2021,Italy,2.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ITA,2020,Italy,2.2,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ITA,2019,Italy,1.97,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ITA,2018,Italy,1.99,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+JAM,2022,Jamaica,0.28,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+JAM,2021,Jamaica,0.34,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+JAM,2020,Jamaica,0.35,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+JAM,2019,Jamaica,0.49,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+JAM,2018,Jamaica,0.19,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+JPN,2022,Japan,8.16,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+JPN,2021,Japan,8.61,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+JPN,2020,Japan,8.89,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+JPN,2019,Japan,8,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+JPN,2018,Japan,8.11,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+JOR,2022,Jordan,0.68,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+JOR,2021,Jordan,1.21,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+JOR,2020,Jordan,1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+JOR,2019,Jordan,2.14,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+JOR,2018,Jordan,1.99,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KAZ,2022,Kazakhstan,1.85,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KAZ,2021,Kazakhstan,1.12,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KAZ,2020,Kazakhstan,0.11,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KAZ,2019,Kazakhstan,0.12,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KAZ,2018,Kazakhstan,0.11,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KEN,2021,Kenya,0.29,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KEN,2020,Kenya,0.31,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KEN,2019,Kenya,0.42,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KEN,2018,Kenya,0.34,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KIR,2020,Kiribati,0.19,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KIR,2018,Kiribati,0.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KOR,2022,"Korea, Rep.",27.66,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KOR,2021,"Korea, Rep.",29.18,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KOR,2020,"Korea, Rep.",28.89,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KOR,2019,"Korea, Rep.",25.77,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KOR,2018,"Korea, Rep.",27.84,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KWT,2021,Kuwait,0.15,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KWT,2020,Kuwait,0.2,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KWT,2019,Kuwait,0.14,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KWT,2018,Kuwait,0.2,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KGZ,2022,Kyrgyz Republic,4.67,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KGZ,2021,Kyrgyz Republic,3.58,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KGZ,2020,Kyrgyz Republic,0.27,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KGZ,2019,Kyrgyz Republic,0.18,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+KGZ,2018,Kyrgyz Republic,0.14,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LAO,2021,Lao PDR,2.98,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LAO,2020,Lao PDR,4.48,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LAO,2019,Lao PDR,5.95,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LAO,2018,Lao PDR,7.63,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LVA,2022,Latvia,7.28,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LVA,2021,Latvia,8.89,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LVA,2020,Latvia,10.94,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LVA,2019,Latvia,8.94,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LVA,2018,Latvia,8.44,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LBN,2022,Lebanon,0.96,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LBN,2021,Lebanon,0.55,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LBN,2020,Lebanon,0.69,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LBN,2019,Lebanon,0.67,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LBN,2018,Lebanon,0.68,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LSO,2021,Lesotho,0.54,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LSO,2020,Lesotho,0.62,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LSO,2019,Lesotho,1.51,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LSO,2018,Lesotho,2.31,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LBY,2019,Libya,0,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LBY,2018,Libya,0,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LTU,2022,Lithuania,3.2,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LTU,2021,Lithuania,3.43,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LTU,2020,Lithuania,3.92,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LTU,2019,Lithuania,3.44,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LTU,2018,Lithuania,3.48,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LUX,2022,Luxembourg,1.24,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LUX,2021,Luxembourg,1.68,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LUX,2020,Luxembourg,1.74,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LUX,2019,Luxembourg,2.21,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LUX,2018,Luxembourg,2.4,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MAC,2022,"Macao SAR, China",18.95,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MAC,2021,"Macao SAR, China",22.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MAC,2020,"Macao SAR, China",19.17,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MAC,2019,"Macao SAR, China",23.69,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MAC,2018,"Macao SAR, China",1.59,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MDG,2021,Madagascar,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MDG,2020,Madagascar,0.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MDG,2019,Madagascar,0.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MDG,2018,Madagascar,0.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MWI,2021,Malawi,0.23,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MWI,2020,Malawi,0.11,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MWI,2019,Malawi,0.36,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MWI,2018,Malawi,0.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MYS,2021,Malaysia,32.19,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MYS,2020,Malaysia,34.69,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MYS,2019,Malaysia,32.23,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MYS,2018,Malaysia,32.99,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MDV,2021,Maldives,0,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MDV,2019,Maldives,0,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MLI,2019,Mali,0.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MLI,2018,Mali,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MLT,2022,Malta,25.7,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MLT,2021,Malta,16.16,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MLT,2020,Malta,19.66,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MLT,2019,Malta,13.59,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MLT,2018,Malta,15.69,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MRT,2021,Mauritania,0,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MRT,2020,Mauritania,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MUS,2022,Mauritius,0.81,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MUS,2021,Mauritius,0.89,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MUS,2020,Mauritius,1.14,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MUS,2019,Mauritius,1.61,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MUS,2018,Mauritius,2.4,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MEX,2022,Mexico,13.72,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MEX,2021,Mexico,14.36,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MEX,2020,Mexico,15.98,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MEX,2019,Mexico,14.83,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MEX,2018,Mexico,15.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MDA,2022,Moldova,0.27,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MDA,2021,Moldova,0.18,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MDA,2020,Moldova,0.21,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MDA,2019,Moldova,0.26,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MDA,2018,Moldova,0.23,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MNG,2021,Mongolia,0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MNG,2020,Mongolia,0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MNG,2019,Mongolia,0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MNG,2018,Mongolia,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MNE,2022,Montenegro,0.79,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MNE,2021,Montenegro,1.17,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MNE,2020,Montenegro,1.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MNE,2019,Montenegro,0.8,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MNE,2018,Montenegro,0.5,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MAR,2022,Morocco,2.36,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MAR,2021,Morocco,2.13,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MAR,2020,Morocco,1.9,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MAR,2019,Morocco,2.41,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MAR,2018,Morocco,2.1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MOZ,2022,Mozambique,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MOZ,2021,Mozambique,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MOZ,2020,Mozambique,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MOZ,2019,Mozambique,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MOZ,2018,Mozambique,0.46,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MMR,2022,Myanmar,0.17,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MMR,2021,Myanmar,0.58,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MMR,2020,Myanmar,0.59,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MMR,2019,Myanmar,0.59,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MMR,2018,Myanmar,0.55,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NAM,2022,Namibia,0.21,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NAM,2021,Namibia,0.25,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NAM,2020,Namibia,0.28,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NAM,2019,Namibia,0.31,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NAM,2018,Namibia,0.24,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NPL,2021,Nepal,0.21,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NPL,2020,Nepal,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NPL,2019,Nepal,0.11,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NPL,2018,Nepal,0.24,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NLD,2022,Netherlands,7.49,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NLD,2021,Netherlands,9.94,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NLD,2020,Netherlands,11.11,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NLD,2019,Netherlands,10.27,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NLD,2018,Netherlands,10.18,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NZL,2022,New Zealand,1.08,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NZL,2021,New Zealand,1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NZL,2020,New Zealand,1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NZL,2019,New Zealand,1.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NZL,2018,New Zealand,1.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NIC,2022,Nicaragua,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NIC,2021,Nicaragua,0.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NIC,2020,Nicaragua,0.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NIC,2019,Nicaragua,0.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NIC,2018,Nicaragua,0.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NER,2022,Niger,0.14,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NER,2021,Niger,0.1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NER,2020,Niger,0.12,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NER,2019,Niger,0.22,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NER,2018,Niger,0.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NGA,2021,Nigeria,0.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NGA,2019,Nigeria,0,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NGA,2018,Nigeria,0,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MKD,2022,North Macedonia,0.63,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MKD,2021,North Macedonia,0.6,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MKD,2020,North Macedonia,0.72,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MKD,2019,North Macedonia,0.68,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+MKD,2018,North Macedonia,0.58,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NOR,2022,Norway,0.47,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NOR,2021,Norway,0.74,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NOR,2020,Norway,1.38,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NOR,2019,Norway,1.13,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+NOR,2018,Norway,0.92,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+OMN,2021,Oman,0.51,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+OMN,2020,Oman,0.81,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+OMN,2019,Oman,0.53,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+OMN,2018,Oman,0.44,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PAK,2021,Pakistan,0.08,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PAK,2020,Pakistan,0.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PAK,2019,Pakistan,0.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PAK,2018,Pakistan,0.16,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PLW,2018,Palau,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PAN,2020,Panama,17.82,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PAN,2019,Panama,13.35,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PAN,2018,Panama,11.28,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PRY,2022,Paraguay,0.08,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PRY,2021,Paraguay,0.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PRY,2020,Paraguay,0.25,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PRY,2019,Paraguay,0.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PRY,2018,Paraguay,0.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PER,2021,Peru,0.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PER,2020,Peru,0.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PER,2019,Peru,0.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PER,2018,Peru,0.08,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PHL,2022,Philippines,50.71,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PHL,2021,Philippines,48.48,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PHL,2020,Philippines,50.86,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PHL,2019,Philippines,49.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PHL,2018,Philippines,38.32,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+POL,2022,Poland,6.47,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+POL,2021,Poland,6.78,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+POL,2020,Poland,7.22,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+POL,2019,Poland,6.55,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+POL,2018,Poland,6.91,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PRT,2022,Portugal,3.28,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PRT,2021,Portugal,3.51,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PRT,2020,Portugal,3.7,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PRT,2019,Portugal,3.4,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PRT,2018,Portugal,3.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+QAT,2022,Qatar,0,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+QAT,2021,Qatar,0,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+QAT,2020,Qatar,0,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+QAT,2018,Qatar,0,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ROU,2022,Romania,2.83,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ROU,2021,Romania,3.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ROU,2020,Romania,3.34,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ROU,2019,Romania,3.2,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ROU,2018,Romania,2.92,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+RUS,2021,Russian Federation,0.52,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+RUS,2020,Russian Federation,0.51,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+RUS,2019,Russian Federation,0.53,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+RUS,2018,Russian Federation,0.47,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+RWA,2022,Rwanda,0.87,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+RWA,2021,Rwanda,0.83,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+RWA,2020,Rwanda,0.58,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+RWA,2019,Rwanda,0.91,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+RWA,2018,Rwanda,0.42,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+WSM,2021,Samoa,0.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+WSM,2019,Samoa,0.21,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+WSM,2018,Samoa,0.32,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+STP,2022,Sao Tome and Principe,0.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+STP,2021,Sao Tome and Principe,0.22,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+STP,2020,Sao Tome and Principe,0.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+STP,2019,Sao Tome and Principe,0.44,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+STP,2018,Sao Tome and Principe,0.4,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SAU,2021,Saudi Arabia,0.4,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SAU,2020,Saudi Arabia,0.28,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SAU,2019,Saudi Arabia,0,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SAU,2018,Saudi Arabia,0.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SEN,2021,Senegal,0.42,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SEN,2020,Senegal,0.11,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SEN,2019,Senegal,0.1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SEN,2018,Senegal,0.26,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SRB,2022,Serbia,1.43,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SRB,2021,Serbia,1.66,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SRB,2020,Serbia,1.53,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SRB,2019,Serbia,1.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SRB,2018,Serbia,1.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SYC,2021,Seychelles,0.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SYC,2020,Seychelles,0.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SYC,2019,Seychelles,0.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SYC,2018,Seychelles,0.12,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SLE,2018,Sierra Leone,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SGP,2022,Singapore,32.68,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SGP,2021,Singapore,34.71,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SGP,2020,Singapore,33.7,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SGP,2019,Singapore,29.3,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SGP,2018,Singapore,29.57,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SVK,2022,Slovak Republic,10.48,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SVK,2021,Slovak Republic,12.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SVK,2020,Slovak Republic,12.92,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SVK,2019,Slovak Republic,13.28,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SVK,2018,Slovak Republic,14.32,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SVN,2022,Slovenia,2.17,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SVN,2021,Slovenia,2.52,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SVN,2020,Slovenia,1.81,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SVN,2019,Slovenia,1.79,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SVN,2018,Slovenia,1.63,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SLB,2018,Solomon Islands,0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ZAF,2022,South Africa,0.71,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ZAF,2021,South Africa,0.68,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ZAF,2020,South Africa,0.92,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ZAF,2019,South Africa,0.92,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ZAF,2018,South Africa,0.97,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ESP,2022,Spain,1.37,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ESP,2021,Spain,1.59,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ESP,2020,Spain,1.72,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ESP,2019,Spain,1.63,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ESP,2018,Spain,1.45,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LKA,2022,Sri Lanka,0.19,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LKA,2021,Sri Lanka,0.2,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LKA,2020,Sri Lanka,0.26,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LKA,2019,Sri Lanka,0.31,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LCA,2020,St. Lucia,5.63,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LCA,2019,St. Lucia,6.56,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+LCA,2018,St. Lucia,10.36,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+VCT,2021,St. Vincent and the Grenadines,0.41,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+VCT,2020,St. Vincent and the Grenadines,0.35,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+VCT,2019,St. Vincent and the Grenadines,1.31,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+VCT,2018,St. Vincent and the Grenadines,0.34,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SDN,2018,Sudan,0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SUR,2022,Suriname,0.08,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SUR,2021,Suriname,0.11,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SUR,2020,Suriname,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SUR,2019,Suriname,0.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SUR,2018,Suriname,0,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SWE,2022,Sweden,5.27,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SWE,2021,Sweden,5.93,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SWE,2020,Sweden,6.58,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SWE,2019,Sweden,6.15,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+SWE,2018,Sweden,5.78,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CHE,2020,Switzerland,1.0490728917,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CHE,2019,Switzerland,1.098946787,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+CHE,2018,Switzerland,1.1124555905,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TJK,2021,Tajikistan,0.23,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TJK,2020,Tajikistan,0.08,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TJK,2019,Tajikistan,0.14,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TJK,2018,Tajikistan,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TZA,2022,Tanzania,0.13,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TZA,2021,Tanzania,0.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TZA,2020,Tanzania,0.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TZA,2019,Tanzania,0.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TZA,2018,Tanzania,4.18,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+THA,2021,Thailand,16.12,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+THA,2020,Thailand,16.12,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+THA,2019,Thailand,14.35,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+THA,2018,Thailand,15.59,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TGO,2022,Togo,0.13,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TGO,2021,Togo,0.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TGO,2020,Togo,0.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TGO,2019,Togo,0.08,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TGO,2018,Togo,0.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TTO,2021,Trinidad and Tobago,0.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TTO,2020,Trinidad and Tobago,0.1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TTO,2019,Trinidad and Tobago,0.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TTO,2018,Trinidad and Tobago,0.08,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TUN,2021,Tunisia,4.26,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TUN,2020,Tunisia,4.59,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TUN,2019,Tunisia,4.24,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TUN,2018,Tunisia,4.17,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TUR,2022,Turkiye,0.7,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TUR,2021,Turkiye,0.88,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TUR,2020,Turkiye,1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TUR,2019,Turkiye,1.15,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+TUR,2018,Turkiye,1.24,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+UGA,2020,Uganda,0.15,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+UGA,2019,Uganda,0.27,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+UGA,2018,Uganda,0.38,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+UKR,2022,Ukraine,0.91,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+UKR,2021,Ukraine,0.68,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+UKR,2020,Ukraine,0.73,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+UKR,2019,Ukraine,0.83,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+UKR,2018,Ukraine,0.98,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ARE,2021,United Arab Emirates,8.45,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ARE,2020,United Arab Emirates,9.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ARE,2019,United Arab Emirates,7.79,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ARE,2018,United Arab Emirates,7.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GBR,2022,United Kingdom,3.39,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GBR,2021,United Kingdom,3.68,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GBR,2020,United Kingdom,4.19,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GBR,2019,United Kingdom,4,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+GBR,2018,United Kingdom,3.87,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+USA,2022,United States,7.85,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+USA,2021,United States,9.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+USA,2020,United States,9.67,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+USA,2019,United States,8.74,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+USA,2018,United States,8.9,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+URY,2022,Uruguay,0.07,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+URY,2021,Uruguay,0.06,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+URY,2020,Uruguay,0.1,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+URY,2019,Uruguay,0.12,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+URY,2018,Uruguay,0.11,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+UZB,2022,Uzbekistan,0.53,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+UZB,2021,Uzbekistan,0.16,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+UZB,2020,Uzbekistan,0.16,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+UZB,2019,Uzbekistan,0.12,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+UZB,2018,Uzbekistan,0.11,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+VNM,2021,Viet Nam,38,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+VNM,2020,Viet Nam,38.76,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+VNM,2019,Viet Nam,35.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+VNM,2018,Viet Nam,33.76,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PSE,2021,West Bank and Gaza,0.75,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PSE,2020,West Bank and Gaza,1.15,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PSE,2019,West Bank and Gaza,0.46,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+PSE,2018,West Bank and Gaza,0.41,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ZMB,2021,Zambia,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ZMB,2020,Zambia,0.04,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ZMB,2019,Zambia,0.09,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ZMB,2018,Zambia,0.12,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ZWE,2022,Zimbabwe,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ZWE,2021,Zimbabwe,0.01,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ZWE,2020,Zimbabwe,0.05,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ZWE,2019,Zimbabwe,0.03,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct
+ZWE,2018,Zimbabwe,0.02,TX.VAL.ICTG.ZS.UN,ict_goods_exports_pct

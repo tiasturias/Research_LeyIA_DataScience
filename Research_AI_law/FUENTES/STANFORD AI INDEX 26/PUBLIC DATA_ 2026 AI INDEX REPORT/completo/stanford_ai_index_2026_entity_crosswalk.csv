@@ -1,0 +1,1992 @@
+entity_name_raw,entity_name_std,iso3,entity_type,appears_in_chapters
+Canada,Canada,CAN,country,"1,3,4,6,7,8,9"
+China,China,CHN,country,"1,3,4,6,7,8,9"
+France,France,FRA,country,"1,3,4,6,7,8,9"
+Hong Kong,Hong Kong,HKG,country,"1,3,4,7,8"
+South Korea,South Korea,KOR,country,"1,3,4,6,7,8,9"
+United Kingdom,United Kingdom,GBR,country,"1,3,4,6,7,8,9"
+United States,United States,USA,country,"1,3,4,7,8,9"
+China,China,,category,"1,4,8"
+Europe,Europe,,category,"1,3,4,6"
+United States,United States,,category,"1,4,8"
+Australia,Australia,AUS,country,"1,3,4,6,7,8,9"
+Austria,Austria,AUT,country,"1,3,4,7,8,9"
+Belgium,Belgium,BEL,country,"1,3,4,6,7,8,9"
+Czech Republic,Czech Republic,CZE,country,"1,4,7,8,9"
+Finland,Finland,FIN,country,"1,3,4,6,7,8,9"
+Germany,Germany,DEU,country,"1,3,4,6,7,8,9"
+India,India,IND,country,"1,3,4,6,7,8,9"
+Iran,Iran,IRN,country,"1,4"
+Ireland,Ireland,IRL,country,"1,3,4,6,7,8,9"
+Israel,Israel,ISR,country,"1,3,4,6,7,8,9"
+Italy,Italy,ITA,country,"1,3,4,6,7,8,9"
+Japan,Japan,JPN,country,"1,3,4,6,7,8,9"
+Netherlands,Netherlands,NLD,country,"1,3,4,6,7,8,9"
+Norway,Norway,NOR,country,"1,3,4,6,7,8,9"
+Poland,Poland,POL,country,"1,3,4,6,7,8,9"
+Russia,Russia,RUS,country,"1,4,8,9"
+Saudi Arabia,Saudi Arabia,SAU,country,"1,3,4,6,7,8,9"
+Singapore,Singapore,SGP,country,"1,3,4,6,7,8,9"
+Spain,Spain,ESP,country,"1,3,4,6,7,8,9"
+Sweden,Sweden,SWE,country,"1,3,4,6,7,8,9"
+Switzerland,Switzerland,CHE,country,"1,3,4,6,7,8,9"
+Taiwan,Taiwan,TWN,country,"1,3,4,8"
+United Arab Emirates,United Arab Emirates,ARE,country,"1,3,4,7,8,9"
+Academia,Academia,,category,"1,7"
+Industry,Industry,,category,"1,7"
+Industry-academia collaboration,Industry-academia collaboration,,category,1
+Other,Other,,category,"1,6,7,8"
+Alibaba,Alibaba,,organization,1
+Allen Institute for AI (Ai2),Allen Institute for AI (Ai2),,organization,1
+Ant Group,Ant Group,,organization,1
+Anthropic,Anthropic,,organization,"1,4"
+Baidu,Baidu,,organization,1
+ByteDance,ByteDance,,organization,1
+CUHK Shenzhen Research Institute,CUHK Shenzhen Research Institute,,organization,1
+DeepSeek,DeepSeek,,organization,1
+Google,Google,,organization,1
+Hong Kong Polytechnic University,Hong Kong Polytechnic University,,organization,1
+LG AI Research,LG AI Research,,organization,1
+Meta,Meta,,organization,1
+MiniMax,MiniMax,,organization,1
+Moonshot,Moonshot,,organization,1
+Nvidia,Nvidia,,organization,1
+OpenAI,OpenAI,,organization,"1,4"
+Tsinghua University,Tsinghua University,,organization,1
+University of Illinois,University of Illinois,,organization,1
+Z.ai (Zhipu AI),Z.ai (Zhipu AI),,organization,1
+xAI,xAI,,organization,1
+Carnegie Mellon University,Carnegie Mellon University,,organization,1
+Chinese University of Hong Kong,Chinese University of Hong Kong,,organization,1
+MIT,MIT,,organization,1
+Microsoft,Microsoft,,organization,1
+New York University,New York University,,organization,1
+Salesforce,Salesforce,,organization,1
+Stanford University,Stanford University,,organization,1
+UC Berkeley,UC Berkeley,,organization,1
+University of Oxford,University of Oxford,,organization,1
+University of Washington,University of Washington,,organization,1
+API access,API access,,category,1
+Hosted access (no API),Hosted access (no API),,category,1
+Open weights (noncommercial),Open weights (noncommercial),,category,1
+Open weights (restricted use),Open weights (restricted use),,category,1
+Open weights (unrestricted),Open weights (unrestricted),,category,1
+Unknown,Unknown,,category,1
+Unreleased,Unreleased,,category,1
+Open (noncommercial),Open (noncommercial),,category,1
+Open (restricted use),Open (restricted use),,category,1
+Open source,Open source,,category,1
+Global,Global,,global,"1,2,3,4,6,7,8"
+Claude Opus 4.5,Claude Opus 4.5,,model,"1,2"
+GPT-5 (high),GPT-5 (high),,model,"1,2"
+Gemini 1.5 Pro,Gemini 1.5 Pro,,model,"1,2"
+Grok-4,Grok-4,,model,"1,2"
+OLMo 3,OLMo 3,,model,1
+AI,AI,,category,1
+Human,Human,,category,1
+FP16,FP16,,category,1
+FP32,FP32,,category,1
+TF32 (19-bit),TF32 (19-bit),,category,1
+Tensor-FP16/BF16,Tensor-FP16/BF16,,category,1
+A100,A100,,category,1
+H100,H100,,category,1
+H800,H800,,category,1
+P100,P100,,category,1
+TPU v3,TPU v3,,category,1
+TPU v4,TPU v4,,category,1
+V100,V100,,category,1
+AMD,AMD,,organization,1
+Amazon,Amazon,,organization,1
+Huawei,Huawei,,organization,1
+Afghanistan,Afghanistan,AFG,country,"1,3,4,7,8"
+Albania,Albania,ALB,country,"1,3,4,7,8"
+Argentina,Argentina,ARG,country,"1,3,4,7,8,9"
+Azerbaijan,Azerbaijan,AZE,country,"1,3,4,7,8"
+Bahamas,Bahamas,BHS,country,"1,3,8"
+Bangladesh,Bangladesh,BGD,country,"1,3,4,7,8"
+Belarus,Belarus,BLR,country,"1,3,4,7,8"
+Bhutan,Bhutan,BTN,country,"1,3,7,8"
+Bolivia,Bolivia,BOL,country,"1,4,7"
+Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,country,"1,3,4,7,8"
+Brazil,Brazil,BRA,country,"1,3,4,6,7,8,9"
+Bulgaria,Bulgaria,BGR,country,"1,3,4,7,8"
+Cambodia,Cambodia,KHM,country,"1,3,4,7,8"
+Cayman Islands,Cayman Islands,CYM,country,"1,7,8"
+Chile,Chile,CHL,country,"1,3,4,7,8,9"
+Colombia,Colombia,COL,country,"1,3,4,7,8,9"
+Costa Rica,Costa Rica,CRI,country,"1,3,4,7,8,9"
+Croatia,Croatia,HRV,country,"1,3,4,7,8"
+Curacao,Curaçao,CUW,country,"1,3"
+Cyprus,Cyprus,CYP,country,"1,3,4,7,8"
+Denmark,Denmark,DNK,country,"1,3,4,6,7,8,9"
+Dominican Republic,Dominican Republic,DOM,country,"1,3,4,7,8"
+Ecuador,Ecuador,ECU,country,"1,3,4,7,8"
+El Salvador,El Salvador,SLV,country,"1,3,4,7,8"
+Georgia,Georgia,GEO,country,"1,3,4,7,8"
+Gibraltar,Gibraltar,GIB,country,"1,7"
+Greece,Greece,GRC,country,"1,3,4,7,8,9"
+Guatemala,Guatemala,GTM,country,"1,3,4,7,8"
+Honduras,Honduras,HND,country,"1,3,4,7,8"
+Hungary,Hungary,HUN,country,"1,3,4,7,8,9"
+Iceland,Iceland,ISL,country,"1,3,4,7,8"
+Indonesia,Indonesia,IDN,country,"1,3,4,7,8,9"
+Jamaica,Jamaica,JAM,country,"1,3,4,7,8"
+Kazakhstan,Kazakhstan,KAZ,country,"1,3,4,6,7,8"
+Kuwait,Kuwait,KWT,country,"1,3,4,6,7,8"
+Latvia,Latvia,LVA,country,"1,3,4,6,7,8,9"
+Liechtenstein,Liechtenstein,LIE,country,"1,3,7,8"
+Lithuania,Lithuania,LTU,country,"1,3,4,7,8,9"
+Luxembourg,Luxembourg,LUX,country,"1,3,4,7,8"
+Malaysia,Malaysia,MYS,country,"1,3,4,6,7,8,9"
+Malta,Malta,MLT,country,"1,3,6,7,8"
+Mexico,Mexico,MEX,country,"1,3,4,7,8,9"
+Moldova,Moldova,MDA,country,"1,3,4,7"
+Monaco,Monaco,MCO,country,"1,3,7"
+Myanmar,Myanmar,MMR,country,"1,3,4,7,8"
+Nepal,Nepal,NPL,country,"1,3,4,7,8"
+New Zealand,New Zealand,NZL,country,"1,3,4,6,7,8,9"
+Nicaragua,Nicaragua,NIC,country,"1,3,4,7,8"
+North Macedonia,North Macedonia,MKD,country,"1,3,7,8"
+Pakistan,Pakistan,PAK,country,"1,3,4,6,7,8"
+Panama,Panama,PAN,country,"1,3,4,7,8"
+Papua New Guinea,Papua New Guinea,PNG,country,"1,3,4,7,8"
+Paraguay,Paraguay,PRY,country,"1,3,4,7,8"
+Peru,Peru,PER,country,"1,3,4,6,7,8,9"
+Philippines,Philippines,PHL,country,"1,3,4,7,8"
+Portugal,Portugal,PRT,country,"1,3,4,6,7,8,9"
+Puerto Rico,Puerto Rico,PRI,country,"1,7"
+Romania,Romania,ROU,country,"1,3,4,7,8,9"
+Serbia,Serbia,SRB,country,"1,3,4,7,8"
+Slovakia,Slovakia,SVK,country,"1,3,4,7,8"
+Slovenia,Slovenia,SVN,country,"1,3,4,7,8,9"
+Sri Lanka,Sri Lanka,LKA,country,"1,3,4,7,8"
+Thailand,Thailand,THA,country,"1,3,4,7,8,9"
+Trinidad and Tobago,Trinidad and Tobago,TTO,country,"1,3,7,8"
+Turkey,Türkiye,TUR,country,"1,3,4,6,7,8,9"
+Ukraine,Ukraine,UKR,country,"1,3,4,7,8"
+Uruguay,Uruguay,URY,country,"1,3,4,7,8"
+Uzbekistan,Uzbekistan,UZB,country,"1,3,4,7,8"
+Venezuela,Venezuela,VEN,country,"1,3,4,7"
+Vietnam,Vietnam,VNM,country,"1,3,4,7,8"
+Leading hardware,Leading hardware,,category,1
+Non-leading hardware,Non-leading hardware,,category,1
+AlphaStar,AlphaStar,,model,1
+Amazon Titan,Amazon Titan,,model,1
+DNN EM segmentation,DNN EM segmentation,,model,1
+Deep Autoencoders,Deep Autoencoders,,model,1
+Falcon-180B,Falcon-180B,,model,1
+Flan-PaLM 540B,Flan-PaLM 540B,,model,1
+GPT-3 175B (davinci),GPT-3 175B (davinci),,model,1
+GPT-4,GPT-4,,model,1
+GShard (dense),GShard (dense),,model,1
+Gemini 1.0 Ultra,Gemini 1.0 Ultra,,model,1
+Gopher (280B),Gopher (280B),,model,1
+Grok 3,Grok 3,,model,"1,2"
+Inflection-2,Inflection-2,,model,1
+JFT,JFT,,model,1
+Llama 3.1-405B,Llama 3.1-405B,,model,1
+Llama 4 Behemoth (preview),Llama 4 Behemoth (preview),,model,1
+Meena,Meena,,model,1
+Megatron-BERT,Megatron-BERT,,model,1
+Megatron-LM (8.3B),Megatron-LM (8.3B),,model,1
+Megatron-Turing NLG 530B,Megatron-Turing NLG 530B,,model,1
+Minerva (540B),Minerva (540B),,model,1
+Nemotron-4 340B,Nemotron-4 340B,,model,1
+Noisy Student (L2),Noisy Student (L2),,model,1
+OpenAI Five,OpenAI Five,,model,1
+PaLM (540B),PaLM (540B),,model,1
+ResNeXt-101 32x48d,ResNeXt-101 32x48d,,model,1
+RoBERTa Large,RoBERTa Large,,model,1
+SAF R-CNN,SAF R-CNN,,model,1
+Switch,Switch,,model,1
+T5-11B,T5-11B,,model,1
+U-PaLM (540B),U-PaLM (540B),,model,1
+VGG16,VGG16,,model,1
+XLM-RoBERTa,XLM-RoBERTa,,model,1
+Xception,Xception,,model,1
+AlexNet,AlexNet,,model,1
+BERT-Large,BERT-Large,,model,1
+DeepSeek v3,DeepSeek v3,,model,"1,3"
+GLM-130B,GLM-130B,,model,1
+GPT-3,GPT-3,,model,1
+Grok 4,Grok 4,,model,"1,2"
+Llama 3.1 405B,Llama 3.1 405B,,model,1
+Megatron-Turing NLG,Megatron-Turing NLG,,model,1
+Claude 3 Haiku,Claude 3 Haiku,,model,1
+Claude 3.5 Haiku,Claude 3.5 Haiku,,model,1
+Claude 4 Opus,Claude 4 Opus,,model,1
+DeepSeek V3 (DeepSeek),DeepSeek V3 (DeepSeek),,model,1
+DeepSeek V3.2,DeepSeek V3.2,,model,"1,3"
+DeepSeek V3.2 Exp,DeepSeek V3.2 Exp,,model,1
+GPT-3.5 Turbo,GPT-3.5 Turbo,,model,1
+GPT-4 Turbo,GPT-4 Turbo,,model,1
+GPT-4o (Aug),GPT-4o (Aug),,model,1
+GPT-4o (May),GPT-4o (May),,model,1
+GPT-4o (Nov),GPT-4o (Nov),,model,1
+GPT-4o mini,GPT-4o mini,,model,1
+GPT-5 (low),GPT-5 (low),,model,1
+GPT-5 (medium),GPT-5 (medium),,model,1
+GPT-5 mini (high),GPT-5 mini (high),,model,1
+GPT-5 mini (medium),GPT-5 mini (medium),,model,1
+GPT-5 nano (high),GPT-5 nano (high),,model,1
+Grok 3 Fast,Grok 3 Fast,,model,1
+Kimi K2 Thinking,Kimi K2 Thinking,,model,"1,2"
+Llama 3 70B,Llama 3 70B,,model,1
+Llama 3.1 405B Latency Optimized,Llama 3.1 405B Latency Optimized,,model,1
+Llama 3.1 405B Standard,Llama 3.1 405B Standard,,model,1
+Llama 3.1 70B Standard,Llama 3.1 70B Standard,,model,1
+Llama 3.2 90B (Vision),Llama 3.2 90B (Vision),,model,1
+Mistral Large 2 (AWS),Mistral Large 2 (AWS),,model,1
+Mistral Large 2 (Azure),Mistral Large 2 (Azure),,model,1
+o1,o1,,model,"1,2"
+o3-mini (high),o3-mini (high),,model,1
+o3-pro,o3-pro,,model,1
+o4-mini (high),o4-mini (high),,model,1
+1 Google search,1 Google search,,category,1
+Charging 2 phones (energy usage),Charging 2 phones (energy usage),,category,1
+"Daily session (8 messages, medium queries)","Daily session (8 messages, medium queries)",,category,1
+"Daily session (8 messages, short queries)","Daily session (8 messages, short queries)",,category,1
+GPT-4o (Mar 2025) – long query,GPT-4o (Mar 2025) – long query,,category,1
+GPT-4o (Mar 2025) – medium query,GPT-4o (Mar 2025) – medium query,,category,1
+GPT-4o (Mar 2025) – short query,GPT-4o (Mar 2025) – short query,,category,1
+1 Olympic swimming pool,1 Olympic swimming pool,,category,1
+1 person annual drinking water (U.S. avg.),1 person annual drinking water (U.S. avg.),,category,1
+1.2 million people annual drinking water (aggregate),1.2 million people annual drinking water (aggregate),,category,1
+500 Olympic swimming pools (aggregate),500 Olympic swimming pools (aggregate),,category,1
+GPT-4o inference (maximum estimate),GPT-4o inference (maximum estimate),,category,1
+GPT-4o inference (minimum estimate),GPT-4o inference (minimum estimate),,category,1
+AMD,AMD,,category,1
+NVIDIA,NVIDIA,,category,1
+Other AI accelerator modules,Other AI accelerator modules,,category,1
+Total,Total,,category,"1,4,9"
+Nvidia,Nvidia,,category,1
+Other AI systems,Other AI systems,,category,1
+AI accelerator modules,AI accelerator modules,,category,1
+All-in AI systems,All-in AI systems,,category,1
+Austria,Austria,,category,"1,4"
+Bitcoin mining,Bitcoin mining,,category,1
+Data centers (excl. crypto),Data centers (excl. crypto),,category,1
+Finland,Finland,,category,1
+France,France,,category,"1,4"
+Ireland,Ireland,,category,1
+Switzerland,Switzerland,,category,"1,4"
+The Netherlands,The Netherlands,,category,1
+United Kingdom,United Kingdom,,category,"1,4"
+India,India,,category,"1,8"
+Rest of the world,Rest of the world,,category,1
+Germany,Germany,,category,"1,4"
+International/Online,International/Online,,category,1
+Others,Others,,category,"1,8"
+Unaffiliated user,Unaffiliated user,,category,1
+timm,timm,,organization,1
+Book,Book,,category,1
+Conference,Conference,,category,1
+Dissertation,Dissertation,,category,1
+Journal,Journal,,category,1
+Repository,Repository,,category,1
+AAAI,AAAI,,category,"1,3"
+ACL,ACL,,category,1
+CVPR,CVPR,,category,1
+EMNLP,EMNLP,,category,1
+ICCV,ICCV,,category,1
+ICLR,ICLR,,category,"1,3"
+ICML,ICML,,category,"1,3"
+ICRA,ICRA,,category,1
+IJCAI,IJCAI,,category,1
+IROS,IROS,,category,1
+NeurIPS,NeurIPS,,category,"1,3"
+AAMAS,AAMAS,,category,1
+FaccT,FaccT,,category,1
+ICAPS,ICAPS,,category,1
+IUI,IUI,,category,1
+KR,KR,,category,1
+UAI,UAI,,category,1
+East Asia and Pacific,East Asia and Pacific,,category,"1,8"
+Europe and Central Asia,Europe and Central Asia,,category,"1,8"
+Latin America and the Caribbean,Latin America and the Caribbean,,category,1
+Middle East and North Africa,Middle East and North Africa,,category,"1,8"
+North America,North America,,category,"1,3,6,8"
+South Asia,South Asia,,category,"1,6,8"
+Sub-Saharan Africa,Sub-Saharan Africa,,category,"1,6,8"
+Government,Government,,category,"1,7"
+Nonprofit,Nonprofit,,category,1
+Computer vision,Computer vision,,category,1
+Evolutionary computation,Evolutionary computation,,category,1
+Generative AI,Generative AI,,category,"1,4"
+Knowledge based systems,Knowledge based systems,,category,1
+Logic and reasoning,Logic and reasoning,,category,1
+Machine learning,Machine learning,,category,"1,4"
+Multi-agent systems,Multi-agent systems,,category,"1,4"
+Natural language processing,Natural language processing,,category,"1,4"
+Pattern recognition,Pattern recognition,,category,1
+Robotics,Robotics,,category,"1,4"
+European Patent Office,European Patent Office,,country,1
+Rest of the world,Rest of the world,,country,1
+South Africa,South Africa,ZAF,country,"1,3,4,6,7,8,9"
+WIPO,WIPO,,country,1
+AI applications (general and industrial),AI applications (general and industrial),,category,1
+Computer vision and image processing,Computer vision and image processing,,category,1
+Data science and big data,Data science and big data,,category,1
+Ethics and social impact,Ethics and social impact,,category,1
+HCI and user interaction,HCI and user interaction,,category,1
+"Hardware, VLSI, and IoT","Hardware, VLSI, and IoT",,category,1
+Healthcare and bioinformatics,Healthcare and bioinformatics,,category,1
+Machine learning and deep learning algorithms,Machine learning and deep learning algorithms,,category,1
+NLP and speech processing,NLP and speech processing,,category,1
+Other AI research,Other AI research,,category,1
+Physical sciences and environment,Physical sciences and environment,,category,1
+Robotics and control systems,Robotics and control systems,,category,1
+"Security, privacy, and cryptography","Security, privacy, and cryptography",,category,1
+Software engineering and networks,Software engineering and networks,,category,1
+India*,India,IND,country,"1,4,7"
+United States*,United States,USA,country,"1,7"
+ALBERT + DAAF + Verifier (ensemble),ALBERT + DAAF + Verifier (ensemble),,category,2
+AlexNet,AlexNet,,category,2
+BAN+Glove+Counter,BAN+Glove+Counter,,category,2
+BiT-L (ResNet),BiT-L (ResNet),,category,2
+Claude 3.5 Sonnet / GPT-4o,Claude 3.5 Sonnet / GPT-4o,,category,2
+Claude 4.5. Opus,Claude 4.5. Opus,,category,2
+Claude Opus 4.5 (no thinking),Claude Opus 4.5 (no thinking),,category,2
+"Flan-PaLM (5-shot, finetuned, CoT + SC)","Flan-PaLM (5-shot, finetuned, CoT + SC)",,category,2
+Florence-CoSwin-H,Florence-CoSwin-H,,category,2
+GPT-2 (1.5B),GPT-2 (1.5B),,category,2
+GPT-2 1.5B (fine-tuned),GPT-2 1.5B (fine-tuned),,category,2
+GPT-3 (fine-tuned),GPT-3 (fine-tuned),,category,2
+GPT-4,GPT-4,,category,2
+"GPT-4 model (w/ code, PAL)","GPT-4 model (w/ code, PAL)",,category,2
+GPT-4 with search<br>(backoff to CoT on abstention),GPT-4 with search<br>(backoff to CoT on abstention),,category,2
+"GPT-4-code model (CSV, w/ code, SC, k=16)","GPT-4-code model (CSV, w/ code, SC, k=16)",,category,2
+GPT-5 (High Effort):,GPT-5 (High Effort):,,category,2
+Gemini 1.0 Ultra,Gemini 1.0 Ultra,,category,2
+Gemini 3 Flash,Gemini 3 Flash,,category,2
+Gemini 3.1 Pro Preview,Gemini 3.1 Pro Preview,,category,2
+"Gopher (few-shot, k=5)","Gopher (few-shot, k=5)",,category,2
+Hairuo,Hairuo,,category,2
+IE-Net (ensemble),IE-Net (ensemble),,category,2
+"Image features from bottom-up attention (adaptive K, ensemble)","Image features from bottom-up attention (adaptive K, ensemble)",,category,2
+Inception V3,Inception V3,,category,2
+Liam Fedus,Liam Fedus,,category,2
+MCB,MCB,,category,2
+Meta Pseudo Labels (EfficientNet-L2),Meta Pseudo Labels (EfficientNet-L2),,category,2
+OpenAI o1,OpenAI o1,,category,2
+Oscar,Oscar,,category,2
+OverFeat - 7 accurate models,OverFeat - 7 accurate models,,category,2
+PAML+BERT (ensemble model),PAML+BERT (ensemble model),,category,2
+PNASNet-5,PNASNet-5,,category,2
+PaLI,PaLI,,category,2
+ResNeXt-101 32x48d,ResNeXt-101 32x48d,,category,2
+ResNeXt-101  64x4,ResNeXt-101  64x4,,category,2
+Roberta,Roberta,,category,2
+SA-Net on Albert (ensemble),SA-Net on Albert (ensemble),,category,2
+SAN (ensemble model),SAN (ensemble model),,category,2
+T5 Team - Google,T5 Team - Google,,category,2
+Top-k DiffSortNets (EfficientNet-L@),Top-k DiffSortNets (EfficientNet-L@),,category,2
+UNITER (Large),UNITER (Large),,category,2
+VGG-19,VGG-19,,category,2
+VLMo,VLMo,,category,2
+Vega v2,Vega v2,,category,2
+gemini-3-pro-preview,gemini-3-pro-preview,,category,2
+o1,o1,,category,2
+o1-preview,o1-preview,,category,2
+o3,o3,,category,2
+o3-mini high,o3-mini high,,category,2
+top closed model,top closed model,,category,2
+top open model,top open model,,category,2
+top China model,top China model,,category,2
+top US model,top US model,,category,2
+Alibaba,Alibaba,,category,2
+Anthropic,Anthropic,,category,"2,4"
+DeepSeek,DeepSeek,,category,2
+Google,Google,,category,2
+Meta,Meta,,category,2
+Mistral AI,Mistral AI,,category,"2,4"
+OpenAI,OpenAI,,category,"2,4"
+xAI,xAI,,category,"2,4"
+AIR-Bench,AIR-Bench,,category,2
+GSM8K,GSM8K,,category,2
+MMLU 5Sub,MMLU 5Sub,,category,2
+MMLU Cli,MMLU Cli,,category,2
+MMLU Math,MMLU Math,,category,2
+MMLU Med,MMLU Med,,category,2
+MedQA,MedQA,,category,2
+OpenBookQA,OpenBookQA,,category,2
+ThaiExam,ThaiExam,,category,2
+Claude-4-Opus (Thinking),Claude-4-Opus (Thinking),,model,2
+Claude-4.5-Opus (Thinking),Claude-4.5-Opus (Thinking),,model,2
+Claude-4.5-Sonnet (Thinking),Claude-4.5-Sonnet (Thinking),,model,2
+Claude-4.6-Opus (Thinking),Claude-4.6-Opus (Thinking),,model,2
+GPT-5.2,GPT-5.2,,model,2
+GPT-o1,GPT-o1,,model,2
+Gemini-3-Flash (12/25),Gemini-3-Flash (12/25),,model,2
+Gemini-3-Pro (11/25),Gemini-3-Pro (11/25),,model,2
+Gemini-3.1-Pro,Gemini-3.1-Pro,,model,2
+Hunyuan-T1,Hunyuan-T1,,model,2
+K2.5-1T-A32B,K2.5-1T-A32B,,model,2
+Qwen3.5-397B-A17B,Qwen3.5-397B-A17B,,model,2
+Seed2.0-Lite,Seed2.0-Lite,,model,2
+claude-opus-4-5-20251101,claude-opus-4-5-20251101,,model,2
+claude-opus-4-5-20251101-thinking-32k,claude-opus-4-5-20251101-thinking-32k,,model,2
+claude-opus-4-6,claude-opus-4-6,,model,2
+claude-opus-4-6-thinking,claude-opus-4-6-thinking,,model,2
+claude-sonnet-4-6,claude-sonnet-4-6,,model,2
+dola-seed-2.0-preview,dola-seed-2.0-preview,,model,2
+gemini-3-flash,gemini-3-flash,,model,"2,3"
+gemini-3-flash (thinking-minimal),gemini-3-flash (thinking-minimal),,model,2
+gemini-3-pro,gemini-3-pro,,model,"2,3"
+gemini-3.1-pro-preview,gemini-3.1-pro-preview,,model,2
+gpt-5.1-high,gpt-5.1-high,,model,2
+gpt-5.2-chat-latest-20260210,gpt-5.2-chat-latest-20260210,,model,2
+grok-4.1,grok-4.1,,model,2
+grok-4.1-thinking,grok-4.1-thinking,,model,2
+grok-4.20-beta1,grok-4.20-beta1,,model,2
+Claude-Haiku-4-5-20251001 (FC),Claude-Haiku-4-5-20251001 (FC),,model,2
+Claude-Opus-4-5-20251101 (FC),Claude-Opus-4-5-20251101 (FC),,model,2
+Claude-Sonnet-4-5-20250929 (FC),Claude-Sonnet-4-5-20250929 (FC),,model,2
+Command A Reasoning (FC),Command A Reasoning (FC),,model,2
+DeepSeek-V3.2-Exp (Prompt + Thinking),DeepSeek-V3.2-Exp (Prompt + Thinking),,model,2
+GLM-4.6 (FC thinking),GLM-4.6 (FC thinking),,model,2
+Gemini-2.5-Flash (FC),Gemini-2.5-Flash (FC),,model,2
+Gemini-3-Pro-Preview (FC),Gemini-3-Pro-Preview (FC),,model,2
+Gemini-3-Pro-Preview (Prompt),Gemini-3-Pro-Preview (Prompt),,model,2
+Grok-4-0709 (FC),Grok-4-0709 (FC),,model,2
+Grok-4-0709 (Prompt),Grok-4-0709 (Prompt),,model,2
+Grok-4-1-fast-non-reasoning (FC),Grok-4-1-fast-non-reasoning (FC),,model,2
+Grok-4-1-fast-reasoning (FC),Grok-4-1-fast-reasoning (FC),,model,2
+Moonshotai-Kimi-K2-Instruct (FC),Moonshotai-Kimi-K2-Instruct (FC),,model,2
+o3-2025-04-16 (Prompt),o3-2025-04-16 (Prompt),,model,2
+CVLM,CVLM,,model,2
+InternVideo2-8B-HD-Chat-f16,InternVideo2-8B-HD-Chat-f16,,model,2
+JT-VL-Chat,JT-VL-Chat,,model,2
+JT3.5,JT3.5,,model,2
+Kwai-VideoLLM,Kwai-VideoLLM,,model,2
+PLLaVA 34B,PLLaVA 34B,,model,2
+ST-LLM,ST-LLM,,model,2
+TimeMarker,TimeMarker,,model,2
+Video-CCAM-4B-v1.1,Video-CCAM-4B-v1.1,,model,2
+Video-CCAM-7B-v1.2,Video-CCAM-7B-v1.2,,model,2
+Video-CCAM-9B-v1.1,Video-CCAM-9B-v1.1,,model,2
+VideoChat2,VideoChat2,,model,2
+VideoChat2_HD_mistral,VideoChat2_HD_mistral,,model,2
+VideoChat2_mistral,VideoChat2_mistral,,model,2
+Woven-VLLM,Woven-VLLM,,model,2
+Aria,Aria,,model,2
+Claude-3.5-Sonnet,Claude-3.5-Sonnet,,model,2
+GLM-4V-PLUS-0111,GLM-4V-PLUS-0111,,model,2
+GPT-4o,GPT-4o,,model,2
+Gemini 1.5 Flash,Gemini 1.5 Flash,,model,2
+InternVL2-8B,InternVL2-8B,,model,2
+InternVideo2.5-Chat-8B,InternVideo2.5-Chat-8B,,model,2
+Keye-VL-1.5-8B,Keye-VL-1.5-8B,,model,2
+Kimi-VL-A3B-Thinking-2506,Kimi-VL-A3B-Thinking-2506,,model,2
+LLaVA-OneVision-72B,LLaVA-OneVision-72B,,model,2
+LLaVA-OneVision-7B,LLaVA-OneVision-7B,,model,2
+LLaVA-Video-72B,LLaVA-Video-72B,,model,2
+LLaVA-Video-7B,LLaVA-Video-7B,,model,2
+Llama-3.2-11B,Llama-3.2-11B,,model,2
+LongVA-7B,LongVA-7B,,model,2
+MAmmoTH-VL-8B,MAmmoTH-VL-8B,,model,2
+Qwen-2.5-VL-72B,Qwen-2.5-VL-72B,,model,2
+Qwen-2.5-VL-7B,Qwen-2.5-VL-7B,,model,2
+VILA1.5-40B,VILA1.5-40B,,model,2
+VILA1.5-8B,VILA1.5-8B,,model,2
+Video-RTS,Video-RTS,,model,2
+VideoChat-Flash-7B@448,VideoChat-Flash-7B@448,,model,2
+VideoLLaMA3-7B,VideoLLaMA3-7B,,model,2
+mPLUG-Owl3-7B,mPLUG-Owl3-7B,,model,2
+Human expert,Human expert,,model,2
+chatgpt-4o-latest-20250326,chatgpt-4o-latest-20250326,,model,2
+gemini-2.5-pro,gemini-2.5-pro,,model,"2,3"
+gpt-5.1,gpt-5.1,,model,"2,3"
+gpt-5.2,gpt-5.2,,model,"2,3"
+gpt-5.2-high,gpt-5.2-high,,model,2
+kimi-k2.5-instant,kimi-k2.5-instant,,model,2
+kimi-k2.5-thinking,kimi-k2.5-thinking,,model,2
+qwen3.5-397b-a17b,qwen3.5-397b-a17b,,model,2
+Cogvideox,Cogvideox,,model,2
+Gen3,Gen3,,model,2
+Kling,Kling,,model,2
+LaVie,LaVie,,model,2
+Pika-Beta,Pika-Beta,,model,2
+Show-1,Show-1,,model,2
+VideoCrafter2,VideoCrafter2,,model,2
+CogVideoX-1.5,CogVideoX-1.5,,model,2
+HunyuanVideo,HunyuanVideo,,model,2
+Kling 1.6,Kling 1.6,,model,2
+Seedance 1.0 Pro (2025-05-28),Seedance 1.0 Pro (2025-05-28),,model,2
+Sora-480p,Sora-480p,,model,2
+StepVideo,StepVideo,,model,2
+ToMoviee 2.0,ToMoviee 2.0,,model,2
+Veo 3,Veo 3,,model,2
+Vidu Q1 (2025-04-17),Vidu Q1 (2025-04-17),,model,2
+Wan2.1,Wan2.1,,model,2
+Claude Opus 4.6,Claude Opus 4.6,,model,2
+Claude-3.5-sonnet,Claude-3.5-sonnet,,model,2
+GPT-5 High,GPT-5 High,,model,2
+GPT-5 Pro,GPT-5 Pro,,model,2
+GPT-5.2 High,GPT-5.2 High,,model,2
+GPT-5.4 High,GPT-5.4 High,,model,2
+Gemini 2.5 Flash,Gemini 2.5 Flash,,model,"2,3"
+Gemini 2.5 Pro,Gemini 2.5 Pro,,model,"2,5"
+Gemini 3 Pro,Gemini 3 Pro,,model,2
+Gemini 3.1 Pro,Gemini 3.1 Pro,,model,2
+Gemini Robotics ER 1.5,Gemini Robotics ER 1.5,,model,2
+Gemini-2.0,Gemini-2.0,,model,2
+Llama 3.2-Vision,Llama 3.2-Vision,,model,2
+MiniCPM-V-2.6,MiniCPM-V-2.6,,model,2
+Mistral Medium 3.1,Mistral Medium 3.1,,model,2
+Qwen 3-VL 235B Instruct,Qwen 3-VL 235B Instruct,,model,2
+Qwen 3-VL 235B Thinking,Qwen 3-VL 235B Thinking,,model,2
+Qwen2-VL-7B,Qwen2-VL-7B,,model,2
+o3 High,o3 High,,model,2
+o3 Pro,o3 Pro,,model,2
+Claude Opus 4.5 (Nonthinking),Claude Opus 4.5 (Nonthinking),,model,2
+Claude Opus 4.5 (Thinking),Claude Opus 4.5 (Thinking),,model,2
+Claude Opus 4.6 (Thinking),Claude Opus 4.6 (Thinking),,model,2
+Claude Sonnet 4.6,Claude Sonnet 4.6,,model,2
+GPT 5,GPT 5,,model,2
+GPT 5.1,GPT 5.1,,model,2
+GPT 5.2,GPT 5.2,,model,2
+Gemini 2.5 Flash Preview,Gemini 2.5 Flash Preview,,model,2
+Gemini 2.5 Pro Exp,Gemini 2.5 Pro Exp,,model,2
+Gemini 3 Flash (12/25.),Gemini 3 Flash (12/25.),,model,2
+Gemini 3 Pro (11/25),Gemini 3 Pro (11/25),,model,2
+Gemini 3.1 Pro Preview,Gemini 3.1 Pro Preview,,model,"2,3"
+Kimi K2.5,Kimi K2.5,,model,"2,3"
+o3,o3,,model,2
+GPT-4 (Mar 2023),GPT-4 (Mar 2023),,category,2
+o1-2024-12-17_high,o1-2024-12-17_high,,category,2
+"Claude Opus 4.6 (120K, High)","Claude Opus 4.6 (120K, High)",,model,2
+"Claude Opus 4.6 (120K, Low)","Claude Opus 4.6 (120K, Low)",,model,2
+"Claude Opus 4.6 (120K, Max)","Claude Opus 4.6 (120K, Max)",,model,2
+"Claude Opus 4.6 (120K, Medium)","Claude Opus 4.6 (120K, Medium)",,model,2
+Claude Sonnet 4.6 (High),Claude Sonnet 4.6 (High),,model,2
+Claude Sonnet 4.6 (Max),Claude Sonnet 4.6 (Max),,model,2
+GPT-5.2 (High),GPT-5.2 (High),,model,2
+GPT-5.2 (Refine),GPT-5.2 (Refine),,model,2
+GPT-5.2 (X-High),GPT-5.2 (X-High),,model,2
+GPT-5.2 Pro (High),GPT-5.2 Pro (High),,model,2
+GPT-5.2 Pro (Medium),GPT-5.2 Pro (Medium),,model,2
+Gemini 3 Deep Think (2/26),Gemini 3 Deep Think (2/26),,model,2
+Gemini 3 Deep Think (Preview),Gemini 3 Deep Think (Preview),,model,2
+Gemini 3 Pro (Refine),Gemini 3 Pro (Refine),,model,2
+Gemini 3.1 Pro (Preview),Gemini 3.1 Pro (Preview),,model,2
+Blocksworld,Blocksworld,,category,2
+Childsnack,Childsnack,,category,2
+Floortile,Floortile,,category,2
+Miconic,Miconic,,category,2
+Rovers,Rovers,,category,2
+Sokoban,Sokoban,,category,2
+Spanner,Spanner,,category,2
+Transport,Transport,,category,2
+Claude 4.5 Opus (high reasoning),Claude 4.5 Opus (high reasoning),,model,2
+Claude 4.5 Sonnet (high reasoning),Claude 4.5 Sonnet (high reasoning),,model,2
+CodeFuse-CGM,CodeFuse-CGM,,model,2
+DARS Agent,DARS Agent,,model,2
+EntroPO + R2E<br>+ Qwen3-Coder-30B-A3B-Instruct,EntroPO + R2E<br>+ Qwen3-Coder-30B-A3B-Instruct,,model,2
+ExpeRepair-v1.0,ExpeRepair-v1.0,,model,2
+ExpeRepair-v1.0 + Claude 4 Sonnet,ExpeRepair-v1.0 + Claude 4 Sonnet,,model,2
+GLM-5 (high reasoning),GLM-5 (high reasoning),,model,2
+GPT 5.2 Codex,GPT 5.2 Codex,,model,2
+GPT-5-2 (high reasoning),GPT-5-2 (high reasoning),,model,2
+GPT-5-2 Codex,GPT-5-2 Codex,,model,2
+Gemini 3 Flash (high reasoning),Gemini 3 Flash (high reasoning),,model,2
+KGCompass<br>+ Claude 3.5 Sonnet (20241022),KGCompass<br>+ Claude 3.5 Sonnet (20241022),,model,2
+KGCompass<br>+ Claude 4 Sonnet (20250514),KGCompass<br>+ Claude 4 Sonnet (20250514),,model,2
+Kimi K2.5 (high reasoning),Kimi K2.5 (high reasoning),,model,2
+MiniMax M2.5 (high reasoning),MiniMax M2.5 (high reasoning),,model,2
+Refact.ai Agent,Refact.ai Agent,,model,2
+SWE-agent + Claude 3.7 Sonnet,SWE-agent + Claude 3.7 Sonnet,,model,2
+SWE-agent + Claude 4 Sonnet,SWE-agent + Claude 4 Sonnet,,model,2
+Claude Opus 4.6 (Nonthinking),Claude Opus 4.6 (Nonthinking),,model,2
+GLM 5.1,GLM 5.1,,model,2
+GPT 5.4 Mini,GPT 5.4 Mini,,model,2
+Gemini 3.1 Pro Preview (02/26),Gemini 3.1 Pro Preview (02/26),,model,2
+Claude 3.5 Sonnet (Jun 2024),Claude 3.5 Sonnet (Jun 2024),,category,2
+GPT-5.2 Pro,GPT-5.2 Pro,,category,2
+GPT-5.2 (high),GPT-5.2 (high),,model,2
+Grok 4.1 Fast (Reasoning),Grok 4.1 Fast (Reasoning),,model,2
+Aletheia,Aletheia,,model,2
+GPT-5.1,GPT-5.1,,model,2
+GPT-5.2 Thinking (high),GPT-5.2 Thinking (high),,model,2
+Gemini 3 Deep Think,Gemini 3 Deep Think,,model,2
+Gemini Deep Think<br>(IMO Gold),Gemini Deep Think<br>(IMO Gold),,model,2
+Grok 4.1 Fast Reasoning,Grok 4.1 Fast Reasoning,,model,2
+GPT 4.1,GPT 4.1,,model,2
+GPT 4o (2024-11-20),GPT 4o (2024-11-20),,model,2
+GPT 5 Mini,GPT 5 Mini,,model,2
+Grok 4 Fast (Reasoning),Grok 4 Fast (Reasoning),,model,2
+o4 Mini,o4 Mini,,model,2
+Claude 3.7 Sonnet (Nonthinking),Claude 3.7 Sonnet (Nonthinking),,model,2
+Claude 3.7 Sonnet (Thinking),Claude 3.7 Sonnet (Thinking),,model,2
+Gemini 3 Flash (12/25),Gemini 3 Flash (12/25),,model,2
+Qwen 3 Max Thinking,Qwen 3 Max Thinking,,model,2
+Qwen 3.5 Plus,Qwen 3.5 Plus,,model,2
+Claude Sonnet 4.5 (Thinking),Claude Sonnet 4.5 (Thinking),,model,2
+GLM 5,GLM 5,,model,2
+Command A,Command A,,model,2
+Claude Opus 4.1 (Nonthinking),Claude Opus 4.1 (Nonthinking),,model,2
+GLM 4.7,GLM 4.7,,model,2
+Gemini 2.5 Flash Preview 4/17<br>(Nonthinking),Gemini 2.5 Flash Preview 4/17<br>(Nonthinking),,model,2
+Claude Opus 4 High,Claude Opus 4 High,,model,2
+Claude Opus 4.1 High,Claude Opus 4.1 High,,model,2
+Claude Sonnet 4.5,Claude Sonnet 4.5,,model,2
+Claude-3.7 sonnet High,Claude-3.7 sonnet High,,model,2
+DeepSeek R1,DeepSeek R1,,model,"2,3"
+Qwen2.5-72B,Qwen2.5-72B,,category,2
+ColorBrowserAgent,ColorBrowserAgent,,model,2
+Deepseek v3.2,Deepseek v3.2,,model,2
+Jace.AI,Jace.AI,,model,2
+gpt-4-0613,gpt-4-0613,,model,2
+AIDE,AIDE,,model,2
+Famou-Agent 2.0,Famou-Agent 2.0,,model,2
+Claude 3.5 Sonnet,Claude 3.5 Sonnet,,model,"2,5"
+Claude 4.5 Opus,Claude 4.5 Opus,,model,2
+GLM-5,GLM-5,,model,"2,3"
+Gemini 3 Flash,Gemini 3 Flash,,model,"2,3"
+ARP+,ARP+,,model,2
+Act3D,Act3D,,model,2
+EquAct,EquAct,,model,2
+PerAct,PerAct,,model,2
+Comet,Comet,,organization,2
+Embodied Intelligence,Embodied Intelligence,,organization,2
+Robot Learning Collective,Robot Learning Collective,,organization,2
+SimpleAI Robot,SimpleAI Robot,,organization,2
+The North Star,The North Star,,organization,2
+GPT4o,GPT4o,,model,2
+GPT4o-MINI,GPT4o-MINI,,model,2
+INTERNVL 2.5 4B,INTERNVL 2.5 4B,,model,2
+QWEN72B,QWEN72B,,model,2
+QWEN7B,QWEN7B,,model,2
+Argoverse v1,Argoverse v1,,category,2
+Argoverse v2,Argoverse v2,,category,2
+CARLA Leaderboard*,CARLA Leaderboard*,,category,2
+DriveE2E,DriveE2E,,category,2
+DriveLMM-o1*,DriveLMM-o1*,,category,2
+KITTI Vision Benchmark Suite,KITTI Vision Benchmark Suite,,category,2
+NVIDIA PhysicalAI-AV,NVIDIA PhysicalAI-AV,,category,2
+NuPlanQA*,NuPlanQA*,,category,2
+RAMBLE (Imitation to Exploration)*,RAMBLE (Imitation to Exploration)*,,category,2
+Waymo Open Dataset,Waymo Open Dataset,,category,2
+Waymo Open Dataset - E2E,Waymo Open Dataset - E2E,,category,2
+nuPlan,nuPlan,,category,2
+nuScenes,nuScenes,,category,2
+All others,All others,,category,2
+Cyclist,Cyclist,,category,2
+Motorcycle,Motorcycle,,category,2
+Pedestrian,Pedestrian,,category,2
+Secondary crash,Secondary crash,,category,2
+Single vehicle,Single vehicle,,category,2
+V2V F2R,V2V F2R,,category,2
+V2V backing,V2V backing,,category,2
+V2V head-on,V2V head-on,,category,2
+V2V intersection,V2V intersection,,category,2
+V2V lateral,V2V lateral,,category,2
+6-month moving average,6-month moving average,,category,3
+total incidents,total incidents,,category,3
+ai21labs/jamba-mini-2,ai21labs/jamba-mini-2,,model,3
+amazon/nova-2-lite-v1:0,amazon/nova-2-lite-v1:0,,model,3
+amazon/nova-pro-v1:0,amazon/nova-pro-v1:0,,model,3
+antgroup/finix_s1_32b,antgroup/finix_s1_32b,,model,3
+deepseek-ai/DeepSeek-V3.2-Exp,deepseek-ai/DeepSeek-V3.2-Exp,,model,3
+google/gemini-2.5-flash-lite,google/gemini-2.5-flash-lite,,model,3
+google/gemma-3-12b-it,google/gemma-3-12b-it,,model,3
+ibm-granite/granite-4.0-h-small,ibm-granite/granite-4.0-h-small,,model,3
+meta-llama/Llama-3.3-70B-Instruct-Turbo,meta-llama/Llama-3.3-70B-Instruct-Turbo,,model,3
+microsoft/Phi-4,microsoft/Phi-4,,model,3
+mistralai/mistral-large-2411,mistralai/mistral-large-2411,,model,3
+mistralai/mistral-small-2501,mistralai/mistral-small-2501,,model,3
+qwen/qwen3-14b,qwen/qwen3-14b,,model,3
+qwen/qwen3-8b,qwen/qwen3-8b,,model,3
+snowflake/snowflake-arctic-instruct,snowflake/snowflake-arctic-instruct,,model,3
+Claude 4.5 Haiku,Claude 4.5 Haiku,,model,3
+Claude Opus 4.6 (max),Claude Opus 4.6 (max),,model,3
+Claude Sonnet 4.6 (max),Claude Sonnet 4.6 (max),,model,3
+GPT-5.4 (xhigh),GPT-5.4 (xhigh),,model,3
+GPT-5.4 mini (xhigh),GPT-5.4 mini (xhigh),,model,3
+Gemini 3.1 Fast Preview,Gemini 3.1 Fast Preview,,model,3
+Grok 4.20 Beta 0305,Grok 4.20 Beta 0305,,model,3
+K-EXAONE,K-EXAONE,,model,3
+K2 Think V2,K2 Think V2,,model,3
+Llama 4 Maverick,Llama 4 Maverick,,model,3
+MiMo-V2-Flash (Feb 2026),MiMo-V2-Flash (Feb 2026),,model,3
+MiMo-V2-Pro,MiMo-V2-Pro,,model,3
+Midm K2.5 Pro,Midm K2.5 Pro,,model,3
+MiniMax-M2.7,MiniMax-M2.7,,model,3
+Mistral Large 3,Mistral Large 3,,model,3
+NVIDIA Nemotron Nano,NVIDIA Nemotron Nano,,model,3
+Nova 2.0 Pro Preview<br>(medium),Nova 2.0 Pro Preview<br>(medium),,model,3
+Nvidia Nemotron Super,Nvidia Nemotron Super,,model,3
+Qwen3.5 397B A17B,Qwen3.5 397B A17B,,model,3
+gpt-oss-128B (high),gpt-oss-128B (high),,model,3
+gpt-oss-20B (high),gpt-oss-20B (high),,model,3
+1.8,1.8,,category,3
+2,2,,category,"3,4"
+2.1,2.1,,category,3
+2.2,2.2,,category,3
+2.3,2.3,,category,3
+2.5,2.5,,category,3
+0,0,,category,"3,4"
+0.05,0.05,,category,"3,4"
+0.08,0.08,,category,"3,4"
+0.11,0.11,,category,3
+0.13,0.13,,category,3
+0.29,0.29,,category,3
+0.3,0.3,,category,3
+0.42,0.42,,category,3
+0.5,0.5,,category,"3,4"
+0.02,0.02,,category,3
+0.18,0.18,,category,3
+0.19,0.19,,category,3
+0.21,0.21,,category,3
+0.24,0.24,,category,3
+0.28,0.28,,category,3
+0.32,0.32,,category,"3,4"
+0.39,0.39,,category,"3,4"
+Autonomous/unintended system actions,Autonomous/unintended system actions,,category,3
+Cybersecurity,Cybersecurity,,category,3
+Environmental impact,Environmental impact,,category,3
+Equity and fairness,Equity and fairness,,category,3
+Explainability,Explainability,,category,3
+IP infringement,IP infringement,,category,3
+Inaccuracy,Inaccuracy,,category,3
+National security,National security,,category,3
+Organizational reputation,Organizational reputation,,category,3
+Personal/individual privacy,Personal/individual privacy,,category,3
+Physical safety,Physical safety,,category,3
+Political stability,Political stability,,category,3
+Regulatory compliance,Regulatory compliance,,category,3
+Resource misuse,Resource misuse,,category,3
+Workforce labor displacement,Workforce labor displacement,,category,3
+0.01,0.01,,category,"3,4"
+0.04,0.04,,category,3
+0.06,0.06,,category,"3,4"
+0.07,0.07,,category,3
+0.09,0.09,,category,"3,4"
+0.1,0.1,,category,3
+0.14,0.14,,category,3
+0.17,0.17,,category,"3,4"
+0.0300751879699248,0.0300751879699248,,category,3
+0.116883116883117,0.116883116883117,,category,3
+0.128205128205128,0.128205128205128,,category,3
+0.150375939849624,0.150375939849624,,category,3
+0.204301075268817,0.204301075268817,,category,3
+0.21505376344086,0.21505376344086,,category,3
+0.220779220779221,0.220779220779221,,category,3
+0.233082706766917,0.233082706766917,,category,3
+0.324675324675325,0.324675324675325,,category,3
+0.365591397849462,0.365591397849462,,category,3
+0.397435897435897,0.397435897435897,,category,3
+0.12,0.12,,category,3
+0.16,0.16,,category,3
+0.2,0.2,,category,"3,4"
+0.23,0.23,,category,3
+0.25,0.25,,category,3
+0.26,0.26,,category,3
+0.36,0.36,,category,3
+0.22,0.22,,category,"3,4"
+0.38,0.38,,category,3
+0.4,0.4,,category,"3,7"
+0.41,0.41,,category,3
+0.45,0.45,,category,"3,7"
+0.48,0.48,,category,"3,4"
+0.51,0.51,,category,"3,7"
+0.59,0.59,,category,3
+0.008948545861297539,0.008948545861297539,,category,3
+0.02237136465324385,0.02237136465324385,,category,3
+0.08501118568232663,0.08501118568232663,,category,3
+0.22595078299776286,0.22595078299776286,,category,3
+0.28187919463087246,0.28187919463087246,,category,3
+0.3243847874720358,0.3243847874720358,,category,3
+0.34451901565995524,0.34451901565995524,,category,3
+0.36017897091722595,0.36017897091722595,,category,3
+0.37583892617449666,0.37583892617449666,,category,3
+0.61744966442953,0.61744966442953,,category,3
+0.036290323,0.036290323,,category,3
+0.118951613,0.118951613,,category,3
+0.163306452,0.163306452,,category,3
+0.169960474,0.169960474,,category,3
+0.212121212,0.212121212,,category,3
+0.326612903,0.326612903,,category,3
+0.360887097,0.360887097,,category,3
+0.409749671,0.409749671,,category,3
+0.427419355,0.427419355,,category,3
+0.598790323,0.598790323,,category,3
+0.654808959,0.654808959,,category,3
+Fairness & Bias,Fairness & Bias,,category,3
+Privacy,Privacy,,category,3
+Privacy & Data Governance,Privacy & Data Governance,,category,3
+Security,Security,,category,3
+Transparency & Explainability,Transparency & Explainability,,category,3
+AIES,AIES,,category,3
+FAccT,FAccT,,category,3
+ARE,United Arab Emirates,ARE,country,3
+ARG,Argentina,ARG,country,3
+AUS,Australia,AUS,country,3
+AUT,Austria,AUT,country,3
+BEL,Belgium,BEL,country,3
+BFA,Burkina Faso,BFA,country,3
+BGD,Bangladesh,BGD,country,3
+BGR,Bulgaria,BGR,country,3
+BLM,Saint Barthélemy,BLM,country,3
+BRA,Brazil,BRA,country,3
+BWA,Botswana,BWA,country,3
+CAN,Canada,CAN,country,3
+CHE,Switzerland,CHE,country,3
+CHL,Chile,CHL,country,3
+CHN,China,CHN,country,3
+CIV,Côte d'Ivoire,CIV,country,3
+COL,Colombia,COL,country,3
+CRI,Costa Rica,CRI,country,3
+CYP,Cyprus,CYP,country,3
+CZE,Czech Republic,CZE,country,3
+DEU,Germany,DEU,country,3
+DNK,Denmark,DNK,country,3
+DZA,Algeria,DZA,country,3
+EGY,Egypt,EGY,country,3
+ESP,Spain,ESP,country,3
+EST,Estonia,EST,country,3
+ETH,Ethiopia,ETH,country,3
+FIN,Finland,FIN,country,3
+FRA,France,FRA,country,3
+GBR,United Kingdom,GBR,country,3
+GEO,Georgia,GEO,country,3
+GHA,Ghana,GHA,country,3
+GRC,Greece,GRC,country,3
+GTM,Guatemala,GTM,country,3
+HKG,Hong Kong,HKG,country,3
+HRV,Croatia,HRV,country,3
+HUN,Hungary,HUN,country,3
+IDN,Indonesia,IDN,country,3
+IND,India,IND,country,3
+IRL,Ireland,IRL,country,3
+IRN,Iran,IRN,country,3
+ISL,Iceland,ISL,country,3
+ISR,Israel,ISR,country,3
+ITA,Italy,ITA,country,3
+JEY,Jersey,JEY,country,3
+JPN,Japan,JPN,country,3
+KEN,Kenya,KEN,country,3
+KHM,Cambodia,KHM,country,3
+KOR,South Korea,KOR,country,3
+LAO,Laos,LAO,country,3
+LBY,Libya,LBY,country,3
+LUX,Luxembourg,LUX,country,3
+MAC,Macao,MAC,country,3
+MAR,Morocco,MAR,country,3
+MEX,Mexico,MEX,country,3
+MLI,Mali,MLI,country,3
+MYS,Malaysia,MYS,country,3
+NAM,Namibia,NAM,country,3
+NCL,New Caledonia,NCL,country,3
+NGA,Nigeria,NGA,country,3
+NLD,Netherlands,NLD,country,3
+NOR,Norway,NOR,country,3
+NZL,New Zealand,NZL,country,3
+OMN,Oman,OMN,country,3
+PAK,Pakistan,PAK,country,3
+PER,Peru,PER,country,3
+PHL,Philippines,PHL,country,3
+POL,Poland,POL,country,3
+PRT,Portugal,PRT,country,3
+PRY,Paraguay,PRY,country,3
+QAT,Qatar,QAT,country,3
+ROU,Romania,ROU,country,3
+RUS,Russia,RUS,country,3
+SAU,Saudi Arabia,SAU,country,3
+SGP,Singapore,SGP,country,3
+SRB,Serbia,SRB,country,3
+SVK,Slovakia,SVK,country,3
+SVN,Slovenia,SVN,country,3
+SWE,Sweden,SWE,country,3
+TCD,Chad,TCD,country,3
+THA,Thailand,THA,country,3
+TUR,Türkiye,TUR,country,3
+TWN,Taiwan,TWN,country,3
+UKR,Ukraine,UKR,country,3
+URY,Uruguay,URY,country,3
+USA,United States,USA,country,"3,9"
+VNM,Vietnam,VNM,country,3
+ZAF,South Africa,ZAF,country,3
+Angola,Angola,AGO,country,"3,4,7,8"
+Antigua and Barbuda,Antigua and Barbuda,ATG,country,"3,7,8"
+Bahrain,Bahrain,BHR,country,"3,7,8"
+Botswana,Botswana,BWA,country,"3,4,7,8"
+Cameroon,Cameroon,CMR,country,"3,4,6,7,8"
+Chad,Chad,TCD,country,"3,4,7,8"
+Comoros,Comoros,COM,country,"3,7,8"
+Congo,Congo,COG,country,"3,4,8"
+Cuba,Cuba,CUB,country,"3,4,7,8"
+Côte d'Ivoire,Côte d'Ivoire,CIV,country,"3,7"
+Djibouti,Djibouti,DJI,country,"3,7,8"
+Egypt,Egypt,EGY,country,"3,4,8,9"
+Ethiopia,Ethiopia,ETH,country,"3,4,7,8"
+Gabon,Gabon,GAB,country,"3,4,7,8"
+Ghana,Ghana,GHA,country,"3,4,6,7,8"
+Kenya,Kenya,KEN,country,"3,4,7,8,9"
+Laos,Laos,LAO,country,"3,4,8"
+Malawi,Malawi,MWI,country,"3,4,7,8"
+Maldives,Maldives,MDV,country,"3,7,8"
+Mauritius,Mauritius,MUS,country,"3,7,8"
+Morocco,Morocco,MAR,country,"3,4,7,8"
+Mozambique,Mozambique,MOZ,country,"3,4,7,8"
+Namibia,Namibia,NAM,country,"3,4,7,8"
+Nigeria,Nigeria,NGA,country,"3,4,7,8,9"
+Oman,Oman,OMN,country,"3,4,7,8"
+Palestine,Palestine,PSE,country,3
+Rwanda,Rwanda,RWA,country,"3,4,7,8"
+Senegal,Senegal,SEN,country,"3,4,7,8"
+Somalia,Somalia,SOM,country,"3,4,7,8"
+Suriname,Suriname,SUR,country,"3,4,7,8"
+São Tomé and Príncipe,Sao Tome and Principe,STP,country,3
+Tanzania,Tanzania,TZA,country,"3,4,7"
+Timor Leste,Timor-Leste,TLS,country,3
+Tunisia,Tunisia,TUN,country,"3,4,7,8"
+Uganda,Uganda,UGA,country,"3,4,7,8"
+Zambia,Zambia,ZMB,country,"3,4,7,8"
+Zimbabwe,Zimbabwe,ZWE,country,"3,4,7,8"
+Armenia,Armenia,ARM,country,"3,4,7,8"
+Estonia,Estonia,EST,country,"3,4,7,8,9"
+European Union,European Union,,country,3
+Qatar,Qatar,QAT,country,"3,4,7,8"
+Republic of Korea,South Korea,KOR,country,"3,8"
+Russian Federation,Russia,RUS,country,"3,7,8"
+United Kindom,United Kingdom,GBR,country,3
+Algeria,Algeria,DZA,country,"3,4,7,8"
+Barbados,Barbados,BRB,country,"3,7,8"
+Belize,Belize,BLZ,country,"3,7,8"
+Benin,Benin,BEN,country,"3,4,7,8"
+Bolivia (Plurinational State of),Bolivia,BOL,country,"3,8"
+Burkina Faso,Burkina Faso,BFA,country,"3,4,7,8"
+Burundi,Burundi,BDI,country,"3,4,7,8"
+Central African Republic,Central African Republic,CAF,country,"3,4,7,8"
+"China, Hong Kong Special Administrative Region",China,CHN,country,3
+Democratic Republic of the Congo,Democratic Republic of the Congo,COD,country,"3,8"
+Eritrea,Eritrea,ERI,country,"3,4,7,8"
+Gambia,Gambia,GMB,country,"3,4"
+Guinea,Guinea,GIN,country,"3,4,7,8"
+Guyana,Guyana,GUY,country,"3,4,7,8"
+Haiti,Haiti,HTI,country,"3,4,7,8"
+Jordan,Jordan,JOR,country,"3,4,7,8"
+Kosovo,Kosovo,XKX,country,"3,7"
+Kyrgyz Republic,Kyrgyzstan,KGZ,country,"3,7"
+Lao People's Democratic Republic,Laos,LAO,country,"3,8"
+Lebanon,Lebanon,LBN,country,"3,4,7,8"
+Lesotho,Lesotho,LSO,country,"3,4,7,8"
+Liberia,Liberia,LBR,country,"3,4,7,8"
+Libya,Libya,LBY,country,"3,4,7,8"
+Mali,Mali,MLI,country,"3,4,7,8"
+Mongolia,Mongolia,MNG,country,"3,4,7,8"
+Montenegro,Montenegro,MNE,country,"3,7,8"
+Niger,Niger,NER,country,"3,4,7,8"
+Republic of Moldova,Moldova,MDA,country,"3,8"
+Saint Lucia,Saint Lucia,LCA,country,"3,8"
+Sierra Leone,Sierra Leone,SLE,country,"3,4,7,8"
+South Sudan,South Sudan,SSD,country,"3,4,7,8"
+Tajikistan,Tajikistan,TJK,country,"3,4,7,8"
+Togo,Togo,TGO,country,"3,4,7,8"
+Turkmenistan,Turkmenistan,TKM,country,"3,4,7,8"
+United Kingdom of Great Britain and Northern Ireland,United Kingdom,GBR,country,"3,8"
+United Republic of Tanzania,Tanzania,TZA,country,"3,8"
+United States of America,United States,USA,country,"3,7,8"
+Andorra,Andorra,AND,country,"3,7,8"
+Cental African Republica,Central African Republic,CAF,country,3
+Czechia,Czech Republic,CZE,country,"3,8"
+Equatorial Guinea,Equatorial Guinea,GNQ,country,"3,7,8"
+Eswatini,Eswatini,SWZ,country,"3,7,8"
+Grenada,Grenada,GRD,country,"3,7,8"
+Guinea-Bissau,Guinea,GIN,country,"3,4,7"
+Iran (Islamic Republic of),Iran,IRN,country,"3,8"
+Iraq,Iraq,IRQ,country,"3,4,7,8"
+Kyrgyzstan,Kyrgyzstan,KGZ,country,"3,4,8"
+Libia,Libya,LBY,country,3
+Madagascar,Madagascar,MDG,country,"3,4,7,8"
+Mauritania,Mauritania,MRT,country,"3,4,7,8"
+Saint Kitts and Nevis,Saint Kitts and Nevis,KNA,country,"3,8"
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VCT,country,"3,8"
+San Marino,San Marino,SMR,country,"3,7,8"
+Sao Tome and Principe,Sao Tome and Principe,STP,country,"3,8"
+Seychelles,Seychelles,SYC,country,"3,7,8"
+Sudan,Sudan,SDN,country,"3,4,7,8"
+Syrian Arab Republic,Syria,SYR,country,"3,7,8"
+Türkiye,Türkiye,TUR,country,"3,8"
+Viet Nam,Vietnam,VNM,country,"3,8"
+Yemen,Yemen,YEM,country,"3,6,7,8"
+Africa,Africa,,category,3
+Asia and Oceania,Asia and Oceania,,category,3
+Caribbean,Caribbean,,category,3
+Middle East,Middle East,,category,"3,6"
+South and Central America,South and Central America,,category,3
+ALLaM-7B-Instruct-preview,ALLaM-7B-Instruct-preview,,model,3
+AceGPT-v2-32B-Chat,AceGPT-v2-32B-Chat,,model,3
+AceGPT-v2-70B-Chat,AceGPT-v2-70B-Chat,,model,3
+AceGPT-v2-8B-Chat,AceGPT-v2-8B-Chat,,model,3
+Arabic.AI LLM-S,Arabic.AI LLM-S,,model,3
+Arabic.AI LLM-X,Arabic.AI LLM-X,,model,3
+Cohere Labs Command A,Cohere Labs Command A,,model,3
+DeepSeek v3.1,DeepSeek v3.1,,model,3
+Falcon3-10B-Instruct,Falcon3-10B-Instruct,,model,3
+Falcon3-7B-Instruct,Falcon3-7B-Instruct,,model,3
+GPT-4.1 (2025-04-14),GPT-4.1 (2025-04-14),,model,3
+GPT-4.1 mini (2025-04-14),GPT-4.1 mini (2025-04-14),,model,3
+GPT-4.1 nano (2025-04-14),GPT-4.1 nano (2025-04-14),,model,3
+GPT-5.1 (2025-11-13),GPT-5.1 (2025-11-13),,model,3
+Gemini 2.5 Flash-Lite,Gemini 2.5 Flash-Lite,,model,3
+Jais-adapted-13b-chat,Jais-adapted-13b-chat,,model,3
+Jais-adapted-70b-chat,Jais-adapted-70b-chat,,model,3
+Jais-adapted-7b-chat,Jais-adapted-7b-chat,,model,3
+Jais-family-30b-16k-chat,Jais-family-30b-16k-chat,,model,3
+Llama 3.3 Instruct Turbo (70B),Llama 3.3 Instruct Turbo (70B),,model,3
+Llama 4 Maverick (17Bx128E)<br>Instruct FP8,Llama 4 Maverick (17Bx128E)<br>Instruct FP8,,model,3
+Llama 4 Scout (17Bx16E) Instruct,Llama 4 Scout (17Bx16E) Instruct,,model,3
+Mistral Large (2411),Mistral Large (2411),,model,3
+Qwen2.5 Instruct Turbo (72B),Qwen2.5 Instruct Turbo (72B),,model,3
+Qwen2.5 Instruct Turbo (7B),Qwen2.5 Instruct Turbo (7B),,model,3
+Qwen3 235B A22B<br>Instruct 2507 FP8,Qwen3 235B A22B<br>Instruct 2507 FP8,,model,3
+Qwen3-Next 80B A3B Instruct,Qwen3-Next 80B A3B Instruct,,model,3
+SILMA 9B,SILMA 9B,,model,3
+Llama-3.2-3B-Instruct,Llama-3.2-3B-Instruct,,model,3
+Llama-4-Maverick-17B-128E-Instruct,Llama-4-Maverick-17B-128E-Instruct,,model,3
+Llama-4-Scout-17B-16E-Instruct,Llama-4-Scout-17B-16E-Instruct,,model,3
+Qwen3-235B-A22B-Instruct-2507,Qwen3-235B-A22B-Instruct-2507,,model,3
+Qwen3-235B-A22B-Thinking-2507,Qwen3-235B-A22B-Thinking-2507,,model,3
+Qwen3-30B-A3B-Instruct,Qwen3-30B-A3B-Instruct,,model,3
+Qwen3-Next-80B-A3B-Instruct,Qwen3-Next-80B-A3B-Instruct,,model,3
+gemini-2.5-flash,gemini-2.5-flash,,model,3
+gemini-2.5-flash-lite,gemini-2.5-flash-lite,,model,3
+gemma-3-12b-it,gemma-3-12b-it,,model,3
+gemma-3-27b-it,gemma-3-27b-it,,model,3
+gpt-4,gpt-4,,model,3
+gpt-4.1,gpt-4.1,,model,3
+gpt-4.1-mini,gpt-4.1-mini,,model,3
+gpt-4.1-nano,gpt-4.1-nano,,model,3
+gpt-4o,gpt-4o,,model,3
+gpt-4o-mini,gpt-4o-mini,,model,3
+gpt-5,gpt-5,,model,3
+gpt-5-mini,gpt-5-mini,,model,3
+gpt-5-nano,gpt-5-nano,,model,3
+gpt-5-pro,gpt-5-pro,,model,3
+granite-4-h-small,granite-4-h-small,,model,3
+Cerkno dialect,Cerkno dialect,,category,3
+Standard Slovenian,Standard Slovenian,,category,3
+K2 Think,K2 Think,,model,3
+NVIDIA Nemotron 3 Nano,NVIDIA Nemotron 3 Nano,,model,3
+NVIDIA Nemotron 3 Super,NVIDIA Nemotron 3 Super,,model,3
+NVIDIA Nemotron 9B V2,NVIDIA Nemotron 9B V2,,model,3
+Olmo 3 32B Think,Olmo 3 32B Think,,model,3
+gpt-oss-120B (high),gpt-oss-120B (high),,model,3
+LTU,Lithuania,LTU,country,3
+LVA,Latvia,LVA,country,3
+MLT,Malta,MLT,country,3
+Claude 3 Haiku (20240307),Claude 3 Haiku (20240307),,model,3
+Claude 3 Opus (20240229),Claude 3 Opus (20240229),,model,3
+Claude 3 Sonnet (20240229),Claude 3 Sonnet (20240229),,model,3
+Claude 3.5 Sonnet (20240620),Claude 3.5 Sonnet (20240620),,model,3
+Command R,Command R,,model,3
+Command R Plus,Command R Plus,,model,3
+DBRX Instruct,DBRX Instruct,,model,3
+DeepSeek LLM Chat (67B),DeepSeek LLM Chat (67B),,model,3
+DeepSeek R1 (hide reasoning),DeepSeek R1 (hide reasoning),,model,3
+GPT-3.5 Turbo (0125),GPT-3.5 Turbo (0125),,model,3
+GPT-3.5 Turbo (0613),GPT-3.5 Turbo (0613),,model,3
+GPT-3.5 Turbo (1106),GPT-3.5 Turbo (1106),,model,3
+GPT-4 Turbo (2024-04-09),GPT-4 Turbo (2024-04-09),,model,3
+GPT-4o (2024-05-13),GPT-4o (2024-05-13),,model,3
+GPT-4o mini (2024-07-18),GPT-4o mini (2024-07-18),,model,3
+Gemini 1.5 Flash (001),Gemini 1.5 Flash (001),,model,3
+Gemini 1.5 Pro (001),Gemini 1.5 Pro (001),,model,3
+Llama 3 Instruct (70B),Llama 3 Instruct (70B),,model,3
+Llama 3 Instruct (8B),Llama 3 Instruct (8B),,model,3
+Llama 3.1 Instruct Turbo (405B),Llama 3.1 Instruct Turbo (405B),,model,3
+Llama 3.1 Instruct Turbo (70B),Llama 3.1 Instruct Turbo (70B),,model,3
+Llama 3.1 Instruct Turbo (8B),Llama 3.1 Instruct Turbo (8B),,model,3
+Mistral Instruct v0.1 (7B),Mistral Instruct v0.1 (7B),,model,3
+Mistral Instruct v0.3 (7B),Mistral Instruct v0.3 (7B),,model,3
+Mixtral Instruct (8x22B),Mixtral Instruct (8x22B),,model,3
+Mixtral Instruct (8x7B),Mixtral Instruct (8x7B),,model,3
+Qwen1.5 Chat (72B),Qwen1.5 Chat (72B),,model,3
+Qwen2 Instruct (72B),Qwen2 Instruct (72B),,model,3
+o1 (2024-12-17),o1 (2024-12-17),,model,3
+o1-mini (2024-09-12),o1-mini (2024-09-12),,model,3
+o3-mini (2025-01-31),o3-mini (2025-01-31),,model,3
+Merger/Acquisition,Merger/Acquisition,,category,4
+Minority Stake,Minority Stake,,category,4
+Private Investment,Private Investment,,category,4
+Public Offering,Public Offering,,category,4
+AK,AK,,us_state,"4,7"
+AL,AL,,us_state,"4,7,9"
+AZ,AZ,,us_state,"4,7,9"
+CA,CA,,us_state,"4,7,9"
+CO,CO,,us_state,"4,7,9"
+CT,CT,,us_state,"4,7,9"
+DC,DC,,us_state,"4,7"
+DE,DE,,us_state,"4,7"
+FL,FL,,us_state,"4,7,9"
+GA,GA,,us_state,"4,7,9"
+HI,HI,,us_state,"4,7"
+IA,IA,,us_state,"4,7,9"
+ID,ID,,us_state,"4,7"
+IL,IL,,us_state,"4,7,9"
+IN,IN,,us_state,"4,7,9"
+KS,KS,,us_state,"4,7,9"
+KY,KY,,us_state,"4,7,9"
+LA,LA,,us_state,"4,7,9"
+MA,MA,,us_state,"4,7,9"
+MD,MD,,us_state,"4,7,9"
+ME,ME,,us_state,"4,7"
+MI,MI,,us_state,"4,7,9"
+MN,MN,,us_state,"4,7,9"
+MO,MO,,us_state,"4,7,9"
+MS,MS,,us_state,"4,7,9"
+MT,MT,,us_state,"4,7"
+NC,NC,,us_state,"4,7,9"
+ND,ND,,us_state,"4,7"
+NE,NE,,us_state,"4,7,9"
+NH,NH,,us_state,"4,7,9"
+NJ,NJ,,us_state,"4,7,9"
+NM,NM,,us_state,"4,7,9"
+NV,NV,,us_state,"4,7,9"
+NY,NY,,us_state,"4,7,9"
+OH,OH,,us_state,"4,7,9"
+OR,OR,,us_state,"4,7,9"
+PA,PA,,us_state,"4,7,9"
+RI,RI,,us_state,"4,7"
+SC,SC,,us_state,"4,7,9"
+TN,TN,,us_state,"4,7,9"
+TX,TX,,us_state,"4,7,9"
+UT,UT,,us_state,"4,7,9"
+VA,VA,,us_state,"4,7,9"
+VT,VT,,us_state,"4,7"
+WA,WA,,us_state,"4,7,9"
+WI,WI,,us_state,"4,7,9"
+WY,WY,,us_state,"4,7"
+AI agents,AI agents,,category,4
+AI infrastructure/models/research/governance,AI infrastructure/models/research/governance,,category,4
+Accounting/finance,Accounting/finance,,category,4
+Autonomous vehicles,Autonomous vehicles,,category,4
+Biotech,Biotech,,category,4
+Cloud computing,Cloud computing,,category,4
+"Creative, music, video content","Creative, music, video content",,category,4
+"Cybersecurity, data protection","Cybersecurity, data protection",,category,4
+"Data management, processing","Data management, processing",,category,4
+Defense,Defense,,category,4
+Drones,Drones,,category,4
+Ed tech,Ed tech,,category,4
+Energy management,Energy management,,category,4
+Entertainment,Entertainment,,category,4
+Fintech,Fintech,,category,4
+HR tech,HR tech,,category,4
+Internet of things,Internet of things,,category,4
+Legal tech,Legal tech,,category,4
+"Marketing, digital ads","Marketing, digital ads",,category,4
+Medical and healthcare,Medical and healthcare,,category,4
+Pharmaceutical,Pharmaceutical,,category,4
+Quantum computing,Quantum computing,,category,4
+Retail,Retail,,category,4
+Semiconductors,Semiconductors,,category,4
+AI infrastructure/models/research/governance*,AI infrastructure/models/research/governance*,,category,4
+AV,AV,,category,4
+IoT,IoT,,category,4
+Z.ai,Z.ai,,category,4
+0.33,0.33,,category,"4,7"
+0.47,0.47,,category,"4,7"
+0.55,0.55,,category,4
+0.56,0.56,,category,4
+0.58,0.58,,category,4
+0.71,0.71,,category,"4,7"
+0.78,0.78,,category,"4,7"
+0.79,0.79,,category,"4,7"
+0.88,0.88,,category,"4,7"
+Bosnia And Herzegovina,Bosnia and Herzegovina,BIH,country,4
+Congo (DRC),Democratic Republic of the Congo,COD,country,4
+Cote D'Ivoire,Côte d'Ivoire,CIV,country,4
+French Guiana,French Guiana,GUF,country,4
+Syria,Syria,SYR,country,4
+Trkiye,Türkiye,TUR,country,4
+0.49,0.49,,category,4
+0.57,0.57,,category,4
+0.61,0.61,,category,"4,7"
+0.72,0.72,,category,"4,7"
+0.75,0.75,,category,"4,7"
+0.77,0.77,,category,4
+0.8,0.8,,category,"4,7"
+0.82,0.82,,category,"4,7"
+0.9,0.9,,category,"4,7"
+0.91,0.91,,category,"4,7"
+Advanced industries,Advanced industries,,category,4
+"Business, legal, and  professional services","Business, legal, and  professional services",,category,4
+Consumer goods and  retail,Consumer goods and  retail,,category,4
+Energy and materials,Energy and materials,,category,4
+Financial services,Financial services,,category,4
+"Health care, pharma, and  medical products","Health care, pharma, and  medical products",,category,4
+Media and telecom,Media and telecom,,category,4
+Technology,Technology,,category,4
+Human resources,Human resources,,category,4
+IT,IT,,category,4
+Knowledge management,Knowledge management,,category,4
+Manufacturing,Manufacturing,,category,4
+Marketing and sales,Marketing and sales,,category,4
+Product and/or service development,Product and/or service development,,category,4
+Risk,Risk,,category,4
+Service operations,Service operations,,category,4
+Software engineering,Software engineering,,category,4
+Strategy and corporate finance,Strategy and corporate finance,,category,4
+Supply chain management,Supply chain management,,category,4
+0.31,0.31,,category,4
+Advanced manufacturing,Advanced manufacturing,,category,4
+Consumer goods and retail,Consumer goods and retail,,category,4
+Engineering and construction,Engineering and construction,,category,4
+Financial institutions,Financial institutions,,category,4
+Healthcare,Healthcare,,category,4
+Insurance,Insurance,,category,4
+Pharma and medical products,Pharma and medical products,,category,4
+Professional services,Professional services,,category,4
+Travel and logistics,Travel and logistics,,category,4
+Supply chain/inventory management,Supply chain/inventory management,,category,4
+1,1,,category,"4,7"
+10,10,,category,4
+11,11,,category,4
+12,12,,category,4
+13,13,,category,4
+14,14,,category,4
+15,15,,category,4
+16,16,,category,4
+17,17,,category,4
+18,18,,category,4
+19,19,,category,4
+20,20,,category,4
+21,21,,category,4
+22,22,,category,4
+23,23,,category,4
+24,24,,category,4
+25,25,,category,4
+3,3,,category,4
+4,4,,category,4
+5,5,,category,4
+6,6,,category,4
+7,7,,category,4
+8,8,,category,4
+9,9,,category,4
+Republic of the Congo,Congo,COG,country,4
+Architecture and Engineering,Architecture and Engineering,,organization,4
+"Arts, Design, Entertainment, Sports, and Media","Arts, Design, Entertainment, Sports, and Media",,organization,4
+Business and Financial Operations,Business and Financial Operations,,organization,4
+Computer and Mathematical,Computer and Mathematical,,organization,4
+Educational Instruction and Library,Educational Instruction and Library,,organization,4
+"Life, Physical, and Social Sciences","Life, Physical, and Social Sciences",,organization,4
+Management,Management,,organization,4
+Office and Administrative Support,Office and Administrative Support,,organization,4
+Augmentation (%),Augmentation (%),,organization,4
+Automation (%),Automation (%),,organization,4
+Canada,Canada,,category,4
+Chile,Chile,,category,4
+Hong Kong,Hong Kong,,category,4
+Luxembourg,Luxembourg,,category,4
+Poland,Poland,,category,4
+Singapore,Singapore,,category,4
+Spain,Spain,,category,4
+Sweden,Sweden,,category,4
+United Arab Emirates,United Arab Emirates,,category,4
+Australia,Australia,,category,4
+Belgium,Belgium,,category,4
+Croatia,Croatia,,category,4
+Italy,Italy,,category,4
+Mexico,Mexico,,category,4
+Netherlands,Netherlands,,category,4
+New Zealand,New Zealand,,category,4
+AI agent,AI agent,,category,4
+"AI ethics, governance, and regulations","AI ethics, governance, and regulations",,category,4
+Artificial intelligence,Artificial intelligence,,category,4
+Autonomous driving,Autonomous driving,,category,4
+Neural networks,Neural networks,,category,4
+Visual image recognition,Visual image recognition,,category,4
+Amazon Web Services,Amazon Web Services,,category,4
+Automation,Automation,,category,4
+Computer science,Computer science,,category,4
+Data analysis,Data analysis,,category,4
+Data science,Data science,,category,4
+Project management,Project management,,category,4
+Python (programming language),Python (programming language),,category,4
+SQL (programming language),SQL (programming language),,category,4
+Scalability,Scalability,,category,4
+Workflow management,Workflow management,,category,4
+Context engineering,Context engineering,,category,4
+Generative adversarial networks,Generative adversarial networks,,category,4
+Generative artificial intelligence,Generative artificial intelligence,,category,4
+Large language modeling,Large language modeling,,category,4
+Multimodal models,Multimodal models,,category,4
+Prompt engineering,Prompt engineering,,category,4
+Retrieval augmented generation,Retrieval augmented generation,,category,4
+Stable Diffusion,Stable Diffusion,,category,4
+Text to speech (TTS),Text to speech (TTS),,category,4
+Variational autoencoders,Variational autoencoders,,category,4
+Agentic AI,Agentic AI,,category,4
+Agentic systems,Agentic systems,,category,4
+ChatGPT,ChatGPT,,category,4
+Chatbot,Chatbot,,category,4
+Conversational AI,Conversational AI,,category,4
+LangGraph,LangGraph,,category,4
+Microsoft Copilot,Microsoft Copilot,,category,4
+Microsoft Copilot Studio,Microsoft Copilot Studio,,category,4
+"Agriculture, forestry, fishing and hunting","Agriculture, forestry, fishing and hunting",,category,4
+Educational services,Educational services,,category,4
+Finance and insurance,Finance and insurance,,category,4
+Information,Information,,category,4
+Management of companies and enterprises,Management of companies and enterprises,,category,4
+"Mining, quarrying, and oil and gas extraction","Mining, quarrying, and oil and gas extraction",,category,4
+"Professional, scientific, and technical services","Professional, scientific, and technical services",,category,4
+Public administration,Public administration,,category,4
+Real estate and rental and leasing,Real estate and rental and leasing,,category,4
+Retail trade,Retail trade,,category,4
+Transportation and warehousing,Transportation and warehousing,,category,4
+Utilities,Utilities,,category,4
+Waste management and administrative support services,Waste management and administrative support services,,category,4
+Wholesale trade,Wholesale trade,,category,4
+AR,AR,,us_state,"4,7,9"
+OK,OK,,us_state,"4,7,9"
+SD,SD,,us_state,"4,7"
+WV,WV,,us_state,"4,7,9"
+California,California,,category,4
+New York,New York,,category,4
+Texas,Texas,,category,4
+Washington,Washington,,category,4
+Australia*,Australia,AUS,country,4
+Austria*,Austria,AUT,country,4
+Bulgaria*,Bulgaria,BGR,country,4
+Canada*,Canada,CAN,country,4
+Cyprus*,Cyprus,CYP,country,4
+Estonia*,Estonia,EST,country,4
+Germany*,Germany,DEU,country,4
+Hong Kong*,Hong Kong,HKG,country,4
+Hungary*,Hungary,HUN,country,4
+Ireland*,Ireland,IRL,country,4
+Israel*,Israel,ISR,country,4
+Lithuania*,Lithuania,LTU,country,4
+Luxembourg*,Luxembourg,LUX,country,4
+Saudi Arabia*,Saudi Arabia,SAU,country,4
+Singapore*,Singapore,SGP,country,4
+Slovakia*,Slovakia,SVK,country,4
+Switzerland*,Switzerland,CHE,country,4
+United Arab Emirates*,United Arab Emirates,ARE,country,4
+United Kingdom*,United Kingdom,GBR,country,4
+Developing (31-34),Developing (31-34),,category,4
+Early Career 1 (22-25),Early Career 1 (22-25),,category,4
+Early Career 2 (26-30),Early Career 2 (26-30),,category,4
+Mid-Career 1 (35-40),Mid-Career 1 (35-40),,category,4
+Mid-Career 2 (41-49),Mid-Career 2 (41-49),,category,4
+Senior (50+),Senior (50+),,category,4
+Organizations with <$1 billion revenues,Organizations with <$1 billion revenues,,category,4
+Organizations with >=$1 billion revenues,Organizations with >=$1 billion revenues,,category,4
+Overall,Overall,,category,"4,6"
+Product/service development,Product/service development,,category,4
+Collaborative,Collaborative,,category,4
+Traditional,Traditional,,category,4
+Agriculture,Agriculture,,category,4
+Hospitality,Hospitality,,category,4
+Medical and Healthcare,Medical and Healthcare,,category,4
+Professional Cleaning,Professional Cleaning,,category,4
+Transportation and logistics,Transportation and logistics,,category,4
+Earth science,Earth science,,category,5
+Life sciences,Life sciences,,category,5
+Natural sciences,Natural sciences,,category,5
+Physical sciences,Physical sciences,,category,5
+Asta v0,Asta v0,,model,5
+ReAct,ReAct,,model,5
+Smolagents Coder,Smolagents Coder,,model,5
+Claude Sonnet 4,Claude Sonnet 4,,model,5
+GLM-4.5,GLM-4.5,,model,5
+GPT-4.1,GPT-4.1,,model,5
+Kimi-K2-Instruct,Kimi-K2-Instruct,,model,5
+OpenAI o4-mini-high,OpenAI o4-mini-high,,model,5
+Qwen3-235B-Instruct,Qwen3-235B-Instruct,,model,5
+Qwen3-235B-Thinking,Qwen3-235B-Thinking,,model,5
+Future  prediction,Future  prediction,,category,6
+Protein structure prediction,Protein structure prediction,,category,6
+Protein-drug interactions,Protein-drug interactions,,category,6
+Synthetic protein design,Synthetic protein design,,category,6
+E1,E1,,model,6
+ESM2,ESM2,,model,6
+ESM3,ESM3,,model,6
+MSA-Pairformer,MSA-Pairformer,,model,6
+MSA-Transformer,MSA-Transformer,,model,6
+OpenCRISPR-1 (proseLM),OpenCRISPR-1 (proseLM),,model,6
+PoET-2,PoET-2,,model,6
+ProGen,ProGen,,model,6
+ProGen2,ProGen2,,model,6
+ProGen3,ProGen3,,model,6
+ProtBert,ProtBert,,model,6
+ProtT5,ProtT5,,model,6
+Proteina,Proteina,,model,6
+SHIVER,SHIVER,,model,6
+E1 (Retrieval Augmented),E1 (Retrieval Augmented),,model,6
+E1 (Single Sequence),E1 (Single Sequence),,model,6
+ESM-2,ESM-2,,model,6
+ESMC,ESMC,,model,6
+MSA Pairformer,MSA Pairformer,,model,6
+PoET,PoET,,model,6
+AlphaFold 2,AlphaFold 2,,model,6
+AlphaFold 3,AlphaFold 3,,model,6
+Boltz-1,Boltz-1,,model,6
+Boltz-2,Boltz-2,,model,6
+Chai-1,Chai-1,,model,6
+HelixFold3,HelixFold3,,model,6
+OpenFold,OpenFold,,model,6
+Protenix v0.7,Protenix v0.7,,model,6
+Protenix-Mini,Protenix-Mini,,model,6
+Protenix-Tiny,Protenix-Tiny,,model,6
+RoseTTAFold,RoseTTAFold,,model,6
+RoseTTAFold All Atom,RoseTTAFold All Atom,,model,6
+RosettaFold-3,RosettaFold-3,,model,6
+SeedFold,SeedFold,,model,6
+SimpleFold,SimpleFold,,model,6
+BindCraft,BindCraft,,category,6
+BoltzGen,BoltzGen,,category,6
+Germinal,Germinal,,category,6
+Mosaic,Mosaic,,category,6
+RDFDiffusion,RDFDiffusion,,category,6
+Borzoi (190M),Borzoi (190M),,model,6
+Enformer (250M),Enformer (250M),,model,6
+Evo 2 (40B),Evo 2 (40B),,model,6
+GPN-Star (200M),GPN-Star (200M),,model,6
+GPT-4 Only,GPT-4 Only,,category,6
+Physicians + GPT-4,Physicians + GPT-4,,category,6
+Physicians + Resources,Physicians + Resources,,category,6
+o1-preview Only,o1-preview Only,,category,6
+Cardiovascular,Cardiovascular,,category,6
+Gastroenterology-Urology,Gastroenterology-Urology,,category,6
+Neurology,Neurology,,category,6
+Ophthalmic,Ophthalmic,,category,6
+Orthopedic,Orthopedic,,category,6
+Pathology,Pathology,,category,6
+Radiology,Radiology,,category,6
+Anesthesiology,Anesthesiology,,category,6
+Clinical Chemistry,Clinical Chemistry,,category,6
+Clinical Toxcicology,Clinical Toxcicology,,category,6
+Dental,Dental,,category,6
+General Hospital,General Hospital,,category,6
+General and Plastic Surgery,General and Plastic Surgery,,category,6
+Hematology,Hematology,,category,6
+Immunology,Immunology,,category,6
+Microbiology,Microbiology,,category,6
+Obstetrics and Gynecology,Obstetrics and Gynecology,,category,6
+"Aidoc Medical, Ltd.","Aidoc Medical, Ltd.",,organization,6
+Brainlab,Brainlab,,organization,6
+Canon Medical Systems Corporation,Canon Medical Systems Corporation,,organization,6
+Clarius Mobile Health Corp.,Clarius Mobile Health Corp.,,organization,6
+GE Healthcare,GE Healthcare,,organization,6
+Hyperfine,Hyperfine,,organization,6
+Philips Healthcare,Philips Healthcare,,organization,6
+Qure.ai Technologies,Qure.ai Technologies,,organization,6
+RaySearch Laboratories AB (publ),RaySearch Laboratories AB (publ),,organization,6
+Samsung,Samsung,,organization,6
+Shanghai United Imaging Healthcare,Shanghai United Imaging Healthcare,,organization,6
+Siemens Healthineers,Siemens Healthineers,,organization,6
+Viz.ai,Viz.ai,,organization,6
+Zebra Medical Vision,Zebra Medical Vision,,organization,6
+iSchemaView,iSchemaView,,organization,6
+"Common health queries  (e.g., “does pus mean it is infected?”)","Common health queries  (e.g., “does pus mean it is infected?”)",,category,6
+"Condition queries (e.g., “dementia”)","Condition queries (e.g., “dementia”)",,category,6
+"Condition question queries (e.g., “what is dementia?”)","Condition question queries (e.g., “what is dementia?”)",,category,6
+"Symptom queries (e.g., “dementia symptoms”)","Symptom queries (e.g., “dementia symptoms”)",,category,6
+"Treatment queries (e.g., “dementia treatment”)","Treatment queries (e.g., “dementia treatment”)",,category,6
+Anesthesia,Anesthesia,,category,6
+Cardiology,Cardiology,,category,6
+Dentistry,Dentistry,,category,6
+Dermatology,Dermatology,,category,6
+ENT,ENT,,category,6
+Emergency Medicine,Emergency Medicine,,category,6
+Endocrinology,Endocrinology,,category,6
+Gastroenterology,Gastroenterology,,category,6
+General Healthcare,General Healthcare,,category,6
+Genetics/Genomics,Genetics/Genomics,,category,6
+Geriatrics,Geriatrics,,category,6
+Internal Medicine,Internal Medicine,,category,6
+Nephrology,Nephrology,,category,6
+Neurosurgery,Neurosurgery,,category,6
+OB/Gyn,OB/Gyn,,category,6
+Oncology,Oncology,,category,6
+Ophthalmology,Ophthalmology,,category,6
+Ortho,Ortho,,category,6
+PM&R,PM&R,,category,6
+Palliative Care,Palliative Care,,category,6
+Pediatric,Pediatric,,category,6
+Psychiatry,Psychiatry,,category,6
+Rheumatology,Rheumatology,,category,6
+Surgery (general),Surgery (general),,category,6
+Thoracic Surgery,Thoracic Surgery,,category,6
+Transplant,Transplant,,category,6
+Urology,Urology,,category,6
+International,International,,country,6
+US,United States,USA,country,6
+Medical AI and global health,Medical AI and global health,,category,6
+"Medical AI, global health, and ethics","Medical AI, global health, and ethics",,category,6
+Medical AI,Medical AI,,category,6
+"Medical AI, and ethics","Medical AI, and ethics",,category,6
+Algorithmic,Algorithmic,,category,6
+Governance,Governance,,category,6
+Societal,Societal,,category,6
+East Asia,East Asia,,category,6
+Latin America,Latin America,,category,6
+North Africa,North Africa,,category,6
+Oceania,Oceania,,category,6
+Southeast Asia,Southeast Asia,,category,6
+Associate’s,Associate’s,,category,7
+Bachelor’s,Bachelor’s,,category,7
+Master’s,Master’s,,category,7
+PhD,PhD,,category,7
+Associate’s,Associate’s,,organization,7
+Bachelor’s,Bachelor’s,,organization,7
+Master’s,Master’s,,organization,7
+PhD,PhD,,organization,7
+0.63,0.63,,category,7
+0.74,0.74,,category,7
+0.76,0.76,,category,7
+0.83,0.83,,category,7
+0.85,0.85,,category,7
+1.07,1.07,,category,7
+1.09,1.09,,category,7
+2.47,2.47,,category,7
+2.67,2.67,,category,7
+3.09,3.09,,category,7
+0.46,0.46,,category,7
+0.54,0.54,,category,7
+0.84,0.84,,category,7
+0.87,0.87,,category,7
+0.93,0.93,,category,7
+0.98,0.98,,category,7
+1.03,1.03,,category,7
+1.06,1.06,,category,7
+1.16,1.16,,category,7
+1.25,1.25,,category,7
+1.48,1.48,,category,7
+1.99,1.99,,category,7
+2010–24,2010–24,,category,7
+Korea,South Korea,KOR,country,7
+AVERAGE,AVERAGE,,country,7
+Non-tenure-track researcher faculty,Non-tenure-track researcher faculty,,category,7
+Other instructors,Other instructors,,category,7
+Postdoctorates,Postdoctorates,,category,7
+Teaching professors,Teaching professors,,category,7
+Tenure-track faculty,Tenure-track faculty,,category,7
+0.171268991,0.171268991,,category,7
+0.173587324,0.173587324,,category,7
+0.227852299,0.227852299,,category,7
+0.268940058,0.268940058,,category,7
+0.346168099,0.346168099,,category,7
+0.403968973,0.403968973,,category,7
+0.502566795,0.502566795,,category,7
+0.60278574,0.60278574,,category,7
+0.697691228,0.697691228,,category,7
+0.842138079,0.842138079,,category,7
+1.018218548,1.018218548,,category,7
+1.061116781,1.061116781,,category,7
+1.099105343,1.099105343,,category,7
+1.296364772,1.296364772,,category,7
+2.089731088,2.089731088,,category,7
+3.116551878,3.116551878,,category,7
+Checking homework,Checking homework,,category,7
+Exam/quiz prep,Exam/quiz prep,,category,7
+Generating initial ideas/first drafts for assignments,Generating initial ideas/first drafts for assignments,,category,7
+Helping to prepare for presentations,Helping to prepare for presentations,,category,7
+None of the above,None of the above,,category,7
+Researching for assignments and projects,Researching for assignments and projects,,category,7
+Step-by-step homework help,Step-by-step homework help,,category,7
+Understanding a concept or subject,Understanding a concept or subject,,category,7
+Writing/editing assignments and essays,Writing/editing assignments and essays,,category,7
+Rural,Rural,,category,"7,9"
+Suburban,Suburban,,category,"7,9"
+Urban,Urban,,category,"7,9"
+Non–Title I,Non–Title I,,category,7
+Title I,Title I,,category,7
+Asian,Asian,,category,"7,9"
+Black,Black,,category,"7,9"
+Hispanic/Latino,Hispanic/Latino,,category,7
+Native American,Native American,,category,7
+Native Hawaiian/<br>Pacific Islander,Native Hawaiian/<br>Pacific Islander,,category,7
+Two or more races,Two or more races,,category,7
+White,White,,category,"7,9"
+Alabama,Alabama,,us_state,"7,8,9"
+Arizona,Arizona,,us_state,"7,8,9"
+Arkansas,Arkansas,,us_state,"7,8,9"
+California,California,,us_state,"7,8,9"
+Connecticut,Connecticut,,us_state,"7,8,9"
+Florida,Florida,,us_state,"7,8,9"
+Georgia,Georgia,,us_state,"7,8,9"
+Hawaii,Hawaii,,us_state,"7,8"
+Idaho,Idaho,,us_state,"7,8"
+Illinois,Illinois,,us_state,"7,8,9"
+Indiana,Indiana,,us_state,"7,8,9"
+Iowa,Iowa,,us_state,"7,8,9"
+Kansas,Kansas,,us_state,"7,8,9"
+Kentucky,Kentucky,,us_state,"7,8,9"
+Louisiana,Louisiana,,us_state,"7,8,9"
+Maryland,Maryland,,us_state,"7,8,9"
+Massachusetts,Massachusetts,,us_state,"7,8,9"
+Minnesota,Minnesota,,us_state,"7,8,9"
+Mississippi,Mississippi,,us_state,"7,8,9"
+Missouri,Missouri,,us_state,"7,8,9"
+Montana,Montana,,us_state,"7,8"
+Nebraska,Nebraska,,us_state,"7,8,9"
+New Jersey,New Jersey,,us_state,"7,8,9"
+New Mexico,New Mexico,,us_state,"7,8,9"
+New York,New York,,us_state,"7,8,9"
+North Carolina,North Carolina,,us_state,"7,8,9"
+North Dakota,North Dakota,,us_state,"7,8"
+Ohio,Ohio,,us_state,"7,8,9"
+Oklahoma,Oklahoma,,us_state,"7,8,9"
+Oregon,Oregon,,us_state,"7,8,9"
+Pennsylvania,Pennsylvania,,us_state,"7,8,9"
+Rhode Island,Rhode Island,,us_state,"7,8"
+South Carolina,South Carolina,,us_state,"7,8,9"
+Tennessee,Tennessee,,us_state,"7,8,9"
+Texas,Texas,,us_state,"7,8,9"
+Utah,Utah,,us_state,"7,8,9"
+Vermont,Vermont,,us_state,"7,8"
+Virginia,Virginia,,us_state,"7,8,9"
+Washington,Washington,,us_state,"7,8,9"
+West Virginia,West Virginia,,us_state,"7,8,9"
+Wisconsin,Wisconsin,,us_state,"7,8,9"
+Wyoming,Wyoming,,us_state,"7,8"
+0.689655172,0.689655172,,category,7
+0.92,0.92,,category,7
+0.99,0.99,,category,7
+1.1,1.1,,category,7
+1.133333333,1.133333333,,category,7
+1.28,1.28,,category,7
+2.34,2.34,,category,7
+2.6,2.6,,category,7
+0.636363636,0.636363636,,category,7
+0.65,0.65,,category,7
+0.666666667,0.666666667,,category,7
+0.68,0.68,,category,7
+0.7,0.7,,category,7
+0.716981132,0.716981132,,category,7
+1.333333333,1.333333333,,category,7
+2.17,2.17,,category,7
+Black/African American,Black/African American,,category,7
+Native American/Alaskan,Native American/Alaskan,,category,7
+Native Hawaiian/Pacific Islander,Native Hawaiian/Pacific Islander,,category,7
+0.112392011,0.112392011,,category,7
+0.180064665,0.180064665,,category,7
+0.340342004,0.340342004,,category,7
+0.34873183,0.34873183,,category,7
+0.350631414,0.350631414,,category,7
+0.418699814,0.418699814,,category,7
+0.421619544,0.421619544,,category,7
+0.591086997,0.591086997,,category,7
+0.594464034,0.594464034,,category,7
+0.838873443,0.838873443,,category,7
+1.133101426,1.133101426,,category,7
+1.253883263,1.253883263,,category,7
+4.197129255,4.197129255,,category,7
+7.782592694,7.782592694,,category,7
+Brainstorming ideas,Brainstorming ideas,,category,7
+Conducting research and finding sources,Conducting research and finding sources,,category,7
+Editing or revising essays,Editing or revising essays,,category,7
+Explaining complex topics,Explaining complex topics,,category,7
+Learning languages,Learning languages,,category,7
+Writing code,Writing code,,category,7
+Alaska,Alaska,,us_state,"7,8"
+Colorado,Colorado,,us_state,"7,8,9"
+Delaware,Delaware,,us_state,"7,8"
+District of Columbia,District of Columbia,,us_state,7
+Maine,Maine,,us_state,"7,8"
+Michigan,Michigan,,us_state,"7,8,9"
+Nevada,Nevada,,us_state,"7,8,9"
+New Hampshire,New Hampshire,,us_state,"7,8,9"
+South Dakota,South Dakota,,us_state,"7,8"
+American Samoa,American Samoa,ASM,country,7
+Aruba,Aruba,ABW,country,7
+"Bahamas, The",Bahamas,BHS,country,7
+Bermuda,Bermuda,BMU,country,7
+British Virgin Islands,British Virgin Islands,VGB,country,"7,8"
+Brunei Darussalam,Brunei Darussalam,BRN,country,"7,8"
+Cabo Verde,Cabo Verde,CPV,country,"7,8"
+Channel Islands,Channel Islands,,country,7
+"Congo, Dem. Rep.",Democratic Republic of the Congo,COD,country,7
+"Congo, Rep.",Congo,COG,country,7
+Curaçao,Curaçao,CUW,country,7
+Dominica,Dominica,DMA,country,7
+"Egypt, Arab Rep.",Egypt,EGY,country,7
+Faroe Islands,Faroe Islands,FRO,country,7
+Fiji,Fiji,FJI,country,"7,8"
+French Polynesia,French Polynesia,PYF,country,7
+"Gambia, The",Gambia,GMB,country,7
+Greenland,Greenland,GRL,country,7
+Guam,Guam,GUM,country,7
+"Hong Kong SAR, China",Hong Kong,HKG,country,7
+"Iran, Islamic Rep.",Iran,IRN,country,7
+Isle of Man,Isle of Man,,country,7
+Kiribati,Kiribati,KIR,country,"7,8"
+Lao PDR,Laos,LAO,country,7
+Marshall Islands,Marshall Islands,MHL,country,"7,8"
+"Micronesia, Fed. Sts.",Micronesia,FSM,country,7
+Nauru,Nauru,NRU,country,7
+New Caledonia,New Caledonia,NCL,country,7
+"North Korea, (Dem. People's Rep. of Korea)",North Korea,PRK,country,7
+Northern Mariana Islands,Northern Mariana Islands,MNP,country,7
+Palau,Palau,PLW,country,7
+Samoa,Samoa,WSM,country,"7,8"
+Sint Maarten (Dutch part),Sint Maarten,SXM,country,7
+Slovak Republic,Slovakia,SVK,country,"7,9"
+Solomon Islands,Solomon Islands,SLB,country,"7,8"
+South Korea (Rep.of Korea),South Korea,KOR,country,7
+St. Kitts and Nevis,Saint Kitts and Nevis,KNA,country,7
+St. Lucia,Saint Lucia,LCA,country,7
+St. Martin (French part),Sint Maarten,SXM,country,7
+St. Vincent and the Grenadines,Saint Vincent and the Grenadines,VCT,country,7
+São Tomé and Principe,Sao Tome and Principe,STP,country,7
+"Taiwan, China",Taiwan,TWN,country,7
+Timor-Leste,Timor-Leste,TLS,country,"7,8"
+Tonga,Tonga,TON,country,"7,8"
+Turks and Caicos Islands,Turks and Caicos Islands,TCA,country,7
+Tuvalu,Tuvalu,TUV,country,7
+United Kingdom of Great Britin and Northern Ireland,United Kingdom,GBR,country,7
+Vanuatu,Vanuatu,VUT,country,"7,8"
+Virgin Islands (U.S.),Virgin Islands (U.S.),VIR,country,7
+West Bank and Gaza,Palestine,PSE,country,7
+Côte D'Ivoire,Côte d'Ivoire,CIV,country,8
+Gambia (Republic of The),Gambia,GMB,country,8
+Guinea Bissau,Guinea,GIN,country,8
+State of Palestine,Palestine,PSE,country,8
+"Venezuela, Bolivarian Republic of",Venezuela,VEN,country,8
+Latin America and Caribbean,Latin America and Caribbean,,category,8
+Jersey,Jersey,JEY,country,8
+Saint Kitts And Nevis,Saint Kitts and Nevis,KNA,country,8
+115th,115th,,category,8
+116th,116th,,category,8
+117th,117th,,category,8
+118th,118th,,category,8
+119th,119th,,category,8
+Education and workforce,Education and workforce,,category,8
+Energy,Energy,,category,8
+Finance and economic policy,Finance and economic policy,,category,8
+General AI governance,General AI governance,,category,8
+Government modernization,Government modernization,,category,8
+Health and biomedical AI,Health and biomedical AI,,category,8
+Industry and commerce,Industry and commerce,,category,8
+National security and defense,National security and defense,,category,8
+Privacy and legal,Privacy and legal,,category,8
+R&D and innovation,R&D and innovation,,category,8
+Transportation and<br>autonomous systems,Transportation and<br>autonomous systems,,category,8
+"User risks, rights, and<br>protections","User risks, rights, and<br>protections",,category,8
+Agency for International Development,Agency for International Development,,organization,8
+Census Bureau,Census Bureau,,organization,8
+Centers for Medicare and Medicaid Services,Centers for Medicare and Medicaid Services,,organization,8
+Children and Families Administration,Children and Families Administration,,organization,8
+Coast Guard,Coast Guard,,organization,8
+Commerce Department,Commerce Department,,organization,8
+Commodity Futures Trading Commission,Commodity Futures Trading Commission,,organization,8
+Comptroller of the Currency,Comptroller of the Currency,,organization,8
+Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,,organization,8
+"Copyright Office, Library of Congress","Copyright Office, Library of Congress",,organization,8
+Defense Acquisition Regulations System,Defense Acquisition Regulations System,,organization,8
+Defense Department,Defense Department,,organization,8
+Education Department,Education Department,,organization,8
+Employee Benefits Security Administration,Employee Benefits Security Administration,,organization,8
+Employment and Training Administration,Employment and Training Administration,,organization,8
+Energy Department,Energy Department,,organization,8
+Environmental Protection Agency,Environmental Protection Agency,,organization,8
+Executive Office for Immigration Review,Executive Office for Immigration Review,,organization,8
+Executive Office of the President,Executive Office of the President,,organization,8
+Federal Aviation Administration,Federal Aviation Administration,,organization,8
+Federal Communications Commission,Federal Communications Commission,,organization,8
+Federal Deposit Insurance Corporation,Federal Deposit Insurance Corporation,,organization,8
+Federal Election Commission,Federal Election Commission,,organization,8
+Federal Energy Regulatory Commission,Federal Energy Regulatory Commission,,organization,8
+Federal Housing Finance Agency,Federal Housing Finance Agency,,organization,8
+Federal Railroad Administration,Federal Railroad Administration,,organization,8
+Federal Reserve System,Federal Reserve System,,organization,8
+Federal Trade Commission,Federal Trade Commission,,organization,8
+Financial Crimes Enforcement Network,Financial Crimes Enforcement Network,,organization,8
+Food and Drug Administration,Food and Drug Administration,,organization,8
+Health and Human Services Department,Health and Human Services Department,,organization,8
+Homeland Security Department,Homeland Security Department,,organization,8
+Housing and Urban Development Department,Housing and Urban Development Department,,organization,8
+Industry and Security Bureau,Industry and Security Bureau,,organization,8
+Interior Department,Interior Department,,organization,8
+Investment Security Office,Investment Security Office,,organization,8
+Justice Department,Justice Department,,organization,8
+Labor Department,Labor Department,,organization,8
+Land Management Bureau,Land Management Bureau,,organization,8
+Library of Congress,Library of Congress,,organization,8
+National Credit Union Administration,National Credit Union Administration,,organization,8
+National Highway Traffic Safety Administration,National Highway Traffic Safety Administration,,organization,8
+National Oceanic and Atmospheric Administration,National Oceanic and Atmospheric Administration,,organization,8
+National Science Foundation,National Science Foundation,,organization,8
+Nuclear Regulatory Commission,Nuclear Regulatory Commission,,organization,8
+Occupational Safety and Health Administration,Occupational Safety and Health Administration,,organization,8
+Office of the Inspector General,Office of the Inspector General,,organization,8
+Office of the Secretary,Office of the Secretary,,organization,8
+Patent and Trademark Office,Patent and Trademark Office,,organization,8
+Personnel Management Office,Personnel Management Office,,organization,8
+Public Health Service,Public Health Service,,organization,8
+Securities and Exchange Commission,Securities and Exchange Commission,,organization,8
+Small Business Administration,Small Business Administration,,organization,8
+Transportation Department,Transportation Department,,organization,8
+Treasury Department,Treasury Department,,organization,8
+Veterans Affairs Department,Veterans Affairs Department,,organization,8
+Contracts,Contracts,,category,8
+Grants,Grants,,category,8
+OTAs,OTAs,,category,8
+ALABAMA,ALABAMA,,us_state,8
+ALASKA,ALASKA,,us_state,8
+ARIZONA,ARIZONA,,us_state,8
+ARKANSAS,ARKANSAS,,us_state,8
+CALIFORNIA,CALIFORNIA,,us_state,8
+COLORADO,COLORADO,,us_state,8
+CONNECTICUT,CONNECTICUT,,us_state,8
+DELAWARE,DELAWARE,,us_state,8
+DISTRICT OF COLUMBIA,DISTRICT OF COLUMBIA,,us_state,8
+FLORIDA,FLORIDA,,us_state,8
+GEORGIA,GEORGIA,,us_state,8
+HAWAII,HAWAII,,us_state,8
+IDAHO,IDAHO,,us_state,8
+ILLINOIS,ILLINOIS,,us_state,8
+INDIANA,INDIANA,,us_state,8
+IOWA,IOWA,,us_state,8
+KANSAS,KANSAS,,us_state,8
+KENTUCKY,KENTUCKY,,us_state,8
+LOUISIANA,LOUISIANA,,us_state,8
+MAINE,MAINE,,us_state,8
+MARYLAND,MARYLAND,,us_state,8
+MASSACHUSETTS,MASSACHUSETTS,,us_state,8
+MICHIGAN,MICHIGAN,,us_state,8
+MINNESOTA,MINNESOTA,,us_state,8
+MISSISSIPPI,MISSISSIPPI,,us_state,8
+MISSOURI,MISSOURI,,us_state,8
+MONTANA,MONTANA,,us_state,8
+NEBRASKA,NEBRASKA,,us_state,8
+NEVADA,NEVADA,,us_state,8
+NEW HAMPSHIRE,NEW HAMPSHIRE,,us_state,8
+NEW JERSEY,NEW JERSEY,,us_state,8
+NEW MEXICO,NEW MEXICO,,us_state,8
+NEW YORK,NEW YORK,,us_state,8
+NORTH CAROLINA,NORTH CAROLINA,,us_state,8
+NORTH DAKOTA,NORTH DAKOTA,,us_state,8
+OHIO,OHIO,,us_state,8
+OKLAHOMA,OKLAHOMA,,us_state,8
+OREGON,OREGON,,us_state,8
+PENNSYLVANIA,PENNSYLVANIA,,us_state,8
+RHODE ISLAND,RHODE ISLAND,,us_state,8
+SOUTH CAROLINA,SOUTH CAROLINA,,us_state,8
+SOUTH DAKOTA,SOUTH DAKOTA,,us_state,8
+TENNESSEE,TENNESSEE,,us_state,8
+TEXAS,TEXAS,,us_state,8
+UTAH,UTAH,,us_state,8
+VERMONT,VERMONT,,us_state,8
+VIRGINIA,VIRGINIA,,us_state,8
+WASHINGTON,WASHINGTON,,us_state,8
+WEST VIRGINIA,WEST VIRGINIA,,us_state,8
+WISCONSIN,WISCONSIN,,us_state,8
+WYOMING,WYOMING,,us_state,8
+Department of Defense,Department of Defense,,category,8
+Department of Health and Human Services,Department of Health and Human Services,,category,8
+Department of Homeland Security,Department of Homeland Security,,category,8
+Department of Veterans Affairs,Department of Veterans Affairs,,category,8
+Department of the Treasury,Department of the Treasury,,category,8
+National Aeronautics and Space Administration,National Aeronautics and Space Administration,,category,8
+Department of Agriculture,Department of Agriculture,,category,8
+Department of Commerce,Department of Commerce,,category,8
+Department of Energy,Department of Energy,,category,8
+National Science Foundation,National Science Foundation,,category,8
+Others,Others,,country,8
+Community and social sector organizations,Community and social sector organizations,,category,8
+Economic and financial affairs,Economic and financial affairs,,category,8
+Education,Education,,category,8
+"Government, national agency or public authority","Government, national agency or public authority",,category,8
+Health,Health,,category,8
+I have a good understanding of what artificial intelligence is,I have a good understanding of what artificial intelligence is,,category,9
+I know which types of products and services use artificial intelligence,I know which types of products and services use artificial intelligence,,category,9
+I trust artificial intelligence to not discriminate or show bias toward any group of people,I trust artificial intelligence to not discriminate or show bias toward any group of people,,category,9
+I trust companies that use artificial intelligence as much as I trust other companies,I trust companies that use artificial intelligence as much as I trust other companies,,category,9
+I trust people not to discriminate or show bias toward any group of people,I trust people not to discriminate or show bias toward any group of people,,category,9
+I trust that companies that use artificial intelligence will protect my personal data,I trust that companies that use artificial intelligence will protect my personal data,,category,9
+I trust the government of [my Country] to regulate AI responsibly,I trust the government of [my Country] to regulate AI responsibly,,category,9
+Products and services using artificial intelligence have more benefits than drawbacks,Products and services using artificial intelligence have more benefits than drawbacks,,category,9
+Products and services using artificial intelligence have profoundly changed my daily life in the past 3–5 years,Products and services using artificial intelligence have profoundly changed my daily life in the past 3–5 years,,category,9
+Products and services using artificial intelligence make me excited,Products and services using artificial intelligence make me excited,,category,9
+Products and services using artificial intelligence make me nervous,Products and services using artificial intelligence make me nervous,,category,9
+Products and services using artificial intelligence should have to disclose that use,Products and services using artificial intelligence should have to disclose that use,,category,9
+Products and services using artificial intelligence will profoundly change my daily life in the next 3–5 years,Products and services using artificial intelligence will profoundly change my daily life in the next 3–5 years,,category,9
+Great Britain,United Kingdom,GBR,country,9
+I trust artificial intelligence to not discriminate or show bias towards any group of people,I trust artificial intelligence to not discriminate or show bias towards any group of people,,category,9
+Products and services using artificialintelligence make me nervous,Products and services using artificialintelligence make me nervous,,category,9
+Products and services using  artificial intelligence  make me excited,Products and services using  artificial intelligence  make me excited,,category,9
+"My entertainment options (television/video content, movies, music, books)","My entertainment options (television/video content, movies, music, books)",,category,9
+My health,My health,,category,9
+My job,My job,,category,9
+The amount of disinformation on the internet,The amount of disinformation on the internet,,category,9
+The amount of time it takes me to get things done,The amount of time it takes me to get things done,,category,9
+The economy in my country,The economy in my country,,category,9
+The job market,The job market,,category,9
+Don’t know,Don’t know,,category,9
+Not likely,Not likely,,category,9
+Somewhat likely,Somewhat likely,,category,9
+Very likely,Very likely,,category,9
+Global,Global,,country,9
+Arts and entertainment,Arts and entertainment,,category,9
+Elections,Elections,,category,9
+How people do their jobs,How people do their jobs,,category,9
+K-12 education,K-12 education,,category,9
+Medical care,Medical care,,category,9
+Personal relationships,Personal relationships,,category,9
+The criminal justice system,The criminal justice system,,category,9
+The economy,The economy,,category,9
+The environment,The environment,,category,9
+The news people get,The news people get,,category,9
+Capacity and willingness to think deeply about complex concepts,Capacity and willingness to think deeply about complex concepts,,category,9
+Confidence in their own native abilities,Confidence in their own native abilities,,category,9
+Curiosity and capacity to learn,Curiosity and capacity to learn,,category,9
+Decision-making and problem-solving abilities,Decision-making and problem-solving abilities,,category,9
+Empathy and application of moral judgment,Empathy and application of moral judgment,,category,9
+"Individual agency, the ability to act independently in the world","Individual agency, the ability to act independently in the world",,category,9
+Innovative thinking and creativity,Innovative thinking and creativity,,category,9
+Mental well-being,Mental well-being,,category,9
+"Metacognition, the ability to think analytically about thinking","Metacognition, the ability to think analytically about thinking",,category,9
+"Self-identity, meaning, and purpose in life","Self-identity, meaning, and purpose in life",,category,9
+"Social and emotional intelligence, the ability to understand and manage social interactions","Social and emotional intelligence, the ability to understand and manage social interactions",,category,9
+Trust in widely shared values and cultural norms,Trust in widely shared values and cultural norms,,category,9
+Expert,Expert,,category,9
+Public,Public,,category,9
+AI experts,AI experts,,category,9
+U.S. adults,U.S. adults,,category,9
+Superforecaster,Superforecaster,,category,9
+Cashiers,Cashiers,,category,9
+Factory workers,Factory workers,,category,9
+Journalists,Journalists,,category,9
+Lawyers,Lawyers,,category,9
+Medical doctors,Medical doctors,,category,9
+Mental health therapists,Mental health therapists,,category,9
+Musicians,Musicians,,category,9
+Software engineers,Software engineers,,category,9
+Teachers,Teachers,,category,9
+Truck drivers,Truck drivers,,category,9
+age 18–29,age 18–29,,category,9
+age 30–49,age 30–49,,category,9
+age 50–64,age 50–64,,category,9
+age 65+,age 65+,,category,9
+30–49,30–49,,category,9
+50–64,50–64,,category,9
+65+,65+,,category,9
+Ages 18–29,Ages 18–29,,category,9
+Asian*,Asian*,,category,9
+College grad,College grad,,category,9
+Dem/Lean Dem,Dem/Lean Dem,,category,9
+HS or less,HS or less,,category,9
+Hispanic,Hispanic,,category,9
+Men,Men,,category,9
+Postgrad,Postgrad,,category,9
+Rep/Lean Rep,Rep/Lean Rep,,category,9
+Some college,Some college,,category,9
+Women,Women,,category,9
+&#36;100K+,&#36;100K+,,category,9
+"&#36;30K–&#36;69,999","&#36;30K–&#36;69,999",,category,9
+"&#36;70K–&#36;99,999","&#36;70K–&#36;99,999",,category,9
+18–29,18–29,,category,9
+<&#36;30K,<&#36;30K,,category,9
+College+,College+,,category,9
+Democrat,Democrat,,category,9
+Female,Female,,category,9
+Independent/Other,Independent/Other,,category,9
+Male,Male,,category,9
+Republican,Republican,,category,9

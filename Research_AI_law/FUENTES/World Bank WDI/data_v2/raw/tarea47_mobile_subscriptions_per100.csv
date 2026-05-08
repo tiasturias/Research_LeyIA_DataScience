@@ -1,0 +1,1347 @@
+iso3,year,country_name,value,wb_indicator,canonical_name
+AFG,2024,Afghanistan,60.0990815591219,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AFG,2023,Afghanistan,55.5474967036959,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AFG,2022,Afghanistan,56.2655188632539,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AFG,2021,Afghanistan,56.6944760468967,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AFG,2020,Afghanistan,58.0461137722591,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AFG,2019,Afghanistan,59.6470805870469,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AFG,2018,Afghanistan,59.8109345283062,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ALB,2024,Albania,89.1328603947682,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ALB,2023,Albania,92.9973271969712,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ALB,2022,Albania,98.3950391992101,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ALB,2021,Albania,92.4843357131703,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ALB,2020,Albania,91.1880900599383,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ALB,2019,Albania,91.1634968336332,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ALB,2018,Albania,93.8030862083918,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DZA,2024,Algeria,115.457278573892,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DZA,2023,Algeria,111.60623555659,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DZA,2022,Algeria,107.787115922596,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DZA,2021,Algeria,105.037092587919,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DZA,2020,Algeria,103.436671524065,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DZA,2019,Algeria,104.922068012909,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DZA,2018,Algeria,110.938066513767,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AND,2024,Andorra,155.692108667529,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AND,2023,Andorra,156.09725932522,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AND,2022,Andorra,142.426447525249,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AND,2021,Andorra,119.687611658415,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AND,2020,Andorra,103.876970793487,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AND,2019,Andorra,114.952794413788,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AND,2018,Andorra,109.914584497485,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AGO,2024,Angola,69.7039467163584,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AGO,2023,Angola,70.0519587723571,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AGO,2022,Angola,66.6008073123779,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AGO,2021,Angola,44.3868689341257,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AGO,2020,Angola,43.7804317055698,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AGO,2019,Angola,45.8065312825399,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AGO,2018,Angola,42.4588784507729,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ATG,2022,Antigua and Barbuda,200.540715208962,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ATG,2021,Antigua and Barbuda,199.244171566557,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ATG,2020,Antigua and Barbuda,200.3353439453,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ATG,2019,Antigua and Barbuda,201.392233264743,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARG,2024,Argentina,140.234979049333,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARG,2023,Argentina,137.706086781571,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARG,2022,Argentina,131.483556254876,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARG,2021,Argentina,130.352799939601,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARG,2020,Argentina,121.180612527028,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARG,2019,Argentina,125.302657911726,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARG,2018,Argentina,131.224265691711,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARM,2024,Armenia,134.88694751567,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARM,2023,Armenia,134.519957069953,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARM,2022,Armenia,130.540072214196,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARM,2021,Armenia,125.395134877327,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARM,2020,Armenia,120.682370700808,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARM,2019,Armenia,124.613701509519,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARM,2018,Armenia,123.000001718234,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ABW,2022,Aruba,130.647974615427,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ABW,2021,Aruba,131.09206195727,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ABW,2020,Aruba,131.284916201117,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ABW,2019,Aruba,131.682169673877,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AUS,2024,Australia,112.581025002429,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AUS,2023,Australia,112.513177133796,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AUS,2022,Australia,109.469171081514,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AUS,2021,Australia,105.118514623956,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AUS,2020,Australia,104.930155780087,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AUS,2019,Australia,109.752830879788,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AUS,2018,Australia,110.033134941946,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AUT,2024,Austria,124.45929984531,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AUT,2023,Austria,121.746207105931,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AUT,2022,Austria,121.16645744796,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AUT,2021,Austria,121.357731973824,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AUT,2020,Austria,120.131806593244,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AUT,2019,Austria,120.776373862218,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AUT,2018,Austria,124.230205900482,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AZE,2024,Azerbaijan,109.543149535867,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AZE,2023,Azerbaijan,107.686732782159,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AZE,2022,Azerbaijan,107.506296074404,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AZE,2021,Azerbaijan,105.693559477177,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AZE,2020,Azerbaijan,101.596683471276,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AZE,2019,Azerbaijan,106.328337689377,IT.CEL.SETS.P2,mobile_subscriptions_per100
+AZE,2018,Azerbaijan,102.987275423455,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BHS,2024,"Bahamas, The",96.6798992232414,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BHS,2023,"Bahamas, The",100.047566593231,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BHS,2022,"Bahamas, The",101.623744145214,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BHS,2021,"Bahamas, The",100.257333370336,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BHS,2020,"Bahamas, The",117.717493173143,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BHS,2019,"Bahamas, The",107.811997212897,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BHS,2018,"Bahamas, The",98.9789084760782,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BHR,2024,Bahrain,159.536143577452,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BHR,2023,Bahrain,153.899937948583,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BHR,2022,Bahrain,139.636142863944,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BHR,2021,Bahrain,128.078912532195,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BHR,2020,Bahrain,119.41160169027,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BHR,2019,Bahrain,129.142743677937,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BHR,2018,Bahrain,139.735421260048,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BGD,2024,Bangladesh,108.077037369691,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BGD,2023,Bangladesh,111.280894357567,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BGD,2022,Bangladesh,109.8665408168,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BGD,2021,Bangladesh,110.012054001037,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BGD,2020,Bangladesh,106.002140470412,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BGD,2019,Bangladesh,100.399571155843,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BGD,2018,Bangladesh,98.9289060885788,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRB,2022,Barbados,114.580721030894,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRB,2021,Barbados,112.222706603295,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRB,2020,Barbados,104.722078254017,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRB,2019,Barbados,117.111593950364,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRB,2018,Barbados,117.318523321138,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BLR,2024,Belarus,131.123016605614,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BLR,2023,Belarus,128.979176539764,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BLR,2022,Belarus,128.314999383533,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BLR,2021,Belarus,127.117317282369,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BLR,2020,Belarus,125.164732031333,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BLR,2019,Belarus,123.229810991965,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BLR,2018,Belarus,122.56975741957,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BEL,2024,Belgium,103.90465332676,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BEL,2023,Belgium,103.196426365374,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BEL,2022,Belgium,101.680355820653,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BEL,2021,Belgium,101.462935633736,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BEL,2020,Belgium,99.9100614924974,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BEL,2019,Belgium,100.164960666171,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BEL,2018,Belgium,100.164027018171,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BLZ,2022,Belize,67.1750266305468,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BLZ,2021,Belize,66.7769498110516,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BLZ,2020,Belize,67.551661668526,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BLZ,2019,Belize,66.0704612665196,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BLZ,2018,Belize,64.7801570644827,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BEN,2024,Benin,125.940873932186,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BEN,2023,Benin,116.036046685168,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BEN,2022,Benin,105.745019386968,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BEN,2021,Benin,94.9182598289459,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BEN,2020,Benin,85.2390738023357,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BEN,2019,Benin,81.3235345537806,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BEN,2018,Benin,76.4080341122638,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BMU,2024,Bermuda,96.6767745528807,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BMU,2022,Bermuda,105.274212729154,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BMU,2021,Bermuda,105.185001856206,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BMU,2020,Bermuda,105.619583113293,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BMU,2019,Bermuda,104.512767716474,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BTN,2024,Bhutan,99.7576826476519,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BTN,2023,Bhutan,95.6260610260877,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BTN,2022,Bhutan,95.129809428439,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BTN,2021,Bhutan,100.330908049861,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BTN,2020,Bhutan,96.7702849068709,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BTN,2019,Bhutan,95.3472955869586,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BTN,2018,Bhutan,92.6022594006784,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BOL,2024,Bolivia,98.0287940811943,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BOL,2022,Bolivia,101.57150434614,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BOL,2021,Bolivia,100.809064985893,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BOL,2020,Bolivia,99.898817726261,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BOL,2019,Bolivia,100.14945954148,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BOL,2018,Bolivia,99.4565867202022,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BIH,2024,Bosnia and Herzegovina,121.232373011893,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BIH,2023,Bosnia and Herzegovina,117.733690876159,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BIH,2022,Bosnia and Herzegovina,118.944352880459,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BIH,2021,Bosnia and Herzegovina,114.911613799718,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BIH,2020,Bosnia and Herzegovina,106.374742411306,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BIH,2019,Bosnia and Herzegovina,112.254788698841,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BIH,2018,Bosnia and Herzegovina,102.186536758193,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BWA,2024,Botswana,163.999922257361,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BWA,2023,Botswana,179.027305378019,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BWA,2022,Botswana,178.205018910673,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BWA,2021,Botswana,173.25235140068,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BWA,2020,Botswana,161.858815314634,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BWA,2019,Botswana,160.661520194607,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BWA,2018,Botswana,147.06483856362,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRA,2024,Brazil,101.926846460424,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRA,2023,Brazil,101.020256020808,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRA,2022,Brazil,101.245468903076,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRA,2021,Brazil,104.824727184587,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRA,2020,Brazil,98.6456198619193,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRA,2019,Brazil,97.3747376780285,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRA,2018,Brazil,101.602460284017,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VGB,2024,British Virgin Islands,93.1316662866408,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VGB,2023,British Virgin Islands,90.8246761574965,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VGB,2022,British Virgin Islands,92.8912549909966,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VGB,2021,British Virgin Islands,99.5556613504721,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VGB,2020,British Virgin Islands,94.6896458866299,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VGB,2019,British Virgin Islands,108.624811100426,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VGB,2018,British Virgin Islands,115.28406959633,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRN,2024,Brunei Darussalam,118.130579766209,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRN,2023,Brunei Darussalam,118.673752421293,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRN,2022,Brunei Darussalam,116.108439291126,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRN,2021,Brunei Darussalam,133.597065445264,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRN,2020,Brunei Darussalam,119.933885258067,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRN,2019,Brunei Darussalam,129.845260684919,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BRN,2018,Brunei Darussalam,129.268175692652,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BGR,2024,Bulgaria,118.067152838789,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BGR,2023,Bulgaria,117.932685806225,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BGR,2022,Bulgaria,116.679163253179,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BGR,2021,Bulgaria,114.911988483727,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BGR,2020,Bulgaria,114.596737765322,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BGR,2019,Bulgaria,116.616975862125,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BGR,2018,Bulgaria,119.394511829255,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BFA,2024,Burkina Faso,116.5895933212,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BFA,2023,Burkina Faso,116.16313821519,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BFA,2022,Burkina Faso,113.996146792235,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BFA,2021,Burkina Faso,112.198419449151,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BFA,2020,Burkina Faso,102.972844247019,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BFA,2019,Burkina Faso,97.1498646690919,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BFA,2018,Burkina Faso,94.6219614871852,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BDI,2023,Burundi,63.1631365759764,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BDI,2022,Burundi,56.2599912004244,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BDI,2021,Burundi,59.700785493419,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BDI,2020,Burundi,52.5571219738138,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BDI,2019,Burundi,53.2995504978403,IT.CEL.SETS.P2,mobile_subscriptions_per100
+BDI,2018,Burundi,53.2736942349584,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CPV,2024,Cabo Verde,111.84067886381,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CPV,2023,Cabo Verde,113.022968194497,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CPV,2022,Cabo Verde,113.247367438782,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CPV,2021,Cabo Verde,114.230551109167,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CPV,2020,Cabo Verde,105.838590655535,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CPV,2019,Cabo Verde,115.867801067488,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CPV,2018,Cabo Verde,118.876152819844,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KHM,2024,Cambodia,116.091961125929,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KHM,2023,Cambodia,120.80911943838,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KHM,2022,Cambodia,113.391506572248,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KHM,2021,Cambodia,117.234785164989,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KHM,2020,Cambodia,126.075894769858,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KHM,2019,Cambodia,129.957441474291,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KHM,2018,Cambodia,119.309943480982,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CMR,2024,Cameroon,108.213130152497,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CMR,2023,Cameroon,96.4817325902196,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CMR,2022,Cameroon,89.8274190453067,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CMR,2021,Cameroon,80.8081013360278,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CMR,2020,Cameroon,85.2721639882676,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CMR,2019,Cameroon,83.9044001051513,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CMR,2018,Cameroon,74.3995446655806,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CAN,2024,Canada,94.1059718794246,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CAN,2023,Canada,94.1497268194785,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CAN,2022,Canada,91.2386689983444,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CAN,2021,Canada,87.4056019628826,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CAN,2020,Canada,84.7747749116615,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CAN,2019,Canada,90.9589210049458,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CAN,2018,Canada,89.0494584998715,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CYM,2022,Cayman Islands,139.314997695241,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CYM,2021,Cayman Islands,142.637074228333,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CYM,2020,Cayman Islands,145.594315997903,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CYM,2019,Cayman Islands,147.043533797733,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CAF,2022,Central African Republic,38.8217901039988,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CAF,2021,Central African Republic,35.8169832358522,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CAF,2020,Central African Republic,36.426009643045,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CAF,2019,Central African Republic,32.2626859489842,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CAF,2018,Central African Republic,26.2215810621653,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TCD,2024,Chad,72.9289782617702,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TCD,2023,Chad,70.1873962423852,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TCD,2022,Chad,65.4377795535985,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TCD,2021,Chad,58.0323175441615,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TCD,2020,Chad,50.434327397335,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TCD,2019,Chad,45.9378876746208,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TCD,2018,Chad,43.2279057924006,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHL,2024,Chile,132.660408764665,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHL,2023,Chile,135.871118507277,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHL,2022,Chile,135.114280974065,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHL,2021,Chile,136.571581265001,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHL,2020,Chile,129.413740104604,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHL,2019,Chile,130.492770400522,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHL,2018,Chile,133.270134198082,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHN,2024,China,131.753932036803,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHN,2023,China,128.247014127486,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHN,2022,China,124.195248970763,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHN,2021,China,121.491918368395,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHN,2020,China,120.496715387079,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHN,2019,China,122.670391850252,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHN,2018,China,116.229125477063,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COL,2024,Colombia,174.094289675393,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COL,2023,Colombia,166.980107777443,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COL,2022,Colombia,156.195161137443,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COL,2021,Colombia,146.627837254516,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COL,2020,Colombia,133.661019178018,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COL,2019,Colombia,132.810761644655,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COL,2018,Colombia,131.595473810882,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COM,2023,Comoros,109.855630436495,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COM,2022,Comoros,100.549036907747,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COM,2021,Comoros,104.311430086999,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COM,2020,Comoros,97.4339379901591,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COM,2019,Comoros,73.1291747290161,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COM,2018,Comoros,64.6590805998004,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COD,2024,"Congo, Dem. Rep.",58.532153345468,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COD,2023,"Congo, Dem. Rep.",53.1888827659463,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COD,2022,"Congo, Dem. Rep.",48.6773534153863,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COD,2021,"Congo, Dem. Rep.",47.2882541992485,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COD,2020,"Congo, Dem. Rep.",42.5027574227056,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COD,2019,"Congo, Dem. Rep.",39.9399996397964,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COD,2018,"Congo, Dem. Rep.",40.5014483221793,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COG,2024,"Congo, Rep.",95.5319320614796,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COG,2023,"Congo, Rep.",94.8715365076336,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COG,2022,"Congo, Rep.",93.6259259161068,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COG,2021,"Congo, Rep.",95.8614998889206,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COG,2020,"Congo, Rep.",97.6561289989503,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COG,2019,"Congo, Rep.",91.0654212529473,IT.CEL.SETS.P2,mobile_subscriptions_per100
+COG,2018,"Congo, Rep.",91.1889913731567,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CRI,2024,Costa Rica,136.024511151268,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CRI,2023,Costa Rica,133.527658761832,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CRI,2022,Costa Rica,136.518375013406,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CRI,2021,Costa Rica,140.788061157457,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CRI,2020,Costa Rica,142.481526800044,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CRI,2019,Costa Rica,144.514079558713,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CRI,2018,Costa Rica,171.357339055205,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CIV,2024,Cote d'Ivoire,183.875985110648,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CIV,2023,Cote d'Ivoire,171.988943341282,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CIV,2022,Cote d'Ivoire,161.231833444196,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CIV,2021,Cote d'Ivoire,150.343798608733,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CIV,2020,Cote d'Ivoire,138.663750301785,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CIV,2019,Cote d'Ivoire,132.574011521792,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CIV,2018,Cote d'Ivoire,123.098008449044,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HRV,2024,Croatia,121.732525659138,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HRV,2023,Croatia,117.112604314708,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HRV,2022,Croatia,114.677195729643,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HRV,2021,Croatia,112.169438491978,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HRV,2020,Croatia,110.666299439701,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HRV,2019,Croatia,110.493802074789,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HRV,2018,Croatia,109.034035401906,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CUB,2024,Cuba,72.930002350684,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CUB,2023,Cuba,69.5767786567811,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CUB,2022,Cuba,68.7180442358013,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CUB,2021,Cuba,63.8661095570576,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CUB,2020,Cuba,59.6058696780721,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CUB,2019,Cuba,53.9383385257639,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CUB,2018,Cuba,47.8601543156489,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CUW,2023,Curacao,93.7975591472655,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CUW,2022,Curacao,92.7324718767703,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CUW,2021,Curacao,90.6602271807463,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CUW,2020,Curacao,91.8829519290015,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CUW,2019,Curacao,97.200107627293,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CUW,2018,Curacao,102.647274249241,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CYP,2024,Cyprus,156.218025662252,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CYP,2023,Cyprus,148.333712748344,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CYP,2022,Cyprus,146.71583605521,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CYP,2021,Cyprus,142.051408905141,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CYP,2020,Cyprus,135.588846364133,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CYP,2019,Cyprus,137.76052748227,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CYP,2018,Cyprus,134.843630644799,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CZE,2024,Czechia,126.600163061009,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CZE,2023,Czechia,126.004753501387,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CZE,2022,Czechia,128.105295003482,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CZE,2021,Czechia,126.173145654465,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CZE,2020,Czechia,123.219460160155,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CZE,2019,Czechia,124.126150238634,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CZE,2018,Czechia,120.431679514249,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DNK,2024,Denmark,126.686532566268,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DNK,2023,Denmark,126.717092547985,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DNK,2022,Denmark,126.48354098254,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DNK,2021,Denmark,125.604137839658,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DNK,2020,Denmark,124.370019531752,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DNK,2019,Denmark,124.573359763273,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DNK,2018,Denmark,124.550124408336,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DJI,2023,Djibouti,48.4504884885996,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DJI,2022,Djibouti,46.7770531248021,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DJI,2021,Djibouti,43.6423520933817,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DJI,2020,Djibouti,39.2725038635961,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DJI,2019,Djibouti,38.0143821719119,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DJI,2018,Djibouti,36.8545231657962,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DMA,2022,Dominica,85.1898961482058,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DMA,2021,Dominica,92.5136156662004,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DMA,2020,Dominica,110.409483077561,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DMA,2019,Dominica,115.103123158515,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DMA,2018,Dominica,112.682254231819,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DOM,2024,Dominican Republic,93.7095828968519,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DOM,2023,Dominican Republic,91.8676246650308,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DOM,2022,Dominican Republic,90.3760163850377,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DOM,2021,Dominican Republic,87.5207623947766,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DOM,2020,Dominican Republic,81.6619005659366,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DOM,2019,Dominican Republic,82.1376141070859,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DOM,2018,Dominican Republic,82.8937401810212,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ECU,2024,Ecuador,101.598265014024,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ECU,2023,Ecuador,101.031752745524,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ECU,2022,Ecuador,98.1309025742238,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ECU,2021,Ecuador,94.950621672761,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ECU,2020,Ecuador,88.2554920433727,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ECU,2019,Ecuador,91.4249181128443,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ECU,2018,Ecuador,92.5117717203865,IT.CEL.SETS.P2,mobile_subscriptions_per100
+EGY,2024,"Egypt, Arab Rep.",97.1295066037455,IT.CEL.SETS.P2,mobile_subscriptions_per100
+EGY,2023,"Egypt, Arab Rep.",92.8261626420085,IT.CEL.SETS.P2,mobile_subscriptions_per100
+EGY,2022,"Egypt, Arab Rep.",90.6794715776528,IT.CEL.SETS.P2,mobile_subscriptions_per100
+EGY,2021,"Egypt, Arab Rep.",84.0866220906029,IT.CEL.SETS.P2,mobile_subscriptions_per100
+EGY,2020,"Egypt, Arab Rep.",87.2316871725819,IT.CEL.SETS.P2,mobile_subscriptions_per100
+EGY,2019,"Egypt, Arab Rep.",88.6447815879102,IT.CEL.SETS.P2,mobile_subscriptions_per100
+EGY,2018,"Egypt, Arab Rep.",88.7420881346276,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLV,2024,El Salvador,176.517423814642,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLV,2023,El Salvador,179.705636976149,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLV,2022,El Salvador,183.248955984561,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLV,2021,El Salvador,176.973446325336,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLV,2020,El Salvador,159.575329772708,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLV,2019,El Salvador,167.088631599992,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLV,2018,El Salvador,151.668612868534,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GNQ,2022,Equatorial Guinea,49.5380486763568,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GNQ,2021,Equatorial Guinea,46.434813558898,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GNQ,2020,Equatorial Guinea,43.3495410342634,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GNQ,2019,Equatorial Guinea,36.942192354463,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GNQ,2018,Equatorial Guinea,36.5760302693232,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ERI,2022,Eritrea,59.1248082166991,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ERI,2021,Eritrea,53.7582573847458,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ERI,2020,Eritrea,54.7205015934574,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ERI,2019,Eritrea,40.4605403256719,IT.CEL.SETS.P2,mobile_subscriptions_per100
+EST,2024,Estonia,151.131825017309,IT.CEL.SETS.P2,mobile_subscriptions_per100
+EST,2023,Estonia,150.195729068839,IT.CEL.SETS.P2,mobile_subscriptions_per100
+EST,2022,Estonia,152.270772859015,IT.CEL.SETS.P2,mobile_subscriptions_per100
+EST,2021,Estonia,148.739589817601,IT.CEL.SETS.P2,mobile_subscriptions_per100
+EST,2020,Estonia,144.832210121466,IT.CEL.SETS.P2,mobile_subscriptions_per100
+EST,2019,Estonia,147.04692867619,IT.CEL.SETS.P2,mobile_subscriptions_per100
+EST,2018,Estonia,145.543490183174,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SWZ,2024,Eswatini,139.833459658744,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SWZ,2023,Eswatini,128.399211381334,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SWZ,2022,Eswatini,121.491701239707,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SWZ,2021,Eswatini,118.627490794327,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SWZ,2020,Eswatini,104.747264466614,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SWZ,2019,Eswatini,91.0519258836113,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SWZ,2018,Eswatini,89.2003705956478,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ETH,2024,Ethiopia,65.0825091944922,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ETH,2023,Ethiopia,59.8748744402242,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ETH,2022,Ethiopia,56.9642988837987,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ETH,2021,Ethiopia,52.8088633217211,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ETH,2020,Ethiopia,37.4208472347226,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ETH,2019,Ethiopia,36.2199307720652,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FRO,2022,Faroe Islands,105.80437318324,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FRO,2021,Faroe Islands,111.093808630394,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FRO,2020,Faroe Islands,112.600072261205,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FRO,2019,Faroe Islands,106.012499517766,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FRO,2018,Faroe Islands,111.282674295568,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FJI,2024,Fiji,574.152332512188,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FJI,2023,Fiji,361.048644963723,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FJI,2022,Fiji,111.749120643187,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FJI,2021,Fiji,108.158405429846,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FJI,2020,Fiji,108.365037711907,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FJI,2019,Fiji,112.580732955222,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FJI,2018,Fiji,110.665300159184,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FIN,2024,Finland,125.860954798649,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FIN,2023,Finland,127.47302579722,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FIN,2022,Finland,128.023293416281,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FIN,2021,Finland,129.036333202492,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FIN,2020,Finland,128.761294644181,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FIN,2019,Finland,129.487723024493,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FIN,2018,Finland,129.629119305202,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FRA,2023,France,116.687800394775,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FRA,2022,France,115.950519429629,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FRA,2021,France,113.952719366702,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FRA,2020,France,110.387215275645,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FRA,2019,France,109.600780374596,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FRA,2018,France,107.482434668386,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PYF,2023,French Polynesia,118.777524029055,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PYF,2022,French Polynesia,116.866159256432,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PYF,2021,French Polynesia,115.413592954766,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PYF,2020,French Polynesia,119.981805744084,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PYF,2019,French Polynesia,113.964606463728,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PYF,2018,French Polynesia,108.168968782946,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GAB,2024,Gabon,125.337107593999,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GAB,2023,Gabon,122.606627765979,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GAB,2022,Gabon,123.233187164275,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GAB,2021,Gabon,132.30865873249,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GAB,2020,Gabon,131.301562643297,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GAB,2019,Gabon,131.975264871196,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GAB,2018,Gabon,132.465314660912,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GMB,2024,"Gambia, The",126.243773523653,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GMB,2023,"Gambia, The",117.115660832998,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GMB,2022,"Gambia, The",106.782250509204,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GMB,2021,"Gambia, The",108.847403542688,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GMB,2020,"Gambia, The",106.448259811355,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GMB,2019,"Gambia, The",105.204644657943,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GMB,2018,"Gambia, The",132.57837035012,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GEO,2024,Georgia,161.201784818537,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GEO,2023,Georgia,155.249965068869,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GEO,2022,Georgia,154.013561773213,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GEO,2021,Georgia,146.566472682371,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GEO,2020,Georgia,134.366007864735,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GEO,2019,Georgia,141.755414275788,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GEO,2018,Georgia,143.858127681082,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DEU,2024,Germany,129.150921864378,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DEU,2023,Germany,124.662572774586,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DEU,2022,Germany,124.158264349285,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DEU,2021,Germany,127.125099449404,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DEU,2020,Germany,128.424798814302,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DEU,2019,Germany,128.292298108313,IT.CEL.SETS.P2,mobile_subscriptions_per100
+DEU,2018,Germany,128.945577229674,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GHA,2024,Ghana,113.647966704673,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GHA,2023,Ghana,98.8059221412722,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GHA,2022,Ghana,120.803416027053,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GHA,2021,Ghana,124.402625384529,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GHA,2020,Ghana,126.887391353856,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GHA,2019,Ghana,130.70523333401,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GHA,2018,Ghana,133.609992432498,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GIB,2022,Gibraltar,97.6042968438406,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GIB,2021,Gibraltar,92.6501709262575,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GIB,2020,Gibraltar,97.9680977524673,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GIB,2019,Gibraltar,114.208035160872,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GIB,2018,Gibraltar,117.762667125724,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRC,2024,Greece,113.597610306796,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRC,2023,Greece,110.79216956747,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRC,2022,Greece,109.026956114201,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRC,2021,Greece,108.643525000707,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRC,2020,Greece,106.669795200072,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRC,2019,Greece,110.855033355177,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRC,2018,Greece,113.418450589721,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRL,2022,Greenland,118.637256652974,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRL,2021,Greenland,118.85048446673,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRL,2020,Greenland,117.614122681883,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRL,2019,Greenland,109.935097353969,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRL,2018,Greenland,109.487462995328,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRD,2022,Grenada,95.759239776586,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRD,2021,Grenada,86.5710270122035,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRD,2020,Grenada,102.079232600717,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRD,2019,Grenada,100.175028668489,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GRD,2018,Grenada,102.61904556102,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GTM,2024,Guatemala,112.520863034346,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GTM,2023,Guatemala,113.709374947241,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GTM,2022,Guatemala,115.156435692604,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GTM,2021,Guatemala,125.718955715353,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GTM,2020,Guatemala,117.475884100805,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GTM,2019,Guatemala,122.043793418341,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GTM,2018,Guatemala,121.500075538632,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GIN,2023,Guinea,97.8794996455513,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GIN,2022,Guinea,95.3174629318803,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GIN,2021,Guinea,110.185519681138,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GIN,2020,Guinea,107.776552007403,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GIN,2019,Guinea,98.7621473298315,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GIN,2018,Guinea,94.5550074326391,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GNB,2024,Guinea-Bissau,147.197631273872,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GNB,2023,Guinea-Bissau,128.110529740092,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GNB,2022,Guinea-Bissau,125.934670099533,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GNB,2021,Guinea-Bissau,108.62961248586,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GNB,2020,Guinea-Bissau,95.0628708236165,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GNB,2019,Guinea-Bissau,80.8245277725828,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GNB,2018,Guinea-Bissau,77.0219356476645,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GUY,2022,Guyana,112.56503784518,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GUY,2021,Guyana,104.968595260226,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GUY,2020,Guyana,106.008686272494,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GUY,2019,Guyana,96.327066296051,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HTI,2022,Haiti,65.1889329311174,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HTI,2021,Haiti,64.3451990252656,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HTI,2020,Haiti,65.0933737275708,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HTI,2019,Haiti,61.6234088594647,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HTI,2018,Haiti,60.232256515521,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HND,2024,Honduras,70.9397440517258,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HND,2023,Honduras,74.4148227156961,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HND,2022,Honduras,75.8551423411907,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HND,2021,Honduras,73.4771659564055,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HND,2020,Honduras,68.7836128557933,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HND,2019,Honduras,76.0268304351136,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HND,2018,Honduras,77.7100953282111,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HKG,2024,"Hong Kong SAR, China",364.848981963231,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HKG,2023,"Hong Kong SAR, China",319.493898344345,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HKG,2022,"Hong Kong SAR, China",292.80765987826,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HKG,2021,"Hong Kong SAR, China",319.852066930488,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HKG,2020,"Hong Kong SAR, China",291.916274990037,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HKG,2019,"Hong Kong SAR, China",286.618647834243,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HKG,2018,"Hong Kong SAR, China",266.34009236007,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HUN,2024,Hungary,104.58063059269,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HUN,2023,Hungary,105.054424922699,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HUN,2022,Hungary,105.793848314995,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HUN,2021,Hungary,105.137285804787,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HUN,2020,Hungary,105.981902376717,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HUN,2019,Hungary,105.141557934591,IT.CEL.SETS.P2,mobile_subscriptions_per100
+HUN,2018,Hungary,102.737202940663,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ISL,2024,Iceland,120.927513243653,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ISL,2023,Iceland,121.475495280706,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ISL,2022,Iceland,120.114839781678,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ISL,2021,Iceland,117.34255750797,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ISL,2020,Iceland,114.939418571031,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ISL,2019,Iceland,114.623232603271,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ISL,2018,Iceland,116.581078859812,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IND,2024,India,79.3526921826412,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IND,2023,India,80.5631998772888,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IND,2022,India,80.1818007717416,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IND,2021,India,81.603974311212,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IND,2020,India,82.2540479927426,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IND,2019,India,82.898144918237,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IND,2018,India,85.5500756367908,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IDN,2024,Indonesia,122.514946500491,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IDN,2023,Indonesia,125.238194847046,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IDN,2022,Indonesia,122.873012230307,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IDN,2021,Indonesia,132.199444256099,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IDN,2020,Indonesia,129.40362112725,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IDN,2019,Indonesia,125.244348145809,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IDN,2018,Indonesia,118.330216938024,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRN,2024,"Iran, Islamic Rep.",174.066388972063,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRN,2023,"Iran, Islamic Rep.",166.279821209677,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRN,2022,"Iran, Islamic Rep.",162.712943709127,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRN,2021,"Iran, Islamic Rep.",153.624638869213,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRN,2020,"Iran, Islamic Rep.",145.485569917724,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRN,2019,"Iran, Islamic Rep.",135.622267599115,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRN,2018,"Iran, Islamic Rep.",103.024273741245,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRQ,2024,Iraq,100.080276677726,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRQ,2023,Iraq,101.388721479182,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRQ,2022,Iraq,99.1323661916548,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRQ,2021,Iraq,94.6092832170426,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRQ,2020,Iraq,88.9799284628949,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRQ,2019,Iraq,90.3685290100393,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRQ,2018,Iraq,90.7159740030354,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRL,2024,Ireland,112.638817343502,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRL,2023,Ireland,110.798344311602,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRL,2022,Ireland,110.608851322579,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRL,2021,Ireland,106.86972424373,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRL,2020,Ireland,105.045612677382,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRL,2019,Ireland,104.597515228061,IT.CEL.SETS.P2,mobile_subscriptions_per100
+IRL,2018,Ireland,102.030494877842,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ISR,2024,Israel,177.393104798636,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ISR,2023,Israel,153.336641345572,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ISR,2022,Israel,151.1379631075,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ISR,2021,Israel,139.775312861878,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ISR,2020,Israel,139.425860895034,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ISR,2019,Israel,135.143345507015,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ISR,2018,Israel,125.733440171505,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ITA,2024,Italy,132.575141676252,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ITA,2023,Italy,131.871674517747,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ITA,2022,Italy,131.673965640047,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ITA,2021,Italy,130.781488497698,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ITA,2020,Italy,129.49000571147,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ITA,2019,Italy,132.181234381376,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ITA,2018,Italy,138.264671531909,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JAM,2024,Jamaica,117.693907561175,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JAM,2023,Jamaica,115.092228780619,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JAM,2022,Jamaica,105.762018411183,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JAM,2021,Jamaica,102.38666630017,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JAM,2020,Jamaica,101.50208125864,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JAM,2019,Jamaica,107.105304450051,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JAM,2018,Jamaica,105.137305560766,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JPN,2023,Japan,178.432441299977,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JPN,2022,Japan,168.602943650636,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JPN,2021,Japan,159.516123485628,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JPN,2020,Japan,154.432206765516,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JPN,2019,Japan,147.209910756974,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JPN,2018,Japan,141.728728918149,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JOR,2024,Jordan,69.6426153972396,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JOR,2023,Jordan,67.545678186078,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JOR,2022,Jordan,67.7457074341635,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JOR,2021,Jordan,65.7448847660422,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JOR,2020,Jordan,64.3142601333354,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JOR,2019,Jordan,72.8902684631993,IT.CEL.SETS.P2,mobile_subscriptions_per100
+JOR,2018,Jordan,83.4592297338656,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KAZ,2024,Kazakhstan,127.085151242164,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KAZ,2023,Kazakhstan,127.114775212168,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KAZ,2022,Kazakhstan,125.641583521795,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KAZ,2021,Kazakhstan,123.943942754522,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KAZ,2020,Kazakhstan,124.698460644703,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KAZ,2019,Kazakhstan,133.879728083238,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KAZ,2018,Kazakhstan,137.674831523214,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KEN,2024,Kenya,126.477706000949,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KEN,2023,Kenya,120.612416887959,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KEN,2022,Kenya,121.168999135357,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KEN,2021,Kenya,122.297519656734,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KEN,2020,Kenya,117.602526394779,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KEN,2019,Kenya,106.547822056778,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KEN,2018,Kenya,98.5944679106884,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KIR,2024,Kiribati,53.5244353915461,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KIR,2023,Kiribati,51.2540556855052,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KIR,2022,Kiribati,49.1120496056535,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KIR,2021,Kiribati,40.9979980837689,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KIR,2020,Kiribati,43.3476871347116,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KIR,2019,Kiribati,44.1071327700713,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KIR,2018,Kiribati,43.6895907735657,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRK,2022,"Korea, Dem. People's Rep.",24.1311041179361,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRK,2021,"Korea, Dem. People's Rep.",22.8723614729709,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRK,2020,"Korea, Dem. People's Rep.",22.9565670933221,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRK,2019,"Korea, Dem. People's Rep.",16.3340506540687,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KOR,2024,"Korea, Rep.",172.520241179065,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KOR,2023,"Korea, Rep.",162.11365652794,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KOR,2022,"Korea, Rep.",148.68360770138,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KOR,2021,"Korea, Rep.",140.516382791931,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KOR,2020,"Korea, Rep.",135.973274343048,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KOR,2019,"Korea, Rep.",133.079790493891,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KOR,2018,"Korea, Rep.",128.494634504197,IT.CEL.SETS.P2,mobile_subscriptions_per100
+XKX,2022,Kosovo,34.5402009143477,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KWT,2023,Kuwait,167.68428501222,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KWT,2022,Kuwait,168.350157565806,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KWT,2021,Kuwait,158.646854136291,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KWT,2020,Kuwait,153.866464370257,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KWT,2019,Kuwait,164.941648203568,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KWT,2018,Kuwait,164.219580620472,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KGZ,2024,Kyrgyz Republic,107.49229509732,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KGZ,2023,Kyrgyz Republic,108.59118718329,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KGZ,2022,Kyrgyz Republic,106.925973017004,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KGZ,2021,Kyrgyz Republic,108.171654806063,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KGZ,2020,Kyrgyz Republic,109.780106660424,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KGZ,2019,Kyrgyz Republic,132.776694304851,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KGZ,2018,Kyrgyz Republic,137.74227608483,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LAO,2023,Lao PDR,64.7588066942788,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LAO,2022,Lao PDR,63.3546046458219,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LAO,2021,Lao PDR,64.7101497693472,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LAO,2020,Lao PDR,63.1139885984314,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LAO,2019,Lao PDR,64.0668582946144,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LAO,2018,Lao PDR,51.3792491489602,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LVA,2024,Latvia,121.262202363304,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LVA,2023,Latvia,119.909944560018,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LVA,2022,Latvia,115.202627450543,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LVA,2021,Latvia,114.644670333429,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LVA,2020,Latvia,107.902487108935,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LVA,2019,Latvia,108.221910991332,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LVA,2018,Latvia,107.397431401316,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LBN,2022,Lebanon,74.0148340435503,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LBN,2021,Lebanon,74.9935205999452,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LBN,2020,Lebanon,75.2003104658777,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LBN,2019,Lebanon,73.1364785867655,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LBN,2018,Lebanon,73.9321026202855,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LSO,2024,Lesotho,70.328049309004,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LSO,2023,Lesotho,69.3513051423509,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LSO,2022,Lesotho,68.1001351640997,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LSO,2021,Lesotho,80.5368195682415,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LSO,2020,Lesotho,69.8944012395073,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LSO,2019,Lesotho,76.1124827725111,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LSO,2018,Lesotho,72.4555241955612,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LBR,2022,Liberia,32.0638885570006,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LBR,2021,Liberia,31.429900768597,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LBR,2020,Liberia,32.1004345501657,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LBR,2019,Liberia,38.4041861157665,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LBY,2022,Libya,192.97309381967,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LBY,2021,Libya,195.117849246865,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LBY,2020,Libya,164.987107188677,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LBY,2019,Libya,164.00440049702,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LIE,2024,Liechtenstein,128.901429646351,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LIE,2023,Liechtenstein,127.059447446841,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LIE,2022,Liechtenstein,126.306686674975,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LIE,2021,Liechtenstein,126.070587030017,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LIE,2020,Liechtenstein,126.104676657982,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LIE,2019,Liechtenstein,124.214360041623,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LIE,2018,Liechtenstein,123.979123501797,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LTU,2024,Lithuania,138.728835196967,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LTU,2023,Lithuania,137.203719983084,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LTU,2022,Lithuania,135.834150715729,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LTU,2021,Lithuania,133.357273318046,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LTU,2020,Lithuania,131.341332336588,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LTU,2019,Lithuania,132.528841977519,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LTU,2018,Lithuania,134.333614750945,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LUX,2023,Luxembourg,144.474949556306,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LUX,2022,Luxembourg,139.651285065505,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LUX,2021,Luxembourg,136.87108956478,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LUX,2020,Luxembourg,132.908973559976,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LUX,2019,Luxembourg,131.870169616698,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LUX,2018,Luxembourg,131.326868398506,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MAC,2024,"Macao SAR, China",201.136947388589,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MAC,2023,"Macao SAR, China",192.478344669931,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MAC,2022,"Macao SAR, China",172.244717160072,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MAC,2021,"Macao SAR, China",183.574788091048,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MAC,2020,"Macao SAR, China",237.343774476003,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MAC,2019,"Macao SAR, China",416.260540646881,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MAC,2018,"Macao SAR, China",331.099986034622,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDG,2023,Madagascar,75.4562966735535,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDG,2022,Madagascar,64.7494924066919,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDG,2021,Madagascar,53.9177233784298,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDG,2020,Madagascar,54.8084663590199,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDG,2019,Madagascar,46.077978411707,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDG,2018,Madagascar,38.7515500132643,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MWI,2024,Malawi,69.260530662121,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MWI,2023,Malawi,61.0866071008045,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MWI,2022,Malawi,59.6495709408963,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MWI,2021,Malawi,59.5599408158462,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MWI,2020,Malawi,51.2170439392301,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MWI,2019,Malawi,46.7841008334388,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MWI,2018,Malawi,38.1955692011493,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MYS,2024,Malaysia,139.664651283564,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MYS,2023,Malaysia,142.7320920639,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MYS,2022,Malaysia,138.208441079076,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MYS,2021,Malaysia,137.684938559871,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MYS,2020,Malaysia,129.017911652905,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MYS,2019,Malaysia,133.372921941941,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MYS,2018,Malaysia,128.873150399987,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDV,2024,Maldives,148.137074909198,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDV,2023,Maldives,141.601234995076,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDV,2022,Maldives,136.458655310185,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDV,2021,Maldives,136.789214071769,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDV,2020,Maldives,142.936122584731,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDV,2019,Maldives,169.774322321116,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDV,2018,Maldives,181.34343974517,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MLI,2022,Mali,112.119852778009,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MLI,2021,Mali,108.693122357196,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MLI,2020,Mali,116.587405376001,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MLI,2019,Mali,108.814511587375,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MLI,2018,Mali,107.404034726492,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MLT,2024,Malta,142.070062100751,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MLT,2023,Malta,140.59359496844,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MLT,2022,Malta,132.861156549134,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MLT,2021,Malta,123.941408455002,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MLT,2020,Malta,122.175694268893,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MLT,2019,Malta,125.866492068688,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MLT,2018,Malta,127.093763801237,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MHL,2022,Marshall Islands,39.7060658232902,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MHL,2021,Marshall Islands,38.6781734232601,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MHL,2020,Marshall Islands,37.4654615276542,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MHL,2019,Marshall Islands,36.3578521598836,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MRT,2024,Mauritania,92.0748946443443,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MRT,2023,Mauritania,90.7724948884417,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MRT,2022,Mauritania,109.883898247552,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MRT,2021,Mauritania,137.540323142707,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MRT,2020,Mauritania,126.277034284458,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MRT,2019,Mauritania,105.441089704161,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MRT,2018,Mauritania,105.275094895088,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MUS,2024,Mauritius,172.68356921857,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MUS,2023,Mauritius,165.257524411348,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MUS,2022,Mauritius,164.309278835228,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MUS,2021,Mauritius,154.053185977432,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MUS,2020,Mauritius,149.06995900167,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MUS,2019,Mauritius,145.117277088014,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MUS,2018,Mauritius,148.816797831837,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MEX,2024,Mexico,116.486713265167,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MEX,2023,Mexico,111.735420288549,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MEX,2022,Mexico,105.720624125765,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MEX,2021,Mexico,99.09481491263,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MEX,2020,Mexico,96.9237451881936,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MEX,2019,Mexico,97.0358606795758,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MEX,2018,Mexico,96.4612204576614,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FSM,2022,"Micronesia, Fed. Sts.",19.9885830493962,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FSM,2021,"Micronesia, Fed. Sts.",19.7090231491436,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FSM,2020,"Micronesia, Fed. Sts.",19.8348299614122,IT.CEL.SETS.P2,mobile_subscriptions_per100
+FSM,2019,"Micronesia, Fed. Sts.",20.8556246712972,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDA,2024,Moldova,120.083487069521,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDA,2023,Moldova,129.546081439289,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDA,2022,Moldova,137.182551887592,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDA,2021,Moldova,128.983642317657,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDA,2020,Moldova,111.444672775453,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDA,2019,Moldova,116.105189229966,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MDA,2018,Moldova,115.31999925169,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MCO,2024,Monaco,107.400792109963,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MCO,2023,Monaco,104.060991888284,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MCO,2022,Monaco,100.061647530246,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MCO,2021,Monaco,97.1422638668985,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MCO,2020,Monaco,93.2588699080158,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MCO,2019,Monaco,88.6483507832795,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MCO,2018,Monaco,85.6764690464958,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MNG,2024,Mongolia,140.670025377351,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MNG,2023,Mongolia,141.08481753135,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MNG,2022,Mongolia,142.808581769425,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MNG,2021,Mongolia,140.352142155192,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MNG,2020,Mongolia,132.610273840436,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MNG,2019,Mongolia,136.719198864644,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MNG,2018,Mongolia,133.283865358717,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MNE,2024,Montenegro,221.687322527444,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MNE,2023,Montenegro,207.237922064803,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MNE,2022,Montenegro,207.278149444886,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MNE,2021,Montenegro,185.488473149833,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MNE,2020,Montenegro,177.66521091893,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MNE,2019,Montenegro,188.173957398388,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MNE,2018,Montenegro,184.219098888429,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MAR,2024,Morocco,153.057260079672,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MAR,2023,Morocco,148.155101338402,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MAR,2022,Morocco,141.870002419562,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MAR,2021,Morocco,138.911268095998,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MAR,2020,Morocco,135.088404811169,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MAR,2019,Morocco,128.874798962456,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MAR,2018,Morocco,124.827523956634,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MOZ,2024,Mozambique,49.5047696961223,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MOZ,2023,Mozambique,47.5003032540948,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MOZ,2022,Mozambique,45.8178199662019,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MOZ,2021,Mozambique,43.1636190464176,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MOZ,2020,Mozambique,50.2318825476662,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MOZ,2019,Mozambique,49.4350694242276,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MOZ,2018,Mozambique,48.5007087167822,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MMR,2024,Myanmar,114.329042129489,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MMR,2023,Myanmar,121.027626770248,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MMR,2022,Myanmar,107.535089476237,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MMR,2021,Myanmar,127.240645128106,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MMR,2020,Myanmar,148.158208114821,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MMR,2019,Myanmar,155.669416939698,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MMR,2018,Myanmar,116.972136284863,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NAM,2024,Namibia,85.1648988113055,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NAM,2023,Namibia,87.6760954339972,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NAM,2022,Namibia,100.557816104444,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NAM,2021,Namibia,103.727351391971,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NAM,2020,Namibia,106.206587456143,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NAM,2019,Namibia,106.53315947895,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NAM,2018,Namibia,107.060260494691,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NRU,2022,Nauru,87.1705787645115,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NRU,2021,Nauru,85.404389785635,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NRU,2020,Nauru,85.8885167053165,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NRU,2019,Nauru,86.3036161215155,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NPL,2024,Nepal,99.8471420273964,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NPL,2023,Nepal,117.759577544938,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NPL,2022,Nepal,121.1144874334,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NPL,2021,Nepal,129.645418271275,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NPL,2020,Nepal,131.921020414772,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NPL,2019,Nepal,136.186080245332,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NPL,2018,Nepal,139.525943467536,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NLD,2024,Netherlands,128.538765867661,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NLD,2023,Netherlands,125.272736960305,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NLD,2022,Netherlands,115.8205562749,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NLD,2021,Netherlands,123.447849713072,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NLD,2020,Netherlands,121.422728509042,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NLD,2019,Netherlands,124.08833250929,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NLD,2018,Netherlands,121.162164892591,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NCL,2022,New Caledonia,91.6763895612682,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NCL,2021,New Caledonia,91.1596204954876,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NCL,2020,New Caledonia,91.4925961376049,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NCL,2019,New Caledonia,91.6764807514651,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NZL,2024,New Zealand,130.093457083544,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NZL,2023,New Zealand,126.854978584281,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NZL,2022,New Zealand,115.984187800849,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NZL,2021,New Zealand,114.454714130458,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NZL,2020,New Zealand,123.000574962598,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NZL,2019,New Zealand,120.475335425902,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NZL,2018,New Zealand,128.936896010016,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NIC,2024,Nicaragua,105.961143065351,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NIC,2023,Nicaragua,105.843136180202,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NIC,2022,Nicaragua,104.278484676229,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NIC,2021,Nicaragua,93.8165084237294,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NIC,2020,Nicaragua,90.8140674248283,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NIC,2019,Nicaragua,89.2772705280369,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NIC,2018,Nicaragua,116.272405969925,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NER,2024,Niger,60.5939862118112,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NER,2023,Niger,65.735032215569,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NER,2022,Niger,63.3770548032743,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NER,2021,Niger,61.5063092448251,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NER,2020,Niger,60.0355524816093,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NER,2019,Niger,52.8112616845298,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NGA,2024,Nigeria,70.7619057835431,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NGA,2023,Nigeria,98.4772822731425,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NGA,2022,Nigeria,99.5852151989567,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NGA,2021,Nigeria,89.2915858426408,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NGA,2020,Nigeria,95.4356648074949,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NGA,2019,Nigeria,88.1169010528984,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NGA,2018,Nigeria,84.2840110939485,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MKD,2024,North Macedonia,108.38712260883,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MKD,2023,North Macedonia,106.458776658176,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MKD,2022,North Macedonia,111.303079555687,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MKD,2021,North Macedonia,104.875134243923,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MKD,2020,North Macedonia,99.4723867063031,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MKD,2019,North Macedonia,101.231634434543,IT.CEL.SETS.P2,mobile_subscriptions_per100
+MKD,2018,North Macedonia,102.572291491295,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NOR,2024,Norway,109.348606513576,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NOR,2023,Norway,109.654228618195,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NOR,2022,Norway,111.657196221742,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NOR,2021,Norway,109.585637519783,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NOR,2020,Norway,108.296844518424,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NOR,2019,Norway,108.00526578567,IT.CEL.SETS.P2,mobile_subscriptions_per100
+NOR,2018,Norway,107.702543341632,IT.CEL.SETS.P2,mobile_subscriptions_per100
+OMN,2024,Oman,120.61105087402,IT.CEL.SETS.P2,mobile_subscriptions_per100
+OMN,2023,Oman,122.291457994634,IT.CEL.SETS.P2,mobile_subscriptions_per100
+OMN,2022,Oman,136.800571561762,IT.CEL.SETS.P2,mobile_subscriptions_per100
+OMN,2021,Oman,135.076972756826,IT.CEL.SETS.P2,mobile_subscriptions_per100
+OMN,2020,Oman,140.378600753095,IT.CEL.SETS.P2,mobile_subscriptions_per100
+OMN,2019,Oman,138.232111508042,IT.CEL.SETS.P2,mobile_subscriptions_per100
+OMN,2018,Oman,139.96741643208,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PAK,2024,Pakistan,76.8544559649986,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PAK,2023,Pakistan,76.5397606213172,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PAK,2022,Pakistan,79.1050539061512,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PAK,2021,Pakistan,78.8012296805749,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PAK,2020,Pakistan,74.7332166629945,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PAK,2019,Pakistan,71.6660323753765,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PAK,2018,Pakistan,67.8567658982797,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PLW,2023,Palau,135.386698256896,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PLW,2022,Palau,135.142744523903,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PLW,2021,Palau,134.960355395603,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PLW,2020,Palau,134.892086330935,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PLW,2019,Palau,134.846611978874,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PAN,2023,Panama,156.586507591014,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PAN,2022,Panama,152.062171804817,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PAN,2021,Panama,147.899862038176,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PAN,2020,Panama,142.283080390407,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PAN,2019,Panama,137.570004959029,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PAN,2018,Panama,137.297557979395,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PNG,2024,Papua New Guinea,38.7651796406789,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PNG,2023,Papua New Guinea,34.0588961979896,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PNG,2022,Papua New Guinea,49.1906681149749,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PNG,2021,Papua New Guinea,48.1179470954257,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PNG,2020,Papua New Guinea,49.0843996981992,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PNG,2019,Papua New Guinea,47.1952885885227,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PNG,2018,Papua New Guinea,45.7713986877234,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRY,2023,Paraguay,126.605481531224,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRY,2022,Paraguay,128.088057269442,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRY,2021,Paraguay,119.312639901188,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRY,2020,Paraguay,119.099952314893,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRY,2019,Paraguay,119.137051427631,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRY,2018,Paraguay,115.749958536773,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PER,2024,Peru,124.623544414599,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PER,2023,Peru,121.975084691173,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PER,2022,Peru,124.119322949561,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PER,2021,Peru,129.993736857913,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PER,2020,Peru,119.854099046125,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PER,2019,Peru,122.790350843591,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PER,2018,Peru,132.156626658621,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PHL,2024,Philippines,115.298749599352,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PHL,2023,Philippines,117.275521687262,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PHL,2022,Philippines,147.428926406785,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PHL,2021,Philippines,144.424289981649,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PHL,2020,Philippines,133.45620905917,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PHL,2019,Philippines,151.006642923206,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PHL,2018,Philippines,122.960456861544,IT.CEL.SETS.P2,mobile_subscriptions_per100
+POL,2024,Poland,138.016156588197,IT.CEL.SETS.P2,mobile_subscriptions_per100
+POL,2023,Poland,135.146301442691,IT.CEL.SETS.P2,mobile_subscriptions_per100
+POL,2022,Poland,137.002148115476,IT.CEL.SETS.P2,mobile_subscriptions_per100
+POL,2021,Poland,132.987203939653,IT.CEL.SETS.P2,mobile_subscriptions_per100
+POL,2020,Poland,129.288487295019,IT.CEL.SETS.P2,mobile_subscriptions_per100
+POL,2019,Poland,126.597314882311,IT.CEL.SETS.P2,mobile_subscriptions_per100
+POL,2018,Poland,126.266191655563,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRT,2024,Portugal,124.129981203404,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRT,2023,Portugal,123.001507659381,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRT,2022,Portugal,122.80130896654,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRT,2021,Portugal,119.768700781718,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRT,2020,Portugal,114.276382888841,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRT,2019,Portugal,115.145564535894,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRT,2018,Portugal,114.858523480989,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRI,2024,Puerto Rico (US),126.426375391555,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRI,2023,Puerto Rico (US),124.513459651582,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRI,2022,Puerto Rico (US),120.215904630962,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRI,2021,Puerto Rico (US),112.540413929626,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRI,2020,Puerto Rico (US),106.682174305247,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRI,2019,Puerto Rico (US),102.552928381388,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PRI,2018,Puerto Rico (US),101.222406345401,IT.CEL.SETS.P2,mobile_subscriptions_per100
+QAT,2024,Qatar,153.612474384296,IT.CEL.SETS.P2,mobile_subscriptions_per100
+QAT,2023,Qatar,157.82063065065,IT.CEL.SETS.P2,mobile_subscriptions_per100
+QAT,2022,Qatar,162.248539735277,IT.CEL.SETS.P2,mobile_subscriptions_per100
+QAT,2021,Qatar,137.709548409191,IT.CEL.SETS.P2,mobile_subscriptions_per100
+QAT,2020,Qatar,135.497890935034,IT.CEL.SETS.P2,mobile_subscriptions_per100
+QAT,2019,Qatar,140.01721278049,IT.CEL.SETS.P2,mobile_subscriptions_per100
+QAT,2018,Qatar,142.911085340776,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ROU,2024,Romania,119.804862328273,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ROU,2023,Romania,123.252482585042,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ROU,2022,Romania,121.14194294167,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ROU,2021,Romania,119.123068432356,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ROU,2020,Romania,116.478206049988,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ROU,2019,Romania,116.252345583749,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ROU,2018,Romania,115.492130982384,IT.CEL.SETS.P2,mobile_subscriptions_per100
+RUS,2024,Russian Federation,186.103787309059,IT.CEL.SETS.P2,mobile_subscriptions_per100
+RUS,2023,Russian Federation,180.841776534047,IT.CEL.SETS.P2,mobile_subscriptions_per100
+RUS,2022,Russian Federation,168.475831268436,IT.CEL.SETS.P2,mobile_subscriptions_per100
+RUS,2021,Russian Federation,169.07261384221,IT.CEL.SETS.P2,mobile_subscriptions_per100
+RUS,2020,Russian Federation,163.101112466044,IT.CEL.SETS.P2,mobile_subscriptions_per100
+RUS,2019,Russian Federation,163.646302441755,IT.CEL.SETS.P2,mobile_subscriptions_per100
+RUS,2018,Russian Federation,156.682905991229,IT.CEL.SETS.P2,mobile_subscriptions_per100
+RWA,2024,Rwanda,93.201462876722,IT.CEL.SETS.P2,mobile_subscriptions_per100
+RWA,2023,Rwanda,91.4622704078141,IT.CEL.SETS.P2,mobile_subscriptions_per100
+RWA,2022,Rwanda,80.5952224850433,IT.CEL.SETS.P2,mobile_subscriptions_per100
+RWA,2021,Rwanda,81.6381635400584,IT.CEL.SETS.P2,mobile_subscriptions_per100
+RWA,2020,Rwanda,81.2378724761376,IT.CEL.SETS.P2,mobile_subscriptions_per100
+RWA,2019,Rwanda,75.5985451901883,IT.CEL.SETS.P2,mobile_subscriptions_per100
+RWA,2018,Rwanda,77.679469147812,IT.CEL.SETS.P2,mobile_subscriptions_per100
+WSM,2022,Samoa,62.398669522115,IT.CEL.SETS.P2,mobile_subscriptions_per100
+WSM,2021,Samoa,32.2763227445165,IT.CEL.SETS.P2,mobile_subscriptions_per100
+WSM,2020,Samoa,32.5557694485336,IT.CEL.SETS.P2,mobile_subscriptions_per100
+WSM,2019,Samoa,40.0419487081705,IT.CEL.SETS.P2,mobile_subscriptions_per100
+WSM,2018,Samoa,48.1737337534083,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SMR,2022,San Marino,120.269873863303,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SMR,2021,San Marino,115.700566932778,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SMR,2020,San Marino,112.168886076677,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SMR,2019,San Marino,111.822930193634,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SMR,2018,San Marino,111.500477859191,IT.CEL.SETS.P2,mobile_subscriptions_per100
+STP,2024,Sao Tome and Principe,62.4367400312479,IT.CEL.SETS.P2,mobile_subscriptions_per100
+STP,2023,Sao Tome and Principe,63.4540500972405,IT.CEL.SETS.P2,mobile_subscriptions_per100
+STP,2022,Sao Tome and Principe,86.7784626941517,IT.CEL.SETS.P2,mobile_subscriptions_per100
+STP,2021,Sao Tome and Principe,85.2577705092336,IT.CEL.SETS.P2,mobile_subscriptions_per100
+STP,2020,Sao Tome and Principe,80.1172764274381,IT.CEL.SETS.P2,mobile_subscriptions_per100
+STP,2019,Sao Tome and Principe,77.6791069955762,IT.CEL.SETS.P2,mobile_subscriptions_per100
+STP,2018,Sao Tome and Principe,77.3644421396185,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SAU,2024,Saudi Arabia,159.541370566589,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SAU,2023,Saudi Arabia,157.775388696083,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SAU,2022,Saudi Arabia,149.79788255308,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SAU,2021,Saudi Arabia,145.003757775499,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SAU,2020,Saudi Arabia,139.444194606554,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SAU,2019,Saudi Arabia,135.526154774497,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SAU,2018,Saudi Arabia,136.046169550913,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SEN,2024,Senegal,123.894453697506,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SEN,2023,Senegal,123.911572643075,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SEN,2022,Senegal,118.150293497239,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SEN,2021,Senegal,115.325093678501,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SEN,2020,Senegal,113.638091206029,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SEN,2019,Senegal,109.341890091569,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SEN,2018,Senegal,104.055698143919,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SRB,2024,Serbia,123.822194984291,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SRB,2023,Serbia,128.471147595832,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SRB,2022,Serbia,129.813149647571,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SRB,2021,Serbia,125.075587327252,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SRB,2020,Serbia,120.216859464106,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SRB,2019,Serbia,122.047741314232,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SRB,2018,Serbia,121.074823902706,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SYC,2024,Seychelles,125.616862703001,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SYC,2023,Seychelles,129.24400747161,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SYC,2022,Seychelles,163.429518331448,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SYC,2021,Seychelles,149.479213250181,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SYC,2020,Seychelles,152.5450781854,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SYC,2019,Seychelles,164.617084572886,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SYC,2018,Seychelles,155.551112656467,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLE,2022,Sierra Leone,107.882000873042,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLE,2021,Sierra Leone,101.636782141976,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLE,2020,Sierra Leone,87.0034823125467,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLE,2019,Sierra Leone,87.0384355077496,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLE,2018,Sierra Leone,84.1233437327877,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SGP,2024,Singapore,170.78256295407,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SGP,2023,Singapore,173.199932977376,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SGP,2022,Singapore,173.005291258141,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SGP,2021,Singapore,157.977675166643,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SGP,2020,Singapore,150.259334715266,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SGP,2019,Singapore,159.347378272364,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SGP,2018,Singapore,152.07381696158,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SXM,2022,Sint Maarten (Dutch part),205.372695128029,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SVK,2024,Slovak Republic,139.967676092657,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SVK,2023,Slovak Republic,138.232946210214,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SVK,2022,Slovak Republic,136.029289645522,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SVK,2021,Slovak Republic,135.268252737261,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SVK,2020,Slovak Republic,133.632904273198,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SVK,2019,Slovak Republic,135.755672834643,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SVK,2018,Slovak Republic,133.040480361667,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SVN,2024,Slovenia,130.86090177123,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SVN,2023,Slovenia,129.227963043737,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SVN,2022,Slovenia,126.45918075971,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SVN,2021,Slovenia,123.362924143622,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SVN,2020,Slovenia,121.331428226248,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SVN,2019,Slovenia,120.568876746571,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SVN,2018,Slovenia,119.153401263409,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLB,2022,Solomon Islands,62.0734995506142,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLB,2021,Solomon Islands,62.1565164026326,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLB,2020,Solomon Islands,63.6670615636308,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLB,2019,Solomon Islands,65.6620160489572,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SLB,2018,Solomon Islands,67.9774813460988,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SOM,2023,"Somalia, Fed. Rep.",53.9579646939598,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SOM,2022,"Somalia, Fed. Rep.",49.6800986995936,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SOM,2021,"Somalia, Fed. Rep.",51.2059481348129,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SOM,2020,"Somalia, Fed. Rep.",53.1133178401473,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SOM,2019,"Somalia, Fed. Rep.",51.3194116563494,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SOM,2018,"Somalia, Fed. Rep.",49.5262671956948,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZAF,2024,South Africa,179.336329840585,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZAF,2023,South Africa,171.508619260428,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZAF,2022,South Africa,160.728511675754,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZAF,2021,South Africa,163.12806305125,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZAF,2020,South Africa,158.447269436121,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZAF,2019,South Africa,162.73854828041,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZAF,2018,South Africa,157.691905248121,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SSD,2023,South Sudan,46.6152369503945,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SSD,2022,South Sudan,48.4888320004297,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SSD,2021,South Sudan,30.151042999214,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SSD,2019,South Sudan,21.3171365460584,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SSD,2018,South Sudan,18.9297575209348,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ESP,2024,Spain,130.260997343256,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ESP,2023,Spain,127.715490236713,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ESP,2022,Spain,123.399528756795,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ESP,2021,Spain,118.999806936801,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ESP,2020,Spain,116.712041523767,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ESP,2019,Spain,116.69612128516,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ESP,2018,Spain,115.009066880916,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LKA,2024,Sri Lanka,132.548743018664,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LKA,2023,Sri Lanka,142.277402587724,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LKA,2022,Sri Lanka,151.72675762805,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LKA,2021,Sri Lanka,135.522602889503,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LKA,2020,Sri Lanka,131.773421339878,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LKA,2019,Sri Lanka,126.514451763616,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LKA,2018,Sri Lanka,136.084228735946,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KNA,2023,St. Kitts and Nevis,118.893023653706,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KNA,2022,St. Kitts and Nevis,116.923933289088,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KNA,2021,St. Kitts and Nevis,121.256121292475,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KNA,2020,St. Kitts and Nevis,133.400896095584,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KNA,2019,St. Kitts and Nevis,138.916340092009,IT.CEL.SETS.P2,mobile_subscriptions_per100
+KNA,2018,St. Kitts and Nevis,152.301735874745,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LCA,2022,St. Lucia,98.6676436534083,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LCA,2021,St. Lucia,96.2374385229832,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LCA,2020,St. Lucia,81.8687237026648,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LCA,2019,St. Lucia,83.1865181441059,IT.CEL.SETS.P2,mobile_subscriptions_per100
+LCA,2018,St. Lucia,104.478100973353,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VCT,2024,St. Vincent and the Grenadines,108.354536057883,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VCT,2023,St. Vincent and the Grenadines,101.631416361537,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VCT,2022,St. Vincent and the Grenadines,102.334241420536,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VCT,2021,St. Vincent and the Grenadines,95.5173520288601,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VCT,2020,St. Vincent and the Grenadines,96.9437629194598,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VCT,2019,St. Vincent and the Grenadines,92.5177839430914,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VCT,2018,St. Vincent and the Grenadines,107.164096601414,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SDN,2022,Sudan,70.2084038614961,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SDN,2021,Sudan,71.767230205952,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SDN,2020,Sudan,75.2207425678785,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SDN,2019,Sudan,72.4818502607404,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SDN,2018,Sudan,68.0533719238149,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SUR,2024,Suriname,142.122626416427,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SUR,2023,Suriname,157.24614636039,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SUR,2022,Suriname,149.052255906952,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SUR,2021,Suriname,146.654129497521,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SUR,2020,Suriname,146.874739718153,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SUR,2019,Suriname,134.34912375695,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SUR,2018,Suriname,125.480181413914,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SWE,2024,Sweden,140.686673016562,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SWE,2023,Sweden,140.265691285045,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SWE,2022,Sweden,140.781664517726,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SWE,2021,Sweden,124.96149481991,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SWE,2020,Sweden,123.548656971054,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SWE,2019,Sweden,125.456729050381,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SWE,2018,Sweden,124.086284526267,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHE,2024,Switzerland,129.471369643132,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHE,2023,Switzerland,130.221876609608,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHE,2022,Switzerland,123.971228075124,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHE,2021,Switzerland,123.21236546636,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHE,2020,Switzerland,127.376373489656,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHE,2019,Switzerland,126.920635838501,IT.CEL.SETS.P2,mobile_subscriptions_per100
+CHE,2018,Switzerland,126.681143927488,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SYR,2024,Syrian Arab Republic,71.2231424453527,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SYR,2023,Syrian Arab Republic,72.4405852977604,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SYR,2022,Syrian Arab Republic,78.6567844526885,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SYR,2021,Syrian Arab Republic,78.5558300193552,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SYR,2020,Syrian Arab Republic,79.1482419784404,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SYR,2019,Syrian Arab Republic,87.1297289207859,IT.CEL.SETS.P2,mobile_subscriptions_per100
+SYR,2018,Syrian Arab Republic,87.4952069545959,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TJK,2023,Tajikistan,76.215892145748,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TJK,2022,Tajikistan,63.8442080716763,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TJK,2021,Tajikistan,64.0874682499327,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TJK,2020,Tajikistan,62.2826230779409,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TJK,2019,Tajikistan,115.372919483658,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TJK,2018,Tajikistan,107.442164151643,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TZA,2024,Tanzania,126.559163217786,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TZA,2023,Tanzania,105.40028112088,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TZA,2022,Tanzania,93.0159746238635,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TZA,2021,Tanzania,86.0162814148027,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TZA,2020,Tanzania,84.0050558283384,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TZA,2019,Tanzania,80.5835569684446,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TZA,2018,Tanzania,75.7301934140355,IT.CEL.SETS.P2,mobile_subscriptions_per100
+THA,2024,Thailand,160.639312286761,IT.CEL.SETS.P2,mobile_subscriptions_per100
+THA,2023,Thailand,168.642808295144,IT.CEL.SETS.P2,mobile_subscriptions_per100
+THA,2022,Thailand,176.22279253783,IT.CEL.SETS.P2,mobile_subscriptions_per100
+THA,2021,Thailand,168.485285358167,IT.CEL.SETS.P2,mobile_subscriptions_per100
+THA,2020,Thailand,162.327737376294,IT.CEL.SETS.P2,mobile_subscriptions_per100
+THA,2019,Thailand,181.221874232713,IT.CEL.SETS.P2,mobile_subscriptions_per100
+THA,2018,Thailand,175.266001933225,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TLS,2024,Timor-Leste,116.382391453038,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TLS,2023,Timor-Leste,112.647241971673,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TLS,2022,Timor-Leste,108.158358863503,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TLS,2021,Timor-Leste,102.668836319816,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TLS,2020,Timor-Leste,103.911005065408,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TLS,2019,Timor-Leste,109.555438546595,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TLS,2018,Timor-Leste,115.089356319443,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TGO,2024,Togo,80.8035554767112,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TGO,2023,Togo,75.7906769713952,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TGO,2022,Togo,72.2147547047011,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TGO,2021,Togo,70.4496733018494,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TGO,2020,Togo,75.164019137873,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TGO,2019,Togo,73.7224727486533,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TGO,2018,Togo,74.3997114343066,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TON,2022,Tonga,61.7257858761257,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TON,2021,Tonga,60.9801876955162,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TON,2020,Tonga,58.6543555589192,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TON,2019,Tonga,58.772203768371,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TON,2018,Tonga,102.245967016208,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TTO,2024,Trinidad and Tobago,118.786668099235,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TTO,2023,Trinidad and Tobago,134.230557337258,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TTO,2022,Trinidad and Tobago,133.631989924602,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TTO,2021,Trinidad and Tobago,134.221562299819,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TTO,2020,Trinidad and Tobago,134.231180588566,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TTO,2019,Trinidad and Tobago,145.715788467056,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TTO,2018,Trinidad and Tobago,134.142866663312,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUN,2024,Tunisia,117.606816067203,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUN,2023,Tunisia,132.653682480562,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUN,2022,Tunisia,131.875365428496,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUN,2021,Tunisia,129.846077003661,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUN,2020,Tunisia,124.041976750236,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUN,2019,Tunisia,124.386924181822,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUN,2018,Tunisia,125.532926143303,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUR,2024,Turkiye,107.826875714392,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUR,2023,Turkiye,105.684032912794,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUR,2022,Turkiye,103.720593629066,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUR,2021,Turkiye,99.5415432248525,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUR,2020,Turkiye,95.3960853737199,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUR,2019,Turkiye,94.6498130829997,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUR,2018,Turkiye,94.9085818111026,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TKM,2021,Turkmenistan,88.1929367884543,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TKM,2020,Turkmenistan,88.7029504834018,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TKM,2019,Turkmenistan,88.2099411752948,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TKM,2018,Turkmenistan,87.7729687399519,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUV,2022,Tuvalu,98.8590872698158,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUV,2021,Tuvalu,88.2872277810477,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUV,2020,Tuvalu,86.5467833445524,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUV,2019,Tuvalu,85.0581230507513,IT.CEL.SETS.P2,mobile_subscriptions_per100
+TUV,2018,Tuvalu,79.0624127988094,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UGA,2024,Uganda,83.165031466902,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UGA,2023,Uganda,76.2966796632588,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UGA,2022,Uganda,70.1401117953081,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UGA,2021,Uganda,65.6220730009172,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UGA,2020,Uganda,62.2824129624858,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UGA,2019,Uganda,59.0598078769828,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UGA,2018,Uganda,58.8753608703264,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UKR,2023,Ukraine,133.38012811971,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UKR,2022,Ukraine,120.261144906234,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UKR,2021,Ukraine,135.025688989835,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UKR,2020,Ukraine,129.341230786476,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UKR,2019,Ukraine,130.629436256062,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UKR,2018,Ukraine,127.753861022152,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARE,2024,United Arab Emirates,203.206410299544,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARE,2023,United Arab Emirates,199.423843889179,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARE,2022,United Arab Emirates,195.624592490241,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARE,2021,United Arab Emirates,186.30089463245,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARE,2020,United Arab Emirates,194.467749671801,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARE,2019,United Arab Emirates,209.033214126867,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ARE,2018,United Arab Emirates,214.842134318761,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GBR,2024,United Kingdom,121.643331373201,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GBR,2023,United Kingdom,122.781542240418,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GBR,2022,United Kingdom,119.833999505569,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GBR,2021,United Kingdom,117.887430294308,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GBR,2020,United Kingdom,117.304850715261,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GBR,2019,United Kingdom,120.250108782533,IT.CEL.SETS.P2,mobile_subscriptions_per100
+GBR,2018,United Kingdom,118.184381927412,IT.CEL.SETS.P2,mobile_subscriptions_per100
+USA,2024,United States,113.190481805755,IT.CEL.SETS.P2,mobile_subscriptions_per100
+USA,2023,United States,112.410910606372,IT.CEL.SETS.P2,mobile_subscriptions_per100
+USA,2022,United States,108.785640656159,IT.CEL.SETS.P2,mobile_subscriptions_per100
+USA,2021,United States,106.324514306135,IT.CEL.SETS.P2,mobile_subscriptions_per100
+USA,2020,United States,103.855170008567,IT.CEL.SETS.P2,mobile_subscriptions_per100
+USA,2019,United States,105.32074052965,IT.CEL.SETS.P2,mobile_subscriptions_per100
+USA,2018,United States,103.935307364,IT.CEL.SETS.P2,mobile_subscriptions_per100
+URY,2024,Uruguay,145.501755749445,IT.CEL.SETS.P2,mobile_subscriptions_per100
+URY,2023,Uruguay,141.71948663565,IT.CEL.SETS.P2,mobile_subscriptions_per100
+URY,2022,Uruguay,139.828801269747,IT.CEL.SETS.P2,mobile_subscriptions_per100
+URY,2021,Uruguay,138.112989243956,IT.CEL.SETS.P2,mobile_subscriptions_per100
+URY,2020,Uruguay,133.90170192835,IT.CEL.SETS.P2,mobile_subscriptions_per100
+URY,2019,Uruguay,133.236724531865,IT.CEL.SETS.P2,mobile_subscriptions_per100
+URY,2018,Uruguay,131.363332934653,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UZB,2024,Uzbekistan,110.492018573638,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UZB,2023,Uzbekistan,106.884847592051,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UZB,2022,Uzbekistan,105.471643327627,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UZB,2021,Uzbekistan,102.410090312681,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UZB,2020,Uzbekistan,99.4063901870675,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UZB,2019,Uzbekistan,101.259829415713,IT.CEL.SETS.P2,mobile_subscriptions_per100
+UZB,2018,Uzbekistan,71.744368617656,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VUT,2023,Vanuatu,89.2943082123161,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VUT,2022,Vanuatu,81.6202730589115,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VUT,2021,Vanuatu,81.6914485987419,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VUT,2020,Vanuatu,82.3909682859418,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VUT,2019,Vanuatu,90.8330907409627,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VUT,2018,Vanuatu,88.1402514907505,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VEN,2024,"Venezuela, RB",71.0075917225029,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VEN,2023,"Venezuela, RB",70.2197325918151,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VEN,2022,"Venezuela, RB",66.4667731210739,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VEN,2021,"Venezuela, RB",60.2344883065715,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VEN,2020,"Venezuela, RB",58.1625657953324,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VEN,2019,"Venezuela, RB",63.8474442929871,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VEN,2018,"Venezuela, RB",69.5499623049054,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VNM,2024,Viet Nam,127.606471743496,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VNM,2023,Viet Nam,130.991428667547,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VNM,2022,Viet Nam,137.852422819653,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VNM,2021,Viet Nam,136.806313165021,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VNM,2020,Viet Nam,141.655558720912,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VNM,2019,Viet Nam,140.192561828615,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VNM,2018,Viet Nam,146.137840768403,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VIR,2022,Virgin Islands (U.S.),91.4619626157421,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VIR,2021,Virgin Islands (U.S.),91.7189273471447,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VIR,2020,Virgin Islands (U.S.),91.2127880328822,IT.CEL.SETS.P2,mobile_subscriptions_per100
+VIR,2019,Virgin Islands (U.S.),89.5124925872467,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PSE,2023,West Bank and Gaza,76.6918854204372,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PSE,2022,West Bank and Gaza,76.5666403406424,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PSE,2021,West Bank and Gaza,78.1621094563592,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PSE,2020,West Bank and Gaza,80.1297988122355,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PSE,2019,West Bank and Gaza,86.7372172316252,IT.CEL.SETS.P2,mobile_subscriptions_per100
+PSE,2018,West Bank and Gaza,90.2055254286487,IT.CEL.SETS.P2,mobile_subscriptions_per100
+YEM,2023,"Yemen, Rep.",50.8937810578557,IT.CEL.SETS.P2,mobile_subscriptions_per100
+YEM,2022,"Yemen, Rep.",46.4534353720531,IT.CEL.SETS.P2,mobile_subscriptions_per100
+YEM,2021,"Yemen, Rep.",47.8090200303014,IT.CEL.SETS.P2,mobile_subscriptions_per100
+YEM,2020,"Yemen, Rep.",42.0037568704771,IT.CEL.SETS.P2,mobile_subscriptions_per100
+YEM,2019,"Yemen, Rep.",43.3990001198471,IT.CEL.SETS.P2,mobile_subscriptions_per100
+YEM,2018,"Yemen, Rep.",44.8810541777362,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZMB,2024,Zambia,108.704779873813,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZMB,2023,Zambia,102.06156495632,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZMB,2022,Zambia,98.4372601156219,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZMB,2021,Zambia,103.28257957834,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZMB,2020,Zambia,100.235122888213,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZMB,2019,Zambia,93.0147820773422,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZMB,2018,Zambia,86.0723321005416,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZWE,2024,Zimbabwe,94.2451753366358,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZWE,2023,Zimbabwe,91.6344110473757,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZWE,2022,Zimbabwe,88.9958314912836,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZWE,2021,Zimbabwe,90.2538486226365,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZWE,2020,Zimbabwe,84.9604118996672,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZWE,2019,Zimbabwe,86.4094297249598,IT.CEL.SETS.P2,mobile_subscriptions_per100
+ZWE,2018,Zimbabwe,85.8627371320218,IT.CEL.SETS.P2,mobile_subscriptions_per100

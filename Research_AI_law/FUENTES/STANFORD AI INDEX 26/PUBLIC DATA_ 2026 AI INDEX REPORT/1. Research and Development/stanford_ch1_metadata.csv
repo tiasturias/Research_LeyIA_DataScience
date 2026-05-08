@@ -1,0 +1,66 @@
+fig_id,section,entity_type,num_data_rows,num_cols,is_wide,columns_preview
+fig_1.1.1,fig_1.1.1,country,7,2,N,Number of notable machine learning models in 2025 | Geographic area
+fig_1.1.2,fig_1.1.2,category,54,3,N,Year | Number of notable AI models | Label
+fig_1.1.3,fig_1.1.3,country,30,2,N,Geographic area | Number of notable machine learning models
+fig_1.1.4,fig_1.1.4,category,92,3,N,Year | Number of notable AI models | Label
+fig_1.1.5,fig_1.1.5,category,92,3,N,Year | Notable AI models (% of total) | Label
+fig_1.1.6,fig_1.1.6,organization,20,2,N,organization | num_models
+fig_1.1.7,fig_1.1.7,organization,20,2,N,organization | num_models
+fig_1.1.8,fig_1.1.8,category,61,3,N,model_accessibility | year | num_models
+fig_1.1.9,fig_1.1.9,category,46,3,N,training_code_accessibility | year | num_models
+fig_1.1.10,fig_1.1.10,category,623,3,N,Publication date | Number of parameters | Label
+fig_1.1.11,fig_1.1.11,global,563,2,N,Publication date | training_dataset_size_(total)
+fig_1.1.12,fig_1.1.12,global,222,2,N,Publication date | Training length (days)
+fig_1.1.13,fig_1.1.13,category,471,3,N,Publication date | Training compute (petaFLOP) | Label
+fig_1.1.14,fig_1.1.14,category,120,3,N,Publication date | Training compute (petaFLOP – log scale) | Label
+fig_1.1.16,fig_1.1.16,model,5,2,N,Model | Score
+fig_1.1.17,fig_1.1.17,category,130,3,N,Month | % of generated content | Label
+fig_1.2.1,fig_1.2.1,category,336,3,N,Publication date | Performance (FLOP/s - log scale) | Label
+fig_1.2.2,fig_1.2.2,category,194,3,N,Publication date | Cumulative number of notable AI models | Label
+fig_1.2.3,fig_1.2.3,organization,16,6,Y,quarter | AMD | Amazon | Google | Huawei | Nvidia
+fig_1.2.3(1),fig_1.2,duplicate_of_fig_1.2.3,16,6,N,quarter | AMD | Amazon | Google | Huawei | Nvidia
+fig_1.2.4,fig_1.2.4,global,16,4,N,quarter | cumulative_chip_power | cumulative_other_power | total_power
+fig_1.3.1,fig_1.3.1,country,97,3,N,Country | num_datacenters | iso_code
+fig_1.3.2,fig_1.3.2,country,15,2,N,Number of Data Centers | Country
+fig_1.4.1,fig_1.4.1,category,122,3,N,Publication date | Energy efficiency (FLOP/s per watt - log scale) | Label
+fig_1.4.2,fig_1.4.2,model,34,3,N,model | publication_date | training_power_draw_(w)
+fig_1.4.3,fig_1.4.3,model,13,3,N,model | year | C02eq_emissions
+fig_1.4.3(1),fig_1.4,duplicate_of_fig_1.4.3,13,3,N,model | year | C02eq_emissions
+fig_1.4.4,fig_1.4.4,model,13,4,N,Model | Year | CO2 equivalent emissions (tons) | Parameters
+fig_1.4.5,fig_1.4.5,model,33,3,N,model | avg_energy_consumption_wh | year
+fig_1.4.6,fig_1.4.6,model,33,3,N,model | avg_energy_consumption_wh | year
+fig_1.4.7,fig_1.4.7,category,7,2,N,activity | energy_wh
+fig_1.4.8,fig_1.4.8,category,6,2,N,activity | water_consumption_kL
+fig_1.4.9,fig_1.4.9,category,4,4,N,Total EPD | 2023 | 2024 | Cumulative
+fig_1.4.10,fig_1.4.10,category,4,4,N,Accelerated servers | 2023 | 2024 | Cumulative
+fig_1.4.11,fig_1.4.11,category,11,2,N,Power demand in megawatts (MW) | Description
+fig_1.4.12,fig_1.4.12,global,19,2,N,Year | GPU cost index (2006=1)
+fig_1.5.1,fig_1.5.1,global,15,2,N,Year | Number of AI projects (in millions)
+fig_1.5.2,fig_1.5.2,global,15,2,N,Year | Number of AI projects (in thousands)
+fig_1.5.3,fig_1.5.3,category,68,3,N,Year | AI projects (% of total) | Label
+fig_1.5.4,fig_1.5.4,global,15,2,N,Year | Number of GitHub stars (in millions)
+fig_1.5.5,fig_1.5.5,category,75,3,N,Year | Number of cumulative GitHub stars (in millions) | Label
+fig_1.5.6,fig_1.5.6,global,16,3,N,qyear | created_models | created_datasets
+fig_1.5.7,fig_1.5.7,category,54,3,N,Year | AI model downloads (% of total) | Label
+fig_1.5.8,fig_1.5.8,organization,55,3,N,Quarter | Download share | Developer
+fig_1.6.1,fig_1.6.1,global,24,2,N,Year | Number of AI publications in CS (in thousands)
+fig_1.6.2,fig_1.6.2,category,72,3,N,Year | Number of AI publications in CS (in thousands) | Label
+fig_1.6.3,fig_1.6.3,global,16,2,N,Year | Number of attendees (in thousands)
+fig_1.6.4,fig_1.6.4,category,156,3,N,Year | Number of attendees (in thousands) | Label
+fig_1.6.5,fig_1.6.5,category,63,3,N,Year | Number of attendees (in thousands) | Label
+fig_1.6.6,fig_1.6.6,category,72,3,N,Year | AI publications in CS (% of total) | Label
+fig_1.6.7,fig_1.6.7,category,96,3,N,Year | AI publications in CS (% of total) | Label
+fig_1.6.8,fig_1.6.8,category,60,3,N,Year | AI publications in CS (% of total) | Label
+fig_1.6.9,fig_1.6.9,category,12,3,N,AI Publications (% of Total) | Sector | Label
+fig_1.6.10,fig_1.6.10,category,120,3,N,Year | Number of AI publications (in thousands) | Label
+fig_1.7.1,fig_1.7.1,global,15,2,N,Year | Number of AI patents granted (in thousands)
+fig_1.7.2,fig_1.7.2,category,75,3,N,Year | Granted AI patents (% of world total) | Label
+fig_1.7.3,fig_1.7.3,category,75,3,N,Year | Number of AI patents granted (in thousands) | Label
+fig_1.7.4,fig_1.7.4,country,15,2,N,"Granted AI patents (per 100,000 inhabitants) | Country"
+fig_1.7.7,fig_1.7.7,country,31,3,N,Country | Proximity_to_United_States | Proximity_to_China
+fig_1.8.1,fig_1.8.1,country,21,2,N,Number of top AI authors and inventors (in thousands) | Country
+fig_1.8.2,fig_1.8.2,country,15,2,N,country | talent_per_100k
+fig_1.8.3,fig_1.8.3,country,1999,5,N,year | country | country_code | education_label | pct_share
+fig_1.8.4,fig_1.8.4,country,336,5,N,year | country | country_code | Male | Female
+fig_1.8.5,fig_1.8.5,category,14,22,N,specialisation_area | Australia | Brazil | Canada | Denmark | Finland | France | Germany
+fig_1.8.6,fig_1.8.6,country,3907,4,N,country | country_code | year_month | netflow

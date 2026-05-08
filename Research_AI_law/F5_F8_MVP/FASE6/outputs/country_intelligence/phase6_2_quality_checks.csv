@@ -1,0 +1,17 @@
+check,status,severity,path,observed
+exists_fase6_manifest.json,PASS,INFO,/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/fase6_manifest.json,
+exists_q1_results.csv,PASS,INFO,/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/q1_results.csv,
+exists_q2_results.csv,PASS,INFO,/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/q2_results.csv,
+exists_q2_scores_per_country.csv,PASS,INFO,/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/q2_scores_per_country.csv,
+exists_q3_results.csv,PASS,INFO,/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/q3_results.csv,
+exists_q4_clusters.csv,PASS,INFO,/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/q4_clusters.csv,
+exists_q4_distance_matrix.csv,PASS,INFO,/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/q4_distance_matrix.csv,
+exists_q5_results.csv,PASS,INFO,/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/q5_results.csv,
+exists_q5_scores_per_country.csv,PASS,INFO,/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/q5_scores_per_country.csv,
+exists_q6_results.csv,PASS,INFO,/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/q6_results.csv,
+exists_q6_scores_per_country.csv,PASS,INFO,/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/q6_scores_per_country.csv,
+manifest_no_holdout,PASS,P0,,
+manifest_no_external_validation,PASS,P0,,
+manifest_no_train_test_split,PASS,P0,,
+feature_matrix_43_rows,PASS,P0,,43.0
+feature_matrix_no_split,PASS,P0,,

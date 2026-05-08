@@ -1,0 +1,133 @@
+ISO3,ECONOMY_NAME,INCOME,REG_UN,REG_UN_CODE,POP,PPPGDP,PPPPC
+ALB,Albania,UM,Europe,EUR,2873,44.5,15487
+DZA,Algeria,LM,Northern Africa and Western Asia,NAWA,44617,532.6,11829
+AGO,Angola,LM,Sub-Saharan Africa,SSA,33934,218,6820
+ARG,Argentina,UM,Latin America and the Caribbean,LCN,45606,1049.4,22892
+ARM,Armenia,UM,Northern Africa and Western Asia,NAWA,2968,43.5,14701
+AUS,Australia,HI,"South East Asia, East Asia, and Oceania",SEAO,25788,1427.3,55492
+AUT,Austria,HI,Europe,EUR,9043,531.4,59406
+AZE,Azerbaijan,UM,Northern Africa and Western Asia,NAWA,10223,155.9,15299
+BHR,Bahrain,HI,Northern Africa and Western Asia,NAWA,1748,79,53128
+BGD,Bangladesh,LM,Central and Southern Asia,CSA,166303,953.4,5733
+BLR,Belarus,UM,Europe,EUR,9443,200.7,21467
+BEL,Belgium,HI,Europe,EUR,11632,645.4,55919
+BEN,Benin,LM,Sub-Saharan Africa,SSA,12451,46.5,3720
+BIH,Bosnia and Herzegovina,UM,Europe,EUR,3263,53.2,16302
+BWA,Botswana,UM,Sub-Saharan Africa,SSA,2397,41.1,17163
+BRA,Brazil,UM,Latin America and the Caribbean,LCN,213993,3437.6,16169
+BRN,Brunei Darussalam,HI,"South East Asia, East Asia, and Oceania",SEAO,442,30.3,65675
+BGR,Bulgaria,UM,Europe,EUR,6897,177.7,25847
+BFA,Burkina Faso,LI,Sub-Saharan Africa,SSA,21497,52.6,2444
+BDI,Burundi,LI,Sub-Saharan Africa,SSA,12255,9.5,779
+KHM,Cambodia,LM,"South East Asia, East Asia, and Oceania",SEAO,16946,78.1,4930
+CMR,Cameroon,LM,Sub-Saharan Africa,SSA,27224,105.1,3860
+CAN,Canada,HI,Northern America,NAC,38068,2027.4,53089
+CHL,Chile,HI,Latin America and the Caribbean,LCN,19212,522.8,26513
+CHN,China,UM,"South East Asia, East Asia, and Oceania",SEAO,1444216,27072,19090
+COL,Colombia,UM,Latin America and the Caribbean,LCN,51266,812.8,15922
+CRI,Costa Rica,UM,Latin America and the Caribbean,LCN,5139,111.9,21592
+HRV,Croatia,HI,Europe,EUR,4082,124.8,31112
+CYP,Cyprus,HI,Northern Africa and Western Asia,NAWA,1216,38.6,42832
+CZE,Czech Republic,HI,Europe,EUR,10725,469.1,43714
+CIV,Côte d'Ivoire,LM,Sub-Saharan Africa,SSA,27054,158.3,5724
+DNK,Denmark,HI,Europe,EUR,5813,370.3,63405
+DOM,Dominican Republic,UM,Latin America and the Caribbean,LCN,10954,220.7,20944
+ECU,Ecuador,UM,Latin America and the Caribbean,LCN,17888,204.7,11529
+EGY,Egypt,LM,Northern Africa and Western Asia,NAWA,104258,1381.1,13422
+SLV,El Salvador,LM,Latin America and the Caribbean,LCN,6518,62.3,9551
+EST,Estonia,HI,Europe,EUR,1325,55.7,41892
+ETH,Ethiopia,LI,Sub-Saharan Africa,SSA,117876,298.6,3024
+FIN,Finland,HI,Europe,EUR,5548,293.6,53084
+FRA,France,HI,Europe,EUR,65426,3322.3,50876
+GEO,Georgia,UM,Northern Africa and Western Asia,NAWA,3980,61.6,16590
+DEU,Germany,HI,Europe,EUR,83900,4843.4,58150
+GHA,Ghana,LM,Sub-Saharan Africa,SSA,31732,193.6,6190
+GRC,Greece,HI,Europe,EUR,10371,339.7,31821
+GTM,Guatemala,UM,Latin America and the Caribbean,LCN,18250,163.1,8895
+GIN,Guinea,LI,Sub-Saharan Africa,SSA,13497,40.3,2818
+HND,Honduras,LM,Latin America and the Caribbean,LCN,10063,58.3,5767
+HKG,"Hong Kong, China",HI,"South East Asia, East Asia, and Oceania",SEAO,7553,488.7,65403
+HUN,Hungary,HI,Europe,EUR,9634,359.9,36849
+ISL,Iceland,HI,Europe,EUR,343,21.9,59268
+IND,India,LM,Central and Southern Asia,CSA,1393409,10181.2,7314
+IDN,Indonesia,LM,"South East Asia, East Asia, and Oceania",SEAO,276362,3530.3,12967
+IRN,Iran (Islamic Republic of),LM,Central and Southern Asia,CSA,85029,1189.2,13993
+IRQ,Iraq,UM,Northern Africa and Western Asia,NAWA,41179,428.9,10415
+IRL,Ireland,HI,Europe,EUR,4983,561.5,111360
+ISR,Israel,HI,Northern Africa and Western Asia,NAWA,8790,421.8,44966
+ITA,Italy,HI,Europe,EUR,60367,2697.1,45267
+JAM,Jamaica,UM,Latin America and the Caribbean,LCN,2973,29.6,10815
+JPN,Japan,HI,"South East Asia, East Asia, and Oceania",SEAO,126051,5633.5,44935
+JOR,Jordan,UM,Northern Africa and Western Asia,NAWA,10269,111.7,10821
+KAZ,Kazakhstan,UM,Central and Southern Asia,CSA,18995,536.3,28043
+KEN,Kenya,LM,Sub-Saharan Africa,SSA,54986,269.3,5407
+KWT,Kuwait,HI,Northern Africa and Western Asia,NAWA,4329,211.3,44609
+KGZ,Kyrgyzstan,LM,Central and Southern Asia,CSA,6628,34.5,5187
+LAO,Lao People's Democratic Republic,LM,"South East Asia, East Asia, and Oceania",SEAO,7379,62.3,8444
+LVA,Latvia,HI,Europe,EUR,1867,65.1,34169
+LTU,Lithuania,HI,Europe,EUR,2690,117.6,42091
+LUX,Luxembourg,HI,Europe,EUR,635,80.8,126569
+MDG,Madagascar,LI,Sub-Saharan Africa,SSA,28427,46.1,1630
+MYS,Malaysia,UM,"South East Asia, East Asia, and Oceania",SEAO,32776,969,29048
+MLI,Mali,LI,Sub-Saharan Africa,SSA,20856,51.1,2522
+MLT,Malta,HI,Europe,EUR,443,24.6,47152
+MRT,Mauritania,LM,Sub-Saharan Africa,SSA,4775,26.7,6293
+MUS,Mauritius,UM,Sub-Saharan Africa,SSA,1273,28.3,22311
+MEX,Mexico,UM,Latin America and the Caribbean,LCN,130262,2685.2,20820
+MNG,Mongolia,LM,"South East Asia, East Asia, and Oceania",SEAO,3329,43.2,12671
+MNE,Montenegro,UM,Europe,EUR,628,13.3,21387
+MAR,Morocco,LM,Northern Africa and Western Asia,NAWA,37345,302.8,8338
+MOZ,Mozambique,LI,Sub-Saharan Africa,SSA,32163,43,1338
+MMR,Myanmar,LM,"South East Asia, East Asia, and Oceania",SEAO,54806,237,4426
+NAM,Namibia,UM,Sub-Saharan Africa,SSA,2587,25,9616
+NPL,Nepal,LM,Central and Southern Asia,CSA,29675,123.2,4215
+NLD,Netherlands,HI,Europe,EUR,17173,1079.2,61816
+NZL,New Zealand,HI,"South East Asia, East Asia, and Oceania",SEAO,4861,235,45880
+NIC,Nicaragua,LM,Latin America and the Caribbean,LCN,6702,40.1,6133
+NER,Niger,LI,Sub-Saharan Africa,SSA,25131,34,1355
+NGA,Nigeria,LM,Sub-Saharan Africa,SSA,211401,1136.8,5377
+MKD,North Macedonia,UM,Europe,EUR,2083,37.4,18069
+NOR,Norway,HI,Europe,EUR,5466,378.4,69859
+OMN,Oman,HI,Northern Africa and Western Asia,NAWA,5223,147.8,32327
+PAK,Pakistan,LM,Central and Southern Asia,CSA,225200,1157.5,5447
+PAN,Panama,UM,Latin America and the Caribbean,LCN,4382,134,30889
+PRY,Paraguay,UM,Latin America and the Caribbean,LCN,7220,100.9,13724
+PER,Peru,UM,Latin America and the Caribbean,LCN,33359,453.7,13410
+PHL,Philippines,LM,"South East Asia, East Asia, and Oceania",SEAO,111047,983.1,8900
+POL,Poland,HI,Europe,EUR,37797,1412.3,37323
+PRT,Portugal,HI,Europe,EUR,10168,376.1,36543
+QAT,Qatar,HI,Northern Africa and Western Asia,NAWA,2931,273.9,100037
+KOR,Republic of Korea,HI,"South East Asia, East Asia, and Oceania",SEAO,51305,2503.4,48309
+MDA,Republic of Moldova,UM,Europe,EUR,4024,36.9,14258
+ROU,Romania,UM,Europe,EUR,19128,653.9,33833
+RUS,Russian Federation,UM,Europe,EUR,145912,4447.5,30431
+RWA,Rwanda,LI,Sub-Saharan Africa,SSA,13277,31.2,2410
+SAU,Saudi Arabia,HI,Northern Africa and Western Asia,NAWA,35341,1734.2,48908
+SEN,Senegal,LM,Sub-Saharan Africa,SSA,17196,63.6,3699
+SRB,Serbia,UM,Europe,EUR,8698,146.6,21243
+SGP,Singapore,HI,"South East Asia, East Asia, and Oceania",SEAO,5897,615.3,107677
+SVK,Slovakia,HI,Europe,EUR,5461,194.1,35547
+SVN,Slovenia,HI,Europe,EUR,2079,90.9,43206
+ZAF,South Africa,UM,Sub-Saharan Africa,SSA,60042,861.9,14239
+ESP,Spain,HI,Europe,EUR,46745,1984,42074
+LKA,Sri Lanka,LM,Central and Southern Asia,CSA,21497,311.2,14123
+SWE,Sweden,HI,Europe,EUR,10160,609.5,57425
+CHE,Switzerland,HI,Europe,EUR,8715,677.3,78112
+TJK,Tajikistan,LM,Central and Southern Asia,CSA,9750,37.9,3923
+THA,Thailand,UM,"South East Asia, East Asia, and Oceania",SEAO,69951,1331,19028
+TGO,Togo,LI,Sub-Saharan Africa,SSA,8478,20,2353
+TTO,Trinidad and Tobago,HI,Latin America and the Caribbean,LCN,1403,35.9,25526
+TUN,Tunisia,LM,Northern Africa and Western Asia,NAWA,11936,128.8,10720
+TUR,Türkiye,UM,Northern Africa and Western Asia,NAWA,85043,2873.8,33963
+UGA,Uganda,LI,Sub-Saharan Africa,SSA,47124,115.9,2729
+UKR,Ukraine,LM,Europe,EUR,43467,584.1,14146
+ARE,United Arab Emirates,HI,Northern Africa and Western Asia,NAWA,9991,699.4,74245
+GBR,United Kingdom,HI,Europe,EUR,68207,3276.1,48693
+TZA,United Republic of Tanzania,LM,Sub-Saharan Africa,SSA,61498,182.9,3062
+USA,United States of America,HI,Northern America,NAC,332915,22939.6,69375
+URY,Uruguay,HI,Latin America and the Caribbean,LCN,3485,84.6,23869
+UZB,Uzbekistan,LM,Central and Southern Asia,CSA,33936,291.2,8452
+VNM,Viet Nam,LM,"South East Asia, East Asia, and Oceania",SEAO,98169,1141.3,11608
+YEM,Yemen,LI,Northern Africa and Western Asia,NAWA,30491,60.8,1827
+ZMB,Zambia,LM,Sub-Saharan Africa,SSA,18921,66.4,3410
+ZWE,Zimbabwe,LM,Sub-Saharan Africa,SSA,15092,37.3,2408

@@ -1,0 +1,51 @@
+origin_file,origin_line,geo_id,variable,cluster_name,expected_value,actual_value,match
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,54137,TH,request_pct,Assist with database administration and ,1.4068725099601591,1.4068725099601593,True
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,228867,GLOBAL,onet_task_human_with_ai_time_pct,meet with other professionals to discuss,100.0,100.0,True
+release_2026_01_15/data/intermediate/aei_raw_1p_api_2025-11-13_to_2025-11-20.csv,101572,GLOBAL,onet_task_human_only_time_median,replace missing teeth and associated ora,0.3000000119209289,0.30000001192092896,True
+release_2025_09_15/data/intermediate/aei_raw_1p_api_2025-08-04_to_2025-08-11.csv,353,GLOBAL,onet_task_pct,arrange for debt repayment or establish ,0.0041285656516041,0.0041285656516041064,True
+release_2026_03_24/data/aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv,72748,DE-BY,request_count,Debug and fix technical issues in web/mo,51.0,51.0,True
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,424428,SA-04,request_count,not_classified,375.0,375.0,True
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,293791,GLOBAL,request_collaboration_count,"Edit, revise, reformat, or optimize exis",36.0,36.0,True
+release_2026_01_15/data/intermediate/aei_raw_1p_api_2025-11-13_to_2025-11-20.csv,134227,GLOBAL,onet_task_task_success_pct,consult with customers or other departme,58.06451612903226,58.06451612903226,True
+release_2026_03_24/data/aei_raw_1p_api_2026-02-05_to_2026-02-12.csv,186810,GLOBAL,request_human_with_ai_time_stdev,"Schedule medical, dental, beauty, and sp",6.2842302322387695,6.2842302322387695,True
+release_2026_03_24/data/aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv,144732,US-NY,request_count,Plan comprehensive personal leisure trip,69.0,69.0,True
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,410220,NL-NH,onet_task_count,instruct individuals in career developme,25.0,25.0,True
+release_2026_03_24/data/aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv,294292,GLOBAL,onet_task_human_only_time_median_ci_upper,modify existing software to correct erro,2.27010666317528,2.27010666317528,True
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,62975,VN,request_pct,Create and refine flowcharts and process,0.3400369182939862,0.3400369182939862,True
+release_2026_03_24/data/aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv,281901,GLOBAL,onet_task_human_only_time_pct,compile and prepare reports and document,100.0,100.0,True
+release_2025_09_15/data/intermediate/aei_raw_claude_ai_2025-08-04_to_2025-08-11.csv,34705,MZ,request_pct,Provide comprehensive software developme,9.492273730684326,9.492273730684326,True
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,436808,US-CA,onet_task_count,recommend methods to increase lifestyle ,15.0,15.0,True
+release_2025_09_15/data/intermediate/aei_raw_1p_api_2025-08-04_to_2025-08-11.csv,4080,GLOBAL,onet_task_count,write press releases or other media comm,159.0,159.0,True
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,441405,US-GA,request_pct,Provide information about prescription m,0.2331364625427416,0.23313646254274167,True
+release_2026_03_24/data/aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv,236593,GLOBAL,onet_task_collaboration_pct,write grants to obtain program funding.:,5.769230769230769,5.769230769230769,True
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,293672,GLOBAL,request_collaboration_pct,Draft messages for scheduling and resche,3.2624113475177303,3.2624113475177303,True
+release_2025_09_15/data/intermediate/aei_raw_claude_ai_2025-08-04_to_2025-08-11.csv,41955,SE,request_pct,Provide travel destination recommendatio,0.3973509933774834,0.3973509933774834,True
+release_2026_03_24/data/aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv,177905,GLOBAL,onet_task_ai_autonomy_median_ci_lower,obtain and analyze information on suspec,3.097870998116954,3.097870998116954,True
+release_2026_03_24/data/aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv,242774,GLOBAL,onet_task_human_education_years_stdev,configure wide area network (wan) or loc,1.8209309577941897,1.8209309577941895,True
+release_2026_03_24/data/aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv,207272,GLOBAL,onet_task_ai_education_years_count,obtain and evaluate information on facto,25.0,25.0,True
+release_2026_03_24/data/aei_raw_1p_api_2026-02-05_to_2026-02-12.csv,190398,GLOBAL,request_task_success_count,Conduct B2B software sales intelligence ,1013.0,1013.0,True
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,173423,GLOBAL,onet_task_human_education_years_mean_ci_upper,"write, review, or execute plans for test",15.100000381469728,15.100000381469727,True
+release_2025_09_15/data/intermediate/aei_raw_claude_ai_2025-08-04_to_2025-08-11.csv,93054,NY,onet_task_count,counsel individuals and groups on basic ,38.0,38.0,True
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,39157,MA,request_pct,"Draft, correct, and improve written comm",0.9291521486643438,0.9291521486643438,True
+release_2026_03_24/data/aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv,151039,US-WA,request_pct,Provide financial guidance and investmen,0.2398656752218757,0.23986567522187577,True
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,188627,GLOBAL,onet_task_human_only_time_count,compile and prepare reports and document,109.0,109.0,True
+release_2025_09_15/data/intermediate/aei_raw_claude_ai_2025-08-04_to_2025-08-11.csv,58136,GLOBAL,onet_task_count,"write reviews of literary, musical, or o",686.0,686.0,True
+release_2026_03_24/data/aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv,453,AE,request_pct,not_classified,8.269557823129253,8.269557823129253,True
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,135501,GLOBAL,onet_task_collaboration_pct,formulate herbal preparations to treat c,28.8135593220339,28.8135593220339,True
+release_2025_09_15/data/intermediate/aei_raw_claude_ai_2025-08-04_to_2025-08-11.csv,59781,GLOBAL,onet_task_collaboration_pct,"calibrate and test equipment, and locate",63.04347826086957,63.04347826086957,True
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,413347,PE-CAL,human_education_years_mean_ci_upper,,12.080500602722168,12.080500602722168,True
+release_2026_03_24/data/aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv,163359,GLOBAL,onet_task_ai_autonomy_mean_ci_upper,assist patients in organizing their heal,3.180722951889038,3.180722951889038,True
+release_2026_01_15/data/intermediate/aei_raw_1p_api_2025-11-13_to_2025-11-20.csv,138709,GLOBAL,onet_task_task_success_pct,provide customers with product samples a,100.0,100.0,True
+release_2026_03_24/data/aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv,356539,GLOBAL,onet_task_task_success_count,"plan, prepare, and develop various teach",20.0,20.0,True
+release_2026_03_24/data/aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv,364664,GLOBAL,onet_task_use_case_pct,"design, build, or maintain web sites, us",67.12578616352202,67.12578616352202,True
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,347218,CH-GE,ai_education_years_mean_ci_lower,,11.828089714050291,11.828089714050293,True
+release_2026_01_15/data/intermediate/aei_raw_1p_api_2025-11-13_to_2025-11-20.csv,119316,GLOBAL,onet_task_human_with_ai_time_pct,"prepare reports, manuscripts, proposals,",100.0,100.0,True
+release_2025_09_15/data/intermediate/aei_raw_1p_api_2025-08-04_to_2025-08-11.csv,4779,GLOBAL,onet_task_collaboration_pct,"analyze, interpret, or disseminate syste",15.593705293276107,15.593705293276109,True
+release_2025_09_15/data/intermediate/aei_raw_1p_api_2025-08-04_to_2025-08-11.csv,30017,GLOBAL,request_collaboration_pct,Develop cryptocurrency software applicat,4.29352068696331,4.29352068696331,True
+release_2026_03_24/data/aei_raw_1p_api_2026-02-05_to_2026-02-12.csv,82963,GLOBAL,onet_task_human_education_years_count,write reports on research findings and i,244.0,244.0,True
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,279774,GLOBAL,request_pct,Provide advice and information about cos,0.0859107388423553,0.0859107388423553,True
+release_2026_03_24/data/aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv,219657,GLOBAL,onet_task_collaboration_pct,advise clients on how they could be help,57.35930735930735,57.35930735930735,True
+release_2026_01_15/data/intermediate/aei_raw_1p_api_2025-11-13_to_2025-11-20.csv,86553,GLOBAL,onet_task_human_only_time_stdev,buy merchandise or commodities for resal,3.078707456588745,3.078707456588745,True
+release_2026_01_15/data/intermediate/aei_raw_claude_ai_2025-11-13_to_2025-11-20.csv,345747,CA-ON,request_pct,Provide information for musculoskeletal ,0.1740554929865874,0.17405549298658748,True
+release_2026_01_15/data/intermediate/aei_raw_1p_api_2025-11-13_to_2025-11-20.csv,148910,GLOBAL,onet_task_use_case_count,research legal issues and write opinions,12.0,12.0,True
+release_2026_03_24/data/aei_raw_claude_ai_2026-02-05_to_2026-02-12.csv,134285,US-CO,request_pct,Provide information and recommendations ,0.2662672657680146,0.2662672657680146,True

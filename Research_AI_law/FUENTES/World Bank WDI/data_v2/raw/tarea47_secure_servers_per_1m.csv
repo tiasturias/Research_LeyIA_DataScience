@@ -1,0 +1,1500 @@
+iso3,year,country_name,value,wb_indicator,canonical_name
+AFG,2024,Afghanistan,41.0575140034026,IT.NET.SECR.P6,secure_servers_per_1m
+AFG,2023,Afghanistan,43.758544404586,IT.NET.SECR.P6,secure_servers_per_1m
+AFG,2022,Afghanistan,36.7432860701151,IT.NET.SECR.P6,secure_servers_per_1m
+AFG,2021,Afghanistan,39.1245970166507,IT.NET.SECR.P6,secure_servers_per_1m
+AFG,2020,Afghanistan,34.861417801576,IT.NET.SECR.P6,secure_servers_per_1m
+AFG,2019,Afghanistan,27.6573503133086,IT.NET.SECR.P6,secure_servers_per_1m
+AFG,2018,Afghanistan,53.4795175761047,IT.NET.SECR.P6,secure_servers_per_1m
+ALB,2024,Albania,1512.74983930188,IT.NET.SECR.P6,secure_servers_per_1m
+ALB,2023,Albania,1388.09781719444,IT.NET.SECR.P6,secure_servers_per_1m
+ALB,2022,Albania,1254.67239019169,IT.NET.SECR.P6,secure_servers_per_1m
+ALB,2021,Albania,1115.76929843093,IT.NET.SECR.P6,secure_servers_per_1m
+ALB,2020,Albania,993.086755679302,IT.NET.SECR.P6,secure_servers_per_1m
+ALB,2019,Albania,852.869829087223,IT.NET.SECR.P6,secure_servers_per_1m
+ALB,2018,Albania,578.280061647416,IT.NET.SECR.P6,secure_servers_per_1m
+DZA,2024,Algeria,119.343855301674,IT.NET.SECR.P6,secure_servers_per_1m
+DZA,2023,Algeria,100.294126063305,IT.NET.SECR.P6,secure_servers_per_1m
+DZA,2022,Algeria,75.0702728338252,IT.NET.SECR.P6,secure_servers_per_1m
+DZA,2021,Algeria,62.1075009798128,IT.NET.SECR.P6,secure_servers_per_1m
+DZA,2020,Algeria,47.8178931150204,IT.NET.SECR.P6,secure_servers_per_1m
+DZA,2019,Algeria,49.7522251417072,IT.NET.SECR.P6,secure_servers_per_1m
+DZA,2018,Algeria,67.168513094978,IT.NET.SECR.P6,secure_servers_per_1m
+ASM,2024,American Samoa,513.204319469689,IT.NET.SECR.P6,secure_servers_per_1m
+ASM,2023,American Samoa,462.953220681383,IT.NET.SECR.P6,secure_servers_per_1m
+ASM,2022,American Samoa,351.661081461255,IT.NET.SECR.P6,secure_servers_per_1m
+ASM,2021,American Samoa,426.6124936516,IT.NET.SECR.P6,secure_servers_per_1m
+ASM,2020,American Samoa,241.152709953578,IT.NET.SECR.P6,secure_servers_per_1m
+ASM,2019,American Samoa,378.418211874365,IT.NET.SECR.P6,secure_servers_per_1m
+ASM,2018,American Samoa,491.081951756109,IT.NET.SECR.P6,secure_servers_per_1m
+AND,2024,Andorra,17623.0808660206,IT.NET.SECR.P6,secure_servers_per_1m
+AND,2023,Andorra,14618.5811813595,IT.NET.SECR.P6,secure_servers_per_1m
+AND,2022,Andorra,13725.6131986701,IT.NET.SECR.P6,secure_servers_per_1m
+AND,2021,Andorra,11280.6901128069,IT.NET.SECR.P6,secure_servers_per_1m
+AND,2020,Andorra,9705.35021969501,IT.NET.SECR.P6,secure_servers_per_1m
+AND,2019,Andorra,20359.8608677459,IT.NET.SECR.P6,secure_servers_per_1m
+AND,2018,Andorra,5321.83816290147,IT.NET.SECR.P6,secure_servers_per_1m
+AGO,2024,Angola,48.5141563014729,IT.NET.SECR.P6,secure_servers_per_1m
+AGO,2023,Angola,40.2177899448233,IT.NET.SECR.P6,secure_servers_per_1m
+AGO,2022,Angola,36.5370826553838,IT.NET.SECR.P6,secure_servers_per_1m
+AGO,2021,Angola,26.1782917153033,IT.NET.SECR.P6,secure_servers_per_1m
+AGO,2020,Angola,19.7302740008918,IT.NET.SECR.P6,secure_servers_per_1m
+AGO,2019,Angola,14.4862036978923,IT.NET.SECR.P6,secure_servers_per_1m
+AGO,2018,Angola,11.023366181367,IT.NET.SECR.P6,secure_servers_per_1m
+ATG,2024,Antigua and Barbuda,970.438936996118,IT.NET.SECR.P6,secure_servers_per_1m
+ATG,2023,Antigua and Barbuda,803.720690985469,IT.NET.SECR.P6,secure_servers_per_1m
+ATG,2022,Antigua and Barbuda,829.383886255924,IT.NET.SECR.P6,secure_servers_per_1m
+ATG,2021,Antigua and Barbuda,801.308081300285,IT.NET.SECR.P6,secure_servers_per_1m
+ATG,2020,Antigua and Barbuda,1328.31043268079,IT.NET.SECR.P6,secure_servers_per_1m
+ATG,2019,Antigua and Barbuda,952.235015980036,IT.NET.SECR.P6,secure_servers_per_1m
+ATG,2018,Antigua and Barbuda,890.834304819304,IT.NET.SECR.P6,secure_servers_per_1m
+ARG,2024,Argentina,5453.43428098629,IT.NET.SECR.P6,secure_servers_per_1m
+ARG,2023,Argentina,5451.20150353984,IT.NET.SECR.P6,secure_servers_per_1m
+ARG,2022,Argentina,5287.33940240888,IT.NET.SECR.P6,secure_servers_per_1m
+ARG,2021,Argentina,5116.36127962748,IT.NET.SECR.P6,secure_servers_per_1m
+ARG,2020,Argentina,3700.83487186273,IT.NET.SECR.P6,secure_servers_per_1m
+ARG,2019,Argentina,3016.15630461206,IT.NET.SECR.P6,secure_servers_per_1m
+ARG,2018,Argentina,1865.86541646219,IT.NET.SECR.P6,secure_servers_per_1m
+ARM,2024,Armenia,1735.28926982034,IT.NET.SECR.P6,secure_servers_per_1m
+ARM,2023,Armenia,1177.00637587289,IT.NET.SECR.P6,secure_servers_per_1m
+ARM,2022,Armenia,862.185100363734,IT.NET.SECR.P6,secure_servers_per_1m
+ARM,2021,Armenia,712.95952469365,IT.NET.SECR.P6,secure_servers_per_1m
+ARM,2020,Armenia,587.877764646294,IT.NET.SECR.P6,secure_servers_per_1m
+ARM,2019,Armenia,477.974683544304,IT.NET.SECR.P6,secure_servers_per_1m
+ARM,2018,Armenia,333.108790838666,IT.NET.SECR.P6,secure_servers_per_1m
+ABW,2024,Aruba,1574.14695124774,IT.NET.SECR.P6,secure_servers_per_1m
+ABW,2023,Aruba,1397.18141935003,IT.NET.SECR.P6,secure_servers_per_1m
+ABW,2022,Aruba,1621.47050601062,IT.NET.SECR.P6,secure_servers_per_1m
+ABW,2021,Aruba,1643.45403899721,IT.NET.SECR.P6,secure_servers_per_1m
+ABW,2020,Aruba,1556.3557331909,IT.NET.SECR.P6,secure_servers_per_1m
+ABW,2019,Aruba,1364.43138009029,IT.NET.SECR.P6,secure_servers_per_1m
+ABW,2018,Aruba,1120.21155470672,IT.NET.SECR.P6,secure_servers_per_1m
+AUS,2024,Australia,44295.1916570222,IT.NET.SECR.P6,secure_servers_per_1m
+AUS,2023,Australia,47565.8931035132,IT.NET.SECR.P6,secure_servers_per_1m
+AUS,2022,Australia,48266.9382557275,IT.NET.SECR.P6,secure_servers_per_1m
+AUS,2021,Australia,46481.5592601746,IT.NET.SECR.P6,secure_servers_per_1m
+AUS,2020,Australia,39862.7281392421,IT.NET.SECR.P6,secure_servers_per_1m
+AUS,2019,Australia,36763.583850941,IT.NET.SECR.P6,secure_servers_per_1m
+AUS,2018,Australia,32929.1953798659,IT.NET.SECR.P6,secure_servers_per_1m
+AUT,2024,Austria,47132.0383936251,IT.NET.SECR.P6,secure_servers_per_1m
+AUT,2023,Austria,42281.0014410145,IT.NET.SECR.P6,secure_servers_per_1m
+AUT,2022,Austria,39544.447259748,IT.NET.SECR.P6,secure_servers_per_1m
+AUT,2021,Austria,39775.2427840872,IT.NET.SECR.P6,secure_servers_per_1m
+AUT,2020,Austria,33802.6911703487,IT.NET.SECR.P6,secure_servers_per_1m
+AUT,2019,Austria,26298.32250741,IT.NET.SECR.P6,secure_servers_per_1m
+AUT,2018,Austria,16705.0109377038,IT.NET.SECR.P6,secure_servers_per_1m
+AZE,2024,Azerbaijan,541.026362293599,IT.NET.SECR.P6,secure_servers_per_1m
+AZE,2023,Azerbaijan,549.736368813028,IT.NET.SECR.P6,secure_servers_per_1m
+AZE,2022,Azerbaijan,544.580248233146,IT.NET.SECR.P6,secure_servers_per_1m
+AZE,2021,Azerbaijan,416.857784025055,IT.NET.SECR.P6,secure_servers_per_1m
+AZE,2020,Azerbaijan,299.312769558593,IT.NET.SECR.P6,secure_servers_per_1m
+AZE,2019,Azerbaijan,368.804432197295,IT.NET.SECR.P6,secure_servers_per_1m
+AZE,2018,Azerbaijan,329.383845965868,IT.NET.SECR.P6,secure_servers_per_1m
+BHS,2024,"Bahamas, The",6354.61756416295,IT.NET.SECR.P6,secure_servers_per_1m
+BHS,2023,"Bahamas, The",6434.00761065492,IT.NET.SECR.P6,secure_servers_per_1m
+BHS,2022,"Bahamas, The",5189.44100941294,IT.NET.SECR.P6,secure_servers_per_1m
+BHS,2021,"Bahamas, The",2765.07229301693,IT.NET.SECR.P6,secure_servers_per_1m
+BHS,2020,"Bahamas, The",1252.95872561972,IT.NET.SECR.P6,secure_servers_per_1m
+BHS,2019,"Bahamas, The",1565.84531576614,IT.NET.SECR.P6,secure_servers_per_1m
+BHS,2018,"Bahamas, The",2314.64387841626,IT.NET.SECR.P6,secure_servers_per_1m
+BHR,2024,Bahrain,7064.39978094884,IT.NET.SECR.P6,secure_servers_per_1m
+BHR,2023,Bahrain,5578.10456045081,IT.NET.SECR.P6,secure_servers_per_1m
+BHR,2022,Bahrain,5210.2292067977,IT.NET.SECR.P6,secure_servers_per_1m
+BHR,2021,Bahrain,3892.00759124282,IT.NET.SECR.P6,secure_servers_per_1m
+BHR,2020,Bahrain,453.062211486995,IT.NET.SECR.P6,secure_servers_per_1m
+BHR,2019,Bahrain,429.989836603862,IT.NET.SECR.P6,secure_servers_per_1m
+BHR,2018,Bahrain,387.202105527876,IT.NET.SECR.P6,secure_servers_per_1m
+BGD,2024,Bangladesh,527.061270034326,IT.NET.SECR.P6,secure_servers_per_1m
+BGD,2023,Bangladesh,388.168008314603,IT.NET.SECR.P6,secure_servers_per_1m
+BGD,2022,Bangladesh,329.568934354283,IT.NET.SECR.P6,secure_servers_per_1m
+BGD,2021,Bangladesh,228.70847011754,IT.NET.SECR.P6,secure_servers_per_1m
+BGD,2020,Bangladesh,138.817043310148,IT.NET.SECR.P6,secure_servers_per_1m
+BGD,2019,Bangladesh,99.0461307020236,IT.NET.SECR.P6,secure_servers_per_1m
+BGD,2018,Bangladesh,114.430313862134,IT.NET.SECR.P6,secure_servers_per_1m
+BRB,2024,Barbados,1171.81830089887,IT.NET.SECR.P6,secure_servers_per_1m
+BRB,2023,Barbados,1059.02187464581,IT.NET.SECR.P6,secure_servers_per_1m
+BRB,2022,Barbados,981.16308559851,IT.NET.SECR.P6,secure_servers_per_1m
+BRB,2021,Barbados,914.416952864996,IT.NET.SECR.P6,secure_servers_per_1m
+BRB,2020,Barbados,1057.87048541346,IT.NET.SECR.P6,secure_servers_per_1m
+BRB,2019,Barbados,960.146795776777,IT.NET.SECR.P6,secure_servers_per_1m
+BRB,2018,Barbados,887.03328334123,IT.NET.SECR.P6,secure_servers_per_1m
+BLR,2024,Belarus,12729.5218058239,IT.NET.SECR.P6,secure_servers_per_1m
+BLR,2023,Belarus,11946.8772968583,IT.NET.SECR.P6,secure_servers_per_1m
+BLR,2022,Belarus,10278.4211348179,IT.NET.SECR.P6,secure_servers_per_1m
+BLR,2021,Belarus,9313.43277164358,IT.NET.SECR.P6,secure_servers_per_1m
+BLR,2020,Belarus,7550.57168736045,IT.NET.SECR.P6,secure_servers_per_1m
+BLR,2019,Belarus,5750.67852061592,IT.NET.SECR.P6,secure_servers_per_1m
+BLR,2018,Belarus,3436.88303102571,IT.NET.SECR.P6,secure_servers_per_1m
+BEL,2024,Belgium,36731.8766702,IT.NET.SECR.P6,secure_servers_per_1m
+BEL,2023,Belgium,33664.5855592207,IT.NET.SECR.P6,secure_servers_per_1m
+BEL,2022,Belgium,30850.8151822613,IT.NET.SECR.P6,secure_servers_per_1m
+BEL,2021,Belgium,28369.365438783,IT.NET.SECR.P6,secure_servers_per_1m
+BEL,2020,Belgium,24215.3210215031,IT.NET.SECR.P6,secure_servers_per_1m
+BEL,2019,Belgium,19655.5307781892,IT.NET.SECR.P6,secure_servers_per_1m
+BEL,2018,Belgium,13973.2427973124,IT.NET.SECR.P6,secure_servers_per_1m
+BLZ,2024,Belize,464560.075958108,IT.NET.SECR.P6,secure_servers_per_1m
+BLZ,2023,Belize,405693.422134437,IT.NET.SECR.P6,secure_servers_per_1m
+BLZ,2022,Belize,342412.963427382,IT.NET.SECR.P6,secure_servers_per_1m
+BLZ,2021,Belize,319745.235818751,IT.NET.SECR.P6,secure_servers_per_1m
+BLZ,2020,Belize,133632.027675711,IT.NET.SECR.P6,secure_servers_per_1m
+BLZ,2019,Belize,42674.3453706175,IT.NET.SECR.P6,secure_servers_per_1m
+BLZ,2018,Belize,11682.5256557942,IT.NET.SECR.P6,secure_servers_per_1m
+BEN,2024,Benin,20.3972640285468,IT.NET.SECR.P6,secure_servers_per_1m
+BEN,2023,Benin,12.4016425727555,IT.NET.SECR.P6,secure_servers_per_1m
+BEN,2022,Benin,8.2125071250767,IT.NET.SECR.P6,secure_servers_per_1m
+BEN,2021,Benin,21.7692479105063,IT.NET.SECR.P6,secure_servers_per_1m
+BEN,2020,Benin,17.2912836857733,IT.NET.SECR.P6,secure_servers_per_1m
+BEN,2019,Benin,9.19323111036553,IT.NET.SECR.P6,secure_servers_per_1m
+BEN,2018,Benin,6.78330341546595,IT.NET.SECR.P6,secure_servers_per_1m
+BMU,2024,Bermuda,4347.42248901541,IT.NET.SECR.P6,secure_servers_per_1m
+BMU,2023,Bermuda,5718.87848156048,IT.NET.SECR.P6,secure_servers_per_1m
+BMU,2022,Bermuda,5498.15441165114,IT.NET.SECR.P6,secure_servers_per_1m
+BMU,2021,Bermuda,6171.88466773914,IT.NET.SECR.P6,secure_servers_per_1m
+BMU,2020,Bermuda,7517.62915100494,IT.NET.SECR.P6,secure_servers_per_1m
+BMU,2019,Bermuda,7674.66891291123,IT.NET.SECR.P6,secure_servers_per_1m
+BMU,2018,Bermuda,8162.17825194655,IT.NET.SECR.P6,secure_servers_per_1m
+BTN,2024,Bhutan,1339.18870432229,IT.NET.SECR.P6,secure_servers_per_1m
+BTN,2023,Bhutan,1227.13429172733,IT.NET.SECR.P6,secure_servers_per_1m
+BTN,2022,Bhutan,1024.44059140955,IT.NET.SECR.P6,secure_servers_per_1m
+BTN,2021,Bhutan,816.308634301469,IT.NET.SECR.P6,secure_servers_per_1m
+BTN,2020,Bhutan,684.410251348691,IT.NET.SECR.P6,secure_servers_per_1m
+BTN,2019,Bhutan,477.233978013242,IT.NET.SECR.P6,secure_servers_per_1m
+BTN,2018,Bhutan,176.371717873694,IT.NET.SECR.P6,secure_servers_per_1m
+BOL,2024,Bolivia,364.447369618833,IT.NET.SECR.P6,secure_servers_per_1m
+BOL,2023,Bolivia,326.60471004991,IT.NET.SECR.P6,secure_servers_per_1m
+BOL,2022,Bolivia,275.975614784741,IT.NET.SECR.P6,secure_servers_per_1m
+BOL,2021,Bolivia,244.526427953919,IT.NET.SECR.P6,secure_servers_per_1m
+BOL,2020,Bolivia,207.509982609614,IT.NET.SECR.P6,secure_servers_per_1m
+BOL,2019,Bolivia,170.245419010219,IT.NET.SECR.P6,secure_servers_per_1m
+BOL,2018,Bolivia,128.428288007474,IT.NET.SECR.P6,secure_servers_per_1m
+BIH,2024,Bosnia and Herzegovina,5554.23349523568,IT.NET.SECR.P6,secure_servers_per_1m
+BIH,2023,Bosnia and Herzegovina,5345.87433317855,IT.NET.SECR.P6,secure_servers_per_1m
+BIH,2022,Bosnia and Herzegovina,4776.58214142403,IT.NET.SECR.P6,secure_servers_per_1m
+BIH,2021,Bosnia and Herzegovina,3956.6619320677,IT.NET.SECR.P6,secure_servers_per_1m
+BIH,2020,Bosnia and Herzegovina,3146.68136047445,IT.NET.SECR.P6,secure_servers_per_1m
+BIH,2019,Bosnia and Herzegovina,2620.80810441864,IT.NET.SECR.P6,secure_servers_per_1m
+BIH,2018,Bosnia and Herzegovina,1898.73043991733,IT.NET.SECR.P6,secure_servers_per_1m
+BWA,2024,Botswana,471.215589461747,IT.NET.SECR.P6,secure_servers_per_1m
+BWA,2023,Botswana,441.085635122996,IT.NET.SECR.P6,secure_servers_per_1m
+BWA,2022,Botswana,369.688494408769,IT.NET.SECR.P6,secure_servers_per_1m
+BWA,2021,Botswana,335.215397754931,IT.NET.SECR.P6,secure_servers_per_1m
+BWA,2020,Botswana,262.057387186408,IT.NET.SECR.P6,secure_servers_per_1m
+BWA,2019,Botswana,208.397385513294,IT.NET.SECR.P6,secure_servers_per_1m
+BWA,2018,Botswana,130.918460416303,IT.NET.SECR.P6,secure_servers_per_1m
+BRA,2024,Brazil,6941.17408045006,IT.NET.SECR.P6,secure_servers_per_1m
+BRA,2023,Brazil,5628.66295682819,IT.NET.SECR.P6,secure_servers_per_1m
+BRA,2022,Brazil,4685.09246377482,IT.NET.SECR.P6,secure_servers_per_1m
+BRA,2021,Brazil,3546.59010881655,IT.NET.SECR.P6,secure_servers_per_1m
+BRA,2020,Brazil,3144.86893520731,IT.NET.SECR.P6,secure_servers_per_1m
+BRA,2019,Brazil,2788.39613470957,IT.NET.SECR.P6,secure_servers_per_1m
+BRA,2018,Brazil,2069.60200203718,IT.NET.SECR.P6,secure_servers_per_1m
+VGB,2024,British Virgin Islands,1443008.79126447,IT.NET.SECR.P6,secure_servers_per_1m
+VGB,2023,British Virgin Islands,1982403.48852123,IT.NET.SECR.P6,secure_servers_per_1m
+VGB,2022,British Virgin Islands,3262663.43067408,IT.NET.SECR.P6,secure_servers_per_1m
+VGB,2021,British Virgin Islands,1797058.90131979,IT.NET.SECR.P6,secure_servers_per_1m
+VGB,2020,British Virgin Islands,603419.954221085,IT.NET.SECR.P6,secure_servers_per_1m
+VGB,2019,British Virgin Islands,113147.410358566,IT.NET.SECR.P6,secure_servers_per_1m
+VGB,2018,British Virgin Islands,284386.992526762,IT.NET.SECR.P6,secure_servers_per_1m
+BRN,2024,Brunei Darussalam,16128.509404155,IT.NET.SECR.P6,secure_servers_per_1m
+BRN,2023,Brunei Darussalam,8774.3954121264,IT.NET.SECR.P6,secure_servers_per_1m
+BRN,2022,Brunei Darussalam,21094.9337901047,IT.NET.SECR.P6,secure_servers_per_1m
+BRN,2021,Brunei Darussalam,14092.769652064,IT.NET.SECR.P6,secure_servers_per_1m
+BRN,2020,Brunei Darussalam,15399.9517214866,IT.NET.SECR.P6,secure_servers_per_1m
+BRN,2019,Brunei Darussalam,10492.9068401554,IT.NET.SECR.P6,secure_servers_per_1m
+BRN,2018,Brunei Darussalam,1948.33375208424,IT.NET.SECR.P6,secure_servers_per_1m
+BGR,2024,Bulgaria,50750.6030113542,IT.NET.SECR.P6,secure_servers_per_1m
+BGR,2023,Bulgaria,54104.3676383629,IT.NET.SECR.P6,secure_servers_per_1m
+BGR,2022,Bulgaria,57819.5501165721,IT.NET.SECR.P6,secure_servers_per_1m
+BGR,2021,Bulgaria,55100.7245553879,IT.NET.SECR.P6,secure_servers_per_1m
+BGR,2020,Bulgaria,50889.4016757914,IT.NET.SECR.P6,secure_servers_per_1m
+BGR,2019,Bulgaria,42421.4331982313,IT.NET.SECR.P6,secure_servers_per_1m
+BGR,2018,Bulgaria,40013.7211699711,IT.NET.SECR.P6,secure_servers_per_1m
+BFA,2024,Burkina Faso,28.8337642615132,IT.NET.SECR.P6,secure_servers_per_1m
+BFA,2023,Burkina Faso,22.583386549057,IT.NET.SECR.P6,secure_servers_per_1m
+BFA,2022,Burkina Faso,21.7246068001662,IT.NET.SECR.P6,secure_servers_per_1m
+BFA,2021,Burkina Faso,11.0478433905004,IT.NET.SECR.P6,secure_servers_per_1m
+BFA,2020,Burkina Faso,5.81972178005269,IT.NET.SECR.P6,secure_servers_per_1m
+BFA,2019,Burkina Faso,3.29167817958938,IT.NET.SECR.P6,secure_servers_per_1m
+BFA,2018,Burkina Faso,2.44638885605291,IT.NET.SECR.P6,secure_servers_per_1m
+BDI,2024,Burundi,10.6066536036355,IT.NET.SECR.P6,secure_servers_per_1m
+BDI,2023,Burundi,10.2999024796467,IT.NET.SECR.P6,secure_servers_per_1m
+BDI,2022,Burundi,10.8099205343224,IT.NET.SECR.P6,secure_servers_per_1m
+BDI,2021,Burundi,6.32448576338973,IT.NET.SECR.P6,secure_servers_per_1m
+BDI,2020,Burundi,8.16356551570432,IT.NET.SECR.P6,secure_servers_per_1m
+BDI,2019,Burundi,8.64929366277677,IT.NET.SECR.P6,secure_servers_per_1m
+BDI,2018,Burundi,5.64950504433344,IT.NET.SECR.P6,secure_servers_per_1m
+CPV,2024,Cabo Verde,857.34372052881,IT.NET.SECR.P6,secure_servers_per_1m
+CPV,2023,Cabo Verde,951.503931415137,IT.NET.SECR.P6,secure_servers_per_1m
+CPV,2022,Cabo Verde,777.310237214305,IT.NET.SECR.P6,secure_servers_per_1m
+CPV,2021,Cabo Verde,648.40926818788,IT.NET.SECR.P6,secure_servers_per_1m
+CPV,2020,Cabo Verde,192.352903460215,IT.NET.SECR.P6,secure_servers_per_1m
+CPV,2019,Cabo Verde,587.429780744752,IT.NET.SECR.P6,secure_servers_per_1m
+CPV,2018,Cabo Verde,527.838103678311,IT.NET.SECR.P6,secure_servers_per_1m
+KHM,2024,Cambodia,817.289111657873,IT.NET.SECR.P6,secure_servers_per_1m
+KHM,2023,Cambodia,223.199425156739,IT.NET.SECR.P6,secure_servers_per_1m
+KHM,2022,Cambodia,183.469982427343,IT.NET.SECR.P6,secure_servers_per_1m
+KHM,2021,Cambodia,166.36910907398,IT.NET.SECR.P6,secure_servers_per_1m
+KHM,2020,Cambodia,188.455047671594,IT.NET.SECR.P6,secure_servers_per_1m
+KHM,2019,Cambodia,159.332052852129,IT.NET.SECR.P6,secure_servers_per_1m
+KHM,2018,Cambodia,80.98548147835,IT.NET.SECR.P6,secure_servers_per_1m
+CMR,2024,Cameroon,25.168467350901,IT.NET.SECR.P6,secure_servers_per_1m
+CMR,2023,Cameroon,17.0586592662161,IT.NET.SECR.P6,secure_servers_per_1m
+CMR,2022,Cameroon,15.1993442858119,IT.NET.SECR.P6,secure_servers_per_1m
+CMR,2021,Cameroon,17.4618897970475,IT.NET.SECR.P6,secure_servers_per_1m
+CMR,2020,Cameroon,16.9397385587899,IT.NET.SECR.P6,secure_servers_per_1m
+CMR,2019,Cameroon,15.3688755569992,IT.NET.SECR.P6,secure_servers_per_1m
+CMR,2018,Cameroon,5.52277210264794,IT.NET.SECR.P6,secure_servers_per_1m
+CAN,2024,Canada,39712.7546032744,IT.NET.SECR.P6,secure_servers_per_1m
+CAN,2023,Canada,42565.0375102124,IT.NET.SECR.P6,secure_servers_per_1m
+CAN,2022,Canada,43653.2998026964,IT.NET.SECR.P6,secure_servers_per_1m
+CAN,2021,Canada,43542.2312171403,IT.NET.SECR.P6,secure_servers_per_1m
+CAN,2020,Canada,39858.7243645171,IT.NET.SECR.P6,secure_servers_per_1m
+CAN,2019,Canada,35872.9396271701,IT.NET.SECR.P6,secure_servers_per_1m
+CAN,2018,Canada,30940.812923392,IT.NET.SECR.P6,secure_servers_per_1m
+CYM,2024,Cayman Islands,26673.1133405858,IT.NET.SECR.P6,secure_servers_per_1m
+CYM,2023,Cayman Islands,26561.5159232181,IT.NET.SECR.P6,secure_servers_per_1m
+CYM,2022,Cayman Islands,5182.21564163093,IT.NET.SECR.P6,secure_servers_per_1m
+CYM,2021,Cayman Islands,5762.53779882467,IT.NET.SECR.P6,secure_servers_per_1m
+CYM,2020,Cayman Islands,29147.9820627803,IT.NET.SECR.P6,secure_servers_per_1m
+CYM,2019,Cayman Islands,16353.0233041722,IT.NET.SECR.P6,secure_servers_per_1m
+CYM,2018,Cayman Islands,11222.1531368951,IT.NET.SECR.P6,secure_servers_per_1m
+CAF,2024,Central African Republic,1.68833678191754,IT.NET.SECR.P6,secure_servers_per_1m
+CAF,2023,Central African Republic,2.5230857493982,IT.NET.SECR.P6,secure_servers_per_1m
+CAF,2022,Central African Republic,1.96153854452663,IT.NET.SECR.P6,secure_servers_per_1m
+CAF,2021,Central African Republic,0.978071633966472,IT.NET.SECR.P6,secure_servers_per_1m
+CAF,2020,Central African Republic,1.1936431341249,IT.NET.SECR.P6,secure_servers_per_1m
+CAF,2019,Central African Republic,1.01118307813432,IT.NET.SECR.P6,secure_servers_per_1m
+CAF,2018,Central African Republic,0.614923328284813,IT.NET.SECR.P6,secure_servers_per_1m
+TCD,2024,Chad,1.23158030029179,IT.NET.SECR.P6,secure_servers_per_1m
+TCD,2023,Chad,1.24229621062387,IT.NET.SECR.P6,secure_servers_per_1m
+TCD,2022,Chad,0.866958875155538,IT.NET.SECR.P6,secure_servers_per_1m
+TCD,2021,Chad,1.23399501454796,IT.NET.SECR.P6,secure_servers_per_1m
+TCD,2020,Chad,1.21918092058494,IT.NET.SECR.P6,secure_servers_per_1m
+TCD,2019,Chad,0.659265986436022,IT.NET.SECR.P6,secure_servers_per_1m
+TCD,2018,Chad,0.433261323238262,IT.NET.SECR.P6,secure_servers_per_1m
+CHL,2024,Chile,11912.6095617298,IT.NET.SECR.P6,secure_servers_per_1m
+CHL,2023,Chile,12299.9658931976,IT.NET.SECR.P6,secure_servers_per_1m
+CHL,2022,Chile,11563.2682310819,IT.NET.SECR.P6,secure_servers_per_1m
+CHL,2021,Chile,12724.956304718,IT.NET.SECR.P6,secure_servers_per_1m
+CHL,2020,Chile,12744.8656274573,IT.NET.SECR.P6,secure_servers_per_1m
+CHL,2019,Chile,10872.7358797992,IT.NET.SECR.P6,secure_servers_per_1m
+CHL,2018,Chile,8003.20072982907,IT.NET.SECR.P6,secure_servers_per_1m
+CHN,2024,China,1413.32103124612,IT.NET.SECR.P6,secure_servers_per_1m
+CHN,2023,China,1508.37096213963,IT.NET.SECR.P6,secure_servers_per_1m
+CHN,2022,China,1317.31265600935,IT.NET.SECR.P6,secure_servers_per_1m
+CHN,2021,China,1083.91132572432,IT.NET.SECR.P6,secure_servers_per_1m
+CHN,2020,China,948.458649280703,IT.NET.SECR.P6,secure_servers_per_1m
+CHN,2019,China,729.738695573417,IT.NET.SECR.P6,secure_servers_per_1m
+CHN,2018,China,443.51278907297,IT.NET.SECR.P6,secure_servers_per_1m
+COL,2024,Colombia,1126.20714719974,IT.NET.SECR.P6,secure_servers_per_1m
+COL,2023,Colombia,1109.11166481961,IT.NET.SECR.P6,secure_servers_per_1m
+COL,2022,Colombia,669.643927095364,IT.NET.SECR.P6,secure_servers_per_1m
+COL,2021,Colombia,646.067207751291,IT.NET.SECR.P6,secure_servers_per_1m
+COL,2020,Colombia,407.78197162445,IT.NET.SECR.P6,secure_servers_per_1m
+COL,2019,Colombia,787.409068909514,IT.NET.SECR.P6,secure_servers_per_1m
+COL,2018,Colombia,659.629839917682,IT.NET.SECR.P6,secure_servers_per_1m
+COM,2024,Comoros,16.1545668960615,IT.NET.SECR.P6,secure_servers_per_1m
+COM,2023,Comoros,18.8149630697553,IT.NET.SECR.P6,secure_servers_per_1m
+COM,2022,Comoros,26.3729519005308,IT.NET.SECR.P6,secure_servers_per_1m
+COM,2021,Comoros,18.3335085201925,IT.NET.SECR.P6,secure_servers_per_1m
+COM,2020,Comoros,9.97303540552232,IT.NET.SECR.P6,secure_servers_per_1m
+COM,2019,Comoros,7.62797840773579,IT.NET.SECR.P6,secure_servers_per_1m
+COM,2018,Comoros,7.77615054627458,IT.NET.SECR.P6,secure_servers_per_1m
+COD,2024,"Congo, Dem. Rep.",9.66358065038185,IT.NET.SECR.P6,secure_servers_per_1m
+COD,2023,"Congo, Dem. Rep.",8.82883424668128,IT.NET.SECR.P6,secure_servers_per_1m
+COD,2022,"Congo, Dem. Rep.",5.95720763919494,IT.NET.SECR.P6,secure_servers_per_1m
+COD,2021,"Congo, Dem. Rep.",4.70000019768241,IT.NET.SECR.P6,secure_servers_per_1m
+COD,2020,"Congo, Dem. Rep.",3.59412446284247,IT.NET.SECR.P6,secure_servers_per_1m
+COD,2019,"Congo, Dem. Rep.",2.8295560839641,IT.NET.SECR.P6,secure_servers_per_1m
+COD,2018,"Congo, Dem. Rep.",2.63194004276225,IT.NET.SECR.P6,secure_servers_per_1m
+COG,2024,"Congo, Rep.",16.5799220933146,IT.NET.SECR.P6,secure_servers_per_1m
+COG,2023,"Congo, Rep.",18.5997313551845,IT.NET.SECR.P6,secure_servers_per_1m
+COG,2022,"Congo, Rep.",11.7645031469217,IT.NET.SECR.P6,secure_servers_per_1m
+COG,2021,"Congo, Rep.",10.1829831150865,IT.NET.SECR.P6,secure_servers_per_1m
+COG,2020,"Congo, Rep.",7.99611875348852,IT.NET.SECR.P6,secure_servers_per_1m
+COG,2019,"Congo, Rep.",5.87537684756121,IT.NET.SECR.P6,secure_servers_per_1m
+COG,2018,"Congo, Rep.",5.83609544788203,IT.NET.SECR.P6,secure_servers_per_1m
+CRI,2024,Costa Rica,1999.84015314109,IT.NET.SECR.P6,secure_servers_per_1m
+CRI,2023,Costa Rica,1956.70376699752,IT.NET.SECR.P6,secure_servers_per_1m
+CRI,2022,Costa Rica,1892.8462847062,IT.NET.SECR.P6,secure_servers_per_1m
+CRI,2021,Costa Rica,1720.95269791154,IT.NET.SECR.P6,secure_servers_per_1m
+CRI,2020,Costa Rica,1335.23494732158,IT.NET.SECR.P6,secure_servers_per_1m
+CRI,2019,Costa Rica,1322.91826889324,IT.NET.SECR.P6,secure_servers_per_1m
+CRI,2018,Costa Rica,1216.05916151016,IT.NET.SECR.P6,secure_servers_per_1m
+CIV,2024,Cote d'Ivoire,60.7498599465213,IT.NET.SECR.P6,secure_servers_per_1m
+CIV,2023,Cote d'Ivoire,63.4352162159023,IT.NET.SECR.P6,secure_servers_per_1m
+CIV,2022,Cote d'Ivoire,65.8331919175396,IT.NET.SECR.P6,secure_servers_per_1m
+CIV,2021,Cote d'Ivoire,56.4444973464001,IT.NET.SECR.P6,secure_servers_per_1m
+CIV,2020,Cote d'Ivoire,51.6332981721985,IT.NET.SECR.P6,secure_servers_per_1m
+CIV,2019,Cote d'Ivoire,40.612905135454,IT.NET.SECR.P6,secure_servers_per_1m
+CIV,2018,Cote d'Ivoire,10.6320332310753,IT.NET.SECR.P6,secure_servers_per_1m
+HRV,2024,Croatia,29458.6415601883,IT.NET.SECR.P6,secure_servers_per_1m
+HRV,2023,Croatia,29421.5643448716,IT.NET.SECR.P6,secure_servers_per_1m
+HRV,2022,Croatia,29826.9470627582,IT.NET.SECR.P6,secure_servers_per_1m
+HRV,2021,Croatia,25479.3720309535,IT.NET.SECR.P6,secure_servers_per_1m
+HRV,2020,Croatia,23114.2663416284,IT.NET.SECR.P6,secure_servers_per_1m
+HRV,2019,Croatia,23423.1109107989,IT.NET.SECR.P6,secure_servers_per_1m
+HRV,2018,Croatia,20040.4886211932,IT.NET.SECR.P6,secure_servers_per_1m
+CUB,2024,Cuba,192.535681260732,IT.NET.SECR.P6,secure_servers_per_1m
+CUB,2023,Cuba,169.329553878332,IT.NET.SECR.P6,secure_servers_per_1m
+CUB,2022,Cuba,141.322372335174,IT.NET.SECR.P6,secure_servers_per_1m
+CUB,2021,Cuba,108.701828636287,IT.NET.SECR.P6,secure_servers_per_1m
+CUB,2020,Cuba,69.3428286183491,IT.NET.SECR.P6,secure_servers_per_1m
+CUB,2019,Cuba,35.7944757965967,IT.NET.SECR.P6,secure_servers_per_1m
+CUB,2018,Cuba,16.210749722235,IT.NET.SECR.P6,secure_servers_per_1m
+CUW,2024,Curacao,5071.58565594004,IT.NET.SECR.P6,secure_servers_per_1m
+CUW,2023,Curacao,4597.35926649165,IT.NET.SECR.P6,secure_servers_per_1m
+CUW,2022,Curacao,4956.92044794907,IT.NET.SECR.P6,secure_servers_per_1m
+CUW,2021,Curacao,4897.75768441292,IT.NET.SECR.P6,secure_servers_per_1m
+CUW,2020,Curacao,4727.23530698087,IT.NET.SECR.P6,secure_servers_per_1m
+CUW,2019,Curacao,4109.47593066609,IT.NET.SECR.P6,secure_servers_per_1m
+CUW,2018,Curacao,3797.00758146307,IT.NET.SECR.P6,secure_servers_per_1m
+CYP,2024,Cyprus,221297.933713323,IT.NET.SECR.P6,secure_servers_per_1m
+CYP,2023,Cyprus,557174.254410488,IT.NET.SECR.P6,secure_servers_per_1m
+CYP,2022,Cyprus,58909.2438615862,IT.NET.SECR.P6,secure_servers_per_1m
+CYP,2021,Cyprus,55321.8720892365,IT.NET.SECR.P6,secure_servers_per_1m
+CYP,2020,Cyprus,23168.4158228047,IT.NET.SECR.P6,secure_servers_per_1m
+CYP,2019,Cyprus,7658.52342984337,IT.NET.SECR.P6,secure_servers_per_1m
+CYP,2018,Cyprus,5963.46844390303,IT.NET.SECR.P6,secure_servers_per_1m
+CZE,2024,Czechia,79335.8806598204,IT.NET.SECR.P6,secure_servers_per_1m
+CZE,2023,Czechia,80152.0281309664,IT.NET.SECR.P6,secure_servers_per_1m
+CZE,2022,Czechia,85606.0624517083,IT.NET.SECR.P6,secure_servers_per_1m
+CZE,2021,Czechia,75932.7348813586,IT.NET.SECR.P6,secure_servers_per_1m
+CZE,2020,Czechia,67601.7572863652,IT.NET.SECR.P6,secure_servers_per_1m
+CZE,2019,Czechia,56186.8725912141,IT.NET.SECR.P6,secure_servers_per_1m
+CZE,2018,Czechia,42344.5953726121,IT.NET.SECR.P6,secure_servers_per_1m
+DNK,2024,Denmark,246545.586810222,IT.NET.SECR.P6,secure_servers_per_1m
+DNK,2023,Denmark,261262.408036924,IT.NET.SECR.P6,secure_servers_per_1m
+DNK,2022,Denmark,258760.024712703,IT.NET.SECR.P6,secure_servers_per_1m
+DNK,2021,Denmark,259654.486554193,IT.NET.SECR.P6,secure_servers_per_1m
+DNK,2020,Denmark,277081.814259482,IT.NET.SECR.P6,secure_servers_per_1m
+DNK,2019,Denmark,277330.575592896,IT.NET.SECR.P6,secure_servers_per_1m
+DNK,2018,Denmark,123154.440492982,IT.NET.SECR.P6,secure_servers_per_1m
+DJI,2024,Djibouti,114.655153235757,IT.NET.SECR.P6,secure_servers_per_1m
+DJI,2023,Djibouti,63.3161714706005,IT.NET.SECR.P6,secure_servers_per_1m
+DJI,2022,Djibouti,55.4042930412208,IT.NET.SECR.P6,secure_servers_per_1m
+DJI,2021,Djibouti,46.3768943177602,IT.NET.SECR.P6,secure_servers_per_1m
+DJI,2020,Djibouti,44.3363482050113,IT.NET.SECR.P6,secure_servers_per_1m
+DJI,2019,Djibouti,40.4148399618263,IT.NET.SECR.P6,secure_servers_per_1m
+DJI,2018,Djibouti,33.5857864951552,IT.NET.SECR.P6,secure_servers_per_1m
+DMA,2024,Dominica,62865.3424967903,IT.NET.SECR.P6,secure_servers_per_1m
+DMA,2023,Dominica,66516.3133363404,IT.NET.SECR.P6,secure_servers_per_1m
+DMA,2022,Dominica,59198.5155478407,IT.NET.SECR.P6,secure_servers_per_1m
+DMA,2021,Dominica,55117.4072200232,IT.NET.SECR.P6,secure_servers_per_1m
+DMA,2020,Dominica,49990.3807733858,IT.NET.SECR.P6,secure_servers_per_1m
+DMA,2019,Dominica,10385.975250442,IT.NET.SECR.P6,secure_servers_per_1m
+DMA,2018,Dominica,6967.46560272245,IT.NET.SECR.P6,secure_servers_per_1m
+DOM,2024,Dominican Republic,180.878555232759,IT.NET.SECR.P6,secure_servers_per_1m
+DOM,2023,Dominican Republic,216.480684195454,IT.NET.SECR.P6,secure_servers_per_1m
+DOM,2022,Dominican Republic,183.336191561478,IT.NET.SECR.P6,secure_servers_per_1m
+DOM,2021,Dominican Republic,142.131830014287,IT.NET.SECR.P6,secure_servers_per_1m
+DOM,2020,Dominican Republic,124.905752931879,IT.NET.SECR.P6,secure_servers_per_1m
+DOM,2019,Dominican Republic,111.528841955186,IT.NET.SECR.P6,secure_servers_per_1m
+DOM,2018,Dominican Republic,119.921502890034,IT.NET.SECR.P6,secure_servers_per_1m
+ECU,2024,Ecuador,490.861062498601,IT.NET.SECR.P6,secure_servers_per_1m
+ECU,2023,Ecuador,475.303701323292,IT.NET.SECR.P6,secure_servers_per_1m
+ECU,2022,Ecuador,837.022341410523,IT.NET.SECR.P6,secure_servers_per_1m
+ECU,2021,Ecuador,431.840512634728,IT.NET.SECR.P6,secure_servers_per_1m
+ECU,2020,Ecuador,382.4789204873,IT.NET.SECR.P6,secure_servers_per_1m
+ECU,2019,Ecuador,314.186470708426,IT.NET.SECR.P6,secure_servers_per_1m
+ECU,2018,Ecuador,266.165429497922,IT.NET.SECR.P6,secure_servers_per_1m
+EGY,2024,"Egypt, Arab Rep.",82.2047640355153,IT.NET.SECR.P6,secure_servers_per_1m
+EGY,2023,"Egypt, Arab Rep.",53.3021246846793,IT.NET.SECR.P6,secure_servers_per_1m
+EGY,2022,"Egypt, Arab Rep.",48.1804680857676,IT.NET.SECR.P6,secure_servers_per_1m
+EGY,2021,"Egypt, Arab Rep.",38.0868236821959,IT.NET.SECR.P6,secure_servers_per_1m
+EGY,2020,"Egypt, Arab Rep.",41.1928362263944,IT.NET.SECR.P6,secure_servers_per_1m
+EGY,2019,"Egypt, Arab Rep.",32.979040931555,IT.NET.SECR.P6,secure_servers_per_1m
+EGY,2018,"Egypt, Arab Rep.",32.7018501355584,IT.NET.SECR.P6,secure_servers_per_1m
+SLV,2024,El Salvador,191.221693627821,IT.NET.SECR.P6,secure_servers_per_1m
+SLV,2023,El Salvador,181.785792624093,IT.NET.SECR.P6,secure_servers_per_1m
+SLV,2022,El Salvador,173.398835313939,IT.NET.SECR.P6,secure_servers_per_1m
+SLV,2021,El Salvador,154.257293492644,IT.NET.SECR.P6,secure_servers_per_1m
+SLV,2020,El Salvador,140.504562147846,IT.NET.SECR.P6,secure_servers_per_1m
+SLV,2019,El Salvador,97.712781635397,IT.NET.SECR.P6,secure_servers_per_1m
+SLV,2018,El Salvador,93.5720352737633,IT.NET.SECR.P6,secure_servers_per_1m
+GNQ,2024,Equatorial Guinea,66.5780368567558,IT.NET.SECR.P6,secure_servers_per_1m
+GNQ,2023,Equatorial Guinea,43.8418683347505,IT.NET.SECR.P6,secure_servers_per_1m
+GNQ,2022,Equatorial Guinea,36.5945956435797,IT.NET.SECR.P6,secure_servers_per_1m
+GNQ,2021,Equatorial Guinea,19.9000901758372,IT.NET.SECR.P6,secure_servers_per_1m
+GNQ,2020,Equatorial Guinea,27.3818096230166,IT.NET.SECR.P6,secure_servers_per_1m
+GNQ,2019,Equatorial Guinea,16.1659512734279,IT.NET.SECR.P6,secure_servers_per_1m
+GNQ,2018,Equatorial Guinea,8.04245426008802,IT.NET.SECR.P6,secure_servers_per_1m
+ERI,2024,Eritrea,1.97986029540081,IT.NET.SECR.P6,secure_servers_per_1m
+ERI,2023,Eritrea,0.288152052074839,IT.NET.SECR.P6,secure_servers_per_1m
+ERI,2022,Eritrea,0.879908090666903,IT.NET.SECR.P6,secure_servers_per_1m
+ERI,2021,Eritrea,0.89547347115068,IT.NET.SECR.P6,secure_servers_per_1m
+ERI,2020,Eritrea,0.911501969907674,IT.NET.SECR.P6,secure_servers_per_1m
+ERI,2019,Eritrea,0.925870488001644,IT.NET.SECR.P6,secure_servers_per_1m
+ERI,2018,Eritrea,0.313208634535637,IT.NET.SECR.P6,secure_servers_per_1m
+EST,2024,Estonia,139022.298393767,IT.NET.SECR.P6,secure_servers_per_1m
+EST,2023,Estonia,112224.017467886,IT.NET.SECR.P6,secure_servers_per_1m
+EST,2022,Estonia,104101.301859375,IT.NET.SECR.P6,secure_servers_per_1m
+EST,2021,Estonia,96297.9325765704,IT.NET.SECR.P6,secure_servers_per_1m
+EST,2020,Estonia,84354.3769866162,IT.NET.SECR.P6,secure_servers_per_1m
+EST,2019,Estonia,83313.1107289332,IT.NET.SECR.P6,secure_servers_per_1m
+EST,2018,Estonia,48893.4376316683,IT.NET.SECR.P6,secure_servers_per_1m
+SWZ,2024,Eswatini,116.669965610522,IT.NET.SECR.P6,secure_servers_per_1m
+SWZ,2023,Eswatini,139.779895425134,IT.NET.SECR.P6,secure_servers_per_1m
+SWZ,2022,Eswatini,109.933654219278,IT.NET.SECR.P6,secure_servers_per_1m
+SWZ,2021,Eswatini,87.8506671263632,IT.NET.SECR.P6,secure_servers_per_1m
+SWZ,2020,Eswatini,107.316917757512,IT.NET.SECR.P6,secure_servers_per_1m
+SWZ,2019,Eswatini,90.6876496981881,IT.NET.SECR.P6,secure_servers_per_1m
+SWZ,2018,Eswatini,52.1845210444775,IT.NET.SECR.P6,secure_servers_per_1m
+ETH,2024,Ethiopia,23.7316790056127,IT.NET.SECR.P6,secure_servers_per_1m
+ETH,2023,Ethiopia,17.4681050894878,IT.NET.SECR.P6,secure_servers_per_1m
+ETH,2022,Ethiopia,9.00431806100233,IT.NET.SECR.P6,secure_servers_per_1m
+ETH,2021,Ethiopia,7.19674276896013,IT.NET.SECR.P6,secure_servers_per_1m
+ETH,2020,Ethiopia,5.49960316663114,IT.NET.SECR.P6,secure_servers_per_1m
+ETH,2019,Ethiopia,1.42564135911039,IT.NET.SECR.P6,secure_servers_per_1m
+ETH,2018,Ethiopia,1.4201500402719,IT.NET.SECR.P6,secure_servers_per_1m
+FRO,2024,Faroe Islands,11411.6420694574,IT.NET.SECR.P6,secure_servers_per_1m
+FRO,2023,Faroe Islands,8361.81864961223,IT.NET.SECR.P6,secure_servers_per_1m
+FRO,2022,Faroe Islands,7104.16975812435,IT.NET.SECR.P6,secure_servers_per_1m
+FRO,2021,Faroe Islands,6304.41308916241,IT.NET.SECR.P6,secure_servers_per_1m
+FRO,2020,Faroe Islands,5593.07524017883,IT.NET.SECR.P6,secure_servers_per_1m
+FRO,2019,Faroe Islands,4691.84430027804,IT.NET.SECR.P6,secure_servers_per_1m
+FRO,2018,Faroe Islands,4412.11075378461,IT.NET.SECR.P6,secure_servers_per_1m
+FJI,2024,Fiji,221.795379765371,IT.NET.SECR.P6,secure_servers_per_1m
+FJI,2023,Fiji,229.40123032641,IT.NET.SECR.P6,secure_servers_per_1m
+FJI,2022,Fiji,253.420083487234,IT.NET.SECR.P6,secure_servers_per_1m
+FJI,2021,Fiji,255.260381952436,IT.NET.SECR.P6,secure_servers_per_1m
+FJI,2020,Fiji,260.119808123389,IT.NET.SECR.P6,secure_servers_per_1m
+FJI,2019,Fiji,204.394146239093,IT.NET.SECR.P6,secure_servers_per_1m
+FJI,2018,Fiji,166.815674131577,IT.NET.SECR.P6,secure_servers_per_1m
+FIN,2024,Finland,177933.600727841,IT.NET.SECR.P6,secure_servers_per_1m
+FIN,2023,Finland,153868.49826224,IT.NET.SECR.P6,secure_servers_per_1m
+FIN,2022,Finland,131286.012181913,IT.NET.SECR.P6,secure_servers_per_1m
+FIN,2021,Finland,104960.876315666,IT.NET.SECR.P6,secure_servers_per_1m
+FIN,2020,Finland,81650.5089118576,IT.NET.SECR.P6,secure_servers_per_1m
+FIN,2019,Finland,57692.6350775481,IT.NET.SECR.P6,secure_servers_per_1m
+FIN,2018,Finland,33999.120663944,IT.NET.SECR.P6,secure_servers_per_1m
+FRA,2024,France,57274.6363971705,IT.NET.SECR.P6,secure_servers_per_1m
+FRA,2023,France,52017.9916172468,IT.NET.SECR.P6,secure_servers_per_1m
+FRA,2022,France,47329.437557888,IT.NET.SECR.P6,secure_servers_per_1m
+FRA,2021,France,39644.0530743928,IT.NET.SECR.P6,secure_servers_per_1m
+FRA,2020,France,36107.8390576723,IT.NET.SECR.P6,secure_servers_per_1m
+FRA,2019,France,29255.7243091748,IT.NET.SECR.P6,secure_servers_per_1m
+FRA,2018,France,20362.9338827691,IT.NET.SECR.P6,secure_servers_per_1m
+PYF,2024,French Polynesia,2771.40028459194,IT.NET.SECR.P6,secure_servers_per_1m
+PYF,2023,French Polynesia,2312.19630190881,IT.NET.SECR.P6,secure_servers_per_1m
+PYF,2022,French Polynesia,2022.26993558696,IT.NET.SECR.P6,secure_servers_per_1m
+PYF,2021,French Polynesia,1604.7635386287,IT.NET.SECR.P6,secure_servers_per_1m
+PYF,2020,French Polynesia,1235.63352184206,IT.NET.SECR.P6,secure_servers_per_1m
+PYF,2019,French Polynesia,1082.30538213981,IT.NET.SECR.P6,secure_servers_per_1m
+PYF,2018,French Polynesia,736.200704036596,IT.NET.SECR.P6,secure_servers_per_1m
+GAB,2024,Gabon,87.0437881456601,IT.NET.SECR.P6,secure_servers_per_1m
+GAB,2023,Gabon,43.0620064721793,IT.NET.SECR.P6,secure_servers_per_1m
+GAB,2022,Gabon,28.3863355585752,IT.NET.SECR.P6,secure_servers_per_1m
+GAB,2021,Gabon,39.9710189075542,IT.NET.SECR.P6,secure_servers_per_1m
+GAB,2020,Gabon,42.1952010278407,IT.NET.SECR.P6,secure_servers_per_1m
+GAB,2019,Gabon,24.2535849003354,IT.NET.SECR.P6,secure_servers_per_1m
+GAB,2018,Gabon,25.3128166927178,IT.NET.SECR.P6,secure_servers_per_1m
+GMB,2024,"Gambia, The",58.6959073735103,IT.NET.SECR.P6,secure_servers_per_1m
+GMB,2023,"Gambia, The",52.2639365864236,IT.NET.SECR.P6,secure_servers_per_1m
+GMB,2022,"Gambia, The",49.6876505327199,IT.NET.SECR.P6,secure_servers_per_1m
+GMB,2021,"Gambia, The",46.1954728436613,IT.NET.SECR.P6,secure_servers_per_1m
+GMB,2020,"Gambia, The",27.8248923872287,IT.NET.SECR.P6,secure_servers_per_1m
+GMB,2019,"Gambia, The",21.1653649967194,IT.NET.SECR.P6,secure_servers_per_1m
+GMB,2018,"Gambia, The",23.3369116597878,IT.NET.SECR.P6,secure_servers_per_1m
+GEO,2024,Georgia,5454.97744729977,IT.NET.SECR.P6,secure_servers_per_1m
+GEO,2023,Georgia,5251.80710018051,IT.NET.SECR.P6,secure_servers_per_1m
+GEO,2022,Georgia,4942.75827999554,IT.NET.SECR.P6,secure_servers_per_1m
+GEO,2021,Georgia,3725.11533970949,IT.NET.SECR.P6,secure_servers_per_1m
+GEO,2020,Georgia,3497.44648799425,IT.NET.SECR.P6,secure_servers_per_1m
+GEO,2019,Georgia,2776.4927378143,IT.NET.SECR.P6,secure_servers_per_1m
+GEO,2018,Georgia,2182.17981301199,IT.NET.SECR.P6,secure_servers_per_1m
+DEU,2024,Germany,152113.844011812,IT.NET.SECR.P6,secure_servers_per_1m
+DEU,2023,Germany,139972.802327193,IT.NET.SECR.P6,secure_servers_per_1m
+DEU,2022,Germany,126884.076646738,IT.NET.SECR.P6,secure_servers_per_1m
+DEU,2021,Germany,113297.576359309,IT.NET.SECR.P6,secure_servers_per_1m
+DEU,2020,Germany,97517.56929049,IT.NET.SECR.P6,secure_servers_per_1m
+DEU,2019,Germany,77970.0331298817,IT.NET.SECR.P6,secure_servers_per_1m
+DEU,2018,Germany,56406.6207107244,IT.NET.SECR.P6,secure_servers_per_1m
+GHA,2024,Ghana,48.9145074910361,IT.NET.SECR.P6,secure_servers_per_1m
+GHA,2023,Ghana,48.1533130456056,IT.NET.SECR.P6,secure_servers_per_1m
+GHA,2022,Ghana,49.1415285676086,IT.NET.SECR.P6,secure_servers_per_1m
+GHA,2021,Ghana,50.0020526672912,IT.NET.SECR.P6,secure_servers_per_1m
+GHA,2020,Ghana,57.8904621512253,IT.NET.SECR.P6,secure_servers_per_1m
+GHA,2019,Ghana,43.7954639863885,IT.NET.SECR.P6,secure_servers_per_1m
+GHA,2018,Ghana,21.1831317644651,IT.NET.SECR.P6,secure_servers_per_1m
+GIB,2024,Gibraltar,8187.34267334537,IT.NET.SECR.P6,secure_servers_per_1m
+GIB,2023,Gibraltar,8837.82589482987,IT.NET.SECR.P6,secure_servers_per_1m
+GIB,2022,Gibraltar,16804.488287378,IT.NET.SECR.P6,secure_servers_per_1m
+GIB,2021,Gibraltar,16414.3469531716,IT.NET.SECR.P6,secure_servers_per_1m
+GIB,2020,Gibraltar,20927.2109031598,IT.NET.SECR.P6,secure_servers_per_1m
+GIB,2019,Gibraltar,15382.8816137939,IT.NET.SECR.P6,secure_servers_per_1m
+GIB,2018,Gibraltar,15923.5668789809,IT.NET.SECR.P6,secure_servers_per_1m
+GRC,2024,Greece,15657.9434729048,IT.NET.SECR.P6,secure_servers_per_1m
+GRC,2023,Greece,14227.2514879146,IT.NET.SECR.P6,secure_servers_per_1m
+GRC,2022,Greece,13068.1749587664,IT.NET.SECR.P6,secure_servers_per_1m
+GRC,2021,Greece,11384.3924146816,IT.NET.SECR.P6,secure_servers_per_1m
+GRC,2020,Greece,8907.70838312568,IT.NET.SECR.P6,secure_servers_per_1m
+GRC,2019,Greece,6647.33991681452,IT.NET.SECR.P6,secure_servers_per_1m
+GRC,2018,Greece,5035.36701512231,IT.NET.SECR.P6,secure_servers_per_1m
+GRL,2024,Greenland,3905.97508621296,IT.NET.SECR.P6,secure_servers_per_1m
+GRL,2023,Greenland,4765.67308537765,IT.NET.SECR.P6,secure_servers_per_1m
+GRL,2022,Greenland,4606.3429872399,IT.NET.SECR.P6,secure_servers_per_1m
+GRL,2021,Greenland,4377.52634458899,IT.NET.SECR.P6,secure_servers_per_1m
+GRL,2020,Greenland,4115.88340695797,IT.NET.SECR.P6,secure_servers_per_1m
+GRL,2019,Greenland,3201.42285460204,IT.NET.SECR.P6,secure_servers_per_1m
+GRL,2018,Greenland,3070.16760973172,IT.NET.SECR.P6,secure_servers_per_1m
+GRD,2024,Grenada,742.276485192864,IT.NET.SECR.P6,secure_servers_per_1m
+GRD,2023,Grenada,614.958874625259,IT.NET.SECR.P6,secure_servers_per_1m
+GRD,2022,Grenada,718.482974519515,IT.NET.SECR.P6,secure_servers_per_1m
+GRD,2021,Grenada,625.599890305773,IT.NET.SECR.P6,secure_servers_per_1m
+GRD,2020,Grenada,558.702435083075,IT.NET.SECR.P6,secure_servers_per_1m
+GRD,2019,Grenada,482.837706176012,IT.NET.SECR.P6,secure_servers_per_1m
+GRD,2018,Grenada,311.173730022214,IT.NET.SECR.P6,secure_servers_per_1m
+GUM,2024,Guam,1299.34377179232,IT.NET.SECR.P6,secure_servers_per_1m
+GUM,2023,Guam,936.903174660373,IT.NET.SECR.P6,secure_servers_per_1m
+GUM,2022,Guam,1132.09831698753,IT.NET.SECR.P6,secure_servers_per_1m
+GUM,2021,Guam,1154.33946130825,IT.NET.SECR.P6,secure_servers_per_1m
+GUM,2020,Guam,1085.36119093723,IT.NET.SECR.P6,secure_servers_per_1m
+GUM,2019,Guam,1032.08741224167,IT.NET.SECR.P6,secure_servers_per_1m
+GUM,2018,Guam,872.884637845081,IT.NET.SECR.P6,secure_servers_per_1m
+GTM,2024,Guatemala,109.147061621475,IT.NET.SECR.P6,secure_servers_per_1m
+GTM,2023,Guatemala,109.187182804061,IT.NET.SECR.P6,secure_servers_per_1m
+GTM,2022,Guatemala,129.259070980823,IT.NET.SECR.P6,secure_servers_per_1m
+GTM,2021,Guatemala,122.509397027613,IT.NET.SECR.P6,secure_servers_per_1m
+GTM,2020,Guatemala,103.587390338085,IT.NET.SECR.P6,secure_servers_per_1m
+GTM,2019,Guatemala,91.1493192478889,IT.NET.SECR.P6,secure_servers_per_1m
+GTM,2018,Guatemala,76.340024166426,IT.NET.SECR.P6,secure_servers_per_1m
+GIN,2024,Guinea,12.2672068756,IT.NET.SECR.P6,secure_servers_per_1m
+GIN,2023,Guinea,10.4821308131051,IT.NET.SECR.P6,secure_servers_per_1m
+GIN,2022,Guinea,7.61287492252833,IT.NET.SECR.P6,secure_servers_per_1m
+GIN,2021,Guinea,7.07486291723731,IT.NET.SECR.P6,secure_servers_per_1m
+GIN,2020,Guinea,6.65610514791399,IT.NET.SECR.P6,secure_servers_per_1m
+GIN,2019,Guinea,4.83338404550562,IT.NET.SECR.P6,secure_servers_per_1m
+GIN,2018,Guinea,3.22713335947574,IT.NET.SECR.P6,secure_servers_per_1m
+GNB,2024,Guinea-Bissau,10.9023908943231,IT.NET.SECR.P6,secure_servers_per_1m
+GNB,2023,Guinea-Bissau,6.50153087832431,IT.NET.SECR.P6,secure_servers_per_1m
+GNB,2022,Guinea-Bissau,5.22434029642907,IT.NET.SECR.P6,secure_servers_per_1m
+GNB,2021,Guinea-Bissau,5.82852196939929,IT.NET.SECR.P6,secure_servers_per_1m
+GNB,2020,Guinea-Bissau,2.98024840370445,IT.NET.SECR.P6,secure_servers_per_1m
+GNB,2019,Guinea-Bissau,3.5574600954619,IT.NET.SECR.P6,secure_servers_per_1m
+GNB,2018,Guinea-Bissau,2.08098355606794,IT.NET.SECR.P6,secure_servers_per_1m
+GUY,2024,Guyana,175.673545609545,IT.NET.SECR.P6,secure_servers_per_1m
+GUY,2023,Guyana,101.651473401803,IT.NET.SECR.P6,secure_servers_per_1m
+GUY,2022,Guyana,87.6299387685803,IT.NET.SECR.P6,secure_servers_per_1m
+GUY,2021,Guyana,64.9922377195327,IT.NET.SECR.P6,secure_servers_per_1m
+GUY,2020,Guyana,59.4441231434548,IT.NET.SECR.P6,secure_servers_per_1m
+GUY,2019,Guyana,60.6687178471272,IT.NET.SECR.P6,secure_servers_per_1m
+GUY,2018,Guyana,46.7433763372396,IT.NET.SECR.P6,secure_servers_per_1m
+HTI,2024,Haiti,7.72984152890489,IT.NET.SECR.P6,secure_servers_per_1m
+HTI,2023,Haiti,7.38996810111676,IT.NET.SECR.P6,secure_servers_per_1m
+HTI,2022,Haiti,6.78048257216042,IT.NET.SECR.P6,secure_servers_per_1m
+HTI,2021,Haiti,7.91237588779055,IT.NET.SECR.P6,secure_servers_per_1m
+HTI,2020,Haiti,7.73756457753609,IT.NET.SECR.P6,secure_servers_per_1m
+HTI,2019,Haiti,5.40289233035121,IT.NET.SECR.P6,secure_servers_per_1m
+HTI,2018,Haiti,5.38205178774428,IT.NET.SECR.P6,secure_servers_per_1m
+HND,2024,Honduras,148.812506679705,IT.NET.SECR.P6,secure_servers_per_1m
+HND,2023,Honduras,138.188876481221,IT.NET.SECR.P6,secure_servers_per_1m
+HND,2022,Honduras,128.441938127684,IT.NET.SECR.P6,secure_servers_per_1m
+HND,2021,Honduras,113.412434376038,IT.NET.SECR.P6,secure_servers_per_1m
+HND,2020,Honduras,97.335478337174,IT.NET.SECR.P6,secure_servers_per_1m
+HND,2019,Honduras,91.5158473769094,IT.NET.SECR.P6,secure_servers_per_1m
+HND,2018,Honduras,73.4239202229138,IT.NET.SECR.P6,secure_servers_per_1m
+HKG,2024,"Hong Kong SAR, China",156139.206017995,IT.NET.SECR.P6,secure_servers_per_1m
+HKG,2023,"Hong Kong SAR, China",131226.894547578,IT.NET.SECR.P6,secure_servers_per_1m
+HKG,2022,"Hong Kong SAR, China",126913.87266713,IT.NET.SECR.P6,secure_servers_per_1m
+HKG,2021,"Hong Kong SAR, China",100440.301628199,IT.NET.SECR.P6,secure_servers_per_1m
+HKG,2020,"Hong Kong SAR, China",70629.594973934,IT.NET.SECR.P6,secure_servers_per_1m
+HKG,2019,"Hong Kong SAR, China",60542.0956592389,IT.NET.SECR.P6,secure_servers_per_1m
+HKG,2018,"Hong Kong SAR, China",19399.4042347637,IT.NET.SECR.P6,secure_servers_per_1m
+HUN,2024,Hungary,55077.4335878286,IT.NET.SECR.P6,secure_servers_per_1m
+HUN,2023,Hungary,53717.7865400025,IT.NET.SECR.P6,secure_servers_per_1m
+HUN,2022,Hungary,51406.6835924429,IT.NET.SECR.P6,secure_servers_per_1m
+HUN,2021,Hungary,42102.778838019,IT.NET.SECR.P6,secure_servers_per_1m
+HUN,2020,Hungary,33083.571663234,IT.NET.SECR.P6,secure_servers_per_1m
+HUN,2019,Hungary,26447.1020825133,IT.NET.SECR.P6,secure_servers_per_1m
+HUN,2018,Hungary,19379.9008629269,IT.NET.SECR.P6,secure_servers_per_1m
+ISL,2024,Iceland,88084.0142197016,IT.NET.SECR.P6,secure_servers_per_1m
+ISL,2023,Iceland,87104.544641306,IT.NET.SECR.P6,secure_servers_per_1m
+ISL,2022,Iceland,85331.790588032,IT.NET.SECR.P6,secure_servers_per_1m
+ISL,2021,Iceland,78946.0968538602,IT.NET.SECR.P6,secure_servers_per_1m
+ISL,2020,Iceland,75513.7626445235,IT.NET.SECR.P6,secure_servers_per_1m
+ISL,2019,Iceland,70905.7779084376,IT.NET.SECR.P6,secure_servers_per_1m
+ISL,2018,Iceland,64762.2341737521,IT.NET.SECR.P6,secure_servers_per_1m
+IND,2024,India,1212.44166069372,IT.NET.SECR.P6,secure_servers_per_1m
+IND,2023,India,966.082590066802,IT.NET.SECR.P6,secure_servers_per_1m
+IND,2022,India,729.692060044831,IT.NET.SECR.P6,secure_servers_per_1m
+IND,2021,India,528.190455501333,IT.NET.SECR.P6,secure_servers_per_1m
+IND,2020,India,472.187112968085,IT.NET.SECR.P6,secure_servers_per_1m
+IND,2019,India,382.862055209059,IT.NET.SECR.P6,secure_servers_per_1m
+IND,2018,India,184.79636635197,IT.NET.SECR.P6,secure_servers_per_1m
+IDN,2024,Indonesia,2939.49021766292,IT.NET.SECR.P6,secure_servers_per_1m
+IDN,2023,Indonesia,2722.38990575723,IT.NET.SECR.P6,secure_servers_per_1m
+IDN,2022,Indonesia,2496.40884911853,IT.NET.SECR.P6,secure_servers_per_1m
+IDN,2021,Indonesia,2189.14677796205,IT.NET.SECR.P6,secure_servers_per_1m
+IDN,2020,Indonesia,1868.76353333811,IT.NET.SECR.P6,secure_servers_per_1m
+IDN,2019,Indonesia,1672.32938886525,IT.NET.SECR.P6,secure_servers_per_1m
+IDN,2018,Indonesia,1272.12317710915,IT.NET.SECR.P6,secure_servers_per_1m
+IRN,2024,"Iran, Islamic Rep.",7225.71087209777,IT.NET.SECR.P6,secure_servers_per_1m
+IRN,2023,"Iran, Islamic Rep.",6599.35473971613,IT.NET.SECR.P6,secure_servers_per_1m
+IRN,2022,"Iran, Islamic Rep.",6554.61538318904,IT.NET.SECR.P6,secure_servers_per_1m
+IRN,2021,"Iran, Islamic Rep.",3109.71095428245,IT.NET.SECR.P6,secure_servers_per_1m
+IRN,2020,"Iran, Islamic Rep.",2318.99242714402,IT.NET.SECR.P6,secure_servers_per_1m
+IRN,2019,"Iran, Islamic Rep.",985.8745006183,IT.NET.SECR.P6,secure_servers_per_1m
+IRN,2018,"Iran, Islamic Rep.",469.797265839831,IT.NET.SECR.P6,secure_servers_per_1m
+IRQ,2024,Iraq,34.5119560905403,IT.NET.SECR.P6,secure_servers_per_1m
+IRQ,2023,Iraq,43.6393011863656,IT.NET.SECR.P6,secure_servers_per_1m
+IRQ,2022,Iraq,30.7688460713822,IT.NET.SECR.P6,secure_servers_per_1m
+IRQ,2021,Iraq,21.545714143027,IT.NET.SECR.P6,secure_servers_per_1m
+IRQ,2020,Iraq,17.0716514305937,IT.NET.SECR.P6,secure_servers_per_1m
+IRQ,2019,Iraq,11.5313174437929,IT.NET.SECR.P6,secure_servers_per_1m
+IRQ,2018,Iraq,10.8032598724907,IT.NET.SECR.P6,secure_servers_per_1m
+IRL,2024,Ireland,121467.84808156,IT.NET.SECR.P6,secure_servers_per_1m
+IRL,2023,Ireland,149934.162195583,IT.NET.SECR.P6,secure_servers_per_1m
+IRL,2022,Ireland,134764.070843587,IT.NET.SECR.P6,secure_servers_per_1m
+IRL,2021,Ireland,113930.009969504,IT.NET.SECR.P6,secure_servers_per_1m
+IRL,2020,Ireland,114566.465340423,IT.NET.SECR.P6,secure_servers_per_1m
+IRL,2019,Ireland,94607.6886844775,IT.NET.SECR.P6,secure_servers_per_1m
+IRL,2018,Ireland,69157.3047242336,IT.NET.SECR.P6,secure_servers_per_1m
+IMN,2024,Isle of Man,21364.0684410646,IT.NET.SECR.P6,secure_servers_per_1m
+IMN,2023,Isle of Man,21564.7834610586,IT.NET.SECR.P6,secure_servers_per_1m
+IMN,2022,Isle of Man,28990.1583226359,IT.NET.SECR.P6,secure_servers_per_1m
+IMN,2021,Isle of Man,31103.6073526264,IT.NET.SECR.P6,secure_servers_per_1m
+IMN,2020,Isle of Man,13144.7468595356,IT.NET.SECR.P6,secure_servers_per_1m
+IMN,2019,Isle of Man,9933.6565146444,IT.NET.SECR.P6,secure_servers_per_1m
+IMN,2018,Isle of Man,8281.12881093014,IT.NET.SECR.P6,secure_servers_per_1m
+ISR,2024,Israel,12353.0237407764,IT.NET.SECR.P6,secure_servers_per_1m
+ISR,2023,Israel,12925.0685348766,IT.NET.SECR.P6,secure_servers_per_1m
+ISR,2022,Israel,13050.1700235417,IT.NET.SECR.P6,secure_servers_per_1m
+ISR,2021,Israel,13021.9604328062,IT.NET.SECR.P6,secure_servers_per_1m
+ISR,2020,Israel,12351.7921672038,IT.NET.SECR.P6,secure_servers_per_1m
+ISR,2019,Israel,11114.8663574111,IT.NET.SECR.P6,secure_servers_per_1m
+ISR,2018,Israel,9611.94668347818,IT.NET.SECR.P6,secure_servers_per_1m
+ITA,2024,Italy,30647.1608155582,IT.NET.SECR.P6,secure_servers_per_1m
+ITA,2023,Italy,30244.0571559008,IT.NET.SECR.P6,secure_servers_per_1m
+ITA,2022,Italy,28070.9043211973,IT.NET.SECR.P6,secure_servers_per_1m
+ITA,2021,Italy,24823.3931231798,IT.NET.SECR.P6,secure_servers_per_1m
+ITA,2020,Italy,20677.1830094764,IT.NET.SECR.P6,secure_servers_per_1m
+ITA,2019,Italy,15313.1771774623,IT.NET.SECR.P6,secure_servers_per_1m
+ITA,2018,Italy,12313.6246863563,IT.NET.SECR.P6,secure_servers_per_1m
+JAM,2024,Jamaica,191.957170656969,IT.NET.SECR.P6,secure_servers_per_1m
+JAM,2023,Jamaica,190.859452085474,IT.NET.SECR.P6,secure_servers_per_1m
+JAM,2022,Jamaica,182.449357975502,IT.NET.SECR.P6,secure_servers_per_1m
+JAM,2021,Jamaica,176.904952704355,IT.NET.SECR.P6,secure_servers_per_1m
+JAM,2020,Jamaica,167.800705045573,IT.NET.SECR.P6,secure_servers_per_1m
+JAM,2019,Jamaica,150.888809469583,IT.NET.SECR.P6,secure_servers_per_1m
+JAM,2018,Jamaica,159.923577096816,IT.NET.SECR.P6,secure_servers_per_1m
+JPN,2024,Japan,32928.7580837326,IT.NET.SECR.P6,secure_servers_per_1m
+JPN,2023,Japan,31701.7121806602,IT.NET.SECR.P6,secure_servers_per_1m
+JPN,2022,Japan,28934.0684777203,IT.NET.SECR.P6,secure_servers_per_1m
+JPN,2021,Japan,25729.8696078749,IT.NET.SECR.P6,secure_servers_per_1m
+JPN,2020,Japan,22848.7181314895,IT.NET.SECR.P6,secure_servers_per_1m
+JPN,2019,Japan,18646.9956488435,IT.NET.SECR.P6,secure_servers_per_1m
+JPN,2018,Japan,11644.8573073314,IT.NET.SECR.P6,secure_servers_per_1m
+JOR,2024,Jordan,212.241523236292,IT.NET.SECR.P6,secure_servers_per_1m
+JOR,2023,Jordan,182.967132441716,IT.NET.SECR.P6,secure_servers_per_1m
+JOR,2022,Jordan,154.58060992356,IT.NET.SECR.P6,secure_servers_per_1m
+JOR,2021,Jordan,144.853463958687,IT.NET.SECR.P6,secure_servers_per_1m
+JOR,2020,Jordan,127.47086393401,IT.NET.SECR.P6,secure_servers_per_1m
+JOR,2019,Jordan,102.324883190805,IT.NET.SECR.P6,secure_servers_per_1m
+JOR,2018,Jordan,97.9707532928209,IT.NET.SECR.P6,secure_servers_per_1m
+KAZ,2024,Kazakhstan,6914.14394055021,IT.NET.SECR.P6,secure_servers_per_1m
+KAZ,2023,Kazakhstan,5814.13651400898,IT.NET.SECR.P6,secure_servers_per_1m
+KAZ,2022,Kazakhstan,4944.14440531382,IT.NET.SECR.P6,secure_servers_per_1m
+KAZ,2021,Kazakhstan,4342.46981161442,IT.NET.SECR.P6,secure_servers_per_1m
+KAZ,2020,Kazakhstan,3184.09955139885,IT.NET.SECR.P6,secure_servers_per_1m
+KAZ,2019,Kazakhstan,2273.55605062168,IT.NET.SECR.P6,secure_servers_per_1m
+KAZ,2018,Kazakhstan,1326.53896081637,IT.NET.SECR.P6,secure_servers_per_1m
+KEN,2024,Kenya,399.695610422168,IT.NET.SECR.P6,secure_servers_per_1m
+KEN,2023,Kenya,297.132205291086,IT.NET.SECR.P6,secure_servers_per_1m
+KEN,2022,Kenya,280.15318973272,IT.NET.SECR.P6,secure_servers_per_1m
+KEN,2021,Kenya,260.207008880973,IT.NET.SECR.P6,secure_servers_per_1m
+KEN,2020,Kenya,246.584783512693,IT.NET.SECR.P6,secure_servers_per_1m
+KEN,2019,Kenya,254.810149447412,IT.NET.SECR.P6,secure_servers_per_1m
+KEN,2018,Kenya,222.358958065439,IT.NET.SECR.P6,secure_servers_per_1m
+KIR,2024,Kiribati,22.3018480798109,IT.NET.SECR.P6,secure_servers_per_1m
+KIR,2023,Kiribati,22.6363842148947,IT.NET.SECR.P6,secure_servers_per_1m
+KIR,2022,Kiribati,53.6525918034169,IT.NET.SECR.P6,secure_servers_per_1m
+KIR,2021,Kiribati,38.9477865972877,IT.NET.SECR.P6,secure_servers_per_1m
+KIR,2020,Kiribati,39.6513850228788,IT.NET.SECR.P6,secure_servers_per_1m
+KIR,2019,Kiribati,8.06965728165525,IT.NET.SECR.P6,secure_servers_per_1m
+KIR,2018,Kiribati,40.9554077520396,IT.NET.SECR.P6,secure_servers_per_1m
+PRK,2024,"Korea, Dem. People's Rep.",10.4155569475671,IT.NET.SECR.P6,secure_servers_per_1m
+PRK,2023,"Korea, Dem. People's Rep.",3.93667941999388,IT.NET.SECR.P6,secure_servers_per_1m
+PRK,2022,"Korea, Dem. People's Rep.",3.19041720212186,IT.NET.SECR.P6,secure_servers_per_1m
+PRK,2021,"Korea, Dem. People's Rep.",6.25177880261205,IT.NET.SECR.P6,secure_servers_per_1m
+PRK,2020,"Korea, Dem. People's Rep.",0.0765218903110737,IT.NET.SECR.P6,secure_servers_per_1m
+KOR,2024,"Korea, Rep.",11902.38307173,IT.NET.SECR.P6,secure_servers_per_1m
+KOR,2023,"Korea, Rep.",9728.36049939764,IT.NET.SECR.P6,secure_servers_per_1m
+KOR,2022,"Korea, Rep.",8821.91477648421,IT.NET.SECR.P6,secure_servers_per_1m
+KOR,2021,"Korea, Rep.",7334.11978035964,IT.NET.SECR.P6,secure_servers_per_1m
+KOR,2020,"Korea, Rep.",5939.01112308707,IT.NET.SECR.P6,secure_servers_per_1m
+KOR,2019,"Korea, Rep.",4538.9511819436,IT.NET.SECR.P6,secure_servers_per_1m
+KOR,2018,"Korea, Rep.",2065.98585194961,IT.NET.SECR.P6,secure_servers_per_1m
+KWT,2024,Kuwait,384.296289580527,IT.NET.SECR.P6,secure_servers_per_1m
+KWT,2023,Kuwait,385.501357805424,IT.NET.SECR.P6,secure_servers_per_1m
+KWT,2022,Kuwait,388.48337441496,IT.NET.SECR.P6,secure_servers_per_1m
+KWT,2021,Kuwait,400.608594854461,IT.NET.SECR.P6,secure_servers_per_1m
+KWT,2020,Kuwait,402.248318113424,IT.NET.SECR.P6,secure_servers_per_1m
+KWT,2019,Kuwait,415.098790810919,IT.NET.SECR.P6,secure_servers_per_1m
+KWT,2018,Kuwait,394.355056013452,IT.NET.SECR.P6,secure_servers_per_1m
+KGZ,2024,Kyrgyz Republic,1301.74076845492,IT.NET.SECR.P6,secure_servers_per_1m
+KGZ,2023,Kyrgyz Republic,816.366773477939,IT.NET.SECR.P6,secure_servers_per_1m
+KGZ,2022,Kyrgyz Republic,639.836449603023,IT.NET.SECR.P6,secure_servers_per_1m
+KGZ,2021,Kyrgyz Republic,515.674279515602,IT.NET.SECR.P6,secure_servers_per_1m
+KGZ,2020,Kyrgyz Republic,411.946845031276,IT.NET.SECR.P6,secure_servers_per_1m
+KGZ,2019,Kyrgyz Republic,282.085050084132,IT.NET.SECR.P6,secure_servers_per_1m
+KGZ,2018,Kyrgyz Republic,166.819804660992,IT.NET.SECR.P6,secure_servers_per_1m
+LAO,2024,Lao PDR,301.680129228236,IT.NET.SECR.P6,secure_servers_per_1m
+LAO,2023,Lao PDR,274.103316206551,IT.NET.SECR.P6,secure_servers_per_1m
+LAO,2022,Lao PDR,273.977785706509,IT.NET.SECR.P6,secure_servers_per_1m
+LAO,2021,Lao PDR,82.246618027117,IT.NET.SECR.P6,secure_servers_per_1m
+LAO,2020,Lao PDR,52.2695535431475,IT.NET.SECR.P6,secure_servers_per_1m
+LAO,2019,Lao PDR,30.9493320747272,IT.NET.SECR.P6,secure_servers_per_1m
+LAO,2018,Lao PDR,20.201892664819,IT.NET.SECR.P6,secure_servers_per_1m
+LVA,2024,Latvia,28218.3820582126,IT.NET.SECR.P6,secure_servers_per_1m
+LVA,2023,Latvia,26083.1019636781,IT.NET.SECR.P6,secure_servers_per_1m
+LVA,2022,Latvia,22271.1389855075,IT.NET.SECR.P6,secure_servers_per_1m
+LVA,2021,Latvia,22572.6854480523,IT.NET.SECR.P6,secure_servers_per_1m
+LVA,2020,Latvia,20328.8801751586,IT.NET.SECR.P6,secure_servers_per_1m
+LVA,2019,Latvia,19857.6461133794,IT.NET.SECR.P6,secure_servers_per_1m
+LVA,2018,Latvia,14504.1392214714,IT.NET.SECR.P6,secure_servers_per_1m
+LBN,2024,Lebanon,267.311429182623,IT.NET.SECR.P6,secure_servers_per_1m
+LBN,2023,Lebanon,676.020565020171,IT.NET.SECR.P6,secure_servers_per_1m
+LBN,2022,Lebanon,260.249432107886,IT.NET.SECR.P6,secure_servers_per_1m
+LBN,2021,Lebanon,341.02105551438,IT.NET.SECR.P6,secure_servers_per_1m
+LBN,2020,Lebanon,322.32053953442,IT.NET.SECR.P6,secure_servers_per_1m
+LBN,2019,Lebanon,244.193122072055,IT.NET.SECR.P6,secure_servers_per_1m
+LBN,2018,Lebanon,199.695226649069,IT.NET.SECR.P6,secure_servers_per_1m
+LSO,2024,Lesotho,85.9921374950105,IT.NET.SECR.P6,secure_servers_per_1m
+LSO,2023,Lesotho,89.1206988447189,IT.NET.SECR.P6,secure_servers_per_1m
+LSO,2022,Lesotho,75.6743988696957,IT.NET.SECR.P6,secure_servers_per_1m
+LSO,2021,Lesotho,67.210779194019,IT.NET.SECR.P6,secure_servers_per_1m
+LSO,2020,Lesotho,67.0922702100927,IT.NET.SECR.P6,secure_servers_per_1m
+LSO,2019,Lesotho,60.6498129586925,IT.NET.SECR.P6,secure_servers_per_1m
+LSO,2018,Lesotho,38.0105724346413,IT.NET.SECR.P6,secure_servers_per_1m
+LBR,2024,Liberia,13.0059469246904,IT.NET.SECR.P6,secure_servers_per_1m
+LBR,2023,Liberia,9.28449156758809,IT.NET.SECR.P6,secure_servers_per_1m
+LBR,2022,Liberia,8.18864554963864,IT.NET.SECR.P6,secure_servers_per_1m
+LBR,2021,Liberia,6.65484892257045,IT.NET.SECR.P6,secure_servers_per_1m
+LBR,2020,Liberia,6.02004519694578,IT.NET.SECR.P6,secure_servers_per_1m
+LBR,2019,Liberia,4.75839167154567,IT.NET.SECR.P6,secure_servers_per_1m
+LBR,2018,Liberia,2.22459242433251,IT.NET.SECR.P6,secure_servers_per_1m
+LBY,2024,Libya,388.564024255174,IT.NET.SECR.P6,secure_servers_per_1m
+LBY,2023,Libya,112.241756698472,IT.NET.SECR.P6,secure_servers_per_1m
+LBY,2022,Libya,174.008019319458,IT.NET.SECR.P6,secure_servers_per_1m
+LBY,2021,Libya,155.427161912637,IT.NET.SECR.P6,secure_servers_per_1m
+LBY,2020,Libya,722.88311847207,IT.NET.SECR.P6,secure_servers_per_1m
+LBY,2019,Libya,1024.16432205113,IT.NET.SECR.P6,secure_servers_per_1m
+LBY,2018,Libya,1072.41071943502,IT.NET.SECR.P6,secure_servers_per_1m
+LIE,2024,Liechtenstein,60321.3844252163,IT.NET.SECR.P6,secure_servers_per_1m
+LIE,2023,Liechtenstein,66179.7921999699,IT.NET.SECR.P6,secure_servers_per_1m
+LIE,2022,Liechtenstein,66037.0192185957,IT.NET.SECR.P6,secure_servers_per_1m
+LIE,2021,Liechtenstein,62069.3175437701,IT.NET.SECR.P6,secure_servers_per_1m
+LIE,2020,Liechtenstein,51412.5600884296,IT.NET.SECR.P6,secure_servers_per_1m
+LIE,2019,Liechtenstein,47351.0878303037,IT.NET.SECR.P6,secure_servers_per_1m
+LIE,2018,Liechtenstein,34853.3179940386,IT.NET.SECR.P6,secure_servers_per_1m
+LTU,2024,Lithuania,98553.1863622546,IT.NET.SECR.P6,secure_servers_per_1m
+LTU,2023,Lithuania,96899.7957573953,IT.NET.SECR.P6,secure_servers_per_1m
+LTU,2022,Lithuania,66487.2888104734,IT.NET.SECR.P6,secure_servers_per_1m
+LTU,2021,Lithuania,53718.8699534963,IT.NET.SECR.P6,secure_servers_per_1m
+LTU,2020,Lithuania,46868.5784678097,IT.NET.SECR.P6,secure_servers_per_1m
+LTU,2019,Lithuania,31265.1075793047,IT.NET.SECR.P6,secure_servers_per_1m
+LTU,2018,Lithuania,18152.6674233825,IT.NET.SECR.P6,secure_servers_per_1m
+LUX,2024,Luxembourg,58437.6643250046,IT.NET.SECR.P6,secure_servers_per_1m
+LUX,2023,Luxembourg,60480.4705670513,IT.NET.SECR.P6,secure_servers_per_1m
+LUX,2022,Luxembourg,63898.0375224122,IT.NET.SECR.P6,secure_servers_per_1m
+LUX,2021,Luxembourg,49199.7675232477,IT.NET.SECR.P6,secure_servers_per_1m
+LUX,2020,Luxembourg,44903.4689627058,IT.NET.SECR.P6,secure_servers_per_1m
+LUX,2019,Luxembourg,39864.4518315293,IT.NET.SECR.P6,secure_servers_per_1m
+LUX,2018,Luxembourg,43151.5749650465,IT.NET.SECR.P6,secure_servers_per_1m
+MAC,2024,"Macao SAR, China",6586.60844250364,IT.NET.SECR.P6,secure_servers_per_1m
+MAC,2023,"Macao SAR, China",5760.16499705362,IT.NET.SECR.P6,secure_servers_per_1m
+MAC,2022,"Macao SAR, China",6022.44204931345,IT.NET.SECR.P6,secure_servers_per_1m
+MAC,2021,"Macao SAR, China",5169.23076923077,IT.NET.SECR.P6,secure_servers_per_1m
+MAC,2020,"Macao SAR, China",5719.28800700321,IT.NET.SECR.P6,secure_servers_per_1m
+MAC,2019,"Macao SAR, China",3971.72619047619,IT.NET.SECR.P6,secure_servers_per_1m
+MAC,2018,"Macao SAR, China",2540.59796630748,IT.NET.SECR.P6,secure_servers_per_1m
+MDG,2024,Madagascar,25.0586924005151,IT.NET.SECR.P6,secure_servers_per_1m
+MDG,2023,Madagascar,22.1823794204962,IT.NET.SECR.P6,secure_servers_per_1m
+MDG,2022,Madagascar,17.8071213438029,IT.NET.SECR.P6,secure_servers_per_1m
+MDG,2021,Madagascar,13.876220008546,IT.NET.SECR.P6,secure_servers_per_1m
+MDG,2020,Madagascar,9.87788857437753,IT.NET.SECR.P6,secure_servers_per_1m
+MDG,2019,Madagascar,8.04406759936744,IT.NET.SECR.P6,secure_servers_per_1m
+MDG,2018,Madagascar,5.20095962433214,IT.NET.SECR.P6,secure_servers_per_1m
+MWI,2024,Malawi,32.4632055194284,IT.NET.SECR.P6,secure_servers_per_1m
+MWI,2023,Malawi,27.6718471460233,IT.NET.SECR.P6,secure_servers_per_1m
+MWI,2022,Malawi,23.8225718187338,IT.NET.SECR.P6,secure_servers_per_1m
+MWI,2021,Malawi,21.1999067403632,IT.NET.SECR.P6,secure_servers_per_1m
+MWI,2020,Malawi,16.5865597263586,IT.NET.SECR.P6,secure_servers_per_1m
+MWI,2019,Malawi,16.0309037981784,IT.NET.SECR.P6,secure_servers_per_1m
+MWI,2018,Malawi,15.0582243244727,IT.NET.SECR.P6,secure_servers_per_1m
+MYS,2024,Malaysia,7475.46106293289,IT.NET.SECR.P6,secure_servers_per_1m
+MYS,2023,Malaysia,8082.51982602892,IT.NET.SECR.P6,secure_servers_per_1m
+MYS,2022,Malaysia,8416.74162116676,IT.NET.SECR.P6,secure_servers_per_1m
+MYS,2021,Malaysia,7998.18589124991,IT.NET.SECR.P6,secure_servers_per_1m
+MYS,2020,Malaysia,7157.51441786287,IT.NET.SECR.P6,secure_servers_per_1m
+MYS,2019,Malaysia,6424.1677989232,IT.NET.SECR.P6,secure_servers_per_1m
+MYS,2018,Malaysia,5473.06920516799,IT.NET.SECR.P6,secure_servers_per_1m
+MDV,2024,Maldives,1330.05178107575,IT.NET.SECR.P6,secure_servers_per_1m
+MDV,2023,Maldives,1237.6567033084,IT.NET.SECR.P6,secure_servers_per_1m
+MDV,2022,Maldives,1158.16266175163,IT.NET.SECR.P6,secure_servers_per_1m
+MDV,2021,Maldives,1241.87742417961,IT.NET.SECR.P6,secure_servers_per_1m
+MDV,2020,Maldives,1151.12383941623,IT.NET.SECR.P6,secure_servers_per_1m
+MDV,2019,Maldives,789.36955001835,IT.NET.SECR.P6,secure_servers_per_1m
+MDV,2018,Maldives,570.705074413601,IT.NET.SECR.P6,secure_servers_per_1m
+MLI,2024,Mali,20.9979371773584,IT.NET.SECR.P6,secure_servers_per_1m
+MLI,2023,Mali,14.0518412813394,IT.NET.SECR.P6,secure_servers_per_1m
+MLI,2022,Mali,14.6927269701257,IT.NET.SECR.P6,secure_servers_per_1m
+MLI,2021,Mali,11.9256962127651,IT.NET.SECR.P6,secure_servers_per_1m
+MLI,2020,Mali,9.9936280259278,IT.NET.SECR.P6,secure_servers_per_1m
+MLI,2019,Mali,9.635280886237,IT.NET.SECR.P6,secure_servers_per_1m
+MLI,2018,Mali,9.83268295761233,IT.NET.SECR.P6,secure_servers_per_1m
+MLT,2024,Malta,4507.36313982494,IT.NET.SECR.P6,secure_servers_per_1m
+MLT,2023,Malta,4823.18311994457,IT.NET.SECR.P6,secure_servers_per_1m
+MLT,2022,Malta,5102.49231331186,IT.NET.SECR.P6,secure_servers_per_1m
+MLT,2021,Malta,6185.4675287079,IT.NET.SECR.P6,secure_servers_per_1m
+MLT,2020,Malta,14442.5692059982,IT.NET.SECR.P6,secure_servers_per_1m
+MLT,2019,Malta,10843.1630919684,IT.NET.SECR.P6,secure_servers_per_1m
+MLT,2018,Malta,14436.777618655,IT.NET.SECR.P6,secure_servers_per_1m
+MHL,2024,Marshall Islands,213.060615745179,IT.NET.SECR.P6,secure_servers_per_1m
+MHL,2023,Marshall Islands,154.531640353362,IT.NET.SECR.P6,secure_servers_per_1m
+MHL,2022,Marshall Islands,99.8078698505377,IT.NET.SECR.P6,secure_servers_per_1m
+MHL,2021,Marshall Islands,169.217008726763,IT.NET.SECR.P6,secure_servers_per_1m
+MHL,2020,Marshall Islands,1428.37072074182,IT.NET.SECR.P6,secure_servers_per_1m
+MHL,2019,Marshall Islands,454.473151998546,IT.NET.SECR.P6,secure_servers_per_1m
+MHL,2018,Marshall Islands,176.658937838136,IT.NET.SECR.P6,secure_servers_per_1m
+MRT,2024,Mauritania,52.2304834511582,IT.NET.SECR.P6,secure_servers_per_1m
+MRT,2023,Mauritania,34.6445085168746,IT.NET.SECR.P6,secure_servers_per_1m
+MRT,2022,Mauritania,25.2274728409847,IT.NET.SECR.P6,secure_servers_per_1m
+MRT,2021,Mauritania,13.7279260229522,IT.NET.SECR.P6,secure_servers_per_1m
+MRT,2020,Mauritania,14.1300323838604,IT.NET.SECR.P6,secure_servers_per_1m
+MRT,2019,Mauritania,7.38633769261554,IT.NET.SECR.P6,secure_servers_per_1m
+MRT,2018,Mauritania,5.53290522479157,IT.NET.SECR.P6,secure_servers_per_1m
+MUS,2024,Mauritius,2157.68607433582,IT.NET.SECR.P6,secure_servers_per_1m
+MUS,2023,Mauritius,2490.69592927385,IT.NET.SECR.P6,secure_servers_per_1m
+MUS,2022,Mauritius,1688.68210717745,IT.NET.SECR.P6,secure_servers_per_1m
+MUS,2021,Mauritius,1966.30588770419,IT.NET.SECR.P6,secure_servers_per_1m
+MUS,2020,Mauritius,914.681828163038,IT.NET.SECR.P6,secure_servers_per_1m
+MUS,2019,Mauritius,515.014000955778,IT.NET.SECR.P6,secure_servers_per_1m
+MUS,2018,Mauritius,7843.06288752087,IT.NET.SECR.P6,secure_servers_per_1m
+MEX,2024,Mexico,531.655697865752,IT.NET.SECR.P6,secure_servers_per_1m
+MEX,2023,Mexico,412.117306307005,IT.NET.SECR.P6,secure_servers_per_1m
+MEX,2022,Mexico,381.889508206228,IT.NET.SECR.P6,secure_servers_per_1m
+MEX,2021,Mexico,348.79471968524,IT.NET.SECR.P6,secure_servers_per_1m
+MEX,2020,Mexico,328.196454841059,IT.NET.SECR.P6,secure_servers_per_1m
+MEX,2019,Mexico,275.399004136209,IT.NET.SECR.P6,secure_servers_per_1m
+MEX,2018,Mexico,228.675856015881,IT.NET.SECR.P6,secure_servers_per_1m
+FSM,2024,"Micronesia, Fed. Sts.",194.414987628137,IT.NET.SECR.P6,secure_servers_per_1m
+FSM,2023,"Micronesia, Fed. Sts.",159.815324513895,IT.NET.SECR.P6,secure_servers_per_1m
+FSM,2022,"Micronesia, Fed. Sts.",142.711882548121,IT.NET.SECR.P6,secure_servers_per_1m
+FSM,2021,"Micronesia, Fed. Sts.",179.172937719487,IT.NET.SECR.P6,secure_servers_per_1m
+FSM,2020,"Micronesia, Fed. Sts.",189.33246781348,IT.NET.SECR.P6,secure_servers_per_1m
+FSM,2019,"Micronesia, Fed. Sts.",217.623909613536,IT.NET.SECR.P6,secure_servers_per_1m
+FSM,2018,"Micronesia, Fed. Sts.",191.06715555596,IT.NET.SECR.P6,secure_servers_per_1m
+MDA,2024,Moldova,13318.0369195265,IT.NET.SECR.P6,secure_servers_per_1m
+MDA,2023,Moldova,11525.8344613825,IT.NET.SECR.P6,secure_servers_per_1m
+MDA,2022,Moldova,8416.33533097055,IT.NET.SECR.P6,secure_servers_per_1m
+MDA,2021,Moldova,6661.50706773881,IT.NET.SECR.P6,secure_servers_per_1m
+MDA,2020,Moldova,5580.36984892586,IT.NET.SECR.P6,secure_servers_per_1m
+MDA,2019,Moldova,4526.64640810983,IT.NET.SECR.P6,secure_servers_per_1m
+MDA,2018,Moldova,3919.17414394118,IT.NET.SECR.P6,secure_servers_per_1m
+MCO,2024,Monaco,41495.1722709741,IT.NET.SECR.P6,secure_servers_per_1m
+MCO,2023,Monaco,31805.113461341,IT.NET.SECR.P6,secure_servers_per_1m
+MCO,2022,Monaco,22886.6456037605,IT.NET.SECR.P6,secure_servers_per_1m
+MCO,2021,Monaco,15807.0963220599,IT.NET.SECR.P6,secure_servers_per_1m
+MCO,2020,Monaco,19763.4691195795,IT.NET.SECR.P6,secure_servers_per_1m
+MCO,2019,Monaco,13618.8301975911,IT.NET.SECR.P6,secure_servers_per_1m
+MCO,2018,Monaco,10798.3435550663,IT.NET.SECR.P6,secure_servers_per_1m
+MNG,2024,Mongolia,2564.12584246201,IT.NET.SECR.P6,secure_servers_per_1m
+MNG,2023,Mongolia,2354.68502461116,IT.NET.SECR.P6,secure_servers_per_1m
+MNG,2022,Mongolia,2187.98816919588,IT.NET.SECR.P6,secure_servers_per_1m
+MNG,2021,Mongolia,1994.83352892553,IT.NET.SECR.P6,secure_servers_per_1m
+MNG,2020,Mongolia,1709.2429559474,IT.NET.SECR.P6,secure_servers_per_1m
+MNG,2019,Mongolia,1668.46560228028,IT.NET.SECR.P6,secure_servers_per_1m
+MNG,2018,Mongolia,1669.78940455191,IT.NET.SECR.P6,secure_servers_per_1m
+MNE,2024,Montenegro,6424.76243935688,IT.NET.SECR.P6,secure_servers_per_1m
+MNE,2023,Montenegro,2221.22788194294,IT.NET.SECR.P6,secure_servers_per_1m
+MNE,2022,Montenegro,1265.25238497669,IT.NET.SECR.P6,secure_servers_per_1m
+MNE,2021,Montenegro,919.921990615196,IT.NET.SECR.P6,secure_servers_per_1m
+MNE,2020,Montenegro,777.222745335866,IT.NET.SECR.P6,secure_servers_per_1m
+MNE,2019,Montenegro,686.07569489097,IT.NET.SECR.P6,secure_servers_per_1m
+MNE,2018,Montenegro,413.448737145575,IT.NET.SECR.P6,secure_servers_per_1m
+MAR,2024,Morocco,577.319401374532,IT.NET.SECR.P6,secure_servers_per_1m
+MAR,2023,Morocco,567.610133561799,IT.NET.SECR.P6,secure_servers_per_1m
+MAR,2022,Morocco,545.607036919008,IT.NET.SECR.P6,secure_servers_per_1m
+MAR,2021,Morocco,602.958637557022,IT.NET.SECR.P6,secure_servers_per_1m
+MAR,2020,Morocco,443.333363947636,IT.NET.SECR.P6,secure_servers_per_1m
+MAR,2019,Morocco,372.23600475194,IT.NET.SECR.P6,secure_servers_per_1m
+MAR,2018,Morocco,297.295517603913,IT.NET.SECR.P6,secure_servers_per_1m
+MOZ,2024,Mozambique,37.1624132595491,IT.NET.SECR.P6,secure_servers_per_1m
+MOZ,2023,Mozambique,37.1040304253049,IT.NET.SECR.P6,secure_servers_per_1m
+MOZ,2022,Mozambique,33.4698605589877,IT.NET.SECR.P6,secure_servers_per_1m
+MOZ,2021,Mozambique,32.2002787957537,IT.NET.SECR.P6,secure_servers_per_1m
+MOZ,2020,Mozambique,29.8209883104325,IT.NET.SECR.P6,secure_servers_per_1m
+MOZ,2019,Mozambique,20.8470110472427,IT.NET.SECR.P6,secure_servers_per_1m
+MOZ,2018,Mozambique,12.0267508020016,IT.NET.SECR.P6,secure_servers_per_1m
+MMR,2024,Myanmar,23.596290875918,IT.NET.SECR.P6,secure_servers_per_1m
+MMR,2023,Myanmar,20.1722406397571,IT.NET.SECR.P6,secure_servers_per_1m
+MMR,2022,Myanmar,14.8260348967657,IT.NET.SECR.P6,secure_servers_per_1m
+MMR,2021,Myanmar,12.6622344101015,IT.NET.SECR.P6,secure_servers_per_1m
+MMR,2020,Myanmar,14.4294640829136,IT.NET.SECR.P6,secure_servers_per_1m
+MMR,2019,Myanmar,12.5948142077787,IT.NET.SECR.P6,secure_servers_per_1m
+MMR,2018,Myanmar,9.4505216123577,IT.NET.SECR.P6,secure_servers_per_1m
+NAM,2024,Namibia,427.374262036856,IT.NET.SECR.P6,secure_servers_per_1m
+NAM,2023,Namibia,389.457644793704,IT.NET.SECR.P6,secure_servers_per_1m
+NAM,2022,Namibia,315.607846177165,IT.NET.SECR.P6,secure_servers_per_1m
+NAM,2021,Namibia,246.215328825553,IT.NET.SECR.P6,secure_servers_per_1m
+NAM,2020,Namibia,199.357804015154,IT.NET.SECR.P6,secure_servers_per_1m
+NAM,2019,Namibia,138.087465959176,IT.NET.SECR.P6,secure_servers_per_1m
+NAM,2018,Namibia,142.007591586167,IT.NET.SECR.P6,secure_servers_per_1m
+NRU,2024,Nauru,669.624173432661,IT.NET.SECR.P6,secure_servers_per_1m
+NRU,2023,Nauru,421.052631578947,IT.NET.SECR.P6,secure_servers_per_1m
+NRU,2022,Nauru,254.215744428438,IT.NET.SECR.P6,secure_servers_per_1m
+NRU,2021,Nauru,427.021948928175,IT.NET.SECR.P6,secure_servers_per_1m
+NRU,2020,Nauru,343.554066821266,IT.NET.SECR.P6,secure_servers_per_1m
+NRU,2018,Nauru,87.1307833057419,IT.NET.SECR.P6,secure_servers_per_1m
+NPL,2024,Nepal,541.228652445205,IT.NET.SECR.P6,secure_servers_per_1m
+NPL,2023,Nepal,642.608117418196,IT.NET.SECR.P6,secure_servers_per_1m
+NPL,2022,Nepal,359.476468728239,IT.NET.SECR.P6,secure_servers_per_1m
+NPL,2021,Nepal,269.787864363744,IT.NET.SECR.P6,secure_servers_per_1m
+NPL,2020,Nepal,210.449464959163,IT.NET.SECR.P6,secure_servers_per_1m
+NPL,2019,Nepal,190.187507144349,IT.NET.SECR.P6,secure_servers_per_1m
+NPL,2018,Nepal,182.551879402938,IT.NET.SECR.P6,secure_servers_per_1m
+NLD,2024,Netherlands,198682.41199523,IT.NET.SECR.P6,secure_servers_per_1m
+NLD,2023,Netherlands,194962.867894191,IT.NET.SECR.P6,secure_servers_per_1m
+NLD,2022,Netherlands,181183.789690312,IT.NET.SECR.P6,secure_servers_per_1m
+NLD,2021,Netherlands,164133.506993994,IT.NET.SECR.P6,secure_servers_per_1m
+NLD,2020,Netherlands,136862.999168649,IT.NET.SECR.P6,secure_servers_per_1m
+NLD,2019,Netherlands,130279.470464876,IT.NET.SECR.P6,secure_servers_per_1m
+NLD,2018,Netherlands,100581.523830836,IT.NET.SECR.P6,secure_servers_per_1m
+NCL,2024,New Caledonia,7541.71521909247,IT.NET.SECR.P6,secure_servers_per_1m
+NCL,2023,New Caledonia,7648.25611481009,IT.NET.SECR.P6,secure_servers_per_1m
+NCL,2022,New Caledonia,6899.48210348875,IT.NET.SECR.P6,secure_servers_per_1m
+NCL,2021,New Caledonia,6023.54723120183,IT.NET.SECR.P6,secure_servers_per_1m
+NCL,2020,New Caledonia,5471.96103822983,IT.NET.SECR.P6,secure_servers_per_1m
+NCL,2019,New Caledonia,4686.07857379604,IT.NET.SECR.P6,secure_servers_per_1m
+NCL,2018,New Caledonia,3332.85133366956,IT.NET.SECR.P6,secure_servers_per_1m
+NZL,2024,New Zealand,18718.2978723404,IT.NET.SECR.P6,secure_servers_per_1m
+NZL,2023,New Zealand,18993.6538461538,IT.NET.SECR.P6,secure_servers_per_1m
+NZL,2022,New Zealand,18499.3210933349,IT.NET.SECR.P6,secure_servers_per_1m
+NZL,2021,New Zealand,16145.0261574165,IT.NET.SECR.P6,secure_servers_per_1m
+NZL,2020,New Zealand,20581.3815945115,IT.NET.SECR.P6,secure_servers_per_1m
+NZL,2019,New Zealand,20156.9321771322,IT.NET.SECR.P6,secure_servers_per_1m
+NZL,2018,New Zealand,17618.0467697833,IT.NET.SECR.P6,secure_servers_per_1m
+NIC,2024,Nicaragua,93.9830599149236,IT.NET.SECR.P6,secure_servers_per_1m
+NIC,2023,Nicaragua,103.464249804319,IT.NET.SECR.P6,secure_servers_per_1m
+NIC,2022,Nicaragua,95.0873421810124,IT.NET.SECR.P6,secure_servers_per_1m
+NIC,2021,Nicaragua,104.744488912359,IT.NET.SECR.P6,secure_servers_per_1m
+NIC,2020,Nicaragua,92.9132052055156,IT.NET.SECR.P6,secure_servers_per_1m
+NIC,2019,Nicaragua,86.9879452290582,IT.NET.SECR.P6,secure_servers_per_1m
+NIC,2018,Nicaragua,69.9991250109374,IT.NET.SECR.P6,secure_servers_per_1m
+NER,2024,Niger,5.2159607511161,IT.NET.SECR.P6,secure_servers_per_1m
+NER,2023,Niger,4.74008526113684,IT.NET.SECR.P6,secure_servers_per_1m
+NER,2022,Niger,4.18774150873186,IT.NET.SECR.P6,secure_servers_per_1m
+NER,2021,Niger,1.42844665812864,IT.NET.SECR.P6,secure_servers_per_1m
+NER,2020,Niger,1.47569656356228,IT.NET.SECR.P6,secure_servers_per_1m
+NER,2019,Niger,0.87154487473438,IT.NET.SECR.P6,secure_servers_per_1m
+NER,2018,Niger,0.495761934037613,IT.NET.SECR.P6,secure_servers_per_1m
+NGA,2024,Nigeria,98.36277868906,IT.NET.SECR.P6,secure_servers_per_1m
+NGA,2023,Nigeria,47.5989986876815,IT.NET.SECR.P6,secure_servers_per_1m
+NGA,2022,Nigeria,47.0936939460015,IT.NET.SECR.P6,secure_servers_per_1m
+NGA,2021,Nigeria,61.547814694274,IT.NET.SECR.P6,secure_servers_per_1m
+NGA,2020,Nigeria,71.2255701423008,IT.NET.SECR.P6,secure_servers_per_1m
+NGA,2019,Nigeria,71.7758025238589,IT.NET.SECR.P6,secure_servers_per_1m
+NGA,2018,Nigeria,176.062355799907,IT.NET.SECR.P6,secure_servers_per_1m
+MKD,2024,North Macedonia,2068.12365329412,IT.NET.SECR.P6,secure_servers_per_1m
+MKD,2023,North Macedonia,1857.95506768734,IT.NET.SECR.P6,secure_servers_per_1m
+MKD,2022,North Macedonia,1735.53484390559,IT.NET.SECR.P6,secure_servers_per_1m
+MKD,2021,North Macedonia,1546.44730811479,IT.NET.SECR.P6,secure_servers_per_1m
+MKD,2020,North Macedonia,1142.16507086811,IT.NET.SECR.P6,secure_servers_per_1m
+MKD,2019,North Macedonia,766.417483272592,IT.NET.SECR.P6,secure_servers_per_1m
+MKD,2018,North Macedonia,512.426609975062,IT.NET.SECR.P6,secure_servers_per_1m
+MNP,2024,Northern Mariana Islands,1445.41307195447,IT.NET.SECR.P6,secure_servers_per_1m
+MNP,2023,Northern Mariana Islands,2037.96823427774,IT.NET.SECR.P6,secure_servers_per_1m
+MNP,2022,Northern Mariana Islands,2148.53075220279,IT.NET.SECR.P6,secure_servers_per_1m
+MNP,2021,Northern Mariana Islands,2086.03844270844,IT.NET.SECR.P6,secure_servers_per_1m
+MNP,2020,Northern Mariana Islands,1956.74128934523,IT.NET.SECR.P6,secure_servers_per_1m
+MNP,2019,Northern Mariana Islands,1620.64451785826,IT.NET.SECR.P6,secure_servers_per_1m
+MNP,2018,Northern Mariana Islands,285.266010554842,IT.NET.SECR.P6,secure_servers_per_1m
+NOR,2024,Norway,35469.8678942673,IT.NET.SECR.P6,secure_servers_per_1m
+NOR,2023,Norway,37715.0449824181,IT.NET.SECR.P6,secure_servers_per_1m
+NOR,2022,Norway,44150.8874541494,IT.NET.SECR.P6,secure_servers_per_1m
+NOR,2021,Norway,43861.1250813561,IT.NET.SECR.P6,secure_servers_per_1m
+NOR,2020,Norway,39030.0168696759,IT.NET.SECR.P6,secure_servers_per_1m
+NOR,2019,Norway,36180.9578944692,IT.NET.SECR.P6,secure_servers_per_1m
+NOR,2018,Norway,20886.248954238,IT.NET.SECR.P6,secure_servers_per_1m
+OMN,2024,Oman,286.658923972525,IT.NET.SECR.P6,secure_servers_per_1m
+OMN,2023,Oman,279.446391150878,IT.NET.SECR.P6,secure_servers_per_1m
+OMN,2022,Oman,284.341593826595,IT.NET.SECR.P6,secure_servers_per_1m
+OMN,2021,Oman,272.418776541944,IT.NET.SECR.P6,secure_servers_per_1m
+OMN,2020,Oman,263.128974988817,IT.NET.SECR.P6,secure_servers_per_1m
+OMN,2019,Oman,197.767880187514,IT.NET.SECR.P6,secure_servers_per_1m
+OMN,2018,Oman,164.641202885593,IT.NET.SECR.P6,secure_servers_per_1m
+PAK,2024,Pakistan,109.651337877655,IT.NET.SECR.P6,secure_servers_per_1m
+PAK,2023,Pakistan,113.359557368847,IT.NET.SECR.P6,secure_servers_per_1m
+PAK,2022,Pakistan,116.150687433285,IT.NET.SECR.P6,secure_servers_per_1m
+PAK,2021,Pakistan,65.7388698838102,IT.NET.SECR.P6,secure_servers_per_1m
+PAK,2020,Pakistan,69.3313997760681,IT.NET.SECR.P6,secure_servers_per_1m
+PAK,2019,Pakistan,58.7042774040494,IT.NET.SECR.P6,secure_servers_per_1m
+PAK,2018,Pakistan,102.062808291507,IT.NET.SECR.P6,secure_servers_per_1m
+PLW,2024,Palau,1469.3416219271,IT.NET.SECR.P6,secure_servers_per_1m
+PLW,2023,Palau,1353.86698256896,IT.NET.SECR.P6,secure_servers_per_1m
+PLW,2022,Palau,1407.73692212399,IT.NET.SECR.P6,secure_servers_per_1m
+PLW,2021,Palau,1068.43614688185,IT.NET.SECR.P6,secure_servers_per_1m
+PLW,2020,Palau,955.485611510791,IT.NET.SECR.P6,secure_servers_per_1m
+PLW,2019,Palau,730.419148218901,IT.NET.SECR.P6,secure_servers_per_1m
+PLW,2018,Palau,842.034355001684,IT.NET.SECR.P6,secure_servers_per_1m
+PAN,2024,Panama,2234.48741988012,IT.NET.SECR.P6,secure_servers_per_1m
+PAN,2023,Panama,2621.1329206176,IT.NET.SECR.P6,secure_servers_per_1m
+PAN,2022,Panama,2231.65339361971,IT.NET.SECR.P6,secure_servers_per_1m
+PAN,2021,Panama,1548.53230021137,IT.NET.SECR.P6,secure_servers_per_1m
+PAN,2020,Panama,1483.95357282029,IT.NET.SECR.P6,secure_servers_per_1m
+PAN,2019,Panama,1898.36352043828,IT.NET.SECR.P6,secure_servers_per_1m
+PAN,2018,Panama,2146.18533252077,IT.NET.SECR.P6,secure_servers_per_1m
+PNG,2024,Papua New Guinea,88.1198717685677,IT.NET.SECR.P6,secure_servers_per_1m
+PNG,2023,Papua New Guinea,86.3360454914922,IT.NET.SECR.P6,secure_servers_per_1m
+PNG,2022,Papua New Guinea,83.6994859146212,IT.NET.SECR.P6,secure_servers_per_1m
+PNG,2021,Papua New Guinea,85.3898812091926,IT.NET.SECR.P6,secure_servers_per_1m
+PNG,2019,Papua New Guinea,51.8263588028319,IT.NET.SECR.P6,secure_servers_per_1m
+PNG,2018,Papua New Guinea,45.6649535744961,IT.NET.SECR.P6,secure_servers_per_1m
+PRY,2024,Paraguay,775.275131029723,IT.NET.SECR.P6,secure_servers_per_1m
+PRY,2023,Paraguay,643.177395689689,IT.NET.SECR.P6,secure_servers_per_1m
+PRY,2022,Paraguay,626.584210787899,IT.NET.SECR.P6,secure_servers_per_1m
+PRY,2021,Paraguay,625.057785679684,IT.NET.SECR.P6,secure_servers_per_1m
+PRY,2020,Paraguay,513.4969749713,IT.NET.SECR.P6,secure_servers_per_1m
+PRY,2019,Paraguay,376.665871585487,IT.NET.SECR.P6,secure_servers_per_1m
+PRY,2018,Paraguay,268.849743176926,IT.NET.SECR.P6,secure_servers_per_1m
+PER,2024,Peru,826.790743824685,IT.NET.SECR.P6,secure_servers_per_1m
+PER,2023,Peru,749.75734671937,IT.NET.SECR.P6,secure_servers_per_1m
+PER,2022,Peru,701.589027752228,IT.NET.SECR.P6,secure_servers_per_1m
+PER,2021,Peru,597.239427984452,IT.NET.SECR.P6,secure_servers_per_1m
+PER,2020,Peru,457.388853518905,IT.NET.SECR.P6,secure_servers_per_1m
+PER,2019,Peru,385.370372978427,IT.NET.SECR.P6,secure_servers_per_1m
+PER,2018,Peru,258.075972148862,IT.NET.SECR.P6,secure_servers_per_1m
+PHL,2024,Philippines,131.556605552984,IT.NET.SECR.P6,secure_servers_per_1m
+PHL,2023,Philippines,305.497725722229,IT.NET.SECR.P6,secure_servers_per_1m
+PHL,2022,Philippines,100.189236390773,IT.NET.SECR.P6,secure_servers_per_1m
+PHL,2021,Philippines,133.650513103559,IT.NET.SECR.P6,secure_servers_per_1m
+PHL,2020,Philippines,111.026585139154,IT.NET.SECR.P6,secure_servers_per_1m
+PHL,2019,Philippines,108.614542943099,IT.NET.SECR.P6,secure_servers_per_1m
+PHL,2018,Philippines,90.4670354538969,IT.NET.SECR.P6,secure_servers_per_1m
+POL,2024,Poland,41131.8530670488,IT.NET.SECR.P6,secure_servers_per_1m
+POL,2023,Poland,37340.960521191,IT.NET.SECR.P6,secure_servers_per_1m
+POL,2022,Poland,34772.62853538,IT.NET.SECR.P6,secure_servers_per_1m
+POL,2021,Poland,31394.3768568545,IT.NET.SECR.P6,secure_servers_per_1m
+POL,2020,Poland,25438.6771123423,IT.NET.SECR.P6,secure_servers_per_1m
+POL,2019,Poland,20606.063798754,IT.NET.SECR.P6,secure_servers_per_1m
+POL,2018,Poland,16227.0719359574,IT.NET.SECR.P6,secure_servers_per_1m
+PRT,2024,Portugal,28710.2532558007,IT.NET.SECR.P6,secure_servers_per_1m
+PRT,2023,Portugal,28927.204260395,IT.NET.SECR.P6,secure_servers_per_1m
+PRT,2022,Portugal,27622.7553426515,IT.NET.SECR.P6,secure_servers_per_1m
+PRT,2021,Portugal,24123.9217277333,IT.NET.SECR.P6,secure_servers_per_1m
+PRT,2020,Portugal,22178.9068183498,IT.NET.SECR.P6,secure_servers_per_1m
+PRT,2019,Portugal,19150.5894803584,IT.NET.SECR.P6,secure_servers_per_1m
+PRT,2018,Portugal,15977.3282734765,IT.NET.SECR.P6,secure_servers_per_1m
+PRI,2024,Puerto Rico (US),471.077437451125,IT.NET.SECR.P6,secure_servers_per_1m
+PRI,2023,Puerto Rico (US),464.761757317579,IT.NET.SECR.P6,secure_servers_per_1m
+PRI,2022,Puerto Rico (US),502.773639755079,IT.NET.SECR.P6,secure_servers_per_1m
+PRI,2021,Puerto Rico (US),494.374156951075,IT.NET.SECR.P6,secure_servers_per_1m
+PRI,2020,Puerto Rico (US),444.906280187348,IT.NET.SECR.P6,secure_servers_per_1m
+PRI,2019,Puerto Rico (US),407.849235668732,IT.NET.SECR.P6,secure_servers_per_1m
+PRI,2018,Puerto Rico (US),373.477902810657,IT.NET.SECR.P6,secure_servers_per_1m
+QAT,2024,Qatar,445.444117933167,IT.NET.SECR.P6,secure_servers_per_1m
+QAT,2023,Qatar,449.542776593053,IT.NET.SECR.P6,secure_servers_per_1m
+QAT,2022,Qatar,512.543967955841,IT.NET.SECR.P6,secure_servers_per_1m
+QAT,2021,Qatar,532.154847878766,IT.NET.SECR.P6,secure_servers_per_1m
+QAT,2020,Qatar,446.289888724577,IT.NET.SECR.P6,secure_servers_per_1m
+QAT,2019,Qatar,468.041128498323,IT.NET.SECR.P6,secure_servers_per_1m
+QAT,2018,Qatar,427.397786831188,IT.NET.SECR.P6,secure_servers_per_1m
+ROU,2024,Romania,27229.5998846093,IT.NET.SECR.P6,secure_servers_per_1m
+ROU,2023,Romania,26834.6013459271,IT.NET.SECR.P6,secure_servers_per_1m
+ROU,2022,Romania,24738.0607671931,IT.NET.SECR.P6,secure_servers_per_1m
+ROU,2021,Romania,23316.8405138798,IT.NET.SECR.P6,secure_servers_per_1m
+ROU,2020,Romania,21374.339808723,IT.NET.SECR.P6,secure_servers_per_1m
+ROU,2019,Romania,19164.605923048,IT.NET.SECR.P6,secure_servers_per_1m
+ROU,2018,Romania,15938.0958274045,IT.NET.SECR.P6,secure_servers_per_1m
+RUS,2024,Russian Federation,26130.0172319629,IT.NET.SECR.P6,secure_servers_per_1m
+RUS,2023,Russian Federation,23603.5969263721,IT.NET.SECR.P6,secure_servers_per_1m
+RUS,2022,Russian Federation,19939.0332294434,IT.NET.SECR.P6,secure_servers_per_1m
+RUS,2021,Russian Federation,16210.0206428107,IT.NET.SECR.P6,secure_servers_per_1m
+RUS,2020,Russian Federation,13239.9190367447,IT.NET.SECR.P6,secure_servers_per_1m
+RUS,2019,Russian Federation,9269.6974453469,IT.NET.SECR.P6,secure_servers_per_1m
+RUS,2018,Russian Federation,5157.77007439148,IT.NET.SECR.P6,secure_servers_per_1m
+RWA,2024,Rwanda,160.978445933022,IT.NET.SECR.P6,secure_servers_per_1m
+RWA,2023,Rwanda,129.134239484965,IT.NET.SECR.P6,secure_servers_per_1m
+RWA,2022,Rwanda,115.522418454871,IT.NET.SECR.P6,secure_servers_per_1m
+RWA,2021,Rwanda,99.3615998490482,IT.NET.SECR.P6,secure_servers_per_1m
+RWA,2020,Rwanda,81.2041356401431,IT.NET.SECR.P6,secure_servers_per_1m
+RWA,2019,Rwanda,70.4440156752024,IT.NET.SECR.P6,secure_servers_per_1m
+RWA,2018,Rwanda,35.954527852187,IT.NET.SECR.P6,secure_servers_per_1m
+WSM,2024,Samoa,605.451818419496,IT.NET.SECR.P6,secure_servers_per_1m
+WSM,2023,Samoa,618.472004910852,IT.NET.SECR.P6,secure_servers_per_1m
+WSM,2022,Samoa,566.753847654708,IT.NET.SECR.P6,secure_servers_per_1m
+WSM,2021,Samoa,575.360535880512,IT.NET.SECR.P6,secure_servers_per_1m
+WSM,2020,Samoa,481.25920054354,IT.NET.SECR.P6,secure_servers_per_1m
+WSM,2019,Samoa,443.321574983316,IT.NET.SECR.P6,secure_servers_per_1m
+WSM,2018,Samoa,505.824204410787,IT.NET.SECR.P6,secure_servers_per_1m
+SMR,2024,San Marino,36024.3694263767,IT.NET.SECR.P6,secure_servers_per_1m
+SMR,2023,San Marino,32339.0431187242,IT.NET.SECR.P6,secure_servers_per_1m
+SMR,2022,San Marino,37712.9314175678,IT.NET.SECR.P6,secure_servers_per_1m
+SMR,2021,San Marino,37895.5973373818,IT.NET.SECR.P6,secure_servers_per_1m
+SMR,2020,San Marino,94247.9148691401,IT.NET.SECR.P6,secure_servers_per_1m
+SMR,2019,San Marino,73017.3383723278,IT.NET.SECR.P6,secure_servers_per_1m
+SMR,2018,San Marino,57992.0050981982,IT.NET.SECR.P6,secure_servers_per_1m
+STP,2024,Sao Tome and Principe,42.4563548671965,IT.NET.SECR.P6,secure_servers_per_1m
+STP,2023,Sao Tome and Principe,38.9828085814156,IT.NET.SECR.P6,secure_servers_per_1m
+STP,2022,Sao Tome and Principe,30.9317072092972,IT.NET.SECR.P6,secure_servers_per_1m
+STP,2021,Sao Tome and Principe,40.5476637787719,IT.NET.SECR.P6,secure_servers_per_1m
+STP,2020,Sao Tome and Principe,32.1935291006508,IT.NET.SECR.P6,secure_servers_per_1m
+STP,2019,Sao Tome and Principe,60.9207467946315,IT.NET.SECR.P6,secure_servers_per_1m
+STP,2018,Sao Tome and Principe,57.0920180601084,IT.NET.SECR.P6,secure_servers_per_1m
+SAU,2024,Saudi Arabia,482.77237461006,IT.NET.SECR.P6,secure_servers_per_1m
+SAU,2023,Saudi Arabia,425.544149523076,IT.NET.SECR.P6,secure_servers_per_1m
+SAU,2022,Saudi Arabia,323.758429778142,IT.NET.SECR.P6,secure_servers_per_1m
+SAU,2021,Saudi Arabia,306.45408745077,IT.NET.SECR.P6,secure_servers_per_1m
+SAU,2020,Saudi Arabia,252.816653889025,IT.NET.SECR.P6,secure_servers_per_1m
+SAU,2019,Saudi Arabia,208.090800500629,IT.NET.SECR.P6,secure_servers_per_1m
+SAU,2018,Saudi Arabia,180.320218903778,IT.NET.SECR.P6,secure_servers_per_1m
+SEN,2024,Senegal,59.615228291193,IT.NET.SECR.P6,secure_servers_per_1m
+SEN,2023,Senegal,46.1898286899464,IT.NET.SECR.P6,secure_servers_per_1m
+SEN,2022,Senegal,44.5864487901974,IT.NET.SECR.P6,secure_servers_per_1m
+SEN,2021,Senegal,40.9967744365019,IT.NET.SECR.P6,secure_servers_per_1m
+SEN,2020,Senegal,26.2668561295198,IT.NET.SECR.P6,secure_servers_per_1m
+SEN,2019,Senegal,19.3237636674351,IT.NET.SECR.P6,secure_servers_per_1m
+SEN,2018,Senegal,17.0913339522239,IT.NET.SECR.P6,secure_servers_per_1m
+SRB,2024,Serbia,12941.8220001105,IT.NET.SECR.P6,secure_servers_per_1m
+SRB,2023,Serbia,12647.8462092924,IT.NET.SECR.P6,secure_servers_per_1m
+SRB,2022,Serbia,11871.1989543322,IT.NET.SECR.P6,secure_servers_per_1m
+SRB,2021,Serbia,11213.541759641,IT.NET.SECR.P6,secure_servers_per_1m
+SRB,2020,Serbia,9361.18575019503,IT.NET.SECR.P6,secure_servers_per_1m
+SRB,2019,Serbia,8071.86509887714,IT.NET.SECR.P6,secure_servers_per_1m
+SRB,2018,Serbia,6899.71821400727,IT.NET.SECR.P6,secure_servers_per_1m
+SYC,2024,Seychelles,139583.367668144,IT.NET.SECR.P6,secure_servers_per_1m
+SYC,2023,Seychelles,52607.8498492983,IT.NET.SECR.P6,secure_servers_per_1m
+SYC,2022,Seychelles,51769.2987871002,IT.NET.SECR.P6,secure_servers_per_1m
+SYC,2021,Seychelles,70372.161437869,IT.NET.SECR.P6,secure_servers_per_1m
+SYC,2020,Seychelles,61109.8697974853,IT.NET.SECR.P6,secure_servers_per_1m
+SYC,2019,Seychelles,96419.9743918054,IT.NET.SECR.P6,secure_servers_per_1m
+SYC,2018,Seychelles,264256.629668672,IT.NET.SECR.P6,secure_servers_per_1m
+SLE,2024,Sierra Leone,11.339938731931,IT.NET.SECR.P6,secure_servers_per_1m
+SLE,2023,Sierra Leone,13.356165678862,IT.NET.SECR.P6,secure_servers_per_1m
+SLE,2022,Sierra Leone,11.357036596359,IT.NET.SECR.P6,secure_servers_per_1m
+SLE,2021,Sierra Leone,10.130207760678,IT.NET.SECR.P6,secure_servers_per_1m
+SLE,2020,Sierra Leone,6.57183176413999,IT.NET.SECR.P6,secure_servers_per_1m
+SLE,2019,Sierra Leone,5.30264455817395,IT.NET.SECR.P6,secure_servers_per_1m
+SGP,2024,Singapore,209665.455220098,IT.NET.SECR.P6,secure_servers_per_1m
+SGP,2023,Singapore,228648.442759691,IT.NET.SECR.P6,secure_servers_per_1m
+SGP,2022,Singapore,212649.338604675,IT.NET.SECR.P6,secure_servers_per_1m
+SGP,2021,Singapore,176692.094677134,IT.NET.SECR.P6,secure_servers_per_1m
+SGP,2020,Singapore,128377.730724944,IT.NET.SECR.P6,secure_servers_per_1m
+SGP,2019,Singapore,122481.379641414,IT.NET.SECR.P6,secure_servers_per_1m
+SGP,2018,Singapore,84713.8583596575,IT.NET.SECR.P6,secure_servers_per_1m
+SXM,2024,Sint Maarten (Dutch part),1222.60668973472,IT.NET.SECR.P6,secure_servers_per_1m
+SXM,2023,Sint Maarten (Dutch part),1216.40272287071,IT.NET.SECR.P6,secure_servers_per_1m
+SXM,2022,Sint Maarten (Dutch part),1020.43237855668,IT.NET.SECR.P6,secure_servers_per_1m
+SXM,2021,Sint Maarten (Dutch part),1178.70630968704,IT.NET.SECR.P6,secure_servers_per_1m
+SXM,2020,Sint Maarten (Dutch part),999.804916113929,IT.NET.SECR.P6,secure_servers_per_1m
+SXM,2019,Sint Maarten (Dutch part),817.135074904049,IT.NET.SECR.P6,secure_servers_per_1m
+SXM,2018,Sint Maarten (Dutch part),805.8017727639,IT.NET.SECR.P6,secure_servers_per_1m
+SVK,2024,Slovak Republic,43287.3502716398,IT.NET.SECR.P6,secure_servers_per_1m
+SVK,2023,Slovak Republic,39911.9913612961,IT.NET.SECR.P6,secure_servers_per_1m
+SVK,2022,Slovak Republic,36900.6169648393,IT.NET.SECR.P6,secure_servers_per_1m
+SVK,2021,Slovak Republic,31322.794798914,IT.NET.SECR.P6,secure_servers_per_1m
+SVK,2020,Slovak Republic,25918.3886941279,IT.NET.SECR.P6,secure_servers_per_1m
+SVK,2019,Slovak Republic,20091.3176707558,IT.NET.SECR.P6,secure_servers_per_1m
+SVK,2018,Slovak Republic,12993.3863567974,IT.NET.SECR.P6,secure_servers_per_1m
+SVN,2024,Slovenia,68783.4915859735,IT.NET.SECR.P6,secure_servers_per_1m
+SVN,2023,Slovenia,63978.5405154822,IT.NET.SECR.P6,secure_servers_per_1m
+SVN,2022,Slovenia,61863.7776292141,IT.NET.SECR.P6,secure_servers_per_1m
+SVN,2021,Slovenia,55445.2655711669,IT.NET.SECR.P6,secure_servers_per_1m
+SVN,2020,Slovenia,49112.4747255423,IT.NET.SECR.P6,secure_servers_per_1m
+SVN,2019,Slovenia,42529.9932723133,IT.NET.SECR.P6,secure_servers_per_1m
+SVN,2018,Slovenia,33018.0809626721,IT.NET.SECR.P6,secure_servers_per_1m
+SLB,2024,Solomon Islands,80.566602945808,IT.NET.SECR.P6,secure_servers_per_1m
+SLB,2023,Solomon Islands,78.7495078155762,IT.NET.SECR.P6,secure_servers_per_1m
+SLB,2022,Solomon Islands,83.2195998801638,IT.NET.SECR.P6,secure_servers_per_1m
+SLB,2021,Solomon Islands,93.1036427128041,IT.NET.SECR.P6,secure_servers_per_1m
+SLB,2020,Solomon Islands,57.7570389712262,IT.NET.SECR.P6,secure_servers_per_1m
+SLB,2019,Solomon Islands,52.1872643848014,IT.NET.SECR.P6,secure_servers_per_1m
+SLB,2018,Solomon Islands,39.4866175622373,IT.NET.SECR.P6,secure_servers_per_1m
+SOM,2024,"Somalia, Fed. Rep.",13.9932604038971,IT.NET.SECR.P6,secure_servers_per_1m
+SOM,2023,"Somalia, Fed. Rep.",10.0770128901336,IT.NET.SECR.P6,secure_servers_per_1m
+SOM,2022,"Somalia, Fed. Rep.",5.61737886698255,IT.NET.SECR.P6,secure_servers_per_1m
+SOM,2021,"Somalia, Fed. Rep.",5.26881646344185,IT.NET.SECR.P6,secure_servers_per_1m
+SOM,2020,"Somalia, Fed. Rep.",4.26395925672824,IT.NET.SECR.P6,secure_servers_per_1m
+SOM,2019,"Somalia, Fed. Rep.",8.2340614302153,IT.NET.SECR.P6,secure_servers_per_1m
+SOM,2018,"Somalia, Fed. Rep.",4.20644262635523,IT.NET.SECR.P6,secure_servers_per_1m
+ZAF,2024,South Africa,16658.2387068502,IT.NET.SECR.P6,secure_servers_per_1m
+ZAF,2023,South Africa,14786.991738834,IT.NET.SECR.P6,secure_servers_per_1m
+ZAF,2022,South Africa,14989.9460406253,IT.NET.SECR.P6,secure_servers_per_1m
+ZAF,2021,South Africa,16057.5805222423,IT.NET.SECR.P6,secure_servers_per_1m
+ZAF,2020,South Africa,14123.2723330346,IT.NET.SECR.P6,secure_servers_per_1m
+ZAF,2019,South Africa,14105.098712599,IT.NET.SECR.P6,secure_servers_per_1m
+ZAF,2018,South Africa,11863.1700840569,IT.NET.SECR.P6,secure_servers_per_1m
+SSD,2024,South Sudan,5.2748763167096,IT.NET.SECR.P6,secure_servers_per_1m
+SSD,2023,South Sudan,3.83162648886991,IT.NET.SECR.P6,secure_servers_per_1m
+SSD,2022,South Sudan,5.26259581894021,IT.NET.SECR.P6,secure_servers_per_1m
+SSD,2021,South Sudan,4.04941016659642,IT.NET.SECR.P6,secure_servers_per_1m
+SSD,2020,South Sudan,4.29968144034094,IT.NET.SECR.P6,secure_servers_per_1m
+SSD,2019,South Sudan,3.64564905216962,IT.NET.SECR.P6,secure_servers_per_1m
+SSD,2018,South Sudan,1.48177754429354,IT.NET.SECR.P6,secure_servers_per_1m
+ESP,2024,Spain,29986.3824811398,IT.NET.SECR.P6,secure_servers_per_1m
+ESP,2023,Spain,28733.8233897512,IT.NET.SECR.P6,secure_servers_per_1m
+ESP,2022,Spain,27046.3366105902,IT.NET.SECR.P6,secure_servers_per_1m
+ESP,2021,Spain,24984.2229191447,IT.NET.SECR.P6,secure_servers_per_1m
+ESP,2020,Spain,21589.3884182375,IT.NET.SECR.P6,secure_servers_per_1m
+ESP,2019,Spain,17700.6267665434,IT.NET.SECR.P6,secure_servers_per_1m
+ESP,2018,Spain,11306.5682447896,IT.NET.SECR.P6,secure_servers_per_1m
+LKA,2024,Sri Lanka,448.71326884468,IT.NET.SECR.P6,secure_servers_per_1m
+LKA,2023,Sri Lanka,482.370558605981,IT.NET.SECR.P6,secure_servers_per_1m
+LKA,2022,Sri Lanka,486.542536405031,IT.NET.SECR.P6,secure_servers_per_1m
+LKA,2021,Sri Lanka,482.487813684781,IT.NET.SECR.P6,secure_servers_per_1m
+LKA,2020,Sri Lanka,384.232857338382,IT.NET.SECR.P6,secure_servers_per_1m
+LKA,2019,Sri Lanka,328.441040223822,IT.NET.SECR.P6,secure_servers_per_1m
+LKA,2018,Sri Lanka,412.413474850023,IT.NET.SECR.P6,secure_servers_per_1m
+KNA,2024,St. Kitts and Nevis,11720.0008539163,IT.NET.SECR.P6,secure_servers_per_1m
+KNA,2023,St. Kitts and Nevis,8233.88511056931,IT.NET.SECR.P6,secure_servers_per_1m
+KNA,2022,St. Kitts and Nevis,9398.6169688925,IT.NET.SECR.P6,secure_servers_per_1m
+KNA,2021,St. Kitts and Nevis,7420.39646729252,IT.NET.SECR.P6,secure_servers_per_1m
+KNA,2020,St. Kitts and Nevis,7062.08662257307,IT.NET.SECR.P6,secure_servers_per_1m
+KNA,2019,St. Kitts and Nevis,6155.22235474527,IT.NET.SECR.P6,secure_servers_per_1m
+KNA,2018,St. Kitts and Nevis,4977.87610619469,IT.NET.SECR.P6,secure_servers_per_1m
+LCA,2024,St. Lucia,734.377781734022,IT.NET.SECR.P6,secure_servers_per_1m
+LCA,2023,St. Lucia,702.791644588225,IT.NET.SECR.P6,secure_servers_per_1m
+LCA,2022,St. Lucia,721.553185181871,IT.NET.SECR.P6,secure_servers_per_1m
+LCA,2021,St. Lucia,352.897682078399,IT.NET.SECR.P6,secure_servers_per_1m
+LCA,2020,St. Lucia,387.096774193548,IT.NET.SECR.P6,secure_servers_per_1m
+LCA,2019,St. Lucia,309.578354281469,IT.NET.SECR.P6,secure_servers_per_1m
+LCA,2018,St. Lucia,259.862047148014,IT.NET.SECR.P6,secure_servers_per_1m
+MAF,2024,St. Martin (French part),2411.11408779517,IT.NET.SECR.P6,secure_servers_per_1m
+MAF,2023,St. Martin (French part),1272.03343630747,IT.NET.SECR.P6,secure_servers_per_1m
+MAF,2022,St. Martin (French part),1039.14097679252,IT.NET.SECR.P6,secure_servers_per_1m
+MAF,2021,St. Martin (French part),467.274123026601,IT.NET.SECR.P6,secure_servers_per_1m
+MAF,2020,St. Martin (French part),471.905870509029,IT.NET.SECR.P6,secure_servers_per_1m
+MAF,2018,St. Martin (French part),305.453737643008,IT.NET.SECR.P6,secure_servers_per_1m
+VCT,2024,St. Vincent and the Grenadines,268.346982587262,IT.NET.SECR.P6,secure_servers_per_1m
+VCT,2023,St. Vincent and the Grenadines,167.780267066707,IT.NET.SECR.P6,secure_servers_per_1m
+VCT,2022,St. Vincent and the Grenadines,225.388550261647,IT.NET.SECR.P6,secure_servers_per_1m
+VCT,2021,St. Vincent and the Grenadines,194.474966209975,IT.NET.SECR.P6,secure_servers_per_1m
+VCT,2020,St. Vincent and the Grenadines,135.23172922744,IT.NET.SECR.P6,secure_servers_per_1m
+VCT,2019,St. Vincent and the Grenadines,95.999692800983,IT.NET.SECR.P6,secure_servers_per_1m
+VCT,2018,St. Vincent and the Grenadines,95.3052627566094,IT.NET.SECR.P6,secure_servers_per_1m
+SDN,2024,Sudan,2.3984635719866,IT.NET.SECR.P6,secure_servers_per_1m
+SDN,2023,Sudan,2.13817011125539,IT.NET.SECR.P6,secure_servers_per_1m
+SDN,2022,Sudan,9.45662936650749,IT.NET.SECR.P6,secure_servers_per_1m
+SDN,2021,Sudan,8.50896970232587,IT.NET.SECR.P6,secure_servers_per_1m
+SDN,2020,Sudan,6.02702788596803,IT.NET.SECR.P6,secure_servers_per_1m
+SDN,2019,Sudan,4.03967886748481,IT.NET.SECR.P6,secure_servers_per_1m
+SDN,2018,Sudan,4.36349535059396,IT.NET.SECR.P6,secure_servers_per_1m
+SUR,2024,Suriname,2060.11370818891,IT.NET.SECR.P6,secure_servers_per_1m
+SUR,2023,Suriname,1388.1689209173,IT.NET.SECR.P6,secure_servers_per_1m
+SUR,2022,Suriname,3926.73517725671,IT.NET.SECR.P6,secure_servers_per_1m
+SUR,2021,Suriname,5297.00791071637,IT.NET.SECR.P6,secure_servers_per_1m
+SUR,2020,Suriname,6800.39913966132,IT.NET.SECR.P6,secure_servers_per_1m
+SUR,2019,Suriname,505.143883466938,IT.NET.SECR.P6,secure_servers_per_1m
+SUR,2018,Suriname,280.22745128129,IT.NET.SECR.P6,secure_servers_per_1m
+SWE,2024,Sweden,55097.2595366627,IT.NET.SECR.P6,secure_servers_per_1m
+SWE,2023,Sweden,52996.3464606147,IT.NET.SECR.P6,secure_servers_per_1m
+SWE,2022,Sweden,45805.4450768818,IT.NET.SECR.P6,secure_servers_per_1m
+SWE,2021,Sweden,38601.5068821813,IT.NET.SECR.P6,secure_servers_per_1m
+SWE,2020,Sweden,32739.7400787101,IT.NET.SECR.P6,secure_servers_per_1m
+SWE,2019,Sweden,25688.2870684346,IT.NET.SECR.P6,secure_servers_per_1m
+SWE,2018,Sweden,18608.4538369414,IT.NET.SECR.P6,secure_servers_per_1m
+CHE,2024,Switzerland,167357.645513638,IT.NET.SECR.P6,secure_servers_per_1m
+CHE,2023,Switzerland,163621.681253151,IT.NET.SECR.P6,secure_servers_per_1m
+CHE,2022,Switzerland,151274.203927316,IT.NET.SECR.P6,secure_servers_per_1m
+CHE,2021,Switzerland,140348.158307165,IT.NET.SECR.P6,secure_servers_per_1m
+CHE,2020,Switzerland,120002.310675401,IT.NET.SECR.P6,secure_servers_per_1m
+CHE,2019,Switzerland,95783.2280695208,IT.NET.SECR.P6,secure_servers_per_1m
+CHE,2018,Switzerland,68154.7541796893,IT.NET.SECR.P6,secure_servers_per_1m
+SYR,2024,Syrian Arab Republic,113.89078481694,IT.NET.SECR.P6,secure_servers_per_1m
+SYR,2023,Syrian Arab Republic,93.2839655882614,IT.NET.SECR.P6,secure_servers_per_1m
+SYR,2022,Syrian Arab Republic,78.9327016580275,IT.NET.SECR.P6,secure_servers_per_1m
+SYR,2021,Syrian Arab Republic,46.4195049951595,IT.NET.SECR.P6,secure_servers_per_1m
+SYR,2020,Syrian Arab Republic,32.589957665835,IT.NET.SECR.P6,secure_servers_per_1m
+SYR,2019,Syrian Arab Republic,18.9647655291705,IT.NET.SECR.P6,secure_servers_per_1m
+SYR,2018,Syrian Arab Republic,16.4982407410009,IT.NET.SECR.P6,secure_servers_per_1m
+TJK,2024,Tajikistan,152.489012529309,IT.NET.SECR.P6,secure_servers_per_1m
+TJK,2023,Tajikistan,123.775253015001,IT.NET.SECR.P6,secure_servers_per_1m
+TJK,2022,Tajikistan,100.371019213684,IT.NET.SECR.P6,secure_servers_per_1m
+TJK,2021,Tajikistan,100.532682753769,IT.NET.SECR.P6,secure_servers_per_1m
+TJK,2020,Tajikistan,90.2627980851978,IT.NET.SECR.P6,secure_servers_per_1m
+TJK,2019,Tajikistan,69.5700278468989,IT.NET.SECR.P6,secure_servers_per_1m
+TJK,2018,Tajikistan,26.753098873759,IT.NET.SECR.P6,secure_servers_per_1m
+TZA,2024,Tanzania,52.4065310993964,IT.NET.SECR.P6,secure_servers_per_1m
+TZA,2023,Tanzania,52.5836968683624,IT.NET.SECR.P6,secure_servers_per_1m
+TZA,2022,Tanzania,43.9332405743921,IT.NET.SECR.P6,secure_servers_per_1m
+TZA,2021,Tanzania,35.8743469643331,IT.NET.SECR.P6,secure_servers_per_1m
+TZA,2020,Tanzania,37.4101250856161,IT.NET.SECR.P6,secure_servers_per_1m
+TZA,2019,Tanzania,38.327066795949,IT.NET.SECR.P6,secure_servers_per_1m
+TZA,2018,Tanzania,26.7596866104678,IT.NET.SECR.P6,secure_servers_per_1m
+THA,2024,Thailand,3149.99672587537,IT.NET.SECR.P6,secure_servers_per_1m
+THA,2023,Thailand,3002.53401436088,IT.NET.SECR.P6,secure_servers_per_1m
+THA,2022,Thailand,2746.24794708894,IT.NET.SECR.P6,secure_servers_per_1m
+THA,2021,Thailand,2134.31889534104,IT.NET.SECR.P6,secure_servers_per_1m
+THA,2020,Thailand,1859.02067578611,IT.NET.SECR.P6,secure_servers_per_1m
+THA,2019,Thailand,1366.58132681497,IT.NET.SECR.P6,secure_servers_per_1m
+THA,2018,Thailand,927.831858065501,IT.NET.SECR.P6,secure_servers_per_1m
+TLS,2024,Timor-Leste,264.879290723228,IT.NET.SECR.P6,secure_servers_per_1m
+TLS,2023,Timor-Leste,240.557225891181,IT.NET.SECR.P6,secure_servers_per_1m
+TLS,2022,Timor-Leste,211.787817818659,IT.NET.SECR.P6,secure_servers_per_1m
+TLS,2021,Timor-Leste,118.506316757015,IT.NET.SECR.P6,secure_servers_per_1m
+TLS,2020,Timor-Leste,89.7400028505648,IT.NET.SECR.P6,secure_servers_per_1m
+TLS,2019,Timor-Leste,37.664928186818,IT.NET.SECR.P6,secure_servers_per_1m
+TLS,2018,Timor-Leste,28.997796951156,IT.NET.SECR.P6,secure_servers_per_1m
+TGO,2024,Togo,90.0660792858947,IT.NET.SECR.P6,secure_servers_per_1m
+TGO,2023,Togo,91.4627232440098,IT.NET.SECR.P6,secure_servers_per_1m
+TGO,2022,Togo,80.6403880947944,IT.NET.SECR.P6,secure_servers_per_1m
+TGO,2021,Togo,25.1171976325859,IT.NET.SECR.P6,secure_servers_per_1m
+TGO,2020,Togo,25.2603313601823,IT.NET.SECR.P6,secure_servers_per_1m
+TGO,2019,Togo,18.7875129917425,IT.NET.SECR.P6,secure_servers_per_1m
+TGO,2018,Togo,7.38608060417655,IT.NET.SECR.P6,secure_servers_per_1m
+TON,2024,Tonga,969.522438204944,IT.NET.SECR.P6,secure_servers_per_1m
+TON,2023,Tonga,879.566335554557,IT.NET.SECR.P6,secure_servers_per_1m
+TON,2022,Tonga,780.64012490242,IT.NET.SECR.P6,secure_servers_per_1m
+TON,2021,Tonga,692.008721205802,IT.NET.SECR.P6,secure_servers_per_1m
+TON,2020,Tonga,558.162415802619,IT.NET.SECR.P6,secure_servers_per_1m
+TON,2019,Tonga,227.124322175851,IT.NET.SECR.P6,secure_servers_per_1m
+TON,2018,Tonga,170.507829151155,IT.NET.SECR.P6,secure_servers_per_1m
+TTO,2024,Trinidad and Tobago,480.146280181798,IT.NET.SECR.P6,secure_servers_per_1m
+TTO,2023,Trinidad and Tobago,428.516062039766,IT.NET.SECR.P6,secure_servers_per_1m
+TTO,2022,Trinidad and Tobago,401.960748423091,IT.NET.SECR.P6,secure_servers_per_1m
+TTO,2021,Trinidad and Tobago,348.796906602864,IT.NET.SECR.P6,secure_servers_per_1m
+TTO,2020,Trinidad and Tobago,348.277817410232,IT.NET.SECR.P6,secure_servers_per_1m
+TTO,2019,Trinidad and Tobago,319.651609071947,IT.NET.SECR.P6,secure_servers_per_1m
+TTO,2018,Trinidad and Tobago,287.670698716076,IT.NET.SECR.P6,secure_servers_per_1m
+TUN,2024,Tunisia,912.34833868462,IT.NET.SECR.P6,secure_servers_per_1m
+TUN,2023,Tunisia,818.331745821111,IT.NET.SECR.P6,secure_servers_per_1m
+TUN,2022,Tunisia,739.562091448259,IT.NET.SECR.P6,secure_servers_per_1m
+TUN,2021,Tunisia,413.491268960052,IT.NET.SECR.P6,secure_servers_per_1m
+TUN,2020,Tunisia,324.200895318938,IT.NET.SECR.P6,secure_servers_per_1m
+TUN,2019,Tunisia,266.861337619508,IT.NET.SECR.P6,secure_servers_per_1m
+TUN,2018,Tunisia,310.823649523514,IT.NET.SECR.P6,secure_servers_per_1m
+TUR,2024,Turkiye,11103.4011629345,IT.NET.SECR.P6,secure_servers_per_1m
+TUR,2023,Turkiye,9881.98609883873,IT.NET.SECR.P6,secure_servers_per_1m
+TUR,2022,Turkiye,9166.00138199718,IT.NET.SECR.P6,secure_servers_per_1m
+TUR,2021,Turkiye,7755.87404936661,IT.NET.SECR.P6,secure_servers_per_1m
+TUR,2020,Turkiye,6837.08326277681,IT.NET.SECR.P6,secure_servers_per_1m
+TUR,2019,Turkiye,5494.176274385,IT.NET.SECR.P6,secure_servers_per_1m
+TUR,2018,Turkiye,4383.72751384509,IT.NET.SECR.P6,secure_servers_per_1m
+TKM,2024,Turkmenistan,188.271449268517,IT.NET.SECR.P6,secure_servers_per_1m
+TKM,2023,Turkmenistan,138.775015826055,IT.NET.SECR.P6,secure_servers_per_1m
+TKM,2022,Turkmenistan,103.455052997894,IT.NET.SECR.P6,secure_servers_per_1m
+TKM,2021,Turkmenistan,87.7039239609799,IT.NET.SECR.P6,secure_servers_per_1m
+TKM,2020,Turkmenistan,41.1516001929233,IT.NET.SECR.P6,secure_servers_per_1m
+TKM,2019,Turkmenistan,17.4898558835875,IT.NET.SECR.P6,secure_servers_per_1m
+TKM,2018,Turkmenistan,5.25878954083856,IT.NET.SECR.P6,secure_servers_per_1m
+TCA,2024,Turks and Caicos Islands,859.568067046309,IT.NET.SECR.P6,secure_servers_per_1m
+TCA,2023,Turks and Caicos Islands,735.962595783367,IT.NET.SECR.P6,secure_servers_per_1m
+TCA,2022,Turks and Caicos Islands,676.162017143979,IT.NET.SECR.P6,secure_servers_per_1m
+TCA,2021,Turks and Caicos Islands,640.983135512676,IT.NET.SECR.P6,secure_servers_per_1m
+TCA,2020,Turks and Caicos Islands,675.888793763799,IT.NET.SECR.P6,secure_servers_per_1m
+TCA,2019,Turks and Caicos Islands,671.825047491081,IT.NET.SECR.P6,secure_servers_per_1m
+TCA,2018,Turks and Caicos Islands,673.74094660603,IT.NET.SECR.P6,secure_servers_per_1m
+TUV,2024,Tuvalu,311.009744972009,IT.NET.SECR.P6,secure_servers_per_1m
+TUV,2023,Tuvalu,509.372453137734,IT.NET.SECR.P6,secure_servers_per_1m
+TUV,2022,Tuvalu,500.400320256205,IT.NET.SECR.P6,secure_servers_per_1m
+TUV,2021,Tuvalu,588.581518540318,IT.NET.SECR.P6,secure_servers_per_1m
+TUV,2020,Tuvalu,288.489277815175,IT.NET.SECR.P6,secure_servers_per_1m
+TUV,2019,Tuvalu,94.5090256119459,IT.NET.SECR.P6,secure_servers_per_1m
+TUV,2018,Tuvalu,93.014603292717,IT.NET.SECR.P6,secure_servers_per_1m
+UGA,2024,Uganda,53.7637719430767,IT.NET.SECR.P6,secure_servers_per_1m
+UGA,2023,Uganda,51.6271163289848,IT.NET.SECR.P6,secure_servers_per_1m
+UGA,2022,Uganda,43.8571285662107,IT.NET.SECR.P6,secure_servers_per_1m
+UGA,2021,Uganda,34.4144629612164,IT.NET.SECR.P6,secure_servers_per_1m
+UGA,2020,Uganda,35.3823834689186,IT.NET.SECR.P6,secure_servers_per_1m
+UGA,2019,Uganda,22.6280979999901,IT.NET.SECR.P6,secure_servers_per_1m
+UGA,2018,Uganda,20.7863040197608,IT.NET.SECR.P6,secure_servers_per_1m
+UKR,2024,Ukraine,9936.86751062547,IT.NET.SECR.P6,secure_servers_per_1m
+UKR,2023,Ukraine,9888.25753781136,IT.NET.SECR.P6,secure_servers_per_1m
+UKR,2022,Ukraine,8917.22299276914,IT.NET.SECR.P6,secure_servers_per_1m
+UKR,2021,Ukraine,9534.33333393531,IT.NET.SECR.P6,secure_servers_per_1m
+UKR,2020,Ukraine,8842.70089978038,IT.NET.SECR.P6,secure_servers_per_1m
+UKR,2019,Ukraine,7767.05391127764,IT.NET.SECR.P6,secure_servers_per_1m
+UKR,2018,Ukraine,5949.6240420057,IT.NET.SECR.P6,secure_servers_per_1m
+ARE,2024,United Arab Emirates,4192.27408432243,IT.NET.SECR.P6,secure_servers_per_1m
+ARE,2023,United Arab Emirates,2119.66117852284,IT.NET.SECR.P6,secure_servers_per_1m
+ARE,2022,United Arab Emirates,1626.60420961755,IT.NET.SECR.P6,secure_servers_per_1m
+ARE,2021,United Arab Emirates,2580.22013645319,IT.NET.SECR.P6,secure_servers_per_1m
+ARE,2020,United Arab Emirates,1478.66650469874,IT.NET.SECR.P6,secure_servers_per_1m
+ARE,2019,United Arab Emirates,1977.81338448843,IT.NET.SECR.P6,secure_servers_per_1m
+ARE,2018,United Arab Emirates,1529.09566701663,IT.NET.SECR.P6,secure_servers_per_1m
+GBR,2024,United Kingdom,68449.1953890157,IT.NET.SECR.P6,secure_servers_per_1m
+GBR,2023,United Kingdom,47354.4501547626,IT.NET.SECR.P6,secure_servers_per_1m
+GBR,2022,United Kingdom,44420.8922548962,IT.NET.SECR.P6,secure_servers_per_1m
+GBR,2021,United Kingdom,44113.2061387794,IT.NET.SECR.P6,secure_servers_per_1m
+GBR,2020,United Kingdom,36636.6265132446,IT.NET.SECR.P6,secure_servers_per_1m
+GBR,2019,United Kingdom,36099.3681619667,IT.NET.SECR.P6,secure_servers_per_1m
+GBR,2018,United Kingdom,27332.2874081673,IT.NET.SECR.P6,secure_servers_per_1m
+USA,2024,United States,196554.134852003,IT.NET.SECR.P6,secure_servers_per_1m
+USA,2023,United States,186692.908896926,IT.NET.SECR.P6,secure_servers_per_1m
+USA,2022,United States,180213.052484185,IT.NET.SECR.P6,secure_servers_per_1m
+USA,2021,United States,156949.432905341,IT.NET.SECR.P6,secure_servers_per_1m
+USA,2020,United States,140775.773474768,IT.NET.SECR.P6,secure_servers_per_1m
+USA,2019,United States,123268.08312533,IT.NET.SECR.P6,secure_servers_per_1m
+USA,2018,United States,65494.8762801956,IT.NET.SECR.P6,secure_servers_per_1m
+URY,2024,Uruguay,4640.65897593684,IT.NET.SECR.P6,secure_servers_per_1m
+URY,2023,Uruguay,4353.20170916811,IT.NET.SECR.P6,secure_servers_per_1m
+URY,2022,Uruguay,4678.38602759788,IT.NET.SECR.P6,secure_servers_per_1m
+URY,2021,Uruguay,2491.53957008209,IT.NET.SECR.P6,secure_servers_per_1m
+URY,2020,Uruguay,1964.41978859466,IT.NET.SECR.P6,secure_servers_per_1m
+URY,2019,Uruguay,1843.2794478757,IT.NET.SECR.P6,secure_servers_per_1m
+URY,2018,Uruguay,1600.21964723287,IT.NET.SECR.P6,secure_servers_per_1m
+UZB,2024,Uzbekistan,966.617245834433,IT.NET.SECR.P6,secure_servers_per_1m
+UZB,2023,Uzbekistan,823.873753807853,IT.NET.SECR.P6,secure_servers_per_1m
+UZB,2022,Uzbekistan,733.565156714046,IT.NET.SECR.P6,secure_servers_per_1m
+UZB,2021,Uzbekistan,595.02922815341,IT.NET.SECR.P6,secure_servers_per_1m
+UZB,2020,Uzbekistan,477.693750310394,IT.NET.SECR.P6,secure_servers_per_1m
+UZB,2019,Uzbekistan,460.977941222643,IT.NET.SECR.P6,secure_servers_per_1m
+UZB,2018,Uzbekistan,283.966912433599,IT.NET.SECR.P6,secure_servers_per_1m
+VUT,2024,Vanuatu,1918.98760437737,IT.NET.SECR.P6,secure_servers_per_1m
+VUT,2023,Vanuatu,1635.4097419236,IT.NET.SECR.P6,secure_servers_per_1m
+VUT,2022,Vanuatu,2319.14798464123,IT.NET.SECR.P6,secure_servers_per_1m
+VUT,2021,Vanuatu,2818.20916212222,IT.NET.SECR.P6,secure_servers_per_1m
+VUT,2020,Vanuatu,374.759919426617,IT.NET.SECR.P6,secure_servers_per_1m
+VUT,2019,Vanuatu,359.607514084628,IT.NET.SECR.P6,secure_servers_per_1m
+VUT,2018,Vanuatu,203.323996788883,IT.NET.SECR.P6,secure_servers_per_1m
+VEN,2024,"Venezuela, RB",246.677206628298,IT.NET.SECR.P6,secure_servers_per_1m
+VEN,2023,"Venezuela, RB",223.456154361985,IT.NET.SECR.P6,secure_servers_per_1m
+VEN,2022,"Venezuela, RB",214.369133226695,IT.NET.SECR.P6,secure_servers_per_1m
+VEN,2021,"Venezuela, RB",147.178469050698,IT.NET.SECR.P6,secure_servers_per_1m
+VEN,2020,"Venezuela, RB",194.45173067138,IT.NET.SECR.P6,secure_servers_per_1m
+VEN,2019,"Venezuela, RB",213.939423385739,IT.NET.SECR.P6,secure_servers_per_1m
+VEN,2018,"Venezuela, RB",266.911865943415,IT.NET.SECR.P6,secure_servers_per_1m
+VNM,2024,Viet Nam,5733.7485681175,IT.NET.SECR.P6,secure_servers_per_1m
+VNM,2023,Viet Nam,5256.30770476842,IT.NET.SECR.P6,secure_servers_per_1m
+VNM,2022,Viet Nam,4713.44214180776,IT.NET.SECR.P6,secure_servers_per_1m
+VNM,2021,Viet Nam,3846.57222455068,IT.NET.SECR.P6,secure_servers_per_1m
+VNM,2020,Viet Nam,3082.33578313263,IT.NET.SECR.P6,secure_servers_per_1m
+VNM,2019,Viet Nam,2577.96918378473,IT.NET.SECR.P6,secure_servers_per_1m
+VNM,2018,Viet Nam,1756.65741478106,IT.NET.SECR.P6,secure_servers_per_1m
+VIR,2024,Virgin Islands (U.S.),5614.26367877981,IT.NET.SECR.P6,secure_servers_per_1m
+VIR,2023,Virgin Islands (U.S.),305.003002373305,IT.NET.SECR.P6,secure_servers_per_1m
+VIR,2022,Virgin Islands (U.S.),607.135742270877,IT.NET.SECR.P6,secure_servers_per_1m
+VIR,2021,Virgin Islands (U.S.),472.277321243034,IT.NET.SECR.P6,secure_servers_per_1m
+VIR,2020,Virgin Islands (U.S.),649.167372283376,IT.NET.SECR.P6,secure_servers_per_1m
+VIR,2019,Virgin Islands (U.S.),1181.22416072148,IT.NET.SECR.P6,secure_servers_per_1m
+VIR,2018,Virgin Islands (U.S.),859.805048550948,IT.NET.SECR.P6,secure_servers_per_1m
+PSE,2024,West Bank and Gaza,427.100601381847,IT.NET.SECR.P6,secure_servers_per_1m
+PSE,2023,West Bank and Gaza,434.591131050036,IT.NET.SECR.P6,secure_servers_per_1m
+PSE,2022,West Bank and Gaza,517.882818900423,IT.NET.SECR.P6,secure_servers_per_1m
+PSE,2021,West Bank and Gaza,594.180202971957,IT.NET.SECR.P6,secure_servers_per_1m
+PSE,2020,West Bank and Gaza,535.676848413029,IT.NET.SECR.P6,secure_servers_per_1m
+PSE,2019,West Bank and Gaza,557.701033827887,IT.NET.SECR.P6,secure_servers_per_1m
+PSE,2018,West Bank and Gaza,469.021491602152,IT.NET.SECR.P6,secure_servers_per_1m
+YEM,2024,"Yemen, Rep.",15.0062227775045,IT.NET.SECR.P6,secure_servers_per_1m
+YEM,2023,"Yemen, Rep.",6.95593912679964,IT.NET.SECR.P6,secure_servers_per_1m
+YEM,2022,"Yemen, Rep.",9.20914480637197,IT.NET.SECR.P6,secure_servers_per_1m
+YEM,2021,"Yemen, Rep.",8.69676897531329,IT.NET.SECR.P6,secure_servers_per_1m
+YEM,2020,"Yemen, Rep.",4.67692377856808,IT.NET.SECR.P6,secure_servers_per_1m
+YEM,2019,"Yemen, Rep.",3.6740195665181,IT.NET.SECR.P6,secure_servers_per_1m
+YEM,2018,"Yemen, Rep.",3.1391940345221,IT.NET.SECR.P6,secure_servers_per_1m
+ZMB,2024,Zambia,80.5068516209933,IT.NET.SECR.P6,secure_servers_per_1m
+ZMB,2023,Zambia,54.9605251697733,IT.NET.SECR.P6,secure_servers_per_1m
+ZMB,2022,Zambia,49.8190387922595,IT.NET.SECR.P6,secure_servers_per_1m
+ZMB,2021,Zambia,44.3285768787346,IT.NET.SECR.P6,secure_servers_per_1m
+ZMB,2020,Zambia,39.0883341260308,IT.NET.SECR.P6,secure_servers_per_1m
+ZMB,2019,Zambia,35.0008445034009,IT.NET.SECR.P6,secure_servers_per_1m
+ZMB,2018,Zambia,39.7806356656266,IT.NET.SECR.P6,secure_servers_per_1m
+ZWE,2024,Zimbabwe,89.9943749006951,IT.NET.SECR.P6,secure_servers_per_1m
+ZWE,2023,Zimbabwe,89.3467905102938,IT.NET.SECR.P6,secure_servers_per_1m
+ZWE,2022,Zimbabwe,78.1004185933511,IT.NET.SECR.P6,secure_servers_per_1m
+ZWE,2021,Zimbabwe,75.8994784522077,IT.NET.SECR.P6,secure_servers_per_1m
+ZWE,2020,Zimbabwe,71.2956775369282,IT.NET.SECR.P6,secure_servers_per_1m
+ZWE,2019,Zimbabwe,64.8926802104435,IT.NET.SECR.P6,secure_servers_per_1m
+ZWE,2018,Zimbabwe,44.7638530489838,IT.NET.SECR.P6,secure_servers_per_1m

@@ -1,0 +1,41 @@
+{
+  "fase6_2_version": "2.2",
+  "created_at": "2026-05-08T14:17:12.978810+00:00",
+  "module": "country_intelligence_layer",
+  "methodology": "inferential_comparative_observational",
+  "scope": "descriptive_country_level_positioning",
+  "holdout_used": false,
+  "train_test_split_used": false,
+  "external_validation_used": false,
+  "independent_prediction": false,
+  "causal_claim": false,
+  "preserved_existing_fase6_outputs": true,
+  "outputs": {
+    "country_q_profile_long.csv": "country_question_outcome_long_profile",
+    "country_q_profile_wide.csv": "one_row_per_country_summary",
+    "country_rankings_by_outcome.csv": "global_rankings_by_outcome",
+    "country_rankings_by_group.csv": "subsample_group_rankings",
+    "country_best_worst_by_q.csv": "top_bottom_by_question",
+    "country_model_contributions.csv": "descriptive_model_term_contributions",
+    "country_residuals_and_gaps.csv": "observed_vs_fitted_and_gaps",
+    "country_cluster_profile.csv": "q4_regulatory_profile",
+    "country_headline_flags.csv": "narrative_candidate_flags",
+    "country_learning_patterns.csv": "lessons_from_pioneers_and_laggards",
+    "country_graphics_catalog.csv": "generated_figures_catalog"
+  },
+  "key_country_cards_written": [
+    "/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/country_intelligence/country_cards_data/CHL_country_card_data.csv",
+    "/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/country_intelligence/country_cards_data/SGP_country_card_data.csv",
+    "/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/country_intelligence/country_cards_data/EST_country_card_data.csv",
+    "/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/country_intelligence/country_cards_data/IRL_country_card_data.csv",
+    "/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/country_intelligence/country_cards_data/ARE_country_card_data.csv",
+    "/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/country_intelligence/country_cards_data/KOR_country_card_data.csv",
+    "/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/country_intelligence/country_cards_data/JPN_country_card_data.csv",
+    "/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/country_intelligence/country_cards_data/USA_country_card_data.csv",
+    "/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/country_intelligence/country_cards_data/CHN_country_card_data.csv",
+    "/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/country_intelligence/country_cards_data/BRA_country_card_data.csv",
+    "/home/pablo/Research_LeyIA_DataScience/Research_AI_law/F5_F8_MVP/FASE6/outputs/country_intelligence/country_cards_data/URY_country_card_data.csv"
+  ],
+  "n_countries_profiled": 42,
+  "n_figures": 40
+}

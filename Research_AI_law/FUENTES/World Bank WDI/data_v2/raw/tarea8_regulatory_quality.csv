@@ -1,0 +1,1484 @@
+iso3,year,country_name,value,wb_indicator,canonical_name
+ABW,2018,Aruba,0.9845005,RQ.EST,regulatory_quality
+ADO,2018,Andorra,1.3467972,RQ.EST,regulatory_quality
+AFG,2018,Afghanistan,-1.3029823,RQ.EST,regulatory_quality
+AGO,2018,Angola,-1.0624392999999999,RQ.EST,regulatory_quality
+AIA,2018,Anguilla,0.8732078999999999,RQ.EST,regulatory_quality
+ALB,2018,Albania,0.1139598,RQ.EST,regulatory_quality
+ARE,2018,United Arab Emirates,1.079234,RQ.EST,regulatory_quality
+ARG,2018,Argentina,-0.19013349999999998,RQ.EST,regulatory_quality
+ARM,2018,Armenia,0.2852478,RQ.EST,regulatory_quality
+ASM,2018,American Samoa,-0.0739706,RQ.EST,regulatory_quality
+ATG,2018,Antigua and Barbuda,0.484595,RQ.EST,regulatory_quality
+AUS,2018,Australia,1.828177,RQ.EST,regulatory_quality
+AUT,2018,Austria,1.5307119999999999,RQ.EST,regulatory_quality
+AZE,2018,Azerbaijan,-0.2005079,RQ.EST,regulatory_quality
+BDI,2018,Burundi,-0.9758328,RQ.EST,regulatory_quality
+BEL,2018,Belgium,1.2683788,RQ.EST,regulatory_quality
+BEN,2018,Benin,-0.45192459999999995,RQ.EST,regulatory_quality
+BFA,2018,Burkina Faso,-0.42376389999999997,RQ.EST,regulatory_quality
+BGD,2018,Bangladesh,-0.7854912,RQ.EST,regulatory_quality
+BGR,2018,Bulgaria,0.48163459999999997,RQ.EST,regulatory_quality
+BHR,2018,Bahrain,0.4964201,RQ.EST,regulatory_quality
+BHS,2018,"Bahamas, The",0.1415783,RQ.EST,regulatory_quality
+BIH,2018,Bosnia and Herzegovina,-0.3157976,RQ.EST,regulatory_quality
+BLR,2018,Belarus,-0.7883245,RQ.EST,regulatory_quality
+BLZ,2018,Belize,-0.6630634999999999,RQ.EST,regulatory_quality
+BMU,2018,Bermuda,0.8732078999999999,RQ.EST,regulatory_quality
+BOL,2018,Bolivia,-0.8485465,RQ.EST,regulatory_quality
+BRA,2018,Brazil,-0.24429199999999998,RQ.EST,regulatory_quality
+BRB,2018,Barbados,0.42215769999999997,RQ.EST,regulatory_quality
+BRN,2018,Brunei Darussalam,0.8702445999999999,RQ.EST,regulatory_quality
+BTN,2018,Bhutan,-0.0472384,RQ.EST,regulatory_quality
+BWA,2018,Botswana,0.5568633,RQ.EST,regulatory_quality
+CAF,2018,Central African Republic,-1.3677626999999999,RQ.EST,regulatory_quality
+CAN,2018,Canada,1.642282,RQ.EST,regulatory_quality
+CHE,2018,Switzerland,1.8048586999999998,RQ.EST,regulatory_quality
+CHL,2018,Chile,1.1753875,RQ.EST,regulatory_quality
+CHN,2018,China,-0.0905581,RQ.EST,regulatory_quality
+CIV,2018,Côte d’Ivoire,-0.297267,RQ.EST,regulatory_quality
+CMR,2018,Cameroon,-0.7746014999999999,RQ.EST,regulatory_quality
+COD,2018,"Congo, Dem. Rep.",-1.2952622,RQ.EST,regulatory_quality
+COG,2018,"Congo, Rep.",-1.1717606,RQ.EST,regulatory_quality
+COL,2018,Colombia,0.10885399999999999,RQ.EST,regulatory_quality
+COM,2018,Comoros,-1.2410959,RQ.EST,regulatory_quality
+CPV,2018,Cabo Verde,-0.20702969999999998,RQ.EST,regulatory_quality
+CRI,2018,Costa Rica,0.6513804,RQ.EST,regulatory_quality
+CUB,2018,Cuba,-1.2250246,RQ.EST,regulatory_quality
+CYM,2018,Cayman Islands,1.0785257,RQ.EST,regulatory_quality
+CYP,2018,Cyprus,0.9434583999999999,RQ.EST,regulatory_quality
+CZE,2018,Czechia,1.1466245,RQ.EST,regulatory_quality
+DEU,2018,Germany,1.6795514999999999,RQ.EST,regulatory_quality
+DJI,2018,Djibouti,-0.7398709,RQ.EST,regulatory_quality
+DMA,2018,Dominica,0.159295,RQ.EST,regulatory_quality
+DNK,2018,Denmark,1.8428455,RQ.EST,regulatory_quality
+DOM,2018,Dominican Republic,-0.1446846,RQ.EST,regulatory_quality
+DZA,2018,Algeria,-1.0402376,RQ.EST,regulatory_quality
+ECU,2018,Ecuador,-0.8243339,RQ.EST,regulatory_quality
+EGY,2018,"Egypt, Arab Rep.",-0.7426752999999999,RQ.EST,regulatory_quality
+ERI,2018,Eritrea,-1.9132827,RQ.EST,regulatory_quality
+ESP,2018,Spain,0.8836957,RQ.EST,regulatory_quality
+EST,2018,Estonia,1.431181,RQ.EST,regulatory_quality
+ETH,2018,Ethiopia,-0.8463421999999999,RQ.EST,regulatory_quality
+FIN,2018,Finland,1.8525188,RQ.EST,regulatory_quality
+FJI,2018,Fiji,-0.2004155,RQ.EST,regulatory_quality
+FRA,2018,France,1.2678981,RQ.EST,regulatory_quality
+FSM,2018,"Micronesia, Fed. Sts.",-0.7713626,RQ.EST,regulatory_quality
+GAB,2018,Gabon,-0.7564955999999999,RQ.EST,regulatory_quality
+GBR,2018,United Kingdom,1.6748823,RQ.EST,regulatory_quality
+GEO,2018,Georgia,0.8011621999999999,RQ.EST,regulatory_quality
+GHA,2018,Ghana,-0.16882049999999998,RQ.EST,regulatory_quality
+GIN,2018,Guinea,-0.8028236999999999,RQ.EST,regulatory_quality
+GMB,2018,"Gambia, The",-0.7118009,RQ.EST,regulatory_quality
+GNB,2018,Guinea-Bissau,-1.2523992,RQ.EST,regulatory_quality
+GNQ,2018,Equatorial Guinea,-1.4958505,RQ.EST,regulatory_quality
+GRC,2018,Greece,0.2867976,RQ.EST,regulatory_quality
+GRD,2018,Grenada,-0.1478545,RQ.EST,regulatory_quality
+GRL,2018,Greenland,1.5091118,RQ.EST,regulatory_quality
+GTM,2018,Guatemala,-0.3907315,RQ.EST,regulatory_quality
+GUF,2018,French Guiana,1.3749940999999999,RQ.EST,regulatory_quality
+GUM,2018,Guam,-0.0739706,RQ.EST,regulatory_quality
+GUY,2018,Guyana,-0.4646567,RQ.EST,regulatory_quality
+HKG,2018,"Hong Kong SAR, China",2.2141902,RQ.EST,regulatory_quality
+HND,2018,Honduras,-0.4794427,RQ.EST,regulatory_quality
+HRV,2018,Croatia,0.3955931,RQ.EST,regulatory_quality
+HTI,2018,Haiti,-1.2417981999999999,RQ.EST,regulatory_quality
+HUN,2018,Hungary,0.4420607,RQ.EST,regulatory_quality
+IDN,2018,Indonesia,0.07345879999999999,RQ.EST,regulatory_quality
+IND,2018,India,-0.1555625,RQ.EST,regulatory_quality
+IRL,2018,Ireland,1.6485933,RQ.EST,regulatory_quality
+IRN,2018,"Iran, Islamic Rep.",-1.2929956,RQ.EST,regulatory_quality
+IRQ,2018,Iraq,-1.1611810999999999,RQ.EST,regulatory_quality
+ISL,2018,Iceland,1.4402955,RQ.EST,regulatory_quality
+ISR,2018,Israel,1.163545,RQ.EST,regulatory_quality
+ITA,2018,Italy,0.5602676999999999,RQ.EST,regulatory_quality
+JAM,2018,Jamaica,0.1473187,RQ.EST,regulatory_quality
+JEY,2018,"Jersey, Channel Islands",0.9226095999999999,RQ.EST,regulatory_quality
+JOR,2018,Jordan,0.0851019,RQ.EST,regulatory_quality
+JPN,2018,Japan,1.364542,RQ.EST,regulatory_quality
+KAZ,2018,Kazakhstan,0.0552752,RQ.EST,regulatory_quality
+KEN,2018,Kenya,-0.2993553,RQ.EST,regulatory_quality
+KGZ,2018,Kyrgyz Republic,-0.3502337,RQ.EST,regulatory_quality
+KHM,2018,Cambodia,-0.5908086,RQ.EST,regulatory_quality
+KIR,2018,Kiribati,-0.6772777,RQ.EST,regulatory_quality
+KNA,2018,St. Kitts and Nevis,0.48429249999999996,RQ.EST,regulatory_quality
+KOR,2018,"Korea, Rep.",0.9569194,RQ.EST,regulatory_quality
+KWT,2018,Kuwait,0.0185723,RQ.EST,regulatory_quality
+LAO,2018,Lao PDR,-0.7927044999999999,RQ.EST,regulatory_quality
+LBN,2018,Lebanon,-0.47046109999999997,RQ.EST,regulatory_quality
+LBR,2018,Liberia,-0.8639309,RQ.EST,regulatory_quality
+LBY,2018,Libya,-2.0627355,RQ.EST,regulatory_quality
+LCA,2018,St. Lucia,0.29405909999999996,RQ.EST,regulatory_quality
+LIE,2018,Liechtenstein,1.6559665,RQ.EST,regulatory_quality
+LKA,2018,Sri Lanka,-0.1897983,RQ.EST,regulatory_quality
+LSO,2018,Lesotho,-0.5168768,RQ.EST,regulatory_quality
+LTU,2018,Lithuania,1.0635820999999999,RQ.EST,regulatory_quality
+LUX,2018,Luxembourg,1.7344218999999998,RQ.EST,regulatory_quality
+LVA,2018,Latvia,1.0176262999999999,RQ.EST,regulatory_quality
+MAC,2018,"Macao SAR, China",1.5266096,RQ.EST,regulatory_quality
+MAR,2018,Morocco,-0.1157961,RQ.EST,regulatory_quality
+MCO,2018,Monaco,1.3467972,RQ.EST,regulatory_quality
+MDA,2018,Moldova,-0.1859583,RQ.EST,regulatory_quality
+MDG,2018,Madagascar,-0.8901794,RQ.EST,regulatory_quality
+MDV,2018,Maldives,-0.2269273,RQ.EST,regulatory_quality
+MEX,2018,Mexico,-0.0031766999999999997,RQ.EST,regulatory_quality
+MHL,2018,Marshall Islands,-0.7985966,RQ.EST,regulatory_quality
+MKD,2018,North Macedonia,0.3988409,RQ.EST,regulatory_quality
+MLI,2018,Mali,-0.6149817,RQ.EST,regulatory_quality
+MLT,2018,Malta,1.2462056,RQ.EST,regulatory_quality
+MMR,2018,Myanmar,-0.8166314,RQ.EST,regulatory_quality
+MNE,2018,Montenegro,0.29257079999999996,RQ.EST,regulatory_quality
+MNG,2018,Mongolia,0.0263885,RQ.EST,regulatory_quality
+MOZ,2018,Mozambique,-0.7313974999999999,RQ.EST,regulatory_quality
+MRT,2018,Mauritania,-0.7617925,RQ.EST,regulatory_quality
+MTQ,2018,Martinique,1.1100024,RQ.EST,regulatory_quality
+MUS,2018,Mauritius,1.0408013999999999,RQ.EST,regulatory_quality
+MWI,2018,Malawi,-0.6718156,RQ.EST,regulatory_quality
+MYS,2018,Malaysia,0.7479363,RQ.EST,regulatory_quality
+NAM,2018,Namibia,0.0632488,RQ.EST,regulatory_quality
+NER,2018,Niger,-0.6639231,RQ.EST,regulatory_quality
+NGA,2018,Nigeria,-0.8300183999999999,RQ.EST,regulatory_quality
+NIC,2018,Nicaragua,-0.5539729,RQ.EST,regulatory_quality
+NLD,2018,Netherlands,1.9366984999999999,RQ.EST,regulatory_quality
+NOR,2018,Norway,1.8168864,RQ.EST,regulatory_quality
+NPL,2018,Nepal,-0.5915737,RQ.EST,regulatory_quality
+NRU,2018,Nauru,-0.3514786,RQ.EST,regulatory_quality
+NZL,2018,New Zealand,1.9706404,RQ.EST,regulatory_quality
+OMN,2018,Oman,0.5279849999999999,RQ.EST,regulatory_quality
+PAK,2018,Pakistan,-0.6623047999999999,RQ.EST,regulatory_quality
+PAN,2018,Panama,0.3136844,RQ.EST,regulatory_quality
+PER,2018,Peru,0.2978144,RQ.EST,regulatory_quality
+PHL,2018,Philippines,-0.0051077,RQ.EST,regulatory_quality
+PLW,2018,Palau,0.1940307,RQ.EST,regulatory_quality
+PNG,2018,Papua New Guinea,-0.4670821,RQ.EST,regulatory_quality
+POL,2018,Poland,0.7623048,RQ.EST,regulatory_quality
+PRI,2018,Puerto Rico (U.S.),0.8747767,RQ.EST,regulatory_quality
+PRK,2018,"Korea, Dem. People's Rep.",-2.0268175,RQ.EST,regulatory_quality
+PRT,2018,Portugal,0.9348160999999999,RQ.EST,regulatory_quality
+PRY,2018,Paraguay,-0.1217096,RQ.EST,regulatory_quality
+PSE,2018,West Bank and Gaza,-0.15052649999999998,RQ.EST,regulatory_quality
+QAT,2018,Qatar,0.6770845,RQ.EST,regulatory_quality
+REU,2018,Réunion,1.1100024,RQ.EST,regulatory_quality
+ROU,2018,Romania,0.38528029999999996,RQ.EST,regulatory_quality
+RUS,2018,Russian Federation,-0.357656,RQ.EST,regulatory_quality
+RWA,2018,Rwanda,0.1225588,RQ.EST,regulatory_quality
+SAU,2018,Saudi Arabia,0.0805221,RQ.EST,regulatory_quality
+SDN,2018,Sudan,-1.5053915999999998,RQ.EST,regulatory_quality
+SEN,2018,Senegal,-0.2225558,RQ.EST,regulatory_quality
+SGP,2018,Singapore,2.1367938,RQ.EST,regulatory_quality
+SLB,2018,Solomon Islands,-0.9116755999999999,RQ.EST,regulatory_quality
+SLE,2018,Sierra Leone,-0.9175513,RQ.EST,regulatory_quality
+SLV,2018,El Salvador,-0.0241538,RQ.EST,regulatory_quality
+SMR,2018,San Marino,0.8732078999999999,RQ.EST,regulatory_quality
+SOM,2018,Federal Republic of Somalia,-1.9778262,RQ.EST,regulatory_quality
+SRB,2018,Serbia,0.0896661,RQ.EST,regulatory_quality
+SSD,2018,South Sudan,-1.8857358,RQ.EST,regulatory_quality
+STP,2018,São Tomé and Príncipe,-0.8284372,RQ.EST,regulatory_quality
+SUR,2018,Suriname,-0.7248716,RQ.EST,regulatory_quality
+SVK,2018,Slovak Republic,0.6851503,RQ.EST,regulatory_quality
+SVN,2018,Slovenia,0.6514111,RQ.EST,regulatory_quality
+SWE,2018,Sweden,1.7593835999999998,RQ.EST,regulatory_quality
+SWZ,2018,Eswatini,-0.5010658,RQ.EST,regulatory_quality
+SYC,2018,Seychelles,0.2527705,RQ.EST,regulatory_quality
+SYR,2018,Syrian Arab Republic,-1.547928,RQ.EST,regulatory_quality
+TCD,2018,Chad,-1.124001,RQ.EST,regulatory_quality
+TGO,2018,Togo,-0.6826901999999999,RQ.EST,regulatory_quality
+THA,2018,Thailand,0.1451222,RQ.EST,regulatory_quality
+TJK,2018,Tajikistan,-0.7695478,RQ.EST,regulatory_quality
+TKM,2018,Turkmenistan,-1.7587442999999998,RQ.EST,regulatory_quality
+TLS,2018,Timor-Leste,-0.9373986,RQ.EST,regulatory_quality
+TON,2018,Tonga,-0.2508922,RQ.EST,regulatory_quality
+TTO,2018,Trinidad and Tobago,-0.0646447,RQ.EST,regulatory_quality
+TUN,2018,Tunisia,-0.1170001,RQ.EST,regulatory_quality
+TUR,2018,Türkiye,0.051773099999999996,RQ.EST,regulatory_quality
+TUV,2018,Tuvalu,-0.5911484,RQ.EST,regulatory_quality
+TWN,2018,"Taiwan, China",1.2548778,RQ.EST,regulatory_quality
+TZA,2018,Tanzania,-0.6465065999999999,RQ.EST,regulatory_quality
+UGA,2018,Uganda,-0.4010959,RQ.EST,regulatory_quality
+UKR,2018,Ukraine,-0.3505756,RQ.EST,regulatory_quality
+URY,2018,Uruguay,0.5998986,RQ.EST,regulatory_quality
+USA,2018,United States,1.484217,RQ.EST,regulatory_quality
+UZB,2018,Uzbekistan,-1.1476921,RQ.EST,regulatory_quality
+VCT,2018,St. Vincent and the Grenadines,0.2393083,RQ.EST,regulatory_quality
+VEN,2018,"Venezuela, RB",-2.1462308,RQ.EST,regulatory_quality
+VIR,2018,Virgin Islands (U.S.),0.8732078999999999,RQ.EST,regulatory_quality
+VNM,2018,Viet Nam,-0.2920712,RQ.EST,regulatory_quality
+VUT,2018,Vanuatu,-0.447011,RQ.EST,regulatory_quality
+WSM,2018,Samoa,0.0819379,RQ.EST,regulatory_quality
+XKX,2018,Kosovo,-0.363327,RQ.EST,regulatory_quality
+YEM,2018,"Yemen, Rep.",-1.4878274,RQ.EST,regulatory_quality
+ZAF,2018,South Africa,0.06854049999999999,RQ.EST,regulatory_quality
+ZMB,2018,Zambia,-0.43735019999999997,RQ.EST,regulatory_quality
+ZWE,2018,Zimbabwe,-1.3672585,RQ.EST,regulatory_quality
+ABW,2019,Aruba,0.9858983,RQ.EST,regulatory_quality
+ADO,2019,Andorra,1.3498500999999998,RQ.EST,regulatory_quality
+AFG,2019,Afghanistan,-1.2762178,RQ.EST,regulatory_quality
+AGO,2019,Angola,-0.9960854,RQ.EST,regulatory_quality
+AIA,2019,Anguilla,0.8762608,RQ.EST,regulatory_quality
+ALB,2019,Albania,0.0917374,RQ.EST,regulatory_quality
+ARE,2019,United Arab Emirates,1.1457173,RQ.EST,regulatory_quality
+ARG,2019,Argentina,-0.44910829999999996,RQ.EST,regulatory_quality
+ARM,2019,Armenia,0.2583707,RQ.EST,regulatory_quality
+ASM,2019,American Samoa,-0.0709177,RQ.EST,regulatory_quality
+ATG,2019,Antigua and Barbuda,0.5787682,RQ.EST,regulatory_quality
+AUS,2019,Australia,1.8466041,RQ.EST,regulatory_quality
+AUT,2019,Austria,1.5588697999999999,RQ.EST,regulatory_quality
+AZE,2019,Azerbaijan,-0.1045151,RQ.EST,regulatory_quality
+BDI,2019,Burundi,-0.9261777999999999,RQ.EST,regulatory_quality
+BEL,2019,Belgium,1.2890183,RQ.EST,regulatory_quality
+BEN,2019,Benin,-0.4897407,RQ.EST,regulatory_quality
+BFA,2019,Burkina Faso,-0.4675262,RQ.EST,regulatory_quality
+BGD,2019,Bangladesh,-0.8895369,RQ.EST,regulatory_quality
+BGR,2019,Bulgaria,0.45805629999999997,RQ.EST,regulatory_quality
+BHR,2019,Bahrain,0.5202512,RQ.EST,regulatory_quality
+BHS,2019,"Bahamas, The",-0.003980399999999999,RQ.EST,regulatory_quality
+BIH,2019,Bosnia and Herzegovina,-0.3767077,RQ.EST,regulatory_quality
+BLR,2019,Belarus,-0.5076275,RQ.EST,regulatory_quality
+BLZ,2019,Belize,-0.5749240999999999,RQ.EST,regulatory_quality
+BMU,2019,Bermuda,0.8762608,RQ.EST,regulatory_quality
+BOL,2019,Bolivia,-0.9755809,RQ.EST,regulatory_quality
+BRA,2019,Brazil,-0.099421,RQ.EST,regulatory_quality
+BRB,2019,Barbados,0.36098539999999996,RQ.EST,regulatory_quality
+BRN,2019,Brunei Darussalam,0.8013123,RQ.EST,regulatory_quality
+BTN,2019,Bhutan,-0.0695533,RQ.EST,regulatory_quality
+BWA,2019,Botswana,0.4296886,RQ.EST,regulatory_quality
+CAF,2019,Central African Republic,-1.3673823999999999,RQ.EST,regulatory_quality
+CAN,2019,Canada,1.6826482999999999,RQ.EST,regulatory_quality
+CHE,2019,Switzerland,1.767121,RQ.EST,regulatory_quality
+CHL,2019,Chile,1.0772532,RQ.EST,regulatory_quality
+CHN,2019,China,-0.061923399999999997,RQ.EST,regulatory_quality
+CIV,2019,Côte d’Ivoire,-0.3160613,RQ.EST,regulatory_quality
+CMR,2019,Cameroon,-0.7732119,RQ.EST,regulatory_quality
+COD,2019,"Congo, Dem. Rep.",-1.3641956,RQ.EST,regulatory_quality
+COG,2019,"Congo, Rep.",-1.2153336,RQ.EST,regulatory_quality
+COL,2019,Colombia,0.2323351,RQ.EST,regulatory_quality
+COM,2019,Comoros,-1.2136277,RQ.EST,regulatory_quality
+CPV,2019,Cabo Verde,-0.054116,RQ.EST,regulatory_quality
+CRI,2019,Costa Rica,0.6689887,RQ.EST,regulatory_quality
+CUB,2019,Cuba,-1.2243427,RQ.EST,regulatory_quality
+CYM,2019,Cayman Islands,1.0799235,RQ.EST,regulatory_quality
+CYP,2019,Cyprus,1.0395499,RQ.EST,regulatory_quality
+CZE,2019,Czechia,1.1215213,RQ.EST,regulatory_quality
+DEU,2019,Germany,1.6651379,RQ.EST,regulatory_quality
+DJI,2019,Djibouti,-0.7729077999999999,RQ.EST,regulatory_quality
+DMA,2019,Dominica,0.1189288,RQ.EST,regulatory_quality
+DNK,2019,Denmark,1.9335346,RQ.EST,regulatory_quality
+DOM,2019,Dominican Republic,-0.1017681,RQ.EST,regulatory_quality
+DZA,2019,Algeria,-1.1291834,RQ.EST,regulatory_quality
+ECU,2019,Ecuador,-0.7315769999999999,RQ.EST,regulatory_quality
+EGY,2019,"Egypt, Arab Rep.",-0.7028437,RQ.EST,regulatory_quality
+ERI,2019,Eritrea,-1.9646637,RQ.EST,regulatory_quality
+ESP,2019,Spain,0.9446572999999999,RQ.EST,regulatory_quality
+EST,2019,Estonia,1.5431575,RQ.EST,regulatory_quality
+ETH,2019,Ethiopia,-0.8280780999999999,RQ.EST,regulatory_quality
+FIN,2019,Finland,1.9937531,RQ.EST,regulatory_quality
+FJI,2019,Fiji,0.152716,RQ.EST,regulatory_quality
+FRA,2019,France,1.4571642999999999,RQ.EST,regulatory_quality
+FSM,2019,"Micronesia, Fed. Sts.",-0.8495212,RQ.EST,regulatory_quality
+GAB,2019,Gabon,-0.8766721,RQ.EST,regulatory_quality
+GBR,2019,United Kingdom,1.7134916999999998,RQ.EST,regulatory_quality
+GEO,2019,Georgia,0.8781481999999999,RQ.EST,regulatory_quality
+GHA,2019,Ghana,-0.1935344,RQ.EST,regulatory_quality
+GIN,2019,Guinea,-0.7927742999999999,RQ.EST,regulatory_quality
+GMB,2019,"Gambia, The",-0.6967552,RQ.EST,regulatory_quality
+GNB,2019,Guinea-Bissau,-1.2519803999999999,RQ.EST,regulatory_quality
+GNQ,2019,Equatorial Guinea,-1.443702,RQ.EST,regulatory_quality
+GRC,2019,Greece,0.4186735,RQ.EST,regulatory_quality
+GRD,2019,Grenada,-0.1308406,RQ.EST,regulatory_quality
+GRL,2019,Greenland,1.5112915999999998,RQ.EST,regulatory_quality
+GTM,2019,Guatemala,-0.42314779999999996,RQ.EST,regulatory_quality
+GUF,2019,French Guiana,1.3763918,RQ.EST,regulatory_quality
+GUM,2019,Guam,-0.0709177,RQ.EST,regulatory_quality
+GUY,2019,Guyana,-0.5433513,RQ.EST,regulatory_quality
+HKG,2019,"Hong Kong SAR, China",2.0347741,RQ.EST,regulatory_quality
+HND,2019,Honduras,-0.5191215,RQ.EST,regulatory_quality
+HRV,2019,Croatia,0.38477999999999996,RQ.EST,regulatory_quality
+HTI,2019,Haiti,-1.2718629,RQ.EST,regulatory_quality
+HUN,2019,Hungary,0.4598348,RQ.EST,regulatory_quality
+IDN,2019,Indonesia,0.11098269999999999,RQ.EST,regulatory_quality
+IND,2019,India,-0.0981205,RQ.EST,regulatory_quality
+IRL,2019,Ireland,1.5832688,RQ.EST,regulatory_quality
+IRN,2019,"Iran, Islamic Rep.",-1.3605616999999999,RQ.EST,regulatory_quality
+IRQ,2019,Iraq,-1.1604354,RQ.EST,regulatory_quality
+ISL,2019,Iceland,1.5164096999999999,RQ.EST,regulatory_quality
+ISR,2019,Israel,1.2416535,RQ.EST,regulatory_quality
+ITA,2019,Italy,0.7011105,RQ.EST,regulatory_quality
+JAM,2019,Jamaica,0.1355129,RQ.EST,regulatory_quality
+JEY,2019,"Jersey, Channel Islands",1.0714149,RQ.EST,regulatory_quality
+JOR,2019,Jordan,0.159713,RQ.EST,regulatory_quality
+JPN,2019,Japan,1.3886549,RQ.EST,regulatory_quality
+KAZ,2019,Kazakhstan,0.11272499999999999,RQ.EST,regulatory_quality
+KEN,2019,Kenya,-0.3436142,RQ.EST,regulatory_quality
+KGZ,2019,Kyrgyz Republic,-0.4211895,RQ.EST,regulatory_quality
+KHM,2019,Cambodia,-0.6492291,RQ.EST,regulatory_quality
+KIR,2019,Kiribati,-0.5049386,RQ.EST,regulatory_quality
+KNA,2019,St. Kitts and Nevis,0.47802599999999995,RQ.EST,regulatory_quality
+KOR,2019,"Korea, Rep.",0.9120155,RQ.EST,regulatory_quality
+KWT,2019,Kuwait,0.1059595,RQ.EST,regulatory_quality
+LAO,2019,Lao PDR,-0.7206627999999999,RQ.EST,regulatory_quality
+LBN,2019,Lebanon,-0.5611682,RQ.EST,regulatory_quality
+LBR,2019,Liberia,-0.9351647,RQ.EST,regulatory_quality
+LBY,2019,Libya,-2.0416816,RQ.EST,regulatory_quality
+LCA,2019,St. Lucia,0.3463362,RQ.EST,regulatory_quality
+LIE,2019,Liechtenstein,1.6571558,RQ.EST,regulatory_quality
+LKA,2019,Sri Lanka,-0.186002,RQ.EST,regulatory_quality
+LSO,2019,Lesotho,-0.5508683,RQ.EST,regulatory_quality
+LTU,2019,Lithuania,0.9756201999999999,RQ.EST,regulatory_quality
+LUX,2019,Luxembourg,1.7336486,RQ.EST,regulatory_quality
+LVA,2019,Latvia,1.0030074,RQ.EST,regulatory_quality
+MAC,2019,"Macao SAR, China",1.527799,RQ.EST,regulatory_quality
+MAR,2019,Morocco,0.0271992,RQ.EST,regulatory_quality
+MCO,2019,Monaco,1.3498500999999998,RQ.EST,regulatory_quality
+MDA,2019,Moldova,-0.11327279999999999,RQ.EST,regulatory_quality
+MDG,2019,Madagascar,-0.8495415,RQ.EST,regulatory_quality
+MDV,2019,Maldives,-0.22576159999999998,RQ.EST,regulatory_quality
+MEX,2019,Mexico,-0.041763999999999996,RQ.EST,regulatory_quality
+MHL,2019,Marshall Islands,-0.7972311999999999,RQ.EST,regulatory_quality
+MKD,2019,North Macedonia,0.19281199999999998,RQ.EST,regulatory_quality
+MLI,2019,Mali,-0.6559592,RQ.EST,regulatory_quality
+MLT,2019,Malta,0.8271849,RQ.EST,regulatory_quality
+MMR,2019,Myanmar,-0.8502984,RQ.EST,regulatory_quality
+MNE,2019,Montenegro,0.2943513,RQ.EST,regulatory_quality
+MNG,2019,Mongolia,-0.06637749999999999,RQ.EST,regulatory_quality
+MOZ,2019,Mozambique,-0.7252116,RQ.EST,regulatory_quality
+MRT,2019,Mauritania,-0.7614288,RQ.EST,regulatory_quality
+MTQ,2019,Martinique,1.1130552,RQ.EST,regulatory_quality
+MUS,2019,Mauritius,0.9600603,RQ.EST,regulatory_quality
+MWI,2019,Malawi,-0.6631094,RQ.EST,regulatory_quality
+MYS,2019,Malaysia,0.7557539999999999,RQ.EST,regulatory_quality
+NAM,2019,Namibia,0.12094049999999999,RQ.EST,regulatory_quality
+NER,2019,Niger,-0.6452363,RQ.EST,regulatory_quality
+NGA,2019,Nigeria,-0.8646096999999999,RQ.EST,regulatory_quality
+NIC,2019,Nicaragua,-0.6516936,RQ.EST,regulatory_quality
+NLD,2019,Netherlands,1.8629208,RQ.EST,regulatory_quality
+NOR,2019,Norway,1.7665667999999999,RQ.EST,regulatory_quality
+NPL,2019,Nepal,-0.5734193,RQ.EST,regulatory_quality
+NRU,2019,Nauru,-0.34878709999999996,RQ.EST,regulatory_quality
+NZL,2019,New Zealand,1.970839,RQ.EST,regulatory_quality
+OMN,2019,Oman,0.5010361,RQ.EST,regulatory_quality
+PAK,2019,Pakistan,-0.6202662999999999,RQ.EST,regulatory_quality
+PAN,2019,Panama,0.3190176,RQ.EST,regulatory_quality
+PER,2019,Peru,0.34498049999999997,RQ.EST,regulatory_quality
+PHL,2019,Philippines,0.0586419,RQ.EST,regulatory_quality
+PLW,2019,Palau,0.4054877,RQ.EST,regulatory_quality
+PNG,2019,Papua New Guinea,-0.5079956,RQ.EST,regulatory_quality
+POL,2019,Poland,0.8277445999999999,RQ.EST,regulatory_quality
+PRI,2019,Puerto Rico (U.S.),0.7830977,RQ.EST,regulatory_quality
+PRK,2019,"Korea, Dem. People's Rep.",-2.0261356,RQ.EST,regulatory_quality
+PRT,2019,Portugal,0.9999205,RQ.EST,regulatory_quality
+PRY,2019,Paraguay,-0.1606718,RQ.EST,regulatory_quality
+PSE,2019,West Bank and Gaza,-0.1491287,RQ.EST,regulatory_quality
+QAT,2019,Qatar,0.7893471,RQ.EST,regulatory_quality
+REU,2019,Réunion,1.1130552,RQ.EST,regulatory_quality
+ROU,2019,Romania,0.3572005,RQ.EST,regulatory_quality
+RUS,2019,Russian Federation,-0.3542324,RQ.EST,regulatory_quality
+RWA,2019,Rwanda,0.10946399999999999,RQ.EST,regulatory_quality
+SAU,2019,Saudi Arabia,0.17931919999999998,RQ.EST,regulatory_quality
+SDN,2019,Sudan,-1.5295444,RQ.EST,regulatory_quality
+SEN,2019,Senegal,-0.2066424,RQ.EST,regulatory_quality
+SGP,2019,Singapore,2.1809946,RQ.EST,regulatory_quality
+SLB,2019,Solomon Islands,-0.7506683,RQ.EST,regulatory_quality
+SLE,2019,Sierra Leone,-0.8912399999999999,RQ.EST,regulatory_quality
+SLV,2019,El Salvador,-0.055922799999999995,RQ.EST,regulatory_quality
+SMR,2019,San Marino,0.8762608,RQ.EST,regulatory_quality
+SOM,2019,Federal Republic of Somalia,-1.9736596,RQ.EST,regulatory_quality
+SRB,2019,Serbia,0.064278,RQ.EST,regulatory_quality
+SSD,2019,South Sudan,-1.8807648,RQ.EST,regulatory_quality
+STP,2019,São Tomé and Príncipe,-0.8537092,RQ.EST,regulatory_quality
+SUR,2019,Suriname,-0.6022128,RQ.EST,regulatory_quality
+SVK,2019,Slovak Republic,0.7272442,RQ.EST,regulatory_quality
+SVN,2019,Slovenia,0.8847727999999999,RQ.EST,regulatory_quality
+SWE,2019,Sweden,1.7778064999999998,RQ.EST,regulatory_quality
+SWZ,2019,Eswatini,-0.5229659,RQ.EST,regulatory_quality
+SYC,2019,Seychelles,0.2743209,RQ.EST,regulatory_quality
+SYR,2019,Syrian Arab Republic,-1.5966464,RQ.EST,regulatory_quality
+TCD,2019,Chad,-1.151166,RQ.EST,regulatory_quality
+TGO,2019,Togo,-0.6211637,RQ.EST,regulatory_quality
+THA,2019,Thailand,0.0906488,RQ.EST,regulatory_quality
+TJK,2019,Tajikistan,-0.8008822999999999,RQ.EST,regulatory_quality
+TKM,2019,Turkmenistan,-1.709228,RQ.EST,regulatory_quality
+TLS,2019,Timor-Leste,-0.7789421999999999,RQ.EST,regulatory_quality
+TON,2019,Tonga,-0.24020219999999998,RQ.EST,regulatory_quality
+TTO,2019,Trinidad and Tobago,-0.10619819999999999,RQ.EST,regulatory_quality
+TUN,2019,Tunisia,-0.143639,RQ.EST,regulatory_quality
+TUR,2019,Türkiye,-0.0157501,RQ.EST,regulatory_quality
+TUV,2019,Tuvalu,-0.5897831,RQ.EST,regulatory_quality
+TWN,2019,"Taiwan, China",1.3021531,RQ.EST,regulatory_quality
+TZA,2019,Tanzania,-0.6926103,RQ.EST,regulatory_quality
+UGA,2019,Uganda,-0.4755833,RQ.EST,regulatory_quality
+UKR,2019,Ukraine,-0.2900464,RQ.EST,regulatory_quality
+URY,2019,Uruguay,0.6290701,RQ.EST,regulatory_quality
+USA,2019,United States,1.3675576,RQ.EST,regulatory_quality
+UZB,2019,Uzbekistan,-0.9215511,RQ.EST,regulatory_quality
+VCT,2019,St. Vincent and the Grenadines,0.2337241,RQ.EST,regulatory_quality
+VEN,2019,"Venezuela, RB",-2.1726804,RQ.EST,regulatory_quality
+VIR,2019,Virgin Islands (U.S.),1.1130552,RQ.EST,regulatory_quality
+VNM,2019,Viet Nam,-0.27804429999999997,RQ.EST,regulatory_quality
+VUT,2019,Vanuatu,-0.3671642,RQ.EST,regulatory_quality
+WSM,2019,Samoa,0.0037792999999999998,RQ.EST,regulatory_quality
+XKX,2019,Kosovo,-0.3751079,RQ.EST,regulatory_quality
+YEM,2019,"Yemen, Rep.",-1.5549794,RQ.EST,regulatory_quality
+ZAF,2019,South Africa,0.11879999999999999,RQ.EST,regulatory_quality
+ZMB,2019,Zambia,-0.5087837,RQ.EST,regulatory_quality
+ZWE,2019,Zimbabwe,-1.3000713,RQ.EST,regulatory_quality
+ABW,2020,Aruba,0.9835183,RQ.EST,regulatory_quality
+ADO,2020,Andorra,1.1078572,RQ.EST,regulatory_quality
+AFG,2020,Afghanistan,-1.3026506,RQ.EST,regulatory_quality
+AGO,2020,Angola,-1.0388818,RQ.EST,regulatory_quality
+AIA,2020,Anguilla,0.8710627999999999,RQ.EST,regulatory_quality
+ALB,2020,Albania,-0.019559299999999998,RQ.EST,regulatory_quality
+ARE,2020,United Arab Emirates,1.0663205999999998,RQ.EST,regulatory_quality
+ARG,2020,Argentina,-0.5471843,RQ.EST,regulatory_quality
+ARM,2020,Armenia,0.2080999,RQ.EST,regulatory_quality
+ASM,2020,American Samoa,0.3974735,RQ.EST,regulatory_quality
+ATG,2020,Antigua and Barbuda,0.576116,RQ.EST,regulatory_quality
+AUS,2020,Australia,1.7684278999999998,RQ.EST,regulatory_quality
+AUT,2020,Austria,1.4737069,RQ.EST,regulatory_quality
+AZE,2020,Azerbaijan,-0.1055885,RQ.EST,regulatory_quality
+BDI,2020,Burundi,-1.0171598,RQ.EST,regulatory_quality
+BEL,2020,Belgium,1.3238216,RQ.EST,regulatory_quality
+BEN,2020,Benin,-0.43635959999999996,RQ.EST,regulatory_quality
+BFA,2020,Burkina Faso,-0.4990944,RQ.EST,regulatory_quality
+BGD,2020,Bangladesh,-0.8942304,RQ.EST,regulatory_quality
+BGR,2020,Bulgaria,0.3077122,RQ.EST,regulatory_quality
+BHR,2020,Bahrain,0.5553823999999999,RQ.EST,regulatory_quality
+BHS,2020,"Bahamas, The",-0.011428899999999999,RQ.EST,regulatory_quality
+BIH,2020,Bosnia and Herzegovina,-0.3741576,RQ.EST,regulatory_quality
+BLR,2020,Belarus,-0.6830906,RQ.EST,regulatory_quality
+BLZ,2020,Belize,-0.5762528,RQ.EST,regulatory_quality
+BMU,2020,Bermuda,0.8710627999999999,RQ.EST,regulatory_quality
+BOL,2020,Bolivia,-1.0510123,RQ.EST,regulatory_quality
+BRA,2020,Brazil,-0.1518853,RQ.EST,regulatory_quality
+BRB,2020,Barbados,0.40146099999999996,RQ.EST,regulatory_quality
+BRN,2020,Brunei Darussalam,0.8099841999999999,RQ.EST,regulatory_quality
+BTN,2020,Bhutan,-0.0309429,RQ.EST,regulatory_quality
+BWA,2020,Botswana,0.38917029999999997,RQ.EST,regulatory_quality
+CAF,2020,Central African Republic,-1.365152,RQ.EST,regulatory_quality
+CAN,2020,Canada,1.5928787999999998,RQ.EST,regulatory_quality
+CHE,2020,Switzerland,1.6431817,RQ.EST,regulatory_quality
+CHL,2020,Chile,0.8902664,RQ.EST,regulatory_quality
+CHN,2020,China,-0.0666201,RQ.EST,regulatory_quality
+CIV,2020,Côte d’Ivoire,-0.32119949999999997,RQ.EST,regulatory_quality
+CMR,2020,Cameroon,-0.7462458,RQ.EST,regulatory_quality
+COD,2020,"Congo, Dem. Rep.",-1.3686958999999999,RQ.EST,regulatory_quality
+COG,2020,"Congo, Rep.",-1.3205807999999999,RQ.EST,regulatory_quality
+COL,2020,Colombia,0.16083899999999998,RQ.EST,regulatory_quality
+COM,2020,Comoros,-1.2775189,RQ.EST,regulatory_quality
+CPV,2020,Cabo Verde,0.0022026999999999997,RQ.EST,regulatory_quality
+CRI,2020,Costa Rica,0.5391412999999999,RQ.EST,regulatory_quality
+CUB,2020,Cuba,-1.2255038,RQ.EST,regulatory_quality
+CYM,2020,Cayman Islands,1.0775435,RQ.EST,regulatory_quality
+CYP,2020,Cyprus,0.8979193999999999,RQ.EST,regulatory_quality
+CZE,2020,Czechia,1.0899444,RQ.EST,regulatory_quality
+DEU,2020,Germany,1.5622144999999998,RQ.EST,regulatory_quality
+DJI,2020,Djibouti,-0.8309677999999999,RQ.EST,regulatory_quality
+DMA,2020,Dominica,0.1541986,RQ.EST,regulatory_quality
+DNK,2020,Denmark,1.9761315,RQ.EST,regulatory_quality
+DOM,2020,Dominican Republic,-0.09740159999999999,RQ.EST,regulatory_quality
+DZA,2020,Algeria,-1.0810328999999999,RQ.EST,regulatory_quality
+ECU,2020,Ecuador,-0.7359599,RQ.EST,regulatory_quality
+EGY,2020,"Egypt, Arab Rep.",-0.6355909,RQ.EST,regulatory_quality
+ERI,2020,Eritrea,-1.9570421999999998,RQ.EST,regulatory_quality
+ESP,2020,Spain,0.8370928,RQ.EST,regulatory_quality
+EST,2020,Estonia,1.4919949,RQ.EST,regulatory_quality
+ETH,2020,Ethiopia,-0.8158694,RQ.EST,regulatory_quality
+FIN,2020,Finland,1.9717616,RQ.EST,regulatory_quality
+FJI,2020,Fiji,-0.1526032,RQ.EST,regulatory_quality
+FRA,2020,France,1.2588514,RQ.EST,regulatory_quality
+FSM,2020,"Micronesia, Fed. Sts.",-0.8515060999999999,RQ.EST,regulatory_quality
+GAB,2020,Gabon,-0.8995732,RQ.EST,regulatory_quality
+GBR,2020,United Kingdom,1.6013639,RQ.EST,regulatory_quality
+GEO,2020,Georgia,0.8062149,RQ.EST,regulatory_quality
+GHA,2020,Ghana,-0.1601259,RQ.EST,regulatory_quality
+GIN,2020,Guinea,-0.8267359999999999,RQ.EST,regulatory_quality
+GMB,2020,"Gambia, The",-0.70407,RQ.EST,regulatory_quality
+GNB,2020,Guinea-Bissau,-1.2914875,RQ.EST,regulatory_quality
+GNQ,2020,Equatorial Guinea,-1.4963872,RQ.EST,regulatory_quality
+GRC,2020,Greece,0.44206249999999997,RQ.EST,regulatory_quality
+GRD,2020,Grenada,-0.1239178,RQ.EST,regulatory_quality
+GRL,2020,Greenland,1.5075802,RQ.EST,regulatory_quality
+GTM,2020,Guatemala,-0.3770766,RQ.EST,regulatory_quality
+GUF,2020,French Guiana,1.1571757999999999,RQ.EST,regulatory_quality
+GUM,2020,Guam,0.3974735,RQ.EST,regulatory_quality
+GUY,2020,Guyana,-0.5877644,RQ.EST,regulatory_quality
+HKG,2020,"Hong Kong SAR, China",1.8517762999999998,RQ.EST,regulatory_quality
+HND,2020,Honduras,-0.5559791,RQ.EST,regulatory_quality
+HRV,2020,Croatia,0.2017786,RQ.EST,regulatory_quality
+HTI,2020,Haiti,-1.3076843999999999,RQ.EST,regulatory_quality
+HUN,2020,Hungary,0.4381497,RQ.EST,regulatory_quality
+IDN,2020,Indonesia,0.22478089999999998,RQ.EST,regulatory_quality
+IND,2020,India,-0.1486534,RQ.EST,regulatory_quality
+IRL,2020,Ireland,1.4657053,RQ.EST,regulatory_quality
+IRN,2020,"Iran, Islamic Rep.",-1.3929586999999999,RQ.EST,regulatory_quality
+IRQ,2020,Iraq,-1.2511236,RQ.EST,regulatory_quality
+ISL,2020,Iceland,1.4674124,RQ.EST,regulatory_quality
+ISR,2020,Israel,1.1520351,RQ.EST,regulatory_quality
+ITA,2020,Italy,0.4717415,RQ.EST,regulatory_quality
+JAM,2020,Jamaica,0.0985113,RQ.EST,regulatory_quality
+JEY,2020,"Jersey, Channel Islands",1.0677035,RQ.EST,regulatory_quality
+JOR,2020,Jordan,0.1930478,RQ.EST,regulatory_quality
+JPN,2020,Japan,1.3671822999999999,RQ.EST,regulatory_quality
+KAZ,2020,Kazakhstan,0.053878699999999995,RQ.EST,regulatory_quality
+KEN,2020,Kenya,-0.46014109999999997,RQ.EST,regulatory_quality
+KGZ,2020,Kyrgyz Republic,-0.4846177,RQ.EST,regulatory_quality
+KHM,2020,Cambodia,-0.696444,RQ.EST,regulatory_quality
+KIR,2020,Kiribati,-0.5492947,RQ.EST,regulatory_quality
+KNA,2020,St. Kitts and Nevis,0.47537389999999996,RQ.EST,regulatory_quality
+KOR,2020,"Korea, Rep.",0.9083199,RQ.EST,regulatory_quality
+KWT,2020,Kuwait,0.1356131,RQ.EST,regulatory_quality
+LAO,2020,Lao PDR,-0.7757012999999999,RQ.EST,regulatory_quality
+LBN,2020,Lebanon,-0.7155520999999999,RQ.EST,regulatory_quality
+LBR,2020,Liberia,-0.9601829,RQ.EST,regulatory_quality
+LBY,2020,Libya,-1.9895714,RQ.EST,regulatory_quality
+LCA,2020,St. Lucia,0.28451699999999996,RQ.EST,regulatory_quality
+LIE,2020,Liechtenstein,1.6551308,RQ.EST,regulatory_quality
+LKA,2020,Sri Lanka,-0.1122765,RQ.EST,regulatory_quality
+LSO,2020,Lesotho,-0.7112968,RQ.EST,regulatory_quality
+LTU,2020,Lithuania,0.8963652,RQ.EST,regulatory_quality
+LUX,2020,Luxembourg,1.8008159,RQ.EST,regulatory_quality
+LVA,2020,Latvia,0.9806216,RQ.EST,regulatory_quality
+MAC,2020,"Macao SAR, China",1.4335238,RQ.EST,regulatory_quality
+MAR,2020,Morocco,0.0648279,RQ.EST,regulatory_quality
+MCO,2020,Monaco,1.3446521,RQ.EST,regulatory_quality
+MDA,2020,Moldova,-0.1518578,RQ.EST,regulatory_quality
+MDG,2020,Madagascar,-0.8711152,RQ.EST,regulatory_quality
+MDV,2020,Maldives,-0.3494424,RQ.EST,regulatory_quality
+MEX,2020,Mexico,-0.1196879,RQ.EST,regulatory_quality
+MHL,2020,Marshall Islands,-0.8924599999999999,RQ.EST,regulatory_quality
+MKD,2020,North Macedonia,0.30335,RQ.EST,regulatory_quality
+MLI,2020,Mali,-0.7294119,RQ.EST,regulatory_quality
+MLT,2020,Malta,1.0901554,RQ.EST,regulatory_quality
+MMR,2020,Myanmar,-0.7286511,RQ.EST,regulatory_quality
+MNE,2020,Montenegro,0.2464903,RQ.EST,regulatory_quality
+MNG,2020,Mongolia,-0.1342621,RQ.EST,regulatory_quality
+MOZ,2020,Mozambique,-0.7751237,RQ.EST,regulatory_quality
+MRT,2020,Mauritania,-0.8732894,RQ.EST,regulatory_quality
+MTQ,2020,Martinique,0.6342679,RQ.EST,regulatory_quality
+MUS,2020,Mauritius,0.9972365,RQ.EST,regulatory_quality
+MWI,2020,Malawi,-0.7334284999999999,RQ.EST,regulatory_quality
+MYS,2020,Malaysia,0.637551,RQ.EST,regulatory_quality
+NAM,2020,Namibia,0.0768145,RQ.EST,regulatory_quality
+NER,2020,Niger,-0.7497121999999999,RQ.EST,regulatory_quality
+NGA,2020,Nigeria,-0.8874002,RQ.EST,regulatory_quality
+NIC,2020,Nicaragua,-0.6810712999999999,RQ.EST,regulatory_quality
+NLD,2020,Netherlands,1.7647355999999998,RQ.EST,regulatory_quality
+NOR,2020,Norway,1.6975605999999999,RQ.EST,regulatory_quality
+NPL,2020,Nepal,-0.6639499999999999,RQ.EST,regulatory_quality
+NRU,2020,Nauru,-0.35336989999999996,RQ.EST,regulatory_quality
+NZL,2020,New Zealand,1.9329931,RQ.EST,regulatory_quality
+OMN,2020,Oman,0.4719412,RQ.EST,regulatory_quality
+PAK,2020,Pakistan,-0.7006155,RQ.EST,regulatory_quality
+PAN,2020,Panama,0.2697187,RQ.EST,regulatory_quality
+PER,2020,Peru,0.2250935,RQ.EST,regulatory_quality
+PHL,2020,Philippines,0.0141421,RQ.EST,regulatory_quality
+PLW,2020,Palau,0.40090499999999996,RQ.EST,regulatory_quality
+PNG,2020,Papua New Guinea,-0.5871307,RQ.EST,regulatory_quality
+POL,2020,Poland,0.6854992,RQ.EST,regulatory_quality
+PRI,2020,Puerto Rico (U.S.),0.7810589,RQ.EST,regulatory_quality
+PRK,2020,"Korea, Dem. People's Rep.",-1.9455234,RQ.EST,regulatory_quality
+PRT,2020,Portugal,0.8031995,RQ.EST,regulatory_quality
+PRY,2020,Paraguay,-0.172904,RQ.EST,regulatory_quality
+PSE,2020,West Bank and Gaza,-0.1515086,RQ.EST,regulatory_quality
+QAT,2020,Qatar,0.8435123,RQ.EST,regulatory_quality
+REU,2020,Réunion,0.6342679,RQ.EST,regulatory_quality
+ROU,2020,Romania,0.3027167,RQ.EST,regulatory_quality
+RUS,2020,Russian Federation,-0.4450265,RQ.EST,regulatory_quality
+RWA,2020,Rwanda,0.1214715,RQ.EST,regulatory_quality
+SAU,2020,Saudi Arabia,0.1732095,RQ.EST,regulatory_quality
+SDN,2020,Sudan,-1.5008576999999999,RQ.EST,regulatory_quality
+SEN,2020,Senegal,-0.2418203,RQ.EST,regulatory_quality
+SGP,2020,Singapore,2.1222024,RQ.EST,regulatory_quality
+SLB,2020,Solomon Islands,-0.9113021,RQ.EST,regulatory_quality
+SLE,2020,Sierra Leone,-0.9046862,RQ.EST,regulatory_quality
+SLV,2020,El Salvador,-0.0750467,RQ.EST,regulatory_quality
+SMR,2020,San Marino,0.8710627999999999,RQ.EST,regulatory_quality
+SOM,2020,Federal Republic of Somalia,-1.8686121,RQ.EST,regulatory_quality
+SRB,2020,Serbia,0.0652905,RQ.EST,regulatory_quality
+SSD,2020,South Sudan,-1.9522498,RQ.EST,regulatory_quality
+STP,2020,São Tomé and Príncipe,-0.8307876,RQ.EST,regulatory_quality
+SUR,2020,Suriname,-0.6956302999999999,RQ.EST,regulatory_quality
+SVK,2020,Slovak Republic,0.6096001999999999,RQ.EST,regulatory_quality
+SVN,2020,Slovenia,0.8216028999999999,RQ.EST,regulatory_quality
+SWE,2020,Sweden,1.715293,RQ.EST,regulatory_quality
+SWZ,2020,Eswatini,-0.5241574999999999,RQ.EST,regulatory_quality
+SYC,2020,Seychelles,0.2729044,RQ.EST,regulatory_quality
+SYR,2020,Syrian Arab Republic,-1.6481019,RQ.EST,regulatory_quality
+TCD,2020,Chad,-1.1473695,RQ.EST,regulatory_quality
+TGO,2020,Togo,-0.4899887,RQ.EST,regulatory_quality
+THA,2020,Thailand,0.0858661,RQ.EST,regulatory_quality
+TJK,2020,Tajikistan,-0.8081969999999999,RQ.EST,regulatory_quality
+TKM,2020,Turkmenistan,-1.7106544,RQ.EST,regulatory_quality
+TLS,2020,Timor-Leste,-0.8651416,RQ.EST,regulatory_quality
+TON,2020,Tonga,-0.3641377,RQ.EST,regulatory_quality
+TTO,2020,Trinidad and Tobago,-0.1286426,RQ.EST,regulatory_quality
+TUN,2020,Tunisia,-0.1095893,RQ.EST,regulatory_quality
+TUR,2020,Türkiye,-0.1651388,RQ.EST,regulatory_quality
+TUV,2020,Tuvalu,-0.6850119,RQ.EST,regulatory_quality
+TWN,2020,"Taiwan, China",1.2702715,RQ.EST,regulatory_quality
+TZA,2020,Tanzania,-0.7243573,RQ.EST,regulatory_quality
+UGA,2020,Uganda,-0.4951406,RQ.EST,regulatory_quality
+UKR,2020,Ukraine,-0.34963259999999996,RQ.EST,regulatory_quality
+URY,2020,Uruguay,0.6994509,RQ.EST,regulatory_quality
+USA,2020,United States,1.2778639,RQ.EST,regulatory_quality
+UZB,2020,Uzbekistan,-1.0224974,RQ.EST,regulatory_quality
+VCT,2020,St. Vincent and the Grenadines,0.1719049,RQ.EST,regulatory_quality
+VEN,2020,"Venezuela, RB",-2.1686654,RQ.EST,regulatory_quality
+VIR,2020,Virgin Islands (U.S.),1.1078572,RQ.EST,regulatory_quality
+VNM,2020,Viet Nam,-0.23585309999999998,RQ.EST,regulatory_quality
+VUT,2020,Vanuatu,-0.42194299999999996,RQ.EST,regulatory_quality
+WSM,2020,Samoa,-0.07753,RQ.EST,regulatory_quality
+XKX,2020,Kosovo,-0.3899511,RQ.EST,regulatory_quality
+YEM,2020,"Yemen, Rep.",-1.6085384,RQ.EST,regulatory_quality
+ZAF,2020,South Africa,0.08990669999999999,RQ.EST,regulatory_quality
+ZMB,2020,Zambia,-0.6127925,RQ.EST,regulatory_quality
+ZWE,2020,Zimbabwe,-1.3302143,RQ.EST,regulatory_quality
+ABW,2021,Aruba,0.9825611,RQ.EST,regulatory_quality
+ADO,2021,Andorra,1.1057664,RQ.EST,regulatory_quality
+AFG,2021,Afghanistan,-1.4099446999999998,RQ.EST,regulatory_quality
+AGO,2021,Angola,-0.8486184,RQ.EST,regulatory_quality
+AIA,2021,Anguilla,0.868972,RQ.EST,regulatory_quality
+ALB,2021,Albania,-0.0049463,RQ.EST,regulatory_quality
+ARE,2021,United Arab Emirates,1.0613347,RQ.EST,regulatory_quality
+ARG,2021,Argentina,-0.5840242999999999,RQ.EST,regulatory_quality
+ARM,2021,Armenia,0.1972098,RQ.EST,regulatory_quality
+ASM,2021,American Samoa,0.3953827,RQ.EST,regulatory_quality
+ATG,2021,Antigua and Barbuda,0.5644068,RQ.EST,regulatory_quality
+AUS,2021,Australia,1.7860102999999998,RQ.EST,regulatory_quality
+AUT,2021,Austria,1.4481822,RQ.EST,regulatory_quality
+AZE,2021,Azerbaijan,-0.0594814,RQ.EST,regulatory_quality
+BDI,2021,Burundi,-1.0000411999999999,RQ.EST,regulatory_quality
+BEL,2021,Belgium,1.3954035,RQ.EST,regulatory_quality
+BEN,2021,Benin,-0.3792796,RQ.EST,regulatory_quality
+BFA,2021,Burkina Faso,-0.4590282,RQ.EST,regulatory_quality
+BGD,2021,Bangladesh,-0.8711764999999999,RQ.EST,regulatory_quality
+BGR,2021,Bulgaria,0.32292889999999996,RQ.EST,regulatory_quality
+BHR,2021,Bahrain,0.7964884999999999,RQ.EST,regulatory_quality
+BHS,2021,"Bahamas, The",-0.020375,RQ.EST,regulatory_quality
+BIH,2021,Bosnia and Herzegovina,-0.3797619,RQ.EST,regulatory_quality
+BLR,2021,Belarus,-0.7942597,RQ.EST,regulatory_quality
+BLZ,2021,Belize,-0.6067267,RQ.EST,regulatory_quality
+BMU,2021,Bermuda,0.868972,RQ.EST,regulatory_quality
+BOL,2021,Bolivia,-1.117001,RQ.EST,regulatory_quality
+BRA,2021,Brazil,-0.1510718,RQ.EST,regulatory_quality
+BRB,2021,Barbados,0.4761062,RQ.EST,regulatory_quality
+BRN,2021,Brunei Darussalam,0.86713,RQ.EST,regulatory_quality
+BTN,2021,Bhutan,-0.0451337,RQ.EST,regulatory_quality
+BWA,2021,Botswana,0.459995,RQ.EST,regulatory_quality
+CAF,2021,Central African Republic,-1.3937882,RQ.EST,regulatory_quality
+CAN,2021,Canada,1.6316738,RQ.EST,regulatory_quality
+CHE,2021,Switzerland,1.7598954,RQ.EST,regulatory_quality
+CHL,2021,Chile,0.8736894,RQ.EST,regulatory_quality
+CHN,2021,China,-0.0246937,RQ.EST,regulatory_quality
+CIV,2021,Côte d’Ivoire,-0.289141,RQ.EST,regulatory_quality
+CMR,2021,Cameroon,-0.8167198999999999,RQ.EST,regulatory_quality
+COD,2021,"Congo, Dem. Rep.",-1.3231263,RQ.EST,regulatory_quality
+COG,2021,"Congo, Rep.",-1.1613755,RQ.EST,regulatory_quality
+COL,2021,Colombia,0.2365791,RQ.EST,regulatory_quality
+COM,2021,Comoros,-1.330504,RQ.EST,regulatory_quality
+CPV,2021,Cabo Verde,0.0657809,RQ.EST,regulatory_quality
+CRI,2021,Costa Rica,0.5605960999999999,RQ.EST,regulatory_quality
+CUB,2021,Cuba,-1.1730802,RQ.EST,regulatory_quality
+CYM,2021,Cayman Islands,1.0765863,RQ.EST,regulatory_quality
+CYP,2021,Cyprus,0.8484872999999999,RQ.EST,regulatory_quality
+CZE,2021,Czechia,1.2403943,RQ.EST,regulatory_quality
+DEU,2021,Germany,1.6129105,RQ.EST,regulatory_quality
+DJI,2021,Djibouti,-0.7686696,RQ.EST,regulatory_quality
+DMA,2021,Dominica,0.14930749999999998,RQ.EST,regulatory_quality
+DNK,2021,Denmark,1.9974992999999999,RQ.EST,regulatory_quality
+DOM,2021,Dominican Republic,-0.0103431,RQ.EST,regulatory_quality
+DZA,2021,Algeria,-0.9720042,RQ.EST,regulatory_quality
+ECU,2021,Ecuador,-0.5551263,RQ.EST,regulatory_quality
+EGY,2021,"Egypt, Arab Rep.",-0.5701379,RQ.EST,regulatory_quality
+ERI,2021,Eritrea,-1.9888014999999999,RQ.EST,regulatory_quality
+ESP,2021,Spain,0.9211695,RQ.EST,regulatory_quality
+EST,2021,Estonia,1.5595497,RQ.EST,regulatory_quality
+ETH,2021,Ethiopia,-0.7684521,RQ.EST,regulatory_quality
+FIN,2021,Finland,2.0110042999999997,RQ.EST,regulatory_quality
+FJI,2021,Fiji,-0.0698337,RQ.EST,regulatory_quality
+FRA,2021,France,1.2843889,RQ.EST,regulatory_quality
+FSM,2021,"Micronesia, Fed. Sts.",-0.761884,RQ.EST,regulatory_quality
+GAB,2021,Gabon,-0.8324927999999999,RQ.EST,regulatory_quality
+GBR,2021,United Kingdom,1.600758,RQ.EST,regulatory_quality
+GEO,2021,Georgia,0.8431074,RQ.EST,regulatory_quality
+GHA,2021,Ghana,-0.1880837,RQ.EST,regulatory_quality
+GIN,2021,Guinea,-0.9127892999999999,RQ.EST,regulatory_quality
+GMB,2021,"Gambia, The",-0.7545354999999999,RQ.EST,regulatory_quality
+GNB,2021,Guinea-Bissau,-1.3114711,RQ.EST,regulatory_quality
+GNQ,2021,Equatorial Guinea,-1.4969104,RQ.EST,regulatory_quality
+GRC,2021,Greece,0.3962921,RQ.EST,regulatory_quality
+GRD,2021,Grenada,-0.0492583,RQ.EST,regulatory_quality
+GRL,2021,Greenland,1.5060874,RQ.EST,regulatory_quality
+GTM,2021,Guatemala,-0.38599279999999997,RQ.EST,regulatory_quality
+GUF,2021,French Guiana,1.1562185,RQ.EST,regulatory_quality
+GUM,2021,Guam,0.3953827,RQ.EST,regulatory_quality
+GUY,2021,Guyana,-0.5733425,RQ.EST,regulatory_quality
+HKG,2021,"Hong Kong SAR, China",1.7461556,RQ.EST,regulatory_quality
+HND,2021,Honduras,-0.6069842999999999,RQ.EST,regulatory_quality
+HRV,2021,Croatia,0.3318001,RQ.EST,regulatory_quality
+HTI,2021,Haiti,-1.4160753,RQ.EST,regulatory_quality
+HUN,2021,Hungary,0.4002885,RQ.EST,regulatory_quality
+IDN,2021,Indonesia,0.3421673,RQ.EST,regulatory_quality
+IND,2021,India,-0.16991489999999998,RQ.EST,regulatory_quality
+IRL,2021,Ireland,1.621098,RQ.EST,regulatory_quality
+IRN,2021,"Iran, Islamic Rep.",-1.3936203999999999,RQ.EST,regulatory_quality
+IRQ,2021,Iraq,-1.1622157,RQ.EST,regulatory_quality
+ISL,2021,Iceland,1.6297845,RQ.EST,regulatory_quality
+ISR,2021,Israel,1.1753426,RQ.EST,regulatory_quality
+ITA,2021,Italy,0.5735641,RQ.EST,regulatory_quality
+JAM,2021,Jamaica,0.1818115,RQ.EST,regulatory_quality
+JEY,2021,"Jersey, Channel Islands",1.0662106999999998,RQ.EST,regulatory_quality
+JOR,2021,Jordan,0.1917529,RQ.EST,regulatory_quality
+JPN,2021,Japan,1.3955783,RQ.EST,regulatory_quality
+KAZ,2021,Kazakhstan,0.013236699999999999,RQ.EST,regulatory_quality
+KEN,2021,Kenya,-0.42481349999999996,RQ.EST,regulatory_quality
+KGZ,2021,Kyrgyz Republic,-0.5122396,RQ.EST,regulatory_quality
+KHM,2021,Cambodia,-0.6885401,RQ.EST,regulatory_quality
+KIR,2021,Kiribati,-0.5500931,RQ.EST,regulatory_quality
+KNA,2021,St. Kitts and Nevis,0.489946,RQ.EST,regulatory_quality
+KOR,2021,"Korea, Rep.",0.9879994999999999,RQ.EST,regulatory_quality
+KWT,2021,Kuwait,0.16417009999999999,RQ.EST,regulatory_quality
+LAO,2021,Lao PDR,-0.7420677999999999,RQ.EST,regulatory_quality
+LBN,2021,Lebanon,-0.8217369999999999,RQ.EST,regulatory_quality
+LBR,2021,Liberia,-0.9457247999999999,RQ.EST,regulatory_quality
+LBY,2021,Libya,-1.9018167,RQ.EST,regulatory_quality
+LCA,2021,St. Lucia,0.19962439999999998,RQ.EST,regulatory_quality
+LIE,2021,Liechtenstein,1.5620661999999998,RQ.EST,regulatory_quality
+LKA,2021,Sri Lanka,-0.1629445,RQ.EST,regulatory_quality
+LSO,2021,Lesotho,-0.6526333,RQ.EST,regulatory_quality
+LTU,2021,Lithuania,1.1708847999999998,RQ.EST,regulatory_quality
+LUX,2021,Luxembourg,1.8555011,RQ.EST,regulatory_quality
+LVA,2021,Latvia,1.1028018,RQ.EST,regulatory_quality
+MAC,2021,"Macao SAR, China",1.4327093,RQ.EST,regulatory_quality
+MAR,2021,Morocco,-0.0751135,RQ.EST,regulatory_quality
+MCO,2021,Monaco,1.3425612999999998,RQ.EST,regulatory_quality
+MDA,2021,Moldova,-0.0862631,RQ.EST,regulatory_quality
+MDG,2021,Madagascar,-0.8689985,RQ.EST,regulatory_quality
+MDV,2021,Maldives,-0.2598203,RQ.EST,regulatory_quality
+MEX,2021,Mexico,-0.19128219999999999,RQ.EST,regulatory_quality
+MHL,2021,Marshall Islands,-0.8933951,RQ.EST,regulatory_quality
+MKD,2021,North Macedonia,0.22386419999999999,RQ.EST,regulatory_quality
+MLI,2021,Mali,-0.6697155,RQ.EST,regulatory_quality
+MLT,2021,Malta,0.7210401,RQ.EST,regulatory_quality
+MMR,2021,Myanmar,-1.1369346999999999,RQ.EST,regulatory_quality
+MNE,2021,Montenegro,0.2209769,RQ.EST,regulatory_quality
+MNG,2021,Mongolia,-0.1284159,RQ.EST,regulatory_quality
+MOZ,2021,Mozambique,-0.8186743,RQ.EST,regulatory_quality
+MRT,2021,Mauritania,-0.9699002999999999,RQ.EST,regulatory_quality
+MTQ,2021,Martinique,0.6321770999999999,RQ.EST,regulatory_quality
+MUS,2021,Mauritius,0.9383775999999999,RQ.EST,regulatory_quality
+MWI,2021,Malawi,-0.6948634,RQ.EST,regulatory_quality
+MYS,2021,Malaysia,0.7295908,RQ.EST,regulatory_quality
+NAM,2021,Namibia,0.14924469999999998,RQ.EST,regulatory_quality
+NER,2021,Niger,-0.6944663999999999,RQ.EST,regulatory_quality
+NGA,2021,Nigeria,-0.8726579,RQ.EST,regulatory_quality
+NIC,2021,Nicaragua,-0.8867041,RQ.EST,regulatory_quality
+NLD,2021,Netherlands,1.8243489,RQ.EST,regulatory_quality
+NOR,2021,Norway,1.6492377999999999,RQ.EST,regulatory_quality
+NPL,2021,Nepal,-0.6375284,RQ.EST,regulatory_quality
+NRU,2021,Nauru,-0.3552132,RQ.EST,regulatory_quality
+NZL,2021,New Zealand,1.8534819,RQ.EST,regulatory_quality
+OMN,2021,Oman,0.4254017,RQ.EST,regulatory_quality
+PAK,2021,Pakistan,-0.6543467,RQ.EST,regulatory_quality
+PAN,2021,Panama,0.2114141,RQ.EST,regulatory_quality
+PER,2021,Peru,0.08483249999999999,RQ.EST,regulatory_quality
+PHL,2021,Philippines,0.0148496,RQ.EST,regulatory_quality
+PLW,2021,Palau,0.39906169999999996,RQ.EST,regulatory_quality
+PNG,2021,Papua New Guinea,-0.7514953999999999,RQ.EST,regulatory_quality
+POL,2021,Poland,0.6736094,RQ.EST,regulatory_quality
+PRI,2021,Puerto Rico (U.S.),0.7802388,RQ.EST,regulatory_quality
+PRK,2021,"Korea, Dem. People's Rep.",-1.9459904,RQ.EST,regulatory_quality
+PRT,2021,Portugal,0.7505542,RQ.EST,regulatory_quality
+PRY,2021,Paraguay,-0.1860035,RQ.EST,regulatory_quality
+PSE,2021,West Bank and Gaza,-0.1524659,RQ.EST,regulatory_quality
+QAT,2021,Qatar,0.8424347,RQ.EST,regulatory_quality
+REU,2021,Réunion,0.6321770999999999,RQ.EST,regulatory_quality
+ROU,2021,Romania,0.31459159999999997,RQ.EST,regulatory_quality
+RUS,2021,Russian Federation,-0.3720054,RQ.EST,regulatory_quality
+RWA,2021,Rwanda,0.1620438,RQ.EST,regulatory_quality
+SAU,2021,Saudi Arabia,0.3876301,RQ.EST,regulatory_quality
+SDN,2021,Sudan,-1.4884613999999998,RQ.EST,regulatory_quality
+SEN,2021,Senegal,-0.2406738,RQ.EST,regulatory_quality
+SGP,2021,Singapore,2.1352444,RQ.EST,regulatory_quality
+SLB,2021,Solomon Islands,-1.057786,RQ.EST,regulatory_quality
+SLE,2021,Sierra Leone,-0.9134766999999999,RQ.EST,regulatory_quality
+SLV,2021,El Salvador,-0.2893204,RQ.EST,regulatory_quality
+SMR,2021,San Marino,0.868972,RQ.EST,regulatory_quality
+SOM,2021,Federal Republic of Somalia,-1.7880177,RQ.EST,regulatory_quality
+SRB,2021,Serbia,0.0556174,RQ.EST,regulatory_quality
+SSD,2021,South Sudan,-1.9338544999999998,RQ.EST,regulatory_quality
+STP,2021,São Tomé and Príncipe,-0.8221936,RQ.EST,regulatory_quality
+SUR,2021,Suriname,-0.6285837,RQ.EST,regulatory_quality
+SVK,2021,Slovak Republic,0.7412158,RQ.EST,regulatory_quality
+SVN,2021,Slovenia,0.8294744,RQ.EST,regulatory_quality
+SWE,2021,Sweden,1.6807618,RQ.EST,regulatory_quality
+SWZ,2021,Eswatini,-0.5237379,RQ.EST,regulatory_quality
+SYC,2021,Seychelles,0.2723347,RQ.EST,regulatory_quality
+SYR,2021,Syrian Arab Republic,-1.75501,RQ.EST,regulatory_quality
+TCD,2021,Chad,-1.0888251,RQ.EST,regulatory_quality
+TGO,2021,Togo,-0.4817275,RQ.EST,regulatory_quality
+THA,2021,Thailand,0.10320649999999999,RQ.EST,regulatory_quality
+TJK,2021,Tajikistan,-0.8413027,RQ.EST,regulatory_quality
+TKM,2021,Turkmenistan,-1.7112281,RQ.EST,regulatory_quality
+TLS,2021,Timor-Leste,-0.86557,RQ.EST,regulatory_quality
+TON,2021,Tonga,-0.29567709999999997,RQ.EST,regulatory_quality
+TTO,2021,Trinidad and Tobago,-0.0548088,RQ.EST,regulatory_quality
+TUN,2021,Tunisia,-0.19947009999999998,RQ.EST,regulatory_quality
+TUR,2021,Türkiye,-0.12313379999999999,RQ.EST,regulatory_quality
+TUV,2021,Tuvalu,-0.5930428,RQ.EST,regulatory_quality
+TWN,2021,"Taiwan, China",1.3411035999999998,RQ.EST,regulatory_quality
+TZA,2021,Tanzania,-0.6753391999999999,RQ.EST,regulatory_quality
+UGA,2021,Uganda,-0.4789234,RQ.EST,regulatory_quality
+UKR,2021,Ukraine,-0.3585413,RQ.EST,regulatory_quality
+URY,2021,Uruguay,0.7331802,RQ.EST,regulatory_quality
+USA,2021,United States,1.4642419,RQ.EST,regulatory_quality
+UZB,2021,Uzbekistan,-0.6939061,RQ.EST,regulatory_quality
+VCT,2021,St. Vincent and the Grenadines,0.141278,RQ.EST,regulatory_quality
+VEN,2021,"Venezuela, RB",-2.0857455,RQ.EST,regulatory_quality
+VIR,2021,Virgin Islands (U.S.),1.1057664,RQ.EST,regulatory_quality
+VNM,2021,Viet Nam,-0.3447202,RQ.EST,regulatory_quality
+VUT,2021,Vanuatu,-0.4321259,RQ.EST,regulatory_quality
+WSM,2021,Samoa,-0.16874889999999998,RQ.EST,regulatory_quality
+XKX,2021,Kosovo,-0.3739534,RQ.EST,regulatory_quality
+YEM,2021,"Yemen, Rep.",-1.6070255,RQ.EST,regulatory_quality
+ZAF,2021,South Africa,0.0177391,RQ.EST,regulatory_quality
+ZMB,2021,Zambia,-0.5122202,RQ.EST,regulatory_quality
+ZWE,2021,Zimbabwe,-1.3253500999999999,RQ.EST,regulatory_quality
+ABW,2022,Aruba,0.9800097999999999,RQ.EST,regulatory_quality
+ADO,2022,Andorra,1.1001942,RQ.EST,regulatory_quality
+AFG,2022,Afghanistan,-1.4229756,RQ.EST,regulatory_quality
+AGO,2022,Angola,-0.8618821,RQ.EST,regulatory_quality
+AIA,2022,Anguilla,0.8633997999999999,RQ.EST,regulatory_quality
+ALB,2022,Albania,0.0155769,RQ.EST,regulatory_quality
+ARE,2022,United Arab Emirates,1.0576162,RQ.EST,regulatory_quality
+ARG,2022,Argentina,-0.5792423,RQ.EST,regulatory_quality
+ARM,2022,Armenia,0.07832599999999999,RQ.EST,regulatory_quality
+ASM,2022,American Samoa,0.3898105,RQ.EST,regulatory_quality
+ATG,2022,Antigua and Barbuda,0.4644715,RQ.EST,regulatory_quality
+AUS,2022,Australia,1.8002733,RQ.EST,regulatory_quality
+AUT,2022,Austria,1.4011869,RQ.EST,regulatory_quality
+AZE,2022,Azerbaijan,-0.060632099999999994,RQ.EST,regulatory_quality
+BDI,2022,Burundi,-0.9203619,RQ.EST,regulatory_quality
+BEL,2022,Belgium,1.4079656999999999,RQ.EST,regulatory_quality
+BEN,2022,Benin,-0.2859729,RQ.EST,regulatory_quality
+BFA,2022,Burkina Faso,-0.49767399999999995,RQ.EST,regulatory_quality
+BGD,2022,Bangladesh,-0.9240476,RQ.EST,regulatory_quality
+BGR,2022,Bulgaria,0.2475956,RQ.EST,regulatory_quality
+BHR,2022,Bahrain,0.8697952999999999,RQ.EST,regulatory_quality
+BHS,2022,"Bahamas, The",-0.0671185,RQ.EST,regulatory_quality
+BIH,2022,Bosnia and Herzegovina,-0.3795221,RQ.EST,regulatory_quality
+BLR,2022,Belarus,-1.0760793,RQ.EST,regulatory_quality
+BLZ,2022,Belize,-0.617476,RQ.EST,regulatory_quality
+BMU,2022,Bermuda,0.8633997999999999,RQ.EST,regulatory_quality
+BOL,2022,Bolivia,-1.1373514999999998,RQ.EST,regulatory_quality
+BRA,2022,Brazil,-0.1989311,RQ.EST,regulatory_quality
+BRB,2022,Barbados,0.4039531,RQ.EST,regulatory_quality
+BRN,2022,Brunei Darussalam,0.8654815,RQ.EST,regulatory_quality
+BTN,2022,Bhutan,-0.10935779999999999,RQ.EST,regulatory_quality
+BWA,2022,Botswana,0.4849039,RQ.EST,regulatory_quality
+CAF,2022,Central African Republic,-1.3694826999999998,RQ.EST,regulatory_quality
+CAN,2022,Canada,1.6322147999999999,RQ.EST,regulatory_quality
+CHE,2022,Switzerland,1.7620014,RQ.EST,regulatory_quality
+CHL,2022,Chile,0.8278002999999999,RQ.EST,regulatory_quality
+CHN,2022,China,-0.0908271,RQ.EST,regulatory_quality
+CIV,2022,Côte d’Ivoire,-0.2155259,RQ.EST,regulatory_quality
+CMR,2022,Cameroon,-0.7549412999999999,RQ.EST,regulatory_quality
+COD,2022,"Congo, Dem. Rep.",-1.3074062,RQ.EST,regulatory_quality
+COG,2022,"Congo, Rep.",-1.2181294,RQ.EST,regulatory_quality
+COK,2022,Cook Islands,-0.2207362,RQ.EST,regulatory_quality
+COL,2022,Colombia,0.18642129999999998,RQ.EST,regulatory_quality
+COM,2022,Comoros,-1.2493257,RQ.EST,regulatory_quality
+CPV,2022,Cabo Verde,0.0965552,RQ.EST,regulatory_quality
+CRI,2022,Costa Rica,0.5923862999999999,RQ.EST,regulatory_quality
+CUB,2022,Cuba,-1.1673033,RQ.EST,regulatory_quality
+CYM,2022,Cayman Islands,1.0740349999999999,RQ.EST,regulatory_quality
+CYP,2022,Cyprus,0.7331312999999999,RQ.EST,regulatory_quality
+CZE,2022,Czechia,1.3279348,RQ.EST,regulatory_quality
+DEU,2022,Germany,1.5636199,RQ.EST,regulatory_quality
+DJI,2022,Djibouti,-0.7693637999999999,RQ.EST,regulatory_quality
+DMA,2022,Dominica,0.14716579999999999,RQ.EST,regulatory_quality
+DNK,2022,Denmark,2.020588,RQ.EST,regulatory_quality
+DOM,2022,Dominican Republic,-0.059831499999999996,RQ.EST,regulatory_quality
+DZA,2022,Algeria,-0.8782506,RQ.EST,regulatory_quality
+ECU,2022,Ecuador,-0.4783493,RQ.EST,regulatory_quality
+EGY,2022,"Egypt, Arab Rep.",-0.6685017,RQ.EST,regulatory_quality
+ERI,2022,Eritrea,-1.9894957,RQ.EST,regulatory_quality
+ESP,2022,Spain,0.8379078999999999,RQ.EST,regulatory_quality
+EST,2022,Estonia,1.5410127,RQ.EST,regulatory_quality
+ETH,2022,Ethiopia,-0.7815691,RQ.EST,regulatory_quality
+FIN,2022,Finland,1.9092509,RQ.EST,regulatory_quality
+FJI,2022,Fiji,-0.0999849,RQ.EST,regulatory_quality
+FRA,2022,France,1.2688944,RQ.EST,regulatory_quality
+FSM,2022,"Micronesia, Fed. Sts.",-0.7640118,RQ.EST,regulatory_quality
+GAB,2022,Gabon,-0.7600762999999999,RQ.EST,regulatory_quality
+GBR,2022,United Kingdom,1.6491931,RQ.EST,regulatory_quality
+GEO,2022,Georgia,0.7730594,RQ.EST,regulatory_quality
+GHA,2022,Ghana,-0.1621235,RQ.EST,regulatory_quality
+GIN,2022,Guinea,-0.9605376999999999,RQ.EST,regulatory_quality
+GMB,2022,"Gambia, The",-0.673555,RQ.EST,regulatory_quality
+GNB,2022,Guinea-Bissau,-1.3122353999999998,RQ.EST,regulatory_quality
+GNQ,2022,Equatorial Guinea,-1.2793839,RQ.EST,regulatory_quality
+GRC,2022,Greece,0.42123679999999997,RQ.EST,regulatory_quality
+GRD,2022,Grenada,-0.040791,RQ.EST,regulatory_quality
+GRL,2022,Greenland,1.3554833,RQ.EST,regulatory_quality
+GTM,2022,Guatemala,-0.3817018,RQ.EST,regulatory_quality
+GUF,2022,French Guiana,1.059642,RQ.EST,regulatory_quality
+GUM,2022,Guam,0.3898105,RQ.EST,regulatory_quality
+GUY,2022,Guyana,-0.6476546999999999,RQ.EST,regulatory_quality
+HKG,2022,"Hong Kong SAR, China",1.7235844,RQ.EST,regulatory_quality
+HND,2022,Honduras,-0.6195218,RQ.EST,regulatory_quality
+HRV,2022,Croatia,0.2993308,RQ.EST,regulatory_quality
+HTI,2022,Haiti,-1.4171863999999998,RQ.EST,regulatory_quality
+HUN,2022,Hungary,0.2882324,RQ.EST,regulatory_quality
+IDN,2022,Indonesia,0.2811244,RQ.EST,regulatory_quality
+IND,2022,India,-0.087658,RQ.EST,regulatory_quality
+IRL,2022,Ireland,1.766517,RQ.EST,regulatory_quality
+IRN,2022,"Iran, Islamic Rep.",-1.3976255,RQ.EST,regulatory_quality
+IRQ,2022,Iraq,-1.2214123,RQ.EST,regulatory_quality
+ISL,2022,Iceland,1.4250509,RQ.EST,regulatory_quality
+ISR,2022,Israel,1.1223554999999998,RQ.EST,regulatory_quality
+ITA,2022,Italy,0.6011866,RQ.EST,regulatory_quality
+JAM,2022,Jamaica,0.17068519999999998,RQ.EST,regulatory_quality
+JEY,2022,"Jersey, Channel Islands",1.0622322,RQ.EST,regulatory_quality
+JOR,2022,Jordan,0.21170709999999998,RQ.EST,regulatory_quality
+JPN,2022,Japan,1.4106972,RQ.EST,regulatory_quality
+KAZ,2022,Kazakhstan,-0.0640574,RQ.EST,regulatory_quality
+KEN,2022,Kenya,-0.3909087,RQ.EST,regulatory_quality
+KGZ,2022,Kyrgyz Republic,-0.5260208,RQ.EST,regulatory_quality
+KHM,2022,Cambodia,-0.6946692,RQ.EST,regulatory_quality
+KIR,2022,Kiribati,-0.5337443,RQ.EST,regulatory_quality
+KNA,2022,St. Kitts and Nevis,0.5342169999999999,RQ.EST,regulatory_quality
+KOR,2022,"Korea, Rep.",1.01728,RQ.EST,regulatory_quality
+KWT,2022,Kuwait,0.2464239,RQ.EST,regulatory_quality
+LAO,2022,Lao PDR,-0.8188603999999999,RQ.EST,regulatory_quality
+LBN,2022,Lebanon,-0.9433231999999999,RQ.EST,regulatory_quality
+LBR,2022,Liberia,-0.9669681999999999,RQ.EST,regulatory_quality
+LBY,2022,Libya,-1.9030703999999998,RQ.EST,regulatory_quality
+LCA,2022,St. Lucia,0.2002621,RQ.EST,regulatory_quality
+LIE,2022,Liechtenstein,1.5352187,RQ.EST,regulatory_quality
+LKA,2022,Sri Lanka,-0.456906,RQ.EST,regulatory_quality
+LSO,2022,Lesotho,-0.5786676,RQ.EST,regulatory_quality
+LTU,2022,Lithuania,1.1852774,RQ.EST,regulatory_quality
+LUX,2022,Luxembourg,1.8671502999999998,RQ.EST,regulatory_quality
+LVA,2022,Latvia,0.9590620999999999,RQ.EST,regulatory_quality
+MAC,2022,"Macao SAR, China",1.4305385,RQ.EST,regulatory_quality
+MAR,2022,Morocco,-0.08118159999999999,RQ.EST,regulatory_quality
+MCO,2022,Monaco,1.3369891,RQ.EST,regulatory_quality
+MDA,2022,Moldova,-0.0435626,RQ.EST,regulatory_quality
+MDG,2022,Madagascar,-0.8313081999999999,RQ.EST,regulatory_quality
+MDV,2022,Maldives,-0.3523685,RQ.EST,regulatory_quality
+MEX,2022,Mexico,-0.156337,RQ.EST,regulatory_quality
+MHL,2022,Marshall Islands,-0.9175268,RQ.EST,regulatory_quality
+MKD,2022,North Macedonia,0.2225911,RQ.EST,regulatory_quality
+MLI,2022,Mali,-0.7107857,RQ.EST,regulatory_quality
+MLT,2022,Malta,0.5640571999999999,RQ.EST,regulatory_quality
+MMR,2022,Myanmar,-1.2603465999999999,RQ.EST,regulatory_quality
+MNE,2022,Montenegro,0.2592331,RQ.EST,regulatory_quality
+MNG,2022,Mongolia,-0.19462559999999998,RQ.EST,regulatory_quality
+MOZ,2022,Mozambique,-0.7862195,RQ.EST,regulatory_quality
+MRT,2022,Mauritania,-0.9681656999999999,RQ.EST,regulatory_quality
+MTQ,2022,Martinique,0.6266049,RQ.EST,regulatory_quality
+MUS,2022,Mauritius,0.8968459999999999,RQ.EST,regulatory_quality
+MWI,2022,Malawi,-0.669774,RQ.EST,regulatory_quality
+MYS,2022,Malaysia,0.6557653999999999,RQ.EST,regulatory_quality
+NAM,2022,Namibia,0.0818334,RQ.EST,regulatory_quality
+NER,2022,Niger,-0.6740254,RQ.EST,regulatory_quality
+NGA,2022,Nigeria,-0.9963194,RQ.EST,regulatory_quality
+NIC,2022,Nicaragua,-1.0016657,RQ.EST,regulatory_quality
+NIU,2022,Niue,-0.9105135999999999,RQ.EST,regulatory_quality
+NLD,2022,Netherlands,1.7233661999999998,RQ.EST,regulatory_quality
+NOR,2022,Norway,1.5730046,RQ.EST,regulatory_quality
+NPL,2022,Nepal,-0.5966637,RQ.EST,regulatory_quality
+NRU,2022,Nauru,-0.3601258,RQ.EST,regulatory_quality
+NZL,2022,New Zealand,1.8604747,RQ.EST,regulatory_quality
+OMN,2022,Oman,0.46795539999999997,RQ.EST,regulatory_quality
+PAK,2022,Pakistan,-0.7653493,RQ.EST,regulatory_quality
+PAN,2022,Panama,0.0393931,RQ.EST,regulatory_quality
+PER,2022,Peru,0.07164129999999999,RQ.EST,regulatory_quality
+PHL,2022,Philippines,0.0048008999999999994,RQ.EST,regulatory_quality
+PLW,2022,Palau,0.39414899999999997,RQ.EST,regulatory_quality
+PNG,2022,Papua New Guinea,-0.7469684,RQ.EST,regulatory_quality
+POL,2022,Poland,0.6870197,RQ.EST,regulatory_quality
+PRI,2022,Puerto Rico (U.S.),0.7775664,RQ.EST,regulatory_quality
+PRK,2022,"Korea, Dem. People's Rep.",-1.9472349999999998,RQ.EST,regulatory_quality
+PRT,2022,Portugal,0.8086011999999999,RQ.EST,regulatory_quality
+PRY,2022,Paraguay,-0.2027128,RQ.EST,regulatory_quality
+PSE,2022,West Bank and Gaza,-0.1550172,RQ.EST,regulatory_quality
+QAT,2022,Qatar,0.8839636999999999,RQ.EST,regulatory_quality
+REU,2022,Réunion,0.6266049,RQ.EST,regulatory_quality
+ROU,2022,Romania,0.3937269,RQ.EST,regulatory_quality
+RUS,2022,Russian Federation,-0.8919419,RQ.EST,regulatory_quality
+RWA,2022,Rwanda,0.1548275,RQ.EST,regulatory_quality
+SAU,2022,Saudi Arabia,0.554186,RQ.EST,regulatory_quality
+SDN,2022,Sudan,-1.5498089,RQ.EST,regulatory_quality
+SEN,2022,Senegal,-0.25131729999999997,RQ.EST,regulatory_quality
+SGP,2022,Singapore,2.049181,RQ.EST,regulatory_quality
+SLB,2022,Solomon Islands,-1.059641,RQ.EST,regulatory_quality
+SLE,2022,Sierra Leone,-1.0054349999999999,RQ.EST,regulatory_quality
+SLV,2022,El Salvador,-0.3858311,RQ.EST,regulatory_quality
+SMR,2022,San Marino,0.8633997999999999,RQ.EST,regulatory_quality
+SOM,2022,Federal Republic of Somalia,-1.7887408,RQ.EST,regulatory_quality
+SRB,2022,Serbia,0.08925659999999999,RQ.EST,regulatory_quality
+SSD,2022,South Sudan,-1.934717,RQ.EST,regulatory_quality
+STP,2022,São Tomé and Príncipe,-0.818472,RQ.EST,regulatory_quality
+SUR,2022,Suriname,-0.7183594999999999,RQ.EST,regulatory_quality
+SVK,2022,Slovak Republic,0.7261799,RQ.EST,regulatory_quality
+SVN,2022,Slovenia,0.7372169,RQ.EST,regulatory_quality
+SWE,2022,Sweden,1.6240804,RQ.EST,regulatory_quality
+SWZ,2022,Eswatini,-0.6219764999999999,RQ.EST,regulatory_quality
+SYC,2022,Seychelles,0.3267766,RQ.EST,regulatory_quality
+SYR,2022,Syrian Arab Republic,-1.8921267,RQ.EST,regulatory_quality
+TCD,2022,Chad,-1.0433507,RQ.EST,regulatory_quality
+TGO,2022,Togo,-0.4208338,RQ.EST,regulatory_quality
+THA,2022,Thailand,0.1135856,RQ.EST,regulatory_quality
+TJK,2022,Tajikistan,-0.8422923,RQ.EST,regulatory_quality
+TKM,2022,Turkmenistan,-1.7127572,RQ.EST,regulatory_quality
+TLS,2022,Timor-Leste,-0.8181904,RQ.EST,regulatory_quality
+TON,2022,Tonga,-0.2814238,RQ.EST,regulatory_quality
+TTO,2022,Trinidad and Tobago,-0.0783239,RQ.EST,regulatory_quality
+TUN,2022,Tunisia,-0.3336702,RQ.EST,regulatory_quality
+TUR,2022,Türkiye,-0.22914669999999998,RQ.EST,regulatory_quality
+TUV,2022,Tuvalu,-0.5738951999999999,RQ.EST,regulatory_quality
+TWN,2022,"Taiwan, China",1.2984029,RQ.EST,regulatory_quality
+TZA,2022,Tanzania,-0.6111276999999999,RQ.EST,regulatory_quality
+UGA,2022,Uganda,-0.4763192,RQ.EST,regulatory_quality
+UKR,2022,Ukraine,-0.41227919999999996,RQ.EST,regulatory_quality
+URY,2022,Uruguay,0.7251419,RQ.EST,regulatory_quality
+USA,2022,United States,1.4588295,RQ.EST,regulatory_quality
+UZB,2022,Uzbekistan,-0.6482517999999999,RQ.EST,regulatory_quality
+VCT,2022,St. Vincent and the Grenadines,0.08665139999999999,RQ.EST,regulatory_quality
+VEN,2022,"Venezuela, RB",-1.9247409999999998,RQ.EST,regulatory_quality
+VIR,2022,Virgin Islands (U.S.),1.1001942,RQ.EST,regulatory_quality
+VNM,2022,Viet Nam,-0.34720249999999997,RQ.EST,regulatory_quality
+VUT,2022,Vanuatu,-0.4178727,RQ.EST,regulatory_quality
+WSM,2022,Samoa,-0.19506389999999998,RQ.EST,regulatory_quality
+XKX,2022,Kosovo,-0.46863679999999996,RQ.EST,regulatory_quality
+YEM,2022,"Yemen, Rep.",-1.5789729,RQ.EST,regulatory_quality
+ZAF,2022,South Africa,-0.0622982,RQ.EST,regulatory_quality
+ZMB,2022,Zambia,-0.45732,RQ.EST,regulatory_quality
+ZWE,2022,Zimbabwe,-1.3307719,RQ.EST,regulatory_quality
+ABW,2023,Aruba,0.9802816,RQ.EST,regulatory_quality
+ADO,2023,Andorra,1.1007879999999999,RQ.EST,regulatory_quality
+AFG,2023,Afghanistan,-1.4305607999999999,RQ.EST,regulatory_quality
+AGO,2023,Angola,-0.904342,RQ.EST,regulatory_quality
+AIA,2023,Anguilla,0.8639935,RQ.EST,regulatory_quality
+ALB,2023,Albania,0.0632513,RQ.EST,regulatory_quality
+ARE,2023,United Arab Emirates,1.105352,RQ.EST,regulatory_quality
+ARG,2023,Argentina,-0.5065132,RQ.EST,regulatory_quality
+ARM,2023,Armenia,0.0964411,RQ.EST,regulatory_quality
+ASM,2023,American Samoa,0.3904042,RQ.EST,regulatory_quality
+ATG,2023,Antigua and Barbuda,0.6218901,RQ.EST,regulatory_quality
+AUS,2023,Australia,1.8131125,RQ.EST,regulatory_quality
+AUT,2023,Austria,1.4120974,RQ.EST,regulatory_quality
+AZE,2023,Azerbaijan,0.0432245,RQ.EST,regulatory_quality
+BDI,2023,Burundi,-0.882728,RQ.EST,regulatory_quality
+BEL,2023,Belgium,1.2914096,RQ.EST,regulatory_quality
+BEN,2023,Benin,-0.2359682,RQ.EST,regulatory_quality
+BFA,2023,Burkina Faso,-0.4822862,RQ.EST,regulatory_quality
+BGD,2023,Bangladesh,-0.9009111,RQ.EST,regulatory_quality
+BGR,2023,Bulgaria,0.351784,RQ.EST,regulatory_quality
+BHR,2023,Bahrain,0.9096095,RQ.EST,regulatory_quality
+BHS,2023,"Bahamas, The",-0.09421779999999999,RQ.EST,regulatory_quality
+BIH,2023,Bosnia and Herzegovina,-0.3476707,RQ.EST,regulatory_quality
+BLR,2023,Belarus,-1.175204,RQ.EST,regulatory_quality
+BLZ,2023,Belize,-0.49301269999999997,RQ.EST,regulatory_quality
+BMU,2023,Bermuda,0.6271987,RQ.EST,regulatory_quality
+BOL,2023,Bolivia,-1.1594687,RQ.EST,regulatory_quality
+BRA,2023,Brazil,-0.2359869,RQ.EST,regulatory_quality
+BRB,2023,Barbados,0.429255,RQ.EST,regulatory_quality
+BRN,2023,Brunei Darussalam,0.8078928,RQ.EST,regulatory_quality
+BTN,2023,Bhutan,-0.109245,RQ.EST,regulatory_quality
+BWA,2023,Botswana,0.446548,RQ.EST,regulatory_quality
+CAF,2023,Central African Republic,-1.3283436,RQ.EST,regulatory_quality
+CAN,2023,Canada,1.5724559999999999,RQ.EST,regulatory_quality
+CHE,2023,Switzerland,1.8054489999999999,RQ.EST,regulatory_quality
+CHL,2023,Chile,0.8474902999999999,RQ.EST,regulatory_quality
+CHN,2023,China,-0.0818839,RQ.EST,regulatory_quality
+CIV,2023,Côte d’Ivoire,-0.1888771,RQ.EST,regulatory_quality
+CMR,2023,Cameroon,-0.7393913999999999,RQ.EST,regulatory_quality
+COD,2023,"Congo, Dem. Rep.",-1.2580246,RQ.EST,regulatory_quality
+COG,2023,"Congo, Rep.",-1.1865166,RQ.EST,regulatory_quality
+COK,2023,Cook Islands,-0.2190434,RQ.EST,regulatory_quality
+COL,2023,Colombia,0.1365735,RQ.EST,regulatory_quality
+COM,2023,Comoros,-1.2848742,RQ.EST,regulatory_quality
+CPV,2023,Cabo Verde,0.0966797,RQ.EST,regulatory_quality
+CRI,2023,Costa Rica,0.5745298999999999,RQ.EST,regulatory_quality
+CUB,2023,Cuba,-1.2309526,RQ.EST,regulatory_quality
+CYM,2023,Cayman Islands,1.0743068,RQ.EST,regulatory_quality
+CYP,2023,Cyprus,0.7722603,RQ.EST,regulatory_quality
+CZE,2023,Czechia,1.2275231,RQ.EST,regulatory_quality
+DEU,2023,Germany,1.4741969,RQ.EST,regulatory_quality
+DJI,2023,Djibouti,-0.7883492999999999,RQ.EST,regulatory_quality
+DMA,2023,Dominica,0.1538033,RQ.EST,regulatory_quality
+DNK,2023,Denmark,1.9894408,RQ.EST,regulatory_quality
+DOM,2023,Dominican Republic,0.048504399999999996,RQ.EST,regulatory_quality
+DZA,2023,Algeria,-0.7856434,RQ.EST,regulatory_quality
+ECU,2023,Ecuador,-0.5994798,RQ.EST,regulatory_quality
+EGY,2023,"Egypt, Arab Rep.",-0.5731672,RQ.EST,regulatory_quality
+ERI,2023,Eritrea,-2.0283618,RQ.EST,regulatory_quality
+ESP,2023,Spain,0.6947443999999999,RQ.EST,regulatory_quality
+EST,2023,Estonia,1.4519904,RQ.EST,regulatory_quality
+ETH,2023,Ethiopia,-0.8373693,RQ.EST,regulatory_quality
+FIN,2023,Finland,1.8669035999999999,RQ.EST,regulatory_quality
+FJI,2023,Fiji,-0.09975819999999999,RQ.EST,regulatory_quality
+FRA,2023,France,1.2327253999999999,RQ.EST,regulatory_quality
+FSM,2023,"Micronesia, Fed. Sts.",-0.7637851,RQ.EST,regulatory_quality
+GAB,2023,Gabon,-0.7404782,RQ.EST,regulatory_quality
+GBR,2023,United Kingdom,1.5889864999999999,RQ.EST,regulatory_quality
+GEO,2023,Georgia,0.8085222999999999,RQ.EST,regulatory_quality
+GHA,2023,Ghana,-0.159406,RQ.EST,regulatory_quality
+GIN,2023,Guinea,-0.9597656999999999,RQ.EST,regulatory_quality
+GMB,2023,"Gambia, The",-0.63169,RQ.EST,regulatory_quality
+GNB,2023,Guinea-Bissau,-1.2474915,RQ.EST,regulatory_quality
+GNQ,2023,Equatorial Guinea,-1.2792354,RQ.EST,regulatory_quality
+GRC,2023,Greece,0.5145808,RQ.EST,regulatory_quality
+GRD,2023,Grenada,0.053522,RQ.EST,regulatory_quality
+GRL,2023,Greenland,1.3559071999999999,RQ.EST,regulatory_quality
+GTM,2023,Guatemala,-0.40829489999999996,RQ.EST,regulatory_quality
+GUF,2023,French Guiana,1.0599139,RQ.EST,regulatory_quality
+GUM,2023,Guam,0.3904042,RQ.EST,regulatory_quality
+GUY,2023,Guyana,-0.6656004,RQ.EST,regulatory_quality
+HKG,2023,"Hong Kong SAR, China",1.7308842999999998,RQ.EST,regulatory_quality
+HND,2023,Honduras,-0.6816747999999999,RQ.EST,regulatory_quality
+HRV,2023,Croatia,0.44383079999999997,RQ.EST,regulatory_quality
+HTI,2023,Haiti,-1.5446242,RQ.EST,regulatory_quality
+HUN,2023,Hungary,0.23751819999999998,RQ.EST,regulatory_quality
+IDN,2023,Indonesia,0.3408081,RQ.EST,regulatory_quality
+IND,2023,India,-0.1271699,RQ.EST,regulatory_quality
+IRL,2023,Ireland,1.7973082,RQ.EST,regulatory_quality
+IRN,2023,"Iran, Islamic Rep.",-1.4684049,RQ.EST,regulatory_quality
+IRQ,2023,Iraq,-1.2810271,RQ.EST,regulatory_quality
+ISL,2023,Iceland,1.3949539,RQ.EST,regulatory_quality
+ISR,2023,Israel,1.0540976,RQ.EST,regulatory_quality
+ITA,2023,Italy,0.6957479999999999,RQ.EST,regulatory_quality
+JAM,2023,Jamaica,0.1485571,RQ.EST,regulatory_quality
+JEY,2023,"Jersey, Channel Islands",1.0626560999999999,RQ.EST,regulatory_quality
+JOR,2023,Jordan,0.3141122,RQ.EST,regulatory_quality
+JPN,2023,Japan,1.3978822,RQ.EST,regulatory_quality
+KAZ,2023,Kazakhstan,0.0054918,RQ.EST,regulatory_quality
+KEN,2023,Kenya,-0.3986548,RQ.EST,regulatory_quality
+KGZ,2023,Kyrgyz Republic,-0.5342741,RQ.EST,regulatory_quality
+KHM,2023,Cambodia,-0.6762372999999999,RQ.EST,regulatory_quality
+KIR,2023,Kiribati,-0.5997507,RQ.EST,regulatory_quality
+KNA,2023,St. Kitts and Nevis,0.4958574,RQ.EST,regulatory_quality
+KOR,2023,"Korea, Rep.",0.9996554,RQ.EST,regulatory_quality
+KWT,2023,Kuwait,0.32249249999999996,RQ.EST,regulatory_quality
+LAO,2023,Lao PDR,-0.7700083,RQ.EST,regulatory_quality
+LBN,2023,Lebanon,-0.912561,RQ.EST,regulatory_quality
+LBR,2023,Liberia,-0.9050469,RQ.EST,regulatory_quality
+LBY,2023,Libya,-1.8217847999999999,RQ.EST,regulatory_quality
+LCA,2023,St. Lucia,0.2145717,RQ.EST,regulatory_quality
+LIE,2023,Liechtenstein,1.53545,RQ.EST,regulatory_quality
+LKA,2023,Sri Lanka,-0.3799918,RQ.EST,regulatory_quality
+LSO,2023,Lesotho,-0.5644091,RQ.EST,regulatory_quality
+LTU,2023,Lithuania,1.2128759,RQ.EST,regulatory_quality
+LUX,2023,Luxembourg,1.8374051999999998,RQ.EST,regulatory_quality
+LVA,2023,Latvia,0.9975052,RQ.EST,regulatory_quality
+MAC,2023,"Macao SAR, China",1.4307698,RQ.EST,regulatory_quality
+MAR,2023,Morocco,-0.0473438,RQ.EST,regulatory_quality
+MCO,2023,Monaco,1.3375827999999998,RQ.EST,regulatory_quality
+MDA,2023,Moldova,-0.0545226,RQ.EST,regulatory_quality
+MDG,2023,Madagascar,-0.8500495,RQ.EST,regulatory_quality
+MDV,2023,Maldives,-0.3521418,RQ.EST,regulatory_quality
+MEX,2023,Mexico,-0.1760497,RQ.EST,regulatory_quality
+MHL,2023,Marshall Islands,-0.9172612,RQ.EST,regulatory_quality
+MKD,2023,North Macedonia,0.20151629999999998,RQ.EST,regulatory_quality
+MLI,2023,Mali,-0.7441068,RQ.EST,regulatory_quality
+MLT,2023,Malta,0.5286404,RQ.EST,regulatory_quality
+MMR,2023,Myanmar,-1.4451128,RQ.EST,regulatory_quality
+MNE,2023,Montenegro,0.19722499999999998,RQ.EST,regulatory_quality
+MNG,2023,Mongolia,-0.0410209,RQ.EST,regulatory_quality
+MOZ,2023,Mozambique,-0.7520317999999999,RQ.EST,regulatory_quality
+MRT,2023,Mauritania,-0.8613964,RQ.EST,regulatory_quality
+MTQ,2023,Martinique,0.6271987,RQ.EST,regulatory_quality
+MUS,2023,Mauritius,0.9443204,RQ.EST,regulatory_quality
+MWI,2023,Malawi,-0.7064862,RQ.EST,regulatory_quality
+MYS,2023,Malaysia,0.588407,RQ.EST,regulatory_quality
+NAM,2023,Namibia,0.0866506,RQ.EST,regulatory_quality
+NER,2023,Niger,-0.7280992,RQ.EST,regulatory_quality
+NGA,2023,Nigeria,-0.8274258,RQ.EST,regulatory_quality
+NIC,2023,Nicaragua,-1.0126191,RQ.EST,regulatory_quality
+NIU,2023,Niue,-0.9088208999999999,RQ.EST,regulatory_quality
+NLD,2023,Netherlands,1.7180996,RQ.EST,regulatory_quality
+NOR,2023,Norway,1.6350955999999999,RQ.EST,regulatory_quality
+NPL,2023,Nepal,-0.6072877999999999,RQ.EST,regulatory_quality
+NRU,2023,Nauru,-0.5683682,RQ.EST,regulatory_quality
+NZL,2023,New Zealand,1.8767831,RQ.EST,regulatory_quality
+OMN,2023,Oman,0.4701815,RQ.EST,regulatory_quality
+PAK,2023,Pakistan,-0.8219841999999999,RQ.EST,regulatory_quality
+PAN,2023,Panama,0.023049299999999998,RQ.EST,regulatory_quality
+PER,2023,Peru,0.1292945,RQ.EST,regulatory_quality
+PHL,2023,Philippines,0.0633741,RQ.EST,regulatory_quality
+PLW,2023,Palau,0.3946725,RQ.EST,regulatory_quality
+PNG,2023,Papua New Guinea,-0.710919,RQ.EST,regulatory_quality
+POL,2023,Poland,0.7253164,RQ.EST,regulatory_quality
+PRI,2023,Puerto Rico (U.S.),0.6204573,RQ.EST,regulatory_quality
+PRK,2023,"Korea, Dem. People's Rep.",-1.8744885,RQ.EST,regulatory_quality
+PRT,2023,Portugal,0.7804495,RQ.EST,regulatory_quality
+PRY,2023,Paraguay,-0.1971096,RQ.EST,regulatory_quality
+PSE,2023,West Bank and Gaza,-0.36059769999999997,RQ.EST,regulatory_quality
+QAT,2023,Qatar,0.9412092999999999,RQ.EST,regulatory_quality
+REU,2023,Réunion,0.6271987,RQ.EST,regulatory_quality
+ROU,2023,Romania,0.34486,RQ.EST,regulatory_quality
+RUS,2023,Russian Federation,-0.8889252999999999,RQ.EST,regulatory_quality
+RWA,2023,Rwanda,0.22519699999999998,RQ.EST,regulatory_quality
+SAU,2023,Saudi Arabia,0.6101082999999999,RQ.EST,regulatory_quality
+SDN,2023,Sudan,-1.6040918,RQ.EST,regulatory_quality
+SEN,2023,Senegal,-0.2661232,RQ.EST,regulatory_quality
+SGP,2023,Singapore,2.1295346,RQ.EST,regulatory_quality
+SLB,2023,Solomon Islands,-1.0594432999999999,RQ.EST,regulatory_quality
+SLE,2023,Sierra Leone,-0.9992935,RQ.EST,regulatory_quality
+SLV,2023,El Salvador,-0.3189964,RQ.EST,regulatory_quality
+SMR,2023,San Marino,0.8639935,RQ.EST,regulatory_quality
+SOM,2023,Federal Republic of Somalia,-1.6997338,RQ.EST,regulatory_quality
+SRB,2023,Serbia,0.08506269999999999,RQ.EST,regulatory_quality
+SSD,2023,South Sudan,-2.0014186,RQ.EST,regulatory_quality
+STP,2023,São Tomé and Príncipe,-0.8811260999999999,RQ.EST,regulatory_quality
+SUR,2023,Suriname,-0.7306638,RQ.EST,regulatory_quality
+SVK,2023,Slovak Republic,0.5372918,RQ.EST,regulatory_quality
+SVN,2023,Slovenia,0.7953112999999999,RQ.EST,regulatory_quality
+SWE,2023,Sweden,1.6722947,RQ.EST,regulatory_quality
+SWZ,2023,Eswatini,-0.6218515,RQ.EST,regulatory_quality
+SYC,2023,Seychelles,0.42814969999999997,RQ.EST,regulatory_quality
+SYR,2023,Syrian Arab Republic,-1.8919941,RQ.EST,regulatory_quality
+TCD,2023,Chad,-1.083941,RQ.EST,regulatory_quality
+TGO,2023,Togo,-0.4042671,RQ.EST,regulatory_quality
+THA,2023,Thailand,0.11897909999999999,RQ.EST,regulatory_quality
+TJK,2023,Tajikistan,-0.8421868,RQ.EST,regulatory_quality
+TKM,2023,Turkmenistan,-1.7125943,RQ.EST,regulatory_quality
+TLS,2023,Timor-Leste,-0.8065973999999999,RQ.EST,regulatory_quality
+TON,2023,Tonga,-0.23244109999999998,RQ.EST,regulatory_quality
+TTO,2023,Trinidad and Tobago,-0.16511099999999998,RQ.EST,regulatory_quality
+TUN,2023,Tunisia,-0.4344534,RQ.EST,regulatory_quality
+TUR,2023,Türkiye,-0.2108777,RQ.EST,regulatory_quality
+TUV,2023,Tuvalu,-0.6665338,RQ.EST,regulatory_quality
+TWN,2023,"Taiwan, China",1.2824286,RQ.EST,regulatory_quality
+TZA,2023,Tanzania,-0.5906321,RQ.EST,regulatory_quality
+UGA,2023,Uganda,-0.5002080999999999,RQ.EST,regulatory_quality
+UKR,2023,Ukraine,-0.3782819,RQ.EST,regulatory_quality
+URY,2023,Uruguay,0.737625,RQ.EST,regulatory_quality
+USA,2023,United States,1.4306862999999999,RQ.EST,regulatory_quality
+UZB,2023,Uzbekistan,-0.6716791,RQ.EST,regulatory_quality
+VCT,2023,St. Vincent and the Grenadines,0.0957701,RQ.EST,regulatory_quality
+VEN,2023,"Venezuela, RB",-1.8879199999999998,RQ.EST,regulatory_quality
+VIR,2023,Virgin Islands (U.S.),1.1007879999999999,RQ.EST,regulatory_quality
+VNM,2023,Viet Nam,-0.2794316,RQ.EST,regulatory_quality
+VUT,2023,Vanuatu,-0.41001479999999996,RQ.EST,regulatory_quality
+WSM,2023,Samoa,-0.16974319999999998,RQ.EST,regulatory_quality
+XKX,2023,Kosovo,-0.3899858,RQ.EST,regulatory_quality
+YEM,2023,"Yemen, Rep.",-1.5404917999999999,RQ.EST,regulatory_quality
+ZAF,2023,South Africa,-0.06209,RQ.EST,regulatory_quality
+ZMB,2023,Zambia,-0.46549209999999996,RQ.EST,regulatory_quality
+ZWE,2023,Zimbabwe,-1.2277201,RQ.EST,regulatory_quality
+ABW,2024,Aruba,0.9808971999999999,RQ.EST,regulatory_quality
+ADO,2024,Andorra,1.1021324,RQ.EST,regulatory_quality
+AFG,2024,Afghanistan,-1.538435,RQ.EST,regulatory_quality
+AGO,2024,Angola,-0.7730199999999999,RQ.EST,regulatory_quality
+AIA,2024,Anguilla,0.8653379999999999,RQ.EST,regulatory_quality
+ALB,2024,Albania,0.13573469999999999,RQ.EST,regulatory_quality
+ARE,2024,United Arab Emirates,1.1257177,RQ.EST,regulatory_quality
+ARG,2024,Argentina,-0.23502599999999998,RQ.EST,regulatory_quality
+ARM,2024,Armenia,0.137992,RQ.EST,regulatory_quality
+ASM,2024,American Samoa,0.3917487,RQ.EST,regulatory_quality
+ATG,2024,Antigua and Barbuda,0.6346031999999999,RQ.EST,regulatory_quality
+AUS,2024,Australia,1.7223205,RQ.EST,regulatory_quality
+AUT,2024,Austria,1.3510615,RQ.EST,regulatory_quality
+AZE,2024,Azerbaijan,0.1348932,RQ.EST,regulatory_quality
+BDI,2024,Burundi,-0.8138576,RQ.EST,regulatory_quality
+BEL,2024,Belgium,1.2435483,RQ.EST,regulatory_quality
+BEN,2024,Benin,-0.27726239999999996,RQ.EST,regulatory_quality
+BFA,2024,Burkina Faso,-0.5255615,RQ.EST,regulatory_quality
+BGD,2024,Bangladesh,-0.9500708,RQ.EST,regulatory_quality
+BGR,2024,Bulgaria,0.28803419999999996,RQ.EST,regulatory_quality
+BHR,2024,Bahrain,0.9502434,RQ.EST,regulatory_quality
+BHS,2024,"Bahamas, The",-0.10725789999999999,RQ.EST,regulatory_quality
+BIH,2024,Bosnia and Herzegovina,-0.34984889999999996,RQ.EST,regulatory_quality
+BLR,2024,Belarus,-1.2322689999999998,RQ.EST,regulatory_quality
+BLZ,2024,Belize,-0.450078,RQ.EST,regulatory_quality
+BMU,2024,Bermuda,0.6285431,RQ.EST,regulatory_quality
+BOL,2024,Bolivia,-1.2544304,RQ.EST,regulatory_quality
+BRA,2024,Brazil,-0.2945386,RQ.EST,regulatory_quality
+BRB,2024,Barbados,0.4405032,RQ.EST,regulatory_quality
+BRN,2024,Brunei Darussalam,0.8869612,RQ.EST,regulatory_quality
+BTN,2024,Bhutan,-0.0912943,RQ.EST,regulatory_quality
+BWA,2024,Botswana,0.4019336,RQ.EST,regulatory_quality
+CAF,2024,Central African Republic,-1.268058,RQ.EST,regulatory_quality
+CAN,2024,Canada,1.3622117999999999,RQ.EST,regulatory_quality
+CHE,2024,Switzerland,1.7710561999999999,RQ.EST,regulatory_quality
+CHL,2024,Chile,0.7807061,RQ.EST,regulatory_quality
+CHN,2024,China,-0.0712903,RQ.EST,regulatory_quality
+CIV,2024,Côte d’Ivoire,-0.1669572,RQ.EST,regulatory_quality
+CMR,2024,Cameroon,-0.7286714999999999,RQ.EST,regulatory_quality
+COD,2024,"Congo, Dem. Rep.",-1.2848458,RQ.EST,regulatory_quality
+COG,2024,"Congo, Rep.",-1.1515624,RQ.EST,regulatory_quality
+COK,2024,Cook Islands,0.060701,RQ.EST,regulatory_quality
+COL,2024,Colombia,0.0133922,RQ.EST,regulatory_quality
+COM,2024,Comoros,-1.2486088,RQ.EST,regulatory_quality
+CPV,2024,Cabo Verde,0.0451434,RQ.EST,regulatory_quality
+CRI,2024,Costa Rica,0.5818279,RQ.EST,regulatory_quality
+CUB,2024,Cuba,-1.4371482,RQ.EST,regulatory_quality
+CYM,2024,Cayman Islands,1.0749224,RQ.EST,regulatory_quality
+CYP,2024,Cyprus,0.7395817,RQ.EST,regulatory_quality
+CZE,2024,Czechia,1.2319075,RQ.EST,regulatory_quality
+DEU,2024,Germany,1.4980615,RQ.EST,regulatory_quality
+DJI,2024,Djibouti,-0.8527958999999999,RQ.EST,regulatory_quality
+DMA,2024,Dominica,0.0598246,RQ.EST,regulatory_quality
+DNK,2024,Denmark,1.9307059,RQ.EST,regulatory_quality
+DOM,2024,Dominican Republic,0.20732799999999998,RQ.EST,regulatory_quality
+DZA,2024,Algeria,-0.7526468,RQ.EST,regulatory_quality
+ECU,2024,Ecuador,-0.6464312,RQ.EST,regulatory_quality
+EGY,2024,"Egypt, Arab Rep.",-0.49946939999999995,RQ.EST,regulatory_quality
+ERI,2024,Eritrea,-2.0353648,RQ.EST,regulatory_quality
+ESP,2024,Spain,0.6208378999999999,RQ.EST,regulatory_quality
+EST,2024,Estonia,1.3977035,RQ.EST,regulatory_quality
+ETH,2024,Ethiopia,-0.8332379,RQ.EST,regulatory_quality
+FIN,2024,Finland,1.9635190999999999,RQ.EST,regulatory_quality
+FJI,2024,Fiji,0.06508219999999999,RQ.EST,regulatory_quality
+FRA,2024,France,1.1461527,RQ.EST,regulatory_quality
+FSM,2024,"Micronesia, Fed. Sts.",-0.7632717,RQ.EST,regulatory_quality
+GAB,2024,Gabon,-0.7234577999999999,RQ.EST,regulatory_quality
+GBR,2024,United Kingdom,1.5112377,RQ.EST,regulatory_quality
+GEO,2024,Georgia,0.6500427999999999,RQ.EST,regulatory_quality
+GHA,2024,Ghana,-0.0898549,RQ.EST,regulatory_quality
+GIN,2024,Guinea,-0.8917271,RQ.EST,regulatory_quality
+GMB,2024,"Gambia, The",-0.6640332,RQ.EST,regulatory_quality
+GNB,2024,Guinea-Bissau,-1.1903185,RQ.EST,regulatory_quality
+GNQ,2024,Equatorial Guinea,-1.3990487,RQ.EST,regulatory_quality
+GRC,2024,Greece,0.4796528,RQ.EST,regulatory_quality
+GRD,2024,Grenada,0.049884399999999995,RQ.EST,regulatory_quality
+GRL,2024,Greenland,1.5034927,RQ.EST,regulatory_quality
+GTM,2024,Guatemala,-0.3094252,RQ.EST,regulatory_quality
+GUF,2024,French Guiana,1.0605293999999998,RQ.EST,regulatory_quality
+GUM,2024,Guam,0.3917487,RQ.EST,regulatory_quality
+GUY,2024,Guyana,-0.4474838,RQ.EST,regulatory_quality
+HKG,2024,"Hong Kong SAR, China",1.7399242,RQ.EST,regulatory_quality
+HND,2024,Honduras,-0.6280335,RQ.EST,regulatory_quality
+HRV,2024,Croatia,0.2858764,RQ.EST,regulatory_quality
+HTI,2024,Haiti,-1.4634156999999999,RQ.EST,regulatory_quality
+HUN,2024,Hungary,0.33504439999999996,RQ.EST,regulatory_quality
+IDN,2024,Indonesia,0.12472019999999999,RQ.EST,regulatory_quality
+IND,2024,India,-0.09606959999999999,RQ.EST,regulatory_quality
+IRL,2024,Ireland,1.7944361,RQ.EST,regulatory_quality
+IRN,2024,"Iran, Islamic Rep.",-1.5113535,RQ.EST,regulatory_quality
+IRQ,2024,Iraq,-1.030546,RQ.EST,regulatory_quality
+ISL,2024,Iceland,1.3302839,RQ.EST,regulatory_quality
+ISR,2024,Israel,1.1138772,RQ.EST,regulatory_quality
+ITA,2024,Italy,0.6401491,RQ.EST,regulatory_quality
+JAM,2024,Jamaica,0.0908785,RQ.EST,regulatory_quality
+JEY,2024,"Jersey, Channel Islands",1.063616,RQ.EST,regulatory_quality
+JOR,2024,Jordan,0.2760104,RQ.EST,regulatory_quality
+JPN,2024,Japan,1.3296352,RQ.EST,regulatory_quality
+KAZ,2024,Kazakhstan,0.0470549,RQ.EST,regulatory_quality
+KEN,2024,Kenya,-0.3335684,RQ.EST,regulatory_quality
+KGZ,2024,Kyrgyz Republic,-0.5167463999999999,RQ.EST,regulatory_quality
+KHM,2024,Cambodia,-0.6313721,RQ.EST,regulatory_quality
+KIR,2024,Kiribati,-0.5014363,RQ.EST,regulatory_quality
+KNA,2024,St. Kitts and Nevis,0.4799757,RQ.EST,regulatory_quality
+KOR,2024,"Korea, Rep.",1.013674,RQ.EST,regulatory_quality
+KWT,2024,Kuwait,0.40351329999999996,RQ.EST,regulatory_quality
+LAO,2024,Lao PDR,-0.6360281999999999,RQ.EST,regulatory_quality
+LBN,2024,Lebanon,-0.9588793999999999,RQ.EST,regulatory_quality
+LBR,2024,Liberia,-0.8418216,RQ.EST,regulatory_quality
+LBY,2024,Libya,-1.7391073,RQ.EST,regulatory_quality
+LCA,2024,St. Lucia,0.1818488,RQ.EST,regulatory_quality
+LIE,2024,Liechtenstein,1.5359737999999998,RQ.EST,regulatory_quality
+LKA,2024,Sri Lanka,-0.29921349999999997,RQ.EST,regulatory_quality
+LSO,2024,Lesotho,-0.484852,RQ.EST,regulatory_quality
+LTU,2024,Lithuania,1.291591,RQ.EST,regulatory_quality
+LUX,2024,Luxembourg,1.8386524,RQ.EST,regulatory_quality
+LVA,2024,Latvia,1.0998172,RQ.EST,regulatory_quality
+MAC,2024,"Macao SAR, China",1.3713906999999999,RQ.EST,regulatory_quality
+MAR,2024,Morocco,-0.026685499999999997,RQ.EST,regulatory_quality
+MCO,2024,Monaco,1.1021324,RQ.EST,regulatory_quality
+MDA,2024,Moldova,-0.0467374,RQ.EST,regulatory_quality
+MDG,2024,Madagascar,-0.7485885999999999,RQ.EST,regulatory_quality
+MDV,2024,Maldives,-0.2353508,RQ.EST,regulatory_quality
+MEX,2024,Mexico,-0.1957883,RQ.EST,regulatory_quality
+MHL,2024,Marshall Islands,-0.6875722,RQ.EST,regulatory_quality
+MKD,2024,North Macedonia,0.26630319999999996,RQ.EST,regulatory_quality
+MLI,2024,Mali,-0.7622873,RQ.EST,regulatory_quality
+MLT,2024,Malta,0.49163379999999995,RQ.EST,regulatory_quality
+MMR,2024,Myanmar,-1.4197208,RQ.EST,regulatory_quality
+MNE,2024,Montenegro,0.1273183,RQ.EST,regulatory_quality
+MNG,2024,Mongolia,-0.07074949999999999,RQ.EST,regulatory_quality
+MOZ,2024,Mozambique,-0.7635095,RQ.EST,regulatory_quality
+MRT,2024,Mauritania,-0.7781511999999999,RQ.EST,regulatory_quality
+MTQ,2024,Martinique,0.6285431,RQ.EST,regulatory_quality
+MUS,2024,Mauritius,0.9400044999999999,RQ.EST,regulatory_quality
+MWI,2024,Malawi,-0.5849557,RQ.EST,regulatory_quality
+MYS,2024,Malaysia,0.6804759,RQ.EST,regulatory_quality
+NAM,2024,Namibia,0.1349052,RQ.EST,regulatory_quality
+NER,2024,Niger,-0.7624578,RQ.EST,regulatory_quality
+NGA,2024,Nigeria,-0.6332954,RQ.EST,regulatory_quality
+NIC,2024,Nicaragua,-0.9910346999999999,RQ.EST,regulatory_quality
+NIU,2024,Niue,-0.9049877,RQ.EST,regulatory_quality
+NLD,2024,Netherlands,1.7218270999999998,RQ.EST,regulatory_quality
+NOR,2024,Norway,1.6704537,RQ.EST,regulatory_quality
+NPL,2024,Nepal,-0.5523334999999999,RQ.EST,regulatory_quality
+NRU,2024,Nauru,-0.5245236999999999,RQ.EST,regulatory_quality
+NZL,2024,New Zealand,1.8444942,RQ.EST,regulatory_quality
+OMN,2024,Oman,0.6875152,RQ.EST,regulatory_quality
+PAK,2024,Pakistan,-0.7928043,RQ.EST,regulatory_quality
+PAN,2024,Panama,-0.0738011,RQ.EST,regulatory_quality
+PER,2024,Peru,0.0828146,RQ.EST,regulatory_quality
+PHL,2024,Philippines,0.0792961,RQ.EST,regulatory_quality
+PLW,2024,Palau,0.4811763,RQ.EST,regulatory_quality
+PNG,2024,Papua New Guinea,-0.6004013,RQ.EST,regulatory_quality
+POL,2024,Poland,0.6858352999999999,RQ.EST,regulatory_quality
+PRI,2024,Puerto Rico (U.S.),0.6528081,RQ.EST,regulatory_quality
+PRK,2024,"Korea, Dem. People's Rep.",-1.8741599999999998,RQ.EST,regulatory_quality
+PRT,2024,Portugal,0.7401574999999999,RQ.EST,regulatory_quality
+PRY,2024,Paraguay,-0.1411883,RQ.EST,regulatory_quality
+PSE,2024,West Bank and Gaza,-0.4676244,RQ.EST,regulatory_quality
+QAT,2024,Qatar,0.9663364999999999,RQ.EST,regulatory_quality
+REU,2024,Réunion,0.6285431,RQ.EST,regulatory_quality
+ROU,2024,Romania,0.3834547,RQ.EST,regulatory_quality
+RUS,2024,Russian Federation,-1.0682839,RQ.EST,regulatory_quality
+RWA,2024,Rwanda,0.26960459999999997,RQ.EST,regulatory_quality
+SAU,2024,Saudi Arabia,0.7102575,RQ.EST,regulatory_quality
+SDN,2024,Sudan,-1.6627093,RQ.EST,regulatory_quality
+SEN,2024,Senegal,-0.24164449999999998,RQ.EST,regulatory_quality
+SGP,2024,Singapore,2.1321197,RQ.EST,regulatory_quality
+SLB,2024,Solomon Islands,-0.888466,RQ.EST,regulatory_quality
+SLE,2024,Sierra Leone,-1.0589263,RQ.EST,regulatory_quality
+SLV,2024,El Salvador,-0.1762422,RQ.EST,regulatory_quality
+SMR,2024,San Marino,0.8653379999999999,RQ.EST,regulatory_quality
+SOM,2024,Federal Republic of Somalia,-1.7276053999999998,RQ.EST,regulatory_quality
+SRB,2024,Serbia,0.07835,RQ.EST,regulatory_quality
+SSD,2024,South Sudan,-1.9295182,RQ.EST,regulatory_quality
+STP,2024,São Tomé and Príncipe,-0.8908801,RQ.EST,regulatory_quality
+SUR,2024,Suriname,-0.9187439,RQ.EST,regulatory_quality
+SVK,2024,Slovak Republic,0.4047054,RQ.EST,regulatory_quality
+SVN,2024,Slovenia,0.798163,RQ.EST,regulatory_quality
+SWE,2024,Sweden,1.6717940999999998,RQ.EST,regulatory_quality
+SWZ,2024,Eswatini,-0.6380015,RQ.EST,regulatory_quality
+SYC,2024,Seychelles,0.38967409999999997,RQ.EST,regulatory_quality
+SYR,2024,Syrian Arab Republic,-1.9974752,RQ.EST,regulatory_quality
+TCD,2024,Chad,-1.0878516,RQ.EST,regulatory_quality
+TGO,2024,Togo,-0.40811349999999996,RQ.EST,regulatory_quality
+THA,2024,Thailand,0.10641199999999999,RQ.EST,regulatory_quality
+TJK,2024,Tajikistan,-0.7588053,RQ.EST,regulatory_quality
+TKM,2024,Turkmenistan,-1.6885626,RQ.EST,regulatory_quality
+TLS,2024,Timor-Leste,-0.7342447,RQ.EST,regulatory_quality
+TON,2024,Tonga,-0.1944853,RQ.EST,regulatory_quality
+TTO,2024,Trinidad and Tobago,-0.20657389999999998,RQ.EST,regulatory_quality
+TUN,2024,Tunisia,-0.3901173,RQ.EST,regulatory_quality
+TUR,2024,Türkiye,-0.2112376,RQ.EST,regulatory_quality
+TUV,2024,Tuvalu,-0.4022096,RQ.EST,regulatory_quality
+TWN,2024,"Taiwan, China",1.2954706999999999,RQ.EST,regulatory_quality
+TZA,2024,Tanzania,-0.5353705,RQ.EST,regulatory_quality
+UGA,2024,Uganda,-0.5242817,RQ.EST,regulatory_quality
+UKR,2024,Ukraine,-0.30085239999999996,RQ.EST,regulatory_quality
+URY,2024,Uruguay,0.6468484,RQ.EST,regulatory_quality
+USA,2024,United States,1.3524886,RQ.EST,regulatory_quality
+UZB,2024,Uzbekistan,-0.5267442999999999,RQ.EST,regulatory_quality
+VCT,2024,St. Vincent and the Grenadines,0.10620059999999999,RQ.EST,regulatory_quality
+VEN,2024,"Venezuela, RB",-1.9030732,RQ.EST,regulatory_quality
+VIR,2024,Virgin Islands (U.S.),1.1021324,RQ.EST,regulatory_quality
+VNM,2024,Viet Nam,-0.2668063,RQ.EST,regulatory_quality
+VUT,2024,Vanuatu,-0.32475149999999997,RQ.EST,regulatory_quality
+WSM,2024,Samoa,-0.10173789999999999,RQ.EST,regulatory_quality
+XKX,2024,Kosovo,-0.2229473,RQ.EST,regulatory_quality
+YEM,2024,"Yemen, Rep.",-1.5841279,RQ.EST,regulatory_quality
+ZAF,2024,South Africa,-0.0601163,RQ.EST,regulatory_quality
+ZMB,2024,Zambia,-0.42066119999999996,RQ.EST,regulatory_quality
+ZWE,2024,Zimbabwe,-1.1780738,RQ.EST,regulatory_quality

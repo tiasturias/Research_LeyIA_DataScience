@@ -1,0 +1,1450 @@
+fig_id,entity_type,entity_name,year,variable,value
+fig_2.1.1,category,OpenAI o1,2024,fig_2.1.1_Perfomance relative to the human baseline,0.9329999999999999
+fig_2.1.1,category,OpenAI o1,2024,fig_2.1.1_Benchmark,AIME
+fig_2.1.1,category,OpenAI o1,2024,fig_2.1.1_Task,Mathematical reasoning
+fig_2.1.1,category,Gemini 3.1 Pro Preview,2025,fig_2.1.1_Perfomance relative to the human baseline,0.981
+fig_2.1.1,category,Gemini 3.1 Pro Preview,2025,fig_2.1.1_Benchmark,AIME
+fig_2.1.1,category,Gemini 3.1 Pro Preview,2025,fig_2.1.1_Task,Mathematical reasoning
+fig_2.1.1,category,GPT-4 with search<br>(backoff to CoT on abstention),2023,fig_2.1.1_Perfomance relative to the human baseline,0.4778325123152709
+fig_2.1.1,category,GPT-4 with search<br>(backoff to CoT on abstention),2023,fig_2.1.1_Benchmark,GPQA Diamond
+fig_2.1.1,category,GPT-4 with search<br>(backoff to CoT on abstention),2023,fig_2.1.1_Task,PhD-level science questions
+fig_2.1.1,category,o3,2024,fig_2.1.1_Perfomance relative to the human baseline,1.0800492610837438
+fig_2.1.1,category,o3,2024,fig_2.1.1_Benchmark,GPQA Diamond
+fig_2.1.1,category,o3,2024,fig_2.1.1_Task,PhD-level science questions
+fig_2.1.1,category,gemini-3-pro-preview,2025,fig_2.1.1_Perfomance relative to the human baseline,1.145320197044335
+fig_2.1.1,category,gemini-3-pro-preview,2025,fig_2.1.1_Benchmark,GPQA Diamond
+fig_2.1.1,category,gemini-3-pro-preview,2025,fig_2.1.1_Task,PhD-level science questions
+fig_2.1.1,category,AlexNet,2012,fig_2.1.1_Perfomance relative to the human baseline,0.8914646996838776
+fig_2.1.1,category,AlexNet,2012,fig_2.1.1_Benchmark,ImageNet Top-5
+fig_2.1.1,category,AlexNet,2012,fig_2.1.1_Task,Image classification
+fig_2.1.1,category,OverFeat - 7 accurate models,2013,fig_2.1.1_Perfomance relative to the human baseline,0.9142255005268702
+fig_2.1.1,category,OverFeat - 7 accurate models,2013,fig_2.1.1_Benchmark,ImageNet Top-5
+fig_2.1.1,category,OverFeat - 7 accurate models,2013,fig_2.1.1_Task,Image classification
+fig_2.1.1,category,VGG-19,2014,fig_2.1.1_Perfomance relative to the human baseline,0.9694415173867228
+fig_2.1.1,category,VGG-19,2014,fig_2.1.1_Benchmark,ImageNet Top-5
+fig_2.1.1,category,VGG-19,2014,fig_2.1.1_Task,Image classification
+fig_2.1.1,category,Inception V3,2015,fig_2.1.1_Perfomance relative to the human baseline,0.9947312961011591
+fig_2.1.1,category,Inception V3,2015,fig_2.1.1_Benchmark,ImageNet Top-5
+fig_2.1.1,category,Inception V3,2015,fig_2.1.1_Task,Image classification
+fig_2.1.1,category,ResNeXt-101  64x4,2016,fig_2.1.1_Perfomance relative to the human baseline,1.0073761854583771
+fig_2.1.1,category,ResNeXt-101  64x4,2016,fig_2.1.1_Benchmark,ImageNet Top-5
+fig_2.1.1,category,ResNeXt-101  64x4,2016,fig_2.1.1_Task,Image classification
+fig_2.1.1,category,PNASNet-5,2017,fig_2.1.1_Perfomance relative to the human baseline,1.0136986301369864
+fig_2.1.1,category,PNASNet-5,2017,fig_2.1.1_Benchmark,ImageNet Top-5
+fig_2.1.1,category,PNASNet-5,2017,fig_2.1.1_Task,Image classification
+fig_2.1.1,category,ResNeXt-101 32x48d,2018,fig_2.1.1_Perfomance relative to the human baseline,1.0284510010537407
+fig_2.1.1,category,ResNeXt-101 32x48d,2018,fig_2.1.1_Benchmark,ImageNet Top-5
+fig_2.1.1,category,ResNeXt-101 32x48d,2018,fig_2.1.1_Task,Image classification
+fig_2.1.1,category,BiT-L (ResNet),2019,fig_2.1.1_Perfomance relative to the human baseline,1.037513171759747
+fig_2.1.1,category,BiT-L (ResNet),2019,fig_2.1.1_Benchmark,ImageNet Top-5
+fig_2.1.1,category,BiT-L (ResNet),2019,fig_2.1.1_Task,Image classification
+fig_2.1.1,category,Meta Pseudo Labels (EfficientNet-L2),2020,fig_2.1.1_Perfomance relative to the human baseline,1.0410958904109588
+fig_2.1.1,category,Meta Pseudo Labels (EfficientNet-L2),2020,fig_2.1.1_Benchmark,ImageNet Top-5
+fig_2.1.1,category,Meta Pseudo Labels (EfficientNet-L2),2020,fig_2.1.1_Task,Image classification
+fig_2.1.1,category,Florence-CoSwin-H,2021,fig_2.1.1_Perfomance relative to the human baseline,1.0434141201264489
+fig_2.1.1,category,Florence-CoSwin-H,2021,fig_2.1.1_Benchmark,ImageNet Top-5
+fig_2.1.1,category,Florence-CoSwin-H,2021,fig_2.1.1_Task,Image classification
+fig_2.1.1,category,Top-k DiffSortNets (EfficientNet-L@),2022,fig_2.1.1_Perfomance relative to the human baseline,1.039831401475237
+fig_2.1.1,category,Top-k DiffSortNets (EfficientNet-L@),2022,fig_2.1.1_Benchmark,ImageNet Top-5
+fig_2.1.1,category,Top-k DiffSortNets (EfficientNet-L@),2022,fig_2.1.1_Task,Image classification
+fig_2.1.1,category,GPT-2 (1.5B),2021,fig_2.1.1_Perfomance relative to the human baseline,0.07666666666666667
+fig_2.1.1,category,GPT-2 (1.5B),2021,fig_2.1.1_Benchmark,MATH
+fig_2.1.1,category,GPT-2 (1.5B),2021,fig_2.1.1_Task,Competition-level mathematics
+fig_2.1.1,category,"GPT-4 model (w/ code, PAL)",2022,fig_2.1.1_Perfomance relative to the human baseline,0.5755555555555555
+fig_2.1.1,category,"GPT-4 model (w/ code, PAL)",2022,fig_2.1.1_Benchmark,MATH
+fig_2.1.1,category,"GPT-4 model (w/ code, PAL)",2022,fig_2.1.1_Task,Competition-level mathematics
+fig_2.1.1,category,"GPT-4-code model (CSV, w/ code, SC, k=16)",2023,fig_2.1.1_Perfomance relative to the human baseline,0.9366666666666668
+fig_2.1.1,category,"GPT-4-code model (CSV, w/ code, SC, k=16)",2023,fig_2.1.1_Benchmark,MATH
+fig_2.1.1,category,"GPT-4-code model (CSV, w/ code, SC, k=16)",2023,fig_2.1.1_Task,Competition-level mathematics
+fig_2.1.1,category,o3-mini high,2024,fig_2.1.1_Perfomance relative to the human baseline,1.0877777777777777
+fig_2.1.1,category,o3-mini high,2024,fig_2.1.1_Benchmark,MATH
+fig_2.1.1,category,o3-mini high,2024,fig_2.1.1_Task,Competition-level mathematics
+fig_2.1.1,category,GPT-5 (High Effort):,2025,fig_2.1.1_Perfomance relative to the human baseline,1.0899999999999999
+fig_2.1.1,category,GPT-5 (High Effort):,2025,fig_2.1.1_Benchmark,MATH
+fig_2.1.1,category,GPT-5 (High Effort):,2025,fig_2.1.1_Task,Competition-level mathematics
+fig_2.1.1,category,GPT-2 1.5B (fine-tuned),2019,fig_2.1.1_Perfomance relative to the human baseline,0.36080178173719374
+fig_2.1.1,category,GPT-2 1.5B (fine-tuned),2019,fig_2.1.1_Benchmark,MMLU
+fig_2.1.1,category,GPT-2 1.5B (fine-tuned),2019,fig_2.1.1_Task,Multitask language understanding
+fig_2.1.1,category,GPT-3 (fine-tuned),2020,fig_2.1.1_Perfomance relative to the human baseline,0.6002227171492205
+fig_2.1.1,category,GPT-3 (fine-tuned),2020,fig_2.1.1_Benchmark,MMLU
+fig_2.1.1,category,GPT-3 (fine-tuned),2020,fig_2.1.1_Task,Multitask language understanding
+fig_2.1.1,category,"Gopher (few-shot, k=5)",2021,fig_2.1.1_Perfomance relative to the human baseline,0.66815144766147
+fig_2.1.1,category,"Gopher (few-shot, k=5)",2021,fig_2.1.1_Benchmark,MMLU
+fig_2.1.1,category,"Gopher (few-shot, k=5)",2021,fig_2.1.1_Task,Multitask language understanding
+fig_2.1.1,category,"Flan-PaLM (5-shot, finetuned, CoT + SC)",2022,fig_2.1.1_Perfomance relative to the human baseline,0.8374164810690423
+fig_2.1.1,category,"Flan-PaLM (5-shot, finetuned, CoT + SC)",2022,fig_2.1.1_Benchmark,MMLU
+fig_2.1.1,category,"Flan-PaLM (5-shot, finetuned, CoT + SC)",2022,fig_2.1.1_Task,Multitask language understanding
+fig_2.1.1,category,GPT-4,2023,fig_2.1.1_Perfomance relative to the human baseline,0.9621380846325168
+fig_2.1.1,category,GPT-4,2023,fig_2.1.1_Benchmark,MMLU
+fig_2.1.1,category,GPT-4,2023,fig_2.1.1_Task,Multitask language understanding
+fig_2.1.1,category,o1-preview,2024,fig_2.1.1_Perfomance relative to the human baseline,1.0278396436525612
+fig_2.1.1,category,o1-preview,2024,fig_2.1.1_Benchmark,MMLU
+fig_2.1.1,category,o1-preview,2024,fig_2.1.1_Task,Multitask language understanding
+fig_2.1.1,category,Gemini 1.0 Ultra,2023,fig_2.1.1_Perfomance relative to the human baseline,0.7191283292978209
+fig_2.1.1,category,Gemini 1.0 Ultra,2023,fig_2.1.1_Benchmark,MMMU
+fig_2.1.1,category,Gemini 1.0 Ultra,2023,fig_2.1.1_Task,Multimodal understanding and reasoning
+fig_2.1.1,category,o1,2024,fig_2.1.1_Perfomance relative to the human baseline,0.9467312348668283
+fig_2.1.1,category,o1,2024,fig_2.1.1_Benchmark,MMMU
+fig_2.1.1,category,o1,2024,fig_2.1.1_Task,Multimodal understanding and reasoning
+fig_2.1.1,category,Gemini 3 Flash,2025,fig_2.1.1_Perfomance relative to the human baseline,1.0608958837772398
+fig_2.1.1,category,Gemini 3 Flash,2025,fig_2.1.1_Benchmark,MMMU
+fig_2.1.1,category,Gemini 3 Flash,2025,fig_2.1.1_Task,Multimodal understanding and reasoning
+fig_2.1.1,category,GPT-4,2024,fig_2.1.1_Perfomance relative to the human baseline,0.05705808513066302
+fig_2.1.1,category,GPT-4,2024,fig_2.1.1_Benchmark,OSWorld
+fig_2.1.1,category,GPT-4,2024,fig_2.1.1_Task,Agent multimodal computer use
+fig_2.1.1,category,Claude Opus 4.5 (no thinking),2025,fig_2.1.1_Perfomance relative to the human baseline,0.7565902088325916
+fig_2.1.1,category,Claude Opus 4.5 (no thinking),2025,fig_2.1.1_Benchmark,OSWorld
+fig_2.1.1,category,Claude Opus 4.5 (no thinking),2025,fig_2.1.1_Task,Agent multimodal computer use
+fig_2.1.1,category,SAN (ensemble model),2017,fig_2.1.1_Perfomance relative to the human baseline,0.8235083798882681
+fig_2.1.1,category,SAN (ensemble model),2017,fig_2.1.1_Benchmark,SQuAD 2.0
+fig_2.1.1,category,SAN (ensemble model),2017,fig_2.1.1_Task,Medium-level reading comprehension
+fig_2.1.1,category,PAML+BERT (ensemble model),2018,fig_2.1.1_Perfomance relative to the human baseline,0.9622569832402235
+fig_2.1.1,category,PAML+BERT (ensemble model),2018,fig_2.1.1_Benchmark,SQuAD 2.0
+fig_2.1.1,category,PAML+BERT (ensemble model),2018,fig_2.1.1_Task,Medium-level reading comprehension
+fig_2.1.1,category,ALBERT + DAAF + Verifier (ensemble),2019,fig_2.1.1_Perfomance relative to the human baseline,1.03268156424581
+fig_2.1.1,category,ALBERT + DAAF + Verifier (ensemble),2019,fig_2.1.1_Benchmark,SQuAD 2.0
+fig_2.1.1,category,ALBERT + DAAF + Verifier (ensemble),2019,fig_2.1.1_Task,Medium-level reading comprehension
+fig_2.1.1,category,SA-Net on Albert (ensemble),2020,fig_2.1.1_Perfomance relative to the human baseline,1.0392290502793295
+fig_2.1.1,category,SA-Net on Albert (ensemble),2020,fig_2.1.1_Benchmark,SQuAD 2.0
+fig_2.1.1,category,SA-Net on Albert (ensemble),2020,fig_2.1.1_Task,Medium-level reading comprehension
+fig_2.1.1,category,IE-Net (ensemble),2021,fig_2.1.1_Perfomance relative to the human baseline,1.0414972067039105
+fig_2.1.1,category,IE-Net (ensemble),2021,fig_2.1.1_Benchmark,SQuAD 2.0
+fig_2.1.1,category,IE-Net (ensemble),2021,fig_2.1.1_Task,Medium-level reading comprehension
+fig_2.1.1,category,Claude 3.5 Sonnet / GPT-4o,2024,fig_2.1.1_Perfomance relative to the human baseline,0.6426735218508998
+fig_2.1.1,category,Claude 3.5 Sonnet / GPT-4o,2024,fig_2.1.1_Benchmark,SWE-bench Verified
+fig_2.1.1,category,Claude 3.5 Sonnet / GPT-4o,2024,fig_2.1.1_Task,Autonomous software engineering
+fig_2.1.1,category,Claude 4.5. Opus,2025,fig_2.1.1_Perfomance relative to the human baseline,0.987146529562982
+fig_2.1.1,category,Claude 4.5. Opus,2025,fig_2.1.1_Benchmark,SWE-bench Verified
+fig_2.1.1,category,Claude 4.5. Opus,2025,fig_2.1.1_Task,Autonomous software engineering
+fig_2.1.1,category,Roberta,2019,fig_2.1.1_Perfomance relative to the human baseline,0.9420935412026725
+fig_2.1.1,category,Roberta,2019,fig_2.1.1_Benchmark,SuperGLUE
+fig_2.1.1,category,Roberta,2019,fig_2.1.1_Task,English language understanding
+fig_2.1.1,category,T5 Team - Google,2020,fig_2.1.1_Perfomance relative to the human baseline,0.9944320712694877
+fig_2.1.1,category,T5 Team - Google,2020,fig_2.1.1_Benchmark,SuperGLUE
+fig_2.1.1,category,T5 Team - Google,2020,fig_2.1.1_Task,English language understanding
+fig_2.1.1,category,Liam Fedus,2021,fig_2.1.1_Perfomance relative to the human baseline,1.0155902004454345
+fig_2.1.1,category,Liam Fedus,2021,fig_2.1.1_Benchmark,SuperGLUE
+fig_2.1.1,category,Liam Fedus,2021,fig_2.1.1_Task,English language understanding
+fig_2.1.1,category,Vega v2,2022,fig_2.1.1_Perfomance relative to the human baseline,1.0167037861915367
+fig_2.1.1,category,Vega v2,2022,fig_2.1.1_Benchmark,SuperGLUE
+fig_2.1.1,category,Vega v2,2022,fig_2.1.1_Task,English language understanding
+fig_2.1.1,category,Hairuo,2024,fig_2.1.1_Perfomance relative to the human baseline,1.0178173719376393
+fig_2.1.1,category,Hairuo,2024,fig_2.1.1_Benchmark,SuperGLUE
+fig_2.1.1,category,Hairuo,2024,fig_2.1.1_Task,English language understanding
+fig_2.1.1,category,MCB,2016,fig_2.1.1_Perfomance relative to the human baseline,0.8009408269373608
+fig_2.1.1,category,MCB,2016,fig_2.1.1_Benchmark,VQA
+fig_2.1.1,category,MCB,2016,fig_2.1.1_Task,Visual reasoning
+fig_2.1.1,category,"Image features from bottom-up attention (adaptive K, ensemble)",2017,fig_2.1.1_Perfomance relative to the human baseline,0.8649418172815053
+fig_2.1.1,category,"Image features from bottom-up attention (adaptive K, ensemble)",2017,fig_2.1.1_Benchmark,VQA
+fig_2.1.1,category,"Image features from bottom-up attention (adaptive K, ensemble)",2017,fig_2.1.1_Task,Visual reasoning
+fig_2.1.1,category,BAN+Glove+Counter,2018,fig_2.1.1_Perfomance relative to the human baseline,0.8670462985887597
+fig_2.1.1,category,BAN+Glove+Counter,2018,fig_2.1.1_Benchmark,VQA
+fig_2.1.1,category,BAN+Glove+Counter,2018,fig_2.1.1_Task,Visual reasoning
+fig_2.1.1,category,UNITER (Large),2019,fig_2.1.1_Perfomance relative to the human baseline,0.9066600643723693
+fig_2.1.1,category,UNITER (Large),2019,fig_2.1.1_Benchmark,VQA
+fig_2.1.1,category,UNITER (Large),2019,fig_2.1.1_Task,Visual reasoning
+fig_2.1.1,category,Oscar,2020,fig_2.1.1_Perfomance relative to the human baseline,0.9138400594206486
+fig_2.1.1,category,Oscar,2020,fig_2.1.1_Benchmark,VQA
+fig_2.1.1,category,Oscar,2020,fig_2.1.1_Task,Visual reasoning
+fig_2.1.1,category,VLMo,2021,fig_2.1.1_Perfomance relative to the human baseline,1.0247586036147562
+fig_2.1.1,category,VLMo,2021,fig_2.1.1_Benchmark,VQA
+fig_2.1.1,category,VLMo,2021,fig_2.1.1_Task,Visual reasoning
+fig_2.1.1,category,PaLI,2022,fig_2.1.1_Perfomance relative to the human baseline,1.0435751423619708
+fig_2.1.1,category,PaLI,2022,fig_2.1.1_Benchmark,VQA
+fig_2.1.1,category,PaLI,2022,fig_2.1.1_Task,Visual reasoning
+fig_2.1.2,category,top open model,2023-05-01,fig_2.1.2_Arena score (Elo-like),1148
+fig_2.1.2,category,top open model,2023-06-01,fig_2.1.2_Arena score (Elo-like),1179
+fig_2.1.2,category,top open model,2023-07-01,fig_2.1.2_Arena score (Elo-like),1184
+fig_2.1.2,category,top open model,2023-08-01,fig_2.1.2_Arena score (Elo-like),1189
+fig_2.1.2,category,top open model,2023-09-01,fig_2.1.2_Arena score (Elo-like),1199
+fig_2.1.2,category,top open model,2023-10-01,fig_2.1.2_Arena score (Elo-like),1183
+fig_2.1.2,category,top open model,2023-11-01,fig_2.1.2_Arena score (Elo-like),1185
+fig_2.1.2,category,top open model,2023-12-01,fig_2.1.2_Arena score (Elo-like),1208
+fig_2.1.2,category,top open model,2024-01-01,fig_2.1.2_Arena score (Elo-like),1207
+fig_2.1.2,category,top open model,2024-02-01,fig_2.1.2_Arena score (Elo-like),1234
+fig_2.1.2,category,top open model,2024-03-01,fig_2.1.2_Arena score (Elo-like),1246
+fig_2.1.2,category,top open model,2024-04-01,fig_2.1.2_Arena score (Elo-like),1279
+fig_2.1.2,category,top open model,2024-05-01,fig_2.1.2_Arena score (Elo-like),1270
+fig_2.1.2,category,top open model,2024-06-01,fig_2.1.2_Arena score (Elo-like),1275
+fig_2.1.2,category,top open model,2024-07-01,fig_2.1.2_Arena score (Elo-like),1327
+fig_2.1.2,category,top open model,2024-08-01,fig_2.1.2_Arena score (Elo-like),1334
+fig_2.1.2,category,top open model,2024-09-01,fig_2.1.2_Arena score (Elo-like),1334
+fig_2.1.2,category,top open model,2024-10-01,fig_2.1.2_Arena score (Elo-like),1334
+fig_2.1.2,category,top open model,2024-11-01,fig_2.1.2_Arena score (Elo-like),1334
+fig_2.1.2,category,top open model,2024-12-01,fig_2.1.2_Arena score (Elo-like),1360
+fig_2.1.2,category,top open model,2025-01-01,fig_2.1.2_Arena score (Elo-like),1397
+fig_2.1.2,category,top open model,2025-02-01,fig_2.1.2_Arena score (Elo-like),1400
+fig_2.1.2,category,top open model,2025-03-01,fig_2.1.2_Arena score (Elo-like),1395
+fig_2.1.2,category,top open model,2025-04-01,fig_2.1.2_Arena score (Elo-like),1404
+fig_2.1.2,category,top open model,2025-05-01,fig_2.1.2_Arena score (Elo-like),1401
+fig_2.1.2,category,top open model,2025-06-01,fig_2.1.2_Arena score (Elo-like),1423
+fig_2.1.2,category,top open model,2025-07-01,fig_2.1.2_Arena score (Elo-like),1438
+fig_2.1.2,category,top open model,2025-08-01,fig_2.1.2_Arena score (Elo-like),1431
+fig_2.1.2,category,top open model,2025-09-01,fig_2.1.2_Arena score (Elo-like),1420
+fig_2.1.2,category,top open model,2025-10-01,fig_2.1.2_Arena score (Elo-like),1429
+fig_2.1.2,category,top open model,2025-11-01,fig_2.1.2_Arena score (Elo-like),1431
+fig_2.1.2,category,top open model,2025-12-01,fig_2.1.2_Arena score (Elo-like),1439
+fig_2.1.2,category,top open model,2026-01-01,fig_2.1.2_Arena score (Elo-like),1450
+fig_2.1.2,category,top open model,2026-02-01,fig_2.1.2_Arena score (Elo-like),1456
+fig_2.1.2,category,top open model,2026-03-01,fig_2.1.2_Arena score (Elo-like),1454
+fig_2.1.2,category,top closed model,2023-05-01,fig_2.1.2_Arena score (Elo-like),1322
+fig_2.1.2,category,top closed model,2023-06-01,fig_2.1.2_Arena score (Elo-like),1314
+fig_2.1.2,category,top closed model,2023-07-01,fig_2.1.2_Arena score (Elo-like),1312
+fig_2.1.2,category,top closed model,2023-08-01,fig_2.1.2_Arena score (Elo-like),1313
+fig_2.1.2,category,top closed model,2023-09-01,fig_2.1.2_Arena score (Elo-like),1313
+fig_2.1.2,category,top closed model,2023-10-01,fig_2.1.2_Arena score (Elo-like),1314
+fig_2.1.2,category,top closed model,2023-11-01,fig_2.1.2_Arena score (Elo-like),1313
+fig_2.1.2,category,top closed model,2023-12-01,fig_2.1.2_Arena score (Elo-like),1312
+fig_2.1.2,category,top closed model,2024-01-01,fig_2.1.2_Arena score (Elo-like),1334
+fig_2.1.2,category,top closed model,2024-02-01,fig_2.1.2_Arena score (Elo-like),1329
+fig_2.1.2,category,top closed model,2024-03-01,fig_2.1.2_Arena score (Elo-like),1333
+fig_2.1.2,category,top closed model,2024-04-01,fig_2.1.2_Arena score (Elo-like),1338
+fig_2.1.2,category,top closed model,2024-05-01,fig_2.1.2_Arena score (Elo-like),1340
+fig_2.1.2,category,top closed model,2024-06-01,fig_2.1.2_Arena score (Elo-like),1341
+fig_2.1.2,category,top closed model,2024-07-01,fig_2.1.2_Arena score (Elo-like),1341
+fig_2.1.2,category,top closed model,2024-08-01,fig_2.1.2_Arena score (Elo-like),1341
+fig_2.1.2,category,top closed model,2024-09-01,fig_2.1.2_Arena score (Elo-like),1387
+fig_2.1.2,category,top closed model,2024-10-01,fig_2.1.2_Arena score (Elo-like),1384
+fig_2.1.2,category,top closed model,2024-11-01,fig_2.1.2_Arena score (Elo-like),1384
+fig_2.1.2,category,top closed model,2024-12-01,fig_2.1.2_Arena score (Elo-like),1407
+fig_2.1.2,category,top closed model,2025-01-01,fig_2.1.2_Arena score (Elo-like),1405
+fig_2.1.2,category,top closed model,2025-02-01,fig_2.1.2_Arena score (Elo-like),1405
+fig_2.1.2,category,top closed model,2025-03-01,fig_2.1.2_Arena score (Elo-like),1441
+fig_2.1.2,category,top closed model,2025-04-01,fig_2.1.2_Arena score (Elo-like),1461
+fig_2.1.2,category,top closed model,2025-05-01,fig_2.1.2_Arena score (Elo-like),1492
+fig_2.1.2,category,top closed model,2025-06-01,fig_2.1.2_Arena score (Elo-like),1472
+fig_2.1.2,category,top closed model,2025-07-01,fig_2.1.2_Arena score (Elo-like),1482
+fig_2.1.2,category,top closed model,2025-08-01,fig_2.1.2_Arena score (Elo-like),1461
+fig_2.1.2,category,top closed model,2025-09-01,fig_2.1.2_Arena score (Elo-like),1453
+fig_2.1.2,category,top closed model,2025-10-01,fig_2.1.2_Arena score (Elo-like),1452
+fig_2.1.2,category,top closed model,2025-11-01,fig_2.1.2_Arena score (Elo-like),1492
+fig_2.1.2,category,top closed model,2025-12-01,fig_2.1.2_Arena score (Elo-like),1490
+fig_2.1.2,category,top closed model,2026-01-01,fig_2.1.2_Arena score (Elo-like),1487
+fig_2.1.2,category,top closed model,2026-02-01,fig_2.1.2_Arena score (Elo-like),1504
+fig_2.1.2,category,top closed model,2026-03-01,fig_2.1.2_Arena score (Elo-like),1503
+fig_2.1.3,category,top China model,2023-05-01,fig_2.1.3_Arena score (Elo-like),976
+fig_2.1.3,category,top China model,2023-06-01,fig_2.1.3_Arena score (Elo-like),986
+fig_2.1.3,category,top China model,2023-07-01,fig_2.1.3_Arena score (Elo-like),991
+fig_2.1.3,category,top China model,2023-08-01,fig_2.1.3_Arena score (Elo-like),995
+fig_2.1.3,category,top China model,2023-09-01,fig_2.1.3_Arena score (Elo-like),1027
+fig_2.1.3,category,top China model,2023-10-01,fig_2.1.3_Arena score (Elo-like),1154
+fig_2.1.3,category,top China model,2023-11-01,fig_2.1.3_Arena score (Elo-like),1172
+fig_2.1.3,category,top China model,2023-12-01,fig_2.1.3_Arena score (Elo-like),1176
+fig_2.1.3,category,top China model,2024-01-01,fig_2.1.3_Arena score (Elo-like),1189
+fig_2.1.3,category,top China model,2024-02-01,fig_2.1.3_Arena score (Elo-like),1234
+fig_2.1.3,category,top China model,2024-03-01,fig_2.1.3_Arena score (Elo-like),1238
+fig_2.1.3,category,top China model,2024-04-01,fig_2.1.3_Arena score (Elo-like),1235
+fig_2.1.3,category,top China model,2024-05-01,fig_2.1.3_Arena score (Elo-like),1237
+fig_2.1.3,category,top China model,2024-06-01,fig_2.1.3_Arena score (Elo-like),1271
+fig_2.1.3,category,top China model,2024-07-01,fig_2.1.3_Arena score (Elo-like),1270
+fig_2.1.3,category,top China model,2024-08-01,fig_2.1.3_Arena score (Elo-like),1270
+fig_2.1.3,category,top China model,2024-09-01,fig_2.1.3_Arena score (Elo-like),1299
+fig_2.1.3,category,top China model,2024-10-01,fig_2.1.3_Arena score (Elo-like),1324
+fig_2.1.3,category,top China model,2024-11-01,fig_2.1.3_Arena score (Elo-like),1326
+fig_2.1.3,category,top China model,2024-12-01,fig_2.1.3_Arena score (Elo-like),1360
+fig_2.1.3,category,top China model,2025-01-01,fig_2.1.3_Arena score (Elo-like),1397
+fig_2.1.3,category,top China model,2025-02-01,fig_2.1.3_Arena score (Elo-like),1400
+fig_2.1.3,category,top China model,2025-03-01,fig_2.1.3_Arena score (Elo-like),1395
+fig_2.1.3,category,top China model,2025-04-01,fig_2.1.3_Arena score (Elo-like),1404
+fig_2.1.3,category,top China model,2025-05-01,fig_2.1.3_Arena score (Elo-like),1401
+fig_2.1.3,category,top China model,2025-06-01,fig_2.1.3_Arena score (Elo-like),1423
+fig_2.1.3,category,top China model,2025-07-01,fig_2.1.3_Arena score (Elo-like),1438
+fig_2.1.3,category,top China model,2025-08-01,fig_2.1.3_Arena score (Elo-like),1431
+fig_2.1.3,category,top China model,2025-09-01,fig_2.1.3_Arena score (Elo-like),1436
+fig_2.1.3,category,top China model,2025-10-01,fig_2.1.3_Arena score (Elo-like),1433
+fig_2.1.3,category,top China model,2025-11-01,fig_2.1.3_Arena score (Elo-like),1433
+fig_2.1.3,category,top China model,2025-12-01,fig_2.1.3_Arena score (Elo-like),1448
+fig_2.1.3,category,top China model,2026-01-01,fig_2.1.3_Arena score (Elo-like),1453
+fig_2.1.3,category,top China model,2026-02-01,fig_2.1.3_Arena score (Elo-like),1470
+fig_2.1.3,category,top China model,2026-03-01,fig_2.1.3_Arena score (Elo-like),1464
+fig_2.1.3,category,top US model,2023-05-01,fig_2.1.3_Arena score (Elo-like),1322
+fig_2.1.3,category,top US model,2023-06-01,fig_2.1.3_Arena score (Elo-like),1314
+fig_2.1.3,category,top US model,2023-07-01,fig_2.1.3_Arena score (Elo-like),1312
+fig_2.1.3,category,top US model,2023-08-01,fig_2.1.3_Arena score (Elo-like),1313
+fig_2.1.3,category,top US model,2023-09-01,fig_2.1.3_Arena score (Elo-like),1313
+fig_2.1.3,category,top US model,2023-10-01,fig_2.1.3_Arena score (Elo-like),1314
+fig_2.1.3,category,top US model,2023-11-01,fig_2.1.3_Arena score (Elo-like),1313
+fig_2.1.3,category,top US model,2023-12-01,fig_2.1.3_Arena score (Elo-like),1312
+fig_2.1.3,category,top US model,2024-01-01,fig_2.1.3_Arena score (Elo-like),1334
+fig_2.1.3,category,top US model,2024-02-01,fig_2.1.3_Arena score (Elo-like),1329
+fig_2.1.3,category,top US model,2024-03-01,fig_2.1.3_Arena score (Elo-like),1333
+fig_2.1.3,category,top US model,2024-04-01,fig_2.1.3_Arena score (Elo-like),1338
+fig_2.1.3,category,top US model,2024-05-01,fig_2.1.3_Arena score (Elo-like),1340
+fig_2.1.3,category,top US model,2024-06-01,fig_2.1.3_Arena score (Elo-like),1341
+fig_2.1.3,category,top US model,2024-07-01,fig_2.1.3_Arena score (Elo-like),1341
+fig_2.1.3,category,top US model,2024-08-01,fig_2.1.3_Arena score (Elo-like),1341
+fig_2.1.3,category,top US model,2024-09-01,fig_2.1.3_Arena score (Elo-like),1387
+fig_2.1.3,category,top US model,2024-10-01,fig_2.1.3_Arena score (Elo-like),1384
+fig_2.1.3,category,top US model,2024-11-01,fig_2.1.3_Arena score (Elo-like),1384
+fig_2.1.3,category,top US model,2024-12-01,fig_2.1.3_Arena score (Elo-like),1407
+fig_2.1.3,category,top US model,2025-01-01,fig_2.1.3_Arena score (Elo-like),1405
+fig_2.1.3,category,top US model,2025-02-01,fig_2.1.3_Arena score (Elo-like),1405
+fig_2.1.3,category,top US model,2025-03-01,fig_2.1.3_Arena score (Elo-like),1441
+fig_2.1.3,category,top US model,2025-04-01,fig_2.1.3_Arena score (Elo-like),1461
+fig_2.1.3,category,top US model,2025-05-01,fig_2.1.3_Arena score (Elo-like),1492
+fig_2.1.3,category,top US model,2025-06-01,fig_2.1.3_Arena score (Elo-like),1472
+fig_2.1.3,category,top US model,2025-07-01,fig_2.1.3_Arena score (Elo-like),1482
+fig_2.1.3,category,top US model,2025-08-01,fig_2.1.3_Arena score (Elo-like),1461
+fig_2.1.3,category,top US model,2025-09-01,fig_2.1.3_Arena score (Elo-like),1453
+fig_2.1.3,category,top US model,2025-10-01,fig_2.1.3_Arena score (Elo-like),1452
+fig_2.1.3,category,top US model,2025-11-01,fig_2.1.3_Arena score (Elo-like),1492
+fig_2.1.3,category,top US model,2025-12-01,fig_2.1.3_Arena score (Elo-like),1490
+fig_2.1.3,category,top US model,2026-01-01,fig_2.1.3_Arena score (Elo-like),1487
+fig_2.1.3,category,top US model,2026-02-01,fig_2.1.3_Arena score (Elo-like),1504
+fig_2.1.3,category,top US model,2026-03-01,fig_2.1.3_Arena score (Elo-like),1503
+fig_2.1.4,category,Meta,2023-05-01,fig_2.1.4_Arena score (Elo-like),969.0
+fig_2.1.4,category,Meta,2023-06-01,fig_2.1.4_Arena score (Elo-like),973.0
+fig_2.1.4,category,Meta,2023-07-01,fig_2.1.4_Arena score (Elo-like),1062.0
+fig_2.1.4,category,Meta,2023-08-01,fig_2.1.4_Arena score (Elo-like),1167.0
+fig_2.1.4,category,Meta,2023-09-01,fig_2.1.4_Arena score (Elo-like),1142.0
+fig_2.1.4,category,Meta,2023-10-01,fig_2.1.4_Arena score (Elo-like),1148.0
+fig_2.1.4,category,Meta,2023-11-01,fig_2.1.4_Arena score (Elo-like),1142.0
+fig_2.1.4,category,Meta,2023-12-01,fig_2.1.4_Arena score (Elo-like),1146.0
+fig_2.1.4,category,Meta,2024-01-01,fig_2.1.4_Arena score (Elo-like),1149.0
+fig_2.1.4,category,Meta,2024-02-01,fig_2.1.4_Arena score (Elo-like),1154.0
+fig_2.1.4,category,Meta,2024-03-01,fig_2.1.4_Arena score (Elo-like),1152.0
+fig_2.1.4,category,Meta,2024-04-01,fig_2.1.4_Arena score (Elo-like),1279.0
+fig_2.1.4,category,Meta,2024-05-01,fig_2.1.4_Arena score (Elo-like),1270.0
+fig_2.1.4,category,Meta,2024-06-01,fig_2.1.4_Arena score (Elo-like),1270.0
+fig_2.1.4,category,Meta,2024-07-01,fig_2.1.4_Arena score (Elo-like),1327.0
+fig_2.1.4,category,Meta,2024-08-01,fig_2.1.4_Arena score (Elo-like),1334.0
+fig_2.1.4,category,Meta,2024-09-01,fig_2.1.4_Arena score (Elo-like),1334.0
+fig_2.1.4,category,Meta,2024-10-01,fig_2.1.4_Arena score (Elo-like),1334.0
+fig_2.1.4,category,Meta,2024-11-01,fig_2.1.4_Arena score (Elo-like),1334.0
+fig_2.1.4,category,Meta,2024-12-01,fig_2.1.4_Arena score (Elo-like),1334.0
+fig_2.1.4,category,Meta,2025-01-01,fig_2.1.4_Arena score (Elo-like),1336.0
+fig_2.1.4,category,Meta,2025-02-01,fig_2.1.4_Arena score (Elo-like),1334.0
+fig_2.1.4,category,Meta,2025-03-01,fig_2.1.4_Arena score (Elo-like),1332.0
+fig_2.1.4,category,Meta,2025-04-01,fig_2.1.4_Arena score (Elo-like),1333.0
+fig_2.1.4,category,Meta,2025-05-01,fig_2.1.4_Arena score (Elo-like),1333.0
+fig_2.1.4,category,Meta,2025-06-01,fig_2.1.4_Arena score (Elo-like),1334.0
+fig_2.1.4,category,Meta,2025-07-01,fig_2.1.4_Arena score (Elo-like),1334.0
+fig_2.1.4,category,Meta,2025-08-01,fig_2.1.4_Arena score (Elo-like),1334.0
+fig_2.1.4,category,Meta,2025-09-01,fig_2.1.4_Arena score (Elo-like),1335.0
+fig_2.1.4,category,Meta,2025-10-01,fig_2.1.4_Arena score (Elo-like),1335.0
+fig_2.1.4,category,Meta,2025-11-01,fig_2.1.4_Arena score (Elo-like),1335.0
+fig_2.1.4,category,Meta,2025-12-01,fig_2.1.4_Arena score (Elo-like),1335.0
+fig_2.1.4,category,Meta,2026-01-01,fig_2.1.4_Arena score (Elo-like),1336.0
+fig_2.1.4,category,Meta,2026-02-01,fig_2.1.4_Arena score (Elo-like),1335.0
+fig_2.1.4,category,Meta,2026-03-01,fig_2.1.4_Arena score (Elo-like),1335.0
+fig_2.1.4,category,Mistral AI,2023-10-01,fig_2.1.4_Arena score (Elo-like),1129.0
+fig_2.1.4,category,Mistral AI,2023-11-01,fig_2.1.4_Arena score (Elo-like),1126.0
+fig_2.1.4,category,Mistral AI,2023-12-01,fig_2.1.4_Arena score (Elo-like),1208.0
+fig_2.1.4,category,Mistral AI,2024-01-01,fig_2.1.4_Arena score (Elo-like),1230.0
+fig_2.1.4,category,Mistral AI,2024-02-01,fig_2.1.4_Arena score (Elo-like),1273.0
+fig_2.1.4,category,Mistral AI,2024-03-01,fig_2.1.4_Arena score (Elo-like),1255.0
+fig_2.1.4,category,Mistral AI,2024-04-01,fig_2.1.4_Arena score (Elo-like),1247.0
+fig_2.1.4,category,Mistral AI,2024-05-01,fig_2.1.4_Arena score (Elo-like),1241.0
+fig_2.1.4,category,Mistral AI,2024-06-01,fig_2.1.4_Arena score (Elo-like),1245.0
+fig_2.1.4,category,Mistral AI,2024-07-01,fig_2.1.4_Arena score (Elo-like),1305.0
+fig_2.1.4,category,Mistral AI,2024-08-01,fig_2.1.4_Arena score (Elo-like),1311.0
+fig_2.1.4,category,Mistral AI,2024-09-01,fig_2.1.4_Arena score (Elo-like),1313.0
+fig_2.1.4,category,Mistral AI,2024-10-01,fig_2.1.4_Arena score (Elo-like),1309.0
+fig_2.1.4,category,Mistral AI,2024-11-01,fig_2.1.4_Arena score (Elo-like),1310.0
+fig_2.1.4,category,Mistral AI,2024-12-01,fig_2.1.4_Arena score (Elo-like),1310.0
+fig_2.1.4,category,Mistral AI,2025-01-01,fig_2.1.4_Arena score (Elo-like),1311.0
+fig_2.1.4,category,Mistral AI,2025-02-01,fig_2.1.4_Arena score (Elo-like),1310.0
+fig_2.1.4,category,Mistral AI,2025-03-01,fig_2.1.4_Arena score (Elo-like),1311.0
+fig_2.1.4,category,Mistral AI,2025-04-01,fig_2.1.4_Arena score (Elo-like),1311.0
+fig_2.1.4,category,Mistral AI,2025-05-01,fig_2.1.4_Arena score (Elo-like),1381.0
+fig_2.1.4,category,Mistral AI,2025-06-01,fig_2.1.4_Arena score (Elo-like),1384.0
+fig_2.1.4,category,Mistral AI,2025-07-01,fig_2.1.4_Arena score (Elo-like),1382.0
+fig_2.1.4,category,Mistral AI,2025-08-01,fig_2.1.4_Arena score (Elo-like),1416.0
+fig_2.1.4,category,Mistral AI,2025-09-01,fig_2.1.4_Arena score (Elo-like),1408.0
+fig_2.1.4,category,Mistral AI,2025-10-01,fig_2.1.4_Arena score (Elo-like),1410.0
+fig_2.1.4,category,Mistral AI,2025-11-01,fig_2.1.4_Arena score (Elo-like),1410.0
+fig_2.1.4,category,Mistral AI,2025-12-01,fig_2.1.4_Arena score (Elo-like),1415.0
+fig_2.1.4,category,Mistral AI,2026-01-01,fig_2.1.4_Arena score (Elo-like),1414.0
+fig_2.1.4,category,Mistral AI,2026-02-01,fig_2.1.4_Arena score (Elo-like),1415.0
+fig_2.1.4,category,Mistral AI,2026-03-01,fig_2.1.4_Arena score (Elo-like),1416.0
+fig_2.1.4,category,DeepSeek,2024-01-01,fig_2.1.4_Arena score (Elo-like),1189.0
+fig_2.1.4,category,DeepSeek,2024-02-01,fig_2.1.4_Arena score (Elo-like),1186.0
+fig_2.1.4,category,DeepSeek,2024-03-01,fig_2.1.4_Arena score (Elo-like),1185.0
+fig_2.1.4,category,DeepSeek,2024-04-01,fig_2.1.4_Arena score (Elo-like),1185.0
+fig_2.1.4,category,DeepSeek,2024-05-01,fig_2.1.4_Arena score (Elo-like),1186.0
+fig_2.1.4,category,DeepSeek,2024-06-01,fig_2.1.4_Arena score (Elo-like),1258.0
+fig_2.1.4,category,DeepSeek,2024-07-01,fig_2.1.4_Arena score (Elo-like),1259.0
+fig_2.1.4,category,DeepSeek,2024-08-01,fig_2.1.4_Arena score (Elo-like),1259.0
+fig_2.1.4,category,DeepSeek,2024-09-01,fig_2.1.4_Arena score (Elo-like),1295.0
+fig_2.1.4,category,DeepSeek,2024-10-01,fig_2.1.4_Arena score (Elo-like),1300.0
+fig_2.1.4,category,DeepSeek,2024-11-01,fig_2.1.4_Arena score (Elo-like),1303.0
+fig_2.1.4,category,DeepSeek,2024-12-01,fig_2.1.4_Arena score (Elo-like),1360.0
+fig_2.1.4,category,DeepSeek,2025-01-01,fig_2.1.4_Arena score (Elo-like),1397.0
+fig_2.1.4,category,DeepSeek,2025-02-01,fig_2.1.4_Arena score (Elo-like),1400.0
+fig_2.1.4,category,DeepSeek,2025-03-01,fig_2.1.4_Arena score (Elo-like),1395.0
+fig_2.1.4,category,DeepSeek,2025-04-01,fig_2.1.4_Arena score (Elo-like),1404.0
+fig_2.1.4,category,DeepSeek,2025-05-01,fig_2.1.4_Arena score (Elo-like),1401.0
+fig_2.1.4,category,DeepSeek,2025-06-01,fig_2.1.4_Arena score (Elo-like),1423.0
+fig_2.1.4,category,DeepSeek,2025-07-01,fig_2.1.4_Arena score (Elo-like),1417.0
+fig_2.1.4,category,DeepSeek,2025-08-01,fig_2.1.4_Arena score (Elo-like),1431.0
+fig_2.1.4,category,DeepSeek,2025-09-01,fig_2.1.4_Arena score (Elo-like),1418.0
+fig_2.1.4,category,DeepSeek,2025-10-01,fig_2.1.4_Arena score (Elo-like),1421.0
+fig_2.1.4,category,DeepSeek,2025-11-01,fig_2.1.4_Arena score (Elo-like),1424.0
+fig_2.1.4,category,DeepSeek,2025-12-01,fig_2.1.4_Arena score (Elo-like),1423.0
+fig_2.1.4,category,DeepSeek,2026-01-01,fig_2.1.4_Arena score (Elo-like),1423.0
+fig_2.1.4,category,DeepSeek,2026-02-01,fig_2.1.4_Arena score (Elo-like),1424.0
+fig_2.1.4,category,DeepSeek,2026-03-01,fig_2.1.4_Arena score (Elo-like),1424.0
+fig_2.1.4,category,Alibaba,2023-10-01,fig_2.1.4_Arena score (Elo-like),1154.0
+fig_2.1.4,category,Alibaba,2023-11-01,fig_2.1.4_Arena score (Elo-like),1150.0
+fig_2.1.4,category,Alibaba,2023-12-01,fig_2.1.4_Arena score (Elo-like),1149.0
+fig_2.1.4,category,Alibaba,2024-01-01,fig_2.1.4_Arena score (Elo-like),1141.0
+fig_2.1.4,category,Alibaba,2024-02-01,fig_2.1.4_Arena score (Elo-like),1234.0
+fig_2.1.4,category,Alibaba,2024-03-01,fig_2.1.4_Arena score (Elo-like),1238.0
+fig_2.1.4,category,Alibaba,2024-04-01,fig_2.1.4_Arena score (Elo-like),1235.0
+fig_2.1.4,category,Alibaba,2024-05-01,fig_2.1.4_Arena score (Elo-like),1237.0
+fig_2.1.4,category,Alibaba,2024-06-01,fig_2.1.4_Arena score (Elo-like),1260.0
+fig_2.1.4,category,Alibaba,2024-07-01,fig_2.1.4_Arena score (Elo-like),1262.0
+fig_2.1.4,category,Alibaba,2024-08-01,fig_2.1.4_Arena score (Elo-like),1261.0
+fig_2.1.4,category,Alibaba,2024-09-01,fig_2.1.4_Arena score (Elo-like),1299.0
+fig_2.1.4,category,Alibaba,2024-10-01,fig_2.1.4_Arena score (Elo-like),1310.0
+fig_2.1.4,category,Alibaba,2024-11-01,fig_2.1.4_Arena score (Elo-like),1314.0
+fig_2.1.4,category,Alibaba,2024-12-01,fig_2.1.4_Arena score (Elo-like),1314.0
+fig_2.1.4,category,Alibaba,2025-01-01,fig_2.1.4_Arena score (Elo-like),1315.0
+fig_2.1.4,category,Alibaba,2025-02-01,fig_2.1.4_Arena score (Elo-like),1364.0
+fig_2.1.4,category,Alibaba,2025-03-01,fig_2.1.4_Arena score (Elo-like),1369.0
+fig_2.1.4,category,Alibaba,2025-04-01,fig_2.1.4_Arena score (Elo-like),1370.0
+fig_2.1.4,category,Alibaba,2025-05-01,fig_2.1.4_Arena score (Elo-like),1372.0
+fig_2.1.4,category,Alibaba,2025-06-01,fig_2.1.4_Arena score (Elo-like),1399.0
+fig_2.1.4,category,Alibaba,2025-07-01,fig_2.1.4_Arena score (Elo-like),1438.0
+fig_2.1.4,category,Alibaba,2025-08-01,fig_2.1.4_Arena score (Elo-like),1430.0
+fig_2.1.4,category,Alibaba,2025-09-01,fig_2.1.4_Arena score (Elo-like),1436.0
+fig_2.1.4,category,Alibaba,2025-10-01,fig_2.1.4_Arena score (Elo-like),1433.0
+fig_2.1.4,category,Alibaba,2025-11-01,fig_2.1.4_Arena score (Elo-like),1433.0
+fig_2.1.4,category,Alibaba,2025-12-01,fig_2.1.4_Arena score (Elo-like),1434.0
+fig_2.1.4,category,Alibaba,2026-01-01,fig_2.1.4_Arena score (Elo-like),1434.0
+fig_2.1.4,category,Alibaba,2026-02-01,fig_2.1.4_Arena score (Elo-like),1453.0
+fig_2.1.4,category,Alibaba,2026-03-01,fig_2.1.4_Arena score (Elo-like),1449.0
+fig_2.1.4,category,OpenAI,2023-05-01,fig_2.1.4_Arena score (Elo-like),1322.0
+fig_2.1.4,category,OpenAI,2023-06-01,fig_2.1.4_Arena score (Elo-like),1314.0
+fig_2.1.4,category,OpenAI,2023-07-01,fig_2.1.4_Arena score (Elo-like),1312.0
+fig_2.1.4,category,OpenAI,2023-08-01,fig_2.1.4_Arena score (Elo-like),1313.0
+fig_2.1.4,category,OpenAI,2023-09-01,fig_2.1.4_Arena score (Elo-like),1313.0
+fig_2.1.4,category,OpenAI,2023-10-01,fig_2.1.4_Arena score (Elo-like),1314.0
+fig_2.1.4,category,OpenAI,2023-11-01,fig_2.1.4_Arena score (Elo-like),1313.0
+fig_2.1.4,category,OpenAI,2023-12-01,fig_2.1.4_Arena score (Elo-like),1312.0
+fig_2.1.4,category,OpenAI,2024-01-01,fig_2.1.4_Arena score (Elo-like),1334.0
+fig_2.1.4,category,OpenAI,2024-02-01,fig_2.1.4_Arena score (Elo-like),1329.0
+fig_2.1.4,category,OpenAI,2024-03-01,fig_2.1.4_Arena score (Elo-like),1325.0
+fig_2.1.4,category,OpenAI,2024-04-01,fig_2.1.4_Arena score (Elo-like),1338.0
+fig_2.1.4,category,OpenAI,2024-05-01,fig_2.1.4_Arena score (Elo-like),1340.0
+fig_2.1.4,category,OpenAI,2024-06-01,fig_2.1.4_Arena score (Elo-like),1341.0
+fig_2.1.4,category,OpenAI,2024-07-01,fig_2.1.4_Arena score (Elo-like),1341.0
+fig_2.1.4,category,OpenAI,2024-08-01,fig_2.1.4_Arena score (Elo-like),1341.0
+fig_2.1.4,category,OpenAI,2024-09-01,fig_2.1.4_Arena score (Elo-like),1387.0
+fig_2.1.4,category,OpenAI,2024-10-01,fig_2.1.4_Arena score (Elo-like),1384.0
+fig_2.1.4,category,OpenAI,2024-11-01,fig_2.1.4_Arena score (Elo-like),1384.0
+fig_2.1.4,category,OpenAI,2024-12-01,fig_2.1.4_Arena score (Elo-like),1407.0
+fig_2.1.4,category,OpenAI,2025-01-01,fig_2.1.4_Arena score (Elo-like),1405.0
+fig_2.1.4,category,OpenAI,2025-02-01,fig_2.1.4_Arena score (Elo-like),1405.0
+fig_2.1.4,category,OpenAI,2025-03-01,fig_2.1.4_Arena score (Elo-like),1441.0
+fig_2.1.4,category,OpenAI,2025-04-01,fig_2.1.4_Arena score (Elo-like),1461.0
+fig_2.1.4,category,OpenAI,2025-05-01,fig_2.1.4_Arena score (Elo-like),1458.0
+fig_2.1.4,category,OpenAI,2025-06-01,fig_2.1.4_Arena score (Elo-like),1455.0
+fig_2.1.4,category,OpenAI,2025-07-01,fig_2.1.4_Arena score (Elo-like),1482.0
+fig_2.1.4,category,OpenAI,2025-08-01,fig_2.1.4_Arena score (Elo-like),1449.0
+fig_2.1.4,category,OpenAI,2025-09-01,fig_2.1.4_Arena score (Elo-like),1442.0
+fig_2.1.4,category,OpenAI,2025-10-01,fig_2.1.4_Arena score (Elo-like),1442.0
+fig_2.1.4,category,OpenAI,2025-11-01,fig_2.1.4_Arena score (Elo-like),1461.0
+fig_2.1.4,category,OpenAI,2025-12-01,fig_2.1.4_Arena score (Elo-like),1458.0
+fig_2.1.4,category,OpenAI,2026-01-01,fig_2.1.4_Arena score (Elo-like),1459.0
+fig_2.1.4,category,OpenAI,2026-02-01,fig_2.1.4_Arena score (Elo-like),1481.0
+fig_2.1.4,category,OpenAI,2026-03-01,fig_2.1.4_Arena score (Elo-like),1481.0
+fig_2.1.4,category,Google,2023-05-01,fig_2.1.4_Arena score (Elo-like),1117.0
+fig_2.1.4,category,Google,2023-06-01,fig_2.1.4_Arena score (Elo-like),1116.0
+fig_2.1.4,category,Google,2023-07-01,fig_2.1.4_Arena score (Elo-like),1117.0
+fig_2.1.4,category,Google,2023-08-01,fig_2.1.4_Arena score (Elo-like),1116.0
+fig_2.1.4,category,Google,2023-09-01,fig_2.1.4_Arena score (Elo-like),1122.0
+fig_2.1.4,category,Google,2023-10-01,fig_2.1.4_Arena score (Elo-like),1130.0
+fig_2.1.4,category,Google,2023-11-01,fig_2.1.4_Arena score (Elo-like),1137.0
+fig_2.1.4,category,Google,2023-12-01,fig_2.1.4_Arena score (Elo-like),1217.0
+fig_2.1.4,category,Google,2024-01-01,fig_2.1.4_Arena score (Elo-like),1217.0
+fig_2.1.4,category,Google,2024-02-01,fig_2.1.4_Arena score (Elo-like),1216.0
+fig_2.1.4,category,Google,2024-03-01,fig_2.1.4_Arena score (Elo-like),1220.0
+fig_2.1.4,category,Google,2024-04-01,fig_2.1.4_Arena score (Elo-like),1229.0
+fig_2.1.4,category,Google,2024-05-01,fig_2.1.4_Arena score (Elo-like),1317.0
+fig_2.1.4,category,Google,2024-06-01,fig_2.1.4_Arena score (Elo-like),1322.0
+fig_2.1.4,category,Google,2024-07-01,fig_2.1.4_Arena score (Elo-like),1327.0
+fig_2.1.4,category,Google,2024-08-01,fig_2.1.4_Arena score (Elo-like),1328.0
+fig_2.1.4,category,Google,2024-09-01,fig_2.1.4_Arena score (Elo-like),1352.0
+fig_2.1.4,category,Google,2024-10-01,fig_2.1.4_Arena score (Elo-like),1353.0
+fig_2.1.4,category,Google,2024-11-01,fig_2.1.4_Arena score (Elo-like),1351.0
+fig_2.1.4,category,Google,2024-12-01,fig_2.1.4_Arena score (Elo-like),1351.0
+fig_2.1.4,category,Google,2025-01-01,fig_2.1.4_Arena score (Elo-like),1349.0
+fig_2.1.4,category,Google,2025-02-01,fig_2.1.4_Arena score (Elo-like),1372.0
+fig_2.1.4,category,Google,2025-03-01,fig_2.1.4_Arena score (Elo-like),1370.0
+fig_2.1.4,category,Google,2025-04-01,fig_2.1.4_Arena score (Elo-like),1369.0
+fig_2.1.4,category,Google,2025-05-01,fig_2.1.4_Arena score (Elo-like),1492.0
+fig_2.1.4,category,Google,2025-06-01,fig_2.1.4_Arena score (Elo-like),1472.0
+fig_2.1.4,category,Google,2025-07-01,fig_2.1.4_Arena score (Elo-like),1462.0
+fig_2.1.4,category,Google,2025-08-01,fig_2.1.4_Arena score (Elo-like),1461.0
+fig_2.1.4,category,Google,2025-09-01,fig_2.1.4_Arena score (Elo-like),1453.0
+fig_2.1.4,category,Google,2025-10-01,fig_2.1.4_Arena score (Elo-like),1452.0
+fig_2.1.4,category,Google,2025-11-01,fig_2.1.4_Arena score (Elo-like),1492.0
+fig_2.1.4,category,Google,2025-12-01,fig_2.1.4_Arena score (Elo-like),1490.0
+fig_2.1.4,category,Google,2026-01-01,fig_2.1.4_Arena score (Elo-like),1487.0
+fig_2.1.4,category,Google,2026-02-01,fig_2.1.4_Arena score (Elo-like),1500.0
+fig_2.1.4,category,Google,2026-03-01,fig_2.1.4_Arena score (Elo-like),1494.0
+fig_2.1.4,category,xAI,2024-08-01,fig_2.1.4_Arena score (Elo-like),1331.0
+fig_2.1.4,category,xAI,2024-09-01,fig_2.1.4_Arena score (Elo-like),1331.0
+fig_2.1.4,category,xAI,2024-10-01,fig_2.1.4_Arena score (Elo-like),1330.0
+fig_2.1.4,category,xAI,2024-11-01,fig_2.1.4_Arena score (Elo-like),1332.0
+fig_2.1.4,category,xAI,2024-12-01,fig_2.1.4_Arena score (Elo-like),1329.0
+fig_2.1.4,category,xAI,2025-01-01,fig_2.1.4_Arena score (Elo-like),1331.0
+fig_2.1.4,category,xAI,2025-02-01,fig_2.1.4_Arena score (Elo-like),1331.0
+fig_2.1.4,category,xAI,2025-03-01,fig_2.1.4_Arena score (Elo-like),1411.0
+fig_2.1.4,category,xAI,2025-04-01,fig_2.1.4_Arena score (Elo-like),1414.0
+fig_2.1.4,category,xAI,2025-05-01,fig_2.1.4_Arena score (Elo-like),1412.0
+fig_2.1.4,category,xAI,2025-06-01,fig_2.1.4_Arena score (Elo-like),1414.0
+fig_2.1.4,category,xAI,2025-07-01,fig_2.1.4_Arena score (Elo-like),1432.0
+fig_2.1.4,category,xAI,2025-08-01,fig_2.1.4_Arena score (Elo-like),1427.0
+fig_2.1.4,category,xAI,2025-09-01,fig_2.1.4_Arena score (Elo-like),1425.0
+fig_2.1.4,category,xAI,2025-10-01,fig_2.1.4_Arena score (Elo-like),1420.0
+fig_2.1.4,category,xAI,2025-11-01,fig_2.1.4_Arena score (Elo-like),1482.0
+fig_2.1.4,category,xAI,2025-12-01,fig_2.1.4_Arena score (Elo-like),1477.0
+fig_2.1.4,category,xAI,2026-01-01,fig_2.1.4_Arena score (Elo-like),1475.0
+fig_2.1.4,category,xAI,2026-02-01,fig_2.1.4_Arena score (Elo-like),1493.0
+fig_2.1.4,category,xAI,2026-03-01,fig_2.1.4_Arena score (Elo-like),1495.0
+fig_2.1.4,category,Anthropic,2024-03-01,fig_2.1.4_Arena score (Elo-like),1333.0
+fig_2.1.4,category,Anthropic,2024-04-01,fig_2.1.4_Arena score (Elo-like),1323.0
+fig_2.1.4,category,Anthropic,2024-05-01,fig_2.1.4_Arena score (Elo-like),1320.0
+fig_2.1.4,category,Anthropic,2024-06-01,fig_2.1.4_Arena score (Elo-like),1340.0
+fig_2.1.4,category,Anthropic,2024-07-01,fig_2.1.4_Arena score (Elo-like),1339.0
+fig_2.1.4,category,Anthropic,2024-08-01,fig_2.1.4_Arena score (Elo-like),1338.0
+fig_2.1.4,category,Anthropic,2024-09-01,fig_2.1.4_Arena score (Elo-like),1337.0
+fig_2.1.4,category,Anthropic,2024-10-01,fig_2.1.4_Arena score (Elo-like),1364.0
+fig_2.1.4,category,Anthropic,2024-11-01,fig_2.1.4_Arena score (Elo-like),1363.0
+fig_2.1.4,category,Anthropic,2024-12-01,fig_2.1.4_Arena score (Elo-like),1365.0
+fig_2.1.4,category,Anthropic,2025-01-01,fig_2.1.4_Arena score (Elo-like),1365.0
+fig_2.1.4,category,Anthropic,2025-02-01,fig_2.1.4_Arena score (Elo-like),1396.0
+fig_2.1.4,category,Anthropic,2025-03-01,fig_2.1.4_Arena score (Elo-like),1397.0
+fig_2.1.4,category,Anthropic,2025-04-01,fig_2.1.4_Arena score (Elo-like),1391.0
+fig_2.1.4,category,Anthropic,2025-05-01,fig_2.1.4_Arena score (Elo-like),1423.0
+fig_2.1.4,category,Anthropic,2025-06-01,fig_2.1.4_Arena score (Elo-like),1420.0
+fig_2.1.4,category,Anthropic,2025-07-01,fig_2.1.4_Arena score (Elo-like),1423.0
+fig_2.1.4,category,Anthropic,2025-08-01,fig_2.1.4_Arena score (Elo-like),1458.0
+fig_2.1.4,category,Anthropic,2025-09-01,fig_2.1.4_Arena score (Elo-like),1450.0
+fig_2.1.4,category,Anthropic,2025-10-01,fig_2.1.4_Arena score (Elo-like),1448.0
+fig_2.1.4,category,Anthropic,2025-11-01,fig_2.1.4_Arena score (Elo-like),1466.0
+fig_2.1.4,category,Anthropic,2025-12-01,fig_2.1.4_Arena score (Elo-like),1470.0
+fig_2.1.4,category,Anthropic,2026-01-01,fig_2.1.4_Arena score (Elo-like),1468.0
+fig_2.1.4,category,Anthropic,2026-02-01,fig_2.1.4_Arena score (Elo-like),1504.0
+fig_2.1.4,category,Anthropic,2026-03-01,fig_2.1.4_Arena score (Elo-like),1503.0
+fig_2.1.5,category,MMLU Math,,fig_2.1.5_Precision@50 (%),0.02
+fig_2.1.5,category,OpenBookQA,,fig_2.1.5_Precision@50 (%),0.02
+fig_2.1.5,category,MMLU Cli,,fig_2.1.5_Precision@50 (%),0.06
+fig_2.1.5,category,MMLU Med,,fig_2.1.5_Precision@50 (%),0.06
+fig_2.1.5,category,AIR-Bench,,fig_2.1.5_Precision@50 (%),0.09
+fig_2.1.5,category,MedQA,,fig_2.1.5_Precision@50 (%),0.23
+fig_2.1.5,category,ThaiExam,,fig_2.1.5_Precision@50 (%),0.26
+fig_2.1.5,category,MMLU 5Sub,,fig_2.1.5_Precision@50 (%),0.31
+fig_2.1.5,category,GSM8K,,fig_2.1.5_Precision@50 (%),0.42
+fig_2.2.1,model,Grok-4,,fig_2.2.1_Overall accuracy (%),0.87
+fig_2.2.1,model,GPT-5 (high),,fig_2.2.1_Overall accuracy (%),0.871
+fig_2.2.1,model,K2.5-1T-A32B,,fig_2.2.1_Overall accuracy (%),0.871
+fig_2.2.1,model,Hunyuan-T1,,fig_2.2.1_Overall accuracy (%),0.872
+fig_2.2.1,model,Claude-4.5-Opus (Thinking),,fig_2.2.1_Overall accuracy (%),0.873
+fig_2.2.1,model,Claude-4-Opus (Thinking),,fig_2.2.1_Overall accuracy (%),0.873
+fig_2.2.1,model,GPT-5.2,,fig_2.2.1_Overall accuracy (%),0.874
+fig_2.2.1,model,Claude-4.5-Sonnet (Thinking),,fig_2.2.1_Overall accuracy (%),0.874
+fig_2.2.1,model,Seed2.0-Lite,,fig_2.2.1_Overall accuracy (%),0.877
+fig_2.2.1,model,Qwen3.5-397B-A17B,,fig_2.2.1_Overall accuracy (%),0.878
+fig_2.2.1,model,Gemini-3-Flash (12/25),,fig_2.2.1_Overall accuracy (%),0.886
+fig_2.2.1,model,Claude-4.6-Opus (Thinking),,fig_2.2.1_Overall accuracy (%),0.891
+fig_2.2.1,model,GPT-o1,,fig_2.2.1_Overall accuracy (%),0.893
+fig_2.2.1,model,Gemini-3-Pro (11/25),,fig_2.2.1_Overall accuracy (%),0.901
+fig_2.2.1,model,Gemini-3.1-Pro,,fig_2.2.1_Overall accuracy (%),0.9116
+fig_2.2.2,model,gpt-5.1-high,,fig_2.2.2_arena_elo_rating,1457
+fig_2.2.2,model,gpt-5.1-high,,fig_2.2.2_95_CI_upper,1461
+fig_2.2.2,model,gpt-5.1-high,,fig_2.2.2_95_CI_lower,1453
+fig_2.2.2,model,gpt-5.1-high,,fig_2.2.2_Error Lower,4
+fig_2.2.2,model,gpt-5.1-high,,fig_2.2.2_Error Upper,4
+fig_2.2.2,model,claude-sonnet-4-6,,fig_2.2.2_arena_elo_rating,1458
+fig_2.2.2,model,claude-sonnet-4-6,,fig_2.2.2_95_CI_upper,1468
+fig_2.2.2,model,claude-sonnet-4-6,,fig_2.2.2_95_CI_lower,1448
+fig_2.2.2,model,claude-sonnet-4-6,,fig_2.2.2_Error Lower,10
+fig_2.2.2,model,claude-sonnet-4-6,,fig_2.2.2_Error Upper,10
+fig_2.2.2,model,gemini-3-flash (thinking-minimal),,fig_2.2.2_arena_elo_rating,1461
+fig_2.2.2,model,gemini-3-flash (thinking-minimal),,fig_2.2.2_95_CI_upper,1466
+fig_2.2.2,model,gemini-3-flash (thinking-minimal),,fig_2.2.2_95_CI_lower,1456
+fig_2.2.2,model,gemini-3-flash (thinking-minimal),,fig_2.2.2_Error Lower,5
+fig_2.2.2,model,gemini-3-flash (thinking-minimal),,fig_2.2.2_Error Upper,5
+fig_2.2.2,model,grok-4.1,,fig_2.2.2_arena_elo_rating,1462
+fig_2.2.2,model,grok-4.1,,fig_2.2.2_95_CI_upper,1466
+fig_2.2.2,model,grok-4.1,,fig_2.2.2_95_CI_lower,1458
+fig_2.2.2,model,grok-4.1,,fig_2.2.2_Error Lower,4
+fig_2.2.2,model,grok-4.1,,fig_2.2.2_Error Upper,4
+fig_2.2.2,model,claude-opus-4-5-20251101,,fig_2.2.2_arena_elo_rating,1467
+fig_2.2.2,model,claude-opus-4-5-20251101,,fig_2.2.2_95_CI_upper,1471
+fig_2.2.2,model,claude-opus-4-5-20251101,,fig_2.2.2_95_CI_lower,1463
+fig_2.2.2,model,claude-opus-4-5-20251101,,fig_2.2.2_Error Lower,4
+fig_2.2.2,model,claude-opus-4-5-20251101,,fig_2.2.2_Error Upper,4
+fig_2.2.2,model,dola-seed-2.0-preview,,fig_2.2.2_arena_elo_rating,1470
+fig_2.2.2,model,dola-seed-2.0-preview,,fig_2.2.2_95_CI_upper,1479
+fig_2.2.2,model,dola-seed-2.0-preview,,fig_2.2.2_95_CI_lower,1461
+fig_2.2.2,model,dola-seed-2.0-preview,,fig_2.2.2_Error Lower,9
+fig_2.2.2,model,dola-seed-2.0-preview,,fig_2.2.2_Error Upper,9
+fig_2.2.2,model,claude-opus-4-5-20251101-thinking-32k,,fig_2.2.2_arena_elo_rating,1471
+fig_2.2.2,model,claude-opus-4-5-20251101-thinking-32k,,fig_2.2.2_95_CI_upper,1475
+fig_2.2.2,model,claude-opus-4-5-20251101-thinking-32k,,fig_2.2.2_95_CI_lower,1467
+fig_2.2.2,model,claude-opus-4-5-20251101-thinking-32k,,fig_2.2.2_Error Lower,4
+fig_2.2.2,model,claude-opus-4-5-20251101-thinking-32k,,fig_2.2.2_Error Upper,4
+fig_2.2.2,model,gemini-3-flash,,fig_2.2.2_arena_elo_rating,1473
+fig_2.2.2,model,gemini-3-flash,,fig_2.2.2_95_CI_upper,1478
+fig_2.2.2,model,gemini-3-flash,,fig_2.2.2_95_CI_lower,1468
+fig_2.2.2,model,gemini-3-flash,,fig_2.2.2_Error Lower,5
+fig_2.2.2,model,gemini-3-flash,,fig_2.2.2_Error Upper,5
+fig_2.2.2,model,grok-4.1-thinking,,fig_2.2.2_arena_elo_rating,1473
+fig_2.2.2,model,grok-4.1-thinking,,fig_2.2.2_95_CI_upper,1477
+fig_2.2.2,model,grok-4.1-thinking,,fig_2.2.2_95_CI_lower,1469
+fig_2.2.2,model,grok-4.1-thinking,,fig_2.2.2_Error Lower,4
+fig_2.2.2,model,grok-4.1-thinking,,fig_2.2.2_Error Upper,4
+fig_2.2.2,model,gpt-5.2-chat-latest-20260210,,fig_2.2.2_arena_elo_rating,1481
+fig_2.2.2,model,gpt-5.2-chat-latest-20260210,,fig_2.2.2_95_CI_upper,1491
+fig_2.2.2,model,gpt-5.2-chat-latest-20260210,,fig_2.2.2_95_CI_lower,1471
+fig_2.2.2,model,gpt-5.2-chat-latest-20260210,,fig_2.2.2_Error Lower,10
+fig_2.2.2,model,gpt-5.2-chat-latest-20260210,,fig_2.2.2_Error Upper,10
+fig_2.2.2,model,gemini-3-pro,,fig_2.2.2_arena_elo_rating,1486
+fig_2.2.2,model,gemini-3-pro,,fig_2.2.2_95_CI_upper,1490
+fig_2.2.2,model,gemini-3-pro,,fig_2.2.2_95_CI_lower,1482
+fig_2.2.2,model,gemini-3-pro,,fig_2.2.2_Error Lower,4
+fig_2.2.2,model,gemini-3-pro,,fig_2.2.2_Error Upper,4
+fig_2.2.2,model,grok-4.20-beta1,,fig_2.2.2_arena_elo_rating,1495
+fig_2.2.2,model,grok-4.20-beta1,,fig_2.2.2_95_CI_upper,1505
+fig_2.2.2,model,grok-4.20-beta1,,fig_2.2.2_95_CI_lower,1485
+fig_2.2.2,model,grok-4.20-beta1,,fig_2.2.2_Error Lower,10
+fig_2.2.2,model,grok-4.20-beta1,,fig_2.2.2_Error Upper,10
+fig_2.2.2,model,gemini-3.1-pro-preview,,fig_2.2.2_arena_elo_rating,1500
+fig_2.2.2,model,gemini-3.1-pro-preview,,fig_2.2.2_95_CI_upper,1509
+fig_2.2.2,model,gemini-3.1-pro-preview,,fig_2.2.2_95_CI_lower,1491
+fig_2.2.2,model,gemini-3.1-pro-preview,,fig_2.2.2_Error Lower,9
+fig_2.2.2,model,gemini-3.1-pro-preview,,fig_2.2.2_Error Upper,9
+fig_2.2.2,model,claude-opus-4-6-thinking,,fig_2.2.2_arena_elo_rating,1503
+fig_2.2.2,model,claude-opus-4-6-thinking,,fig_2.2.2_95_CI_upper,1511
+fig_2.2.2,model,claude-opus-4-6-thinking,,fig_2.2.2_95_CI_lower,1495
+fig_2.2.2,model,claude-opus-4-6-thinking,,fig_2.2.2_Error Lower,8
+fig_2.2.2,model,claude-opus-4-6-thinking,,fig_2.2.2_Error Upper,8
+fig_2.2.2,model,claude-opus-4-6,,fig_2.2.2_arena_elo_rating,1503
+fig_2.2.2,model,claude-opus-4-6,,fig_2.2.2_95_CI_upper,1510
+fig_2.2.2,model,claude-opus-4-6,,fig_2.2.2_95_CI_lower,1496
+fig_2.2.2,model,claude-opus-4-6,,fig_2.2.2_Error Lower,7
+fig_2.2.2,model,claude-opus-4-6,,fig_2.2.2_Error Upper,7
+fig_2.2.3,model,Claude-Opus-4-5-20251101 (FC),,fig_2.2.3_Overall Accuracy,77.47
+fig_2.2.3,model,Claude-Sonnet-4-5-20250929 (FC),,fig_2.2.3_Overall Accuracy,73.24
+fig_2.2.3,model,Gemini-3-Pro-Preview (Prompt),,fig_2.2.3_Overall Accuracy,72.51
+fig_2.2.3,model,GLM-4.6 (FC thinking),,fig_2.2.3_Overall Accuracy,72.38
+fig_2.2.3,model,Grok-4-1-fast-reasoning (FC),,fig_2.2.3_Overall Accuracy,69.57
+fig_2.2.3,model,Claude-Haiku-4-5-20251001 (FC),,fig_2.2.3_Overall Accuracy,68.7
+fig_2.2.3,model,Gemini-3-Pro-Preview (FC),,fig_2.2.3_Overall Accuracy,68.14
+fig_2.2.3,model,o3-2025-04-16 (Prompt),,fig_2.2.3_Overall Accuracy,63.05
+fig_2.2.3,model,Grok-4-0709 (Prompt),,fig_2.2.3_Overall Accuracy,62.97
+fig_2.2.3,model,Grok-4-0709 (FC),,fig_2.2.3_Overall Accuracy,61.38
+fig_2.2.3,model,Moonshotai-Kimi-K2-Instruct (FC),,fig_2.2.3_Overall Accuracy,59.06
+fig_2.2.3,model,Grok-4-1-fast-non-reasoning (FC),,fig_2.2.3_Overall Accuracy,58.29
+fig_2.2.3,model,Command A Reasoning (FC),,fig_2.2.3_Overall Accuracy,57.06
+fig_2.2.3,model,DeepSeek-V3.2-Exp (Prompt + Thinking),,fig_2.2.3_Overall Accuracy,56.73
+fig_2.2.3,model,Gemini-2.5-Flash (FC),,fig_2.2.3_Overall Accuracy,56.24
+fig_2.2.4,global,Global,2019,fig_2.2.4_Average accuracy,58.27
+fig_2.2.4,global,Global,2021,fig_2.2.4_Average accuracy,59.03
+fig_2.2.4,global,Global,2022,fig_2.2.4_Average accuracy,63.13
+fig_2.2.4,global,Global,2023,fig_2.2.4_Average accuracy,64.77
+fig_2.2.4,global,Global,2024,fig_2.2.4_Average accuracy,70.72
+fig_2.2.4,global,Global,2025,fig_2.2.4_Average accuracy,75.97
+fig_2.3.1,model,VideoChat2,,fig_2.3.1_Average accuracy,0.511
+fig_2.3.1,model,Kwai-VideoLLM,,fig_2.3.1_Average accuracy,0.54725
+fig_2.3.1,model,ST-LLM,,fig_2.3.1_Average accuracy,0.5485
+fig_2.3.1,model,PLLaVA 34B,,fig_2.3.1_Average accuracy,0.581
+fig_2.3.1,model,CVLM,,fig_2.3.1_Average accuracy,0.58775
+fig_2.3.1,model,VideoChat2_mistral,,fig_2.3.1_Average accuracy,0.604
+fig_2.3.1,model,VideoChat2_HD_mistral,,fig_2.3.1_Average accuracy,0.623
+fig_2.3.1,model,Video-CCAM-4B-v1.1,,fig_2.3.1_Average accuracy,0.628
+fig_2.3.1,model,Video-CCAM-9B-v1.1,,fig_2.3.1_Average accuracy,0.6459999999999999
+fig_2.3.1,model,InternVideo2-8B-HD-Chat-f16,,fig_2.3.1_Average accuracy,0.6725
+fig_2.3.1,model,TimeMarker,,fig_2.3.1_Average accuracy,0.67425
+fig_2.3.1,model,Video-CCAM-7B-v1.2,,fig_2.3.1_Average accuracy,0.6923
+fig_2.3.1,model,Woven-VLLM,,fig_2.3.1_Average accuracy,0.7381190595
+fig_2.3.1,model,JT3.5,,fig_2.3.1_Average accuracy,0.74075
+fig_2.3.1,model,JT-VL-Chat,,fig_2.3.1_Average accuracy,0.74075
+fig_2.3.2,model,VILA1.5-8B,2024,fig_2.3.2_Overall,20.89
+fig_2.3.2,model,LongVA-7B,2024,fig_2.3.2_Overall,23.98
+fig_2.3.2,model,Llama-3.2-11B,2024,fig_2.3.2_Overall,30
+fig_2.3.2,model,LLaVA-OneVision-7B,2024,fig_2.3.2_Overall,33.89
+fig_2.3.2,model,VILA1.5-40B,2024,fig_2.3.2_Overall,34
+fig_2.3.2,model,LLaVA-Video-7B,2024,fig_2.3.2_Overall,36.11
+fig_2.3.2,model,InternVL2-8B,2024,fig_2.3.2_Overall,37.44
+fig_2.3.2,model,VideoChat-Flash-7B@448,2024,fig_2.3.2_Overall,41.67
+fig_2.3.2,model,mPLUG-Owl3-7B,2024,fig_2.3.2_Overall,42
+fig_2.3.2,model,Qwen-2.5-VL-7B,2024,fig_2.3.2_Overall,47.44
+fig_2.3.2,model,LLaVA-OneVision-72B,2024,fig_2.3.2_Overall,48.33
+fig_2.3.2,model,LLaVA-Video-72B,2024,fig_2.3.2_Overall,49.67
+fig_2.3.2,model,Gemini 1.5 Flash,2024,fig_2.3.2_Overall,49.78
+fig_2.3.2,model,Aria,2024,fig_2.3.2_Overall,50.78
+fig_2.3.2,model,Gemini 1.5 Pro,2024,fig_2.3.2_Overall,53.89
+fig_2.3.2,model,GPT-4o,2024,fig_2.3.2_Overall,61.22
+fig_2.3.2,model,Claude-3.5-Sonnet,2024,fig_2.3.2_Overall,65.78
+fig_2.3.2,model,MAmmoTH-VL-8B,2025,fig_2.3.2_Overall,41.78
+fig_2.3.2,model,InternVideo2.5-Chat-8B,2025,fig_2.3.2_Overall,43
+fig_2.3.2,model,VideoLLaMA3-7B,2025,fig_2.3.2_Overall,47
+fig_2.3.2,model,Video-RTS,2025,fig_2.3.2_Overall,52.7
+fig_2.3.2,model,GLM-4V-PLUS-0111,2025,fig_2.3.2_Overall,57.56
+fig_2.3.2,model,Qwen-2.5-VL-72B,2025,fig_2.3.2_Overall,60.22
+fig_2.3.2,model,Kimi-VL-A3B-Thinking-2506,2025,fig_2.3.2_Overall,65.22
+fig_2.3.2,model,Keye-VL-1.5-8B,2025,fig_2.3.2_Overall,66
+fig_2.3.3,model,InternVL2-8B,,fig_2.3.3_∆knowledge,-0.085
+fig_2.3.3,model,LongVA-7B,,fig_2.3.3_∆knowledge,-0.07
+fig_2.3.3,model,LLaVA-OneVision-7B,,fig_2.3.3_∆knowledge,-0.055999999999999994
+fig_2.3.3,model,LLaVA-Video-7B,,fig_2.3.3_∆knowledge,-0.053
+fig_2.3.3,model,Gemini 1.5 Flash,,fig_2.3.3_∆knowledge,-0.033
+fig_2.3.3,model,GLM-4V-PLUS-0111,,fig_2.3.3_∆knowledge,-0.017
+fig_2.3.3,model,VideoChat-Flash-7B@448,,fig_2.3.3_∆knowledge,-0.013000000000000001
+fig_2.3.3,model,VideoLLaMA3-7B,,fig_2.3.3_∆knowledge,-0.005
+fig_2.3.3,model,Keye-VL-1.5-8B,,fig_2.3.3_∆knowledge,0.0
+fig_2.3.3,model,MAmmoTH-VL-8B,,fig_2.3.3_∆knowledge,0.015
+fig_2.3.3,model,Qwen-2.5-VL-7B,,fig_2.3.3_∆knowledge,0.022000000000000002
+fig_2.3.3,model,InternVideo2.5-Chat-8B,,fig_2.3.3_∆knowledge,0.03
+fig_2.3.3,model,Aria,,fig_2.3.3_∆knowledge,0.032
+fig_2.3.3,model,Kimi-VL-A3B-Thinking-2506,,fig_2.3.3_∆knowledge,0.035
+fig_2.3.3,model,VILA1.5-8B,,fig_2.3.3_∆knowledge,0.059000000000000004
+fig_2.3.3,model,LLaVA-OneVision-72B,,fig_2.3.3_∆knowledge,0.066
+fig_2.3.3,model,LLaVA-Video-72B,,fig_2.3.3_∆knowledge,0.071
+fig_2.3.3,model,mPLUG-Owl3-7B,,fig_2.3.3_∆knowledge,0.075
+fig_2.3.3,model,Gemini 1.5 Pro,,fig_2.3.3_∆knowledge,0.087
+fig_2.3.3,model,VILA1.5-40B,,fig_2.3.3_∆knowledge,0.094
+fig_2.3.3,model,Qwen-2.5-VL-72B,,fig_2.3.3_∆knowledge,0.09699999999999999
+fig_2.3.3,model,Claude-3.5-Sonnet,,fig_2.3.3_∆knowledge,0.114
+fig_2.3.3,model,GPT-4o,,fig_2.3.3_∆knowledge,0.156
+fig_2.3.3,model,Human expert,,fig_2.3.3_∆knowledge,0.331
+fig_2.3.5,model,gpt-5.2,,fig_2.3.5_arena_elo_rating,1233
+fig_2.3.5,model,gpt-5.2,,fig_2.3.5_95_CI_upper,1244
+fig_2.3.5,model,gpt-5.2,,fig_2.3.5_95_CI_lower,1222
+fig_2.3.5,model,gpt-5.2,,fig_2.3.5_Error Lower,11
+fig_2.3.5,model,gpt-5.2,,fig_2.3.5_Error Upper,11
+fig_2.3.5,model,kimi-k2.5-instant,,fig_2.3.5_arena_elo_rating,1239
+fig_2.3.5,model,kimi-k2.5-instant,,fig_2.3.5_95_CI_upper,1250
+fig_2.3.5,model,kimi-k2.5-instant,,fig_2.3.5_95_CI_lower,1228
+fig_2.3.5,model,kimi-k2.5-instant,,fig_2.3.5_Error Lower,11
+fig_2.3.5,model,kimi-k2.5-instant,,fig_2.3.5_Error Upper,11
+fig_2.3.5,model,chatgpt-4o-latest-20250326,,fig_2.3.5_arena_elo_rating,1239
+fig_2.3.5,model,chatgpt-4o-latest-20250326,,fig_2.3.5_95_CI_upper,1245
+fig_2.3.5,model,chatgpt-4o-latest-20250326,,fig_2.3.5_95_CI_lower,1233
+fig_2.3.5,model,chatgpt-4o-latest-20250326,,fig_2.3.5_Error Lower,6
+fig_2.3.5,model,chatgpt-4o-latest-20250326,,fig_2.3.5_Error Upper,6
+fig_2.3.5,model,gpt-5.1,,fig_2.3.5_arena_elo_rating,1240
+fig_2.3.5,model,gpt-5.1,,fig_2.3.5_95_CI_upper,1249
+fig_2.3.5,model,gpt-5.1,,fig_2.3.5_95_CI_lower,1231
+fig_2.3.5,model,gpt-5.1,,fig_2.3.5_Error Lower,9
+fig_2.3.5,model,gpt-5.1,,fig_2.3.5_Error Upper,9
+fig_2.3.5,model,qwen3.5-397b-a17b,,fig_2.3.5_arena_elo_rating,1244
+fig_2.3.5,model,qwen3.5-397b-a17b,,fig_2.3.5_95_CI_upper,1256
+fig_2.3.5,model,qwen3.5-397b-a17b,,fig_2.3.5_95_CI_lower,1232
+fig_2.3.5,model,qwen3.5-397b-a17b,,fig_2.3.5_Error Lower,12
+fig_2.3.5,model,qwen3.5-397b-a17b,,fig_2.3.5_Error Upper,12
+fig_2.3.5,model,gpt-5.2-high,,fig_2.3.5_arena_elo_rating,1247
+fig_2.3.5,model,gpt-5.2-high,,fig_2.3.5_95_CI_upper,1258
+fig_2.3.5,model,gpt-5.2-high,,fig_2.3.5_95_CI_lower,1236
+fig_2.3.5,model,gpt-5.2-high,,fig_2.3.5_Error Lower,11
+fig_2.3.5,model,gpt-5.2-high,,fig_2.3.5_Error Upper,11
+fig_2.3.5,model,kimi-k2.5-thinking,,fig_2.3.5_arena_elo_rating,1248
+fig_2.3.5,model,kimi-k2.5-thinking,,fig_2.3.5_95_CI_upper,1259
+fig_2.3.5,model,kimi-k2.5-thinking,,fig_2.3.5_95_CI_lower,1237
+fig_2.3.5,model,kimi-k2.5-thinking,,fig_2.3.5_Error Lower,11
+fig_2.3.5,model,kimi-k2.5-thinking,,fig_2.3.5_Error Upper,11
+fig_2.3.5,model,gemini-2.5-pro,,fig_2.3.5_arena_elo_rating,1248
+fig_2.3.5,model,gemini-2.5-pro,,fig_2.3.5_95_CI_upper,1254
+fig_2.3.5,model,gemini-2.5-pro,,fig_2.3.5_95_CI_lower,1242
+fig_2.3.5,model,gemini-2.5-pro,,fig_2.3.5_Error Lower,6
+fig_2.3.5,model,gemini-2.5-pro,,fig_2.3.5_Error Upper,6
+fig_2.3.5,model,gpt-5.1-high,,fig_2.3.5_arena_elo_rating,1249
+fig_2.3.5,model,gpt-5.1-high,,fig_2.3.5_95_CI_upper,1258
+fig_2.3.5,model,gpt-5.1-high,,fig_2.3.5_95_CI_lower,1240
+fig_2.3.5,model,gpt-5.1-high,,fig_2.3.5_Error Lower,9
+fig_2.3.5,model,gpt-5.1-high,,fig_2.3.5_Error Upper,9
+fig_2.3.5,model,gemini-3-flash (thinking-minimal),,fig_2.3.5_arena_elo_rating,1260
+fig_2.3.5,model,gemini-3-flash (thinking-minimal),,fig_2.3.5_95_CI_upper,1269
+fig_2.3.5,model,gemini-3-flash (thinking-minimal),,fig_2.3.5_95_CI_lower,1251
+fig_2.3.5,model,gemini-3-flash (thinking-minimal),,fig_2.3.5_Error Lower,9
+fig_2.3.5,model,gemini-3-flash (thinking-minimal),,fig_2.3.5_Error Upper,9
+fig_2.3.5,model,dola-seed-2.0-preview,,fig_2.3.5_arena_elo_rating,1260
+fig_2.3.5,model,dola-seed-2.0-preview,,fig_2.3.5_95_CI_upper,1274
+fig_2.3.5,model,dola-seed-2.0-preview,,fig_2.3.5_95_CI_lower,1246
+fig_2.3.5,model,dola-seed-2.0-preview,,fig_2.3.5_Error Lower,14
+fig_2.3.5,model,dola-seed-2.0-preview,,fig_2.3.5_Error Upper,14
+fig_2.3.5,model,gpt-5.2-chat-latest-20260210,,fig_2.3.5_arena_elo_rating,1271
+fig_2.3.5,model,gpt-5.2-chat-latest-20260210,,fig_2.3.5_95_CI_upper,1289
+fig_2.3.5,model,gpt-5.2-chat-latest-20260210,,fig_2.3.5_95_CI_lower,1253
+fig_2.3.5,model,gpt-5.2-chat-latest-20260210,,fig_2.3.5_Error Lower,18
+fig_2.3.5,model,gpt-5.2-chat-latest-20260210,,fig_2.3.5_Error Upper,18
+fig_2.3.5,model,gemini-3-flash,,fig_2.3.5_arena_elo_rating,1276
+fig_2.3.5,model,gemini-3-flash,,fig_2.3.5_95_CI_upper,1285
+fig_2.3.5,model,gemini-3-flash,,fig_2.3.5_95_CI_lower,1267
+fig_2.3.5,model,gemini-3-flash,,fig_2.3.5_Error Lower,9
+fig_2.3.5,model,gemini-3-flash,,fig_2.3.5_Error Upper,9
+fig_2.3.5,model,gemini-3.1-pro-preview,,fig_2.3.5_arena_elo_rating,1278
+fig_2.3.5,model,gemini-3.1-pro-preview,,fig_2.3.5_95_CI_upper,1290
+fig_2.3.5,model,gemini-3.1-pro-preview,,fig_2.3.5_95_CI_lower,1266
+fig_2.3.5,model,gemini-3.1-pro-preview,,fig_2.3.5_Error Lower,12
+fig_2.3.5,model,gemini-3.1-pro-preview,,fig_2.3.5_Error Upper,12
+fig_2.3.5,model,gemini-3-pro,,fig_2.3.5_arena_elo_rating,1288
+fig_2.3.5,model,gemini-3-pro,,fig_2.3.5_95_CI_upper,1296
+fig_2.3.5,model,gemini-3-pro,,fig_2.3.5_95_CI_lower,1280
+fig_2.3.5,model,gemini-3-pro,,fig_2.3.5_Error Lower,8
+fig_2.3.5,model,gemini-3-pro,,fig_2.3.5_Error Upper,8
+fig_2.3.6,model,Gen3,,fig_2.3.6_type,Imaging quality
+fig_2.3.6,model,Gen3,,fig_2.3.6_score,4.66
+fig_2.3.6,model,Cogvideox,,fig_2.3.6_type,Imaging quality
+fig_2.3.6,model,Cogvideox,,fig_2.3.6_score,3.87
+fig_2.3.6,model,VideoCrafter2,,fig_2.3.6_type,Imaging quality
+fig_2.3.6,model,VideoCrafter2,,fig_2.3.6_score,4.08
+fig_2.3.6,model,Kling,,fig_2.3.6_type,Imaging quality
+fig_2.3.6,model,Kling,,fig_2.3.6_score,4.26
+fig_2.3.6,model,Show-1,,fig_2.3.6_type,Imaging quality
+fig_2.3.6,model,Show-1,,fig_2.3.6_score,3.3
+fig_2.3.6,model,LaVie,,fig_2.3.6_type,Imaging quality
+fig_2.3.6,model,LaVie,,fig_2.3.6_score,3.0
+fig_2.3.6,model,Pika-Beta,,fig_2.3.6_type,Imaging quality
+fig_2.3.6,model,Pika-Beta,,fig_2.3.6_score,3.78
+fig_2.3.6,model,Gen3,,fig_2.3.6_type,Aesthetic quality
+fig_2.3.6,model,Gen3,,fig_2.3.6_score,4.44
+fig_2.3.6,model,Cogvideox,,fig_2.3.6_type,Aesthetic quality
+fig_2.3.6,model,Cogvideox,,fig_2.3.6_score,3.84
+fig_2.3.6,model,VideoCrafter2,,fig_2.3.6_type,Aesthetic quality
+fig_2.3.6,model,VideoCrafter2,,fig_2.3.6_score,3.85
+fig_2.3.6,model,Kling,,fig_2.3.6_type,Aesthetic quality
+fig_2.3.6,model,Kling,,fig_2.3.6_score,3.82
+fig_2.3.6,model,Show-1,,fig_2.3.6_type,Aesthetic quality
+fig_2.3.6,model,Show-1,,fig_2.3.6_score,3.28
+fig_2.3.6,model,LaVie,,fig_2.3.6_type,Aesthetic quality
+fig_2.3.6,model,LaVie,,fig_2.3.6_score,2.94
+fig_2.3.6,model,Pika-Beta,,fig_2.3.6_type,Aesthetic quality
+fig_2.3.6,model,Pika-Beta,,fig_2.3.6_score,3.76
+fig_2.3.6,model,Gen3,,fig_2.3.6_type,Temporal consistency
+fig_2.3.6,model,Gen3,,fig_2.3.6_score,4.74
+fig_2.3.6,model,Cogvideox,,fig_2.3.6_type,Temporal consistency
+fig_2.3.6,model,Cogvideox,,fig_2.3.6_score,4.14
+fig_2.3.6,model,VideoCrafter2,,fig_2.3.6_type,Temporal consistency
+fig_2.3.6,model,VideoCrafter2,,fig_2.3.6_score,3.69
+fig_2.3.6,model,Kling,,fig_2.3.6_type,Temporal consistency
+fig_2.3.6,model,Kling,,fig_2.3.6_score,4.38
+fig_2.3.6,model,Show-1,,fig_2.3.6_type,Temporal consistency
+fig_2.3.6,model,Show-1,,fig_2.3.6_score,3.9
+fig_2.3.6,model,LaVie,,fig_2.3.6_type,Temporal consistency
+fig_2.3.6,model,LaVie,,fig_2.3.6_score,3.0
+fig_2.3.6,model,Pika-Beta,,fig_2.3.6_type,Temporal consistency
+fig_2.3.6,model,Pika-Beta,,fig_2.3.6_score,3.4
+fig_2.3.6,model,Gen3,,fig_2.3.6_type,Motion effects
+fig_2.3.6,model,Gen3,,fig_2.3.6_score,3.99
+fig_2.3.6,model,Cogvideox,,fig_2.3.6_type,Motion effects
+fig_2.3.6,model,Cogvideox,,fig_2.3.6_score,3.55
+fig_2.3.6,model,VideoCrafter2,,fig_2.3.6_type,Motion effects
+fig_2.3.6,model,VideoCrafter2,,fig_2.3.6_score,2.81
+fig_2.3.6,model,Kling,,fig_2.3.6_type,Motion effects
+fig_2.3.6,model,Kling,,fig_2.3.6_score,3.11
+fig_2.3.6,model,Show-1,,fig_2.3.6_type,Motion effects
+fig_2.3.6,model,Show-1,,fig_2.3.6_score,2.9
+fig_2.3.6,model,LaVie,,fig_2.3.6_type,Motion effects
+fig_2.3.6,model,LaVie,,fig_2.3.6_score,2.43
+fig_2.3.6,model,Pika-Beta,,fig_2.3.6_type,Motion effects
+fig_2.3.6,model,Pika-Beta,,fig_2.3.6_score,2.59
+fig_2.3.7,model,CogVideoX-1.5,,fig_2.3.7_Total Score,0.5335
+fig_2.3.7,model,HunyuanVideo,,fig_2.3.7_Total Score,0.553
+fig_2.3.7,model,StepVideo,,fig_2.3.7_Total Score,0.5578
+fig_2.3.7,model,Sora-480p,,fig_2.3.7_Total Score,0.5838
+fig_2.3.7,model,Kling 1.6,,fig_2.3.7_Total Score,0.59
+fig_2.3.7,model,Seedance 1.0 Pro (2025-05-28),,fig_2.3.7_Total Score,0.5981
+fig_2.3.7,model,Wan2.1,,fig_2.3.7_Total Score,0.602
+fig_2.3.7,model,ToMoviee 2.0,,fig_2.3.7_Total Score,0.6178
+fig_2.3.7,model,Vidu Q1 (2025-04-17),,fig_2.3.7_Total Score,0.627
+fig_2.3.7,model,Veo 3,,fig_2.3.7_Total Score,0.6672
+fig_2.4.1,model,o3,2025,fig_2.4.1_Accuracy (%),80.42
+fig_2.4.1,model,Gemini 2.5 Flash Preview,2025,fig_2.4.1_Accuracy (%),80.75
+fig_2.4.1,model,Claude Opus 4.5 (Nonthinking),2025,fig_2.4.1_Accuracy (%),81.1
+fig_2.4.1,model,Gemini 2.5 Pro Exp,2025,fig_2.4.1_Accuracy (%),81.34
+fig_2.4.1,model,GPT 5,2025,fig_2.4.1_Accuracy (%),81.5
+fig_2.4.1,model,Claude Opus 4.5 (Thinking),2025,fig_2.4.1_Accuracy (%),82.95
+fig_2.4.1,model,GPT 5.1,2025,fig_2.4.1_Accuracy (%),83.18
+fig_2.4.1,model,GPT 5.2,2025,fig_2.4.1_Accuracy (%),86.67
+fig_2.4.1,model,Gemini 3 Pro (11/25),2025,fig_2.4.1_Accuracy (%),87.51
+fig_2.4.1,model,Gemini 3 Flash (12/25.),2025,fig_2.4.1_Accuracy (%),87.63
+fig_2.4.1,model,Gemini 3.1 Pro Preview,2025,fig_2.4.1_Accuracy (%),88.21
+fig_2.4.1,model,Claude Sonnet 4.6,2026,fig_2.4.1_Accuracy (%),83.58
+fig_2.4.1,model,Claude Opus 4.6 (Thinking),2026,fig_2.4.1_Accuracy (%),83.87
+fig_2.4.1,model,Kimi K2.5,2026,fig_2.4.1_Accuracy (%),84.34
+fig_2.4.2,category,GPT-4 (Mar 2023),2023,fig_2.4.2_metric,0.36
+fig_2.4.2,category,o1-2024-12-17_high,2024,fig_2.4.2_metric,0.77
+fig_2.4.2,category,gemini-3-pro-preview,2025,fig_2.4.2_metric,0.93
+fig_2.4.3,model,GPT-5.2 Pro (Medium),,fig_2.4.3_ARC-AGI-2 (%),0.385
+fig_2.4.3,model,GPT-5.2 (High),,fig_2.4.3_ARC-AGI-2 (%),0.433
+fig_2.4.3,model,Gemini 3 Deep Think (Preview),,fig_2.4.3_ARC-AGI-2 (%),0.451
+fig_2.4.3,model,GPT-5.2 (X-High),,fig_2.4.3_ARC-AGI-2 (%),0.529
+fig_2.4.3,model,Gemini 3 Pro (Refine),,fig_2.4.3_ARC-AGI-2 (%),0.54
+fig_2.4.3,model,GPT-5.2 Pro (High),,fig_2.4.3_ARC-AGI-2 (%),0.542
+fig_2.4.3,model,Claude Sonnet 4.6 (Max),,fig_2.4.3_ARC-AGI-2 (%),0.583
+fig_2.4.3,model,Claude Sonnet 4.6 (High),,fig_2.4.3_ARC-AGI-2 (%),0.604
+fig_2.4.3,model,"Claude Opus 4.6 (120K, Low)",,fig_2.4.3_ARC-AGI-2 (%),0.646
+fig_2.4.3,model,"Claude Opus 4.6 (120K, Medium)",,fig_2.4.3_ARC-AGI-2 (%),0.663
+fig_2.4.3,model,"Claude Opus 4.6 (120K, Max)",,fig_2.4.3_ARC-AGI-2 (%),0.688
+fig_2.4.3,model,"Claude Opus 4.6 (120K, High)",,fig_2.4.3_ARC-AGI-2 (%),0.692
+fig_2.4.3,model,GPT-5.2 (Refine),,fig_2.4.3_ARC-AGI-2 (%),0.729
+fig_2.4.3,model,Gemini 3.1 Pro (Preview),,fig_2.4.3_ARC-AGI-2 (%),0.771
+fig_2.4.3,model,Gemini 3 Deep Think (2/26),,fig_2.4.3_ARC-AGI-2 (%),0.846
+fig_2.4.4,model,o1,2024,fig_2.4.4_accuracy,0.08
+fig_2.4.4,model,Gemini 3 Pro,2025,fig_2.4.4_accuracy,0.38299999999999995
+fig_2.4.6(1),model,Qwen2-VL-7B,,fig_2.4.6(1)_Value,0.0
+fig_2.4.6(1),model,Llama 3.2-Vision,,fig_2.4.6(1)_Value,3.23
+fig_2.4.6(1),model,MiniCPM-V-2.6,,fig_2.4.6(1)_Value,3.23
+fig_2.4.6(1),model,GPT-o1,,fig_2.4.6(1)_Value,4.84
+fig_2.4.6(1),model,Claude-3.5-sonnet,,fig_2.4.6(1)_Value,6.45
+fig_2.4.6(1),model,GPT-4o,,fig_2.4.6(1)_Value,8.06
+fig_2.4.6(1),model,Gemini-2.0,,fig_2.4.6(1)_Value,22.58
+fig_2.4.6,model,Qwen2-VL-7B,,fig_2.4.6_Value,0.0
+fig_2.4.6,model,Llama 3.2-Vision,,fig_2.4.6_Value,3.23
+fig_2.4.6,model,MiniCPM-V-2.6,,fig_2.4.6_Value,3.23
+fig_2.4.6,model,GPT-o1,,fig_2.4.6_Value,4.84
+fig_2.4.6,model,Claude-3.5-sonnet,,fig_2.4.6_Value,6.45
+fig_2.4.6,model,GPT-4o,,fig_2.4.6_Value,8.06
+fig_2.4.6,model,Gemini-2.0,,fig_2.4.6_Value,22.58
+fig_2.4.7,model,Llama 3.2-Vision,,fig_2.4.7_Value,11.67
+fig_2.4.7,model,Qwen2-VL-7B,,fig_2.4.7_Value,18.33
+fig_2.4.7,model,MiniCPM-V-2.6,,fig_2.4.7_Value,20.0
+fig_2.4.7,model,Gemini-2.0,,fig_2.4.7_Value,31.67
+fig_2.4.7,model,GPT-4o,,fig_2.4.7_Value,43.33
+fig_2.4.7,model,Claude-3.5-sonnet,,fig_2.4.7_Value,46.67
+fig_2.4.7,model,GPT-o1,,fig_2.4.7_Value,80.0
+fig_2.4.8(1),model,Claude Opus 4.6,,fig_2.4.8(1)_Average accuracy (%),8.9
+fig_2.4.8(1),model,Mistral Medium 3.1,,fig_2.4.8(1)_Average accuracy (%),10
+fig_2.4.8(1),model,GPT-5 Pro,,fig_2.4.8(1)_Average accuracy (%),11.1
+fig_2.4.8(1),model,GPT-5 High,,fig_2.4.8(1)_Average accuracy (%),11.1
+fig_2.4.8(1),model,Gemini 2.5 Flash,,fig_2.4.8(1)_Average accuracy (%),11.1
+fig_2.4.8(1),model,o3 High,,fig_2.4.8(1)_Average accuracy (%),12.2
+fig_2.4.8(1),model,o3 Pro,,fig_2.4.8(1)_Average accuracy (%),14.4
+fig_2.4.8(1),model,Qwen 3-VL 235B Thinking,,fig_2.4.8(1)_Average accuracy (%),14.4
+fig_2.4.8(1),model,GPT-5.2 High,,fig_2.4.8(1)_Average accuracy (%),15
+fig_2.4.8(1),model,Gemini Robotics ER 1.5,,fig_2.4.8(1)_Average accuracy (%),15
+fig_2.4.8(1),model,Gemini 2.5 Pro,,fig_2.4.8(1)_Average accuracy (%),18.9
+fig_2.4.8(1),model,Gemini 3 Pro,,fig_2.4.8(1)_Average accuracy (%),28.9
+fig_2.4.8(1),model,Gemini 3.1 Pro,,fig_2.4.8(1)_Average accuracy (%),32.2
+fig_2.4.8(1),model,Qwen 3-VL 235B Instruct,,fig_2.4.8(1)_Average accuracy (%),39.4
+fig_2.4.8(1),model,GPT-5.4 High,,fig_2.4.8(1)_Average accuracy (%),50.6
+fig_2.4.8,model,Claude Opus 4.6,,fig_2.4.8_Average accuracy (%),8.9
+fig_2.4.8,model,Mistral Medium 3.1,,fig_2.4.8_Average accuracy (%),10
+fig_2.4.8,model,GPT-5 Pro,,fig_2.4.8_Average accuracy (%),11.1
+fig_2.4.8,model,GPT-5 High,,fig_2.4.8_Average accuracy (%),11.1
+fig_2.4.8,model,Gemini 2.5 Flash,,fig_2.4.8_Average accuracy (%),11.1
+fig_2.4.8,model,o3 High,,fig_2.4.8_Average accuracy (%),12.2
+fig_2.4.8,model,o3 Pro,,fig_2.4.8_Average accuracy (%),14.4
+fig_2.4.8,model,Qwen 3-VL 235B Thinking,,fig_2.4.8_Average accuracy (%),14.4
+fig_2.4.8,model,GPT-5.2 High,,fig_2.4.8_Average accuracy (%),15
+fig_2.4.8,model,Gemini Robotics ER 1.5,,fig_2.4.8_Average accuracy (%),15
+fig_2.4.8,model,Gemini 2.5 Pro,,fig_2.4.8_Average accuracy (%),18.9
+fig_2.4.8,model,Gemini 3 Pro,,fig_2.4.8_Average accuracy (%),28.9
+fig_2.4.8,model,Gemini 3.1 Pro,,fig_2.4.8_Average accuracy (%),32.2
+fig_2.4.8,model,Qwen 3-VL 235B Instruct,,fig_2.4.8_Average accuracy (%),39.4
+fig_2.4.8,model,GPT-5.4 High,,fig_2.4.8_Average accuracy (%),50.6
+fig_2.4.9,category,Blocksworld,,fig_2.4.9_model_planner,LAMA
+fig_2.4.9,category,Blocksworld,,fig_2.4.9_solved_tasks,28
+fig_2.4.9,category,Blocksworld,,fig_2.4.9_model_planner,R1
+fig_2.4.9,category,Blocksworld,,fig_2.4.9_solved_tasks,19
+fig_2.4.9,category,Blocksworld,,fig_2.4.9_model_planner,Gemini
+fig_2.4.9,category,Blocksworld,,fig_2.4.9_solved_tasks,21
+fig_2.4.9,category,Blocksworld,,fig_2.4.9_model_planner,GPT-5
+fig_2.4.9,category,Blocksworld,,fig_2.4.9_solved_tasks,21
+fig_2.4.9,category,Childsnack,,fig_2.4.9_model_planner,LAMA
+fig_2.4.9,category,Childsnack,,fig_2.4.9_solved_tasks,18
+fig_2.4.9,category,Childsnack,,fig_2.4.9_model_planner,R1
+fig_2.4.9,category,Childsnack,,fig_2.4.9_solved_tasks,33
+fig_2.4.9,category,Childsnack,,fig_2.4.9_model_planner,Gemini
+fig_2.4.9,category,Childsnack,,fig_2.4.9_solved_tasks,38
+fig_2.4.9,category,Childsnack,,fig_2.4.9_model_planner,GPT-5
+fig_2.4.9,category,Childsnack,,fig_2.4.9_solved_tasks,38
+fig_2.4.9,category,Floortile,,fig_2.4.9_model_planner,LAMA
+fig_2.4.9,category,Floortile,,fig_2.4.9_solved_tasks,10
+fig_2.4.9,category,Floortile,,fig_2.4.9_model_planner,R1
+fig_2.4.9,category,Floortile,,fig_2.4.9_solved_tasks,5
+fig_2.4.9,category,Floortile,,fig_2.4.9_model_planner,Gemini
+fig_2.4.9,category,Floortile,,fig_2.4.9_solved_tasks,6
+fig_2.4.9,category,Floortile,,fig_2.4.9_model_planner,GPT-5
+fig_2.4.9,category,Floortile,,fig_2.4.9_solved_tasks,10
+fig_2.4.9,category,Miconic,,fig_2.4.9_model_planner,LAMA
+fig_2.4.9,category,Miconic,,fig_2.4.9_solved_tasks,45
+fig_2.4.9,category,Miconic,,fig_2.4.9_model_planner,R1
+fig_2.4.9,category,Miconic,,fig_2.4.9_solved_tasks,27
+fig_2.4.9,category,Miconic,,fig_2.4.9_model_planner,Gemini
+fig_2.4.9,category,Miconic,,fig_2.4.9_solved_tasks,23
+fig_2.4.9,category,Miconic,,fig_2.4.9_model_planner,GPT-5
+fig_2.4.9,category,Miconic,,fig_2.4.9_solved_tasks,35
+fig_2.4.9,category,Rovers,,fig_2.4.9_model_planner,LAMA
+fig_2.4.9,category,Rovers,,fig_2.4.9_solved_tasks,34
+fig_2.4.9,category,Rovers,,fig_2.4.9_model_planner,R1
+fig_2.4.9,category,Rovers,,fig_2.4.9_solved_tasks,9
+fig_2.4.9,category,Rovers,,fig_2.4.9_model_planner,Gemini
+fig_2.4.9,category,Rovers,,fig_2.4.9_solved_tasks,6
+fig_2.4.9,category,Rovers,,fig_2.4.9_model_planner,GPT-5
+fig_2.4.9,category,Rovers,,fig_2.4.9_solved_tasks,14
+fig_2.4.9,category,Sokoban,,fig_2.4.9_model_planner,LAMA
+fig_2.4.9,category,Sokoban,,fig_2.4.9_solved_tasks,21
+fig_2.4.9,category,Sokoban,,fig_2.4.9_model_planner,R1
+fig_2.4.9,category,Sokoban,,fig_2.4.9_solved_tasks,10
+fig_2.4.9,category,Sokoban,,fig_2.4.9_model_planner,Gemini
+fig_2.4.9,category,Sokoban,,fig_2.4.9_solved_tasks,9
+fig_2.4.9,category,Sokoban,,fig_2.4.9_model_planner,GPT-5
+fig_2.4.9,category,Sokoban,,fig_2.4.9_solved_tasks,15
+fig_2.4.9,category,Spanner,,fig_2.4.9_model_planner,LAMA
+fig_2.4.9,category,Spanner,,fig_2.4.9_solved_tasks,15
+fig_2.4.9,category,Spanner,,fig_2.4.9_model_planner,R1
+fig_2.4.9,category,Spanner,,fig_2.4.9_solved_tasks,38
+fig_2.4.9,category,Spanner,,fig_2.4.9_model_planner,Gemini
+fig_2.4.9,category,Spanner,,fig_2.4.9_solved_tasks,30
+fig_2.4.9,category,Spanner,,fig_2.4.9_model_planner,GPT-5
+fig_2.4.9,category,Spanner,,fig_2.4.9_solved_tasks,45
+fig_2.4.9,category,Transport,,fig_2.4.9_model_planner,LAMA
+fig_2.4.9,category,Transport,,fig_2.4.9_solved_tasks,33
+fig_2.4.9,category,Transport,,fig_2.4.9_model_planner,R1
+fig_2.4.9,category,Transport,,fig_2.4.9_solved_tasks,16
+fig_2.4.9,category,Transport,,fig_2.4.9_model_planner,Gemini
+fig_2.4.9,category,Transport,,fig_2.4.9_solved_tasks,22
+fig_2.4.9,category,Transport,,fig_2.4.9_model_planner,GPT-5
+fig_2.4.9,category,Transport,,fig_2.4.9_solved_tasks,27
+fig_2.4.10,category,Blocksworld,,fig_2.4.10_model_planner,LAMA
+fig_2.4.10,category,Blocksworld,,fig_2.4.10_solved_tasks,28
+fig_2.4.10,category,Blocksworld,,fig_2.4.10_model_planner,R1
+fig_2.4.10,category,Blocksworld,,fig_2.4.10_solved_tasks,3
+fig_2.4.10,category,Blocksworld,,fig_2.4.10_model_planner,Gemini
+fig_2.4.10,category,Blocksworld,,fig_2.4.10_solved_tasks,28
+fig_2.4.10,category,Blocksworld,,fig_2.4.10_model_planner,GPT-5
+fig_2.4.10,category,Blocksworld,,fig_2.4.10_solved_tasks,12
+fig_2.4.10,category,Childsnack,,fig_2.4.10_model_planner,LAMA
+fig_2.4.10,category,Childsnack,,fig_2.4.10_solved_tasks,18
+fig_2.4.10,category,Childsnack,,fig_2.4.10_model_planner,R1
+fig_2.4.10,category,Childsnack,,fig_2.4.10_solved_tasks,28
+fig_2.4.10,category,Childsnack,,fig_2.4.10_model_planner,Gemini
+fig_2.4.10,category,Childsnack,,fig_2.4.10_solved_tasks,25
+fig_2.4.10,category,Childsnack,,fig_2.4.10_model_planner,GPT-5
+fig_2.4.10,category,Childsnack,,fig_2.4.10_solved_tasks,33
+fig_2.4.10,category,Floortile,,fig_2.4.10_model_planner,LAMA
+fig_2.4.10,category,Floortile,,fig_2.4.10_solved_tasks,10
+fig_2.4.10,category,Floortile,,fig_2.4.10_model_planner,R1
+fig_2.4.10,category,Floortile,,fig_2.4.10_solved_tasks,0
+fig_2.4.10,category,Floortile,,fig_2.4.10_model_planner,Gemini
+fig_2.4.10,category,Floortile,,fig_2.4.10_solved_tasks,5
+fig_2.4.10,category,Floortile,,fig_2.4.10_model_planner,GPT-5
+fig_2.4.10,category,Floortile,,fig_2.4.10_solved_tasks,3
+fig_2.4.10,category,Miconic,,fig_2.4.10_model_planner,LAMA
+fig_2.4.10,category,Miconic,,fig_2.4.10_solved_tasks,45
+fig_2.4.10,category,Miconic,,fig_2.4.10_model_planner,R1
+fig_2.4.10,category,Miconic,,fig_2.4.10_solved_tasks,14
+fig_2.4.10,category,Miconic,,fig_2.4.10_model_planner,Gemini
+fig_2.4.10,category,Miconic,,fig_2.4.10_solved_tasks,9
+fig_2.4.10,category,Miconic,,fig_2.4.10_model_planner,GPT-5
+fig_2.4.10,category,Miconic,,fig_2.4.10_solved_tasks,28
+fig_2.4.10,category,Rovers,,fig_2.4.10_model_planner,LAMA
+fig_2.4.10,category,Rovers,,fig_2.4.10_solved_tasks,34
+fig_2.4.10,category,Rovers,,fig_2.4.10_model_planner,R1
+fig_2.4.10,category,Rovers,,fig_2.4.10_solved_tasks,5
+fig_2.4.10,category,Rovers,,fig_2.4.10_model_planner,Gemini
+fig_2.4.10,category,Rovers,,fig_2.4.10_solved_tasks,8
+fig_2.4.10,category,Rovers,,fig_2.4.10_model_planner,GPT-5
+fig_2.4.10,category,Rovers,,fig_2.4.10_solved_tasks,10
+fig_2.4.10,category,Sokoban,,fig_2.4.10_model_planner,LAMA
+fig_2.4.10,category,Sokoban,,fig_2.4.10_solved_tasks,21
+fig_2.4.10,category,Sokoban,,fig_2.4.10_model_planner,R1
+fig_2.4.10,category,Sokoban,,fig_2.4.10_solved_tasks,0
+fig_2.4.10,category,Sokoban,,fig_2.4.10_model_planner,Gemini
+fig_2.4.10,category,Sokoban,,fig_2.4.10_solved_tasks,5
+fig_2.4.10,category,Sokoban,,fig_2.4.10_model_planner,GPT-5
+fig_2.4.10,category,Sokoban,,fig_2.4.10_solved_tasks,7
+fig_2.4.10,category,Spanner,,fig_2.4.10_model_planner,LAMA
+fig_2.4.10,category,Spanner,,fig_2.4.10_solved_tasks,15
+fig_2.4.10,category,Spanner,,fig_2.4.10_model_planner,R1
+fig_2.4.10,category,Spanner,,fig_2.4.10_solved_tasks,34
+fig_2.4.10,category,Spanner,,fig_2.4.10_model_planner,Gemini
+fig_2.4.10,category,Spanner,,fig_2.4.10_solved_tasks,39
+fig_2.4.10,category,Spanner,,fig_2.4.10_model_planner,GPT-5
+fig_2.4.10,category,Spanner,,fig_2.4.10_solved_tasks,38
+fig_2.4.10,category,Transport,,fig_2.4.10_model_planner,LAMA
+fig_2.4.10,category,Transport,,fig_2.4.10_solved_tasks,33
+fig_2.4.10,category,Transport,,fig_2.4.10_model_planner,R1
+fig_2.4.10,category,Transport,,fig_2.4.10_solved_tasks,9
+fig_2.4.10,category,Transport,,fig_2.4.10_model_planner,Gemini
+fig_2.4.10,category,Transport,,fig_2.4.10_solved_tasks,27
+fig_2.4.10,category,Transport,,fig_2.4.10_model_planner,GPT-5
+fig_2.4.10,category,Transport,,fig_2.4.10_solved_tasks,21
+fig_2.5.1,model,CodeFuse-CGM,,fig_2.5.1_Type,Lite
+fig_2.5.1,model,CodeFuse-CGM,,fig_2.5.1_Percent resolved,0.44
+fig_2.5.1,model,KGCompass<br>+ Claude 3.5 Sonnet (20241022),,fig_2.5.1_Type,Lite
+fig_2.5.1,model,KGCompass<br>+ Claude 3.5 Sonnet (20241022),,fig_2.5.1_Percent resolved,0.46
+fig_2.5.1,model,DARS Agent,,fig_2.5.1_Type,Lite
+fig_2.5.1,model,DARS Agent,,fig_2.5.1_Percent resolved,0.47
+fig_2.5.1,model,SWE-agent + Claude 3.7 Sonnet,,fig_2.5.1_Type,Lite
+fig_2.5.1,model,SWE-agent + Claude 3.7 Sonnet,,fig_2.5.1_Percent resolved,0.48
+fig_2.5.1,model,ExpeRepair-v1.0,,fig_2.5.1_Type,Lite
+fig_2.5.1,model,ExpeRepair-v1.0,,fig_2.5.1_Percent resolved,0.4833
+fig_2.5.1,model,EntroPO + R2E<br>+ Qwen3-Coder-30B-A3B-Instruct,,fig_2.5.1_Type,Lite
+fig_2.5.1,model,EntroPO + R2E<br>+ Qwen3-Coder-30B-A3B-Instruct,,fig_2.5.1_Percent resolved,0.49670000000000003
+fig_2.5.1,model,SWE-agent + Claude 4 Sonnet,,fig_2.5.1_Type,Lite
+fig_2.5.1,model,SWE-agent + Claude 4 Sonnet,,fig_2.5.1_Percent resolved,0.5667
+fig_2.5.1,model,KGCompass<br>+ Claude 4 Sonnet (20250514),,fig_2.5.1_Type,Lite
+fig_2.5.1,model,KGCompass<br>+ Claude 4 Sonnet (20250514),,fig_2.5.1_Percent resolved,0.5832999999999999
+fig_2.5.1,model,Refact.ai Agent,,fig_2.5.1_Type,Lite
+fig_2.5.1,model,Refact.ai Agent,,fig_2.5.1_Percent resolved,0.6
+fig_2.5.1,model,ExpeRepair-v1.0 + Claude 4 Sonnet,,fig_2.5.1_Type,Lite
+fig_2.5.1,model,ExpeRepair-v1.0 + Claude 4 Sonnet,,fig_2.5.1_Percent resolved,0.6033
+fig_2.5.1,model,Kimi K2.5 (high reasoning),,fig_2.5.1_Type,Verified
+fig_2.5.1,model,Kimi K2.5 (high reasoning),,fig_2.5.1_Percent resolved,0.708
+fig_2.5.1,model,Claude 4.5 Sonnet (high reasoning),,fig_2.5.1_Type,Verified
+fig_2.5.1,model,Claude 4.5 Sonnet (high reasoning),,fig_2.5.1_Percent resolved,0.7140000000000001
+fig_2.5.1,model,GPT-5-2 Codex,,fig_2.5.1_Type,Verified
+fig_2.5.1,model,GPT-5-2 Codex,,fig_2.5.1_Percent resolved,0.728
+fig_2.5.1,model,GLM-5 (high reasoning),,fig_2.5.1_Type,Verified
+fig_2.5.1,model,GLM-5 (high reasoning),,fig_2.5.1_Percent resolved,0.728
+fig_2.5.1,model,GPT-5-2 (high reasoning),,fig_2.5.1_Type,Verified
+fig_2.5.1,model,GPT-5-2 (high reasoning),,fig_2.5.1_Percent resolved,0.728
+fig_2.5.1,model,GPT 5.2 Codex,,fig_2.5.1_Type,Verified
+fig_2.5.1,model,GPT 5.2 Codex,,fig_2.5.1_Percent resolved,0.728
+fig_2.5.1,model,Claude Opus 4.6,,fig_2.5.1_Type,Verified
+fig_2.5.1,model,Claude Opus 4.6,,fig_2.5.1_Percent resolved,0.7559999999999999
+fig_2.5.1,model,Gemini 3 Flash (high reasoning),,fig_2.5.1_Type,Verified
+fig_2.5.1,model,Gemini 3 Flash (high reasoning),,fig_2.5.1_Percent resolved,0.758
+fig_2.5.1,model,MiniMax M2.5 (high reasoning),,fig_2.5.1_Type,Verified
+fig_2.5.1,model,MiniMax M2.5 (high reasoning),,fig_2.5.1_Percent resolved,0.758
+fig_2.5.1,model,Claude 4.5 Opus (high reasoning),,fig_2.5.1_Type,Verified
+fig_2.5.1,model,Claude 4.5 Opus (high reasoning),,fig_2.5.1_Percent resolved,0.768
+fig_2.5.2,global,Global,Feb-25,fig_2.5.2_metric_trend,18.4
+fig_2.5.2,global,Global,Mar-25,fig_2.5.2_metric_trend,32.6
+fig_2.5.2,global,Global,Apr-25,fig_2.5.2_metric_trend,32.6
+fig_2.5.2,global,Global,May-25,fig_2.5.2_metric_trend,32.6
+fig_2.5.2,global,Global,Jun-25,fig_2.5.2_metric_trend,32.6
+fig_2.5.2,global,Global,Jul-25,fig_2.5.2_metric_trend,32.6
+fig_2.5.2,global,Global,Aug-25,fig_2.5.2_metric_trend,49.7
+fig_2.5.2,global,Global,Sep-25,fig_2.5.2_metric_trend,49.7
+fig_2.5.2,global,Global,Oct-25,fig_2.5.2_metric_trend,49.7
+fig_2.5.2,global,Global,Nov-25,fig_2.5.2_metric_trend,65.2
+fig_2.5.2,global,Global,Dec-25,fig_2.5.2_metric_trend,66.5
+fig_2.5.2,global,Global,Jan-26,fig_2.5.2_metric_trend,66.5
+fig_2.5.2,global,Global,Feb-26,fig_2.5.2_metric_trend,77.3
+fig_2.5.3,model,GLM 5.1,,fig_2.5.3_Accuracy,0.3146
+fig_2.5.3,model,Gemini 3.1 Pro Preview (02/26),,fig_2.5.3_Accuracy,0.3203
+fig_2.5.3,model,GPT 5.2 Codex,,fig_2.5.3_Accuracy,0.3791
+fig_2.5.3,model,GPT 5.4 Mini,,fig_2.5.3_Accuracy,0.4797
+fig_2.5.3,model,Claude Sonnet 4.6,,fig_2.5.3_Accuracy,0.5148
+fig_2.5.3,model,Claude Opus 4.6 (Thinking),,fig_2.5.3_Accuracy,0.535
+fig_2.5.3,model,GPT 5.2,,fig_2.5.3_Accuracy,0.535
+fig_2.5.3,model,Claude Opus 4.6 (Nonthinking),,fig_2.5.3_Accuracy,0.5757
+fig_2.5.4,category,Claude 3.5 Sonnet (Jun 2024),2024,fig_2.5.4_metric,0.0
+fig_2.5.4,category,GPT-5.2 Pro,2025,fig_2.5.4_metric,0.313
+fig_2.5.5,model,Grok 4.1 Fast (Reasoning),,fig_2.5.5_release_date,2025-11-01
+fig_2.5.5,model,Grok 4.1 Fast (Reasoning),,fig_2.5.5_accuracy,0.8636
+fig_2.5.5,model,GPT-5.2 (high),,fig_2.5.5_release_date,2025-12-01
+fig_2.5.5,model,GPT-5.2 (high),,fig_2.5.5_accuracy,0.9697
+fig_2.5.7,model,GPT-5.1,,fig_2.5.7_Value,7.1
+fig_2.5.7,model,Grok 4.1 Fast Reasoning,,fig_2.5.7_Value,18.6
+fig_2.5.7,model,Claude Opus 4.5,,fig_2.5.7_Value,23.799999999999997
+fig_2.5.7,model,GPT-5 Pro,,fig_2.5.7_Value,28.599999999999998
+fig_2.5.7,model,Gemini 3 Pro,,fig_2.5.7_Value,30.0
+fig_2.5.7,model,GPT-5.2 Thinking (high),,fig_2.5.7_Value,35.699999999999996
+fig_2.5.7,model,Gemini Deep Think<br>(IMO Gold),,fig_2.5.7_Value,65.7
+fig_2.5.7,model,Gemini 3 Deep Think,,fig_2.5.7_Value,76.7
+fig_2.5.7,model,Aletheia,,fig_2.5.7_Value,91.9
+fig_2.5.8,model,Kimi K2.5,,fig_2.5.8_Accuracy,0.742
+fig_2.5.8,model,o1,,fig_2.5.8_Accuracy,0.7428
+fig_2.5.8,model,Claude Opus 4.5 (Nonthinking),,fig_2.5.8_Accuracy,0.7433
+fig_2.5.8,model,GPT 4o (2024-11-20),,fig_2.5.8_Accuracy,0.7453
+fig_2.5.8,model,o3,,fig_2.5.8_Accuracy,0.7456999999999999
+fig_2.5.8,model,o4 Mini,,fig_2.5.8_Accuracy,0.7478
+fig_2.5.8,model,Claude Opus 4.5 (Thinking),,fig_2.5.8_Accuracy,0.7486
+fig_2.5.8,model,GPT 5.1,,fig_2.5.8_Accuracy,0.7486
+fig_2.5.8,model,GPT 4.1,,fig_2.5.8_Accuracy,0.7506
+fig_2.5.8,model,GPT 5 Mini,,fig_2.5.8_Accuracy,0.7522
+fig_2.5.8,model,Grok 4 Fast (Reasoning),,fig_2.5.8_Accuracy,0.757
+fig_2.5.8,model,GPT 5.2,,fig_2.5.8_Accuracy,0.7576
+fig_2.5.8,model,Grok 3,,fig_2.5.8_Accuracy,0.7587999999999999
+fig_2.5.8,model,Claude Opus 4.6 (Thinking),,fig_2.5.8_Accuracy,0.7595999999999999
+fig_2.5.8,model,Claude Sonnet 4.6,,fig_2.5.8_Accuracy,0.7711
+fig_2.5.9,model,GPT 4.1,,fig_2.5.9_Accuracy,0.6594
+fig_2.5.9,model,Kimi K2.5,,fig_2.5.9_Accuracy,0.6653
+fig_2.5.9,model,Claude 3.7 Sonnet (Thinking),,fig_2.5.9_Accuracy,0.6685
+fig_2.5.9,model,GPT 5 Mini,,fig_2.5.9_Accuracy,0.6689
+fig_2.5.9,model,GPT 5.2,,fig_2.5.9_Accuracy,0.6713
+fig_2.5.9,model,Gemini 2.5 Pro Exp,,fig_2.5.9_Accuracy,0.6717
+fig_2.5.9,model,Claude Opus 4.5 (Thinking),,fig_2.5.9_Accuracy,0.6769
+fig_2.5.9,model,Claude Sonnet 4.6,,fig_2.5.9_Accuracy,0.6773
+fig_2.5.9,model,Claude Opus 4.6 (Thinking),,fig_2.5.9_Accuracy,0.6851999999999999
+fig_2.5.9,model,Claude Opus 4.5 (Nonthinking),,fig_2.5.9_Accuracy,0.6868000000000001
+fig_2.5.9,model,Claude 3.7 Sonnet (Nonthinking),,fig_2.5.9_Accuracy,0.6868000000000001
+fig_2.5.9,model,Gemini 3 Flash (12/25),,fig_2.5.9_Accuracy,0.6872
+fig_2.5.9,model,Gemini 2.5 Pro,,fig_2.5.9_Accuracy,0.6892
+fig_2.5.9,model,Gemini 3 Pro (11/25),,fig_2.5.9_Accuracy,0.6908
+fig_2.5.9,model,Gemini 3.1 Pro Preview,,fig_2.5.9_Accuracy,0.6940000000000001
+fig_2.5.10,model,GPT 4.1,,fig_2.5.10_Accuracy,0.6305
+fig_2.5.10,model,Gemini 3 Pro (11/25),,fig_2.5.10_Accuracy,0.6368
+fig_2.5.10,model,GPT 5.1,,fig_2.5.10_Accuracy,0.6383
+fig_2.5.10,model,Gemini 3.1 Pro Preview (02/26),,fig_2.5.10_Accuracy,0.6448999999999999
+fig_2.5.10,model,Claude Opus 4.5 (Thinking),,fig_2.5.10_Accuracy,0.6507
+fig_2.5.10,model,Qwen 3.5 Plus,,fig_2.5.10_Accuracy,0.6531
+fig_2.5.10,model,Claude Sonnet 4.6,,fig_2.5.10_Accuracy,0.6531
+fig_2.5.10,model,GPT 5.2,,fig_2.5.10_Accuracy,0.6589
+fig_2.5.10,model,Grok 4.1 Fast (Reasoning),,fig_2.5.10_Accuracy,0.6597
+fig_2.5.10,model,Grok 4,,fig_2.5.10_Accuracy,0.6605
+fig_2.5.10,model,Gemini 3 Flash (12/25),,fig_2.5.10_Accuracy,0.6643000000000001
+fig_2.5.10,model,Grok 4 Fast (Reasoning),,fig_2.5.10_Accuracy,0.669
+fig_2.5.10,model,Claude Opus 4.6 (Thinking),,fig_2.5.10_Accuracy,0.6701999999999999
+fig_2.5.10,model,Qwen 3 Max Thinking,,fig_2.5.10_Accuracy,0.6803
+fig_2.5.10,model,Kimi K2.5,,fig_2.5.10_Accuracy,0.6826000000000001
+fig_2.5.11,model,Kimi K2.5,,fig_2.5.11_Accuracy,0.5062
+fig_2.5.11,model,GPT 5 Mini,,fig_2.5.11_Accuracy,0.5193
+fig_2.5.11,model,GPT 5,,fig_2.5.11_Accuracy,0.5215
+fig_2.5.11,model,Grok 4.1 Fast (Reasoning),,fig_2.5.11_Accuracy,0.5245000000000001
+fig_2.5.11,model,GLM 5,,fig_2.5.11_Accuracy,0.5318
+fig_2.5.11,model,Grok 4,,fig_2.5.11_Accuracy,0.5351
+fig_2.5.11,model,Qwen 3.5 Plus,,fig_2.5.11_Accuracy,0.5447
+fig_2.5.11,model,Claude Sonnet 4.5 (Thinking),,fig_2.5.11_Accuracy,0.545
+fig_2.5.11,model,Gemini 3 Pro (11/25),,fig_2.5.11_Accuracy,0.5515
+fig_2.5.11,model,GPT 5.1,,fig_2.5.11_Accuracy,0.5531
+fig_2.5.11,model,GPT 5.2,,fig_2.5.11_Accuracy,0.5853
+fig_2.5.11,model,Claude Opus 4.5 (Thinking),,fig_2.5.11_Accuracy,0.5881000000000001
+fig_2.5.11,model,Gemini 3.1 Pro Preview (02/26),,fig_2.5.11_Accuracy,0.5972
+fig_2.5.11,model,Claude Opus 4.6 (Thinking),,fig_2.5.11_Accuracy,0.6004999999999999
+fig_2.5.11,model,Claude Sonnet 4.6,,fig_2.5.11_Accuracy,0.6333
+fig_2.5.12,model,Claude Opus 4.6 (Thinking),,fig_2.5.12_Accuracy,0.6206
+fig_2.5.12,model,Claude Sonnet 4.5 (Thinking),,fig_2.5.12_Accuracy,0.6217
+fig_2.5.12,model,Claude Opus 4.5 (Thinking),,fig_2.5.12_Accuracy,0.6259
+fig_2.5.12,model,Gemini 2.5 Pro,,fig_2.5.12_Accuracy,0.6388
+fig_2.5.12,model,Claude Sonnet 4.6,,fig_2.5.12_Accuracy,0.6399
+fig_2.5.12,model,Command A,,fig_2.5.12_Accuracy,0.6452
+fig_2.5.12,model,Gemini 3.1 Pro Preview (02/26),,fig_2.5.12_Accuracy,0.6484000000000001
+fig_2.5.12,model,Kimi K2 Thinking,,fig_2.5.12_Accuracy,0.657
+fig_2.5.12,model,Grok 4 Fast (Reasoning),,fig_2.5.12_Accuracy,0.657
+fig_2.5.12,model,Grok 4,,fig_2.5.12_Accuracy,0.6581
+fig_2.5.12,model,GPT 5.2,,fig_2.5.12_Accuracy,0.6602
+fig_2.5.12,model,GPT 5,,fig_2.5.12_Accuracy,0.6645
+fig_2.5.12,model,GPT 5 Mini,,fig_2.5.12_Accuracy,0.6849
+fig_2.5.12,model,GPT 4.1,,fig_2.5.12_Accuracy,0.6988
+fig_2.5.12,model,GPT 5.1,,fig_2.5.12_Accuracy,0.7342
+fig_2.5.13,model,GLM 4.7,,fig_2.5.13_Accuracy,0.8336
+fig_2.5.13,model,Claude Opus 4.1 (Nonthinking),,fig_2.5.13_Accuracy,0.8345999999999999
+fig_2.5.13,model,o3,,fig_2.5.13_Accuracy,0.8376
+fig_2.5.13,model,Gemini 2.5 Flash Preview 4/17<br>(Nonthinking),,fig_2.5.13_Accuracy,0.838
+fig_2.5.13,model,GLM 5,,fig_2.5.13_Accuracy,0.8406
+fig_2.5.13,model,Claude Sonnet 4.5 (Thinking),,fig_2.5.13_Accuracy,0.8408
+fig_2.5.13,model,Gemini 2.5 Pro Exp,,fig_2.5.13_Accuracy,0.8432
+fig_2.5.13,model,Claude Opus 4.5 (Thinking),,fig_2.5.13_Accuracy,0.846
+fig_2.5.13,model,Qwen 3.5 Plus,,fig_2.5.13_Accuracy,0.851
+fig_2.5.13,model,Claude Opus 4.6 (Thinking),,fig_2.5.13_Accuracy,0.853
+fig_2.5.13,model,GPT 5.1,,fig_2.5.13_Accuracy,0.8568000000000001
+fig_2.5.13,model,GPT 5,,fig_2.5.13_Accuracy,0.8602
+fig_2.5.13,model,Gemini 3 Flash (12/25),,fig_2.5.13_Accuracy,0.8686
+fig_2.5.13,model,Gemini 3 Pro (11/25),,fig_2.5.13_Accuracy,0.8704000000000001
+fig_2.5.13,model,Gemini 3.1 Pro Preview (02/26),,fig_2.5.13_Accuracy,0.8740000000000001
+fig_2.6.1,model,DeepSeek R1,,fig_2.6.1_release_date,2025-01-01
+fig_2.6.1,model,DeepSeek R1,,fig_2.6.1_accuracy,0.303
+fig_2.6.1,model,Claude-3.7 sonnet High,,fig_2.6.1_release_date,2025-02-01
+fig_2.6.1,model,Claude-3.7 sonnet High,,fig_2.6.1_accuracy,0.642
+fig_2.6.1,model,Claude Opus 4 High,,fig_2.6.1_release_date,2025-05-01
+fig_2.6.1,model,Claude Opus 4 High,,fig_2.6.1_accuracy,0.648
+fig_2.6.1,model,Claude Opus 4.1 High,,fig_2.6.1_release_date,2025-08-01
+fig_2.6.1,model,Claude Opus 4.1 High,,fig_2.6.1_accuracy,0.685
+fig_2.6.1,model,Claude Sonnet 4.5,,fig_2.6.1_release_date,2025-09-01
+fig_2.6.1,model,Claude Sonnet 4.5,,fig_2.6.1_accuracy,0.745
+fig_2.6.2,category,Qwen2.5-72B,2024,fig_2.6.2_metric,0.05
+fig_2.6.2,category,Claude Opus 4.5 (no thinking),2025,fig_2.6.2_metric,0.6629999999999999
+fig_2.6.3,model,gpt-4-0613,2023,fig_2.6.3_Success Rate,0.149
+fig_2.6.3,model,Jace.AI,2024,fig_2.6.3_Success Rate,0.5710000000000001
+fig_2.6.3,model,ColorBrowserAgent,2025,fig_2.6.3_Success Rate,0.7120000000000001
+fig_2.6.3,model,Deepseek v3.2,2026,fig_2.6.3_Success Rate,0.743
+fig_2.6.4,model,AIDE,2024,fig_2.6.4_LLM(s) Used,o1-preview
+fig_2.6.4,model,AIDE,2024,fig_2.6.4_Low==Lite (%),35.91
+fig_2.6.4,model,AIDE,2024,fig_2.6.4_Low==Lite (¬± %),1.86
+fig_2.6.4,model,AIDE,2024,fig_2.6.4_Medium (%),8.45
+fig_2.6.4,model,AIDE,2024,fig_2.6.4_Medium (¬± %),0.43
+fig_2.6.4,model,AIDE,2024,fig_2.6.4_High (%),11.67
+fig_2.6.4,model,AIDE,2024,fig_2.6.4_High (¬± %),1.27
+fig_2.6.4,model,AIDE,2024,fig_2.6.4_All (%),0.17120000000000002
+fig_2.6.4,model,AIDE,2024,fig_2.6.4_All (¬± %),0.61
+fig_2.6.4,model,AIDE,2024,fig_2.6.4_Running Time (hours),24
+fig_2.6.4,model,Famou-Agent 2.0,2025,fig_2.6.4_LLM(s) Used,Gemini-2.5-Pro
+fig_2.6.4,model,Famou-Agent 2.0,2025,fig_2.6.4_Low==Lite (%),75.76
+fig_2.6.4,model,Famou-Agent 2.0,2025,fig_2.6.4_Low==Lite (¬± %),1.52
+fig_2.6.4,model,Famou-Agent 2.0,2025,fig_2.6.4_Medium (%),57.89
+fig_2.6.4,model,Famou-Agent 2.0,2025,fig_2.6.4_Medium (¬± %),1.52
+fig_2.6.4,model,Famou-Agent 2.0,2025,fig_2.6.4_High (%),40.0
+fig_2.6.4,model,Famou-Agent 2.0,2025,fig_2.6.4_High (¬± %),0.0
+fig_2.6.4,model,Famou-Agent 2.0,2025,fig_2.6.4_All (%),0.5956
+fig_2.6.4,model,Famou-Agent 2.0,2025,fig_2.6.4_All (¬± %),0.89
+fig_2.6.4,model,Famou-Agent 2.0,2025,fig_2.6.4_Running Time (hours),24
+fig_2.6.4,model,Famou-Agent 2.0,2026,fig_2.6.4_LLM(s) Used,Gemini-3-Pro-Preview
+fig_2.6.4,model,Famou-Agent 2.0,2026,fig_2.6.4_Low==Lite (%),80.3
+fig_2.6.4,model,Famou-Agent 2.0,2026,fig_2.6.4_Low==Lite (¬± %),1.52
+fig_2.6.4,model,Famou-Agent 2.0,2026,fig_2.6.4_Medium (%),64.04
+fig_2.6.4,model,Famou-Agent 2.0,2026,fig_2.6.4_Medium (¬± %),2.32
+fig_2.6.4,model,Famou-Agent 2.0,2026,fig_2.6.4_High (%),42.22
+fig_2.6.4,model,Famou-Agent 2.0,2026,fig_2.6.4_High (¬± %),2.22
+fig_2.6.4,model,Famou-Agent 2.0,2026,fig_2.6.4_All (%),0.6444
+fig_2.6.4,model,Famou-Agent 2.0,2026,fig_2.6.4_All (¬± %),1.18
+fig_2.6.4,model,Famou-Agent 2.0,2026,fig_2.6.4_Running Time (hours),24
+fig_2.6.5,model,Claude 3.5 Sonnet,2024,fig_2.6.5_Unguided % Solved,0.175
+fig_2.6.5,model,Claude 4.5 Opus,2025,fig_2.6.5_Unguided % Solved,0.82
+fig_2.6.5,model,Claude Opus 4.6,2026,fig_2.6.5_Unguided % Solved,0.93
+fig_2.6.6,model,Claude Sonnet 4.5,,fig_2.6.6_Value,62.9
+fig_2.6.6,model,GLM-5,,fig_2.6.6_Value,63.2
+fig_2.6.6,model,Gemini 3 Pro,,fig_2.6.6_Value,65.8
+fig_2.6.6,model,Gemini 3 Flash,,fig_2.6.6_Value,67.80000000000001
+fig_2.6.6,model,Qwen3.5-397B-A17B,,fig_2.6.6_Value,68.4
+fig_2.6.6,model,GPT-5.2,,fig_2.6.6_Value,69.89999999999999
+fig_2.6.6,model,Claude Opus 4.5,,fig_2.6.6_Value,70.19999999999999
+fig_2.7.1,model,PerAct,2022,fig_2.7.1_metric,0.494
+fig_2.7.1,model,Act3D,2023,fig_2.7.1_metric,0.65
+fig_2.7.1,model,ARP+,2024,fig_2.7.1_metric,0.86
+fig_2.7.1,model,EquAct,2025,fig_2.7.1_metric,0.894
+fig_2.7.2,organization,Embodied Intelligence,,fig_2.7.2_Score,0.052
+fig_2.7.2,organization,Embodied Intelligence,,fig_2.7.2_Label,Full task success rate
+fig_2.7.2,organization,The North Star,,fig_2.7.2_Score,0.076
+fig_2.7.2,organization,The North Star,,fig_2.7.2_Label,Full task success rate
+fig_2.7.2,organization,SimpleAI Robot,,fig_2.7.2_Score,0.108
+fig_2.7.2,organization,SimpleAI Robot,,fig_2.7.2_Label,Full task success rate
+fig_2.7.2,organization,Comet,,fig_2.7.2_Score,0.114
+fig_2.7.2,organization,Comet,,fig_2.7.2_Label,Full task success rate
+fig_2.7.2,organization,Robot Learning Collective,,fig_2.7.2_Score,0.124
+fig_2.7.2,organization,Robot Learning Collective,,fig_2.7.2_Label,Full task success rate
+fig_2.7.2,organization,Embodied Intelligence,,fig_2.7.2_Score,0.0947
+fig_2.7.2,organization,Embodied Intelligence,,fig_2.7.2_Label,Q score
+fig_2.7.2,organization,The North Star,,fig_2.7.2_Score,0.1204
+fig_2.7.2,organization,The North Star,,fig_2.7.2_Label,Q score
+fig_2.7.2,organization,SimpleAI Robot,,fig_2.7.2_Score,0.1591
+fig_2.7.2,organization,SimpleAI Robot,,fig_2.7.2_Label,Q score
+fig_2.7.2,organization,Comet,,fig_2.7.2_Score,0.2514
+fig_2.7.2,organization,Comet,,fig_2.7.2_Label,Q score
+fig_2.7.2,organization,Robot Learning Collective,,fig_2.7.2_Score,0.2599
+fig_2.7.2,organization,Robot Learning Collective,,fig_2.7.2_Label,Q score
+fig_2.7.3,model,QWEN7B,2023,fig_2.7.3_Overall SSR↑,0.21
+fig_2.7.3,model,QWEN72B,2023,fig_2.7.3_Overall SSR↑,0.35
+fig_2.7.3,model,INTERNVL 2.5 4B,2024,fig_2.7.3_Overall SSR↑,0.12
+fig_2.7.3,model,GPT4o-MINI,2024,fig_2.7.3_Overall SSR↑,0.4
+fig_2.7.3,model,GPT4o,2024,fig_2.7.3_Overall SSR↑,0.64
+fig_2.7.5,global,Global,3/31/23,fig_2.7.5_Number of weekly paid trips (in thousands),0.216774194
+fig_2.7.5,global,Global,4/30/23,fig_2.7.5_Number of weekly paid trips (in thousands),0.295633333
+fig_2.7.5,global,Global,5/31/23,fig_2.7.5_Number of weekly paid trips (in thousands),0.260580645
+fig_2.7.5,global,Global,8/31/23,fig_2.7.5_Number of weekly paid trips (in thousands),2.849
+fig_2.7.5,global,Global,9/30/23,fig_2.7.5_Number of weekly paid trips (in thousands),8.977033333
+fig_2.7.5,global,Global,10/31/23,fig_2.7.5_Number of weekly paid trips (in thousands),12.75783871
+fig_2.7.5,global,Global,11/30/23,fig_2.7.5_Number of weekly paid trips (in thousands),13.27783333
+fig_2.7.5,global,Global,12/31/23,fig_2.7.5_Number of weekly paid trips (in thousands),16.39241935
+fig_2.7.5,global,Global,1/31/24,fig_2.7.5_Number of weekly paid trips (in thousands),17.44174194
+fig_2.7.5,global,Global,2/29/24,fig_2.7.5_Number of weekly paid trips (in thousands),17.91831034
+fig_2.7.5,global,Global,3/31/24,fig_2.7.5_Number of weekly paid trips (in thousands),18.93409677
+fig_2.7.5,global,Global,4/30/24,fig_2.7.5_Number of weekly paid trips (in thousands),21.46713333
+fig_2.7.5,global,Global,5/31/24,fig_2.7.5_Number of weekly paid trips (in thousands),32.43054839
+fig_2.7.5,global,Global,6/30/24,fig_2.7.5_Number of weekly paid trips (in thousands),44.0643
+fig_2.7.5,global,Global,7/31/24,fig_2.7.5_Number of weekly paid trips (in thousands),56.62141935
+fig_2.7.5,global,Global,8/31/24,fig_2.7.5_Number of weekly paid trips (in thousands),70.50693548
+fig_2.7.5,global,Global,9/30/24,fig_2.7.5_Number of weekly paid trips (in thousands),82.62893333
+fig_2.7.5,global,Global,10/31/24,fig_2.7.5_Number of weekly paid trips (in thousands),102.3982581
+fig_2.7.5,global,Global,11/30/24,fig_2.7.5_Number of weekly paid trips (in thousands),117.5146
+fig_2.7.5,global,Global,12/31/24,fig_2.7.5_Number of weekly paid trips (in thousands),122.2466452
+fig_2.7.5,global,Global,1/31/25,fig_2.7.5_Number of weekly paid trips (in thousands),124.2967419
+fig_2.7.5,global,Global,2/28/25,fig_2.7.5_Number of weekly paid trips (in thousands),139.89225
+fig_2.7.5,global,Global,3/31/25,fig_2.7.5_Number of weekly paid trips (in thousands),159.9116129
+fig_2.7.5,global,Global,4/30/25,fig_2.7.5_Number of weekly paid trips (in thousands),181.0802
+fig_2.7.5,global,Global,5/31/25,fig_2.7.5_Number of weekly paid trips (in thousands),197.7143226
+fig_2.7.5,global,Global,6/30/25,fig_2.7.5_Number of weekly paid trips (in thousands),136.0944667
+fig_2.7.5,global,Global,7/31/25,fig_2.7.5_Number of weekly paid trips (in thousands),175.8607742
+fig_2.7.5,global,Global,8/31/25,fig_2.7.5_Number of weekly paid trips (in thousands),198.854871
+fig_2.7.5,global,Global,9/30/25,fig_2.7.5_Number of weekly paid trips (in thousands),237.1940667
+fig_2.7.5,global,Global,10/31/25,fig_2.7.5_Number of weekly paid trips (in thousands),275.0033548
+fig_2.7.5,global,Global,11/30/25,fig_2.7.5_Number of weekly paid trips (in thousands),297.1437
+fig_2.7.5,global,Global,12/31/25,fig_2.7.5_Number of weekly paid trips (in thousands),283.8809355
+fig_2.7.7,global,Global,2025,fig_2.7.7_Number of trips,11000000
+fig_2.7.7,global,Global,2024,fig_2.7.7_Number of trips,4000000
+fig_2.7.7,global,Global,2023,fig_2.7.7_Number of trips,3000000
+fig_2.7.7,global,Global,2022,fig_2.7.7_Number of trips,1500000
+fig_2.7.8,category,KITTI Vision Benchmark Suite,,fig_2.7.8_Version (Year),2012-01-01
+fig_2.7.8,category,KITTI Vision Benchmark Suite,,fig_2.7.8_Hours,6.0
+fig_2.7.8,category,nuScenes,,fig_2.7.8_Version (Year),2019-01-01
+fig_2.7.8,category,nuScenes,,fig_2.7.8_Hours,5.56
+fig_2.7.8,category,Argoverse v1,,fig_2.7.8_Version (Year),2019-01-01
+fig_2.7.8,category,Argoverse v1,,fig_2.7.8_Hours,0.6
+fig_2.7.8,category,Argoverse v2,,fig_2.7.8_Version (Year),2022-01-01
+fig_2.7.8,category,Argoverse v2,,fig_2.7.8_Hours,4.2
+fig_2.7.8,category,Waymo Open Dataset,,fig_2.7.8_Version (Year),2019-01-01
+fig_2.7.8,category,Waymo Open Dataset,,fig_2.7.8_Hours,574.0
+fig_2.7.8,category,Waymo Open Dataset - E2E,,fig_2.7.8_Version (Year),2025-01-01
+fig_2.7.8,category,Waymo Open Dataset - E2E,,fig_2.7.8_Hours,12.0
+fig_2.7.8,category,nuPlan,,fig_2.7.8_Version (Year),2024-01-01
+fig_2.7.8,category,nuPlan,,fig_2.7.8_Hours,1282.0
+fig_2.7.8,category,NVIDIA PhysicalAI-AV,,fig_2.7.8_Version (Year),2025-01-01
+fig_2.7.8,category,NVIDIA PhysicalAI-AV,,fig_2.7.8_Hours,1727.0
+fig_2.7.8,category,DriveE2E,,fig_2.7.8_Version (Year),2025-01-01
+fig_2.7.8,category,DriveE2E,,fig_2.7.8_Hours,100.0
+fig_2.7.8,category,NuPlanQA*,,fig_2.7.8_Version (Year),2025-01-01
+fig_2.7.8,category,NuPlanQA*,,fig_2.7.8_Hours,119.44
+fig_2.7.8,category,DriveLMM-o1*,,fig_2.7.8_Version (Year),2025-01-01
+fig_2.7.8,category,DriveLMM-o1*,,fig_2.7.8_Hours,0.35
+fig_2.7.8,category,RAMBLE (Imitation to Exploration)*,,fig_2.7.8_Version (Year),2024-01-01
+fig_2.7.8,category,RAMBLE (Imitation to Exploration)*,,fig_2.7.8_Hours,0.68
+fig_2.7.8,category,CARLA Leaderboard*,,fig_2.7.8_Version (Year),2020-01-01
+fig_2.7.8,category,CARLA Leaderboard*,,fig_2.7.8_Hours,11.08
+fig_2.7.11,category,All others,,fig_2.7.11_Count,3
+fig_2.7.11,category,All others,,fig_2.7.11_Label,Waymo rider only
+fig_2.7.11,category,Cyclist,,fig_2.7.11_Count,6
+fig_2.7.11,category,Cyclist,,fig_2.7.11_Label,Waymo rider only
+fig_2.7.11,category,Motorcycle,,fig_2.7.11_Count,5
+fig_2.7.11,category,Motorcycle,,fig_2.7.11_Label,Waymo rider only
+fig_2.7.11,category,Pedestrian,,fig_2.7.11_Count,4
+fig_2.7.11,category,Pedestrian,,fig_2.7.11_Label,Waymo rider only
+fig_2.7.11,category,Secondary crash,,fig_2.7.11_Count,8
+fig_2.7.11,category,Secondary crash,,fig_2.7.11_Label,Waymo rider only
+fig_2.7.11,category,Single vehicle,,fig_2.7.11_Count,2
+fig_2.7.11,category,Single vehicle,,fig_2.7.11_Label,Waymo rider only
+fig_2.7.11,category,V2V backing,,fig_2.7.11_Count,3
+fig_2.7.11,category,V2V backing,,fig_2.7.11_Label,Waymo rider only
+fig_2.7.11,category,V2V F2R,,fig_2.7.11_Count,44
+fig_2.7.11,category,V2V F2R,,fig_2.7.11_Label,Waymo rider only
+fig_2.7.11,category,V2V head-on,,fig_2.7.11_Count,3
+fig_2.7.11,category,V2V head-on,,fig_2.7.11_Label,Waymo rider only
+fig_2.7.11,category,V2V intersection,,fig_2.7.11_Count,8
+fig_2.7.11,category,V2V intersection,,fig_2.7.11_Label,Waymo rider only
+fig_2.7.11,category,V2V lateral,,fig_2.7.11_Count,8
+fig_2.7.11,category,V2V lateral,,fig_2.7.11_Label,Waymo rider only
+fig_2.7.11,category,All others,,fig_2.7.11_Count,11
+fig_2.7.11,category,All others,,fig_2.7.11_Label,Avg. human-driven benchmark
+fig_2.7.11,category,Cyclist,,fig_2.7.11_Count,36
+fig_2.7.11,category,Cyclist,,fig_2.7.11_Label,Avg. human-driven benchmark
+fig_2.7.11,category,Motorcycle,,fig_2.7.11_Count,24
+fig_2.7.11,category,Motorcycle,,fig_2.7.11_Label,Avg. human-driven benchmark
+fig_2.7.11,category,Pedestrian,,fig_2.7.11_Count,51
+fig_2.7.11,category,Pedestrian,,fig_2.7.11_Label,Avg. human-driven benchmark
+fig_2.7.11,category,Secondary crash,,fig_2.7.11_Count,25
+fig_2.7.11,category,Secondary crash,,fig_2.7.11_Label,Avg. human-driven benchmark
+fig_2.7.11,category,Single vehicle,,fig_2.7.11_Count,34
+fig_2.7.11,category,Single vehicle,,fig_2.7.11_Label,Avg. human-driven benchmark
+fig_2.7.11,category,V2V backing,,fig_2.7.11_Count,4
+fig_2.7.11,category,V2V backing,,fig_2.7.11_Label,Avg. human-driven benchmark
+fig_2.7.11,category,V2V F2R,,fig_2.7.11_Count,76
+fig_2.7.11,category,V2V F2R,,fig_2.7.11_Label,Avg. human-driven benchmark
+fig_2.7.11,category,V2V head-on,,fig_2.7.11_Count,8
+fig_2.7.11,category,V2V head-on,,fig_2.7.11_Label,Avg. human-driven benchmark
+fig_2.7.11,category,V2V intersection,,fig_2.7.11_Count,198
+fig_2.7.11,category,V2V intersection,,fig_2.7.11_Label,Avg. human-driven benchmark
+fig_2.7.11,category,V2V lateral,,fig_2.7.11_Count,34
+fig_2.7.11,category,V2V lateral,,fig_2.7.11_Label,Avg. human-driven benchmark
+fig_2.7.12,category,All others,,fig_2.7.12_Count,1
+fig_2.7.12,category,All others,,fig_2.7.12_Label,Waymo rider only
+fig_2.7.12,category,Secondary crash,,fig_2.7.12_Count,9
+fig_2.7.12,category,Secondary crash,,fig_2.7.12_Label,Waymo rider only
+fig_2.7.12,category,V2V F2R,,fig_2.7.12_Count,17
+fig_2.7.12,category,V2V F2R,,fig_2.7.12_Label,Waymo rider only
+fig_2.7.12,category,V2V head-on,,fig_2.7.12_Count,3
+fig_2.7.12,category,V2V head-on,,fig_2.7.12_Label,Waymo rider only
+fig_2.7.12,category,V2V intersection,,fig_2.7.12_Count,8
+fig_2.7.12,category,V2V intersection,,fig_2.7.12_Label,Waymo rider only
+fig_2.7.12,category,V2V lateral,,fig_2.7.12_Count,1
+fig_2.7.12,category,V2V lateral,,fig_2.7.12_Label,Waymo rider only
+fig_2.7.12,category,All others,,fig_2.7.12_Count,5.046746001
+fig_2.7.12,category,All others,,fig_2.7.12_Label,Avg. human-driven benchmark
+fig_2.7.12,category,Secondary crash,,fig_2.7.12_Count,13.67820986
+fig_2.7.12,category,Secondary crash,,fig_2.7.12_Label,Avg. human-driven benchmark
+fig_2.7.12,category,V2V F2R,,fig_2.7.12_Count,26.91155931
+fig_2.7.12,category,V2V F2R,,fig_2.7.12_Label,Avg. human-driven benchmark
+fig_2.7.12,category,V2V head-on,,fig_2.7.12_Count,5.721392771
+fig_2.7.12,category,V2V head-on,,fig_2.7.12_Label,Avg. human-driven benchmark
+fig_2.7.12,category,V2V intersection,,fig_2.7.12_Count,118.9591947
+fig_2.7.12,category,V2V intersection,,fig_2.7.12_Label,Avg. human-driven benchmark
+fig_2.7.12,category,V2V lateral,,fig_2.7.12_Count,11.69327777
+fig_2.7.12,category,V2V lateral,,fig_2.7.12_Label,Avg. human-driven benchmark

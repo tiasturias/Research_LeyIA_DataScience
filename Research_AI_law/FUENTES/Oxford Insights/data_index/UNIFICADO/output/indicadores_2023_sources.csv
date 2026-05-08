@@ -1,0 +1,40 @@
+variable,source
+ind_ai_strategy,desk research
+ind_data_protection_laws,UN data protection and privacy legislation worldwide.
+ind_cybersecurity,Global Cybersecurity Index
+ind_regulatory_quality,WGI Indicators
+ind_ethical_principles,desk research
+ind_accountability,WGI Indicators
+ind_online_services,UN E-gov Online Services Index
+ind_foundational_it,Govtech Maturity Index
+ind_govt_promotion_emerging_tech,Network Readiness Index
+ind_govt_effectiveness,WGI Indicators
+ind_govt_responsiveness,Global Competitiveness Index
+ind_procurement_data,Procurement page for the index
+ind_ai_unicorns_log,CB Insights
+ind_non_ai_unicorns_log,CB Insights
+ind_ict_trade_services_log,UNCTAD
+ind_ict_trade_goods_log,UNCTAD
+ind_software_spending,Global Innovation Index
+ind_time_govt_regulations,World Bank
+ind_vc_availability,Global Innovation Index
+ind_rd_spending_log,UNESCO
+ind_company_investment_emerging_tech,Network Readiness Index
+ind_ai_research_papers_log,Scimago
+ind_stem_graduates,UNESCO
+ind_github_activity_log,Github 2021 Octoverse report
+ind_female_stem_graduates,World Bank
+ind_eng_tech_higher_ed_quality,QS University Rankings (Engineering & Technology)
+ind_ict_skills,ITU
+ind_telecom_infrastructure,UN E-gov Telecommunications Infrastructure Index
+ind_supercomputers_log,Top 500 supercomputers
+ind_broadband_quality,EIU Inclusive Internet Index
+ind_5g_infrastructure,Ookla 5G Map
+ind_adoption_emerging_tech,Network Readiness Index
+ind_open_data,Global Data Barometer
+ind_data_governance,Govtech Maturity Index
+ind_mobile_subscriptions,ITU
+ind_households_internet,ITU
+ind_statistical_capacity,SPI Github repo
+ind_cost_internet_device,GSMA Mobile Connectivity Index
+ind_gender_gap_internet,EIU Inclusive Internet Index

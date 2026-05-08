@@ -1,0 +1,1381 @@
+iso3,year,country_name,value,wb_indicator,canonical_name
+AFG,2023,Afghanistan,2201.72290691677,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AFG,2022,Afghanistan,2122.99581512663,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AFG,2021,Afghanistan,2144.16657002819,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AFG,2020,Afghanistan,2561.98176058622,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AFG,2019,Afghanistan,2583.48533239877,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AFG,2018,Afghanistan,2432.27670083336,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ALB,2024,Albania,26701.6749563776,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ALB,2023,Albania,24822.3543089995,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ALB,2022,Albania,22138.4182857345,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ALB,2021,Albania,18212.8702466686,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ALB,2020,Albania,16287.6097663649,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ALB,2019,Albania,16442.1259393239,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ALB,2018,Albania,15055.2807998752,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DZA,2024,Algeria,17620.7423956126,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DZA,2023,Algeria,16824.4879034627,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DZA,2022,Algeria,15836.0944370321,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DZA,2021,Algeria,14496.8654697299,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DZA,2020,Algeria,12676.5130564294,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DZA,2019,Algeria,13892.5333446205,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DZA,2018,Algeria,13727.1266357859,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AND,2024,Andorra,74939.4746038578,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AND,2023,Andorra,71730.668682165,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AND,2022,Andorra,68470.0759483848,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AND,2021,Andorra,59332.2029100127,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AND,2020,Andorra,52095.8414004627,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AND,2019,Andorra,57475.0692842215,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AND,2018,Andorra,55244.6554088177,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AGO,2024,Angola,10118.6089945408,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AGO,2023,Angola,9753.60046763783,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AGO,2022,Angola,9588.24129511188,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AGO,2021,Angola,8862.28133314521,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AGO,2020,Angola,7827.42804325818,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AGO,2019,Angola,8572.87895610671,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AGO,2018,Angola,8278.36886170469,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ATG,2024,Antigua and Barbuda,33386.1917127894,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ATG,2023,Antigua and Barbuda,31601.7527146877,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ATG,2022,Antigua and Barbuda,29933.8893698902,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ATG,2021,Antigua and Barbuda,25745.4958067746,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ATG,2020,Antigua and Barbuda,22370.0918693813,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ATG,2019,Antigua and Barbuda,26550.589844733,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ATG,2018,Antigua and Barbuda,24524.2137953887,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARG,2024,Argentina,30431.1931223693,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARG,2023,Argentina,30221.4976888753,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARG,2022,Argentina,29808.8073468007,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARG,2021,Argentina,26300.274261175,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARG,2020,Argentina,22393.3479575353,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARG,2019,Argentina,23516.8261980886,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARG,2018,Argentina,24410.3919063335,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARM,2024,Armenia,22823.1795255693,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARM,2023,Armenia,21534.030536117,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARM,2022,Armenia,19161.3700514189,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARM,2021,Armenia,15921.705281964,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARM,2020,Armenia,14706.3173043422,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARM,2019,Armenia,14975.7539538157,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARM,2018,Armenia,12877.4937543553,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ABW,2024,Aruba,50649.3015232212,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ABW,2023,Aruba,46574.3574197653,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ABW,2022,Aruba,41758.8957566544,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ABW,2021,Aruba,35104.7868035374,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ABW,2020,Aruba,28854.5972997864,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ABW,2019,Aruba,38543.9072936041,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ABW,2018,Aruba,39287.0597126122,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AUS,2024,Australia,72111.1844628126,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AUS,2023,Australia,72272.7092136683,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AUS,2022,Australia,66103.1797066957,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AUS,2021,Australia,58327.4146842325,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AUS,2020,Australia,54184.1614486854,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AUS,2019,Australia,52885.8313816377,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AUS,2018,Australia,50371.233830782,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AUT,2024,Austria,73911.439663136,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AUT,2023,Austria,73544.6567230487,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AUT,2022,Austria,72065.4974270106,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AUT,2021,Austria,62968.9422311892,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AUT,2020,Austria,58523.0337816246,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AUT,2019,Austria,60354.9279422121,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AUT,2018,Austria,56636.4953030542,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AZE,2024,Azerbaijan,25088.9993757134,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AZE,2023,Azerbaijan,23651.5994852756,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AZE,2022,Azerbaijan,22552.0886560523,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AZE,2021,Azerbaijan,20111.3756952109,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AZE,2020,Azerbaijan,15163.5703327282,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AZE,2019,Azerbaijan,16675.3179361558,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+AZE,2018,Azerbaijan,15282.9995232298,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BHS,2024,"Bahamas, The",41197.9342548477,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BHS,2023,"Bahamas, The",39090.1214737976,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BHS,2022,"Bahamas, The",36791.4010460964,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BHS,2021,"Bahamas, The",31064.6822166194,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BHS,2020,"Bahamas, The",27204.625909518,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BHS,2019,"Bahamas, The",36116.0002025353,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BHS,2018,"Bahamas, The",35227.7619063243,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BHR,2024,Bahrain,66941.2430367989,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BHR,2023,Bahrain,64171.0857359052,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BHR,2022,Bahrain,61677.6538492695,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BHR,2021,Bahrain,54954.6757895532,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BHR,2020,Bahrain,53436.0316999712,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BHR,2019,Bahrain,56599.5214364411,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BHR,2018,Bahrain,51993.1307818652,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BGD,2024,Bangladesh,9646.76984383255,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BGD,2023,Bangladesh,9147.7775066555,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BGD,2022,Bangladesh,8450.54902533941,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BGD,2021,Bangladesh,7441.06913961254,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BGD,2020,Bangladesh,6640.58437331062,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BGD,2019,Bangladesh,6047.12401504125,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BGD,2018,Bangladesh,5490.15881865179,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRB,2024,Barbados,24822.5343309908,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRB,2023,Barbados,23660.4047512929,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRB,2022,Barbados,22193.2487125789,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRB,2021,Barbados,17682.7314537483,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRB,2020,Barbados,16555.3622145235,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRB,2019,Barbados,19971.1185698717,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRB,2018,Barbados,19777.0593234662,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BLR,2024,Belarus,33010.3307605357,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BLR,2023,Belarus,30834.1773668111,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BLR,2022,Belarus,28429.4948821827,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BLR,2021,Belarus,27611.1801135157,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BLR,2020,Belarus,24872.3066744528,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BLR,2019,Belarus,22301.5932411839,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BLR,2018,Belarus,20025.9815543598,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BEL,2024,Belgium,73514.4831045258,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BEL,2023,Belgium,71946.1447190292,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BEL,2022,Belgium,69128.1388883843,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BEL,2021,Belgium,60669.2137746531,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BEL,2020,Belgium,56120.0958420466,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BEL,2019,Belgium,56712.469571978,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BEL,2018,Belgium,52466.7330784599,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BLZ,2024,Belize,14346.5188049737,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BLZ,2023,Belize,13729.892058721,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BLZ,2022,Belize,13461.2098451613,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BLZ,2021,Belize,11716.3267818656,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BLZ,2020,Belize,9638.89513695889,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BLZ,2019,Belize,10499.962073199,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BLZ,2018,Belize,9497.23480443418,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BEN,2024,Benin,4434.5642184028,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BEN,2023,Benin,4129.9661200142,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BEN,2022,Benin,3844.15415745816,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BEN,2021,Benin,3464.2886286745,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BEN,2020,Benin,3244.58772756805,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BEN,2019,Benin,3148.97969597838,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BEN,2018,Benin,2965.30628143664,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BMU,2024,Bermuda,124252.835702586,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BMU,2023,Bermuda,114372.049927372,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BMU,2022,Bermuda,105142.409967183,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BMU,2021,Bermuda,92319.6714861219,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BMU,2020,Bermuda,85146.4006275696,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BMU,2019,Bermuda,90984.4576708318,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BMU,2018,Bermuda,85978.2177227009,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BTN,2023,Bhutan,16215.1520073153,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BTN,2022,Bhutan,15063.8105763072,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BTN,2021,Bhutan,13458.812666743,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BTN,2020,Bhutan,12475.048003428,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BTN,2019,Bhutan,12909.1009840399,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BTN,2018,Bhutan,11969.5615003305,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BOL,2024,Bolivia,12877.6351184372,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BOL,2023,Bolivia,12892.1249578777,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BOL,2022,Bolivia,12306.7293128695,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BOL,2021,Bolivia,11202.4409836707,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BOL,2020,Bolivia,9580.98962081658,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BOL,2019,Bolivia,11005.3541169156,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BOL,2018,Bolivia,10758.4075594003,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BIH,2024,Bosnia and Herzegovina,25043.0886396127,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BIH,2023,Bosnia and Herzegovina,23376.2227477141,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BIH,2022,Bosnia and Herzegovina,21651.2952374862,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BIH,2021,Bosnia and Herzegovina,18286.7373324233,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BIH,2020,Bosnia and Herzegovina,16369.9353197836,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BIH,2019,Bosnia and Herzegovina,16428.8136580107,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BIH,2018,Bosnia and Herzegovina,14858.5590469909,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BWA,2024,Botswana,20538.1320178889,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BWA,2023,Botswana,21012.10319925,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BWA,2022,Botswana,19976.8343794474,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BWA,2021,Botswana,17960.6254447437,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BWA,2020,Botswana,15292.2624673252,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BWA,2019,Botswana,15960.0156143903,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BWA,2018,Botswana,15785.819633781,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRA,2024,Brazil,22338.4765640635,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRA,2023,Brazil,21175.6186988214,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRA,2022,Brazil,19876.8533531396,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRA,2021,Brazil,18075.7060048757,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRA,2020,Brazil,16101.6183062954,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRA,2019,Brazil,16069.838015161,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRA,2018,Brazil,15463.7426393743,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRN,2024,Brunei Darussalam,89879.3614980758,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRN,2023,Brunei Darussalam,85032.6008741995,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRN,2022,Brunei Darussalam,81801.7459224403,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRN,2021,Brunei Darussalam,78248.797127611,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRN,2020,Brunei Darussalam,69787.9632795717,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRN,2019,Brunei Darussalam,69353.6799514849,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BRN,2018,Brunei Darussalam,65148.8264035521,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BGR,2024,Bulgaria,41969.4515718999,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BGR,2023,Bulgaria,38829.1913208102,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BGR,2022,Bulgaria,36320.1422295192,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BGR,2021,Bulgaria,30959.1118459807,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BGR,2020,Bulgaria,27351.8607448601,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BGR,2019,Bulgaria,26765.7192049867,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BGR,2018,Bulgaria,23997.6876896184,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BFA,2024,Burkina Faso,2895.89152033665,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BFA,2023,Burkina Faso,2759.30205484605,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BFA,2022,Burkina Faso,2645.24067996611,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BFA,2021,Burkina Faso,2486.43093147762,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BFA,2020,Burkina Faso,2380.72282781802,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BFA,2019,Burkina Faso,2232.16282016585,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BFA,2018,Burkina Faso,2073.3235382155,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BDI,2024,Burundi,1194.94681370387,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BDI,2023,Burundi,1149.98405842389,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BDI,2022,Burundi,1104.77718764878,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BDI,2021,Burundi,1035.53857384938,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BDI,2020,Burundi,958.135599490084,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BDI,2019,Burundi,868.423731660834,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+BDI,2018,Burundi,823.013102241659,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CPV,2024,Cabo Verde,11195.1205312923,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CPV,2023,Cabo Verde,10242.1532011212,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CPV,2022,Cabo Verde,9481.07335405605,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CPV,2021,Cabo Verde,7685.41921393669,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CPV,2020,Cabo Verde,6852.57669930355,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CPV,2019,Cabo Verde,8645.75646859343,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CPV,2018,Cabo Verde,7916.42115326174,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KHM,2024,Cambodia,7966.87352428705,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KHM,2023,Cambodia,7430.73085709837,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KHM,2022,Cambodia,6918.81626947213,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KHM,2021,Cambodia,6225.53265474741,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KHM,2020,Cambodia,5942.45380373929,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KHM,2019,Cambodia,6153.99439528427,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KHM,2018,Cambodia,5616.98087023303,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CMR,2024,Cameroon,5588.98645861945,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CMR,2023,Cameroon,5410.76921937642,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CMR,2022,Cameroon,5188.97750866081,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CMR,2021,Cameroon,4793.55628200196,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CMR,2020,Cameroon,4365.44704128392,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CMR,2019,Cameroon,4241.11174920592,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CMR,2018,Cameroon,4010.76360069526,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CAN,2024,Canada,64610.3795171971,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CAN,2023,Canada,64219.3173928637,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CAN,2022,Canada,63944.1050100687,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CAN,2021,Canada,56995.1176781351,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CAN,2020,Canada,48590.6832121939,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CAN,2019,Canada,50498.9731057448,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CAN,2018,Canada,49982.5999118346,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CYM,2023,Cayman Islands,88427.7866712691,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CYM,2022,Cayman Islands,82295.5820704782,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CYM,2021,Cayman Islands,74160.4914000191,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CYM,2020,Cayman Islands,66118.6540859028,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CYM,2019,Cayman Islands,72697.3671881501,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CYM,2018,Cayman Islands,71811.8924961984,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CAF,2024,Central African Republic,1263.10234213699,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CAF,2023,Central African Republic,1257.09435717114,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CAF,2022,Central African Republic,1217.84977141155,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CAF,2021,Central African Republic,1128.55237996459,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CAF,2020,Central African Republic,1066.29005423151,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CAF,2019,Central African Republic,984.843183678857,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CAF,2018,Central African Republic,905.817788941094,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TCD,2024,Chad,2742.65952183613,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TCD,2023,Chad,2700.36055335878,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TCD,2022,Chad,2624.11789713994,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TCD,2021,Chad,2435.07274651099,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TCD,2020,Chad,2185.99034173537,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TCD,2019,Chad,2351.65339767739,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TCD,2018,Chad,2227.81335372611,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHL,2024,Chile,36181.156616977,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHL,2023,Chile,33145.403552025,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHL,2022,Chile,30932.0010873677,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHL,2021,Chile,29089.850459728,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHL,2020,Chile,25350.8635082972,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHL,2019,Chile,25611.7578269458,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHL,2018,Chile,25305.0903462611,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHN,2024,China,27104.8702677463,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHN,2023,China,25179.1193066383,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHN,2022,China,23032.1766271143,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHN,2021,China,20843.2978347377,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHN,2020,China,18267.4783455827,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHN,2019,China,17600.8907568493,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHN,2018,China,16298.2050619109,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COL,2024,Colombia,22349.436440123,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COL,2023,Colombia,21246.3762695201,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COL,2022,Colombia,20854.002999162,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COL,2021,Colombia,17383.0901728295,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COL,2020,Colombia,15519.2101694656,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COL,2019,Colombia,16181.5908990662,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COL,2018,Colombia,15239.4049488277,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COM,2024,Comoros,3958.53228789687,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COM,2023,Comoros,3811.65084882413,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COM,2022,Comoros,3641.62920390353,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COM,2021,Comoros,3377.88518482587,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COM,2020,Comoros,3244.8867496847,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COM,2019,Comoros,3293.05601748495,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COM,2018,Comoros,3276.00936695332,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COD,2024,"Congo, Dem. Rep.",1821.04868718058,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COD,2023,"Congo, Dem. Rep.",1730.62228877694,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COD,2022,"Congo, Dem. Rep.",1590.16404219556,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COD,2021,"Congo, Dem. Rep.",1402.38560295221,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COD,2020,"Congo, Dem. Rep.",1088.7890035637,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COD,2019,"Congo, Dem. Rep.",1056.17206659241,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COD,2018,"Congo, Dem. Rep.",1048.86502855672,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COG,2024,"Congo, Rep.",7026.36223281494,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COG,2023,"Congo, Rep.",6850.27770621099,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COG,2022,"Congo, Rep.",6647.4968173139,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COG,2021,"Congo, Rep.",6263.21161292636,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COG,2020,"Congo, Rep.",4770.96449758365,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COG,2019,"Congo, Rep.",5719.59977338291,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+COG,2018,"Congo, Rep.",5593.19370578686,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CRI,2024,Costa Rica,31106.7643556729,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CRI,2023,Costa Rica,28908.7688743191,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CRI,2022,Costa Rica,26226.2754815949,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CRI,2021,Costa Rica,23852.9253020002,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CRI,2020,Costa Rica,22099.8678127394,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CRI,2019,Costa Rica,23339.6091317787,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CRI,2018,Costa Rica,21498.0350746836,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CIV,2024,Cote d'Ivoire,7669.23195715687,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CIV,2023,Cote d'Ivoire,7237.18170740909,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CIV,2022,Cote d'Ivoire,6719.44381557637,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CIV,2021,Cote d'Ivoire,6045.20480490879,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CIV,2020,Cote d'Ivoire,5543.85096318939,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CIV,2019,Cote d'Ivoire,5516.39055126829,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CIV,2018,Cote d'Ivoire,4945.62520575915,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HRV,2024,Croatia,49550.7921506017,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HRV,2023,Croatia,47759.6982995339,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HRV,2022,Croatia,42125.0726930931,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HRV,2021,Croatia,36930.2841941405,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HRV,2020,Croatia,31594.0111922141,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HRV,2019,Croatia,33063.9101734438,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HRV,2018,Croatia,29789.1305400916,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CUW,2024,Curacao,32693.2939764893,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CUW,2023,Curacao,30651.5885510423,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CUW,2022,Curacao,28640.6872336026,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CUW,2021,Curacao,24905.7684453244,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CUW,2020,Curacao,21722.0173651527,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CUW,2019,Curacao,25396.9966189902,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CUW,2018,Curacao,24623.0414302994,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CYP,2024,Cyprus,63006.61328125,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CYP,2023,Cyprus,59874.5703125,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CYP,2022,Cyprus,55876.17578125,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CYP,2021,Cyprus,47632.76953125,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CYP,2020,Cyprus,42569.0546875,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CYP,2019,Cyprus,44393.9921875,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CYP,2018,Cyprus,40262.30859375,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CZE,2024,Czechia,57285.4237001379,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CZE,2023,Czechia,55761.3798291375,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CZE,2022,Czechia,52946.9660854462,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CZE,2021,Czechia,47796.0337408466,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CZE,2020,Czechia,44839.4822099455,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CZE,2019,Czechia,45614.0171132532,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CZE,2018,Czechia,41638.1831076596,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DNK,2024,Denmark,81878.2349849181,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DNK,2023,Denmark,77892.2932609904,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DNK,2022,Denmark,78913.6534913127,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DNK,2021,Denmark,69715.1809680929,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DNK,2020,Denmark,62682.2899474389,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DNK,2019,Denmark,60594.966400191,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DNK,2018,Denmark,57233.6231685618,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DJI,2024,Djibouti,7810.27869066792,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DJI,2023,Djibouti,7225.8387957249,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DJI,2022,Djibouti,6621.33038220409,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DJI,2021,Djibouti,5960.10807396825,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DJI,2020,Djibouti,5527.00185229888,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DJI,2019,Djibouti,5398.00036773984,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DJI,2018,Djibouti,5083.11077030183,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DMA,2024,Dominica,21300.6848698089,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DMA,2023,Dominica,20285.9821663707,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DMA,2022,Dominica,18802.0819913205,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DMA,2021,Dominica,15808.9743503945,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DMA,2020,Dominica,14243.7623123898,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DMA,2019,Dominica,16020.5944720217,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DMA,2018,Dominica,15069.8972415303,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DOM,2024,Dominican Republic,27541.6625283384,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DOM,2023,Dominican Republic,25839.9356687607,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DOM,2022,Dominican Republic,24625.8088564037,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DOM,2021,Dominican Republic,22053.4589869955,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DOM,2020,Dominican Republic,18998.3069667315,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DOM,2019,Dominican Republic,19766.7628586981,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DOM,2018,Dominican Republic,17994.8382742736,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ECU,2024,Ecuador,15840.2668567412,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ECU,2023,Ecuador,15918.5162948773,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ECU,2022,Ecuador,15198.0725554473,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ECU,2021,Ecuador,13507.4445638375,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ECU,2020,Ecuador,11526.8013009278,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ECU,2019,Ecuador,12543.0148243925,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ECU,2018,Ecuador,12186.8846084388,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+EGY,2024,"Egypt, Arab Rep.",19094.1449444111,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+EGY,2023,"Egypt, Arab Rep.",18524.8392997937,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+EGY,2022,"Egypt, Arab Rep.",17526.8017030166,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+EGY,2021,"Egypt, Arab Rep.",15579.0160861551,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+EGY,2020,"Egypt, Arab Rep.",15231.865417764,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+EGY,2019,"Egypt, Arab Rep.",13363.732696323,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+EGY,2018,"Egypt, Arab Rep.",12329.2446781436,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLV,2024,El Salvador,13264.027090968,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLV,2023,El Salvador,12679.5768752061,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLV,2022,El Salvador,11875.9648066233,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLV,2021,El Salvador,10809.713399518,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLV,2020,El Salvador,9392.68913817943,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLV,2019,El Salvador,9756.7521864595,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLV,2018,El Salvador,9203.76216310773,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GNQ,2024,Equatorial Guinea,17566.7600284073,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GNQ,2023,Equatorial Guinea,17411.500234384,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GNQ,2022,Equatorial Guinea,18139.989326627,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GNQ,2021,Equatorial Guinea,16821.4486470413,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GNQ,2020,Equatorial Guinea,13677.110587517,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GNQ,2019,Equatorial Guinea,16451.3641478324,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GNQ,2018,Equatorial Guinea,18413.1294204577,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+EST,2024,Estonia,49968.7108278373,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+EST,2023,Estonia,48637.1802208795,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+EST,2022,Estonia,48217.5523106028,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+EST,2021,Estonia,44251.5374983455,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+EST,2020,Estonia,40672.1340402132,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+EST,2019,Estonia,40586.3784378888,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+EST,2018,Estonia,37120.9879761677,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SWZ,2024,Eswatini,11799.2028793201,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SWZ,2023,Eswatini,11299.8831236788,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SWZ,2022,Eswatini,10635.3924156113,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SWZ,2021,Eswatini,9990.43491951205,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SWZ,2020,Eswatini,9329.30453360939,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SWZ,2019,Eswatini,9248.32206714455,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SWZ,2018,Eswatini,8535.25593160454,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ETH,2024,Ethiopia,3287.53492158893,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ETH,2023,Ethiopia,3060.9050300376,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ETH,2022,Ethiopia,2844.92274535753,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ETH,2021,Ethiopia,2588.41310215884,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ETH,2020,Ethiopia,2406.78938478669,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ETH,2019,Ethiopia,2242.44488310464,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ETH,2018,Ethiopia,2095.3175782979,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FRO,2024,Faroe Islands,81908.7781785018,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FRO,2023,Faroe Islands,79694.929791758,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FRO,2022,Faroe Islands,75265.6585388594,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FRO,2021,Faroe Islands,68426.7943218898,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FRO,2020,Faroe Islands,61650.8512256806,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FRO,2019,Faroe Islands,62223.4430514345,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FRO,2018,Faroe Islands,58933.1314753804,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FJI,2024,Fiji,15450.2993265388,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FJI,2023,Fiji,14644.1773754361,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FJI,2022,Fiji,12982.2914519919,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FJI,2021,Fiji,10322.4279638854,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FJI,2020,Fiji,10716.2914367663,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FJI,2019,Fiji,12978.0990352704,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FJI,2018,Fiji,12984.2072700863,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FIN,2024,Finland,65378.3841859721,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FIN,2023,Finland,63414.9936878177,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FIN,2022,Finland,62133.1375219912,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FIN,2021,Finland,56790.3766177692,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FIN,2020,Finland,53296.5792798852,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FIN,2019,Finland,52276.1115723992,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FIN,2018,Finland,49248.6775395866,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FRA,2024,France,62556.91810454,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FRA,2023,France,60838.9416716424,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FRA,2022,France,57042.9449013772,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FRA,2021,France,52517.3354905855,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FRA,2020,France,49481.8044309655,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FRA,2019,France,51130.4723140578,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FRA,2018,France,46381.0590629457,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GAB,2024,Gabon,21510.1725307344,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GAB,2023,Gabon,20755.665381766,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GAB,2022,Gabon,19992.5570643468,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GAB,2021,Gabon,18523.5798032193,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GAB,2020,Gabon,14477.1308291744,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GAB,2019,Gabon,15949.6373739622,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GAB,2018,Gabon,15432.0430535353,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GMB,2024,"Gambia, The",3475.61245701341,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GMB,2023,"Gambia, The",3289.13283057107,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GMB,2022,"Gambia, The",3067.31040374628,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GMB,2021,"Gambia, The",2777.79620978324,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GMB,2020,"Gambia, The",2530.80414937307,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GMB,2019,"Gambia, The",2421.72318070615,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GMB,2018,"Gambia, The",2277.44236224191,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GEO,2024,Georgia,28285.0732802982,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GEO,2023,Georgia,25071.9677264107,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GEO,2022,Georgia,22461.3326414547,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GEO,2021,Georgia,18915.6534005263,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GEO,2020,Georgia,16791.2598654465,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GEO,2019,Georgia,16770.1333771469,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GEO,2018,Georgia,15021.9057577433,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DEU,2024,Germany,73551.9347696836,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DEU,2023,Germany,71684.0311875583,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DEU,2022,Germany,69048.9884036885,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DEU,2021,Germany,62530.7653199239,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DEU,2020,Germany,58685.872699771,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DEU,2019,Germany,59270.7276496985,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+DEU,2018,Germany,56273.0405627017,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GHA,2024,Ghana,8019.99702389611,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GHA,2023,Ghana,7556.41605453234,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GHA,2022,Ghana,7208.15798982723,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GHA,2021,Ghana,6607.50297378321,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GHA,2020,Ghana,6047.30111673554,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GHA,2019,Ghana,6002.55044678386,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GHA,2018,Ghana,5536.49795400218,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRC,2024,Greece,44327.2097808276,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRC,2023,Greece,42710.5058010314,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRC,2022,Greece,39612.4406377916,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRC,2021,Greece,33531.15511226,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRC,2020,Greece,29533.087740299,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRC,2019,Greece,31927.3792151369,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRC,2018,Greece,29792.0592519585,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRL,2023,Greenland,78840.5978395988,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRL,2022,Greenland,75720.4298219323,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRL,2021,Greenland,69302.0088788237,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRL,2020,Greenland,64999.4435683064,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRL,2019,Greenland,64264.0564607393,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRL,2018,Greenland,61806.8271308174,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRD,2024,Grenada,20177.8094927386,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRD,2023,Grenada,18970.740164653,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRD,2022,Grenada,17543.9815596266,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRD,2021,Grenada,15290.250903138,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRD,2020,Grenada,14361.1267154452,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRD,2019,Grenada,16446.1138871871,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GRD,2018,Grenada,15974.8591933124,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GTM,2024,Guatemala,14368.6605681815,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GTM,2023,Guatemala,13745.3631241794,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GTM,2022,Guatemala,13014.0153809826,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GTM,2021,Guatemala,11825.141273764,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GTM,2020,Guatemala,10947.3711292197,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GTM,2019,Guatemala,10755.8801029589,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GTM,2018,Guatemala,9946.80252245268,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GIN,2024,Guinea,4565.3007888456,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GIN,2023,Guinea,4333.74617312626,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GIN,2022,Guinea,4062.36136437922,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GIN,2021,Guinea,3738.8051255133,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GIN,2020,Guinea,3331.85663003801,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GIN,2019,Guinea,3105.82789015443,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GIN,2018,Guinea,2844.46427670549,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GNB,2024,Guinea-Bissau,3119.37157047437,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GNB,2023,Guinea-Bissau,2989.67235980477,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GNB,2022,Guinea-Bissau,2788.83773937954,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GNB,2021,Guinea-Bissau,2522.76764302521,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GNB,2020,Guinea-Bissau,2339.79326967821,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GNB,2019,Guinea-Bissau,2247.31303739185,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GNB,2018,Guinea-Bissau,2057.96969129146,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GUY,2024,Guyana,80155.03939277,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GUY,2023,Guyana,54729.0365156366,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GUY,2022,Guyana,39710.9695607531,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GUY,2021,Guyana,22865.9270968882,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GUY,2020,Guyana,16819.4228714695,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GUY,2019,Guyana,13240.9713761155,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GUY,2018,Guyana,12442.5087185876,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HTI,2024,Haiti,3193.67136419915,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HTI,2023,Haiti,3291.73817887066,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HTI,2022,Haiti,3275.40718126345,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HTI,2021,Haiti,3145.00681057269,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HTI,2020,Haiti,3103.18066312462,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HTI,2019,Haiti,3236.97492504607,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HTI,2018,Haiti,3196.97386370614,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HND,2024,Honduras,7486.01869616445,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HND,2023,Honduras,7178.33906781522,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HND,2022,Honduras,6805.49358294554,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HND,2021,Honduras,6202.98078812037,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HND,2020,Honduras,5384.69831983038,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HND,2019,Honduras,5784.93081057111,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HND,2018,Honduras,5633.3832384519,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HKG,2024,"Hong Kong SAR, China",75195.9865970615,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HKG,2023,"Hong Kong SAR, China",71512.3193551161,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HKG,2022,"Hong Kong SAR, China",68602.1257900473,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HKG,2021,"Hong Kong SAR, China",65884.9376260603,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HKG,2020,"Hong Kong SAR, China",58187.4764072535,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HKG,2019,"Hong Kong SAR, China",61221.4195400701,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HKG,2018,"Hong Kong SAR, China",60900.2752924537,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HUN,2024,Hungary,48552.4708092529,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HUN,2023,Hungary,46592.3856070073,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HUN,2022,Hungary,44365.9108128343,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HUN,2021,Hungary,38887.1909527154,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HUN,2020,Hungary,35583.5855675637,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HUN,2019,Hungary,35627.2315520858,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+HUN,2018,Hungary,32258.2577892511,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ISL,2024,Iceland,84256.8454573112,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ISL,2023,Iceland,81608.4479116436,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ISL,2022,Iceland,75332.8528345867,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ISL,2021,Iceland,61610.2132740715,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ISL,2020,Iceland,55796.7454667632,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ISL,2019,Iceland,60523.8179440825,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ISL,2018,Iceland,57197.7676247175,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IND,2024,India,11159.9856476091,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IND,2023,India,10323.4998734428,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IND,2022,India,9207.12743040145,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IND,2021,India,8050.01857452664,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IND,2020,India,6966.27542785911,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IND,2019,India,7150.92423452926,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IND,2018,India,6714.96639877754,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IDN,2024,Indonesia,16448.2755179559,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IDN,2023,Indonesia,15415.7079259527,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IDN,2022,Indonesia,14284.929293133,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IDN,2021,Indonesia,12757.0746440204,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IDN,2020,Indonesia,11729.3674458448,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IDN,2019,Indonesia,11986.4701508376,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IDN,2018,Indonesia,11372.0971987612,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRN,2024,"Iran, Islamic Rep.",19873.8860853805,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRN,2023,"Iran, Islamic Rep.",18917.0914723132,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRN,2022,"Iran, Islamic Rep.",17545.6246629429,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRN,2021,"Iran, Islamic Rep.",15884.4276775963,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRN,2020,"Iran, Islamic Rep.",15119.3058859964,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRN,2019,"Iran, Islamic Rep.",13927.5128074328,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRN,2018,"Iran, Islamic Rep.",15324.0674634637,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRQ,2024,Iraq,14464.3186928173,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRQ,2023,Iraq,14652.5212399212,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRQ,2022,Iraq,14391.1292349806,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRQ,2021,Iraq,12731.7535755129,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRQ,2020,Iraq,10573.9304750715,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRQ,2019,Iraq,12248.5917385964,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRQ,2018,Iraq,12034.4011214944,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRL,2024,Ireland,133437.470117019,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRL,2023,Ireland,129682.607150517,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRL,2022,Ireland,138522.517800204,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRL,2021,Ireland,116903.61243517,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRL,2020,Ireland,97799.9225748607,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRL,2019,Ireland,92022.59879983,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+IRL,2018,Ireland,86299.3420216976,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ISR,2024,Israel,57235.7763244136,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ISR,2023,Israel,55171.2318814321,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ISR,2022,Israel,53619.0680995095,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ISR,2021,Israel,46162.0822730247,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ISR,2020,Israel,40955.2856179152,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ISR,2019,Israel,41325.1783656756,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ISR,2018,Israel,40189.9909957069,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ITA,2024,Italy,62014.2675153689,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ITA,2023,Italy,60029.871712398,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ITA,2022,Italy,57260.8945372493,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ITA,2021,Italy,49825.3934111848,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ITA,2020,Italy,44435.6434393527,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ITA,2019,Italy,46661.9105159611,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ITA,2018,Italy,43386.7005868803,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JAM,2024,Jamaica,12890.2660051472,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JAM,2023,Jamaica,12650.9052955938,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JAM,2022,Jamaica,11887.770369423,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JAM,2021,Jamaica,10430.6909771759,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JAM,2020,Jamaica,9764.3525879784,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JAM,2019,Jamaica,10845.0113635875,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JAM,2018,Jamaica,10752.7406650924,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JPN,2024,Japan,52039.1716551611,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JPN,2023,Japan,50661.7663463109,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JPN,2022,Japan,47192.0500603372,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JPN,2021,Japan,44355.3487163354,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JPN,2020,Japan,42425.6946789651,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JPN,2019,Japan,42678.1511448354,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JPN,2018,Japan,42141.9352987758,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JOR,2024,Jordan,10821.4909765317,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JOR,2023,Jordan,10411.8416152967,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JOR,2022,Jordan,9927.2341002506,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JOR,2021,Jordan,9182.496161256,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JOR,2020,Jordan,9579.20081317696,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JOR,2019,Jordan,9429.07279552037,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+JOR,2018,Jordan,9042.39781871198,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KAZ,2024,Kazakhstan,40890.9317694408,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KAZ,2023,Kazakhstan,38515.1836009979,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KAZ,2022,Kazakhstan,35895.0839871667,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KAZ,2021,Kazakhstan,32945.8515725823,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KAZ,2020,Kazakhstan,29039.8229624509,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KAZ,2019,Kazakhstan,28689.2710838374,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KAZ,2018,Kazakhstan,25096.1285862615,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KEN,2024,Kenya,6644.13093243895,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KEN,2023,Kenya,6317.03904665091,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KEN,2022,Kenya,5883.22303961921,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KEN,2021,Kenya,5338.85243382781,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KEN,2020,Kenya,4792.57315847182,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KEN,2019,Kenya,4687.37782325306,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KEN,2018,Kenya,4411.56104120886,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KIR,2024,Kiribati,3702.32594703115,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KIR,2023,Kiribati,3485.55808311399,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KIR,2022,Kiribati,3329.34434464861,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KIR,2021,Kiribati,3020.49399935695,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KIR,2020,Kiribati,2710.90622817554,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KIR,2019,Kiribati,2762.93796874918,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KIR,2018,Kiribati,2671.76272781707,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KOR,2024,"Korea, Rep.",61051.3492502498,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KOR,2023,"Korea, Rep.",57429.8031076402,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KOR,2022,"Korea, Rep.",55509.3368761174,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KOR,2021,"Korea, Rep.",51718.2518656631,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KOR,2020,"Korea, Rep.",47881.4921344193,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KOR,2019,"Korea, Rep.",46511.2196957018,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KOR,2018,"Korea, Rep.",45511.0803506331,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+XKX,2024,Kosovo,17864.4160145118,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+XKX,2023,Kosovo,15804.4065754058,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+XKX,2022,Kosovo,13950.896732241,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+XKX,2021,Kosovo,12362.4210181213,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+XKX,2020,Kosovo,10532.5054692849,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+XKX,2019,Kosovo,10861.0531745974,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+XKX,2018,Kosovo,10018.7387080811,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KWT,2024,Kuwait,52443.5969223626,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KWT,2023,Kuwait,53025.4710858063,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KWT,2022,Kuwait,55043.0022635849,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KWT,2021,Kuwait,50651.9575337091,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KWT,2020,Kuwait,41461.7235642777,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KWT,2019,Kuwait,50703.0001343301,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KWT,2018,Kuwait,51370.7320595252,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KGZ,2024,Kyrgyz Republic,8012.45464442194,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KGZ,2023,Kyrgyz Republic,7298.08612561933,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KGZ,2022,Kyrgyz Republic,6577.51217728389,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KGZ,2021,Kyrgyz Republic,5736.47883415154,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KGZ,2020,Kyrgyz Republic,5178.5619670404,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KGZ,2019,Kyrgyz Republic,5304.22758314405,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KGZ,2018,Kyrgyz Republic,4777.94175395575,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LAO,2024,Lao PDR,9775.82817381023,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LAO,2023,Lao PDR,9291.78859001138,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LAO,2022,Lao PDR,8766.44062611094,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LAO,2021,Lao PDR,8080.43553249923,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LAO,2020,Lao PDR,7913.38660650276,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LAO,2019,Lao PDR,7743.21906534261,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LAO,2018,Lao PDR,7486.86452700433,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LVA,2024,Latvia,43394.2732822314,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LVA,2023,Latvia,42576.4060799457,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LVA,2022,Latvia,40558.7495841122,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LVA,2021,Latvia,36912.0130602161,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LVA,2020,Latvia,32741.4207691987,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LVA,2019,Latvia,32199.0960377091,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LVA,2018,Latvia,29817.8047263182,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBN,2023,Lebanon,12574.8329116403,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBN,2022,Lebanon,12292.8407305501,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBN,2021,Lebanon,11599.7755083765,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBN,2020,Lebanon,16259.7051312281,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBN,2019,Lebanon,21710.4648750807,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBN,2018,Lebanon,21985.4884702241,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LSO,2024,Lesotho,3001.16311951334,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LSO,2023,Lesotho,2880.96629615692,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LSO,2022,Lesotho,2761.31105002216,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LSO,2021,Lesotho,2544.78249551214,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LSO,2020,Lesotho,2559.09776077846,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LSO,2019,Lesotho,2568.34114362719,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LSO,2018,Lesotho,2632.28775223004,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBR,2024,Liberia,1871.04406164262,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBR,2023,Liberia,1794.53340863362,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBR,2022,Liberia,1691.57275721851,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBR,2021,Liberia,1539.20892304674,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBR,2020,Liberia,1659.52109145991,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBR,2019,Liberia,1899.52200972855,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBR,2018,Liberia,1799.72751397748,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBY,2024,Libya,14303.8087736988,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBY,2023,Libya,13847.0792190045,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBY,2022,Libya,12266.3896804716,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBY,2021,Libya,12641.5097714075,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBY,2020,Libya,10954.799045265,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBY,2019,Libya,16194.1082061146,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LBY,2018,Libya,18879.3151301984,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LTU,2024,Lithuania,55285.8991934304,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LTU,2023,Lithuania,52348.2468215268,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LTU,2022,Lithuania,50936.0049547442,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LTU,2021,Lithuania,45873.5273239486,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LTU,2020,Lithuania,41262.7276941725,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LTU,2019,Lithuania,40563.8304884555,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LTU,2018,Lithuania,36491.9385223689,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LUX,2024,Luxembourg,155941.288210791,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LUX,2023,Luxembourg,150508.218886888,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LUX,2022,Luxembourg,146919.145398494,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LUX,2021,Luxembourg,136772.443753292,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LUX,2020,Luxembourg,122066.739147202,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LUX,2019,Luxembourg,121371.73990307,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LUX,2018,Luxembourg,116638.414163882,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MAC,2024,"Macao SAR, China",126959.917138906,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MAC,2023,"Macao SAR, China",116328.540600134,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MAC,2022,"Macao SAR, China",64193.5294048618,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MAC,2021,"Macao SAR, China",73374.4486829589,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MAC,2020,"Macao SAR, China",57077.5325705099,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MAC,2019,"Macao SAR, China",126029.622371097,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MAC,2018,"Macao SAR, China",129457.998600118,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDG,2024,Madagascar,1883.5374311384,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDG,2023,Madagascar,1808.44779038579,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDG,2022,Madagascar,1716.97884873797,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDG,2021,Madagascar,1577.43246056529,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDG,2020,Madagascar,1490.32312837866,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDG,2019,Madagascar,1612.29772715626,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDG,2018,Madagascar,1546.59563549795,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MWI,2024,Malawi,1857.61756950305,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MWI,2023,Malawi,1830.46461287442,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MWI,2022,Malawi,1778.30582146001,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MWI,2021,Malawi,1687.59358179651,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MWI,2020,Malawi,1513.45990803344,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MWI,2019,Malawi,1450.01008064784,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MWI,2018,Malawi,1363.79445595088,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MYS,2024,Malaysia,38779.2830442253,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MYS,2023,Malaysia,36466.8914938333,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MYS,2022,Malaysia,34419.8684975666,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MYS,2021,Malaysia,29822.8491831618,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MYS,2020,Malaysia,27474.7361378236,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MYS,2019,Malaysia,28933.928297233,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MYS,2018,Malaysia,27793.5674222948,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDV,2024,Maldives,26182.7831570917,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDV,2023,Maldives,24786.2032123451,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDV,2022,Maldives,22880.5123151419,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDV,2021,Maldives,19052.6224904311,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDV,2020,Maldives,13425.3674459601,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDV,2019,Maldives,23077.2112236652,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDV,2018,Maldives,21899.4292993843,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MLI,2024,Mali,3314.77332231959,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MLI,2023,Mali,3174.62960276396,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MLI,2022,Mali,3014.4210732688,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MLI,2021,Mali,2796.22793795433,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MLI,2020,Mali,2723.70094784441,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MLI,2019,Mali,2819.86582297259,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MLI,2018,Mali,2684.41122026575,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MLT,2024,Malta,69863.7461313457,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MLT,2023,Malta,67057.2184329891,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MLT,2022,Malta,60588.8890591794,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MLT,2021,Malta,56852.3218512267,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MLT,2020,Malta,49971.8784010216,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MLT,2019,Malta,51392.8152819605,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MLT,2018,Malta,48178.2920560941,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MHL,2024,Marshall Islands,8194.63854758403,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MHL,2023,Marshall Islands,7548.73253747944,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MHL,2022,Marshall Islands,7431.42757895496,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MHL,2021,Marshall Islands,6767.95785510528,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MHL,2020,Marshall Islands,6136.97119702131,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MHL,2019,Marshall Islands,6045.06240789858,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MHL,2018,Marshall Islands,5232.2052487185,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MRT,2024,Mauritania,7368.75275290214,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MRT,2023,Mauritania,6965.90953574715,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MRT,2022,Mauritania,6484.82792132631,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MRT,2021,Mauritania,5836.56580821897,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MRT,2020,Mauritania,5740.73959690129,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MRT,2019,Mauritania,5610.13236713892,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MRT,2018,Mauritania,5429.23223059784,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MUS,2024,Mauritius,31839.7597535524,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MUS,2023,Mauritius,29560.7137230079,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MUS,2022,Mauritius,26874.4899927593,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MUS,2021,Mauritius,23010.2013826905,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MUS,2020,Mauritius,21621.5971225158,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MUS,2019,Mauritius,24374.7818286566,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MUS,2018,Mauritius,23415.5237589118,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MEX,2024,Mexico,26185.3564713253,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MEX,2023,Mexico,25243.1644887582,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MEX,2022,Mexico,23135.4931601276,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MEX,2021,Mexico,20782.5877417545,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MEX,2020,Mexico,19354.1248706244,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MEX,2019,Mexico,20964.2774847072,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MEX,2018,Mexico,20921.4775277572,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FSM,2024,"Micronesia, Fed. Sts.",4346.84249671875,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FSM,2023,"Micronesia, Fed. Sts.",4233.74492558769,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FSM,2022,"Micronesia, Fed. Sts.",4086.9798010394,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FSM,2021,"Micronesia, Fed. Sts.",3946.41608109166,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FSM,2020,"Micronesia, Fed. Sts.",3683.98981483674,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FSM,2019,"Micronesia, Fed. Sts.",3718.79208432919,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+FSM,2018,"Micronesia, Fed. Sts.",3526.87287847214,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDA,2024,Moldova,18614.9880691203,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDA,2023,Moldova,17746.9405538684,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDA,2022,Moldova,16452.9621192,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDA,2021,Moldova,15682.0703284653,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDA,2020,Moldova,13527.4413130967,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDA,2019,Moldova,13413.2232935126,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MDA,2018,Moldova,11868.1955463223,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MNG,2024,Mongolia,19144.7261368498,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MNG,2023,Mongolia,18004.8512058355,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MNG,2022,Mongolia,16401.9894751531,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MNG,2021,Mongolia,14792.2509086422,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MNG,2020,Mongolia,13693.179806943,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MNG,2019,Mongolia,13604.978943194,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MNG,2018,Mongolia,12317.4824277695,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MNE,2024,Montenegro,34062.7577672706,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MNE,2023,Montenegro,31862.7715778041,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MNE,2022,Montenegro,28049.6156106324,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MNE,2021,Montenegro,23690.0773513056,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MNE,2020,Montenegro,20624.7838079303,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MNE,2019,Montenegro,23705.5248672453,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MNE,2018,Montenegro,21083.5882908272,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MAR,2024,Morocco,10415.1240234375,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MAR,2023,Morocco,9894.650390625,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MAR,2022,Morocco,9310.0322265625,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MAR,2021,Morocco,8623.265625,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MAR,2020,Morocco,7704.84912109375,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MAR,2019,Morocco,8046.22900390625,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MAR,2018,Morocco,7801.0986328125,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MOZ,2024,Mozambique,1705.37919520416,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MOZ,2023,Mozambique,1678.39118243681,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MOZ,2022,Mozambique,1581.9441944262,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MOZ,2021,Mozambique,1457.23540930922,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MOZ,2020,Mozambique,1411.62040229911,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MOZ,2019,Mozambique,1388.79707034446,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MOZ,2018,Mozambique,1325.58695568953,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MMR,2024,Myanmar,5997.46516323715,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MMR,2023,Myanmar,5953.35735165913,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MMR,2022,Myanmar,5731.93787872459,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MMR,2021,Myanmar,5178.44718217164,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MMR,2020,Myanmar,5740.99045843992,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MMR,2019,Myanmar,6101.37245765709,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MMR,2018,Myanmar,5581.2769545815,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NAM,2024,Namibia,11686.6020661881,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NAM,2023,Namibia,11251.2370313819,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NAM,2022,Namibia,10662.7017064119,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NAM,2021,Namibia,9709.09930646771,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NAM,2020,Namibia,9354.13136713077,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NAM,2019,Namibia,9609.48555672874,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NAM,2018,Namibia,9853.73533646074,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NRU,2024,Nauru,14173.0081043154,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NRU,2023,Nauru,13731.5704745016,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NRU,2022,Nauru,13245.1094562619,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NRU,2021,Nauru,12112.2358384228,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NRU,2020,Nauru,10810.9461002401,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NRU,2019,Nauru,10554.5218534787,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NRU,2018,Nauru,9657.26073566654,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NPL,2024,Nepal,5736.62134332704,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NPL,2023,Nepal,5395.20820077513,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NPL,2022,Nepal,5102.99231132947,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NPL,2021,Nepal,4546.22970006289,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NPL,2020,Nepal,4235.57462326905,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NPL,2019,Nepal,4260.67373190851,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NPL,2018,Nepal,3956.12461094443,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NLD,2024,Netherlands,86173.6290841738,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NLD,2023,Netherlands,81728.6904629268,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NLD,2022,Netherlands,78630.3599072098,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NLD,2021,Netherlands,68573.5648786446,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NLD,2020,Netherlands,62596.6302027524,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NLD,2019,Netherlands,62345.2538465433,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NLD,2018,Netherlands,58819.2609142584,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NZL,2024,New Zealand,55551.143658637,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NZL,2023,New Zealand,54697.382252318,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NZL,2022,New Zealand,54033.9130125651,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NZL,2021,New Zealand,48248.7176729892,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NZL,2020,New Zealand,45513.3123768343,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NZL,2019,New Zealand,45278.4587226734,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NZL,2018,New Zealand,42527.2784103301,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NIC,2024,Nicaragua,8708.79983051626,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NIC,2023,Nicaragua,8319.97944140996,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NIC,2022,Nicaragua,7796.69362034144,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NIC,2021,Nicaragua,7119.16923360042,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NIC,2020,Nicaragua,6274.09456741388,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NIC,2019,Nicaragua,5981.10876431466,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NIC,2018,Nicaragua,5935.16693631386,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NER,2024,Niger,2049.93305251019,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NER,2023,Niger,1875.15306770628,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NER,2022,Niger,1839.96909675903,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NER,2021,Niger,1585.59922021188,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NER,2020,Niger,1496.83350023022,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NER,2019,Niger,1419.16805070193,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NER,2018,Niger,1275.99643935327,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NGA,2024,Nigeria,9086.87550609627,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NGA,2023,Nigeria,8705.43426693539,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NGA,2022,Nigeria,8304.9581050353,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NGA,2021,Nigeria,7588.47885596359,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NGA,2020,Nigeria,7414.7749554048,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NGA,2019,Nigeria,7551.39380367192,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NGA,2018,Nigeria,7158.17107571781,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MKD,2024,North Macedonia,26995.4292563497,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MKD,2023,North Macedonia,25354.103505762,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MKD,2022,North Macedonia,24212.2818885331,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MKD,2021,North Macedonia,22144.2842571431,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MKD,2020,North Macedonia,19962.1482468276,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MKD,2019,North Macedonia,20222.5954834227,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+MKD,2018,North Macedonia,18460.4624451227,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NOR,2024,Norway,102037.526800237,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NOR,2023,Norway,103637.516843678,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NOR,2022,Norway,125489.548935602,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NOR,2021,Norway,88984.1386736515,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NOR,2020,Norway,67110.6045705502,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NOR,2019,Norway,70939.605518036,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+NOR,2018,Norway,70253.8463693386,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+OMN,2024,Oman,41740.1658530012,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+OMN,2023,Oman,41945.0255640883,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+OMN,2022,Oman,42616.3348955868,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+OMN,2021,Oman,38719.4587682049,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+OMN,2020,Oman,35163.3281781415,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+OMN,2019,Oman,37250.6110788359,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+OMN,2018,Oman,37780.3308327271,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PAK,2024,Pakistan,6252.11543199559,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PAK,2023,Pakistan,6013.989636386,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PAK,2022,Pakistan,5920.27430654107,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PAK,2021,Pakistan,5367.27364714762,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PAK,2020,Pakistan,5048.0213062963,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PAK,2019,Pakistan,5037.53401559745,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PAK,2018,Pakistan,4979.3734961655,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PLW,2023,Palau,18230.2698627414,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PLW,2022,Palau,17184.5415251955,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PLW,2021,Palau,15780.5501158866,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PLW,2020,Palau,17389.7246153166,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PLW,2019,Palau,18421.9034582421,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PLW,2018,Palau,18172.3045821299,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PAN,2024,Panama,41369.422541499,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PAN,2023,Panama,39813.3857939972,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PAN,2022,Panama,36333.1269184359,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PAN,2021,Panama,30932.7627809145,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PAN,2020,Panama,27017.0033790906,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PAN,2019,Panama,33239.7332276186,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PAN,2018,Panama,32463.5403500842,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PNG,2024,Papua New Guinea,4874.6899553589,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PNG,2023,Papua New Guinea,4667.83567092991,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PNG,2022,Papua New Guinea,4419.61926962803,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PNG,2021,Papua New Guinea,3976.90380116956,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PNG,2020,Papua New Guinea,3899.57719236851,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PNG,2019,Papua New Guinea,4059.82860207487,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PNG,2018,Papua New Guinea,3909.91572975538,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRY,2024,Paraguay,18523.6810153,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRY,2023,Paraguay,17564.4912369374,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRY,2022,Paraguay,16347.0434974776,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRY,2021,Paraguay,15406.1670646576,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRY,2020,Paraguay,14308.8787738305,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRY,2019,Paraguay,14149.598522753,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRY,2018,Paraguay,14139.0931267568,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PER,2024,Peru,17802.4182498972,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PER,2023,Peru,17011.2278028825,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PER,2022,Peru,16669.1561486769,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PER,2021,Peru,15280.5512106486,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PER,2020,Peru,12563.3038060893,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PER,2019,Peru,13563.5372933551,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PER,2018,Peru,13078.2323503405,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PHL,2024,Philippines,11794.1375488492,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PHL,2023,Philippines,10985.8292627505,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PHL,2022,Philippines,10131.346369794,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PHL,2021,Philippines,8857.78995115514,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PHL,2020,Philippines,8238.36802037457,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PHL,2019,Philippines,8924.10116402887,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PHL,2018,Philippines,8357.74357934219,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+POL,2024,Poland,51262.5105756884,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+POL,2023,Poland,48473.0940286419,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+POL,2022,Poland,46777.5524519162,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+POL,2021,Poland,41059.5847829682,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+POL,2020,Poland,37089.3004256812,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+POL,2019,Poland,35882.3655065553,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+POL,2018,Poland,32345.1066076225,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRT,2024,Portugal,51679.8883807527,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRT,2023,Portugal,49352.8388613032,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRT,2022,Portugal,45250.0148759865,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRT,2021,Portugal,38657.6677223425,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRT,2020,Portugal,35966.712796561,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRT,2019,Portugal,37865.5603564295,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRT,2018,Portugal,34896.7993382974,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRI,2024,Puerto Rico (US),50247.8492461676,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRI,2023,Puerto Rico (US),47543.3937761528,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRI,2022,Puerto Rico (US),45327.510192422,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRI,2021,Puerto Rico (US),40559.474811812,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRI,2020,Puerto Rico (US),36858.6085217908,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRI,2019,Puerto Rico (US),36217.7204390287,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PRI,2018,Puerto Rico (US),33706.5915157959,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+QAT,2024,Qatar,126046.354855612,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+QAT,2023,Qatar,129367.869670927,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+QAT,2022,Qatar,122920.54329029,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+QAT,2021,Qatar,116832.656941972,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+QAT,2020,Qatar,82149.4569875883,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+QAT,2019,Qatar,107502.567853627,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+QAT,2018,Qatar,110032.839882747,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ROU,2024,Romania,49076.5399383138,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ROU,2023,Romania,45981.6027785222,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ROU,2022,Romania,41979.2586767087,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ROU,2021,Romania,37534.1559176911,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ROU,2020,Romania,34193.8374521868,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ROU,2019,Romania,33425.326172666,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ROU,2018,Romania,29382.7567479407,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+RUS,2024,Russian Federation,47404.96484375,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+RUS,2023,Russian Federation,44268.73046875,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+RUS,2022,Russian Federation,40938.98828125,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+RUS,2021,Russian Federation,38638.4296875,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+RUS,2020,Russian Federation,31490.8046875,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+RUS,2019,Russian Federation,30963.853515625,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+RUS,2018,Russian Federation,28628.5625,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+RWA,2024,Rwanda,3710.86040434596,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+RWA,2023,Rwanda,3399.45174603143,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+RWA,2022,Rwanda,3098.67700634994,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+RWA,2021,Rwanda,2733.43566762447,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+RWA,2020,Rwanda,2284.89889795328,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+RWA,2019,Rwanda,2336.03967302732,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+RWA,2018,Rwanda,2125.49522712839,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+WSM,2024,Samoa,8736.81606772538,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+WSM,2023,Samoa,8194.80725640734,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+WSM,2022,Samoa,6909.17129928336,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+WSM,2021,Samoa,6350.11428353253,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+WSM,2020,Samoa,6450.75201183405,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+WSM,2019,Samoa,6638.18454759102,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+WSM,2018,Samoa,6318.26977293454,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SMR,2023,San Marino,78745.4313299335,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SMR,2022,San Marino,75941.4899090162,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SMR,2021,San Marino,64745.1316780701,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SMR,2020,San Marino,55206.5812324405,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SMR,2019,San Marino,57444.1193582109,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SMR,2018,San Marino,54460.9058332865,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+STP,2024,Sao Tome and Principe,6241.85614464638,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+STP,2023,Sao Tome and Principe,6149.98146081932,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+STP,2022,Sao Tome and Principe,6033.6811722183,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+STP,2021,Sao Tome and Principe,5732.69456061536,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+STP,2020,Sao Tome and Principe,5144.53560286014,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+STP,2019,Sao Tome and Principe,4655.48496449805,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+STP,2018,Sao Tome and Principe,3941.03280858409,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SAU,2024,Saudi Arabia,71375.3727890285,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SAU,2023,Saudi Arabia,71564.800028565,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SAU,2022,Saudi Arabia,71968.074955888,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SAU,2021,Saudi Arabia,62690.4966645929,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SAU,2020,Saudi Arabia,47518.4877485153,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SAU,2019,Saudi Arabia,59560.2537904546,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SAU,2018,Saudi Arabia,59377.8025368768,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SEN,2024,Senegal,5070.6486207418,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SEN,2023,Senegal,4777.61451861578,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SEN,2022,Senegal,4530.22059496055,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SEN,2021,Senegal,4173.67741399619,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SEN,2020,Senegal,3752.91947490817,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SEN,2019,Senegal,3647.95137357242,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SEN,2018,Senegal,3380.21596529445,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SRB,2024,Serbia,32832.1763221005,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SRB,2023,Serbia,29776.8951752159,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SRB,2022,Serbia,26142.8279237665,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SRB,2021,Serbia,23406.4036315634,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SRB,2020,Serbia,21013.0512590365,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SRB,2019,Serbia,20587.382536041,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SRB,2018,Serbia,18469.022619005,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SYC,2024,Seychelles,33238.5800343754,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SYC,2023,Seychelles,31780.7838341965,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SYC,2022,Seychelles,29972.8758315937,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SYC,2021,Seychelles,29979.8272686091,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SYC,2020,Seychelles,31055.9442055039,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SYC,2019,Seychelles,34219.061370118,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SYC,2018,Seychelles,32091.2988657346,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLE,2024,Sierra Leone,3522.30588009119,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLE,2023,Sierra Leone,3368.31727188063,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLE,2022,Sierra Leone,3143.96451050507,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLE,2021,Sierra Leone,2849.38865926436,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLE,2020,Sierra Leone,2719.07286815807,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLE,2019,Sierra Leone,2704.05835866756,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLE,2018,Sierra Leone,2640.47566787646,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SGP,2024,Singapore,150689.301625826,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SGP,2023,Singapore,143786.136293013,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SGP,2022,Singapore,143094.949896959,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SGP,2021,Singapore,132617.354020876,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SGP,2020,Singapore,101518.31798444,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SGP,2019,Singapore,105335.291974111,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SGP,2018,Singapore,103963.36329269,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SXM,2024,Sint Maarten (Dutch part),53768.6573945662,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SXM,2023,Sint Maarten (Dutch part),51686.6520818084,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SXM,2022,Sint Maarten (Dutch part),48760.6820580997,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SXM,2021,Sint Maarten (Dutch part),40507.0672411717,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SXM,2020,Sint Maarten (Dutch part),38901.4867603712,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SXM,2019,Sint Maarten (Dutch part),45715.6970519376,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SXM,2018,Sint Maarten (Dutch part),41653.2008964784,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SVK,2024,Slovak Republic,48132.356430543,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SVK,2023,Slovak Republic,45973.9406902991,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SVK,2022,Slovak Republic,41562.1497793913,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SVK,2021,Slovak Republic,38346.0935768177,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SVK,2020,Slovak Republic,35327.9439165588,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SVK,2019,Slovak Republic,33985.6758419661,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SVK,2018,Slovak Republic,31509.8187291635,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SVN,2024,Slovenia,57186.3713538174,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SVN,2023,Slovenia,56064.0974596742,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SVN,2022,Slovenia,52347.109726538,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SVN,2021,Slovenia,45914.0572392406,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SVN,2020,Slovenia,41767.2579899957,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SVN,2019,Slovenia,42373.2506369279,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SVN,2018,Slovenia,38620.2045436305,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLB,2024,Solomon Islands,2674.89311339831,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLB,2023,Solomon Islands,2596.56364252803,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLB,2022,Solomon Islands,2496.22734577831,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLB,2021,Solomon Islands,2449.87009821452,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLB,2020,Solomon Islands,2405.31509364704,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLB,2019,Solomon Islands,2512.01387973448,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SLB,2018,Solomon Islands,2493.97675737551,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SOM,2024,"Somalia, Fed. Rep.",1601.96466602339,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SOM,2023,"Somalia, Fed. Rep.",1555.61016798776,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SOM,2022,"Somalia, Fed. Rep.",1486.47247333834,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SOM,2021,"Somalia, Fed. Rep.",1392.31782053371,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SOM,2020,"Somalia, Fed. Rep.",1454.26711848855,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SOM,2019,"Somalia, Fed. Rep.",1548.27250940098,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SOM,2018,"Somalia, Fed. Rep.",1551.52773977473,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZAF,2024,South Africa,15456.1989933658,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZAF,2023,South Africa,15199.7329823776,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZAF,2022,South Africa,14749.0478045301,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZAF,2021,South Africa,13681.9548144813,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZAF,2020,South Africa,12671.0862436851,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZAF,2019,South Africa,13361.4851289112,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZAF,2018,South Africa,13347.3634826038,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ESP,2024,Spain,57965.2948138837,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ESP,2023,Spain,55682.2402603093,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ESP,2022,Spain,51398.9310403407,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ESP,2021,Spain,44251.6658222621,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ESP,2020,Spain,39327.8479269599,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ESP,2019,Spain,44042.757577336,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ESP,2018,Spain,41015.1565755187,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LKA,2024,Sri Lanka,15632.5924849848,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LKA,2023,Sri Lanka,14455.6544414734,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LKA,2022,Sri Lanka,14193.6546217446,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LKA,2021,Sri Lanka,14316.1352225683,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LKA,2020,Sri Lanka,12940.9043295749,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LKA,2019,Sri Lanka,14112.952504221,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LKA,2018,Sri Lanka,14178.0225361887,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KNA,2024,St. Kitts and Nevis,34846.6035342828,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KNA,2023,St. Kitts and Nevis,33979.6303615734,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KNA,2022,St. Kitts and Nevis,31870.8813784505,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KNA,2021,St. Kitts and Nevis,26896.6177065978,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KNA,2020,St. Kitts and Nevis,27326.036057423,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KNA,2019,St. Kitts and Nevis,32482.094417215,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+KNA,2018,St. Kitts and Nevis,30794.8986482634,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LCA,2024,St. Lucia,27567.3280779839,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LCA,2023,St. Lucia,25974.5092925263,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LCA,2022,St. Lucia,24599.3733001067,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LCA,2021,St. Lucia,19101.1652956675,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LCA,2020,St. Lucia,14912.159584235,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LCA,2019,St. Lucia,18709.9110670935,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+LCA,2018,St. Lucia,17433.3010328737,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VCT,2024,St. Vincent and the Grenadines,21272.0800673662,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VCT,2023,St. Vincent and the Grenadines,19819.869034679,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VCT,2022,St. Vincent and the Grenadines,18035.273292812,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VCT,2021,St. Vincent and the Grenadines,16200.8994597845,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VCT,2020,St. Vincent and the Grenadines,15336.5987771764,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VCT,2019,St. Vincent and the Grenadines,15339.5560281064,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VCT,2018,St. Vincent and the Grenadines,14689.8500710886,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SDN,2024,Sudan,2115.81616210938,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SDN,2023,Sudan,2420.65795898438,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SDN,2022,Sudan,3355.37817382813,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SDN,2021,Sudan,3248.9755859375,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SDN,2020,Sudan,3348.57836914063,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SDN,2019,Sudan,3914.2255859375,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SDN,2018,Sudan,4199.25048828125,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SUR,2024,Suriname,21800.5265989822,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SUR,2023,Suriname,21110.1980204563,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SUR,2022,Suriname,20078.836554595,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SUR,2021,Suriname,18458.234999681,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SUR,2020,Suriname,16946.8942361914,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SUR,2019,Suriname,19771.5473885151,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SUR,2018,Suriname,17855.4787141437,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SWE,2024,Sweden,71844.9129880579,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SWE,2023,Sweden,69226.3272756663,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SWE,2022,Sweden,67075.6762724717,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SWE,2021,Sweden,62731.700616293,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SWE,2020,Sweden,57489.2657196219,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SWE,2019,Sweden,57046.4463076951,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SWE,2018,Sweden,53122.438677218,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHE,2024,Switzerland,96497.6947971323,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHE,2023,Switzerland,95141.5960943632,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHE,2022,Switzerland,94421.4576550424,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHE,2021,Switzerland,81001.4111206118,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHE,2020,Switzerland,72997.8239503282,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHE,2019,Switzerland,73732.2353322093,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+CHE,2018,Switzerland,70688.8187491194,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SYR,2022,Syrian Arab Republic,4772.4616766716,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SYR,2021,Syrian Arab Republic,4592.83860100874,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SYR,2020,Syrian Arab Republic,3737.65751831376,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SYR,2019,Syrian Arab Republic,3502.17511543737,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+SYR,2018,Syrian Arab Republic,3455.89227013449,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TJK,2024,Tajikistan,5405.98011619139,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TJK,2023,Tajikistan,4963.58295264504,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TJK,2022,Tajikistan,4514.17512398164,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TJK,2021,Tajikistan,3985.91247611219,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TJK,2020,Tajikistan,3653.95976759112,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TJK,2019,Tajikistan,3459.97365083434,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TJK,2018,Tajikistan,3069.10385079592,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TZA,2024,Tanzania,4220.79638671875,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TZA,2023,Tanzania,4018.5166015625,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TZA,2022,Tanzania,3799.8623046875,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TZA,2021,Tanzania,3493.0830078125,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TZA,2020,Tanzania,3290.60986328125,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TZA,2019,Tanzania,2981.87451171875,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TZA,2018,Tanzania,2727.88012695313,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+THA,2024,Thailand,24712.0658575135,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+THA,2023,Thailand,23519.2120979823,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+THA,2022,Thailand,22243.0747727026,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+THA,2021,Thailand,20242.7700035656,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+THA,2020,Thailand,19163.7415152349,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+THA,2019,Thailand,19963.3918407099,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+THA,2018,Thailand,18876.2208766741,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TLS,2024,Timor-Leste,4422.77882172399,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TLS,2023,Timor-Leste,4806.82181559299,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TLS,2022,Timor-Leste,5729.81171382517,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TLS,2021,Timor-Leste,6825.04588630745,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TLS,2020,Timor-Leste,6132.08299806495,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TLS,2019,Timor-Leste,4556.61425715784,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TLS,2018,Timor-Leste,3561.2877375981,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TGO,2024,Togo,3365.45809007306,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TGO,2023,Togo,3154.43329348299,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TGO,2022,Togo,2935.01367320787,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TGO,2021,Togo,2638.81095267963,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TGO,2020,Togo,2384.06645451827,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TGO,2019,Togo,2214.69915550677,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TGO,2018,Togo,2067.0664295966,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TON,2023,Tonga,7802.66986206107,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TON,2022,Tonga,7296.17082139288,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TON,2021,Tonga,6929.17669288438,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TON,2020,Tonga,6675.6030498711,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TON,2019,Tonga,6473.32058675406,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TON,2018,Tonga,6392.60067749647,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TTO,2024,Trinidad and Tobago,36328.5130065685,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TTO,2023,Trinidad and Tobago,34623.3691500959,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TTO,2022,Trinidad and Tobago,32978.8585763159,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TTO,2021,Trinidad and Tobago,30482.1201798631,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TTO,2020,Trinidad and Tobago,26731.3556410029,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TTO,2019,Trinidad and Tobago,29315.8054064667,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TTO,2018,Trinidad and Tobago,28673.2413951653,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUN,2024,Tunisia,14521.0080937638,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUN,2023,Tunisia,14040.5961148142,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUN,2022,Tunisia,13618.5389918651,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUN,2021,Tunisia,12444.3264026887,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUN,2020,Tunisia,11918.066205483,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUN,2019,Tunisia,12494.7905733455,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUN,2018,Tunisia,11841.4061980603,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUR,2024,Turkiye,45639.0192735944,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUR,2023,Turkiye,42786.2004948664,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUR,2022,Turkiye,39564.1103267333,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUR,2021,Turkiye,32105.5474400506,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUR,2020,Turkiye,29209.3308866883,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUR,2019,Turkiye,29016.4555653445,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUR,2018,Turkiye,28640.3401839802,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TKM,2024,Turkmenistan,21213.0862501953,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TKM,2023,Turkmenistan,19828.9248461199,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TKM,2022,Turkmenistan,18340.1112805299,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TKM,2021,Turkmenistan,16434.1399060353,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TKM,2020,Turkmenistan,15090.9394971778,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TKM,2019,Turkmenistan,15477.7237643978,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TKM,2018,Turkmenistan,14368.4621432532,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TCA,2024,Turks and Caicos Islands,37954.3876543471,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TCA,2023,Turks and Caicos Islands,35336.7403511449,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TCA,2022,Turks and Caicos Islands,30220.8240138134,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TCA,2021,Turks and Caicos Islands,25056.4880515569,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TCA,2020,Turks and Caicos Islands,19530.0254075613,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TCA,2019,Turks and Caicos Islands,31173.3797811743,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TCA,2018,Turks and Caicos Islands,31151.4748574464,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUV,2023,Tuvalu,6151.01047041608,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUV,2022,Tuvalu,5661.14384766376,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUV,2021,Tuvalu,5352.97862537897,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUV,2020,Tuvalu,5122.19827984698,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUV,2019,Tuvalu,5209.70002131965,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+TUV,2018,Tuvalu,4431.73186603207,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UGA,2024,Uganda,3273.2671741364,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UGA,2023,Uganda,3097.63702430619,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UGA,2022,Uganda,2919.17775407108,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UGA,2021,Uganda,2684.92035939744,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UGA,2020,Uganda,2532.21950102069,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UGA,2019,Uganda,2441.37445233821,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UGA,2018,Uganda,2312.05752813495,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UKR,2024,Ukraine,18550.462890625,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UKR,2023,Ukraine,17665.34375,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UKR,2022,Ukraine,14770.0712890625,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UKR,2021,Ukraine,17846.408203125,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UKR,2020,Ukraine,15541.02734375,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UKR,2019,Ukraine,14217.486328125,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UKR,2018,Ukraine,12554.8486328125,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARE,2024,United Arab Emirates,79228.738801276,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARE,2023,United Arab Emirates,77955.2951760879,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARE,2022,United Arab Emirates,75071.6586300351,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARE,2021,United Arab Emirates,68580.1485423483,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARE,2020,United Arab Emirates,66790.6822664754,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARE,2019,United Arab Emirates,79816.3010904406,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ARE,2018,United Arab Emirates,77446.2269929923,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GBR,2024,United Kingdom,62009.4907765366,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GBR,2023,United Kingdom,59911.3467663209,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GBR,2022,United Kingdom,59021.5721805914,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GBR,2021,United Kingdom,51004.4271714238,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GBR,2020,United Kingdom,48230.0477027461,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GBR,2019,United Kingdom,50064.9605582187,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+GBR,2018,United Kingdom,47212.2045190522,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+USA,2024,United States,85809.9003846359,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+USA,2023,United States,82304.6204272866,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+USA,2022,United States,77860.9112908848,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+USA,2021,United States,71307.4017277218,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+USA,2020,United States,64401.5074354209,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+USA,2019,United States,65227.9565911035,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+USA,2018,United States,62875.6661382728,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+URY,2024,Uruguay,36417.874162496,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+URY,2023,Uruguay,34470.9322201143,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+URY,2022,Uruguay,33000.918699951,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+URY,2021,Uruguay,29431.8850087471,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+URY,2020,Uruguay,25725.258216942,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+URY,2019,Uruguay,25782.6890198871,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+URY,2018,Uruguay,24386.4948473952,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UZB,2024,Uzbekistan,11878.5528706848,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UZB,2023,Uzbekistan,11106.9715934767,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UZB,2022,Uzbekistan,10292.5309427485,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UZB,2021,Uzbekistan,9247.64382703929,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UZB,2020,Uzbekistan,8451.72505108114,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UZB,2019,Uzbekistan,8544.08026729718,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+UZB,2018,Uzbekistan,8128.75520303523,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VUT,2024,Vanuatu,3605.60736691735,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VUT,2023,Vanuatu,3567.81882030223,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VUT,2022,Vanuatu,3452.60742693882,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VUT,2021,Vanuatu,3135.83664945678,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VUT,2020,Vanuatu,3117.64425292038,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VUT,2019,Vanuatu,3314.66721352425,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VUT,2018,Vanuatu,3232.94825800672,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VNM,2024,Viet Nam,16385.5065565458,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VNM,2023,Viet Nam,15033.8768594355,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VNM,2022,Viet Nam,13905.1536875216,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VNM,2021,Viet Nam,12048.9019935536,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VNM,2020,Viet Nam,11609.3177276423,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VNM,2019,Viet Nam,11029.2732083963,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VNM,2018,Viet Nam,10009.9714756006,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VIR,2022,Virgin Islands (U.S.),49793.0324395716,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VIR,2021,Virgin Islands (U.S.),46893.5496988741,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VIR,2020,Virgin Islands (U.S.),41749.0800364553,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VIR,2019,Virgin Islands (U.S.),40021.7775798024,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+VIR,2018,Virgin Islands (U.S.),36746.4868901838,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PSE,2024,West Bank and Gaza,4371.11135857265,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PSE,2023,West Bank and Gaza,5950.02006184393,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PSE,2022,West Bank and Gaza,6163.24897837613,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PSE,2021,West Bank and Gaza,5663.12160743584,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PSE,2020,West Bank and Gaza,5956.28620064819,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PSE,2019,West Bank and Gaza,6508.44835080318,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+PSE,2018,West Bank and Gaza,6215.81647317396,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZMB,2024,Zambia,4214.89277804799,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZMB,2023,Zambia,4076.99508686641,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZMB,2022,Zambia,3840.72450511139,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZMB,2021,Zambia,3503.03491418372,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZMB,2020,Zambia,3157.30009311643,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZMB,2019,Zambia,3361.39750299612,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZMB,2018,Zambia,3442.27307196302,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZWE,2024,Zimbabwe,5928.0806252756,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZWE,2023,Zimbabwe,5791.19212877988,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZWE,2022,Zimbabwe,5395.8562980064,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZWE,2021,Zimbabwe,4827.0886936086,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZWE,2020,Zimbabwe,4178.58557943828,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZWE,2019,Zimbabwe,4165.55567835558,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp
+ZWE,2018,Zimbabwe,3992.890718675,NY.GDP.PCAP.PP.CD,gdp_per_capita_ppp

@@ -1,0 +1,52 @@
+{
+  "DSD_FDIRRI_SCORES_at_DF_FDIRRI_SCORES_2026-05-04.csv": {
+    "sha256": "6942e83ae97e90b514f7a727e91a84be695b8120d06c6ed5342908e64469705d",
+    "size_kb": 680.8,
+    "mtime": "2026-05-04 17:46:47"
+  },
+  "DSD_GOV_REG_at_DF_GOV_REG_2025_2026-05-04.csv": {
+    "sha256": "5ef56e5b64341207b4fec5fd289e2305bd5f3b6c7aba367e36b0590ca8178829",
+    "size_kb": 1762.2,
+    "mtime": "2026-05-04 17:44:58"
+  },
+  "DSD_GOV_at_DF_GOV_DGOGD_2025_2026-05-04.csv": {
+    "sha256": "7746e6e13bdb0f43494d41d20c914e8f1a46eb200f920020696eafedf21f2f31",
+    "size_kb": 150.9,
+    "mtime": "2026-05-04 17:39:14"
+  },
+  "DSD_ICT_B_at_DF_BUSINESSES_2026-05-04.csv": {
+    "sha256": "ecd2dbd391fdd45c0f6b2314dcff2a184413eea83c4df8665b6b0ff1cfd1cff2",
+    "size_kb": 72579.5,
+    "mtime": "2026-05-04 17:46:13"
+  },
+  "DSD_INDIGO_at_DF_INDIGO_2026-05-04.csv": {
+    "sha256": "3244bfabcb9ac9c8fd194e7412f2d1a635f7e1e933ea3f9ac5ed085a31cab535",
+    "size_kb": 29687.5,
+    "mtime": "2026-05-04 17:39:13"
+  },
+  "DSD_PMR_at_DF_PMR_2026-05-04.csv": {
+    "sha256": "a92dc2d9b0abc6c5f2f077e79bce067763290a956278dc838cabcbd3e27e11d7",
+    "size_kb": 1019.1,
+    "mtime": "2026-05-04 18:02:47"
+  },
+  "DSD_PMR_at_DF_PMR_WBG_2026-05-04.csv": {
+    "sha256": "914aba00a4e89145c8af12acafab6521477b7fb69f9b061622c39c1b3c617c38",
+    "size_kb": 3.8,
+    "mtime": "2026-05-04 17:47:22"
+  },
+  "DSD_RDS_GOV_at_DF_GBARD_NABS07_2026-05-04.csv": {
+    "sha256": "9fca3b2ce1a52f275af3b4fb24d9b5579c1774a42534c595c93529aaa04b8ea8",
+    "size_kb": 23801.4,
+    "mtime": "2026-05-04 17:59:17"
+  },
+  "DSD_RDTAX_at_DF_RDSUB_2026-05-04.csv": {
+    "sha256": "6e0e5403701ffb8a827816f6a00b34d22c54789acb54603d02bf094f28a9836f",
+    "size_kb": 1460.2,
+    "mtime": "2026-05-04 17:58:45"
+  },
+  "DSD_STRI_at_DF_STRI_DIGITAL_2026-05-04.csv": {
+    "sha256": "dea8baceba7aa62d8a7029dc0ed201c2c661e46182d6b76f0b52421984f3d829",
+    "size_kb": 2601.4,
+    "mtime": "2026-05-04 17:43:54"
+  }
+}

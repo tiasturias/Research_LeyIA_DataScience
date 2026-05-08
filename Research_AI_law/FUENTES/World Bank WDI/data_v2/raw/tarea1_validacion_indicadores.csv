@@ -1,0 +1,39 @@
+canonical,code,source,source_id,name,source_org,last_updated,total_records_api,pages,sample_years,sample_values,valid,error
+gdp_per_capita_ppp,NY.GDP.PCAP.PP.CD,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024",87,True,
+gdp_current_usd,NY.GDP.MKTP.CD,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024",87,True,
+gdp_growth_annual_pct,NY.GDP.MKTP.KD.ZG,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024",87,True,
+inflation_consumer_prices,FP.CPI.TOTL.ZG,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024",14,True,
+unemployment_rate,SL.UEM.TOTL.ZS,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",100,True,
+population,SP.POP.TOTL,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024",87,True,
+labor_force,SL.TLF.TOTL.IN,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",100,True,
+exports_pct_gdp,NE.EXP.GNFS.ZS,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024",72,True,
+trade_pct_gdp,NE.TRD.GNFS.ZS,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024",73,True,
+fdi_net_inflows,BX.KLT.DINV.CD.WD,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024",87,True,
+fdi_pct_gdp,BX.KLT.DINV.WD.GD.ZS,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024",87,True,
+gross_capital_formation_pct_gdp,NE.GDI.TOTL.ZS,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024",73,True,
+internet_penetration,IT.NET.USER.ZS,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",60,True,
+mobile_subscriptions_per100,IT.CEL.SETS.P2,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",84,True,
+fixed_broadband_per100,IT.NET.BBND.P2,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025",84,True,
+secure_servers_per_1m,IT.NET.SECR.P6,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024",87,True,
+electric_consumption_kwh_pc,EG.USE.ELEC.KH.PC,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024",70,True,
+tertiary_education_enrollment,SE.TER.ENRR,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024",74,True,
+education_expenditure_pct_gdp,SE.XPD.TOTL.GD.ZS,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023",67,True,
+rd_expenditure_pct_gdp,GB.XPD.RSDV.GD.ZS,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023",50,True,
+researchers_rd_per_million,SP.POP.SCIE.RD.P6,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023",46,True,
+technicians_rd_per_million,SP.POP.TECH.RD.P6,WDI,2,,,2026-04-08,2128,22,,0,False,
+patent_applications_residents,IP.PAT.RESD,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020",6,True,
+high_tech_exports_pct_manufactured,TX.VAL.TECH.MF.ZS,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024",83,True,
+ict_goods_exports_pct,TX.VAL.ICTG.ZS.UN,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022",54,True,
+ict_service_exports_pct,BX.GSR.CCIS.ZS,WDI,2,,,2026-04-08,2128,22,"2018, 2019, 2020, 2021, 2022, 2023, 2024",82,True,
+control_of_corruption,CC.EST,WGI,Excel,WGI via Excel download (govindicators/doc/wgidataset_with_sourcedata-2025.xlsx),World Bank WGI (govindicators),2025 update,0,0,1996-2024 (via Excel),0,True,API v2 no disponible; descarga via Excel directo
+government_effectiveness,GE.EST,WGI,Excel,WGI via Excel download (govindicators/doc/wgidataset_with_sourcedata-2025.xlsx),World Bank WGI (govindicators),2025 update,0,0,1996-2024 (via Excel),0,True,API v2 no disponible; descarga via Excel directo
+political_stability,PV.EST,WGI,Excel,WGI via Excel download (govindicators/doc/wgidataset_with_sourcedata-2025.xlsx),World Bank WGI (govindicators),2025 update,0,0,1996-2024 (via Excel),0,True,API v2 no disponible; descarga via Excel directo
+regulatory_quality,RQ.EST,WGI,Excel,WGI via Excel download (govindicators/doc/wgidataset_with_sourcedata-2025.xlsx),World Bank WGI (govindicators),2025 update,0,0,1996-2024 (via Excel),0,True,API v2 no disponible; descarga via Excel directo
+rule_of_law,RL.EST,WGI,Excel,WGI via Excel download (govindicators/doc/wgidataset_with_sourcedata-2025.xlsx),World Bank WGI (govindicators),2025 update,0,0,1996-2024 (via Excel),0,True,API v2 no disponible; descarga via Excel directo
+voice_accountability,VA.EST,WGI,Excel,WGI via Excel download (govindicators/doc/wgidataset_with_sourcedata-2025.xlsx),World Bank WGI (govindicators),2025 update,0,0,1996-2024 (via Excel),0,True,API v2 no disponible; descarga via Excel directo
+control_of_corruption_se,CC.STD.ERR,WGI,Excel,WGI via Excel download (govindicators/doc/wgidataset_with_sourcedata-2025.xlsx),World Bank WGI (govindicators),2025 update,0,0,1996-2024 (via Excel),0,True,API v2 no disponible; descarga via Excel directo
+government_effectiveness_se,GE.STD.ERR,WGI,Excel,WGI via Excel download (govindicators/doc/wgidataset_with_sourcedata-2025.xlsx),World Bank WGI (govindicators),2025 update,0,0,1996-2024 (via Excel),0,True,API v2 no disponible; descarga via Excel directo
+political_stability_se,PV.STD.ERR,WGI,Excel,WGI via Excel download (govindicators/doc/wgidataset_with_sourcedata-2025.xlsx),World Bank WGI (govindicators),2025 update,0,0,1996-2024 (via Excel),0,True,API v2 no disponible; descarga via Excel directo
+regulatory_quality_se,RQ.STD.ERR,WGI,Excel,WGI via Excel download (govindicators/doc/wgidataset_with_sourcedata-2025.xlsx),World Bank WGI (govindicators),2025 update,0,0,1996-2024 (via Excel),0,True,API v2 no disponible; descarga via Excel directo
+rule_of_law_se,RL.STD.ERR,WGI,Excel,WGI via Excel download (govindicators/doc/wgidataset_with_sourcedata-2025.xlsx),World Bank WGI (govindicators),2025 update,0,0,1996-2024 (via Excel),0,True,API v2 no disponible; descarga via Excel directo
+voice_accountability_se,VA.STD.ERR,WGI,Excel,WGI via Excel download (govindicators/doc/wgidataset_with_sourcedata-2025.xlsx),World Bank WGI (govindicators),2025 update,0,0,1996-2024 (via Excel),0,True,API v2 no disponible; descarga via Excel directo

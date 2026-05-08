@@ -1,0 +1,5 @@
+fig_id,section,entity_type,num_data_rows,num_cols,is_wide,note,columns_preview
+fig_5.1.1,fig_5.1.1,category,64,3,N,,Year | Number of AI publications in natural sciences (in thousands) | Label
+fig_5.1.2,fig_5.1.2,category,64,3,N,,Year | AI publications in natural sciences (% of total) | Label
+fig_5.3.1,fig_5.3.1,model,18,5,N,,Agent | Submitter | Models Used | Overall Score | Overall Cost
+fig_5.3.2,fig_5.3.2,model,18,3,N,,Model | Agent Type | Avg. Score

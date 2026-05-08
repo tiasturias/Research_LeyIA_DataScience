@@ -112,8 +112,6 @@ def _column_kind(column: str, observed: set[str]) -> str:
         return "one_hot"
     if column in AUDIT_COLS:
         return "audit_trace"
-    if column == "split":
-        return "split"
     return "other"
 
 
@@ -135,7 +133,7 @@ def _source_column(column: str, observed: set[str], all_columns: set[str]) -> st
     return None
 
 
-def build_phase6_column_groups(feature_matrix: pd.DataFrame) -> dict[str, list[str]]:
+def build_phase6_column_groups(feature_matrix: pd.DataFrame, transform_params: pd.DataFrame) -> dict[str, list[str]]:
     observed = set(get_mvp_variables())
     observed_vars = [c for c in get_mvp_variables() if c in feature_matrix.columns]
     observed_core_40 = observed_vars[:LEGACY_V1_COUNT]
@@ -152,15 +150,32 @@ def build_phase6_column_groups(feature_matrix: pd.DataFrame) -> dict[str, list[s
     regulatory_aggregate_cols = [c for c in REGULATORY_AGGREGATES if c in all_columns]
     metadata_cols = [c for c in ID_COLS + META_COLS if c in all_columns]
     audit_cols = [c for c in AUDIT_COLS if c in all_columns]
-    split_cols = ["split"] if "split" in all_columns else []
-    model_exclude = metadata_cols + audit_cols + observed_categorical + split_cols
+    
+    non_estimable = []
+    if transform_params is not None and not transform_params.empty:
+        if "used_in_primary_modeling" in transform_params.columns:
+            non_estimable = transform_params.loc[
+                ~transform_params["used_in_primary_modeling"], "variable_derived"
+            ].dropna().tolist()
+
+    model_exclude = metadata_cols + audit_cols + observed_categorical + non_estimable
     candidate_numeric_model_features = [
         c for c in numeric_cols
         if c not in set(model_exclude)
     ]
+    cfg = _variable_config()[["variable_matriz", "rol_mvp"]].to_dict("records")
+    by_role: dict[str, list[str]] = {}
+    for row in cfg:
+        by_role.setdefault(row["rol_mvp"], []).append(row["variable_matriz"])
+    by_role["Y_Q5_population_usage"] = Y_Q5_POPULATION_USAGE
+    by_role["Y_Q6_public_sector"] = Y_Q6_PUBLIC_SECTOR_PRIMARY
+    by_role["Y_Q6_public_sector_context"] = Y_Q6_PUBLIC_SECTOR_CONTEXT
+    by_role["Y_Q6_public_sector_aux"] = Y_Q6_PUBLIC_SECTOR_AUX
+
     return {
         "id_cols": [c for c in ID_COLS if c in all_columns],
         "metadata_cols": metadata_cols,
+        "methodology_cols": [],
         "observed_core_40": observed_core_40,
         "observed_core_46": observed_vars,
         "observed_core_v2_added": [c for c in NEW_V2_Q6_VARIABLES if c in all_columns],
@@ -171,9 +186,17 @@ def build_phase6_column_groups(feature_matrix: pd.DataFrame) -> dict[str, list[s
         "regulatory_aggregate_cols": regulatory_aggregate_cols,
         "one_hot_cols": one_hot_cols,
         "audit_trace_cols": audit_cols,
-        "split_cols": split_cols,
+        "non_estimable_derived_features": non_estimable,
         "candidate_numeric_model_features": candidate_numeric_model_features,
         "model_exclude_cols_default": model_exclude,
+        "excluded_from_modeling": ["iso3", "country_name_canonical", "entity_type", "region", "income_group"],
+        "X1_regulatory": by_role.get("X1_regulatory", []),
+        "X2_controls": by_role.get("X2_control", []),
+        "Y_Q1_investment": by_role.get("Y_Q1_investment", []),
+        "Y_Q2_adoption": by_role.get("Y_Q2_adoption", []),
+        "Y_Q3_innovation": by_role.get("Y_Q3_innovation", []),
+        "Y_Q5_population_usage": by_role.get("Y_Q5_population_usage", []),
+        "Y_Q6_public_sector": by_role.get("Y_Q6_public_sector", [])
     }
 
 
@@ -233,8 +256,9 @@ def build_phase6_modeling_contract(
     feature_matrix: pd.DataFrame,
     coverage: pd.DataFrame,
     variables_catalog: pd.DataFrame,
+    transform_params: pd.DataFrame,
 ) -> dict:
-    groups = build_phase6_column_groups(feature_matrix)
+    groups = build_phase6_column_groups(feature_matrix, transform_params)
     cfg = variables_catalog[["variable_matriz", "rol_mvp", "subpregunta", "transform"]].to_dict("records")
     by_role: dict[str, list[str]] = {}
     by_question: dict[str, list[str]] = {}
@@ -251,9 +275,48 @@ def build_phase6_modeling_contract(
         *NEW_V2_Q6_VARIABLES,
     ]
     return {
-        "version": "0.2",
+        "version": "0.3",
         "created_at": datetime.now(timezone.utc).isoformat(),
-        "fase5_version": "2.0",
+        "fase5_version": "2.1",
+        "methodology_version": "mvp-v0.2-methodology-correction-plus",
+        "methodology": "inferential_comparative_observational",
+        "primary_estimand": "adjusted_association",
+        "grain": "country_iso3",
+        "primary_key": "iso3",
+        "sample_policy": {
+            "n_primary_sample": 43,
+            "use_holdout_test_set": False,
+            "train_test_split_created": False,
+            "split_column_present": False,
+            "effective_n_rule": "listwise_deletion_per_model_on_required_y_x",
+            "primary_analysis_scope": "full_preregistered_sample_available_by_outcome",
+        },
+        "validation_policy": {
+            "primary_uncertainty": "bootstrap_bca_confidence_intervals",
+            "internal_validation": ["repeated_kfold_cv"],
+            "loocv_reporting": "developer_only_when_metric_defined",
+            "robustness_phase": "FASE7",
+            "external_validation_available": False,
+            "leave_group_out_is_external_test": False
+        },
+        "transform_policy": {
+            "no_imputation": True,
+            "missing_values_preserved": True,
+            "preserve_raw_variables": True,
+            "robust_zscore_method": "median_mad",
+            "zero_mad_behavior": "flag_and_exclude_non_estimable_derived_cols_from_primary_models",
+            "non_estimable_transform_status_values": [
+                "zero_mad_or_not_estimable",
+                "constant_or_quasi_constant",
+                "insufficient_non_missing_values"
+            ]
+        },
+        "feature_policy": {
+            "pca_included": False,
+            "outliers_preserved": True,
+            "phase6_should_not_recompute_phase5": True,
+            "phase6_should_validate_contract_on_startup": True
+        },
         "contract": {
             "grain": "country_iso3",
             "primary_key": "iso3",
@@ -262,14 +325,56 @@ def build_phase6_modeling_contract(
             "n_observed_core_variables": len(get_mvp_variables()),
             "n_observed_core_variables_v1_0": LEGACY_V1_COUNT,
             "n_observed_core_variables_v2_added": len(NEW_V2_Q6_VARIABLES),
-            "split_col": "split",
             "no_imputation": True,
             "missing_values_preserved": True,
             "outliers_preserved": True,
             "phase6_should_not_recompute_phase5": True,
             "backwards_compatible": True,
             "pca_included": False,
+            "variable_count_label_policy": "use_46_observed_variables; legacy_40_labels_must_be_disclaimed"
         },
+        "special_cases": [
+            {
+                "iso3": "TWN",
+                "metadata_comparability": "incomplete_region_income",
+                "required_flag": "has_comparable_region_income",
+                "sensitivity_policy": "document_and_optionally_exclude_from_group_leave_out"
+            }
+        ],
+        "language_policy": {
+            "allowed": [
+                "association",
+                "adjusted association",
+                "internal validation",
+                "sensitivity",
+                "robustness",
+                "effective_n",
+                "descriptive in-sample score",
+                "relative positioning"
+            ],
+            "forbidden_without_extra_design": [
+                "causal effect",
+                "impacto causal",
+                "external validation",
+                "test set independiente",
+                "independent prediction",
+                "train/test split",
+                "holdout externo"
+            ]
+        },
+        "required_phase6_inputs": [
+            "phase6_feature_matrix.csv",
+            "phase6_schema.csv",
+            "phase6_schema.json",
+            "phase6_variables_catalog.csv",
+            "phase6_transform_params.csv",
+            "phase6_column_groups.yaml",
+            "phase6_missingness_by_column.csv",
+            "phase6_missingness_by_country.csv",
+            "phase6_analysis_sample_membership.csv",
+            "phase6_modeling_contract.yaml",
+            "phase6_ready_manifest.json"
+        ],
         "questions": {
             "main": "regulatory_treatment_vs_ai_ecosystem_controls",
             "Q1": "investment",
@@ -293,7 +398,7 @@ def build_phase6_modeling_contract(
             "coverage_threshold_pct": 30.0,
             "all_observed_core_vars_above_threshold": bool((~coverage["below_threshold"]).all()),
         },
-        "version_notes": "v0.2 (2026-05-07): +Q5, +Q6, +6 vars. Backwards compatible. No PCA.",
+        "version_notes": "v0.3 (2026-05-08): No holdout, non estimable policy. Methodology correction v2.1+.",
     }
 
 
@@ -301,8 +406,8 @@ def build_phase6_llm_context() -> dict:
     return {
         "phase": "FASE5",
         "next_phase": "FASE6",
-        "fase5_version": "2.0",
-        "bundle_version": "0.2",
+        "fase5_version": "2.1",
+        "bundle_version": "0.3",
         "artifact_type": "machine_consumable_data_preparation_bundle",
         "primary_dataset": "phase6_feature_matrix.csv",
         "required_contracts": [
@@ -342,7 +447,7 @@ def write_phase6_bundle(
     coverage: pd.DataFrame,
     variables_catalog: pd.DataFrame,
     transform_params: pd.DataFrame,
-    split: pd.DataFrame,
+    membership: pd.DataFrame,
     output_dir: Path | None = None,
 ) -> dict[str, Path]:
     if output_dir is None:
@@ -351,8 +456,8 @@ def write_phase6_bundle(
 
     schema = build_phase6_schema(feature_matrix)
     missing_cols, missing_rows = build_phase6_missingness(feature_matrix)
-    column_groups = build_phase6_column_groups(feature_matrix)
-    modeling_contract = build_phase6_modeling_contract(feature_matrix, coverage, variables_catalog)
+    column_groups = build_phase6_column_groups(feature_matrix, transform_params)
+    modeling_contract = build_phase6_modeling_contract(feature_matrix, coverage, variables_catalog, transform_params)
 
     paths = {
         "phase6_feature_matrix.csv": output_dir / "phase6_feature_matrix.csv",
@@ -364,7 +469,7 @@ def write_phase6_bundle(
         "phase6_missingness_by_country.csv": output_dir / "phase6_missingness_by_country.csv",
         "phase6_variables_catalog.csv": output_dir / "phase6_variables_catalog.csv",
         "phase6_transform_params.csv": output_dir / "phase6_transform_params.csv",
-        "phase6_train_test_split.csv": output_dir / "phase6_train_test_split.csv",
+        "phase6_analysis_sample_membership.csv": output_dir / "phase6_analysis_sample_membership.csv",
         "phase6_llm_context.json": output_dir / "phase6_llm_context.json",
     }
 
@@ -386,17 +491,27 @@ def write_phase6_bundle(
     missing_rows.to_csv(paths["phase6_missingness_by_country.csv"], index=False)
     variables_catalog.to_csv(paths["phase6_variables_catalog.csv"], index=False)
     transform_params.to_csv(paths["phase6_transform_params.csv"], index=False)
-    split.to_csv(paths["phase6_train_test_split.csv"], index=False)
+    membership.to_csv(paths["phase6_analysis_sample_membership.csv"], index=False)
     paths["phase6_llm_context.json"].write_text(
         json.dumps(build_phase6_llm_context(), indent=2, ensure_ascii=False),
         encoding="utf-8",
     )
 
     manifest = {
-        "version": "0.2",
+        "version": "0.3",
+        "bundle_version": "0.3",
+        "fase5_version": "2.1",
+        "methodology": "inferential_comparative_observational",
+        "n_rows": 43,
+        "n_observed_core_variables": 46,
+        "contains_train_test_split": False,
+        "contains_split_column": False,
+        "contains_analysis_sample_membership": True,
+        "contract_file": "phase6_modeling_contract.yaml",
+        "membership_file": "phase6_analysis_sample_membership.csv",
+        "phase6_must_validate_contract_on_startup": True,
         "created_at": datetime.now(timezone.utc).isoformat(),
         "bundle_type": "phase6_ready_technical",
-        "fase5_version": "2.0",
         "rules": {
             "no_imputation": True,
             "phase6_should_consume_bundle_or_fase5_api": True,
@@ -416,4 +531,16 @@ def write_phase6_bundle(
     manifest_path = output_dir / "phase6_ready_manifest.json"
     manifest_path.write_text(json.dumps(manifest, indent=2, ensure_ascii=False), encoding="utf-8")
     paths["phase6_ready_manifest.json"] = manifest_path
+
+    # Anti-regression checks on phase6 outputs directly
+    for k in ["phase6_feature_matrix.csv", "phase6_schema.csv", "phase6_column_groups.yaml"]:
+        p = paths[k]
+        content = p.read_text().lower()
+        if "split" in content:
+             # Ensure the word 'split' is not used as a column or artifact
+             if k == "phase6_feature_matrix.csv" and "split" in pd.read_csv(p).columns:
+                 raise ValueError("Forbidden column 'split' found in phase6 feature matrix.")
+             if k == "phase6_column_groups.yaml" and "split_col" in content:
+                 raise ValueError("Forbidden 'split' artifacts in column groups.")
+
     return paths

@@ -1,0 +1,30 @@
+fig_id,section,entity_type,num_data_rows,num_cols,is_wide,note,columns_preview
+fig_6.1.1,fig_6.1.1,category,8,2,N,,Category | Number of publications
+fig_6.1.2,fig_6.1.2,global,8,2,N,,Year | Number of publications
+fig_6.1.5,fig_6.1.5,model,14,3,N,,Model | Parameters (Billions) | Release Year
+fig_6.1.6,fig_6.1.6,model,14,4,N,,Model Name | Parameters | Average Spearman | Release Year
+fig_6.1.8,fig_6.1.8,model,16,4,N,,Model Name | Date of Release | Model Number of Parameters | Release Year
+fig_6.1.9,fig_6.1.9,model,8,5,N,,Model Name | Date of Release | Model Performance | Release Year | Parameters
+fig_6.1.10,fig_6.1.10,category,12,2,N,,Method | Succes rate
+fig_6.1.11,fig_6.1.11,global,8,2,N,,Year | Number of publications
+fig_6.1.12,fig_6.1.12,model,4,4,N,,Model Name | Model Size | Model Performance | Year
+fig_6.1.13,fig_6.1.13,global,5,2,N,,Year | Number of publications
+fig_6.2.3,fig_6.2.3,global,15,2,N,,Year | Number of papers reporting prospective clinical trials
+fig_6.2.4,fig_6.2.4,category,415,2,N,,Group.final2 | total_pct
+fig_6.2.5,fig_6.2.5,category,105,3,N,,year | type | num_cleared_devices
+fig_6.2.6,fig_6.2.6,global,62,2,N,,Year | Number of AI medical devices
+fig_6.2.7,fig_6.2.7,category,17,2,N,,Number of Devices | Clinical Specialty
+fig_6.2.8,fig_6.2.8,category,10,8,Y,,Year | Radiology | Cardiovascular | Neurology | Anesthesiology | Hematology | Gastroenterology-Urology | Other
+fig_6.2.9,fig_6.2.9,organization,15,2,N,,Number of Authorized Devices | Company
+fig_6.2.11,fig_6.2.11,global,11,2,N,,Year | Number of publications
+fig_6.2.12,fig_6.2.12,global,11,2,N,,Year | Number of patent filings
+fig_6.3.1,fig_6.3.1,category,5,2,N,,% with AI Overview | Query Type
+fig_6.3.2,fig_6.3.2,global,6,2,N,,Year | Number of publications
+fig_6.3.4,fig_6.3.4,category,30,2,N,,Volume of Publications | Specialty
+fig_6.3.5,fig_6.3.5,country,41,2,N,,Country | Volume of Publications
+fig_6.4.1,fig_6.4.1,category,10,3,N,,year | type | num_pubs
+fig_6.4.2,fig_6.4.2,category,15,3,N,,year | type | num_pubs
+fig_6.4.3,fig_6.4.3,global,5,2,N,,Year | Number of publications
+fig_6.4.5(1),fig_6.4.5(1),category,10,3,N,duplicate_of_fig_6.4.5,year | type | num_pubs
+fig_6.4.5,fig_6.4.5,category,50,3,N,,year | type | num_pubs
+fig_6.4.6,fig_6.4.6,category,15,3,N,,year | type | num_pubs

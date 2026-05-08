@@ -1,0 +1,29 @@
+SHEET,COLUMN,DESCRIPTION
+Index Structure,NUM,Complete GII Index
+Index Structure,NAME,"Detailed names of the Index, SubIndex, Pillar, SubPillar and Indicators"
+Index Structure,LEVEL,"The level of the GII index: Index, SubIndex, Pillar, SubPillar, Indicator"
+Index Structure,TYPE,"Provides the indicator data type (i.e. Data, Index, Survey)"
+Index Structure,PROFILE,"This is provided to show if the Score or Value is given when looking at the Economy profiles for a pillar, sub-pillar and indicator level."
+Index Structure,DESCRIPTION,"A detailed description of the index, pillars, subpillars and indicators"
+Index Structure,SOURCE,Indicator data source(s)
+Index Structure,WEBSITE,Indicator data source website(s)
+Economies,ISO3,Economy ISO3 code in format AAA.
+Economies,ECONOMY_NAME,Official economy name
+Economies,INCOME,"World Bank Income Group Classification: High Income (HI), Upper-middle income (UM), Lower-middle income (LM), Low income (LI)"
+Economies,REG_UN,"The United Nations Statistics Division (UNSD) region classification: Central and Southern Asia; Europe; Latin America and the Caribbean; Northern Africa and Western Asia; Northern America; South East Asia, East Asia, and Oceania; Sub-Saharan Africa"
+Economies,REG_UN_CODE,"The United Nations Statistics Division (UNSD) subregion classification code: Central and Southern Asia (CSA), Europe (EUR), Latin America and the Caribbean (LCN), Northern America (NAC), Northern Africa and Western Asia (NAWA), South East Asia, East Asia, and Oceania (SEAO), Sub-Saharan Africa (SSF)"
+Economies,POP,Economy population in thousands
+Economies,PPPGDP,Economy gross domestic product (GDP) in $billions PPP
+Economies,PPPPC,"Economy GDP per capita, in $PPP"
+Data,ISO3,Economy ISO3 code
+Data,ECONOMY_NAME,Official economy name
+Data,NUM,Complete GII Index
+Data,NAME,"Detailed names of the Index, SubIndex, Pillar, SubPillar and Indicators"
+Data,DATAYR,The data year available for the given indicator and economy
+Data,VALUE_SCREEN,Screened indicator value
+Data,SCORE,Normalized and aggregated supra-indicator value
+Data,RANK,The rank of the normalized scores
+Data,SW_OVERALL,The overall strengths and weaknesses are the top- and bottom-ranked indicators for each country
+Data,SW_INCGRP,Income group strengths and weaknesses are the respective high- and low-performing indicators within income groups.
+Data,OUTDATED,Indicates an indicator is outdated when the last available data year for a particular economy is below the most frequent year reported by all economies (i.e. the mode year)
+Data,DMC,Indicates that the data minimum coverage (DMC) requirements were not met at the sub-pillar or pillar level

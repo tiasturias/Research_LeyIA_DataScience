@@ -1,0 +1,29 @@
+SHEET,COLUMN,TYPE,NULL,DESCRIPTION
+Index Structure,NUM,varchar(9),YES,"GII structure number or address in format (IN|OUT).#.#.#; typically constant across report years, but not immutable"
+Index Structure,NAME,varchar(60),NO,"Full element name, including units; typically constant across report years, but not immutable"
+Index Structure,LEVEL,enum(...),NO,"GII structure in set {Index, SubIndex, Pillar, SubPillar, Indicator}."
+Index Structure,TYPE,enum(...),NO,"Indicator data type in set {Data, Index, Survey}"
+Index Structure,PROFILE,enum(...),YES,"Pillar, sub-pillar and indicator profile value in set {Score, Value}; utilized to set values when populating ecoonmy profiles"
+Index Structure,DESCRIPTION,text,YES,Element description; used as the body in the Sources and Definitions Appendix
+Index Structure,SOURCE,tinytext,YES,Indicator data source(s)
+Index Structure,WEBSITE,tinytext,YES,Indicator data source website(s)
+Economies,ISO3,char(3),NO,Economy ISO3 code in format AAA.
+Economies,ECONOMY_NAME,varchar(50),NO,Indicator description
+Economies,INCOME,enum(...),YES,"Economy income group in set {HI, UM, LM, LI}"
+Economies,REG_UN,enum(...),NO,"Economy region based on United Nations groupings in set {Central and Southern Asia; Europe; Latin America and the Caribbean; Northern Africa and Western Asia; Northern America; South East Asia, East Asia, and Oceania; Sub-Saharan Africa}"
+Economies,REG_UN_CODE,enum(...),NO,"Economy region code based on United Nations groupings in set {CSA, EUR, LCN, NAC, NAWA, SEAO, SSF}"
+Economies,POP,"decimal(9,2) unsigned",YES,Economy population in thousands
+Economies,PPPGDP,"decimal(8,3) unsigned",YES,Economy gross domestic product (GDP) in $billions PPP
+Economies,PPPPC,"decimal(8,2) unsigned",YES,"Economy GDP per capita, in $PPP"
+Data,ISO3,char(3),NO,Economy ISO3 code in format AAA
+Data,ECONOMY_NAME,varchar(50),NO,Indicator description
+Data,NUM,varchar(9),YES,"GII structure number or address in format (IN|OUT).#.#.#; typically constant across report years, but not immutable"
+Data,NAME,varchar(60),NO,"Full element name, including units; typically constant across report years, but not immutable"
+Data,DATAYR,smallint(4) unsigned,YES,GII data year
+Data,VALUE_SCREEN,double,YES,Screened indicator value
+Data,SCORE,double,YES,Normalized and aggregated supra-indicator value
+Data,RANK,smallint(3) unsigned,YES,Supra-indicator rank
+Data,SW_OVERALL,enum(...),YES,"Overall strengths and weaknesses in set {S, W}"
+Data,SW_INCGRP,enum(...),YES,"Income group strengths and weaknesses in set {S, W}"
+Data,OUTDATED,tinyint(1),YES,"Outdated dummy in set {TRUE, FALSE}; only applicable at the Indicator level"
+Data,DMC,tinyint(1),YES,"Low data dummy in set {TRUE, FALSE}; only applicable at the Pillar and SubPillar levels"

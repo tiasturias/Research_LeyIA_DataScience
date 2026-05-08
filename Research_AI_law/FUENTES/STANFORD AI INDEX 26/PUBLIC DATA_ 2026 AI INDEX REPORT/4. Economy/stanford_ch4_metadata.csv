@@ -1,0 +1,65 @@
+fig_id,section,entity_type,num_data_rows,num_cols,is_wide,note,columns_preview
+fig_4.2.1,fig_4.2.1,category,52,3,N,,Year | Event Type | Funding in USD (billions)
+fig_4.2.2,fig_4.2.2,global,13,2,N,,Year | Total investment (in billions of US dollars)
+fig_4.2.3,fig_4.2.3,global,7,2,N,,Year | Total investment (in billions of US dollars)
+fig_4.2.4,fig_4.2.4,global,13,2,N,,Year | Number of companies
+fig_4.2.5,fig_4.2.5,global,7,2,N,,Year | Number of companies
+fig_4.2.6,fig_4.2.6,global,13,2,N,,Year | Average investment (in millions of US dollars)
+fig_4.2.8,fig_4.2.8,country,15,2,N,,Total Investment (in Billions of U.S. Dollars) | Country
+fig_4.2.9,fig_4.2.9,category,39,3,N,,Year | Number of companies | Label
+fig_4.2.10,fig_4.2.10,category,19,3,N,,Year | Total investment (in billions of US dollars) | Label
+fig_4.2.11,fig_4.2.11,category,39,3,N,,Year | Total investment (in billions of US dollars) | Label
+fig_4.2.12,fig_4.2.12,country,15,2,N,,Total Investment (in Billions of U.S. Dollars) | Country
+fig_4.2.13,fig_4.2.13,country,15,2,N,,Number of Companies | Country
+fig_4.2.14,fig_4.2.14,category,39,3,N,,Year | Number of companies | Label
+fig_4.2.15,fig_4.2.15,us_state,51,2,N,,state_code | total_funding
+fig_4.2.16,fig_4.2.16,category,50,3,N,,Total investment (in billions of U.S. dollars) | Focus area | Label
+fig_4.2.17,fig_4.2.17,category,154,3,N,,Category | year | funding_in_billions_USD
+fig_4.2.18,fig_4.2.18,category,35,3,N,,Date | Annualized revenue (in billions of US dollars - log scale) | Label
+fig_4.2.20,fig_4.2.20,organization,10,4,N,,Year | Company | Type | Cost_Billions
+fig_4.3.1(1),fig_4.3.1(1),category,12,3,N,duplicate_of_fig_4.3.1,Year | % of respondents | Label
+fig_4.3.1,fig_4.3.1,country,147,2,N,,Economy | H2 2025 AI Diffusion
+fig_4.3.2,fig_4.3.2,category,18,3,N,,% of Respondents | Geographic Area | Label
+fig_4.3.3,fig_4.3.3,category,88,4,N,,industry | function | year | respondent_perc
+fig_4.3.5,fig_4.3.5,category,72,4,N,,Function | Year | Variable | Value
+fig_4.3.6,fig_4.3.6,category,15,3,N,,% of Respondents | Revenue in US dollars | Label
+fig_4.3.7,fig_4.3.7,category,132,3,N,,industry | function | respondent_perc
+fig_4.3.8,fig_4.3.8,category,33,3,N,,Percent of respondents | Function | Label
+fig_4.3.9,fig_4.3.9,category,26,5,N,,Years since the introduction of first mass-market product | ai_all_rps | pc_all_cps | internet_all_cps | internet_all_itu
+fig_4.3.10,fig_4.3.10,country,144,2,N,,Country | H2 2025 AI Diffusion (%)
+fig_4.3.12,fig_4.3.12,country,30,3,N,,Economy | H1 2025 AI Diffusion | H2 2025 AI Diffusion
+fig_4.3.13,fig_4.3.13,organization,4,9,Y,,"date | Architecture and Engineering | Arts, Design, Entertainment, Sports, and Media | Business and Financial Operations | Computer and Mathematical | Educational Instruction and Library | Life, Physical, and Social Sciences | Management"
+fig_4.3.14,fig_4.3.14,organization,4,3,Y,,Date | Automation (%) | Augmentation (%)
+fig_4.4.1,fig_4.4.1,category,132,3,N,,Year | AI job postings (% of all job postings) | Label
+fig_4.4.2,fig_4.4.2,category,132,3,N,,Year | AI job postings (% of all job postings) | Label
+fig_4.4.3,fig_4.4.3,category,160,3,N,,Year | AI job postings (% of all job postings) | Label
+fig_4.4.4,fig_4.4.4,category,20,3,N,,Number of AI Job Postings | Skill | Label
+fig_4.4.5,fig_4.4.5,category,20,3,N,,Number of AI Job Postings | Generative AI skill | Label
+fig_4.4.6,fig_4.4.6,category,20,3,N,,Share of AI Job Postings | Generative AI skill | Label
+fig_4.4.7,fig_4.4.7,category,20,3,N,,Number of AI Job Postings | Generative AI skill | Label
+fig_4.4.8,fig_4.4.8,category,20,3,N,,Skill share AI Job Postings | Generative AI skill | Label
+fig_4.4.9,fig_4.4.9,category,30,3,N,,AI Job Postings (% of All Job Postings) | Sector | Year
+fig_4.4.10,fig_4.4.10,us_state,51,2,N,,state_2digit | ai_state_count
+fig_4.4.11,fig_4.4.11,us_state,51,2,N,,state_2digit | perc_ai_job_post_on_total_ai_job_us
+fig_4.4.12,fig_4.4.12,category,64,3,N,,Year | Percentage of United States AI job postings | Label
+fig_4.4.13,fig_4.4.13,us_state,51,2,N,,state_2digit | ai_state_share
+fig_4.4.14,fig_4.4.14,category,64,3,N,,Year | Percentage of US states’ job postings in AI | Label
+fig_4.4.15,fig_4.4.15,country,15,2,N,,Relative AI hiring rate year-over-year ratio | Country
+fig_4.4.16,fig_4.4.16,country,4415,3,N,,date | country | relative_ai_hiring_index
+fig_4.4.21,fig_4.4.21,country,15,2,N,,AI talent concentration | Country
+fig_4.4.22,fig_4.4.22,country,15,2,N,,% change of AI talent concentration | Country
+fig_4.4.23,fig_4.4.23,country,15,2,N,,"Net AI talent migration (per 10,000 LinkedIn members) | Country"
+fig_4.4.24,fig_4.4.24,country,250,3,N,,year | country | netflow_per_10K
+fig_4.4.25,fig_4.4.25,country,820,4,N,,Country | Gender | ai_talent_representation_perc | Year
+fig_4.4.26,fig_4.4.26,country,820,4,N,,Country | Gender | ai_talent_concentration_perc | Year
+fig_4.4.29,fig_4.4.29,category,720,4,N,,Age Band Imputed | Date | Headcount | Jbb Role
+fig_4.4.30,fig_4.4.30,global,60,2,N,,date | q5_estimate
+fig_4.4.33,fig_4.4.33,category,24,3,N,,organization_type | change | perc_respondents
+fig_4.4.34,fig_4.4.34,category,11,5,N,,Business Function | Actual Decrease (Past Year) | Expected Decrease (Next Year) | Actual Increase (Past Year) | Expected Increase (Next Year)
+fig_4.5.1,fig_4.5.1,global,13,2,N,,Year | Number of industrial robots installed (in thousands)
+fig_4.5.2,fig_4.5.2,global,13,2,N,,Year | Number of industrial robots (in thousands)
+fig_4.5.3,fig_4.5.3,category,24,3,N,,Year | Number of industrial robots installed (in thousands) | Label
+fig_4.5.4,fig_4.5.4,country,10,2,N,,Number of Industrial Robots Installed (in Thousands) | Country
+fig_4.5.5,fig_4.5.5,country,70,3,N,,Year | Number of industrial robots installed (in thousands) | Country
+fig_4.5.6,fig_4.5.6,country,10,2,N,,Annual Growth Rate of Industrial Robots Installed | Country
+fig_4.5.7,fig_4.5.7,category,20,3,N,,year | application | amount

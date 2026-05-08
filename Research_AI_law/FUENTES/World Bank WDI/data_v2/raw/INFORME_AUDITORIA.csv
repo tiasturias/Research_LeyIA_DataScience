@@ -1,0 +1,43 @@
+auditoria_id,timestamp,status,detalle
+AUD1_URL_FAIL,2026-05-04T19:19:59.751744,FAIL,Web URL retorna HTTP 403: https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS
+AUD1_URL_FAIL,2026-05-04T19:20:00.715482,FAIL,Web URL retorna HTTP 403: https://data.worldbank.org/indicator/TX.VAL.ICTG.ZS.UN
+AUD1_URL_FAIL,2026-05-04T19:20:01.368285,FAIL,API URL error: No connection adapters were found for 'WGI no disponible via API. Descargado de: https://www.worldba
+AUD1_URL_FAIL,2026-05-04T19:20:01.504347,FAIL,API URL error: No connection adapters were found for 'WGI no disponible via API. Descargado de: https://www.worldba
+AUD1_URL_FAIL,2026-05-04T19:20:01.688458,FAIL,API URL error: No connection adapters were found for 'WGI no disponible via API. Descargado de: https://www.worldba
+AUD1_URL_FAIL,2026-05-04T19:20:01.778293,FAIL,API URL error: No connection adapters were found for 'WGI no disponible via API. Descargado de: https://www.worldba
+AUD1_URL_FAIL,2026-05-04T19:20:01.870944,FAIL,API URL error: No connection adapters were found for 'WGI no disponible via API. Descargado de: https://www.worldba
+AUD1_URL_FAIL,2026-05-04T19:20:01.967361,FAIL,API URL error: No connection adapters were found for 'WGI no disponible via API. Descargado de: https://www.worldba
+AUD1_URL_FAIL,2026-05-04T19:20:02.149105,FAIL,API URL error: No connection adapters were found for 'WGI no disponible via API. Descargado de: https://www.worldba
+AUD1_URL_FAIL,2026-05-04T19:20:02.243848,FAIL,API URL error: No connection adapters were found for 'WGI no disponible via API. Descargado de: https://www.worldba
+AUD1_URL_FAIL,2026-05-04T19:20:02.353809,FAIL,API URL error: No connection adapters were found for 'WGI no disponible via API. Descargado de: https://www.worldba
+AUD1_URL_FAIL,2026-05-04T19:20:02.451104,FAIL,API URL error: No connection adapters were found for 'WGI no disponible via API. Descargado de: https://www.worldba
+AUD1_URL_FAIL,2026-05-04T19:20:02.555332,FAIL,API URL error: No connection adapters were found for 'WGI no disponible via API. Descargado de: https://www.worldba
+AUD1_URL_FAIL,2026-05-04T19:20:02.742769,FAIL,API URL error: No connection adapters were found for 'WGI no disponible via API. Descargado de: https://www.worldba
+AUD1_URLS,2026-05-04T19:20:05.590880,FAIL,"Total=83, OK=69, FAIL=14"
+AUD2_DUP_ISO3,2026-05-04T19:20:05.973722,OK,0 ISO3 duplicados
+AUD2_BAD_ISO3,2026-05-04T19:20:05.974585,OK,Todos 217 ISO3 validos (3 letras mayusculas)
+AUD2_MISSING_COLS,2026-05-04T19:20:05.974592,OK,4 columnas metadata presentes
+AUD2_COL_COUNT,2026-05-04T19:20:05.974619,OK,"Meta=4, Vars_año=259, Total=263"
+AUD2_BAD_COL_NAMES,2026-05-04T19:20:05.974668,OK,Todas las columnas siguen formato variable_año
+AUD2_EMPTY_ROWS,2026-05-04T19:20:05.976042,OK,0 paises completamente vacios
+AUD2_SHEETS,2026-05-04T19:20:06.885397,OK,10/10 pestañas esperadas
+AUD2_NEG_POP,2026-05-04T19:20:06.886664,OK,0 valores de poblacion negativos
+AUD2_NEG_GDP,2026-05-04T19:20:06.886668,OK,0 valores de GDP per capita negativos
+AUD3_CROSS_VERIFY,2026-05-04T19:21:14.893519,OK,"Verificados=114, Mismatches=0, API_no_disp=1, Excel_missing=0"
+AUD4_RANGE_inflation_consumer_prices,2026-05-04T19:21:14.913527,WARN,1 outliers. Ejemplos: ['IRQ inflation_consumer_prices_2024=-12.2969837587007']
+AUD4_RANGE_fdi_net_inflows,2026-05-04T19:21:14.933448,WARN,"2 outliers. Ejemplos: ['LUX fdi_net_inflows_2022=-316383115840.0', 'NLD fdi_net_inflows_2023=-343402798888.19']"
+AUD4_RANGE_fdi_pct_gdp,2026-05-04T19:21:14.937318,WARN,"20 outliers. Ejemplos: ['LIE fdi_pct_gdp_2018=-1303.10826691135', 'LUX fdi_pct_gdp_2018=-117.233947530512', 'CYP fdi_pct_gdp_2018=307.086731038445']"
+AUD4_RANGE_gross_capital_formation_pct_gdp,2026-05-04T19:21:14.940169,WARN,"4 outliers. Ejemplos: ['DJI gross_capital_formation_pct_gdp_2020=-0.248727784664231', 'DJI gross_capital_formation_pct_gdp_2021=-15.6784437711797', 'DJI gross_capital_formation_pct_gdp_2022=-10.5957415251433']"
+AUD4_RANGE_mobile_subscriptions_per100,2026-05-04T19:21:14.945511,WARN,"7 outliers. Ejemplos: ['MAC mobile_subscriptions_per100_2018=331.099986034622', 'MAC mobile_subscriptions_per100_2019=416.260540646881', 'HKG mobile_subscriptions_per100_2021=319.852066930488']"
+AUD4_RANGE_fixed_broadband_per100,2026-05-04T19:21:14.947924,WARN,"2 outliers. Ejemplos: ['CYM fixed_broadband_per100_2019=75.7496992291354', 'GIB fixed_broadband_per100_2022=60.9747666781887']"
+AUD4_RANGE_secure_servers_per_1m,2026-05-04T19:21:14.950372,WARN,"4 outliers. Ejemplos: ['VGB secure_servers_per_1m_2021=1797058.90131979', 'VGB secure_servers_per_1m_2022=3262663.43067408', 'VGB secure_servers_per_1m_2023=1982403.48852123']"
+AUD4_RANGE_tertiary_education_enrollment,2026-05-04T19:21:14.955166,WARN,"3 outliers. Ejemplos: ['GRC tertiary_education_enrollment_2021=150.605484008789', 'GRC tertiary_education_enrollment_2022=166.389556884766', 'GRC tertiary_education_enrollment_2023=165.113418579102']"
+AUD4_RANGE_researchers_rd_per_million,2026-05-04T19:21:14.961485,WARN,"2 outliers. Ejemplos: ['LIE researchers_rd_per_million_2019=20047.04652', 'LIE researchers_rd_per_million_2023=18129.75165']"
+AUD4_RANGE_political_stability,2026-05-04T19:21:14.978752,WARN,"12 outliers. Ejemplos: ['AFG political_stability_2018=-2.5824048', 'YEM political_stability_2018=-2.7242925', 'AFG political_stability_2019=-2.5893714']"
+AUD4_RANGES,2026-05-04T19:21:14.988640,WARN,Total outliers detectados: 57
+AUD5_COVERAGE,2026-05-04T19:21:15.004083,OK,"Total=56203, Con_datos=46475 (82.7%), Vacios=9728 (17.3%)"
+AUD5_REGIONS,2026-05-04T19:21:15.005429,OK,7 regiones WB con paises
+AUD6_WGI_EXCEL,2026-05-04T19:21:15.005820,OK,"WGI Excel presente, 10,423,344 bytes"
+AUD6_SOURCES,2026-05-04T19:21:15.027212,OK,"WDI (API v2): 25, WGI (Excel): 12, Total: 37"
+AUD6_EXTRACTION_DATES,2026-05-04T19:21:15.046586,OK,37 registros de extraccion
+AUD6_TRACEABILITY,2026-05-04T19:21:15.696416,OK,Todas las variables tienen codigo WB y URL de verificacion

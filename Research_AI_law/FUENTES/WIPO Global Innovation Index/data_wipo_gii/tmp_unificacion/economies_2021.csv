@@ -1,0 +1,133 @@
+ECONOMY_NAME,ISO3,ISO2,POP,NGDPD,PPPPC,INCOME,REGION_WB,REG_UN,REG_UN_CODE,SubReg,EU27,YEAR
+Angola,AGO,AO,32866.27,216.55,6978.43,LM,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Albania,ALB,AL,2877.8,39.113,13651.34,UM,Europe & Central Asia,Europe,EUR,,,2021
+United Arab Emirates,ARE,AE,9890.4,647.65,58466.01,HI,Middle East & North Africa,Northern Africa and Western Asia,NAWA,Western Asia,,2021
+Argentina,ARG,AR,45195.78,924.539,20369.64,UM,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+Armenia,ARM,AM,2963.23,40.788,13735.48,UM,Europe & Central Asia,Northern Africa and Western Asia,NAWA,Western Asia,,2021
+Australia,AUS,AU,25499.88,1307.916,50844.73,HI,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,,,2021
+Austria,AUT,AT,9006.4,493.17,55406.1,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Azerbaijan,AZE,AZ,10139.18,146.459,14499.03,UM,Europe & Central Asia,Northern Africa and Western Asia,NAWA,Western Asia,,2021
+Belgium,BEL,BE,11589.62,575.808,50114.21,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Benin,BEN,BJ,12123.2,41.825,3443.3,LM,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Burkina Faso,BFA,BF,20903.28,46.077,2202.82,LI,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Bangladesh,BGD,BD,164689.38,864.883,5138.58,LM,South Asia,Central and Southern Asia,CSA,Southern Asia,,2021
+Bulgaria,BGR,BG,6948.45,164.095,23741.05,UM,Europe & Central Asia,Europe,EUR,Eastern Europe,EU27,2021
+Bahrain,BHR,BH,1701.58,74.245,49057.48,HI,Middle East & North Africa,Northern Africa and Western Asia,NAWA,Western Asia,,2021
+Bosnia and Herzegovina,BIH,BA,3280.82,48.839,14894.61,UM,Europe & Central Asia,Europe,EUR,,,2021
+Belarus,BLR,BY,9449.32,185.889,19758.65,UM,Europe & Central Asia,Europe,EUR,Eastern Europe,,2021
+Bolivia (Plurinational State of),BOL,BO,11673.03,97.784,8342.24,LM,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+Brazil,BRA,BR,212559.41,3078.901,14562.83,UM,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+Brunei Darussalam,BRN,BN,437.48,28.47,61815.99,HI,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,South-eastern Asia,,2021
+Botswana,BWA,BW,2351.63,39.097,16152.66,UM,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Canada,CAN,CA,37742.16,1808.995,47568.77,HI,North America,Northern America,NAC,Northern America,,2021
+Switzerland,CHE,CH,8654.62,590.9,68339.7,HI,Europe & Central Asia,Europe,EUR,,,2021
+Chile,CHL,CL,19116.21,456.39,23454.95,HI,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+China,CHN,CN,1439323.77,24162.44,17205.65,UM,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,Eastern Asia,,2021
+Cote dIvoire,CIV,CI,26378.28,144.497,5360.11,LM,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Cameroon,CMR,CM,26545.86,96.989,3709.8,LM,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Colombia,COL,CO,50882.88,719.251,14136.84,UM,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+Cabo Verde,CPV,CV,555.99,3.887,6980.12,LM,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Costa Rica,CRI,CR,5094.11,99.037,19309.33,UM,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+Cyprus,CYP,CY,1207.36,34.62,39078.53,HI,Europe & Central Asia,Northern Africa and Western Asia,NAWA,Western Asia,EU27,2021
+Czech Republic,CZE,CZ,10708.98,430.891,40293.28,HI,Europe & Central Asia,Europe,EUR,Eastern Europe,EU27,2021
+Germany,DEU,DE,83783.95,4454.498,53571.19,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Denmark,DNK,DK,5792.2,335.805,57781.37,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Dominican Republic,DOM,DO,10847.9,196.493,18782.72,UM,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+Algeria,DZA,DZ,43851.04,488.291,11040.56,LM,Middle East & North Africa,Northern Africa and Western Asia,NAWA,Northern Africa,,2021
+Ecuador,ECU,EC,17643.06,185.913,10617.16,UM,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+Egypt,EGY,EG,102334.4,1292.478,12718.99,LM,Middle East & North Africa,Northern Africa and Western Asia,NAWA,Northern Africa,,2021
+Spain,ESP,ES,46754.78,1773.364,38143.19,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Estonia,EST,EE,1326.54,49.087,37032.82,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Ethiopia,ETH,ET,114963.58,272.017,2771.98,LI,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Finland,FIN,FI,5540.72,272.678,49333.93,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+France,FRA,FR,65273.51,2954.196,45454.19,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+United Kingdom,GBR,GB,67886,2978.564,44287.92,HI,Europe & Central Asia,Europe,EUR,,,2021
+Georgia,GEO,GE,3989.18,56.083,15142.4,UM,Europe & Central Asia,Northern Africa and Western Asia,NAWA,Western Asia,,2021
+Ghana,GHA,GH,31072.95,175.639,5706.51,LM,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Guinea,GIN,GN,13132.79,35.137,2515.63,LI,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Greece,GRC,GR,10423.06,310.743,29045.1,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Guatemala,GTM,GT,17915.57,148.562,8266.74,UM,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+Honduras,HND,HN,9904.61,55.057,5537.87,LM,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+Hong Kong,HKG,HK,7496.99,439.459,58165.2,HI,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,Eastern Asia,,2021
+Croatia,HRV,HR,4105.27,111.977,27681.32,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Hungary,HUN,HU,9660.35,316.342,32433.84,HI,Europe & Central Asia,Europe,EUR,Eastern Europe,EU27,2021
+Indonesia,IDN,ID,273523.62,3328.288,12345.13,UM,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,South-eastern Asia,,2021
+India,IND,IN,1380004.39,8681.303,6283.57,LM,South Asia,Central and Southern Asia,CSA,Southern Asia,,2021
+Ireland,IRL,IE,4937.8,447.723,89382.79,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Iran (Islamic Republic of),IRN,IR,83992.95,1006.697,11963.33,UM,Middle East & North Africa,Central and Southern Asia,CSA,Southern Asia,,2021
+Iceland,ISL,IS,341.25,19.82,54482.29,HI,Europe & Central Asia,Europe,EUR,,,2021
+Israel,ISR,IL,8655.54,360.972,39125.81,HI,Middle East & North Africa,Northern Africa and Western Asia,NAWA,Western Asia,,2021
+Italy,ITA,IT,60461.83,2415.41,40065.5,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Jamaica,JAM,JM,2961.16,27.855,10221.32,UM,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+Jordan,JOR,JO,10203.14,102.158,10006.95,UM,Middle East & North Africa,Northern Africa and Western Asia,NAWA,Western Asia,,2021
+Japan,JPN,JP,126476.46,5236.138,41636.63,HI,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,Eastern Asia,,2021
+Kazakhstan,KAZ,KZ,18776.71,501.786,26589.16,UM,Europe & Central Asia,Central and Southern Asia,CSA,Central Asia,,2021
+Kenya,KEN,KE,53771.3,243.137,4993.31,LM,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Kyrgyzstan,KGZ,KG,6524.19,31.439,4824.28,LM,Europe & Central Asia,Central and Southern Asia,CSA,Central Asia,,2021
+Cambodia,KHM,KH,16718.97,74.348,4441.02,LM,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,South-eastern Asia,,2021
+Republic of Korea,KOR,KR,51269.18,2293.475,44292.19,HI,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,Eastern Asia,,2021
+Kuwait,KWT,KW,4270.56,203.786,41734.72,HI,Middle East & North Africa,Northern Africa and Western Asia,NAWA,Western Asia,,2021
+Lao People's Democratic Republic,LAO,LA,7275.56,59.736,8220.89,LM,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,South-eastern Asia,,2021
+Lebanon,LBN,LB,6825.44,78.917,11562.15,UM,Middle East & North Africa,Northern Africa and Western Asia,NAWA,Western Asia,,2021
+Sri Lanka,LKA,LK,21413.25,287.671,13113.61,LM,South Asia,Central and Southern Asia,CSA,Southern Asia,,2021
+Lithuania,LTU,LT,2722.29,106.913,38604.76,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Luxembourg,LUX,LU,625.98,70.662,112875.12,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Latvia,LVA,LV,1886.2,58.593,30578.82,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Morocco,MAR,MA,36910.56,273.55,7608.74,LM,Middle East & North Africa,Northern Africa and Western Asia,NAWA,Northern Africa,,2021
+Republic of Moldova,MDA,MD,4033.96,34.908,13252.89,LM,Europe & Central Asia,Europe,EUR,Eastern Europe,,2021
+Madagascar,MDG,MG,27691.02,45.425,1647.15,LI,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Mexico,MEX,MX,128932.75,2424.511,18804.46,UM,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+North Macedonia,MKD,MK,2083.38,34.523,16609.32,UM,Europe & Central Asia,Europe,EUR,,,2021
+Mali,MLI,ML,20250.83,47.613,2421,LI,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Malta,MLT,MT,441.54,21.627,43086.54,HI,Middle East & North Africa,Europe,EUR,,EU27,2021
+Myanmar,MMR,MM,54409.79,275.513,5178.95,LM,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,South-eastern Asia,,2021
+Montenegro,MNE,ME,628.06,12.417,19930.51,UM,Europe & Central Asia,Europe,EUR,,,2021
+Mongolia,MNG,MN,3278.29,41.125,12259.06,LM,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,Eastern Asia,,2021
+Mozambique,MOZ,MZ,31255.44,40.923,1279.13,LI,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Mauritius,MUS,MU,1271.77,26.252,20718.62,HI,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Malawi,MWI,MW,19129.96,20.774,995.27,LI,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Malaysia,MYS,MY,32366,900.426,27287.38,UM,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,South-eastern Asia,,2021
+Namibia,NAM,,2540.92,24.132,9537.31,UM,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Niger,NER,NE,24206.64,30.322,1252.63,LI,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Nigeria,NGA,NG,206139.59,1044.211,5065.54,LM,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Netherlands,NLD,NL,17134.87,986.773,57101.36,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Norway,NOR,NO,5421.24,349.507,64856.46,HI,Europe & Central Asia,Europe,EUR,,,2021
+Nepal,NPL,NP,29136.81,103.359,3585.51,LM,South Asia,Central and Southern Asia,CSA,Southern Asia,,2021
+New Zealand,NZL,NZ,4822.23,205.541,41072.35,HI,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,,,2021
+Oman,OMN,OM,5106.62,129.195,29908.06,HI,Middle East & North Africa,Northern Africa and Western Asia,NAWA,Western Asia,,2021
+Pakistan,PAK,PK,220892.33,1076.258,5160.19,LM,South Asia,Central and Southern Asia,CSA,Southern Asia,,2021
+Panama,PAN,PA,4314.77,128.501,30034.14,HI,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+Peru,PER,PE,32971.85,385.719,11516.13,UM,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+Philippines,PHL,PH,109581.09,933.913,8573.7,LM,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,South-eastern Asia,,2021
+Poland,POL,PL,37846.61,1280.659,33738.71,HI,Europe & Central Asia,Europe,EUR,Eastern Europe,EU27,2021
+Portugal,PRT,PT,10196.71,339.948,33131.18,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Paraguay,PRY,PY,7132.53,90.678,12502.68,UM,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+Qatar,QAT,QA,2881.06,257.464,91897.1,HI,Middle East & North Africa,Northern Africa and Western Asia,NAWA,Western Asia,,2021
+Romania,ROU,RO,19237.68,584.852,30141,HI,Europe & Central Asia,Europe,EUR,Eastern Europe,EU27,2021
+Russian Federation,RUS,RU,145934.46,4021.733,27393.84,UM,Europe & Central Asia,Europe,EUR,Eastern Europe,,2021
+Rwanda,RWA,RW,12952.21,30.301,2392.56,LI,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Saudi Arabia,SAU,SA,34813.87,1608.61,46272.87,HI,Middle East & North Africa,Northern Africa and Western Asia,NAWA,Western Asia,,2021
+Senegal,SEN,SN,16743.93,58.075,3462.82,LM,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Singapore,SGP,SG,5850.34,551.628,95603.31,HI,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,South-eastern Asia,,2021
+El Salvador,SLV,SV,6486.2,54.488,8401.06,LM,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+Serbia,SRB,RS,8737.37,130.675,18840.3,UM,Europe & Central Asia,Europe,EUR,,,2021
+Slovakia,SVK,SK,5459.64,175.653,32184.3,HI,Europe & Central Asia,Europe,EUR,Eastern Europe,EU27,2021
+Slovenia,SVN,SI,2078.93,79.664,38506.47,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Sweden,SWE,SE,10099.27,551.517,52476.53,HI,Europe & Central Asia,Europe,EUR,,EU27,2021
+Togo,TGO,TG,8278.74,13.583,1639.57,LI,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Thailand,THA,TH,69799.98,1261.485,18072.85,UM,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,South-eastern Asia,,2021
+Tajikistan,TJK,TJ,9537.64,33.727,3559.52,LI,Europe & Central Asia,Central and Southern Asia,CSA,Central Asia,,2021
+Trinidad and Tobago,TTO,TT,1399.49,36.418,25964.39,HI,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+Tunisia,TUN,TN,11818.62,123.574,10381.68,LM,Middle East & North Africa,Northern Africa and Western Asia,NAWA,Northern Africa,,2021
+Turkey,TUR,TR,84339.07,2381.594,28293.6,UM,Europe & Central Asia,Northern Africa and Western Asia,NAWA,Western Asia,,2021
+United Republic of Tanzania,TZA,TZ,59734.21,165.339,2850.63,LM,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Uganda,UGA,UG,45741,106.568,2585.22,LI,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Ukraine,UKR,UA,43733.76,527.933,12710.37,LM,Europe & Central Asia,Europe,EUR,Eastern Europe,,2021
+Uruguay,URY,UY,3473.73,75.343,21338.18,HI,Latin America & Caribbean,Latin America and the Caribbean,LCN,Latin America and the Caribbean,,2021
+United States of America,USA,US,331002.65,20807.269,63051.4,HI,North America,Northern America,NAC,Northern America,,2021
+Uzbekistan,UZB,UZ,33469.2,250.157,7378.01,LM,Europe & Central Asia,Central and Southern Asia,CSA,Central Asia,,2021
+Viet Nam,VNM,VN,97338.58,1047.318,10754.53,LM,East Asia & Pacific,"South East Asia, East Asia, and Oceania",SEAO,South-eastern Asia,,2021
+Yemen,YEM,YE,29825.97,62.706,1931.13,LI,Middle East & North Africa,Northern Africa and Western Asia,NAWA,Western Asia,,2021
+South Africa,ZAF,ZA,59308.69,710.773,11911.45,UM,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Zambia,ZMB,ZM,18383.96,62.354,3302.3,LM,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021
+Zimbabwe,ZWE,ZW,14862.93,39.234,2583.01,LM,Sub-Saharan Africa,Sub-Saharan Africa,SSF,Sub-Saharan Africa,,2021

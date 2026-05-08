@@ -1,0 +1,565 @@
+iso3,year,country_name,value,wb_indicator,canonical_name
+ALB,2022,Albania,0.19997,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ALB,2021,Albania,0.18998,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+DZA,2024,Algeria,0.44395,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+DZA,2023,Algeria,0.37787,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+AND,2022,Andorra,0.15818,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARG,2023,Argentina,0.60111,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARG,2022,Argentina,0.54951,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARG,2021,Argentina,0.5236,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARG,2020,Argentina,0.54126,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARG,2019,Argentina,0.47813,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARG,2018,Argentina,0.4883,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARM,2024,Armenia,0.2861,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARM,2023,Armenia,0.1821,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARM,2022,Armenia,0.20955,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARM,2021,Armenia,0.20557,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARM,2020,Armenia,0.2092,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARM,2019,Armenia,0.17854,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARM,2018,Armenia,0.18876,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+AUS,2021,Australia,1.85783,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+AUS,2019,Australia,1.82826,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+AUT,2023,Austria,3.25517,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+AUT,2022,Austria,3.17775,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+AUT,2021,Austria,3.25565,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+AUT,2020,Austria,3.20758,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+AUT,2019,Austria,3.14405,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+AUT,2018,Austria,3.10828,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+AZE,2024,Azerbaijan,0.20778,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+AZE,2023,Azerbaijan,0.1816,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+AZE,2022,Azerbaijan,0.1513,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+AZE,2021,Azerbaijan,0.20836,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+AZE,2020,Azerbaijan,0.2239,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+AZE,2019,Azerbaijan,0.20013,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+AZE,2018,Azerbaijan,0.18416,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BHR,2024,Bahrain,0.19327,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BLR,2024,Belarus,0.5872,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BLR,2023,Belarus,0.57348,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BLR,2022,Belarus,0.47477,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BLR,2021,Belarus,0.45981,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BLR,2020,Belarus,0.53901,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BLR,2019,Belarus,0.57733,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BLR,2018,Belarus,0.60443,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BEL,2023,Belgium,3.27235,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BEL,2022,Belgium,3.19592,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BEL,2021,Belgium,3.40589,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BEL,2020,Belgium,3.36823,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BEL,2019,Belgium,3.15154,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BEL,2018,Belgium,2.86365,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BMU,2020,Bermuda,0.22546,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BMU,2019,Bermuda,0.26451,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BMU,2018,Bermuda,0.22851,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BTN,2024,Bhutan,0.09979,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BTN,2023,Bhutan,0.10787,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BOL,2021,Bolivia,0.06308,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BOL,2019,Bolivia,0.06643,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BIH,2024,Bosnia and Herzegovina,0.21437,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BIH,2023,Bosnia and Herzegovina,0.18853,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BIH,2022,Bosnia and Herzegovina,0.18743,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BIH,2021,Bosnia and Herzegovina,0.19035,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BIH,2020,Bosnia and Herzegovina,0.20325,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BIH,2019,Bosnia and Herzegovina,0.19001,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BIH,2018,Bosnia and Herzegovina,0.19199,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BRA,2023,Brazil,1.1938,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BRA,2022,Brazil,1.18873,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BRA,2021,Brazil,1.13371,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BRA,2020,Brazil,1.21907,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BRA,2019,Brazil,1.15115,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BRA,2018,Brazil,1.15016,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BRN,2018,Brunei Darussalam,0.27764,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BGR,2023,Bulgaria,0.79224,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BGR,2022,Bulgaria,0.75174,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BGR,2021,Bulgaria,0.76933,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BGR,2020,Bulgaria,0.84549,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BGR,2019,Bulgaria,0.83576,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BGR,2018,Bulgaria,0.75505,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BFA,2024,Burkina Faso,0.10477,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BFA,2023,Burkina Faso,0.09845,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BFA,2021,Burkina Faso,0.25057,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BFA,2020,Burkina Faso,0.25116,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BFA,2019,Burkina Faso,0.17435,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+BDI,2018,Burundi,0.21312,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CAN,2024,Canada,1.7908,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CAN,2023,Canada,1.81048,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CAN,2022,Canada,1.81291,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CAN,2021,Canada,1.87064,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CAN,2020,Canada,1.93413,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CAN,2019,Canada,1.75578,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CAN,2018,Canada,1.7372,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CHL,2022,Chile,0.39205,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CHL,2021,Chile,0.36063,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CHL,2020,Chile,0.33525,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CHL,2019,Chile,0.34243,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CHL,2018,Chile,0.36916,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CHN,2023,China,2.57729,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CHN,2022,China,2.4945,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CHN,2021,China,2.38165,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CHN,2020,China,2.35712,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CHN,2019,China,2.20144,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CHN,2018,China,2.10232,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+COL,2020,Colombia,0.2894,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+COL,2019,Colombia,0.32201,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+COL,2018,Colombia,0.31233,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+COG,2022,"Congo, Rep.",0.38339,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CRI,2023,Costa Rica,0.33738,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CRI,2022,Costa Rica,0.33789,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CRI,2021,Costa Rica,0.27385,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CRI,2020,Costa Rica,0.33002,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CRI,2018,Costa Rica,0.37144,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HRV,2023,Croatia,1.38621,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HRV,2022,Croatia,1.41896,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HRV,2021,Croatia,1.24187,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HRV,2020,Croatia,1.23536,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HRV,2019,Croatia,1.07723,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HRV,2018,Croatia,0.94608,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CUB,2024,Cuba,0.43839,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CUB,2023,Cuba,0.39213,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CUB,2022,Cuba,0.36032,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CUB,2021,Cuba,0.32282,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CUB,2020,Cuba,0.51838,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CUB,2019,Cuba,0.55308,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CUB,2018,Cuba,0.53691,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CYP,2023,Cyprus,0.68145,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CYP,2022,Cyprus,0.70468,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CYP,2021,Cyprus,0.77686,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CYP,2020,Cyprus,0.82581,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CYP,2019,Cyprus,0.70269,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CYP,2018,Cyprus,0.61032,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CZE,2023,Czechia,1.83369,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CZE,2022,Czechia,1.89089,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CZE,2021,Czechia,1.93302,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CZE,2020,Czechia,1.94537,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CZE,2019,Czechia,1.89547,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CZE,2018,Czechia,1.87652,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+DNK,2023,Denmark,3.04841,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+DNK,2022,Denmark,2.86709,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+DNK,2021,Denmark,2.74323,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+DNK,2020,Denmark,2.96533,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+DNK,2019,Denmark,2.90605,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+DNK,2018,Denmark,2.97895,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+EGY,2024,"Egypt, Arab Rep.",1.01757,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+EGY,2023,"Egypt, Arab Rep.",1.03356,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+EGY,2022,"Egypt, Arab Rep.",1.01968,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+EGY,2021,"Egypt, Arab Rep.",0.91175,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+EGY,2020,"Egypt, Arab Rep.",0.91564,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+EGY,2019,"Egypt, Arab Rep.",0.79617,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+EGY,2018,"Egypt, Arab Rep.",0.68839,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SLV,2023,El Salvador,0.10152,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SLV,2022,El Salvador,0.14333,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SLV,2021,El Salvador,0.16252,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SLV,2020,El Salvador,0.16299,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SLV,2019,El Salvador,0.17477,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SLV,2018,El Salvador,0.16531,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+EST,2023,Estonia,1.83878,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+EST,2022,Estonia,1.76094,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+EST,2021,Estonia,1.75152,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+EST,2020,Estonia,1.72614,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+EST,2019,Estonia,1.59093,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+EST,2018,Estonia,1.38298,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+FIN,2023,Finland,3.0938,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+FIN,2022,Finland,2.982,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+FIN,2021,Finland,3.01133,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+FIN,2020,Finland,2.93278,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+FIN,2019,Finland,2.81534,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+FIN,2018,Finland,2.77601,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+FRA,2023,France,2.17832,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+FRA,2022,France,2.21937,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+FRA,2021,France,2.21278,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+FRA,2020,France,2.2742,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+FRA,2019,France,2.19668,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+FRA,2018,France,2.20407,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GMB,2018,"Gambia, The",0.06933,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GEO,2024,Georgia,0.26435,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GEO,2023,Georgia,0.25084,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GEO,2022,Georgia,0.2347,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GEO,2021,Georgia,0.24875,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GEO,2020,Georgia,0.29765,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GEO,2019,Georgia,0.28197,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GEO,2018,Georgia,0.27573,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+DEU,2023,Germany,3.1539,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+DEU,2022,Germany,3.07096,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+DEU,2021,Germany,3.0786,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+DEU,2020,Germany,3.0897,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+DEU,2019,Germany,3.11256,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+DEU,2018,Germany,3.05057,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GRC,2023,Greece,1.4943,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GRC,2022,Greece,1.47714,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GRC,2021,Greece,1.43353,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GRC,2020,Greece,1.48872,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GRC,2019,Greece,1.26236,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GRC,2018,Greece,1.2066,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GTM,2023,Guatemala,0.00609,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GTM,2022,Guatemala,0.00549,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GTM,2021,Guatemala,0.05835,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GTM,2020,Guatemala,0.04887,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GTM,2019,Guatemala,0.02642,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GTM,2018,Guatemala,0.02938,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HND,2019,Honduras,0.05997,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HND,2018,Honduras,0.06394,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HKG,2024,"Hong Kong SAR, China",1.12597,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HKG,2023,"Hong Kong SAR, China",1.10625,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HKG,2022,"Hong Kong SAR, China",1.07293,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HKG,2021,"Hong Kong SAR, China",0.97026,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HKG,2020,"Hong Kong SAR, China",0.99236,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HKG,2019,"Hong Kong SAR, China",0.92557,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HKG,2018,"Hong Kong SAR, China",0.8633,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HUN,2023,Hungary,1.37748,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HUN,2022,Hungary,1.39056,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HUN,2021,Hungary,1.63327,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HUN,2020,Hungary,1.58067,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HUN,2019,Hungary,1.46473,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+HUN,2018,Hungary,1.50196,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ISL,2023,Iceland,2.64005,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ISL,2022,Iceland,2.60089,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ISL,2021,Iceland,2.78171,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ISL,2020,Iceland,2.4864,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ISL,2019,Iceland,2.34018,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ISL,2018,Iceland,2.00081,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IND,2020,India,0.64558,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IND,2019,India,0.65942,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IND,2018,India,0.66001,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IDN,2020,Indonesia,0.28068,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IDN,2019,Indonesia,0.27129,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IDN,2018,Indonesia,0.22632,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IRN,2021,"Iran, Islamic Rep.",0.72665,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IRN,2019,"Iran, Islamic Rep.",0.78829,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IRQ,2021,Iraq,0.0407,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IRQ,2020,Iraq,0.04053,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IRQ,2019,Iraq,0.03266,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IRQ,2018,Iraq,0.04279,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IRL,2023,Ireland,1.58829,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IRL,2022,Ireland,1.53215,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IRL,2021,Ireland,1.0732,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IRL,2020,Ireland,1.12466,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IRL,2019,Ireland,1.13733,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+IRL,2018,Ireland,1.08244,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ISR,2023,Israel,6.34589,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ISR,2022,Israel,6.17831,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ISR,2021,Israel,5.75725,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ISR,2020,Israel,5.83209,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ISR,2019,Israel,5.35528,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ISR,2018,Israel,4.91965,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ITA,2023,Italy,1.37935,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ITA,2022,Italy,1.36563,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ITA,2021,Italy,1.41065,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ITA,2020,Italy,1.49869,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ITA,2019,Italy,1.45558,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ITA,2018,Italy,1.41934,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+JPN,2023,Japan,3.44125,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+JPN,2022,Japan,3.40053,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+JPN,2021,Japan,3.27383,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+JPN,2020,Japan,3.26556,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+JPN,2019,Japan,3.21824,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+JPN,2018,Japan,3.2192,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KAZ,2024,Kazakhstan,0.16242,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KAZ,2023,Kazakhstan,0.14449,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KAZ,2022,Kazakhstan,0.11715,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KAZ,2021,Kazakhstan,0.13023,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KAZ,2020,Kazakhstan,0.12602,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KAZ,2019,Kazakhstan,0.11841,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KAZ,2018,Kazakhstan,0.11683,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KEN,2024,Kenya,0.81069,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KEN,2023,Kenya,0.80427,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KEN,2022,Kenya,0.40651,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KOR,2023,"Korea, Rep.",4.94352,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KOR,2022,"Korea, Rep.",4.84753,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KOR,2021,"Korea, Rep.",4.59673,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KOR,2020,"Korea, Rep.",4.5214,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KOR,2019,"Korea, Rep.",4.36379,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KOR,2018,"Korea, Rep.",4.27155,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KWT,2024,Kuwait,0.08954,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KWT,2023,Kuwait,0.09547,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KWT,2022,Kuwait,0.0801,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KWT,2020,Kuwait,0.17805,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KWT,2019,Kuwait,0.18512,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KWT,2018,Kuwait,0.06329,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KGZ,2024,Kyrgyz Republic,0.05269,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KGZ,2023,Kyrgyz Republic,0.05414,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KGZ,2022,Kyrgyz Republic,0.06922,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KGZ,2021,Kyrgyz Republic,0.07102,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KGZ,2020,Kyrgyz Republic,0.08356,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KGZ,2019,Kyrgyz Republic,0.08535,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+KGZ,2018,Kyrgyz Republic,0.10107,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LVA,2023,Latvia,0.8236,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LVA,2022,Latvia,0.8122,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LVA,2021,Latvia,0.77085,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LVA,2020,Latvia,0.75663,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LVA,2019,Latvia,0.6602,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LVA,2018,Latvia,0.66138,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LSO,2023,Lesotho,0.09453,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LIE,2023,Liechtenstein,6.00984,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LIE,2019,Liechtenstein,5.86833,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LTU,2023,Lithuania,1.04977,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LTU,2022,Lithuania,1.05289,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LTU,2021,Lithuania,1.10044,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LTU,2020,Lithuania,1.12379,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LTU,2019,Lithuania,0.98701,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LTU,2018,Lithuania,0.92781,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LUX,2023,Luxembourg,1.07045,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LUX,2022,Luxembourg,1.0653,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LUX,2021,Luxembourg,1.03153,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LUX,2020,Luxembourg,1.09627,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LUX,2019,Luxembourg,1.18209,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LUX,2018,Luxembourg,1.17039,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MAC,2024,"Macao SAR, China",0.31097,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MAC,2023,"Macao SAR, China",0.27103,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MAC,2022,"Macao SAR, China",0.42754,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MAC,2021,"Macao SAR, China",0.37318,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MAC,2020,"Macao SAR, China",0.45327,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MAC,2019,"Macao SAR, China",0.24721,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MAC,2018,"Macao SAR, China",0.20113,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MWI,2019,Malawi,0.17752,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MYS,2022,Malaysia,1.0121,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MYS,2020,Malaysia,0.95055,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MYS,2018,Malaysia,1.04026,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MLI,2023,Mali,0.14743,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MLI,2021,Mali,0.14596,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MLI,2019,Mali,0.13306,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MLT,2023,Malta,0.64792,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MLT,2022,Malta,0.5745,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MLT,2021,Malta,0.59682,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MLT,2020,Malta,0.60002,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MLT,2019,Malta,0.54851,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MLT,2018,Malta,0.54557,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MRT,2018,Mauritania,0.01019,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MUS,2024,Mauritius,0.26181,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MUS,2023,Mauritius,0.23892,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MUS,2022,Mauritius,0.30879,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MUS,2021,Mauritius,0.36784,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MUS,2020,Mauritius,0.40299,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MUS,2019,Mauritius,0.35699,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MUS,2018,Mauritius,0.33387,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MEX,2024,Mexico,0.25372,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MEX,2023,Mexico,0.26746,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MEX,2022,Mexico,0.25727,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MEX,2021,Mexico,0.27305,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MEX,2020,Mexico,0.29185,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MEX,2019,Mexico,0.27629,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MEX,2018,Mexico,0.29816,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MDA,2024,Moldova,0.21589,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MDA,2023,Moldova,0.22111,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MDA,2022,Moldova,0.22959,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MDA,2021,Moldova,0.23154,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MDA,2020,Moldova,0.23511,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MDA,2019,Moldova,0.24145,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MDA,2018,Moldova,0.25626,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MNG,2022,Mongolia,0.08365,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MNG,2021,Mongolia,0.10008,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MNG,2020,Mongolia,0.13301,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MNG,2019,Mongolia,0.0927,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MNG,2018,Mongolia,0.10161,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MNE,2019,Montenegro,0.36328,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MNE,2018,Montenegro,0.50374,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MMR,2023,Myanmar,0.02307,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MMR,2022,Myanmar,0.03519,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MMR,2021,Myanmar,0.12402,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MMR,2020,Myanmar,0.15568,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MMR,2019,Myanmar,0.08341,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MMR,2018,Myanmar,0.05881,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NAM,2022,Namibia,0.64636,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NLD,2023,Netherlands,2.26719,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NLD,2022,Netherlands,2.17529,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NLD,2021,Netherlands,2.21542,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NLD,2020,Netherlands,2.26514,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NLD,2019,Netherlands,2.14036,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NLD,2018,Netherlands,2.1027,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NZL,2023,New Zealand,1.54848,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NZL,2021,New Zealand,1.48604,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NZL,2019,New Zealand,1.4642,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NGA,2019,Nigeria,0.28444,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MKD,2024,North Macedonia,0.37363,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MKD,2023,North Macedonia,0.3699,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MKD,2022,North Macedonia,0.37372,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MKD,2021,North Macedonia,0.37252,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MKD,2020,North Macedonia,0.37264,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MKD,2019,North Macedonia,0.36783,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+MKD,2018,North Macedonia,0.36367,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NOR,2023,Norway,1.85142,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NOR,2022,Norway,1.55081,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NOR,2021,Norway,1.88764,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NOR,2020,Norway,2.24436,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NOR,2019,Norway,2.13599,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+NOR,2018,Norway,2.03482,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+OMN,2024,Oman,0.38979,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+OMN,2023,Oman,0.37526,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+OMN,2022,Oman,0.28711,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+OMN,2021,Oman,0.29266,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+OMN,2020,Oman,0.31599,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+OMN,2019,Oman,0.27255,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+OMN,2018,Oman,0.19031,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PAK,2023,Pakistan,0.16399,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PAK,2021,Pakistan,0.16431,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PAK,2019,Pakistan,0.17475,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PAN,2024,Panama,0.19708,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PAN,2023,Panama,0.15803,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PAN,2022,Panama,0.18302,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PAN,2021,Panama,0.17691,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PAN,2020,Panama,0.23246,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PAN,2019,Panama,0.13613,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PAN,2018,Panama,0.13355,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PRY,2023,Paraguay,0.14117,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PRY,2022,Paraguay,0.11944,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PRY,2021,Paraguay,0.14398,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PRY,2020,Paraguay,0.15697,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PRY,2019,Paraguay,0.13751,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PRY,2018,Paraguay,0.14684,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PER,2023,Peru,0.17611,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PER,2022,Peru,0.16206,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PER,2021,Peru,0.13754,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PER,2020,Peru,0.17229,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PER,2019,Peru,0.15696,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PER,2018,Peru,0.12683,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PHL,2020,Philippines,0.27625,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PHL,2019,Philippines,0.25926,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PHL,2018,Philippines,0.32222,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+POL,2023,Poland,1.55525,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+POL,2022,Poland,1.44162,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+POL,2021,Poland,1.41558,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+POL,2020,Poland,1.37128,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+POL,2019,Poland,1.3088,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+POL,2018,Poland,1.19426,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PRT,2023,Portugal,1.69491,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PRT,2022,Portugal,1.69051,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PRT,2021,Portugal,1.66711,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PRT,2020,Portugal,1.60979,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PRT,2019,Portugal,1.39487,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+PRT,2018,Portugal,1.35078,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+QAT,2021,Qatar,0.68058,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+QAT,2018,Qatar,0.53129,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ROU,2023,Romania,0.51656,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ROU,2022,Romania,0.46274,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ROU,2021,Romania,0.47108,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ROU,2020,Romania,0.46414,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ROU,2019,Romania,0.47491,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ROU,2018,Romania,0.49698,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+RUS,2024,Russian Federation,0.93706,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+RUS,2023,Russian Federation,0.93518,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+RUS,2022,Russian Federation,0.91494,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+RUS,2021,Russian Federation,0.96602,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+RUS,2020,Russian Federation,1.09099,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+RUS,2019,Russian Federation,1.03531,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+RUS,2018,Russian Federation,0.99001,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+RWA,2023,Rwanda,0.78149,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+RWA,2019,Rwanda,0.75853,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SAU,2024,Saudi Arabia,0.63522,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SAU,2023,Saudi Arabia,0.49487,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SAU,2022,Saudi Arabia,0.41439,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SAU,2021,Saudi Arabia,0.39379,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SAU,2020,Saudi Arabia,0.47618,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SRB,2024,Serbia,0.93978,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SRB,2023,Serbia,0.87816,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SRB,2022,Serbia,0.91938,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SRB,2021,Serbia,0.94784,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SRB,2020,Serbia,0.86478,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SRB,2019,Serbia,0.84798,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SRB,2018,Serbia,0.88154,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SGP,2022,Singapore,1.80821,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SGP,2021,Singapore,1.93761,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SGP,2020,Singapore,2.15983,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SGP,2019,Singapore,1.88845,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SGP,2018,Singapore,1.80836,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SVK,2023,Slovak Republic,1.03359,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SVK,2022,Slovak Republic,0.97686,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SVK,2021,Slovak Republic,0.90093,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SVK,2020,Slovak Republic,0.88944,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SVK,2019,Slovak Republic,0.82138,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SVK,2018,Slovak Republic,0.83184,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SVN,2023,Slovenia,2.13385,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SVN,2022,Slovenia,2.1,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SVN,2021,Slovenia,2.13847,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SVN,2020,Slovenia,2.15559,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SVN,2019,Slovenia,2.05725,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SVN,2018,Slovenia,1.96365,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ZAF,2022,South Africa,0.61479,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ZAF,2021,South Africa,0.6139,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ZAF,2020,South Africa,0.60296,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ZAF,2019,South Africa,0.61304,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ZAF,2018,South Africa,0.68586,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ESP,2023,Spain,1.49362,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ESP,2022,Spain,1.40684,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ESP,2021,Spain,1.39617,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ESP,2020,Spain,1.39637,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ESP,2019,Spain,1.24207,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ESP,2018,Spain,1.23288,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LKA,2022,Sri Lanka,0.10506,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LKA,2020,Sri Lanka,0.11616,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+LKA,2018,Sri Lanka,0.11949,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SWE,2023,Sweden,3.59978,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SWE,2022,Sweden,3.47239,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SWE,2021,Sweden,3.41565,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SWE,2020,Sweden,3.50181,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SWE,2019,Sweden,3.39847,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SWE,2018,Sweden,3.34602,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CHE,2023,Switzerland,3.22178,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CHE,2021,Switzerland,3.24862,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+CHE,2019,Switzerland,3.14983,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+SYR,2022,Syrian Arab Republic,0.04217,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TJK,2020,Tajikistan,0.08969,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TJK,2019,Tajikistan,0.09367,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TJK,2018,Tajikistan,0.09401,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+THA,2023,Thailand,0.93628,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+THA,2022,Thailand,1.15902,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+THA,2021,Thailand,1.20822,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+THA,2020,Thailand,1.32818,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+THA,2019,Thailand,1.14317,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+THA,2018,Thailand,1.11375,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TGO,2024,Togo,0.22229,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TTO,2022,Trinidad and Tobago,0.05039,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TTO,2021,Trinidad and Tobago,0.05445,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TTO,2020,Trinidad and Tobago,0.06455,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TTO,2019,Trinidad and Tobago,0.06007,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TTO,2018,Trinidad and Tobago,0.08371,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TUN,2019,Tunisia,0.74658,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TUN,2018,Tunisia,0.71645,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TUR,2023,Turkiye,1.42224,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TUR,2022,Turkiye,1.32342,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TUR,2021,Turkiye,1.40209,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TUR,2020,Turkiye,1.36748,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TUR,2019,Turkiye,1.3196,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TUR,2018,Turkiye,1.27093,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TKM,2023,Turkmenistan,0.09,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TKM,2022,Turkmenistan,0.14,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TKM,2021,Turkmenistan,0.1,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TKM,2020,Turkmenistan,0.13,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TKM,2019,Turkmenistan,0.11,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+TKM,2018,Turkmenistan,0.08,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+UGA,2023,Uganda,0.4383,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+UKR,2024,Ukraine,0.36988,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+UKR,2023,Ukraine,0.32209,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+UKR,2022,Ukraine,0.32673,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+UKR,2021,Ukraine,0.38478,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+UKR,2020,Ukraine,0.40318,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+UKR,2019,Ukraine,0.43384,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+UKR,2018,Ukraine,0.47113,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARE,2021,United Arab Emirates,1.49469,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARE,2020,United Arab Emirates,1.48831,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARE,2019,United Arab Emirates,1.31065,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+ARE,2018,United Arab Emirates,1.26389,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GBR,2023,United Kingdom,2.67614,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GBR,2022,United Kingdom,2.75224,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GBR,2021,United Kingdom,2.89968,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GBR,2020,United Kingdom,2.93993,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GBR,2019,United Kingdom,2.6707,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+GBR,2018,United Kingdom,2.70889,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+USA,2023,United States,3.44716,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+USA,2022,United States,3.48736,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+USA,2021,United States,3.4689,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+USA,2020,United States,3.41788,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+USA,2019,United States,3.14297,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+USA,2018,United States,2.98956,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+URY,2023,Uruguay,0.70196,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+URY,2022,Uruguay,0.62206,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+URY,2021,Uruguay,0.61467,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+URY,2020,Uruguay,0.67606,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+URY,2019,Uruguay,0.56805,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+URY,2018,Uruguay,0.50484,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+UZB,2024,Uzbekistan,0.10416,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+UZB,2023,Uzbekistan,0.11093,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+UZB,2022,Uzbekistan,0.14297,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+UZB,2021,Uzbekistan,0.11843,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+UZB,2020,Uzbekistan,0.12554,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+UZB,2019,Uzbekistan,0.10128,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+UZB,2018,Uzbekistan,0.11164,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+VNM,2023,Viet Nam,0.41456,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+VNM,2021,Viet Nam,0.42494,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp
+VNM,2019,Viet Nam,0.41652,GB.XPD.RSDV.GD.ZS,rd_expenditure_pct_gdp

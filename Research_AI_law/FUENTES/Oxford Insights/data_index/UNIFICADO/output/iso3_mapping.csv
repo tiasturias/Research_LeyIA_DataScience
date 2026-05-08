@@ -1,0 +1,230 @@
+pais_original,iso3,entity_type,aparece_2019,aparece_2020,aparece_2021,aparece_2022,aparece_2023,aparece_2024,aparece_2025,total_apariciones
+Afghanistan,AFG,pais,True,True,True,True,True,True,True,7
+Albania,ALB,pais,True,True,True,True,True,True,True,7
+Algeria,DZA,pais,True,True,True,True,True,True,True,7
+Andorra,AND,pais,True,False,False,True,True,True,True,5
+Angola,AGO,pais,True,True,True,True,True,True,True,7
+Antigua and Barbuda,ATG,pais,True,True,False,True,True,True,True,6
+Argentina,ARG,pais,True,True,True,True,True,True,True,7
+Armenia,ARM,pais,True,True,True,True,True,True,True,7
+Australia,AUS,pais,True,True,True,True,True,True,True,7
+Austria,AUT,pais,True,True,True,True,True,True,True,7
+Azerbaijan,AZE,pais,True,True,True,True,True,True,True,7
+Bahamas,BHS,pais,False,False,False,True,True,True,True,4
+Bahamas (the),BHS,pais,True,False,False,False,False,False,False,1
+Bahrain,BHR,pais,True,True,True,True,True,True,True,7
+Bangladesh,BGD,pais,True,True,True,True,True,True,True,7
+Barbados,BRB,pais,True,True,True,True,True,True,True,7
+Belarus,BLR,pais,True,True,True,True,True,True,True,7
+Belgium,BEL,pais,True,True,True,True,True,True,True,7
+Belize,BLZ,pais,True,True,True,True,True,True,True,7
+Benin,BEN,pais,True,True,True,True,True,True,True,7
+Bhutan,BTN,pais,True,True,True,True,True,True,True,7
+Bolivia,BOL,pais,False,True,True,True,False,False,False,3
+Bolivia (Plurinational State of),BOL,pais,True,False,False,False,True,True,True,4
+Bosnia and Herzegovina,BIH,pais,True,True,True,True,True,True,True,7
+Botswana,BWA,pais,True,True,True,True,True,True,True,7
+Brazil,BRA,pais,True,True,True,True,True,True,True,7
+Brunei Darussalam,BRN,pais,True,True,True,True,True,True,True,7
+Bulgaria,BGR,pais,True,True,True,True,True,True,True,7
+Burkina Faso,BFA,pais,True,True,True,True,True,True,True,7
+Burundi,BDI,pais,True,True,True,True,True,True,True,7
+Cabo Verde,CPV,pais,True,True,True,True,True,True,True,7
+Cambodia,KHM,pais,True,True,True,True,True,True,True,7
+Cameroon,CMR,pais,True,True,True,True,True,True,True,7
+Canada,CAN,pais,True,True,True,True,True,True,True,7
+Central African Republic,CAF,pais,False,False,True,True,True,True,True,5
+Central African Republic (the),CAF,pais,True,False,False,False,False,False,False,1
+Chad,TCD,pais,True,True,True,True,True,True,True,7
+Chile,CHL,pais,True,True,True,True,True,True,True,7
+China,CHN,pais,True,True,True,True,True,True,True,7
+Colombia,COL,pais,True,True,True,True,True,True,True,7
+Comoros,COM,pais,False,True,False,True,True,True,True,5
+Comoros (the),COM,pais,True,False,False,False,False,False,False,1
+Congo,COG,pais,False,True,True,True,True,True,True,6
+Congo (the),COG,pais,True,False,False,False,False,False,False,1
+Costa Rica,CRI,pais,True,True,True,True,True,True,True,7
+Croatia,HRV,pais,True,True,True,True,True,True,True,7
+Cuba,CUB,pais,True,True,True,True,True,True,True,7
+Cyprus,CYP,pais,True,True,True,True,True,True,True,7
+Czech Republic,CZE,pais,True,True,True,True,False,False,False,4
+Czechia,CZE,pais,False,False,False,False,True,True,True,3
+Côte D'Ivoire,CIV,pais,False,True,True,True,True,False,True,5
+Côte d'Ivoire,CIV,pais,True,False,False,False,False,True,False,2
+Democratic People's Republic of Korea,PRK,pais,False,False,False,False,True,False,True,2
+Democratic People's Republic of Korea (the),PRK,pais,True,False,False,False,False,False,False,1
+Democratic Republic of the Congo,COD,pais,False,True,True,True,True,True,True,6
+Democratic Republic of the Congo (the),COD,pais,True,False,False,False,False,False,False,1
+Denmark,DNK,pais,True,True,True,True,True,True,True,7
+Djibouti,DJI,pais,True,True,False,True,True,True,True,6
+Dominica,DMA,pais,True,True,False,False,True,False,True,4
+Dominican Republic,DOM,pais,False,True,True,True,True,True,True,6
+Dominican Republic (the),DOM,pais,True,False,False,False,False,False,False,1
+Ecuador,ECU,pais,True,True,True,True,True,True,True,7
+Egypt,EGY,pais,True,True,True,True,True,True,True,7
+El Salvador,SLV,pais,True,True,True,True,True,True,True,7
+Equatorial Guinea,GNQ,pais,True,False,False,False,True,True,True,4
+Eritrea,ERI,pais,True,False,False,True,True,True,True,5
+Estonia,EST,pais,True,True,True,True,True,True,True,7
+Eswatini,SWZ,pais,False,True,True,True,True,True,True,6
+Ethiopia,ETH,pais,True,True,True,True,True,True,True,7
+Fiji,FJI,pais,True,True,True,True,True,True,True,7
+Finland,FIN,pais,True,True,True,True,True,True,True,7
+France,FRA,pais,True,True,True,True,True,True,True,7
+Gabon,GAB,pais,True,True,True,True,True,True,True,7
+Gambia,GMB,pais,False,True,True,True,False,False,False,3
+Gambia (Republic of The),GMB,pais,False,False,False,False,True,True,True,3
+Gambia (the),GMB,pais,True,False,False,False,False,False,False,1
+Georgia,GEO,pais,True,True,True,True,True,True,True,7
+Germany,DEU,pais,True,True,True,True,True,True,True,7
+Ghana,GHA,pais,True,True,True,True,True,True,True,7
+Greece,GRC,pais,True,True,True,True,True,True,True,7
+Grenada,GRD,pais,True,True,False,True,True,True,True,6
+Guatemala,GTM,pais,True,True,True,True,True,True,True,7
+Guinea,GIN,pais,True,True,True,True,True,True,True,7
+Guinea Bissau,GNB,pais,False,True,False,True,True,True,True,5
+Guinea-Bissau,GNB,pais,True,False,False,False,False,False,False,1
+Guyana,GUY,pais,True,True,False,True,True,True,True,6
+Haiti,HTI,pais,True,True,True,True,True,True,True,7
+Honduras,HND,pais,True,True,True,True,True,True,True,7
+Hungary,HUN,pais,True,True,True,True,True,True,True,7
+Iceland,ISL,pais,True,True,True,True,True,True,True,7
+India,IND,pais,True,True,True,True,True,True,True,7
+Indonesia,IDN,pais,True,True,True,True,True,True,True,7
+Iran,IRN,pais,False,True,True,True,False,False,False,3
+Iran (Islamic Republic of),IRN,pais,True,False,False,False,True,True,True,4
+Iraq,IRQ,pais,True,True,True,True,True,True,True,7
+Ireland,IRL,pais,True,True,True,True,True,True,True,7
+Israel,ISR,pais,True,True,True,True,True,True,True,7
+Italy,ITA,pais,True,True,True,True,True,True,True,7
+Jamaica,JAM,pais,True,True,True,True,True,True,True,7
+Japan,JPN,pais,True,True,True,True,True,True,True,7
+Jordan,JOR,pais,True,True,True,True,True,True,True,7
+Kazakhstan,KAZ,pais,True,True,True,True,True,True,True,7
+Kenya,KEN,pais,True,True,True,True,True,True,True,7
+Kiribati,KIR,pais,True,True,False,True,True,True,True,6
+Kuwait,KWT,pais,True,True,True,True,True,True,True,7
+Kyrgyzstan,KGZ,pais,True,True,True,True,True,True,True,7
+Lao People's Democratic Republic,LAO,pais,False,True,True,True,True,True,True,6
+Lao People's Democratic Republic (the),LAO,pais,True,False,False,False,False,False,False,1
+Latvia,LVA,pais,True,True,True,True,True,True,True,7
+Lebanon,LBN,pais,True,True,True,True,True,True,True,7
+Lesotho,LSO,pais,True,True,True,True,True,True,True,7
+Liberia,LBR,pais,True,False,True,True,True,True,True,6
+Libya,LBY,pais,True,False,False,True,True,True,True,5
+Liechtenstein,LIE,pais,True,False,False,False,True,True,True,4
+Lithuania,LTU,pais,True,True,True,True,True,True,True,7
+Luxembourg,LUX,pais,True,True,True,True,True,True,True,7
+Madagascar,MDG,pais,True,True,True,True,True,True,True,7
+Malawi,MWI,pais,True,True,True,True,True,True,True,7
+Malaysia,MYS,pais,True,True,True,True,True,True,True,7
+Maldives,MDV,pais,True,True,True,True,True,True,True,7
+Mali,MLI,pais,True,True,True,True,True,True,True,7
+Malta,MLT,pais,True,True,True,True,True,True,True,7
+Marshall Islands,MHL,pais,False,False,False,False,True,True,True,3
+Marshall Islands (the),MHL,pais,True,False,False,False,False,False,False,1
+Mauritania,MRT,pais,True,True,True,True,True,True,True,7
+Mauritius,MUS,pais,True,True,True,True,True,True,True,7
+Mexico,MEX,pais,True,True,True,True,True,True,True,7
+Micronesia (Federated States of),FSM,pais,True,False,False,False,False,False,True,2
+Monaco,MCO,pais,True,False,False,False,True,False,True,3
+Mongolia,MNG,pais,True,True,True,True,True,True,True,7
+Montenegro,MNE,pais,True,True,True,True,True,True,True,7
+Morocco,MAR,pais,True,True,True,True,True,True,True,7
+Mozambique,MOZ,pais,True,True,True,True,True,True,True,7
+Myanmar,MMR,pais,True,True,True,True,True,True,True,7
+Namibia,NAM,pais,True,True,True,True,True,True,True,7
+Nauru,NRU,pais,True,False,False,False,True,False,True,3
+Nepal,NPL,pais,True,True,True,True,True,True,True,7
+Netherlands,NLD,pais,False,True,True,True,True,True,True,6
+Netherlands (the),NLD,pais,True,False,False,False,False,False,False,1
+New Zealand,NZL,pais,True,True,True,True,True,True,True,7
+Nicaragua,NIC,pais,True,True,True,True,True,True,True,7
+Niger,NER,pais,False,True,True,True,True,True,True,6
+Niger (the),NER,pais,True,False,False,False,False,False,False,1
+Nigeria,NGA,pais,True,True,True,True,True,True,True,7
+North Macedonia,MKD,pais,False,True,True,True,True,True,True,6
+Norway,NOR,pais,True,True,True,True,True,True,True,7
+Oman,OMN,pais,True,True,True,True,True,True,True,7
+Pakistan,PAK,pais,True,True,True,True,True,True,True,7
+Palau,PLW,pais,True,False,False,False,False,False,True,2
+Panama,PAN,pais,True,True,True,True,True,True,True,7
+Papua New Guinea,PNG,pais,True,False,True,True,True,True,True,6
+Paraguay,PRY,pais,True,True,True,True,True,True,True,7
+Peru,PER,pais,True,True,True,True,True,True,True,7
+Philippines,PHL,pais,False,True,True,True,True,True,True,6
+Philippines (the),PHL,pais,True,False,False,False,False,False,False,1
+Poland,POL,pais,True,True,True,True,True,True,True,7
+Portugal,PRT,pais,True,True,True,True,True,True,True,7
+Qatar,QAT,pais,True,True,True,True,True,True,True,7
+Republic of Korea,KOR,pais,False,True,True,True,True,True,True,6
+Republic of Korea (the),KOR,pais,True,False,False,False,False,False,False,1
+Republic of Moldova,MDA,pais,False,True,True,True,True,True,True,6
+Republic of Moldova (the),MDA,pais,True,False,False,False,False,False,False,1
+Romania,ROU,pais,True,True,True,True,True,True,True,7
+Russian Federation,RUS,pais,False,True,True,True,True,True,True,6
+Russian Federation (the),RUS,pais,True,False,False,False,False,False,False,1
+Rwanda,RWA,pais,True,True,True,True,True,True,True,7
+Saint Kitts and Nevis,KNA,pais,True,True,False,False,True,True,True,5
+Saint Lucia,LCA,pais,True,True,True,True,True,True,True,7
+Saint Vincent and the Grenadines,VCT,pais,True,True,False,True,True,True,True,6
+Samoa,WSM,pais,True,True,False,True,True,True,True,6
+San Marino,SMR,pais,True,False,False,False,True,True,True,4
+Sao Tome and Principe,STP,pais,True,False,False,True,True,True,True,5
+Saudi Arabia,SAU,pais,True,True,True,True,True,True,True,7
+Senegal,SEN,pais,True,True,True,True,True,True,True,7
+Serbia,SRB,pais,True,True,True,True,True,True,True,7
+Seychelles,SYC,pais,True,True,True,True,True,True,True,7
+Sierra Leone,SLE,pais,True,True,True,True,True,True,True,7
+Singapore,SGP,pais,True,True,True,True,True,True,True,7
+Slovakia,SVK,pais,True,True,True,True,True,True,True,7
+Slovenia,SVN,pais,True,True,True,True,True,True,True,7
+Solomon Islands,SLB,pais,True,True,False,True,True,True,True,6
+Somalia,SOM,pais,True,False,False,False,True,True,True,4
+South Africa,ZAF,pais,True,True,True,True,True,True,True,7
+South Sudan,SSD,pais,True,False,False,True,True,True,True,5
+Spain,ESP,pais,True,True,True,True,True,True,True,7
+Sri Lanka,LKA,pais,True,True,True,True,True,True,True,7
+State of Palestine,PSE,pais,False,False,False,False,True,True,True,3
+Sudan,SDN,pais,False,True,True,True,True,True,True,6
+Sudan (the),SDN,pais,True,False,False,False,False,False,False,1
+Suriname,SUR,pais,True,True,True,True,True,True,True,7
+Swaziland,SWZ,pais,True,False,False,False,False,False,False,1
+Sweden,SWE,pais,True,True,True,True,True,True,True,7
+Switzerland,CHE,pais,True,True,True,True,True,True,True,7
+Syrian Arab Republic,SYR,pais,False,True,False,True,True,True,True,5
+Syrian Arab Republic (the),SYR,pais,True,False,False,False,False,False,False,1
+Taiwan,TWN,pais,True,False,True,True,True,True,True,6
+Tajikistan,TJK,pais,True,True,True,True,True,True,True,7
+Tanzania,TZA,pais,True,False,False,False,False,False,False,1
+Thailand,THA,pais,True,True,True,True,True,True,True,7
+The former Yugoslav Republic of Macedonia,MKD,pais,True,False,False,False,False,False,False,1
+Timor-Leste,TLS,pais,True,True,False,True,True,True,True,6
+Togo,TGO,pais,True,True,True,True,True,True,True,7
+Tonga,TON,pais,True,True,False,True,True,True,True,6
+Trinidad and Tobago,TTO,pais,True,True,True,True,True,True,True,7
+Tunisia,TUN,pais,True,True,True,True,True,True,True,7
+Turkey,TUR,pais,True,True,True,True,False,False,False,4
+Turkmenistan,TKM,pais,True,False,False,True,True,True,True,5
+Tuvalu,TUV,pais,True,False,False,False,True,False,True,3
+Türkiye,TUR,pais,False,False,False,False,True,True,True,3
+Uganda,UGA,pais,True,True,True,True,True,True,True,7
+Ukraine,UKR,pais,True,True,True,True,True,True,True,7
+United Arab Emirates,ARE,pais,False,True,True,True,True,True,True,6
+United Arab Emirates (the),ARE,pais,True,False,False,False,False,False,False,1
+United Kingdom,GBR,pais,False,True,True,True,False,False,False,3
+United Kingdom of Great Britain and Northern Ireland,GBR,pais,False,False,False,False,True,True,True,3
+United Kingdom of Great Britain and Northern Ireland (the),GBR,pais,True,False,False,False,False,False,False,1
+United Republic of Tanzania,TZA,pais,False,True,True,True,True,True,True,6
+United States of America,USA,pais,False,True,True,True,True,True,True,6
+United States of America (the),USA,pais,True,False,False,False,False,False,False,1
+Uruguay,URY,pais,True,True,True,True,True,True,True,7
+Uzbekistan,UZB,pais,True,True,True,True,True,True,True,7
+Vanuatu,VUT,pais,True,True,False,True,True,True,True,6
+Venezuela,VEN,pais,False,True,True,True,False,False,False,3
+Venezuela (Bolivarian Republic of),VEN,pais,True,False,False,False,False,False,False,1
+"Venezuela, Bolivarian Republic of",VEN,pais,False,False,False,False,True,True,True,3
+Viet Nam,VNM,pais,True,True,True,True,True,True,True,7
+Yemen,YEM,pais,True,True,True,True,True,True,True,7
+Zambia,ZMB,pais,True,True,True,True,True,True,True,7
+Zimbabwe,ZWE,pais,True,True,True,True,True,True,True,7

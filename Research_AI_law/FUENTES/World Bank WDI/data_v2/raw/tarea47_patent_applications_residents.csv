@@ -1,0 +1,473 @@
+iso3,year,country_name,value,wb_indicator,canonical_name
+ALB,2021,Albania,23,IP.PAT.RESD,patent_applications_residents
+ALB,2019,Albania,4,IP.PAT.RESD,patent_applications_residents
+ALB,2018,Albania,15,IP.PAT.RESD,patent_applications_residents
+DZA,2021,Algeria,268,IP.PAT.RESD,patent_applications_residents
+DZA,2020,Algeria,163,IP.PAT.RESD,patent_applications_residents
+DZA,2019,Algeria,113,IP.PAT.RESD,patent_applications_residents
+DZA,2018,Algeria,152,IP.PAT.RESD,patent_applications_residents
+AND,2021,Andorra,3,IP.PAT.RESD,patent_applications_residents
+AND,2020,Andorra,3,IP.PAT.RESD,patent_applications_residents
+AND,2019,Andorra,3,IP.PAT.RESD,patent_applications_residents
+AND,2018,Andorra,1,IP.PAT.RESD,patent_applications_residents
+AGO,2019,Angola,2,IP.PAT.RESD,patent_applications_residents
+AGO,2018,Angola,6,IP.PAT.RESD,patent_applications_residents
+ATG,2018,Antigua and Barbuda,5,IP.PAT.RESD,patent_applications_residents
+ARG,2021,Argentina,406,IP.PAT.RESD,patent_applications_residents
+ARG,2020,Argentina,930,IP.PAT.RESD,patent_applications_residents
+ARG,2019,Argentina,442,IP.PAT.RESD,patent_applications_residents
+ARG,2018,Argentina,425,IP.PAT.RESD,patent_applications_residents
+ARM,2021,Armenia,40,IP.PAT.RESD,patent_applications_residents
+ARM,2020,Armenia,63,IP.PAT.RESD,patent_applications_residents
+ARM,2019,Armenia,112,IP.PAT.RESD,patent_applications_residents
+ARM,2018,Armenia,101,IP.PAT.RESD,patent_applications_residents
+AUS,2021,Australia,2966,IP.PAT.RESD,patent_applications_residents
+AUS,2020,Australia,2368,IP.PAT.RESD,patent_applications_residents
+AUS,2019,Australia,2637,IP.PAT.RESD,patent_applications_residents
+AUS,2018,Australia,2757,IP.PAT.RESD,patent_applications_residents
+AUT,2021,Austria,1872,IP.PAT.RESD,patent_applications_residents
+AUT,2020,Austria,2124,IP.PAT.RESD,patent_applications_residents
+AUT,2019,Austria,2066,IP.PAT.RESD,patent_applications_residents
+AUT,2018,Austria,2039,IP.PAT.RESD,patent_applications_residents
+AZE,2021,Azerbaijan,119,IP.PAT.RESD,patent_applications_residents
+AZE,2020,Azerbaijan,90,IP.PAT.RESD,patent_applications_residents
+AZE,2019,Azerbaijan,147,IP.PAT.RESD,patent_applications_residents
+AZE,2018,Azerbaijan,155,IP.PAT.RESD,patent_applications_residents
+BHR,2021,Bahrain,3,IP.PAT.RESD,patent_applications_residents
+BHR,2020,Bahrain,7,IP.PAT.RESD,patent_applications_residents
+BHR,2019,Bahrain,4,IP.PAT.RESD,patent_applications_residents
+BHR,2018,Bahrain,11,IP.PAT.RESD,patent_applications_residents
+BGD,2021,Bangladesh,74,IP.PAT.RESD,patent_applications_residents
+BGD,2020,Bangladesh,40,IP.PAT.RESD,patent_applications_residents
+BGD,2019,Bangladesh,68,IP.PAT.RESD,patent_applications_residents
+BGD,2018,Bangladesh,69,IP.PAT.RESD,patent_applications_residents
+BRB,2021,Barbados,73,IP.PAT.RESD,patent_applications_residents
+BRB,2020,Barbados,29,IP.PAT.RESD,patent_applications_residents
+BLR,2021,Belarus,276,IP.PAT.RESD,patent_applications_residents
+BLR,2020,Belarus,317,IP.PAT.RESD,patent_applications_residents
+BLR,2019,Belarus,298,IP.PAT.RESD,patent_applications_residents
+BLR,2018,Belarus,453,IP.PAT.RESD,patent_applications_residents
+BEL,2021,Belgium,799,IP.PAT.RESD,patent_applications_residents
+BEL,2020,Belgium,862,IP.PAT.RESD,patent_applications_residents
+BEL,2019,Belgium,876,IP.PAT.RESD,patent_applications_residents
+BEL,2018,Belgium,892,IP.PAT.RESD,patent_applications_residents
+BTN,2019,Bhutan,1,IP.PAT.RESD,patent_applications_residents
+BTN,2018,Bhutan,1,IP.PAT.RESD,patent_applications_residents
+BOL,2021,Bolivia,5,IP.PAT.RESD,patent_applications_residents
+BOL,2020,Bolivia,8,IP.PAT.RESD,patent_applications_residents
+BIH,2021,Bosnia and Herzegovina,53,IP.PAT.RESD,patent_applications_residents
+BIH,2020,Bosnia and Herzegovina,50,IP.PAT.RESD,patent_applications_residents
+BIH,2019,Bosnia and Herzegovina,45,IP.PAT.RESD,patent_applications_residents
+BIH,2018,Bosnia and Herzegovina,84,IP.PAT.RESD,patent_applications_residents
+BWA,2021,Botswana,3,IP.PAT.RESD,patent_applications_residents
+BWA,2020,Botswana,2,IP.PAT.RESD,patent_applications_residents
+BWA,2019,Botswana,2,IP.PAT.RESD,patent_applications_residents
+BRA,2021,Brazil,4666,IP.PAT.RESD,patent_applications_residents
+BRA,2020,Brazil,5280,IP.PAT.RESD,patent_applications_residents
+BRA,2019,Brazil,5464,IP.PAT.RESD,patent_applications_residents
+BRA,2018,Brazil,4980,IP.PAT.RESD,patent_applications_residents
+BRN,2021,Brunei Darussalam,2,IP.PAT.RESD,patent_applications_residents
+BRN,2020,Brunei Darussalam,5,IP.PAT.RESD,patent_applications_residents
+BRN,2019,Brunei Darussalam,8,IP.PAT.RESD,patent_applications_residents
+BRN,2018,Brunei Darussalam,26,IP.PAT.RESD,patent_applications_residents
+BGR,2021,Bulgaria,165,IP.PAT.RESD,patent_applications_residents
+BGR,2020,Bulgaria,239,IP.PAT.RESD,patent_applications_residents
+BGR,2019,Bulgaria,186,IP.PAT.RESD,patent_applications_residents
+BGR,2018,Bulgaria,180,IP.PAT.RESD,patent_applications_residents
+BDI,2020,Burundi,2,IP.PAT.RESD,patent_applications_residents
+BDI,2018,Burundi,2,IP.PAT.RESD,patent_applications_residents
+CPV,2021,Cabo Verde,1,IP.PAT.RESD,patent_applications_residents
+CPV,2020,Cabo Verde,1,IP.PAT.RESD,patent_applications_residents
+CPV,2018,Cabo Verde,3,IP.PAT.RESD,patent_applications_residents
+KHM,2018,Cambodia,1,IP.PAT.RESD,patent_applications_residents
+CAN,2021,Canada,4710,IP.PAT.RESD,patent_applications_residents
+CAN,2020,Canada,4452,IP.PAT.RESD,patent_applications_residents
+CAN,2019,Canada,4238,IP.PAT.RESD,patent_applications_residents
+CAN,2018,Canada,4349,IP.PAT.RESD,patent_applications_residents
+CHL,2021,Chile,402,IP.PAT.RESD,patent_applications_residents
+CHL,2020,Chile,372,IP.PAT.RESD,patent_applications_residents
+CHL,2019,Chile,438,IP.PAT.RESD,patent_applications_residents
+CHL,2018,Chile,406,IP.PAT.RESD,patent_applications_residents
+CHN,2021,China,1426644,IP.PAT.RESD,patent_applications_residents
+CHN,2020,China,1344817,IP.PAT.RESD,patent_applications_residents
+CHN,2019,China,1243568,IP.PAT.RESD,patent_applications_residents
+CHN,2018,China,1393815,IP.PAT.RESD,patent_applications_residents
+COL,2021,Colombia,432,IP.PAT.RESD,patent_applications_residents
+COL,2020,Colombia,369,IP.PAT.RESD,patent_applications_residents
+COL,2019,Colombia,422,IP.PAT.RESD,patent_applications_residents
+COL,2018,Colombia,415,IP.PAT.RESD,patent_applications_residents
+COD,2020,"Congo, Dem. Rep.",72,IP.PAT.RESD,patent_applications_residents
+COD,2019,"Congo, Dem. Rep.",42,IP.PAT.RESD,patent_applications_residents
+COD,2018,"Congo, Dem. Rep.",44,IP.PAT.RESD,patent_applications_residents
+CRI,2021,Costa Rica,15,IP.PAT.RESD,patent_applications_residents
+CRI,2020,Costa Rica,12,IP.PAT.RESD,patent_applications_residents
+CRI,2019,Costa Rica,16,IP.PAT.RESD,patent_applications_residents
+CRI,2018,Costa Rica,8,IP.PAT.RESD,patent_applications_residents
+HRV,2021,Croatia,77,IP.PAT.RESD,patent_applications_residents
+HRV,2020,Croatia,117,IP.PAT.RESD,patent_applications_residents
+HRV,2019,Croatia,195,IP.PAT.RESD,patent_applications_residents
+HRV,2018,Croatia,121,IP.PAT.RESD,patent_applications_residents
+CUB,2021,Cuba,21,IP.PAT.RESD,patent_applications_residents
+CUB,2020,Cuba,33,IP.PAT.RESD,patent_applications_residents
+CUB,2019,Cuba,27,IP.PAT.RESD,patent_applications_residents
+CUB,2018,Cuba,29,IP.PAT.RESD,patent_applications_residents
+CYP,2021,Cyprus,1,IP.PAT.RESD,patent_applications_residents
+CYP,2020,Cyprus,2,IP.PAT.RESD,patent_applications_residents
+CYP,2019,Cyprus,4,IP.PAT.RESD,patent_applications_residents
+CYP,2018,Cyprus,4,IP.PAT.RESD,patent_applications_residents
+CZE,2021,Czechia,541,IP.PAT.RESD,patent_applications_residents
+CZE,2020,Czechia,673,IP.PAT.RESD,patent_applications_residents
+CZE,2019,Czechia,765,IP.PAT.RESD,patent_applications_residents
+CZE,2018,Czechia,678,IP.PAT.RESD,patent_applications_residents
+DNK,2021,Denmark,1090,IP.PAT.RESD,patent_applications_residents
+DNK,2020,Denmark,1261,IP.PAT.RESD,patent_applications_residents
+DNK,2019,Denmark,1351,IP.PAT.RESD,patent_applications_residents
+DNK,2018,Denmark,1262,IP.PAT.RESD,patent_applications_residents
+DJI,2021,Djibouti,3,IP.PAT.RESD,patent_applications_residents
+DOM,2021,Dominican Republic,7,IP.PAT.RESD,patent_applications_residents
+DOM,2020,Dominican Republic,10,IP.PAT.RESD,patent_applications_residents
+DOM,2019,Dominican Republic,23,IP.PAT.RESD,patent_applications_residents
+DOM,2018,Dominican Republic,17,IP.PAT.RESD,patent_applications_residents
+ECU,2021,Ecuador,35,IP.PAT.RESD,patent_applications_residents
+ECU,2020,Ecuador,33,IP.PAT.RESD,patent_applications_residents
+ECU,2019,Ecuador,29,IP.PAT.RESD,patent_applications_residents
+ECU,2018,Ecuador,34,IP.PAT.RESD,patent_applications_residents
+EGY,2021,"Egypt, Arab Rep.",881,IP.PAT.RESD,patent_applications_residents
+EGY,2020,"Egypt, Arab Rep.",978,IP.PAT.RESD,patent_applications_residents
+EGY,2019,"Egypt, Arab Rep.",1027,IP.PAT.RESD,patent_applications_residents
+EGY,2018,"Egypt, Arab Rep.",997,IP.PAT.RESD,patent_applications_residents
+SLV,2021,El Salvador,2,IP.PAT.RESD,patent_applications_residents
+SLV,2020,El Salvador,4,IP.PAT.RESD,patent_applications_residents
+SLV,2019,El Salvador,1,IP.PAT.RESD,patent_applications_residents
+SLV,2018,El Salvador,3,IP.PAT.RESD,patent_applications_residents
+EST,2021,Estonia,25,IP.PAT.RESD,patent_applications_residents
+EST,2020,Estonia,21,IP.PAT.RESD,patent_applications_residents
+EST,2019,Estonia,31,IP.PAT.RESD,patent_applications_residents
+EST,2018,Estonia,24,IP.PAT.RESD,patent_applications_residents
+ETH,2020,Ethiopia,6,IP.PAT.RESD,patent_applications_residents
+ETH,2018,Ethiopia,13,IP.PAT.RESD,patent_applications_residents
+FIN,2021,Finland,1557,IP.PAT.RESD,patent_applications_residents
+FIN,2020,Finland,1588,IP.PAT.RESD,patent_applications_residents
+FIN,2019,Finland,1321,IP.PAT.RESD,patent_applications_residents
+FIN,2018,Finland,1387,IP.PAT.RESD,patent_applications_residents
+FRA,2021,France,13386,IP.PAT.RESD,patent_applications_residents
+FRA,2020,France,12771,IP.PAT.RESD,patent_applications_residents
+FRA,2019,France,14103,IP.PAT.RESD,patent_applications_residents
+FRA,2018,France,14303,IP.PAT.RESD,patent_applications_residents
+GEO,2021,Georgia,90,IP.PAT.RESD,patent_applications_residents
+GEO,2020,Georgia,81,IP.PAT.RESD,patent_applications_residents
+GEO,2019,Georgia,85,IP.PAT.RESD,patent_applications_residents
+GEO,2018,Georgia,103,IP.PAT.RESD,patent_applications_residents
+DEU,2021,Germany,39822,IP.PAT.RESD,patent_applications_residents
+DEU,2020,Germany,42260,IP.PAT.RESD,patent_applications_residents
+DEU,2019,Germany,46632,IP.PAT.RESD,patent_applications_residents
+DEU,2018,Germany,46617,IP.PAT.RESD,patent_applications_residents
+GHA,2020,Ghana,12,IP.PAT.RESD,patent_applications_residents
+GHA,2018,Ghana,13,IP.PAT.RESD,patent_applications_residents
+GRC,2021,Greece,394,IP.PAT.RESD,patent_applications_residents
+GRC,2020,Greece,400,IP.PAT.RESD,patent_applications_residents
+GRC,2019,Greece,356,IP.PAT.RESD,patent_applications_residents
+GRC,2018,Greece,430,IP.PAT.RESD,patent_applications_residents
+GTM,2021,Guatemala,9,IP.PAT.RESD,patent_applications_residents
+GTM,2020,Guatemala,7,IP.PAT.RESD,patent_applications_residents
+GTM,2019,Guatemala,7,IP.PAT.RESD,patent_applications_residents
+GTM,2018,Guatemala,6,IP.PAT.RESD,patent_applications_residents
+GUY,2021,Guyana,40,IP.PAT.RESD,patent_applications_residents
+GUY,2018,Guyana,2,IP.PAT.RESD,patent_applications_residents
+HND,2018,Honduras,8,IP.PAT.RESD,patent_applications_residents
+HKG,2021,"Hong Kong SAR, China",401,IP.PAT.RESD,patent_applications_residents
+HKG,2020,"Hong Kong SAR, China",423,IP.PAT.RESD,patent_applications_residents
+HKG,2019,"Hong Kong SAR, China",346,IP.PAT.RESD,patent_applications_residents
+HKG,2018,"Hong Kong SAR, China",314,IP.PAT.RESD,patent_applications_residents
+HUN,2021,Hungary,433,IP.PAT.RESD,patent_applications_residents
+HUN,2020,Hungary,428,IP.PAT.RESD,patent_applications_residents
+HUN,2019,Hungary,427,IP.PAT.RESD,patent_applications_residents
+HUN,2018,Hungary,407,IP.PAT.RESD,patent_applications_residents
+ISL,2021,Iceland,34,IP.PAT.RESD,patent_applications_residents
+ISL,2020,Iceland,44,IP.PAT.RESD,patent_applications_residents
+ISL,2019,Iceland,47,IP.PAT.RESD,patent_applications_residents
+ISL,2018,Iceland,56,IP.PAT.RESD,patent_applications_residents
+IND,2021,India,26267,IP.PAT.RESD,patent_applications_residents
+IND,2020,India,23141,IP.PAT.RESD,patent_applications_residents
+IND,2019,India,19454,IP.PAT.RESD,patent_applications_residents
+IND,2018,India,16289,IP.PAT.RESD,patent_applications_residents
+IDN,2021,Indonesia,1397,IP.PAT.RESD,patent_applications_residents
+IDN,2020,Indonesia,1309,IP.PAT.RESD,patent_applications_residents
+IDN,2019,Indonesia,3093,IP.PAT.RESD,patent_applications_residents
+IDN,2018,Indonesia,1407,IP.PAT.RESD,patent_applications_residents
+IRN,2021,"Iran, Islamic Rep.",10210,IP.PAT.RESD,patent_applications_residents
+IRN,2020,"Iran, Islamic Rep.",11396,IP.PAT.RESD,patent_applications_residents
+IRN,2019,"Iran, Islamic Rep.",11569,IP.PAT.RESD,patent_applications_residents
+IRN,2018,"Iran, Islamic Rep.",11908,IP.PAT.RESD,patent_applications_residents
+IRQ,2020,Iraq,635,IP.PAT.RESD,patent_applications_residents
+IRQ,2019,Iraq,737,IP.PAT.RESD,patent_applications_residents
+IRQ,2018,Iraq,653,IP.PAT.RESD,patent_applications_residents
+IRL,2021,Ireland,75,IP.PAT.RESD,patent_applications_residents
+IRL,2020,Ireland,75,IP.PAT.RESD,patent_applications_residents
+IRL,2019,Ireland,58,IP.PAT.RESD,patent_applications_residents
+IRL,2018,Ireland,76,IP.PAT.RESD,patent_applications_residents
+ISR,2021,Israel,1592,IP.PAT.RESD,patent_applications_residents
+ISR,2020,Israel,1642,IP.PAT.RESD,patent_applications_residents
+ISR,2019,Israel,1368,IP.PAT.RESD,patent_applications_residents
+ISR,2018,Israel,1506,IP.PAT.RESD,patent_applications_residents
+ITA,2021,Italy,10281,IP.PAT.RESD,patent_applications_residents
+ITA,2020,Italy,10061,IP.PAT.RESD,patent_applications_residents
+ITA,2019,Italy,9229,IP.PAT.RESD,patent_applications_residents
+ITA,2018,Italy,8921,IP.PAT.RESD,patent_applications_residents
+JAM,2021,Jamaica,16,IP.PAT.RESD,patent_applications_residents
+JAM,2020,Jamaica,10,IP.PAT.RESD,patent_applications_residents
+JAM,2019,Jamaica,14,IP.PAT.RESD,patent_applications_residents
+JAM,2018,Jamaica,26,IP.PAT.RESD,patent_applications_residents
+JPN,2021,Japan,222452,IP.PAT.RESD,patent_applications_residents
+JPN,2020,Japan,227348,IP.PAT.RESD,patent_applications_residents
+JPN,2019,Japan,245372,IP.PAT.RESD,patent_applications_residents
+JPN,2018,Japan,253630,IP.PAT.RESD,patent_applications_residents
+JOR,2021,Jordan,25,IP.PAT.RESD,patent_applications_residents
+JOR,2020,Jordan,36,IP.PAT.RESD,patent_applications_residents
+JOR,2019,Jordan,21,IP.PAT.RESD,patent_applications_residents
+JOR,2018,Jordan,24,IP.PAT.RESD,patent_applications_residents
+KAZ,2020,Kazakhstan,803,IP.PAT.RESD,patent_applications_residents
+KAZ,2018,Kazakhstan,789,IP.PAT.RESD,patent_applications_residents
+KEN,2021,Kenya,160,IP.PAT.RESD,patent_applications_residents
+KEN,2020,Kenya,341,IP.PAT.RESD,patent_applications_residents
+KEN,2019,Kenya,294,IP.PAT.RESD,patent_applications_residents
+KEN,2018,Kenya,244,IP.PAT.RESD,patent_applications_residents
+PRK,2020,"Korea, Dem. People's Rep.",6937,IP.PAT.RESD,patent_applications_residents
+PRK,2019,"Korea, Dem. People's Rep.",7377,IP.PAT.RESD,patent_applications_residents
+PRK,2018,"Korea, Dem. People's Rep.",7846,IP.PAT.RESD,patent_applications_residents
+KOR,2021,"Korea, Rep.",186245,IP.PAT.RESD,patent_applications_residents
+KOR,2020,"Korea, Rep.",180477,IP.PAT.RESD,patent_applications_residents
+KOR,2019,"Korea, Rep.",171603,IP.PAT.RESD,patent_applications_residents
+KOR,2018,"Korea, Rep.",162561,IP.PAT.RESD,patent_applications_residents
+KWT,2018,Kuwait,1,IP.PAT.RESD,patent_applications_residents
+KGZ,2021,Kyrgyz Republic,83,IP.PAT.RESD,patent_applications_residents
+KGZ,2020,Kyrgyz Republic,63,IP.PAT.RESD,patent_applications_residents
+KGZ,2019,Kyrgyz Republic,92,IP.PAT.RESD,patent_applications_residents
+LAO,2018,Lao PDR,1,IP.PAT.RESD,patent_applications_residents
+LVA,2021,Latvia,104,IP.PAT.RESD,patent_applications_residents
+LVA,2020,Latvia,93,IP.PAT.RESD,patent_applications_residents
+LVA,2019,Latvia,82,IP.PAT.RESD,patent_applications_residents
+LVA,2018,Latvia,86,IP.PAT.RESD,patent_applications_residents
+LSO,2019,Lesotho,1,IP.PAT.RESD,patent_applications_residents
+LSO,2018,Lesotho,4,IP.PAT.RESD,patent_applications_residents
+LTU,2021,Lithuania,81,IP.PAT.RESD,patent_applications_residents
+LTU,2020,Lithuania,95,IP.PAT.RESD,patent_applications_residents
+LTU,2019,Lithuania,90,IP.PAT.RESD,patent_applications_residents
+LTU,2018,Lithuania,81,IP.PAT.RESD,patent_applications_residents
+LUX,2021,Luxembourg,112,IP.PAT.RESD,patent_applications_residents
+LUX,2020,Luxembourg,129,IP.PAT.RESD,patent_applications_residents
+LUX,2019,Luxembourg,117,IP.PAT.RESD,patent_applications_residents
+LUX,2018,Luxembourg,152,IP.PAT.RESD,patent_applications_residents
+MAC,2021,"Macao SAR, China",2,IP.PAT.RESD,patent_applications_residents
+MAC,2020,"Macao SAR, China",3,IP.PAT.RESD,patent_applications_residents
+MAC,2018,"Macao SAR, China",1,IP.PAT.RESD,patent_applications_residents
+MDG,2021,Madagascar,6,IP.PAT.RESD,patent_applications_residents
+MDG,2020,Madagascar,6,IP.PAT.RESD,patent_applications_residents
+MDG,2018,Madagascar,9,IP.PAT.RESD,patent_applications_residents
+MYS,2021,Malaysia,883,IP.PAT.RESD,patent_applications_residents
+MYS,2020,Malaysia,989,IP.PAT.RESD,patent_applications_residents
+MYS,2019,Malaysia,1071,IP.PAT.RESD,patent_applications_residents
+MYS,2018,Malaysia,1116,IP.PAT.RESD,patent_applications_residents
+MLT,2021,Malta,5,IP.PAT.RESD,patent_applications_residents
+MLT,2020,Malta,6,IP.PAT.RESD,patent_applications_residents
+MLT,2019,Malta,5,IP.PAT.RESD,patent_applications_residents
+MLT,2018,Malta,2,IP.PAT.RESD,patent_applications_residents
+MUS,2021,Mauritius,6,IP.PAT.RESD,patent_applications_residents
+MUS,2020,Mauritius,6,IP.PAT.RESD,patent_applications_residents
+MUS,2019,Mauritius,4,IP.PAT.RESD,patent_applications_residents
+MUS,2018,Mauritius,16,IP.PAT.RESD,patent_applications_residents
+MEX,2021,Mexico,1117,IP.PAT.RESD,patent_applications_residents
+MEX,2020,Mexico,1132,IP.PAT.RESD,patent_applications_residents
+MEX,2019,Mexico,1305,IP.PAT.RESD,patent_applications_residents
+MEX,2018,Mexico,1555,IP.PAT.RESD,patent_applications_residents
+MDA,2021,Moldova,64,IP.PAT.RESD,patent_applications_residents
+MDA,2020,Moldova,85,IP.PAT.RESD,patent_applications_residents
+MDA,2019,Moldova,85,IP.PAT.RESD,patent_applications_residents
+MDA,2018,Moldova,92,IP.PAT.RESD,patent_applications_residents
+MCO,2021,Monaco,5,IP.PAT.RESD,patent_applications_residents
+MCO,2020,Monaco,6,IP.PAT.RESD,patent_applications_residents
+MCO,2019,Monaco,10,IP.PAT.RESD,patent_applications_residents
+MCO,2018,Monaco,4,IP.PAT.RESD,patent_applications_residents
+MNG,2021,Mongolia,109,IP.PAT.RESD,patent_applications_residents
+MNG,2020,Mongolia,66,IP.PAT.RESD,patent_applications_residents
+MNG,2019,Mongolia,84,IP.PAT.RESD,patent_applications_residents
+MNG,2018,Mongolia,82,IP.PAT.RESD,patent_applications_residents
+MNE,2020,Montenegro,5,IP.PAT.RESD,patent_applications_residents
+MNE,2019,Montenegro,16,IP.PAT.RESD,patent_applications_residents
+MNE,2018,Montenegro,3,IP.PAT.RESD,patent_applications_residents
+MAR,2021,Morocco,254,IP.PAT.RESD,patent_applications_residents
+MAR,2020,Morocco,250,IP.PAT.RESD,patent_applications_residents
+MAR,2019,Morocco,199,IP.PAT.RESD,patent_applications_residents
+MAR,2018,Morocco,187,IP.PAT.RESD,patent_applications_residents
+MOZ,2021,Mozambique,30,IP.PAT.RESD,patent_applications_residents
+MOZ,2020,Mozambique,26,IP.PAT.RESD,patent_applications_residents
+MOZ,2019,Mozambique,23,IP.PAT.RESD,patent_applications_residents
+MOZ,2018,Mozambique,34,IP.PAT.RESD,patent_applications_residents
+NAM,2019,Namibia,8,IP.PAT.RESD,patent_applications_residents
+NAM,2018,Namibia,21,IP.PAT.RESD,patent_applications_residents
+NLD,2021,Netherlands,2080,IP.PAT.RESD,patent_applications_residents
+NLD,2020,Netherlands,2198,IP.PAT.RESD,patent_applications_residents
+NLD,2019,Netherlands,2228,IP.PAT.RESD,patent_applications_residents
+NLD,2018,Netherlands,2111,IP.PAT.RESD,patent_applications_residents
+NZL,2021,New Zealand,330,IP.PAT.RESD,patent_applications_residents
+NZL,2020,New Zealand,348,IP.PAT.RESD,patent_applications_residents
+NZL,2019,New Zealand,324,IP.PAT.RESD,patent_applications_residents
+NZL,2018,New Zealand,1017,IP.PAT.RESD,patent_applications_residents
+NGA,2020,Nigeria,410,IP.PAT.RESD,patent_applications_residents
+NGA,2019,Nigeria,439,IP.PAT.RESD,patent_applications_residents
+NGA,2018,Nigeria,382,IP.PAT.RESD,patent_applications_residents
+MKD,2021,North Macedonia,42,IP.PAT.RESD,patent_applications_residents
+MKD,2020,North Macedonia,47,IP.PAT.RESD,patent_applications_residents
+NOR,2021,Norway,946,IP.PAT.RESD,patent_applications_residents
+NOR,2020,Norway,880,IP.PAT.RESD,patent_applications_residents
+NOR,2019,Norway,957,IP.PAT.RESD,patent_applications_residents
+NOR,2018,Norway,1082,IP.PAT.RESD,patent_applications_residents
+OMN,2021,Oman,30,IP.PAT.RESD,patent_applications_residents
+OMN,2020,Oman,11,IP.PAT.RESD,patent_applications_residents
+OMN,2019,Oman,30,IP.PAT.RESD,patent_applications_residents
+OMN,2018,Oman,16,IP.PAT.RESD,patent_applications_residents
+PAK,2021,Pakistan,426,IP.PAT.RESD,patent_applications_residents
+PAK,2020,Pakistan,338,IP.PAT.RESD,patent_applications_residents
+PAK,2019,Pakistan,313,IP.PAT.RESD,patent_applications_residents
+PAK,2018,Pakistan,306,IP.PAT.RESD,patent_applications_residents
+PAN,2021,Panama,35,IP.PAT.RESD,patent_applications_residents
+PAN,2020,Panama,22,IP.PAT.RESD,patent_applications_residents
+PAN,2019,Panama,34,IP.PAT.RESD,patent_applications_residents
+PAN,2018,Panama,135,IP.PAT.RESD,patent_applications_residents
+PRY,2021,Paraguay,10,IP.PAT.RESD,patent_applications_residents
+PRY,2020,Paraguay,14,IP.PAT.RESD,patent_applications_residents
+PRY,2019,Paraguay,4,IP.PAT.RESD,patent_applications_residents
+PRY,2018,Paraguay,34,IP.PAT.RESD,patent_applications_residents
+PER,2021,Peru,94,IP.PAT.RESD,patent_applications_residents
+PER,2020,Peru,125,IP.PAT.RESD,patent_applications_residents
+PER,2019,Peru,137,IP.PAT.RESD,patent_applications_residents
+PER,2018,Peru,89,IP.PAT.RESD,patent_applications_residents
+PHL,2021,Philippines,490,IP.PAT.RESD,patent_applications_residents
+PHL,2020,Philippines,476,IP.PAT.RESD,patent_applications_residents
+PHL,2019,Philippines,501,IP.PAT.RESD,patent_applications_residents
+PHL,2018,Philippines,529,IP.PAT.RESD,patent_applications_residents
+POL,2021,Poland,3377,IP.PAT.RESD,patent_applications_residents
+POL,2020,Poland,4010,IP.PAT.RESD,patent_applications_residents
+POL,2019,Poland,3887,IP.PAT.RESD,patent_applications_residents
+POL,2018,Poland,4207,IP.PAT.RESD,patent_applications_residents
+PRT,2021,Portugal,711,IP.PAT.RESD,patent_applications_residents
+PRT,2020,Portugal,695,IP.PAT.RESD,patent_applications_residents
+PRT,2019,Portugal,703,IP.PAT.RESD,patent_applications_residents
+PRT,2018,Portugal,661,IP.PAT.RESD,patent_applications_residents
+QAT,2021,Qatar,47,IP.PAT.RESD,patent_applications_residents
+QAT,2020,Qatar,81,IP.PAT.RESD,patent_applications_residents
+QAT,2019,Qatar,39,IP.PAT.RESD,patent_applications_residents
+ROU,2021,Romania,772,IP.PAT.RESD,patent_applications_residents
+ROU,2020,Romania,817,IP.PAT.RESD,patent_applications_residents
+ROU,2019,Romania,881,IP.PAT.RESD,patent_applications_residents
+ROU,2018,Romania,1100,IP.PAT.RESD,patent_applications_residents
+RUS,2021,Russian Federation,19569,IP.PAT.RESD,patent_applications_residents
+RUS,2020,Russian Federation,23759,IP.PAT.RESD,patent_applications_residents
+RUS,2019,Russian Federation,23337,IP.PAT.RESD,patent_applications_residents
+RUS,2018,Russian Federation,24926,IP.PAT.RESD,patent_applications_residents
+RWA,2021,Rwanda,14,IP.PAT.RESD,patent_applications_residents
+RWA,2018,Rwanda,6,IP.PAT.RESD,patent_applications_residents
+WSM,2021,Samoa,1,IP.PAT.RESD,patent_applications_residents
+WSM,2019,Samoa,2,IP.PAT.RESD,patent_applications_residents
+WSM,2018,Samoa,1,IP.PAT.RESD,patent_applications_residents
+SMR,2021,San Marino,7,IP.PAT.RESD,patent_applications_residents
+SMR,2020,San Marino,9,IP.PAT.RESD,patent_applications_residents
+SMR,2019,San Marino,11,IP.PAT.RESD,patent_applications_residents
+SMR,2018,San Marino,14,IP.PAT.RESD,patent_applications_residents
+SAU,2021,Saudi Arabia,1398,IP.PAT.RESD,patent_applications_residents
+SAU,2020,Saudi Arabia,1294,IP.PAT.RESD,patent_applications_residents
+SAU,2019,Saudi Arabia,1188,IP.PAT.RESD,patent_applications_residents
+SAU,2018,Saudi Arabia,1078,IP.PAT.RESD,patent_applications_residents
+SRB,2021,Serbia,138,IP.PAT.RESD,patent_applications_residents
+SRB,2020,Serbia,138,IP.PAT.RESD,patent_applications_residents
+SRB,2019,Serbia,168,IP.PAT.RESD,patent_applications_residents
+SRB,2018,Serbia,163,IP.PAT.RESD,patent_applications_residents
+SYC,2020,Seychelles,3,IP.PAT.RESD,patent_applications_residents
+SGP,2021,Singapore,2024,IP.PAT.RESD,patent_applications_residents
+SGP,2020,Singapore,1778,IP.PAT.RESD,patent_applications_residents
+SGP,2019,Singapore,1727,IP.PAT.RESD,patent_applications_residents
+SGP,2018,Singapore,1575,IP.PAT.RESD,patent_applications_residents
+SVK,2021,Slovak Republic,146,IP.PAT.RESD,patent_applications_residents
+SVK,2020,Slovak Republic,206,IP.PAT.RESD,patent_applications_residents
+SVK,2019,Slovak Republic,206,IP.PAT.RESD,patent_applications_residents
+SVK,2018,Slovak Republic,217,IP.PAT.RESD,patent_applications_residents
+SVN,2021,Slovenia,222,IP.PAT.RESD,patent_applications_residents
+SVN,2020,Slovenia,232,IP.PAT.RESD,patent_applications_residents
+SVN,2018,Slovenia,255,IP.PAT.RESD,patent_applications_residents
+ZAF,2021,South Africa,1804,IP.PAT.RESD,patent_applications_residents
+ZAF,2020,South Africa,542,IP.PAT.RESD,patent_applications_residents
+ZAF,2019,South Africa,567,IP.PAT.RESD,patent_applications_residents
+ZAF,2018,South Africa,657,IP.PAT.RESD,patent_applications_residents
+ESP,2021,Spain,1308,IP.PAT.RESD,patent_applications_residents
+ESP,2020,Spain,1431,IP.PAT.RESD,patent_applications_residents
+ESP,2019,Spain,1288,IP.PAT.RESD,patent_applications_residents
+ESP,2018,Spain,1525,IP.PAT.RESD,patent_applications_residents
+LKA,2021,Sri Lanka,266,IP.PAT.RESD,patent_applications_residents
+LKA,2020,Sri Lanka,353,IP.PAT.RESD,patent_applications_residents
+LKA,2019,Sri Lanka,356,IP.PAT.RESD,patent_applications_residents
+LKA,2018,Sri Lanka,343,IP.PAT.RESD,patent_applications_residents
+LCA,2018,St. Lucia,2,IP.PAT.RESD,patent_applications_residents
+SDN,2020,Sudan,153,IP.PAT.RESD,patent_applications_residents
+SDN,2019,Sudan,238,IP.PAT.RESD,patent_applications_residents
+SDN,2018,Sudan,349,IP.PAT.RESD,patent_applications_residents
+SWE,2021,Sweden,1771,IP.PAT.RESD,patent_applications_residents
+SWE,2020,Sweden,1764,IP.PAT.RESD,patent_applications_residents
+SWE,2019,Sweden,1802,IP.PAT.RESD,patent_applications_residents
+SWE,2018,Sweden,1838,IP.PAT.RESD,patent_applications_residents
+CHE,2021,Switzerland,1288,IP.PAT.RESD,patent_applications_residents
+CHE,2020,Switzerland,1384,IP.PAT.RESD,patent_applications_residents
+CHE,2019,Switzerland,1369,IP.PAT.RESD,patent_applications_residents
+CHE,2018,Switzerland,1283,IP.PAT.RESD,patent_applications_residents
+SYR,2021,Syrian Arab Republic,102,IP.PAT.RESD,patent_applications_residents
+SYR,2020,Syrian Arab Republic,76,IP.PAT.RESD,patent_applications_residents
+SYR,2019,Syrian Arab Republic,121,IP.PAT.RESD,patent_applications_residents
+SYR,2018,Syrian Arab Republic,103,IP.PAT.RESD,patent_applications_residents
+TJK,2019,Tajikistan,1,IP.PAT.RESD,patent_applications_residents
+THA,2021,Thailand,867,IP.PAT.RESD,patent_applications_residents
+THA,2020,Thailand,863,IP.PAT.RESD,patent_applications_residents
+THA,2019,Thailand,865,IP.PAT.RESD,patent_applications_residents
+THA,2018,Thailand,904,IP.PAT.RESD,patent_applications_residents
+TTO,2021,Trinidad and Tobago,2,IP.PAT.RESD,patent_applications_residents
+TTO,2020,Trinidad and Tobago,1,IP.PAT.RESD,patent_applications_residents
+TTO,2019,Trinidad and Tobago,1,IP.PAT.RESD,patent_applications_residents
+TTO,2018,Trinidad and Tobago,4,IP.PAT.RESD,patent_applications_residents
+TUN,2018,Tunisia,180,IP.PAT.RESD,patent_applications_residents
+TUR,2021,Turkiye,8234,IP.PAT.RESD,patent_applications_residents
+TUR,2020,Turkiye,7920,IP.PAT.RESD,patent_applications_residents
+TUR,2019,Turkiye,7871,IP.PAT.RESD,patent_applications_residents
+TUR,2018,Turkiye,7156,IP.PAT.RESD,patent_applications_residents
+UGA,2021,Uganda,14,IP.PAT.RESD,patent_applications_residents
+UGA,2020,Uganda,13,IP.PAT.RESD,patent_applications_residents
+UGA,2019,Uganda,14,IP.PAT.RESD,patent_applications_residents
+UGA,2018,Uganda,6,IP.PAT.RESD,patent_applications_residents
+UKR,2021,Ukraine,1302,IP.PAT.RESD,patent_applications_residents
+UKR,2020,Ukraine,1361,IP.PAT.RESD,patent_applications_residents
+UKR,2019,Ukraine,2097,IP.PAT.RESD,patent_applications_residents
+UKR,2018,Ukraine,2107,IP.PAT.RESD,patent_applications_residents
+ARE,2021,United Arab Emirates,69,IP.PAT.RESD,patent_applications_residents
+ARE,2020,United Arab Emirates,39,IP.PAT.RESD,patent_applications_residents
+ARE,2019,United Arab Emirates,55,IP.PAT.RESD,patent_applications_residents
+ARE,2018,United Arab Emirates,57,IP.PAT.RESD,patent_applications_residents
+GBR,2021,United Kingdom,11592,IP.PAT.RESD,patent_applications_residents
+GBR,2020,United Kingdom,11990,IP.PAT.RESD,patent_applications_residents
+GBR,2019,United Kingdom,12061,IP.PAT.RESD,patent_applications_residents
+GBR,2018,United Kingdom,12865,IP.PAT.RESD,patent_applications_residents
+USA,2021,United States,262244,IP.PAT.RESD,patent_applications_residents
+USA,2020,United States,269586,IP.PAT.RESD,patent_applications_residents
+USA,2019,United States,285113,IP.PAT.RESD,patent_applications_residents
+USA,2018,United States,285095,IP.PAT.RESD,patent_applications_residents
+UZB,2021,Uzbekistan,413,IP.PAT.RESD,patent_applications_residents
+UZB,2020,Uzbekistan,356,IP.PAT.RESD,patent_applications_residents
+UZB,2019,Uzbekistan,374,IP.PAT.RESD,patent_applications_residents
+UZB,2018,Uzbekistan,470,IP.PAT.RESD,patent_applications_residents
+VNM,2021,Viet Nam,1066,IP.PAT.RESD,patent_applications_residents
+VNM,2020,Viet Nam,1021,IP.PAT.RESD,patent_applications_residents
+VNM,2019,Viet Nam,720,IP.PAT.RESD,patent_applications_residents
+VNM,2018,Viet Nam,646,IP.PAT.RESD,patent_applications_residents
+YEM,2021,"Yemen, Rep.",20,IP.PAT.RESD,patent_applications_residents
+YEM,2020,"Yemen, Rep.",60,IP.PAT.RESD,patent_applications_residents
+YEM,2019,"Yemen, Rep.",60,IP.PAT.RESD,patent_applications_residents
+ZMB,2021,Zambia,13,IP.PAT.RESD,patent_applications_residents
+ZMB,2020,Zambia,17,IP.PAT.RESD,patent_applications_residents
+ZMB,2019,Zambia,2,IP.PAT.RESD,patent_applications_residents
+ZMB,2018,Zambia,11,IP.PAT.RESD,patent_applications_residents

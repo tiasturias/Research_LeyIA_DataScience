@@ -1,0 +1,131 @@
+version: "2.2"
+module: "country_intelligence_layer"
+methodology: "inferential_comparative_observational"
+scope: "descriptive_country_level_positioning"
+causal_claims_allowed: false
+independent_prediction_allowed: false
+external_validation_allowed: false
+
+primary_sample:
+  expected_n: 43
+  primary_key: "iso3"
+  focal_country: "CHL"
+
+country_groups:
+  focal:
+    - CHL
+  ai_pioneers:
+    - SGP
+    - ARE
+    - IRL
+    - EST
+    - KOR
+    - ISR
+    - USA
+    - CHN
+  large_ai_powers:
+    - USA
+    - CHN
+    - IND
+    - JPN
+  chile_latam_peers:
+    - ARG
+    - BRA
+    - COL
+    - CRI
+    - MEX
+    - PER
+    - URY
+  eu_laggards:
+    - GRC
+    - ROU
+    - HRV
+  chile_priority_benchmarks:
+    - SGP
+    - EST
+    - IRL
+    - ARE
+    - KOR
+    - URY
+    - BRA
+
+questions:
+  Q1:
+    label: "Inversión"
+    type: "investment"
+    primary_outputs:
+      - q1_results.csv
+    country_score_policy: "derive_from_observed_outcomes_and_model_terms"
+  Q2:
+    label: "Adopción"
+    type: "adoption"
+    primary_outputs:
+      - q2_scores_per_country.csv
+      - q2_results.csv
+    country_score_policy: "use_scores_file_plus_observed_percentiles"
+  Q3:
+    label: "Innovación"
+    type: "innovation"
+    primary_outputs:
+      - q3_results.csv
+    country_score_policy: "derive_from_observed_outcomes_and_model_terms"
+  Q4:
+    label: "Perfil regulatorio"
+    type: "clustering"
+    primary_outputs:
+      - q4_clusters.csv
+      - q4_distance_matrix.csv
+    country_score_policy: "cluster_membership_and_profile"
+  Q5:
+    label: "Uso poblacional"
+    type: "population_usage"
+    primary_outputs:
+      - q5_scores_per_country.csv
+      - q5_results.csv
+    country_score_policy: "use_scores_file_plus_observed_percentiles"
+  Q6:
+    label: "Sector público"
+    type: "public_sector"
+    primary_outputs:
+      - q6_scores_per_country.csv
+      - q6_results.csv
+    country_score_policy: "use_scores_file_plus_observed_percentiles"
+
+ranking_policy:
+  rank_descending_when_higher_better: true
+  percentile_method: "rank_pct"
+  ties_method: "average"
+  min_non_missing_for_ranking: 10
+  missing_country_policy: "include_with_missing_flag_not_ranked"
+
+best_worst_policy:
+  top_n_global: 5
+  bottom_n_global: 5
+  top_n_by_group: 3
+  bottom_n_by_group: 3
+  require_n_comparable_min: 10
+
+interpretation_policy:
+  top_percentile_threshold: 0.80
+  bottom_percentile_threshold: 0.20
+  pioneer_label_threshold: 0.85
+  laggard_label_threshold: 0.15
+  missingness_warning_threshold: 0.25
+
+graphics_policy:
+  save_png: true
+  save_svg: true
+  dpi: 180
+  use_professional_titles: true
+  include_methodology_footer: true
+  max_countries_in_single_ranking_chart: 43
+  highlight_countries:
+    - CHL
+    - SGP
+    - EST
+    - IRL
+    - ARE
+    - USA
+    - CHN
+    - BRA
+    - URY

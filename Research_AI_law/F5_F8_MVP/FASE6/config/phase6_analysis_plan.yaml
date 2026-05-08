@@ -1,0 +1,111 @@
+version: "2.1+"
+methodology_version: "mvp-v0.2-methodology-correction-plus"
+methodology: "inferential_comparative_observational"
+primary_estimand: "adjusted_association"
+primary_sample_policy: "full_preregistered_sample_available_by_outcome"
+no_holdout: true
+external_validation_available: false
+
+common_policies:
+  missingness: "listwise_deletion_per_model_on_required_y_x"
+  no_imputation: true
+  outliers: "preserve_in_primary_analysis"
+  uncertainty_primary: "bootstrap_bca_ci95_when_feasible"
+  bootstrap_resamples: 2000
+  bootstrap_fallback: "percentile_ci95_with_reason_logged"
+  internal_validation: "repeated_kfold_adaptive"
+  loocv_policy: "not_for_auc_or_r2"
+  multiple_testing: "benjamini_hochberg_fdr_when_multiple_outcomes_same_family"
+  language: "association_not_causation"
+
+model_complexity:
+  max_predictors_primary_default: 4
+  minimum_n_per_predictor_soft: 8
+  if_n_effective_lt_25: "use_minimal_adjusted_model"
+  if_n_effective_lt_18: "descriptive_or_exploratory_only"
+
+predictor_sets:
+  regulatory_core:
+    - n_binding
+    - n_non_binding
+    - iapp_ley_ia_vigente
+  controls_minimal:
+    - wb_gdp_per_capita_ppp_log
+    - wb_internet_penetration
+  controls_institutional:
+    - wb_government_effectiveness
+    - wb_rule_of_law
+  controls_extended:
+    - wb_gdp_per_capita_ppp_log
+    - wb_internet_penetration
+    - wb_rd_expenditure_pct_gdp
+    - wb_government_effectiveness
+
+questions:
+  Q1_investment:
+    primary_outcomes:
+      - oxford_ind_company_investment_emerging_tech
+      - oxford_ind_ai_unicorns_log
+      - oxford_ind_vc_availability
+      - wipo_c_vencapdeal_score
+    primary_model_family: "linear_regression_parsimonious"
+    primary_output: "adjusted_coefficients_ci95"
+    sensitivity_models:
+      - ridge_repeated_kfold_internal
+      - robust_regression_if_influential_points
+
+  Q2_adoption:
+    primary_outcomes:
+      - ms_h2_2025_ai_diffusion_pct
+      - oecd_5_ict_business_oecd_biz_ai_pct
+      - anthropic_usage_pct
+      - oxford_public_sector_adoption
+      - oxford_ind_adoption_emerging_tech
+    primary_model_family: "fractional_or_linear_by_scale"
+    primary_output: "adjusted_association_continuous_or_fractional"
+    binary_median_model: "sensitivity_only"
+    scores_per_country: "descriptive_in_sample_positioning"
+
+  Q3_innovation:
+    primary_outcomes:
+      - oxford_total_score
+      - wipo_out_score
+      - stanford_fig_6_3_5_volume_of_publications
+      - stanford_fig_6_3_4_ai_patent_count
+    primary_model_family: "linear_or_log_linear_by_distribution"
+    primary_output: "adjusted_coefficients_ci95"
+    sensitivity_models:
+      - ridge_repeated_kfold_internal
+      - spearman_partial_descriptive
+
+  Q4_content_clustering:
+    primary_outcomes: []
+    primary_model_family: "unsupervised_descriptive_clustering"
+    distance_policy: "jaccard_or_gower_by_variable_type"
+    validation_policy: "silhouette_internal_not_external_test"
+    output_semantics: "typology_not_prediction"
+
+  Q5_population_usage:
+    primary_outcomes:
+      - anthropic_usage_pct
+      - anthropic_collaboration_pct
+      - oxford_ind_adoption_emerging_tech
+    primary_model_family: "fractional_or_linear_by_scale"
+    primary_output: "adjusted_association_continuous_or_fractional"
+    binary_median_model: "sensitivity_only"
+    scores_per_country: "descriptive_in_sample_positioning"
+
+  Q6_public_sector:
+    primary_outcomes:
+      - oxford_public_sector_adoption
+      - oxford_e_government_delivery
+      - oxford_government_digital_policy
+      - oxford_ind_data_governance
+      - oxford_governance_ethics
+      - oecd_2_indigo_oecd_indigo_score
+    auxiliary_outcomes:
+      - oecd_4_digital_gov_oecd_digital_gov_overall
+    primary_model_family: "linear_score_model_or_fractional_if_rescaled"
+    primary_output: "adjusted_association_continuous_score"
+    binary_median_model: "sensitivity_only"
+    scores_per_country: "descriptive_in_sample_positioning"

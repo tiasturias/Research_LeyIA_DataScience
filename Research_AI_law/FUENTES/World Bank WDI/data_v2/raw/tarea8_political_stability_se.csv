@@ -1,0 +1,1505 @@
+iso3,year,country_name,value,wb_indicator,canonical_name
+ABW,2018,Aruba,0.2985983,PV.STD.ERR,political_stability_se
+ADO,2018,Andorra,0.36498749999999996,PV.STD.ERR,political_stability_se
+AFG,2018,Afghanistan,0.2564806,PV.STD.ERR,political_stability_se
+AGO,2018,Angola,0.2242436,PV.STD.ERR,political_stability_se
+AIA,2018,Anguilla,0.3382293,PV.STD.ERR,political_stability_se
+ALB,2018,Albania,0.24518969999999998,PV.STD.ERR,political_stability_se
+ARE,2018,United Arab Emirates,0.23949689999999998,PV.STD.ERR,political_stability_se
+ARG,2018,Argentina,0.23949689999999998,PV.STD.ERR,political_stability_se
+ARM,2018,Armenia,0.2501539,PV.STD.ERR,political_stability_se
+ASM,2018,American Samoa,0.41535,PV.STD.ERR,political_stability_se
+ATG,2018,Antigua and Barbuda,0.3000825,PV.STD.ERR,political_stability_se
+AUS,2018,Australia,0.227402,PV.STD.ERR,political_stability_se
+AUT,2018,Austria,0.2441342,PV.STD.ERR,political_stability_se
+AZE,2018,Azerbaijan,0.2501539,PV.STD.ERR,political_stability_se
+BDI,2018,Burundi,0.24624569999999998,PV.STD.ERR,political_stability_se
+BEL,2018,Belgium,0.2441342,PV.STD.ERR,political_stability_se
+BEN,2018,Benin,0.24624569999999998,PV.STD.ERR,political_stability_se
+BFA,2018,Burkina Faso,0.2358314,PV.STD.ERR,political_stability_se
+BGD,2018,Bangladesh,0.24518969999999998,PV.STD.ERR,political_stability_se
+BGR,2018,Bulgaria,0.23949689999999998,PV.STD.ERR,political_stability_se
+BHR,2018,Bahrain,0.2501539,PV.STD.ERR,political_stability_se
+BHS,2018,"Bahamas, The",0.2633913,PV.STD.ERR,political_stability_se
+BIH,2018,Bosnia and Herzegovina,0.2515862,PV.STD.ERR,political_stability_se
+BLR,2018,Belarus,0.24971359999999998,PV.STD.ERR,political_stability_se
+BLZ,2018,Belize,0.2713692,PV.STD.ERR,political_stability_se
+BMU,2018,Bermuda,0.3382293,PV.STD.ERR,political_stability_se
+BOL,2018,Bolivia,0.24518969999999998,PV.STD.ERR,political_stability_se
+BRA,2018,Brazil,0.22364009999999998,PV.STD.ERR,political_stability_se
+BRB,2018,Barbados,0.2569781,PV.STD.ERR,political_stability_se
+BRN,2018,Brunei Darussalam,0.2639083,PV.STD.ERR,political_stability_se
+BTN,2018,Bhutan,0.2569578,PV.STD.ERR,political_stability_se
+BWA,2018,Botswana,0.2358314,PV.STD.ERR,political_stability_se
+CAF,2018,Central African Republic,0.2508293,PV.STD.ERR,political_stability_se
+CAN,2018,Canada,0.2441342,PV.STD.ERR,political_stability_se
+CHE,2018,Switzerland,0.24903329999999999,PV.STD.ERR,political_stability_se
+CHL,2018,Chile,0.23949689999999998,PV.STD.ERR,political_stability_se
+CHN,2018,China,0.24642309999999998,PV.STD.ERR,political_stability_se
+CIV,2018,Côte d’Ivoire,0.2358314,PV.STD.ERR,political_stability_se
+CMR,2018,Cameroon,0.2358314,PV.STD.ERR,political_stability_se
+COD,2018,"Congo, Dem. Rep.",0.2242436,PV.STD.ERR,political_stability_se
+COG,2018,"Congo, Rep.",0.24448899999999998,PV.STD.ERR,political_stability_se
+COK,2018,Cook Islands,0.5331819,PV.STD.ERR,political_stability_se
+COL,2018,Colombia,0.23949689999999998,PV.STD.ERR,political_stability_se
+COM,2018,Comoros,0.2799025,PV.STD.ERR,political_stability_se
+CPV,2018,Cabo Verde,0.2512947,PV.STD.ERR,political_stability_se
+CRI,2018,Costa Rica,0.24518969999999998,PV.STD.ERR,political_stability_se
+CUB,2018,Cuba,0.2549636,PV.STD.ERR,political_stability_se
+CYM,2018,Cayman Islands,0.3477148,PV.STD.ERR,political_stability_se
+CYP,2018,Cyprus,0.24903329999999999,PV.STD.ERR,political_stability_se
+CZE,2018,Czechia,0.23949689999999998,PV.STD.ERR,political_stability_se
+DEU,2018,Germany,0.2441342,PV.STD.ERR,political_stability_se
+DJI,2018,Djibouti,0.2508293,PV.STD.ERR,political_stability_se
+DMA,2018,Dominica,0.3000825,PV.STD.ERR,political_stability_se
+DNK,2018,Denmark,0.2441342,PV.STD.ERR,political_stability_se
+DOM,2018,Dominican Republic,0.24518969999999998,PV.STD.ERR,political_stability_se
+DZA,2018,Algeria,0.2402385,PV.STD.ERR,political_stability_se
+ECU,2018,Ecuador,0.24518969999999998,PV.STD.ERR,political_stability_se
+EGY,2018,"Egypt, Arab Rep.",0.2358314,PV.STD.ERR,political_stability_se
+ERI,2018,Eritrea,0.25882,PV.STD.ERR,political_stability_se
+ESP,2018,Spain,0.2441342,PV.STD.ERR,political_stability_se
+EST,2018,Estonia,0.23949689999999998,PV.STD.ERR,political_stability_se
+ETH,2018,Ethiopia,0.2358314,PV.STD.ERR,political_stability_se
+FIN,2018,Finland,0.2441342,PV.STD.ERR,political_stability_se
+FJI,2018,Fiji,0.2674758,PV.STD.ERR,political_stability_se
+FRA,2018,France,0.2441342,PV.STD.ERR,political_stability_se
+FSM,2018,"Micronesia, Fed. Sts.",0.3093239,PV.STD.ERR,political_stability_se
+GAB,2018,Gabon,0.2402385,PV.STD.ERR,political_stability_se
+GBR,2018,United Kingdom,0.227402,PV.STD.ERR,political_stability_se
+GEO,2018,Georgia,0.2515862,PV.STD.ERR,political_stability_se
+GHA,2018,Ghana,0.2358314,PV.STD.ERR,political_stability_se
+GIN,2018,Guinea,0.2402385,PV.STD.ERR,political_stability_se
+GMB,2018,"Gambia, The",0.2402385,PV.STD.ERR,political_stability_se
+GNB,2018,Guinea-Bissau,0.2648591,PV.STD.ERR,political_stability_se
+GNQ,2018,Equatorial Guinea,0.2508293,PV.STD.ERR,political_stability_se
+GRC,2018,Greece,0.2441342,PV.STD.ERR,political_stability_se
+GRD,2018,Grenada,0.3000825,PV.STD.ERR,political_stability_se
+GRL,2018,Greenland,0.3960027,PV.STD.ERR,political_stability_se
+GTM,2018,Guatemala,0.24518969999999998,PV.STD.ERR,political_stability_se
+GUF,2018,French Guiana,0.2985983,PV.STD.ERR,political_stability_se
+GUM,2018,Guam,0.2974658,PV.STD.ERR,political_stability_se
+GUY,2018,Guyana,0.25017269999999997,PV.STD.ERR,political_stability_se
+HKG,2018,"Hong Kong SAR, China",0.2872033,PV.STD.ERR,political_stability_se
+HND,2018,Honduras,0.24518969999999998,PV.STD.ERR,political_stability_se
+HRV,2018,Croatia,0.23949689999999998,PV.STD.ERR,political_stability_se
+HTI,2018,Haiti,0.2501539,PV.STD.ERR,political_stability_se
+HUN,2018,Hungary,0.23949689999999998,PV.STD.ERR,political_stability_se
+IDN,2018,Indonesia,0.23949689999999998,PV.STD.ERR,political_stability_se
+IND,2018,India,0.23949689999999998,PV.STD.ERR,political_stability_se
+IRL,2018,Ireland,0.24903329999999999,PV.STD.ERR,political_stability_se
+IRN,2018,"Iran, Islamic Rep.",0.24518969999999998,PV.STD.ERR,political_stability_se
+IRQ,2018,Iraq,0.2549636,PV.STD.ERR,political_stability_se
+ISL,2018,Iceland,0.24903329999999999,PV.STD.ERR,political_stability_se
+ISR,2018,Israel,0.24903329999999999,PV.STD.ERR,political_stability_se
+ITA,2018,Italy,0.2441342,PV.STD.ERR,political_stability_se
+JAM,2018,Jamaica,0.24518969999999998,PV.STD.ERR,political_stability_se
+JEY,2018,"Jersey, Channel Islands",0.5397873,PV.STD.ERR,political_stability_se
+JOR,2018,Jordan,0.22364009999999998,PV.STD.ERR,political_stability_se
+JPN,2018,Japan,0.2441342,PV.STD.ERR,political_stability_se
+KAZ,2018,Kazakhstan,0.22364009999999998,PV.STD.ERR,political_stability_se
+KEN,2018,Kenya,0.2358314,PV.STD.ERR,political_stability_se
+KGZ,2018,Kyrgyz Republic,0.23338769999999998,PV.STD.ERR,political_stability_se
+KHM,2018,Cambodia,0.2515862,PV.STD.ERR,political_stability_se
+KIR,2018,Kiribati,0.36498749999999996,PV.STD.ERR,political_stability_se
+KNA,2018,St. Kitts and Nevis,0.3000825,PV.STD.ERR,political_stability_se
+KOR,2018,"Korea, Rep.",0.22364009999999998,PV.STD.ERR,political_stability_se
+KWT,2018,Kuwait,0.2501539,PV.STD.ERR,political_stability_se
+LAO,2018,Lao PDR,0.2569578,PV.STD.ERR,political_stability_se
+LBN,2018,Lebanon,0.24518969999999998,PV.STD.ERR,political_stability_se
+LBR,2018,Liberia,0.22064679999999998,PV.STD.ERR,political_stability_se
+LBY,2018,Libya,0.2402385,PV.STD.ERR,political_stability_se
+LCA,2018,St. Lucia,0.3000825,PV.STD.ERR,political_stability_se
+LIE,2018,Liechtenstein,0.3165293,PV.STD.ERR,political_stability_se
+LKA,2018,Sri Lanka,0.24518969999999998,PV.STD.ERR,political_stability_se
+LSO,2018,Lesotho,0.24624569999999998,PV.STD.ERR,political_stability_se
+LTU,2018,Lithuania,0.2441168,PV.STD.ERR,political_stability_se
+LUX,2018,Luxembourg,0.24903329999999999,PV.STD.ERR,political_stability_se
+LVA,2018,Latvia,0.2441168,PV.STD.ERR,political_stability_se
+MAC,2018,"Macao SAR, China",0.3477148,PV.STD.ERR,political_stability_se
+MAR,2018,Morocco,0.2358314,PV.STD.ERR,political_stability_se
+MCO,2018,Monaco,0.3093239,PV.STD.ERR,political_stability_se
+MDA,2018,Moldova,0.24518969999999998,PV.STD.ERR,political_stability_se
+MDG,2018,Madagascar,0.2358314,PV.STD.ERR,political_stability_se
+MDV,2018,Maldives,0.2959455,PV.STD.ERR,political_stability_se
+MEX,2018,Mexico,0.22364009999999998,PV.STD.ERR,political_stability_se
+MHL,2018,Marshall Islands,0.36498749999999996,PV.STD.ERR,political_stability_se
+MKD,2018,North Macedonia,0.2515862,PV.STD.ERR,political_stability_se
+MLI,2018,Mali,0.2402385,PV.STD.ERR,political_stability_se
+MLT,2018,Malta,0.25545239999999997,PV.STD.ERR,political_stability_se
+MMR,2018,Myanmar,0.24518969999999998,PV.STD.ERR,political_stability_se
+MNE,2018,Montenegro,0.2569578,PV.STD.ERR,political_stability_se
+MNG,2018,Mongolia,0.23949689999999998,PV.STD.ERR,political_stability_se
+MOZ,2018,Mozambique,0.2242436,PV.STD.ERR,political_stability_se
+MRT,2018,Mauritania,0.24624569999999998,PV.STD.ERR,political_stability_se
+MTQ,2018,Martinique,0.3382293,PV.STD.ERR,political_stability_se
+MUS,2018,Mauritius,0.24624569999999998,PV.STD.ERR,political_stability_se
+MWI,2018,Malawi,0.2358314,PV.STD.ERR,political_stability_se
+MYS,2018,Malaysia,0.23949689999999998,PV.STD.ERR,political_stability_se
+NAM,2018,Namibia,0.2402385,PV.STD.ERR,political_stability_se
+NCL,2018,New Caledonia,0.5331819,PV.STD.ERR,political_stability_se
+NER,2018,Niger,0.24448899999999998,PV.STD.ERR,political_stability_se
+NGA,2018,Nigeria,0.2358314,PV.STD.ERR,political_stability_se
+NIC,2018,Nicaragua,0.24518969999999998,PV.STD.ERR,political_stability_se
+NIU,2018,Niue,0.5331819,PV.STD.ERR,political_stability_se
+NLD,2018,Netherlands,0.2441342,PV.STD.ERR,political_stability_se
+NOR,2018,Norway,0.2441342,PV.STD.ERR,political_stability_se
+NPL,2018,Nepal,0.23338769999999998,PV.STD.ERR,political_stability_se
+NRU,2018,Nauru,0.3151812,PV.STD.ERR,political_stability_se
+NZL,2018,New Zealand,0.227402,PV.STD.ERR,political_stability_se
+OMN,2018,Oman,0.2501539,PV.STD.ERR,political_stability_se
+PAK,2018,Pakistan,0.24518969999999998,PV.STD.ERR,political_stability_se
+PAN,2018,Panama,0.24518969999999998,PV.STD.ERR,political_stability_se
+PER,2018,Peru,0.23949689999999998,PV.STD.ERR,political_stability_se
+PHL,2018,Philippines,0.23949689999999998,PV.STD.ERR,political_stability_se
+PLW,2018,Palau,0.36498749999999996,PV.STD.ERR,political_stability_se
+PNG,2018,Papua New Guinea,0.2360764,PV.STD.ERR,political_stability_se
+POL,2018,Poland,0.23949689999999998,PV.STD.ERR,political_stability_se
+PRI,2018,Puerto Rico (U.S.),0.27193459999999997,PV.STD.ERR,political_stability_se
+PRK,2018,"Korea, Dem. People's Rep.",0.2549636,PV.STD.ERR,political_stability_se
+PRT,2018,Portugal,0.2441342,PV.STD.ERR,political_stability_se
+PRY,2018,Paraguay,0.2501539,PV.STD.ERR,political_stability_se
+PSE,2018,West Bank and Gaza,0.278146,PV.STD.ERR,political_stability_se
+QAT,2018,Qatar,0.25146419999999997,PV.STD.ERR,political_stability_se
+REU,2018,Réunion,0.41535,PV.STD.ERR,political_stability_se
+ROU,2018,Romania,0.23949689999999998,PV.STD.ERR,political_stability_se
+RUS,2018,Russian Federation,0.23949689999999998,PV.STD.ERR,political_stability_se
+RWA,2018,Rwanda,0.24624569999999998,PV.STD.ERR,political_stability_se
+SAU,2018,Saudi Arabia,0.23329029999999998,PV.STD.ERR,political_stability_se
+SDN,2018,Sudan,0.24448899999999998,PV.STD.ERR,political_stability_se
+SEN,2018,Senegal,0.2358314,PV.STD.ERR,political_stability_se
+SGP,2018,Singapore,0.23949689999999998,PV.STD.ERR,political_stability_se
+SLB,2018,Solomon Islands,0.2674758,PV.STD.ERR,political_stability_se
+SLE,2018,Sierra Leone,0.2358314,PV.STD.ERR,political_stability_se
+SLV,2018,El Salvador,0.24518969999999998,PV.STD.ERR,political_stability_se
+SMR,2018,San Marino,0.36498749999999996,PV.STD.ERR,political_stability_se
+SOM,2018,Federal Republic of Somalia,0.2518711,PV.STD.ERR,political_stability_se
+SRB,2018,Serbia,0.24518969999999998,PV.STD.ERR,political_stability_se
+SSD,2018,South Sudan,0.2833674,PV.STD.ERR,political_stability_se
+STP,2018,São Tomé and Príncipe,0.2561718,PV.STD.ERR,political_stability_se
+SUR,2018,Suriname,0.25017269999999997,PV.STD.ERR,political_stability_se
+SVK,2018,Slovak Republic,0.2441168,PV.STD.ERR,political_stability_se
+SVN,2018,Slovenia,0.23949689999999998,PV.STD.ERR,political_stability_se
+SWE,2018,Sweden,0.2441342,PV.STD.ERR,political_stability_se
+SWZ,2018,Eswatini,0.24624569999999998,PV.STD.ERR,political_stability_se
+SYC,2018,Seychelles,0.2512947,PV.STD.ERR,political_stability_se
+SYR,2018,Syrian Arab Republic,0.2549636,PV.STD.ERR,political_stability_se
+TCD,2018,Chad,0.24624569999999998,PV.STD.ERR,political_stability_se
+TGO,2018,Togo,0.24448899999999998,PV.STD.ERR,political_stability_se
+THA,2018,Thailand,0.23949689999999998,PV.STD.ERR,political_stability_se
+TJK,2018,Tajikistan,0.2569578,PV.STD.ERR,political_stability_se
+TKM,2018,Turkmenistan,0.2621791,PV.STD.ERR,political_stability_se
+TLS,2018,Timor-Leste,0.2569578,PV.STD.ERR,political_stability_se
+TON,2018,Tonga,0.2772299,PV.STD.ERR,political_stability_se
+TTO,2018,Trinidad and Tobago,0.24518969999999998,PV.STD.ERR,political_stability_se
+TUN,2018,Tunisia,0.2358314,PV.STD.ERR,political_stability_se
+TUR,2018,Türkiye,0.23949689999999998,PV.STD.ERR,political_stability_se
+TUV,2018,Tuvalu,0.36498749999999996,PV.STD.ERR,political_stability_se
+TWN,2018,"Taiwan, China",0.2441168,PV.STD.ERR,political_stability_se
+TZA,2018,Tanzania,0.2358314,PV.STD.ERR,political_stability_se
+UGA,2018,Uganda,0.2358314,PV.STD.ERR,political_stability_se
+UKR,2018,Ukraine,0.23949689999999998,PV.STD.ERR,political_stability_se
+URY,2018,Uruguay,0.24518969999999998,PV.STD.ERR,political_stability_se
+USA,2018,United States,0.227402,PV.STD.ERR,political_stability_se
+UZB,2018,Uzbekistan,0.2564806,PV.STD.ERR,political_stability_se
+VCT,2018,St. Vincent and the Grenadines,0.3000825,PV.STD.ERR,political_stability_se
+VEN,2018,"Venezuela, RB",0.22364009999999998,PV.STD.ERR,political_stability_se
+VIR,2018,Virgin Islands (U.S.),0.3382293,PV.STD.ERR,political_stability_se
+VNM,2018,Viet Nam,0.2282542,PV.STD.ERR,political_stability_se
+VUT,2018,Vanuatu,0.3435455,PV.STD.ERR,political_stability_se
+WSM,2018,Samoa,0.2772299,PV.STD.ERR,political_stability_se
+XKX,2018,Kosovo,0.2621791,PV.STD.ERR,political_stability_se
+YEM,2018,"Yemen, Rep.",0.2501539,PV.STD.ERR,political_stability_se
+ZAF,2018,South Africa,0.2307526,PV.STD.ERR,political_stability_se
+ZMB,2018,Zambia,0.2358314,PV.STD.ERR,political_stability_se
+ZWE,2018,Zimbabwe,0.2358314,PV.STD.ERR,political_stability_se
+ABW,2019,Aruba,0.2985983,PV.STD.ERR,political_stability_se
+ADO,2019,Andorra,0.3093239,PV.STD.ERR,political_stability_se
+AFG,2019,Afghanistan,0.2564806,PV.STD.ERR,political_stability_se
+AGO,2019,Angola,0.2276886,PV.STD.ERR,political_stability_se
+AIA,2019,Anguilla,0.3382293,PV.STD.ERR,political_stability_se
+ALB,2019,Albania,0.24518969999999998,PV.STD.ERR,political_stability_se
+ARE,2019,United Arab Emirates,0.23949689999999998,PV.STD.ERR,political_stability_se
+ARG,2019,Argentina,0.23949689999999998,PV.STD.ERR,political_stability_se
+ARM,2019,Armenia,0.2501539,PV.STD.ERR,political_stability_se
+ASM,2019,American Samoa,0.34592999999999996,PV.STD.ERR,political_stability_se
+ATG,2019,Antigua and Barbuda,0.3000825,PV.STD.ERR,political_stability_se
+AUS,2019,Australia,0.227402,PV.STD.ERR,political_stability_se
+AUT,2019,Austria,0.2441342,PV.STD.ERR,political_stability_se
+AZE,2019,Azerbaijan,0.2501539,PV.STD.ERR,political_stability_se
+BDI,2019,Burundi,0.24624569999999998,PV.STD.ERR,political_stability_se
+BEL,2019,Belgium,0.2441342,PV.STD.ERR,political_stability_se
+BEN,2019,Benin,0.24624569999999998,PV.STD.ERR,political_stability_se
+BFA,2019,Burkina Faso,0.2398483,PV.STD.ERR,political_stability_se
+BGD,2019,Bangladesh,0.24518969999999998,PV.STD.ERR,political_stability_se
+BGR,2019,Bulgaria,0.23949689999999998,PV.STD.ERR,political_stability_se
+BHR,2019,Bahrain,0.2501539,PV.STD.ERR,political_stability_se
+BHS,2019,"Bahamas, The",0.2633913,PV.STD.ERR,political_stability_se
+BIH,2019,Bosnia and Herzegovina,0.2515862,PV.STD.ERR,political_stability_se
+BLR,2019,Belarus,0.24971359999999998,PV.STD.ERR,political_stability_se
+BLZ,2019,Belize,0.2713692,PV.STD.ERR,political_stability_se
+BMU,2019,Bermuda,0.3382293,PV.STD.ERR,political_stability_se
+BOL,2019,Bolivia,0.24518969999999998,PV.STD.ERR,political_stability_se
+BRA,2019,Brazil,0.22364009999999998,PV.STD.ERR,political_stability_se
+BRB,2019,Barbados,0.2569781,PV.STD.ERR,political_stability_se
+BRN,2019,Brunei Darussalam,0.2639083,PV.STD.ERR,political_stability_se
+BTN,2019,Bhutan,0.2569578,PV.STD.ERR,political_stability_se
+BWA,2019,Botswana,0.2358314,PV.STD.ERR,political_stability_se
+CAF,2019,Central African Republic,0.2508293,PV.STD.ERR,political_stability_se
+CAN,2019,Canada,0.2441342,PV.STD.ERR,political_stability_se
+CHE,2019,Switzerland,0.24903329999999999,PV.STD.ERR,political_stability_se
+CHL,2019,Chile,0.23949689999999998,PV.STD.ERR,political_stability_se
+CHN,2019,China,0.24642309999999998,PV.STD.ERR,political_stability_se
+CIV,2019,Côte d’Ivoire,0.2358314,PV.STD.ERR,political_stability_se
+CMR,2019,Cameroon,0.2358314,PV.STD.ERR,political_stability_se
+COD,2019,"Congo, Dem. Rep.",0.2242436,PV.STD.ERR,political_stability_se
+COG,2019,"Congo, Rep.",0.24448899999999998,PV.STD.ERR,political_stability_se
+COK,2019,Cook Islands,0.5331819,PV.STD.ERR,political_stability_se
+COL,2019,Colombia,0.23949689999999998,PV.STD.ERR,political_stability_se
+COM,2019,Comoros,0.2799025,PV.STD.ERR,political_stability_se
+CPV,2019,Cabo Verde,0.2512947,PV.STD.ERR,political_stability_se
+CRI,2019,Costa Rica,0.24518969999999998,PV.STD.ERR,political_stability_se
+CUB,2019,Cuba,0.2549636,PV.STD.ERR,political_stability_se
+CYM,2019,Cayman Islands,0.2985983,PV.STD.ERR,political_stability_se
+CYP,2019,Cyprus,0.24903329999999999,PV.STD.ERR,political_stability_se
+CZE,2019,Czechia,0.23949689999999998,PV.STD.ERR,political_stability_se
+DEU,2019,Germany,0.2441342,PV.STD.ERR,political_stability_se
+DJI,2019,Djibouti,0.2508293,PV.STD.ERR,political_stability_se
+DMA,2019,Dominica,0.3000825,PV.STD.ERR,political_stability_se
+DNK,2019,Denmark,0.2441342,PV.STD.ERR,political_stability_se
+DOM,2019,Dominican Republic,0.24518969999999998,PV.STD.ERR,political_stability_se
+DZA,2019,Algeria,0.2402385,PV.STD.ERR,political_stability_se
+ECU,2019,Ecuador,0.24518969999999998,PV.STD.ERR,political_stability_se
+EGY,2019,"Egypt, Arab Rep.",0.2358314,PV.STD.ERR,political_stability_se
+ERI,2019,Eritrea,0.25882,PV.STD.ERR,political_stability_se
+ESP,2019,Spain,0.2441342,PV.STD.ERR,political_stability_se
+EST,2019,Estonia,0.23949689999999998,PV.STD.ERR,political_stability_se
+ETH,2019,Ethiopia,0.2358314,PV.STD.ERR,political_stability_se
+FIN,2019,Finland,0.2441342,PV.STD.ERR,political_stability_se
+FJI,2019,Fiji,0.2674758,PV.STD.ERR,political_stability_se
+FRA,2019,France,0.2441342,PV.STD.ERR,political_stability_se
+FSM,2019,"Micronesia, Fed. Sts.",0.2772299,PV.STD.ERR,political_stability_se
+GAB,2019,Gabon,0.2402385,PV.STD.ERR,political_stability_se
+GBR,2019,United Kingdom,0.227402,PV.STD.ERR,political_stability_se
+GEO,2019,Georgia,0.2515862,PV.STD.ERR,political_stability_se
+GHA,2019,Ghana,0.2358314,PV.STD.ERR,political_stability_se
+GIN,2019,Guinea,0.2402385,PV.STD.ERR,political_stability_se
+GMB,2019,"Gambia, The",0.2402385,PV.STD.ERR,political_stability_se
+GNB,2019,Guinea-Bissau,0.2648591,PV.STD.ERR,political_stability_se
+GNQ,2019,Equatorial Guinea,0.2508293,PV.STD.ERR,political_stability_se
+GRC,2019,Greece,0.2441342,PV.STD.ERR,political_stability_se
+GRD,2019,Grenada,0.3000825,PV.STD.ERR,political_stability_se
+GRL,2019,Greenland,0.3960027,PV.STD.ERR,political_stability_se
+GTM,2019,Guatemala,0.24518969999999998,PV.STD.ERR,political_stability_se
+GUF,2019,French Guiana,0.2985983,PV.STD.ERR,political_stability_se
+GUM,2019,Guam,0.2974658,PV.STD.ERR,political_stability_se
+GUY,2019,Guyana,0.25017269999999997,PV.STD.ERR,political_stability_se
+HKG,2019,"Hong Kong SAR, China",0.23817649999999999,PV.STD.ERR,political_stability_se
+HND,2019,Honduras,0.24518969999999998,PV.STD.ERR,political_stability_se
+HRV,2019,Croatia,0.23949689999999998,PV.STD.ERR,political_stability_se
+HTI,2019,Haiti,0.2501539,PV.STD.ERR,political_stability_se
+HUN,2019,Hungary,0.23949689999999998,PV.STD.ERR,political_stability_se
+IDN,2019,Indonesia,0.23949689999999998,PV.STD.ERR,political_stability_se
+IND,2019,India,0.23949689999999998,PV.STD.ERR,political_stability_se
+IRL,2019,Ireland,0.24903329999999999,PV.STD.ERR,political_stability_se
+IRN,2019,"Iran, Islamic Rep.",0.24518969999999998,PV.STD.ERR,political_stability_se
+IRQ,2019,Iraq,0.2549636,PV.STD.ERR,political_stability_se
+ISL,2019,Iceland,0.24903329999999999,PV.STD.ERR,political_stability_se
+ISR,2019,Israel,0.24903329999999999,PV.STD.ERR,political_stability_se
+ITA,2019,Italy,0.2441342,PV.STD.ERR,political_stability_se
+JAM,2019,Jamaica,0.24518969999999998,PV.STD.ERR,political_stability_se
+JEY,2019,"Jersey, Channel Islands",0.5397873,PV.STD.ERR,political_stability_se
+JOR,2019,Jordan,0.22364009999999998,PV.STD.ERR,political_stability_se
+JPN,2019,Japan,0.2441342,PV.STD.ERR,political_stability_se
+KAZ,2019,Kazakhstan,0.22364009999999998,PV.STD.ERR,political_stability_se
+KEN,2019,Kenya,0.2358314,PV.STD.ERR,political_stability_se
+KGZ,2019,Kyrgyz Republic,0.23338769999999998,PV.STD.ERR,political_stability_se
+KHM,2019,Cambodia,0.2515862,PV.STD.ERR,political_stability_se
+KIR,2019,Kiribati,0.3151812,PV.STD.ERR,political_stability_se
+KNA,2019,St. Kitts and Nevis,0.3000825,PV.STD.ERR,political_stability_se
+KOR,2019,"Korea, Rep.",0.22364009999999998,PV.STD.ERR,political_stability_se
+KWT,2019,Kuwait,0.2501539,PV.STD.ERR,political_stability_se
+LAO,2019,Lao PDR,0.2569578,PV.STD.ERR,political_stability_se
+LBN,2019,Lebanon,0.24518969999999998,PV.STD.ERR,political_stability_se
+LBR,2019,Liberia,0.22064679999999998,PV.STD.ERR,political_stability_se
+LBY,2019,Libya,0.24448899999999998,PV.STD.ERR,political_stability_se
+LCA,2019,St. Lucia,0.3000825,PV.STD.ERR,political_stability_se
+LIE,2019,Liechtenstein,0.278146,PV.STD.ERR,political_stability_se
+LKA,2019,Sri Lanka,0.24518969999999998,PV.STD.ERR,political_stability_se
+LSO,2019,Lesotho,0.24624569999999998,PV.STD.ERR,political_stability_se
+LTU,2019,Lithuania,0.2441168,PV.STD.ERR,political_stability_se
+LUX,2019,Luxembourg,0.24903329999999999,PV.STD.ERR,political_stability_se
+LVA,2019,Latvia,0.2441168,PV.STD.ERR,political_stability_se
+MAC,2019,"Macao SAR, China",0.3477148,PV.STD.ERR,political_stability_se
+MAR,2019,Morocco,0.2358314,PV.STD.ERR,political_stability_se
+MCO,2019,Monaco,0.3093239,PV.STD.ERR,political_stability_se
+MDA,2019,Moldova,0.24518969999999998,PV.STD.ERR,political_stability_se
+MDG,2019,Madagascar,0.2358314,PV.STD.ERR,political_stability_se
+MDV,2019,Maldives,0.2959455,PV.STD.ERR,political_stability_se
+MEX,2019,Mexico,0.22364009999999998,PV.STD.ERR,political_stability_se
+MHL,2019,Marshall Islands,0.3151812,PV.STD.ERR,political_stability_se
+MKD,2019,North Macedonia,0.2515862,PV.STD.ERR,political_stability_se
+MLI,2019,Mali,0.2402385,PV.STD.ERR,political_stability_se
+MLT,2019,Malta,0.25545239999999997,PV.STD.ERR,political_stability_se
+MMR,2019,Myanmar,0.24518969999999998,PV.STD.ERR,political_stability_se
+MNE,2019,Montenegro,0.2569578,PV.STD.ERR,political_stability_se
+MNG,2019,Mongolia,0.23949689999999998,PV.STD.ERR,political_stability_se
+MOZ,2019,Mozambique,0.2242436,PV.STD.ERR,political_stability_se
+MRT,2019,Mauritania,0.24624569999999998,PV.STD.ERR,political_stability_se
+MTQ,2019,Martinique,0.3382293,PV.STD.ERR,political_stability_se
+MUS,2019,Mauritius,0.24624569999999998,PV.STD.ERR,political_stability_se
+MWI,2019,Malawi,0.2358314,PV.STD.ERR,political_stability_se
+MYS,2019,Malaysia,0.22364009999999998,PV.STD.ERR,political_stability_se
+NAM,2019,Namibia,0.2402385,PV.STD.ERR,political_stability_se
+NCL,2019,New Caledonia,0.5331819,PV.STD.ERR,political_stability_se
+NER,2019,Niger,0.24448899999999998,PV.STD.ERR,political_stability_se
+NGA,2019,Nigeria,0.2358314,PV.STD.ERR,political_stability_se
+NIC,2019,Nicaragua,0.24518969999999998,PV.STD.ERR,political_stability_se
+NIU,2019,Niue,0.5331819,PV.STD.ERR,political_stability_se
+NLD,2019,Netherlands,0.2441342,PV.STD.ERR,political_stability_se
+NOR,2019,Norway,0.2441342,PV.STD.ERR,political_stability_se
+NPL,2019,Nepal,0.23338769999999998,PV.STD.ERR,political_stability_se
+NRU,2019,Nauru,0.3151812,PV.STD.ERR,political_stability_se
+NZL,2019,New Zealand,0.227402,PV.STD.ERR,political_stability_se
+OMN,2019,Oman,0.2501539,PV.STD.ERR,political_stability_se
+PAK,2019,Pakistan,0.24518969999999998,PV.STD.ERR,political_stability_se
+PAN,2019,Panama,0.24518969999999998,PV.STD.ERR,political_stability_se
+PER,2019,Peru,0.23949689999999998,PV.STD.ERR,political_stability_se
+PHL,2019,Philippines,0.23949689999999998,PV.STD.ERR,political_stability_se
+PLW,2019,Palau,0.36498749999999996,PV.STD.ERR,political_stability_se
+PNG,2019,Papua New Guinea,0.2360764,PV.STD.ERR,political_stability_se
+POL,2019,Poland,0.23949689999999998,PV.STD.ERR,political_stability_se
+PRI,2019,Puerto Rico (U.S.),0.27193459999999997,PV.STD.ERR,political_stability_se
+PRK,2019,"Korea, Dem. People's Rep.",0.2549636,PV.STD.ERR,political_stability_se
+PRT,2019,Portugal,0.2441342,PV.STD.ERR,political_stability_se
+PRY,2019,Paraguay,0.2501539,PV.STD.ERR,political_stability_se
+PSE,2019,West Bank and Gaza,0.278146,PV.STD.ERR,political_stability_se
+PYF,2019,French Polynesia,0.5331819,PV.STD.ERR,political_stability_se
+QAT,2019,Qatar,0.25146419999999997,PV.STD.ERR,political_stability_se
+REU,2019,Réunion,0.41535,PV.STD.ERR,political_stability_se
+ROU,2019,Romania,0.23949689999999998,PV.STD.ERR,political_stability_se
+RUS,2019,Russian Federation,0.23949689999999998,PV.STD.ERR,political_stability_se
+RWA,2019,Rwanda,0.24624569999999998,PV.STD.ERR,political_stability_se
+SAU,2019,Saudi Arabia,0.23329029999999998,PV.STD.ERR,political_stability_se
+SDN,2019,Sudan,0.24448899999999998,PV.STD.ERR,political_stability_se
+SEN,2019,Senegal,0.2358314,PV.STD.ERR,political_stability_se
+SGP,2019,Singapore,0.23949689999999998,PV.STD.ERR,political_stability_se
+SLB,2019,Solomon Islands,0.2674758,PV.STD.ERR,political_stability_se
+SLE,2019,Sierra Leone,0.2358314,PV.STD.ERR,political_stability_se
+SLV,2019,El Salvador,0.24518969999999998,PV.STD.ERR,political_stability_se
+SMR,2019,San Marino,0.3093239,PV.STD.ERR,political_stability_se
+SOM,2019,Federal Republic of Somalia,0.2518711,PV.STD.ERR,political_stability_se
+SRB,2019,Serbia,0.24518969999999998,PV.STD.ERR,political_stability_se
+SSD,2019,South Sudan,0.2833674,PV.STD.ERR,political_stability_se
+STP,2019,São Tomé and Príncipe,0.2561718,PV.STD.ERR,political_stability_se
+SUR,2019,Suriname,0.2549835,PV.STD.ERR,political_stability_se
+SVK,2019,Slovak Republic,0.2441168,PV.STD.ERR,political_stability_se
+SVN,2019,Slovenia,0.23949689999999998,PV.STD.ERR,political_stability_se
+SWE,2019,Sweden,0.2441342,PV.STD.ERR,political_stability_se
+SWZ,2019,Eswatini,0.24624569999999998,PV.STD.ERR,political_stability_se
+SYC,2019,Seychelles,0.2512947,PV.STD.ERR,political_stability_se
+SYR,2019,Syrian Arab Republic,0.2549636,PV.STD.ERR,political_stability_se
+TCD,2019,Chad,0.24624569999999998,PV.STD.ERR,political_stability_se
+TGO,2019,Togo,0.24448899999999998,PV.STD.ERR,political_stability_se
+THA,2019,Thailand,0.23949689999999998,PV.STD.ERR,political_stability_se
+TJK,2019,Tajikistan,0.2569578,PV.STD.ERR,political_stability_se
+TKM,2019,Turkmenistan,0.2621791,PV.STD.ERR,political_stability_se
+TLS,2019,Timor-Leste,0.2621791,PV.STD.ERR,political_stability_se
+TON,2019,Tonga,0.2772299,PV.STD.ERR,political_stability_se
+TTO,2019,Trinidad and Tobago,0.24518969999999998,PV.STD.ERR,political_stability_se
+TUN,2019,Tunisia,0.2358314,PV.STD.ERR,political_stability_se
+TUR,2019,Türkiye,0.23949689999999998,PV.STD.ERR,political_stability_se
+TUV,2019,Tuvalu,0.36498749999999996,PV.STD.ERR,political_stability_se
+TWN,2019,"Taiwan, China",0.2273878,PV.STD.ERR,political_stability_se
+TZA,2019,Tanzania,0.2358314,PV.STD.ERR,political_stability_se
+UGA,2019,Uganda,0.2358314,PV.STD.ERR,political_stability_se
+UKR,2019,Ukraine,0.23949689999999998,PV.STD.ERR,political_stability_se
+URY,2019,Uruguay,0.24518969999999998,PV.STD.ERR,political_stability_se
+USA,2019,United States,0.227402,PV.STD.ERR,political_stability_se
+UZB,2019,Uzbekistan,0.2564806,PV.STD.ERR,political_stability_se
+VCT,2019,St. Vincent and the Grenadines,0.3000825,PV.STD.ERR,political_stability_se
+VEN,2019,"Venezuela, RB",0.22364009999999998,PV.STD.ERR,political_stability_se
+VIR,2019,Virgin Islands (U.S.),0.3382293,PV.STD.ERR,political_stability_se
+VNM,2019,Viet Nam,0.2282542,PV.STD.ERR,political_stability_se
+VUT,2019,Vanuatu,0.30106289999999997,PV.STD.ERR,political_stability_se
+WSM,2019,Samoa,0.2772299,PV.STD.ERR,political_stability_se
+XKX,2019,Kosovo,0.2621791,PV.STD.ERR,political_stability_se
+YEM,2019,"Yemen, Rep.",0.2501539,PV.STD.ERR,political_stability_se
+ZAF,2019,South Africa,0.2307526,PV.STD.ERR,political_stability_se
+ZMB,2019,Zambia,0.2358314,PV.STD.ERR,political_stability_se
+ZWE,2019,Zimbabwe,0.2358314,PV.STD.ERR,political_stability_se
+ABW,2020,Aruba,0.2985983,PV.STD.ERR,political_stability_se
+ADO,2020,Andorra,0.3093239,PV.STD.ERR,political_stability_se
+AFG,2020,Afghanistan,0.2564806,PV.STD.ERR,political_stability_se
+AGO,2020,Angola,0.2276886,PV.STD.ERR,political_stability_se
+AIA,2020,Anguilla,0.3382293,PV.STD.ERR,political_stability_se
+ALB,2020,Albania,0.24518969999999998,PV.STD.ERR,political_stability_se
+ARE,2020,United Arab Emirates,0.23949689999999998,PV.STD.ERR,political_stability_se
+ARG,2020,Argentina,0.23949689999999998,PV.STD.ERR,political_stability_se
+ARM,2020,Armenia,0.2501539,PV.STD.ERR,political_stability_se
+ASM,2020,American Samoa,0.34592999999999996,PV.STD.ERR,political_stability_se
+ATG,2020,Antigua and Barbuda,0.3000825,PV.STD.ERR,political_stability_se
+AUS,2020,Australia,0.227402,PV.STD.ERR,political_stability_se
+AUT,2020,Austria,0.2441342,PV.STD.ERR,political_stability_se
+AZE,2020,Azerbaijan,0.2501539,PV.STD.ERR,political_stability_se
+BDI,2020,Burundi,0.24624569999999998,PV.STD.ERR,political_stability_se
+BEL,2020,Belgium,0.2441342,PV.STD.ERR,political_stability_se
+BEN,2020,Benin,0.24624569999999998,PV.STD.ERR,political_stability_se
+BFA,2020,Burkina Faso,0.2398483,PV.STD.ERR,political_stability_se
+BGD,2020,Bangladesh,0.24518969999999998,PV.STD.ERR,political_stability_se
+BGR,2020,Bulgaria,0.23949689999999998,PV.STD.ERR,political_stability_se
+BHR,2020,Bahrain,0.2501539,PV.STD.ERR,political_stability_se
+BHS,2020,"Bahamas, The",0.2633913,PV.STD.ERR,political_stability_se
+BIH,2020,Bosnia and Herzegovina,0.2515862,PV.STD.ERR,political_stability_se
+BLR,2020,Belarus,0.24971359999999998,PV.STD.ERR,political_stability_se
+BLZ,2020,Belize,0.2713692,PV.STD.ERR,political_stability_se
+BMU,2020,Bermuda,0.3382293,PV.STD.ERR,political_stability_se
+BOL,2020,Bolivia,0.24518969999999998,PV.STD.ERR,political_stability_se
+BRA,2020,Brazil,0.22364009999999998,PV.STD.ERR,political_stability_se
+BRB,2020,Barbados,0.2569781,PV.STD.ERR,political_stability_se
+BRN,2020,Brunei Darussalam,0.2639083,PV.STD.ERR,political_stability_se
+BTN,2020,Bhutan,0.2569578,PV.STD.ERR,political_stability_se
+BWA,2020,Botswana,0.2358314,PV.STD.ERR,political_stability_se
+CAF,2020,Central African Republic,0.2508293,PV.STD.ERR,political_stability_se
+CAN,2020,Canada,0.2441342,PV.STD.ERR,political_stability_se
+CHE,2020,Switzerland,0.24903329999999999,PV.STD.ERR,political_stability_se
+CHL,2020,Chile,0.23949689999999998,PV.STD.ERR,political_stability_se
+CHN,2020,China,0.2292483,PV.STD.ERR,political_stability_se
+CIV,2020,Côte d’Ivoire,0.2358314,PV.STD.ERR,political_stability_se
+CMR,2020,Cameroon,0.2358314,PV.STD.ERR,political_stability_se
+COD,2020,"Congo, Dem. Rep.",0.2242436,PV.STD.ERR,political_stability_se
+COG,2020,"Congo, Rep.",0.24448899999999998,PV.STD.ERR,political_stability_se
+COK,2020,Cook Islands,0.5331819,PV.STD.ERR,political_stability_se
+COL,2020,Colombia,0.23949689999999998,PV.STD.ERR,political_stability_se
+COM,2020,Comoros,0.2799025,PV.STD.ERR,political_stability_se
+CPV,2020,Cabo Verde,0.2512947,PV.STD.ERR,political_stability_se
+CRI,2020,Costa Rica,0.24518969999999998,PV.STD.ERR,political_stability_se
+CUB,2020,Cuba,0.2549636,PV.STD.ERR,political_stability_se
+CYM,2020,Cayman Islands,0.2985983,PV.STD.ERR,political_stability_se
+CYP,2020,Cyprus,0.24903329999999999,PV.STD.ERR,political_stability_se
+CZE,2020,Czechia,0.23949689999999998,PV.STD.ERR,political_stability_se
+DEU,2020,Germany,0.2441342,PV.STD.ERR,political_stability_se
+DJI,2020,Djibouti,0.2508293,PV.STD.ERR,political_stability_se
+DMA,2020,Dominica,0.3000825,PV.STD.ERR,political_stability_se
+DNK,2020,Denmark,0.2441342,PV.STD.ERR,political_stability_se
+DOM,2020,Dominican Republic,0.24518969999999998,PV.STD.ERR,political_stability_se
+DZA,2020,Algeria,0.2402385,PV.STD.ERR,political_stability_se
+ECU,2020,Ecuador,0.24518969999999998,PV.STD.ERR,political_stability_se
+EGY,2020,"Egypt, Arab Rep.",0.2358314,PV.STD.ERR,political_stability_se
+ERI,2020,Eritrea,0.25882,PV.STD.ERR,political_stability_se
+ESP,2020,Spain,0.2441342,PV.STD.ERR,political_stability_se
+EST,2020,Estonia,0.23949689999999998,PV.STD.ERR,political_stability_se
+ETH,2020,Ethiopia,0.2358314,PV.STD.ERR,political_stability_se
+FIN,2020,Finland,0.2441342,PV.STD.ERR,political_stability_se
+FJI,2020,Fiji,0.2674758,PV.STD.ERR,political_stability_se
+FRA,2020,France,0.2441342,PV.STD.ERR,political_stability_se
+FSM,2020,"Micronesia, Fed. Sts.",0.2772299,PV.STD.ERR,political_stability_se
+GAB,2020,Gabon,0.2402385,PV.STD.ERR,political_stability_se
+GBR,2020,United Kingdom,0.227402,PV.STD.ERR,political_stability_se
+GEO,2020,Georgia,0.2515862,PV.STD.ERR,political_stability_se
+GHA,2020,Ghana,0.2358314,PV.STD.ERR,political_stability_se
+GIN,2020,Guinea,0.24448899999999998,PV.STD.ERR,political_stability_se
+GMB,2020,"Gambia, The",0.2402385,PV.STD.ERR,political_stability_se
+GNB,2020,Guinea-Bissau,0.2648591,PV.STD.ERR,political_stability_se
+GNQ,2020,Equatorial Guinea,0.2508293,PV.STD.ERR,political_stability_se
+GRC,2020,Greece,0.2441342,PV.STD.ERR,political_stability_se
+GRD,2020,Grenada,0.3000825,PV.STD.ERR,political_stability_se
+GRL,2020,Greenland,0.3960027,PV.STD.ERR,political_stability_se
+GTM,2020,Guatemala,0.24518969999999998,PV.STD.ERR,political_stability_se
+GUF,2020,French Guiana,0.2985983,PV.STD.ERR,political_stability_se
+GUM,2020,Guam,0.2974658,PV.STD.ERR,political_stability_se
+GUY,2020,Guyana,0.2549835,PV.STD.ERR,political_stability_se
+HKG,2020,"Hong Kong SAR, China",0.23817649999999999,PV.STD.ERR,political_stability_se
+HND,2020,Honduras,0.24518969999999998,PV.STD.ERR,political_stability_se
+HRV,2020,Croatia,0.23949689999999998,PV.STD.ERR,political_stability_se
+HTI,2020,Haiti,0.2501539,PV.STD.ERR,political_stability_se
+HUN,2020,Hungary,0.23949689999999998,PV.STD.ERR,political_stability_se
+IDN,2020,Indonesia,0.23949689999999998,PV.STD.ERR,political_stability_se
+IND,2020,India,0.22364009999999998,PV.STD.ERR,political_stability_se
+IRL,2020,Ireland,0.24903329999999999,PV.STD.ERR,political_stability_se
+IRN,2020,"Iran, Islamic Rep.",0.24518969999999998,PV.STD.ERR,political_stability_se
+IRQ,2020,Iraq,0.2549636,PV.STD.ERR,political_stability_se
+ISL,2020,Iceland,0.24903329999999999,PV.STD.ERR,political_stability_se
+ISR,2020,Israel,0.24903329999999999,PV.STD.ERR,political_stability_se
+ITA,2020,Italy,0.2441342,PV.STD.ERR,political_stability_se
+JAM,2020,Jamaica,0.24518969999999998,PV.STD.ERR,political_stability_se
+JEY,2020,"Jersey, Channel Islands",0.5397873,PV.STD.ERR,political_stability_se
+JOR,2020,Jordan,0.22364009999999998,PV.STD.ERR,political_stability_se
+JPN,2020,Japan,0.2441342,PV.STD.ERR,political_stability_se
+KAZ,2020,Kazakhstan,0.22364009999999998,PV.STD.ERR,political_stability_se
+KEN,2020,Kenya,0.2358314,PV.STD.ERR,political_stability_se
+KGZ,2020,Kyrgyz Republic,0.23338769999999998,PV.STD.ERR,political_stability_se
+KHM,2020,Cambodia,0.2515862,PV.STD.ERR,political_stability_se
+KIR,2020,Kiribati,0.3151812,PV.STD.ERR,political_stability_se
+KNA,2020,St. Kitts and Nevis,0.3000825,PV.STD.ERR,political_stability_se
+KOR,2020,"Korea, Rep.",0.22364009999999998,PV.STD.ERR,political_stability_se
+KWT,2020,Kuwait,0.2501539,PV.STD.ERR,political_stability_se
+LAO,2020,Lao PDR,0.2569578,PV.STD.ERR,political_stability_se
+LBN,2020,Lebanon,0.24518969999999998,PV.STD.ERR,political_stability_se
+LBR,2020,Liberia,0.22064679999999998,PV.STD.ERR,political_stability_se
+LBY,2020,Libya,0.24448899999999998,PV.STD.ERR,political_stability_se
+LCA,2020,St. Lucia,0.3000825,PV.STD.ERR,political_stability_se
+LIE,2020,Liechtenstein,0.278146,PV.STD.ERR,political_stability_se
+LKA,2020,Sri Lanka,0.24518969999999998,PV.STD.ERR,political_stability_se
+LSO,2020,Lesotho,0.24624569999999998,PV.STD.ERR,political_stability_se
+LTU,2020,Lithuania,0.2441168,PV.STD.ERR,political_stability_se
+LUX,2020,Luxembourg,0.24903329999999999,PV.STD.ERR,political_stability_se
+LVA,2020,Latvia,0.2441168,PV.STD.ERR,political_stability_se
+MAC,2020,"Macao SAR, China",0.3477148,PV.STD.ERR,political_stability_se
+MAR,2020,Morocco,0.2358314,PV.STD.ERR,political_stability_se
+MCO,2020,Monaco,0.3093239,PV.STD.ERR,political_stability_se
+MDA,2020,Moldova,0.24518969999999998,PV.STD.ERR,political_stability_se
+MDG,2020,Madagascar,0.2358314,PV.STD.ERR,political_stability_se
+MDV,2020,Maldives,0.2959455,PV.STD.ERR,political_stability_se
+MEX,2020,Mexico,0.22364009999999998,PV.STD.ERR,political_stability_se
+MHL,2020,Marshall Islands,0.3151812,PV.STD.ERR,political_stability_se
+MKD,2020,North Macedonia,0.2515862,PV.STD.ERR,political_stability_se
+MLI,2020,Mali,0.2402385,PV.STD.ERR,political_stability_se
+MLT,2020,Malta,0.25545239999999997,PV.STD.ERR,political_stability_se
+MMR,2020,Myanmar,0.24971359999999998,PV.STD.ERR,political_stability_se
+MNE,2020,Montenegro,0.2569578,PV.STD.ERR,political_stability_se
+MNG,2020,Mongolia,0.23949689999999998,PV.STD.ERR,political_stability_se
+MOZ,2020,Mozambique,0.2242436,PV.STD.ERR,political_stability_se
+MRT,2020,Mauritania,0.24624569999999998,PV.STD.ERR,political_stability_se
+MTQ,2020,Martinique,0.3382293,PV.STD.ERR,political_stability_se
+MUS,2020,Mauritius,0.24624569999999998,PV.STD.ERR,political_stability_se
+MWI,2020,Malawi,0.2358314,PV.STD.ERR,political_stability_se
+MYS,2020,Malaysia,0.22364009999999998,PV.STD.ERR,political_stability_se
+NAM,2020,Namibia,0.2402385,PV.STD.ERR,political_stability_se
+NCL,2020,New Caledonia,0.5331819,PV.STD.ERR,political_stability_se
+NER,2020,Niger,0.24448899999999998,PV.STD.ERR,political_stability_se
+NGA,2020,Nigeria,0.2358314,PV.STD.ERR,political_stability_se
+NIC,2020,Nicaragua,0.24518969999999998,PV.STD.ERR,political_stability_se
+NIU,2020,Niue,0.5331819,PV.STD.ERR,political_stability_se
+NLD,2020,Netherlands,0.2441342,PV.STD.ERR,political_stability_se
+NOR,2020,Norway,0.2441342,PV.STD.ERR,political_stability_se
+NPL,2020,Nepal,0.23338769999999998,PV.STD.ERR,political_stability_se
+NRU,2020,Nauru,0.3151812,PV.STD.ERR,political_stability_se
+NZL,2020,New Zealand,0.227402,PV.STD.ERR,political_stability_se
+OMN,2020,Oman,0.2501539,PV.STD.ERR,political_stability_se
+PAK,2020,Pakistan,0.24518969999999998,PV.STD.ERR,political_stability_se
+PAN,2020,Panama,0.24518969999999998,PV.STD.ERR,political_stability_se
+PER,2020,Peru,0.23949689999999998,PV.STD.ERR,political_stability_se
+PHL,2020,Philippines,0.23949689999999998,PV.STD.ERR,political_stability_se
+PLW,2020,Palau,0.36498749999999996,PV.STD.ERR,political_stability_se
+PNG,2020,Papua New Guinea,0.2360764,PV.STD.ERR,political_stability_se
+POL,2020,Poland,0.23949689999999998,PV.STD.ERR,political_stability_se
+PRI,2020,Puerto Rico (U.S.),0.27193459999999997,PV.STD.ERR,political_stability_se
+PRK,2020,"Korea, Dem. People's Rep.",0.2549636,PV.STD.ERR,political_stability_se
+PRT,2020,Portugal,0.2441342,PV.STD.ERR,political_stability_se
+PRY,2020,Paraguay,0.2501539,PV.STD.ERR,political_stability_se
+PSE,2020,West Bank and Gaza,0.278146,PV.STD.ERR,political_stability_se
+PYF,2020,French Polynesia,0.5331819,PV.STD.ERR,political_stability_se
+QAT,2020,Qatar,0.25146419999999997,PV.STD.ERR,political_stability_se
+REU,2020,Réunion,0.41535,PV.STD.ERR,political_stability_se
+ROU,2020,Romania,0.23949689999999998,PV.STD.ERR,political_stability_se
+RUS,2020,Russian Federation,0.23949689999999998,PV.STD.ERR,political_stability_se
+RWA,2020,Rwanda,0.24624569999999998,PV.STD.ERR,political_stability_se
+SAU,2020,Saudi Arabia,0.23329029999999998,PV.STD.ERR,political_stability_se
+SDN,2020,Sudan,0.24448899999999998,PV.STD.ERR,political_stability_se
+SEN,2020,Senegal,0.2358314,PV.STD.ERR,political_stability_se
+SGP,2020,Singapore,0.23949689999999998,PV.STD.ERR,political_stability_se
+SLB,2020,Solomon Islands,0.2674758,PV.STD.ERR,political_stability_se
+SLE,2020,Sierra Leone,0.2358314,PV.STD.ERR,political_stability_se
+SLV,2020,El Salvador,0.24518969999999998,PV.STD.ERR,political_stability_se
+SMR,2020,San Marino,0.3093239,PV.STD.ERR,political_stability_se
+SOM,2020,Federal Republic of Somalia,0.2518711,PV.STD.ERR,political_stability_se
+SRB,2020,Serbia,0.24518969999999998,PV.STD.ERR,political_stability_se
+SSD,2020,South Sudan,0.2833674,PV.STD.ERR,political_stability_se
+STP,2020,São Tomé and Príncipe,0.2561718,PV.STD.ERR,political_stability_se
+SUR,2020,Suriname,0.2549835,PV.STD.ERR,political_stability_se
+SVK,2020,Slovak Republic,0.2441168,PV.STD.ERR,political_stability_se
+SVN,2020,Slovenia,0.23949689999999998,PV.STD.ERR,political_stability_se
+SWE,2020,Sweden,0.2441342,PV.STD.ERR,political_stability_se
+SWZ,2020,Eswatini,0.24624569999999998,PV.STD.ERR,political_stability_se
+SYC,2020,Seychelles,0.2512947,PV.STD.ERR,political_stability_se
+SYR,2020,Syrian Arab Republic,0.2549636,PV.STD.ERR,political_stability_se
+TCD,2020,Chad,0.24624569999999998,PV.STD.ERR,political_stability_se
+TGO,2020,Togo,0.24448899999999998,PV.STD.ERR,political_stability_se
+THA,2020,Thailand,0.23949689999999998,PV.STD.ERR,political_stability_se
+TJK,2020,Tajikistan,0.2569578,PV.STD.ERR,political_stability_se
+TKM,2020,Turkmenistan,0.2621791,PV.STD.ERR,political_stability_se
+TLS,2020,Timor-Leste,0.2621791,PV.STD.ERR,political_stability_se
+TON,2020,Tonga,0.2772299,PV.STD.ERR,political_stability_se
+TTO,2020,Trinidad and Tobago,0.24518969999999998,PV.STD.ERR,political_stability_se
+TUN,2020,Tunisia,0.2358314,PV.STD.ERR,political_stability_se
+TUR,2020,Türkiye,0.23949689999999998,PV.STD.ERR,political_stability_se
+TUV,2020,Tuvalu,0.3151812,PV.STD.ERR,political_stability_se
+TWN,2020,"Taiwan, China",0.2273878,PV.STD.ERR,political_stability_se
+TZA,2020,Tanzania,0.2358314,PV.STD.ERR,political_stability_se
+UGA,2020,Uganda,0.2358314,PV.STD.ERR,political_stability_se
+UKR,2020,Ukraine,0.23949689999999998,PV.STD.ERR,political_stability_se
+URY,2020,Uruguay,0.24518969999999998,PV.STD.ERR,political_stability_se
+USA,2020,United States,0.227402,PV.STD.ERR,political_stability_se
+UZB,2020,Uzbekistan,0.2564806,PV.STD.ERR,political_stability_se
+VCT,2020,St. Vincent and the Grenadines,0.3000825,PV.STD.ERR,political_stability_se
+VEN,2020,"Venezuela, RB",0.22364009999999998,PV.STD.ERR,political_stability_se
+VIR,2020,Virgin Islands (U.S.),0.3382293,PV.STD.ERR,political_stability_se
+VNM,2020,Viet Nam,0.2282542,PV.STD.ERR,political_stability_se
+VUT,2020,Vanuatu,0.30106289999999997,PV.STD.ERR,political_stability_se
+WSM,2020,Samoa,0.2772299,PV.STD.ERR,political_stability_se
+XKX,2020,Kosovo,0.2621791,PV.STD.ERR,political_stability_se
+YEM,2020,"Yemen, Rep.",0.2580781,PV.STD.ERR,political_stability_se
+ZAF,2020,South Africa,0.2307526,PV.STD.ERR,political_stability_se
+ZMB,2020,Zambia,0.2358314,PV.STD.ERR,political_stability_se
+ZWE,2020,Zimbabwe,0.2358314,PV.STD.ERR,political_stability_se
+ABW,2021,Aruba,0.2985983,PV.STD.ERR,political_stability_se
+ADO,2021,Andorra,0.3093239,PV.STD.ERR,political_stability_se
+AFG,2021,Afghanistan,0.2564806,PV.STD.ERR,political_stability_se
+AGO,2021,Angola,0.2239262,PV.STD.ERR,political_stability_se
+AIA,2021,Anguilla,0.3382293,PV.STD.ERR,political_stability_se
+ALB,2021,Albania,0.24518969999999998,PV.STD.ERR,political_stability_se
+ARE,2021,United Arab Emirates,0.23949689999999998,PV.STD.ERR,political_stability_se
+ARG,2021,Argentina,0.23949689999999998,PV.STD.ERR,political_stability_se
+ARM,2021,Armenia,0.2501539,PV.STD.ERR,political_stability_se
+ASM,2021,American Samoa,0.34592999999999996,PV.STD.ERR,political_stability_se
+ATG,2021,Antigua and Barbuda,0.3000825,PV.STD.ERR,political_stability_se
+AUS,2021,Australia,0.227402,PV.STD.ERR,political_stability_se
+AUT,2021,Austria,0.2441342,PV.STD.ERR,political_stability_se
+AZE,2021,Azerbaijan,0.2501539,PV.STD.ERR,political_stability_se
+BDI,2021,Burundi,0.24624569999999998,PV.STD.ERR,political_stability_se
+BEL,2021,Belgium,0.2441342,PV.STD.ERR,political_stability_se
+BEN,2021,Benin,0.24150619999999998,PV.STD.ERR,political_stability_se
+BFA,2021,Burkina Faso,0.2398483,PV.STD.ERR,political_stability_se
+BGD,2021,Bangladesh,0.2282542,PV.STD.ERR,political_stability_se
+BGR,2021,Bulgaria,0.23949689999999998,PV.STD.ERR,political_stability_se
+BHR,2021,Bahrain,0.24858039999999998,PV.STD.ERR,political_stability_se
+BHS,2021,"Bahamas, The",0.2633913,PV.STD.ERR,political_stability_se
+BIH,2021,Bosnia and Herzegovina,0.2515862,PV.STD.ERR,political_stability_se
+BLR,2021,Belarus,0.24971359999999998,PV.STD.ERR,political_stability_se
+BLZ,2021,Belize,0.2713692,PV.STD.ERR,political_stability_se
+BMU,2021,Bermuda,0.3382293,PV.STD.ERR,political_stability_se
+BOL,2021,Bolivia,0.24971359999999998,PV.STD.ERR,political_stability_se
+BRA,2021,Brazil,0.22364009999999998,PV.STD.ERR,political_stability_se
+BRB,2021,Barbados,0.2622007,PV.STD.ERR,political_stability_se
+BRN,2021,Brunei Darussalam,0.2639083,PV.STD.ERR,political_stability_se
+BTN,2021,Bhutan,0.2569578,PV.STD.ERR,political_stability_se
+BWA,2021,Botswana,0.2307526,PV.STD.ERR,political_stability_se
+CAF,2021,Central African Republic,0.2508293,PV.STD.ERR,political_stability_se
+CAN,2021,Canada,0.2441342,PV.STD.ERR,political_stability_se
+CHE,2021,Switzerland,0.24903329999999999,PV.STD.ERR,political_stability_se
+CHL,2021,Chile,0.23949689999999998,PV.STD.ERR,political_stability_se
+CHN,2021,China,0.2292483,PV.STD.ERR,political_stability_se
+CIV,2021,Côte d’Ivoire,0.2398483,PV.STD.ERR,political_stability_se
+CMR,2021,Cameroon,0.2358314,PV.STD.ERR,political_stability_se
+COD,2021,"Congo, Dem. Rep.",0.22064679999999998,PV.STD.ERR,political_stability_se
+COG,2021,"Congo, Rep.",0.2398483,PV.STD.ERR,political_stability_se
+COK,2021,Cook Islands,0.5331819,PV.STD.ERR,political_stability_se
+COL,2021,Colombia,0.23949689999999998,PV.STD.ERR,political_stability_se
+COM,2021,Comoros,0.2799025,PV.STD.ERR,political_stability_se
+CPV,2021,Cabo Verde,0.2512947,PV.STD.ERR,political_stability_se
+CRI,2021,Costa Rica,0.24518969999999998,PV.STD.ERR,political_stability_se
+CUB,2021,Cuba,0.2549636,PV.STD.ERR,political_stability_se
+CYM,2021,Cayman Islands,0.2985983,PV.STD.ERR,political_stability_se
+CYP,2021,Cyprus,0.2441342,PV.STD.ERR,political_stability_se
+CZE,2021,Czechia,0.23949689999999998,PV.STD.ERR,political_stability_se
+DEU,2021,Germany,0.2441342,PV.STD.ERR,political_stability_se
+DJI,2021,Djibouti,0.2508293,PV.STD.ERR,political_stability_se
+DMA,2021,Dominica,0.3000825,PV.STD.ERR,political_stability_se
+DNK,2021,Denmark,0.2441342,PV.STD.ERR,political_stability_se
+DOM,2021,Dominican Republic,0.24518969999999998,PV.STD.ERR,political_stability_se
+DZA,2021,Algeria,0.2358314,PV.STD.ERR,political_stability_se
+ECU,2021,Ecuador,0.24518969999999998,PV.STD.ERR,political_stability_se
+EGY,2021,"Egypt, Arab Rep.",0.2358314,PV.STD.ERR,political_stability_se
+ERI,2021,Eritrea,0.25882,PV.STD.ERR,political_stability_se
+ESP,2021,Spain,0.2441342,PV.STD.ERR,political_stability_se
+EST,2021,Estonia,0.23949689999999998,PV.STD.ERR,political_stability_se
+ETH,2021,Ethiopia,0.2358314,PV.STD.ERR,political_stability_se
+FIN,2021,Finland,0.2441342,PV.STD.ERR,political_stability_se
+FJI,2021,Fiji,0.2674758,PV.STD.ERR,political_stability_se
+FRA,2021,France,0.2441342,PV.STD.ERR,political_stability_se
+FSM,2021,"Micronesia, Fed. Sts.",0.2772299,PV.STD.ERR,political_stability_se
+GAB,2021,Gabon,0.24448899999999998,PV.STD.ERR,political_stability_se
+GBR,2021,United Kingdom,0.227402,PV.STD.ERR,political_stability_se
+GEO,2021,Georgia,0.2515862,PV.STD.ERR,political_stability_se
+GHA,2021,Ghana,0.2358314,PV.STD.ERR,political_stability_se
+GIN,2021,Guinea,0.2398483,PV.STD.ERR,political_stability_se
+GMB,2021,"Gambia, The",0.2358314,PV.STD.ERR,political_stability_se
+GNB,2021,Guinea-Bissau,0.2648591,PV.STD.ERR,political_stability_se
+GNQ,2021,Equatorial Guinea,0.2508293,PV.STD.ERR,political_stability_se
+GRC,2021,Greece,0.2441342,PV.STD.ERR,political_stability_se
+GRD,2021,Grenada,0.3000825,PV.STD.ERR,political_stability_se
+GRL,2021,Greenland,0.3960027,PV.STD.ERR,political_stability_se
+GTM,2021,Guatemala,0.24518969999999998,PV.STD.ERR,political_stability_se
+GUF,2021,French Guiana,0.2985983,PV.STD.ERR,political_stability_se
+GUM,2021,Guam,0.2974658,PV.STD.ERR,political_stability_se
+GUY,2021,Guyana,0.2549835,PV.STD.ERR,political_stability_se
+HKG,2021,"Hong Kong SAR, China",0.23817649999999999,PV.STD.ERR,political_stability_se
+HND,2021,Honduras,0.24518969999999998,PV.STD.ERR,political_stability_se
+HRV,2021,Croatia,0.23949689999999998,PV.STD.ERR,political_stability_se
+HTI,2021,Haiti,0.24518969999999998,PV.STD.ERR,political_stability_se
+HUN,2021,Hungary,0.23949689999999998,PV.STD.ERR,political_stability_se
+IDN,2021,Indonesia,0.23949689999999998,PV.STD.ERR,political_stability_se
+IND,2021,India,0.22364009999999998,PV.STD.ERR,political_stability_se
+IRL,2021,Ireland,0.2441342,PV.STD.ERR,political_stability_se
+IRN,2021,"Iran, Islamic Rep.",0.24518969999999998,PV.STD.ERR,political_stability_se
+IRQ,2021,Iraq,0.2549636,PV.STD.ERR,political_stability_se
+ISL,2021,Iceland,0.24903329999999999,PV.STD.ERR,political_stability_se
+ISR,2021,Israel,0.24903329999999999,PV.STD.ERR,political_stability_se
+ITA,2021,Italy,0.2441342,PV.STD.ERR,political_stability_se
+JAM,2021,Jamaica,0.24518969999999998,PV.STD.ERR,political_stability_se
+JEY,2021,"Jersey, Channel Islands",0.5397873,PV.STD.ERR,political_stability_se
+JOR,2021,Jordan,0.22364009999999998,PV.STD.ERR,political_stability_se
+JPN,2021,Japan,0.2441342,PV.STD.ERR,political_stability_se
+KAZ,2021,Kazakhstan,0.22364009999999998,PV.STD.ERR,political_stability_se
+KEN,2021,Kenya,0.2358314,PV.STD.ERR,political_stability_se
+KGZ,2021,Kyrgyz Republic,0.23338769999999998,PV.STD.ERR,political_stability_se
+KHM,2021,Cambodia,0.2515862,PV.STD.ERR,political_stability_se
+KIR,2021,Kiribati,0.3151812,PV.STD.ERR,political_stability_se
+KNA,2021,St. Kitts and Nevis,0.3000825,PV.STD.ERR,political_stability_se
+KOR,2021,"Korea, Rep.",0.22364009999999998,PV.STD.ERR,political_stability_se
+KWT,2021,Kuwait,0.2501539,PV.STD.ERR,political_stability_se
+LAO,2021,Lao PDR,0.2569578,PV.STD.ERR,political_stability_se
+LBN,2021,Lebanon,0.24518969999999998,PV.STD.ERR,political_stability_se
+LBR,2021,Liberia,0.22064679999999998,PV.STD.ERR,political_stability_se
+LBY,2021,Libya,0.24448899999999998,PV.STD.ERR,political_stability_se
+LCA,2021,St. Lucia,0.3000825,PV.STD.ERR,political_stability_se
+LIE,2021,Liechtenstein,0.278146,PV.STD.ERR,political_stability_se
+LKA,2021,Sri Lanka,0.24518969999999998,PV.STD.ERR,political_stability_se
+LSO,2021,Lesotho,0.24624569999999998,PV.STD.ERR,political_stability_se
+LTU,2021,Lithuania,0.23949689999999998,PV.STD.ERR,political_stability_se
+LUX,2021,Luxembourg,0.2441342,PV.STD.ERR,political_stability_se
+LVA,2021,Latvia,0.23949689999999998,PV.STD.ERR,political_stability_se
+MAC,2021,"Macao SAR, China",0.3477148,PV.STD.ERR,political_stability_se
+MAR,2021,Morocco,0.2358314,PV.STD.ERR,political_stability_se
+MCO,2021,Monaco,0.3093239,PV.STD.ERR,political_stability_se
+MDA,2021,Moldova,0.24518969999999998,PV.STD.ERR,political_stability_se
+MDG,2021,Madagascar,0.2358314,PV.STD.ERR,political_stability_se
+MDV,2021,Maldives,0.2674758,PV.STD.ERR,political_stability_se
+MEX,2021,Mexico,0.22364009999999998,PV.STD.ERR,political_stability_se
+MHL,2021,Marshall Islands,0.2772299,PV.STD.ERR,political_stability_se
+MKD,2021,North Macedonia,0.2564806,PV.STD.ERR,political_stability_se
+MLI,2021,Mali,0.2358314,PV.STD.ERR,political_stability_se
+MLT,2021,Malta,0.25017269999999997,PV.STD.ERR,political_stability_se
+MMR,2021,Myanmar,0.24971359999999998,PV.STD.ERR,political_stability_se
+MNE,2021,Montenegro,0.2569578,PV.STD.ERR,political_stability_se
+MNG,2021,Mongolia,0.23949689999999998,PV.STD.ERR,political_stability_se
+MOZ,2021,Mozambique,0.22064679999999998,PV.STD.ERR,political_stability_se
+MRT,2021,Mauritania,0.24150619999999998,PV.STD.ERR,political_stability_se
+MTQ,2021,Martinique,0.3382293,PV.STD.ERR,political_stability_se
+MUS,2021,Mauritius,0.24150619999999998,PV.STD.ERR,political_stability_se
+MWI,2021,Malawi,0.2358314,PV.STD.ERR,political_stability_se
+MYS,2021,Malaysia,0.22364009999999998,PV.STD.ERR,political_stability_se
+NAM,2021,Namibia,0.2358314,PV.STD.ERR,political_stability_se
+NCL,2021,New Caledonia,0.5331819,PV.STD.ERR,political_stability_se
+NER,2021,Niger,0.2398483,PV.STD.ERR,political_stability_se
+NGA,2021,Nigeria,0.2358314,PV.STD.ERR,political_stability_se
+NIC,2021,Nicaragua,0.24518969999999998,PV.STD.ERR,political_stability_se
+NIU,2021,Niue,0.5331819,PV.STD.ERR,political_stability_se
+NLD,2021,Netherlands,0.2441342,PV.STD.ERR,political_stability_se
+NOR,2021,Norway,0.2441342,PV.STD.ERR,political_stability_se
+NPL,2021,Nepal,0.23338769999999998,PV.STD.ERR,political_stability_se
+NRU,2021,Nauru,0.3151812,PV.STD.ERR,political_stability_se
+NZL,2021,New Zealand,0.227402,PV.STD.ERR,political_stability_se
+OMN,2021,Oman,0.2549636,PV.STD.ERR,political_stability_se
+PAK,2021,Pakistan,0.24518969999999998,PV.STD.ERR,political_stability_se
+PAN,2021,Panama,0.24518969999999998,PV.STD.ERR,political_stability_se
+PER,2021,Peru,0.23949689999999998,PV.STD.ERR,political_stability_se
+PHL,2021,Philippines,0.23949689999999998,PV.STD.ERR,political_stability_se
+PLW,2021,Palau,0.36498749999999996,PV.STD.ERR,political_stability_se
+PNG,2021,Papua New Guinea,0.2360764,PV.STD.ERR,political_stability_se
+POL,2021,Poland,0.23949689999999998,PV.STD.ERR,political_stability_se
+PRI,2021,Puerto Rico (U.S.),0.27193459999999997,PV.STD.ERR,political_stability_se
+PRK,2021,"Korea, Dem. People's Rep.",0.2549636,PV.STD.ERR,political_stability_se
+PRT,2021,Portugal,0.2441342,PV.STD.ERR,political_stability_se
+PRY,2021,Paraguay,0.24518969999999998,PV.STD.ERR,political_stability_se
+PSE,2021,West Bank and Gaza,0.278146,PV.STD.ERR,political_stability_se
+PYF,2021,French Polynesia,0.5331819,PV.STD.ERR,political_stability_se
+QAT,2021,Qatar,0.2441168,PV.STD.ERR,political_stability_se
+REU,2021,Réunion,0.41535,PV.STD.ERR,political_stability_se
+ROU,2021,Romania,0.23949689999999998,PV.STD.ERR,political_stability_se
+RUS,2021,Russian Federation,0.23949689999999998,PV.STD.ERR,political_stability_se
+RWA,2021,Rwanda,0.24150619999999998,PV.STD.ERR,political_stability_se
+SAU,2021,Saudi Arabia,0.23329029999999998,PV.STD.ERR,political_stability_se
+SDN,2021,Sudan,0.2398483,PV.STD.ERR,political_stability_se
+SEN,2021,Senegal,0.2358314,PV.STD.ERR,political_stability_se
+SGP,2021,Singapore,0.23949689999999998,PV.STD.ERR,political_stability_se
+SLB,2021,Solomon Islands,0.2674758,PV.STD.ERR,political_stability_se
+SLE,2021,Sierra Leone,0.2358314,PV.STD.ERR,political_stability_se
+SLV,2021,El Salvador,0.24518969999999998,PV.STD.ERR,political_stability_se
+SMR,2021,San Marino,0.3093239,PV.STD.ERR,political_stability_se
+SOM,2021,Federal Republic of Somalia,0.2518711,PV.STD.ERR,political_stability_se
+SRB,2021,Serbia,0.24518969999999998,PV.STD.ERR,political_stability_se
+SSD,2021,South Sudan,0.2833674,PV.STD.ERR,political_stability_se
+STP,2021,São Tomé and Príncipe,0.2561718,PV.STD.ERR,political_stability_se
+SUR,2021,Suriname,0.2549835,PV.STD.ERR,political_stability_se
+SVK,2021,Slovak Republic,0.23949689999999998,PV.STD.ERR,political_stability_se
+SVN,2021,Slovenia,0.23949689999999998,PV.STD.ERR,political_stability_se
+SWE,2021,Sweden,0.2441342,PV.STD.ERR,political_stability_se
+SWZ,2021,Eswatini,0.24624569999999998,PV.STD.ERR,political_stability_se
+SYC,2021,Seychelles,0.2512947,PV.STD.ERR,political_stability_se
+SYR,2021,Syrian Arab Republic,0.2549636,PV.STD.ERR,political_stability_se
+TCD,2021,Chad,0.24624569999999998,PV.STD.ERR,political_stability_se
+TGO,2021,Togo,0.2398483,PV.STD.ERR,political_stability_se
+THA,2021,Thailand,0.22364009999999998,PV.STD.ERR,political_stability_se
+TJK,2021,Tajikistan,0.2621791,PV.STD.ERR,political_stability_se
+TKM,2021,Turkmenistan,0.2621791,PV.STD.ERR,political_stability_se
+TLS,2021,Timor-Leste,0.2621791,PV.STD.ERR,political_stability_se
+TON,2021,Tonga,0.2772299,PV.STD.ERR,political_stability_se
+TTO,2021,Trinidad and Tobago,0.24518969999999998,PV.STD.ERR,political_stability_se
+TUN,2021,Tunisia,0.2358314,PV.STD.ERR,political_stability_se
+TUR,2021,Türkiye,0.2437075,PV.STD.ERR,political_stability_se
+TUV,2021,Tuvalu,0.3151812,PV.STD.ERR,political_stability_se
+TWN,2021,"Taiwan, China",0.2273878,PV.STD.ERR,political_stability_se
+TZA,2021,Tanzania,0.2358314,PV.STD.ERR,political_stability_se
+UGA,2021,Uganda,0.2358314,PV.STD.ERR,political_stability_se
+UKR,2021,Ukraine,0.23949689999999998,PV.STD.ERR,political_stability_se
+URY,2021,Uruguay,0.24518969999999998,PV.STD.ERR,political_stability_se
+USA,2021,United States,0.227402,PV.STD.ERR,political_stability_se
+UZB,2021,Uzbekistan,0.24971359999999998,PV.STD.ERR,political_stability_se
+VCT,2021,St. Vincent and the Grenadines,0.3000825,PV.STD.ERR,political_stability_se
+VEN,2021,"Venezuela, RB",0.22364009999999998,PV.STD.ERR,political_stability_se
+VIR,2021,Virgin Islands (U.S.),0.3382293,PV.STD.ERR,political_stability_se
+VNM,2021,Viet Nam,0.2282542,PV.STD.ERR,political_stability_se
+VUT,2021,Vanuatu,0.30106289999999997,PV.STD.ERR,political_stability_se
+WSM,2021,Samoa,0.2772299,PV.STD.ERR,political_stability_se
+XKX,2021,Kosovo,0.2564806,PV.STD.ERR,political_stability_se
+YEM,2021,"Yemen, Rep.",0.2580781,PV.STD.ERR,political_stability_se
+ZAF,2021,South Africa,0.2307526,PV.STD.ERR,political_stability_se
+ZMB,2021,Zambia,0.2358314,PV.STD.ERR,political_stability_se
+ZWE,2021,Zimbabwe,0.2358314,PV.STD.ERR,political_stability_se
+ABW,2022,Aruba,0.2985983,PV.STD.ERR,political_stability_se
+ADO,2022,Andorra,0.3093239,PV.STD.ERR,political_stability_se
+AFG,2022,Afghanistan,0.2564806,PV.STD.ERR,political_stability_se
+AGO,2022,Angola,0.2239262,PV.STD.ERR,political_stability_se
+AIA,2022,Anguilla,0.3382293,PV.STD.ERR,political_stability_se
+ALB,2022,Albania,0.24518969999999998,PV.STD.ERR,political_stability_se
+ARE,2022,United Arab Emirates,0.23949689999999998,PV.STD.ERR,political_stability_se
+ARG,2022,Argentina,0.23949689999999998,PV.STD.ERR,political_stability_se
+ARM,2022,Armenia,0.2501539,PV.STD.ERR,political_stability_se
+ASM,2022,American Samoa,0.34592999999999996,PV.STD.ERR,political_stability_se
+ATG,2022,Antigua and Barbuda,0.3000825,PV.STD.ERR,political_stability_se
+AUS,2022,Australia,0.227402,PV.STD.ERR,political_stability_se
+AUT,2022,Austria,0.2441342,PV.STD.ERR,political_stability_se
+AZE,2022,Azerbaijan,0.2501539,PV.STD.ERR,political_stability_se
+BDI,2022,Burundi,0.24624569999999998,PV.STD.ERR,political_stability_se
+BEL,2022,Belgium,0.2441342,PV.STD.ERR,political_stability_se
+BEN,2022,Benin,0.24150619999999998,PV.STD.ERR,political_stability_se
+BFA,2022,Burkina Faso,0.2398483,PV.STD.ERR,political_stability_se
+BGD,2022,Bangladesh,0.2282542,PV.STD.ERR,political_stability_se
+BGR,2022,Bulgaria,0.23949689999999998,PV.STD.ERR,political_stability_se
+BHR,2022,Bahrain,0.24858039999999998,PV.STD.ERR,political_stability_se
+BHS,2022,"Bahamas, The",0.2633913,PV.STD.ERR,political_stability_se
+BIH,2022,Bosnia and Herzegovina,0.2515862,PV.STD.ERR,political_stability_se
+BLR,2022,Belarus,0.24971359999999998,PV.STD.ERR,political_stability_se
+BLZ,2022,Belize,0.2713692,PV.STD.ERR,political_stability_se
+BMU,2022,Bermuda,0.3382293,PV.STD.ERR,political_stability_se
+BOL,2022,Bolivia,0.24971359999999998,PV.STD.ERR,political_stability_se
+BRA,2022,Brazil,0.22364009999999998,PV.STD.ERR,political_stability_se
+BRB,2022,Barbados,0.2622007,PV.STD.ERR,political_stability_se
+BRN,2022,Brunei Darussalam,0.2639083,PV.STD.ERR,political_stability_se
+BTN,2022,Bhutan,0.2621791,PV.STD.ERR,political_stability_se
+BWA,2022,Botswana,0.2307526,PV.STD.ERR,political_stability_se
+CAF,2022,Central African Republic,0.2508293,PV.STD.ERR,political_stability_se
+CAN,2022,Canada,0.2441342,PV.STD.ERR,political_stability_se
+CHE,2022,Switzerland,0.24903329999999999,PV.STD.ERR,political_stability_se
+CHL,2022,Chile,0.23949689999999998,PV.STD.ERR,political_stability_se
+CHN,2022,China,0.2292483,PV.STD.ERR,political_stability_se
+CIV,2022,Côte d’Ivoire,0.2398483,PV.STD.ERR,political_stability_se
+CMR,2022,Cameroon,0.2358314,PV.STD.ERR,political_stability_se
+COD,2022,"Congo, Dem. Rep.",0.22064679999999998,PV.STD.ERR,political_stability_se
+COG,2022,"Congo, Rep.",0.2398483,PV.STD.ERR,political_stability_se
+COK,2022,Cook Islands,0.5331819,PV.STD.ERR,political_stability_se
+COL,2022,Colombia,0.23949689999999998,PV.STD.ERR,political_stability_se
+COM,2022,Comoros,0.2799025,PV.STD.ERR,political_stability_se
+CPV,2022,Cabo Verde,0.2512947,PV.STD.ERR,political_stability_se
+CRI,2022,Costa Rica,0.24518969999999998,PV.STD.ERR,political_stability_se
+CUB,2022,Cuba,0.2549636,PV.STD.ERR,political_stability_se
+CYM,2022,Cayman Islands,0.2985983,PV.STD.ERR,political_stability_se
+CYP,2022,Cyprus,0.2441342,PV.STD.ERR,political_stability_se
+CZE,2022,Czechia,0.23949689999999998,PV.STD.ERR,political_stability_se
+DEU,2022,Germany,0.2441342,PV.STD.ERR,political_stability_se
+DJI,2022,Djibouti,0.2508293,PV.STD.ERR,political_stability_se
+DMA,2022,Dominica,0.3000825,PV.STD.ERR,political_stability_se
+DNK,2022,Denmark,0.2441342,PV.STD.ERR,political_stability_se
+DOM,2022,Dominican Republic,0.24518969999999998,PV.STD.ERR,political_stability_se
+DZA,2022,Algeria,0.2358314,PV.STD.ERR,political_stability_se
+ECU,2022,Ecuador,0.24518969999999998,PV.STD.ERR,political_stability_se
+EGY,2022,"Egypt, Arab Rep.",0.2358314,PV.STD.ERR,political_stability_se
+ERI,2022,Eritrea,0.25882,PV.STD.ERR,political_stability_se
+ESP,2022,Spain,0.2441342,PV.STD.ERR,political_stability_se
+EST,2022,Estonia,0.23949689999999998,PV.STD.ERR,political_stability_se
+ETH,2022,Ethiopia,0.2358314,PV.STD.ERR,political_stability_se
+FIN,2022,Finland,0.2441342,PV.STD.ERR,political_stability_se
+FJI,2022,Fiji,0.2674758,PV.STD.ERR,political_stability_se
+FRA,2022,France,0.2441342,PV.STD.ERR,political_stability_se
+FSM,2022,"Micronesia, Fed. Sts.",0.2772299,PV.STD.ERR,political_stability_se
+GAB,2022,Gabon,0.2398483,PV.STD.ERR,political_stability_se
+GBR,2022,United Kingdom,0.227402,PV.STD.ERR,political_stability_se
+GEO,2022,Georgia,0.2515862,PV.STD.ERR,political_stability_se
+GHA,2022,Ghana,0.2358314,PV.STD.ERR,political_stability_se
+GIN,2022,Guinea,0.2398483,PV.STD.ERR,political_stability_se
+GMB,2022,"Gambia, The",0.2358314,PV.STD.ERR,political_stability_se
+GNB,2022,Guinea-Bissau,0.2648591,PV.STD.ERR,political_stability_se
+GNQ,2022,Equatorial Guinea,0.2508293,PV.STD.ERR,political_stability_se
+GRC,2022,Greece,0.2441342,PV.STD.ERR,political_stability_se
+GRD,2022,Grenada,0.3000825,PV.STD.ERR,political_stability_se
+GRL,2022,Greenland,0.3960027,PV.STD.ERR,political_stability_se
+GTM,2022,Guatemala,0.24518969999999998,PV.STD.ERR,political_stability_se
+GUF,2022,French Guiana,0.2985983,PV.STD.ERR,political_stability_se
+GUM,2022,Guam,0.2974658,PV.STD.ERR,political_stability_se
+GUY,2022,Guyana,0.2549835,PV.STD.ERR,political_stability_se
+HKG,2022,"Hong Kong SAR, China",0.23817649999999999,PV.STD.ERR,political_stability_se
+HND,2022,Honduras,0.24518969999999998,PV.STD.ERR,political_stability_se
+HRV,2022,Croatia,0.23949689999999998,PV.STD.ERR,political_stability_se
+HTI,2022,Haiti,0.24518969999999998,PV.STD.ERR,political_stability_se
+HUN,2022,Hungary,0.23949689999999998,PV.STD.ERR,political_stability_se
+IDN,2022,Indonesia,0.23949689999999998,PV.STD.ERR,political_stability_se
+IND,2022,India,0.22364009999999998,PV.STD.ERR,political_stability_se
+IRL,2022,Ireland,0.2441342,PV.STD.ERR,political_stability_se
+IRN,2022,"Iran, Islamic Rep.",0.24518969999999998,PV.STD.ERR,political_stability_se
+IRQ,2022,Iraq,0.2549636,PV.STD.ERR,political_stability_se
+ISL,2022,Iceland,0.24903329999999999,PV.STD.ERR,political_stability_se
+ISR,2022,Israel,0.24903329999999999,PV.STD.ERR,political_stability_se
+ITA,2022,Italy,0.2441342,PV.STD.ERR,political_stability_se
+JAM,2022,Jamaica,0.24518969999999998,PV.STD.ERR,political_stability_se
+JEY,2022,"Jersey, Channel Islands",0.5397873,PV.STD.ERR,political_stability_se
+JOR,2022,Jordan,0.22364009999999998,PV.STD.ERR,political_stability_se
+JPN,2022,Japan,0.2441342,PV.STD.ERR,political_stability_se
+KAZ,2022,Kazakhstan,0.22364009999999998,PV.STD.ERR,political_stability_se
+KEN,2022,Kenya,0.2358314,PV.STD.ERR,political_stability_se
+KGZ,2022,Kyrgyz Republic,0.23338769999999998,PV.STD.ERR,political_stability_se
+KHM,2022,Cambodia,0.2515862,PV.STD.ERR,political_stability_se
+KIR,2022,Kiribati,0.2772299,PV.STD.ERR,political_stability_se
+KNA,2022,St. Kitts and Nevis,0.3000825,PV.STD.ERR,political_stability_se
+KOR,2022,"Korea, Rep.",0.22364009999999998,PV.STD.ERR,political_stability_se
+KWT,2022,Kuwait,0.2441168,PV.STD.ERR,political_stability_se
+LAO,2022,Lao PDR,0.2569578,PV.STD.ERR,political_stability_se
+LBN,2022,Lebanon,0.24518969999999998,PV.STD.ERR,political_stability_se
+LBR,2022,Liberia,0.22064679999999998,PV.STD.ERR,political_stability_se
+LBY,2022,Libya,0.24448899999999998,PV.STD.ERR,political_stability_se
+LCA,2022,St. Lucia,0.3000825,PV.STD.ERR,political_stability_se
+LIE,2022,Liechtenstein,0.278146,PV.STD.ERR,political_stability_se
+LKA,2022,Sri Lanka,0.2282542,PV.STD.ERR,political_stability_se
+LSO,2022,Lesotho,0.24624569999999998,PV.STD.ERR,political_stability_se
+LTU,2022,Lithuania,0.23949689999999998,PV.STD.ERR,political_stability_se
+LUX,2022,Luxembourg,0.2441342,PV.STD.ERR,political_stability_se
+LVA,2022,Latvia,0.23949689999999998,PV.STD.ERR,political_stability_se
+MAC,2022,"Macao SAR, China",0.3477148,PV.STD.ERR,political_stability_se
+MAR,2022,Morocco,0.2358314,PV.STD.ERR,political_stability_se
+MCO,2022,Monaco,0.3093239,PV.STD.ERR,political_stability_se
+MDA,2022,Moldova,0.24518969999999998,PV.STD.ERR,political_stability_se
+MDG,2022,Madagascar,0.2398483,PV.STD.ERR,political_stability_se
+MDV,2022,Maldives,0.2674758,PV.STD.ERR,political_stability_se
+MEX,2022,Mexico,0.22364009999999998,PV.STD.ERR,political_stability_se
+MHL,2022,Marshall Islands,0.2772299,PV.STD.ERR,political_stability_se
+MKD,2022,North Macedonia,0.2564806,PV.STD.ERR,political_stability_se
+MLI,2022,Mali,0.2358314,PV.STD.ERR,political_stability_se
+MLT,2022,Malta,0.25017269999999997,PV.STD.ERR,political_stability_se
+MMR,2022,Myanmar,0.24971359999999998,PV.STD.ERR,political_stability_se
+MNE,2022,Montenegro,0.2569578,PV.STD.ERR,political_stability_se
+MNG,2022,Mongolia,0.23949689999999998,PV.STD.ERR,political_stability_se
+MOZ,2022,Mozambique,0.22064679999999998,PV.STD.ERR,political_stability_se
+MRT,2022,Mauritania,0.24150619999999998,PV.STD.ERR,political_stability_se
+MTQ,2022,Martinique,0.3382293,PV.STD.ERR,political_stability_se
+MUS,2022,Mauritius,0.24150619999999998,PV.STD.ERR,political_stability_se
+MWI,2022,Malawi,0.2358314,PV.STD.ERR,political_stability_se
+MYS,2022,Malaysia,0.22364009999999998,PV.STD.ERR,political_stability_se
+NAM,2022,Namibia,0.2358314,PV.STD.ERR,political_stability_se
+NCL,2022,New Caledonia,0.5331819,PV.STD.ERR,political_stability_se
+NER,2022,Niger,0.2398483,PV.STD.ERR,political_stability_se
+NGA,2022,Nigeria,0.2358314,PV.STD.ERR,political_stability_se
+NIC,2022,Nicaragua,0.24518969999999998,PV.STD.ERR,political_stability_se
+NIU,2022,Niue,0.5331819,PV.STD.ERR,political_stability_se
+NLD,2022,Netherlands,0.2441342,PV.STD.ERR,political_stability_se
+NOR,2022,Norway,0.2441342,PV.STD.ERR,political_stability_se
+NPL,2022,Nepal,0.23338769999999998,PV.STD.ERR,political_stability_se
+NRU,2022,Nauru,0.2772299,PV.STD.ERR,political_stability_se
+NZL,2022,New Zealand,0.227402,PV.STD.ERR,political_stability_se
+OMN,2022,Oman,0.2549636,PV.STD.ERR,political_stability_se
+PAK,2022,Pakistan,0.24518969999999998,PV.STD.ERR,political_stability_se
+PAN,2022,Panama,0.24518969999999998,PV.STD.ERR,political_stability_se
+PER,2022,Peru,0.23949689999999998,PV.STD.ERR,political_stability_se
+PHL,2022,Philippines,0.23949689999999998,PV.STD.ERR,political_stability_se
+PLW,2022,Palau,0.3093239,PV.STD.ERR,political_stability_se
+PNG,2022,Papua New Guinea,0.2360764,PV.STD.ERR,political_stability_se
+POL,2022,Poland,0.23949689999999998,PV.STD.ERR,political_stability_se
+PRI,2022,Puerto Rico (U.S.),0.278146,PV.STD.ERR,political_stability_se
+PRK,2022,"Korea, Dem. People's Rep.",0.2549636,PV.STD.ERR,political_stability_se
+PRT,2022,Portugal,0.2441342,PV.STD.ERR,political_stability_se
+PRY,2022,Paraguay,0.24518969999999998,PV.STD.ERR,political_stability_se
+PSE,2022,West Bank and Gaza,0.278146,PV.STD.ERR,political_stability_se
+PYF,2022,French Polynesia,0.5331819,PV.STD.ERR,political_stability_se
+QAT,2022,Qatar,0.2441168,PV.STD.ERR,political_stability_se
+REU,2022,Réunion,0.41535,PV.STD.ERR,political_stability_se
+ROU,2022,Romania,0.23949689999999998,PV.STD.ERR,political_stability_se
+RUS,2022,Russian Federation,0.23949689999999998,PV.STD.ERR,political_stability_se
+RWA,2022,Rwanda,0.24150619999999998,PV.STD.ERR,political_stability_se
+SAU,2022,Saudi Arabia,0.23329029999999998,PV.STD.ERR,political_stability_se
+SDN,2022,Sudan,0.2398483,PV.STD.ERR,political_stability_se
+SEN,2022,Senegal,0.2358314,PV.STD.ERR,political_stability_se
+SGP,2022,Singapore,0.22364009999999998,PV.STD.ERR,political_stability_se
+SLB,2022,Solomon Islands,0.2674758,PV.STD.ERR,political_stability_se
+SLE,2022,Sierra Leone,0.2358314,PV.STD.ERR,political_stability_se
+SLV,2022,El Salvador,0.24518969999999998,PV.STD.ERR,political_stability_se
+SMR,2022,San Marino,0.3093239,PV.STD.ERR,political_stability_se
+SOM,2022,Federal Republic of Somalia,0.2518711,PV.STD.ERR,political_stability_se
+SRB,2022,Serbia,0.24518969999999998,PV.STD.ERR,political_stability_se
+SSD,2022,South Sudan,0.2833674,PV.STD.ERR,political_stability_se
+STP,2022,São Tomé and Príncipe,0.2561718,PV.STD.ERR,political_stability_se
+SUR,2022,Suriname,0.2549835,PV.STD.ERR,political_stability_se
+SVK,2022,Slovak Republic,0.23949689999999998,PV.STD.ERR,political_stability_se
+SVN,2022,Slovenia,0.23949689999999998,PV.STD.ERR,political_stability_se
+SWE,2022,Sweden,0.2441342,PV.STD.ERR,political_stability_se
+SWZ,2022,Eswatini,0.24624569999999998,PV.STD.ERR,political_stability_se
+SYC,2022,Seychelles,0.2512947,PV.STD.ERR,political_stability_se
+SYR,2022,Syrian Arab Republic,0.2549636,PV.STD.ERR,political_stability_se
+TCD,2022,Chad,0.24624569999999998,PV.STD.ERR,political_stability_se
+TGO,2022,Togo,0.2398483,PV.STD.ERR,political_stability_se
+THA,2022,Thailand,0.22364009999999998,PV.STD.ERR,political_stability_se
+TJK,2022,Tajikistan,0.2621791,PV.STD.ERR,political_stability_se
+TKM,2022,Turkmenistan,0.2621791,PV.STD.ERR,political_stability_se
+TLS,2022,Timor-Leste,0.2621791,PV.STD.ERR,political_stability_se
+TON,2022,Tonga,0.2772299,PV.STD.ERR,political_stability_se
+TTO,2022,Trinidad and Tobago,0.24518969999999998,PV.STD.ERR,political_stability_se
+TUN,2022,Tunisia,0.2358314,PV.STD.ERR,political_stability_se
+TUR,2022,Türkiye,0.2437075,PV.STD.ERR,political_stability_se
+TUV,2022,Tuvalu,0.2772299,PV.STD.ERR,political_stability_se
+TWN,2022,"Taiwan, China",0.2273878,PV.STD.ERR,political_stability_se
+TZA,2022,Tanzania,0.2358314,PV.STD.ERR,political_stability_se
+UGA,2022,Uganda,0.2358314,PV.STD.ERR,political_stability_se
+UKR,2022,Ukraine,0.23949689999999998,PV.STD.ERR,political_stability_se
+URY,2022,Uruguay,0.24518969999999998,PV.STD.ERR,political_stability_se
+USA,2022,United States,0.227402,PV.STD.ERR,political_stability_se
+UZB,2022,Uzbekistan,0.24971359999999998,PV.STD.ERR,political_stability_se
+VCT,2022,St. Vincent and the Grenadines,0.3000825,PV.STD.ERR,political_stability_se
+VEN,2022,"Venezuela, RB",0.22364009999999998,PV.STD.ERR,political_stability_se
+VIR,2022,Virgin Islands (U.S.),0.3382293,PV.STD.ERR,political_stability_se
+VNM,2022,Viet Nam,0.2282542,PV.STD.ERR,political_stability_se
+VUT,2022,Vanuatu,0.2674758,PV.STD.ERR,political_stability_se
+WSM,2022,Samoa,0.2772299,PV.STD.ERR,political_stability_se
+XKX,2022,Kosovo,0.2564806,PV.STD.ERR,political_stability_se
+YEM,2022,"Yemen, Rep.",0.2580781,PV.STD.ERR,political_stability_se
+ZAF,2022,South Africa,0.2307526,PV.STD.ERR,political_stability_se
+ZMB,2022,Zambia,0.2358314,PV.STD.ERR,political_stability_se
+ZWE,2022,Zimbabwe,0.2358314,PV.STD.ERR,political_stability_se
+ABW,2023,Aruba,0.2985983,PV.STD.ERR,political_stability_se
+ADO,2023,Andorra,0.3093239,PV.STD.ERR,political_stability_se
+AFG,2023,Afghanistan,0.2564806,PV.STD.ERR,political_stability_se
+AGO,2023,Angola,0.2239262,PV.STD.ERR,political_stability_se
+AIA,2023,Anguilla,0.3382293,PV.STD.ERR,political_stability_se
+ALB,2023,Albania,0.24971359999999998,PV.STD.ERR,political_stability_se
+ARE,2023,United Arab Emirates,0.2437075,PV.STD.ERR,political_stability_se
+ARG,2023,Argentina,0.2437075,PV.STD.ERR,political_stability_se
+ARM,2023,Armenia,0.2549636,PV.STD.ERR,political_stability_se
+ASM,2023,American Samoa,0.34592999999999996,PV.STD.ERR,political_stability_se
+ATG,2023,Antigua and Barbuda,0.3000825,PV.STD.ERR,political_stability_se
+AUS,2023,Australia,0.23099689999999998,PV.STD.ERR,political_stability_se
+AUT,2023,Austria,0.2467856,PV.STD.ERR,political_stability_se
+AZE,2023,Azerbaijan,0.2549636,PV.STD.ERR,political_stability_se
+BDI,2023,Burundi,0.2508293,PV.STD.ERR,political_stability_se
+BEL,2023,Belgium,0.24859879999999998,PV.STD.ERR,political_stability_se
+BEN,2023,Benin,0.24582559999999998,PV.STD.ERR,political_stability_se
+BFA,2023,Burkina Faso,0.2398483,PV.STD.ERR,political_stability_se
+BGD,2023,Bangladesh,0.2304167,PV.STD.ERR,political_stability_se
+BGR,2023,Bulgaria,0.24199849999999998,PV.STD.ERR,political_stability_se
+BHR,2023,Bahrain,0.24858039999999998,PV.STD.ERR,political_stability_se
+BHS,2023,"Bahamas, The",0.2633913,PV.STD.ERR,political_stability_se
+BIH,2023,Bosnia and Herzegovina,0.25449079999999996,PV.STD.ERR,political_stability_se
+BLR,2023,Belarus,0.24971359999999998,PV.STD.ERR,political_stability_se
+BLZ,2023,Belize,0.2713692,PV.STD.ERR,political_stability_se
+BMU,2023,Bermuda,0.3382293,PV.STD.ERR,political_stability_se
+BOL,2023,Bolivia,0.24971359999999998,PV.STD.ERR,political_stability_se
+BRA,2023,Brazil,0.22705699999999998,PV.STD.ERR,political_stability_se
+BRB,2023,Barbados,0.26007589999999997,PV.STD.ERR,political_stability_se
+BRN,2023,Brunei Darussalam,0.2695743,PV.STD.ERR,political_stability_se
+BTN,2023,Bhutan,0.2621791,PV.STD.ERR,political_stability_se
+BWA,2023,Botswana,0.2329876,PV.STD.ERR,political_stability_se
+CAF,2023,Central African Republic,0.2489673,PV.STD.ERR,political_stability_se
+CAN,2023,Canada,0.24859879999999998,PV.STD.ERR,political_stability_se
+CHE,2023,Switzerland,0.2537774,PV.STD.ERR,political_stability_se
+CHL,2023,Chile,0.2437075,PV.STD.ERR,political_stability_se
+CHN,2023,China,0.232933,PV.STD.ERR,political_stability_se
+CIV,2023,Côte d’Ivoire,0.23821869999999998,PV.STD.ERR,political_stability_se
+CMR,2023,Cameroon,0.2398483,PV.STD.ERR,political_stability_se
+COD,2023,"Congo, Dem. Rep.",0.2239262,PV.STD.ERR,political_stability_se
+COG,2023,"Congo, Rep.",0.2398483,PV.STD.ERR,political_stability_se
+COK,2023,Cook Islands,0.5331819,PV.STD.ERR,political_stability_se
+COL,2023,Colombia,0.24199849999999998,PV.STD.ERR,political_stability_se
+COM,2023,Comoros,0.2799025,PV.STD.ERR,political_stability_se
+CPV,2023,Cabo Verde,0.2561718,PV.STD.ERR,political_stability_se
+CRI,2023,Costa Rica,0.2478761,PV.STD.ERR,political_stability_se
+CUB,2023,Cuba,0.2549636,PV.STD.ERR,political_stability_se
+CYM,2023,Cayman Islands,0.2985983,PV.STD.ERR,political_stability_se
+CYP,2023,Cyprus,0.24859879999999998,PV.STD.ERR,political_stability_se
+CZE,2023,Czechia,0.2437075,PV.STD.ERR,political_stability_se
+DEU,2023,Germany,0.2467856,PV.STD.ERR,political_stability_se
+DJI,2023,Djibouti,0.2508293,PV.STD.ERR,political_stability_se
+DMA,2023,Dominica,0.3000825,PV.STD.ERR,political_stability_se
+DNK,2023,Denmark,0.24859879999999998,PV.STD.ERR,political_stability_se
+DOM,2023,Dominican Republic,0.24971359999999998,PV.STD.ERR,political_stability_se
+DZA,2023,Algeria,0.2398483,PV.STD.ERR,political_stability_se
+ECU,2023,Ecuador,0.24971359999999998,PV.STD.ERR,political_stability_se
+EGY,2023,"Egypt, Arab Rep.",0.2398483,PV.STD.ERR,political_stability_se
+ERI,2023,Eritrea,0.25882,PV.STD.ERR,political_stability_se
+ESP,2023,Spain,0.2467856,PV.STD.ERR,political_stability_se
+EST,2023,Estonia,0.24199849999999998,PV.STD.ERR,political_stability_se
+ETH,2023,Ethiopia,0.2398483,PV.STD.ERR,political_stability_se
+FIN,2023,Finland,0.24859879999999998,PV.STD.ERR,political_stability_se
+FJI,2023,Fiji,0.2674758,PV.STD.ERR,political_stability_se
+FRA,2023,France,0.2467856,PV.STD.ERR,political_stability_se
+FSM,2023,"Micronesia, Fed. Sts.",0.2772299,PV.STD.ERR,political_stability_se
+GAB,2023,Gabon,0.2398483,PV.STD.ERR,political_stability_se
+GBR,2023,United Kingdom,0.23099689999999998,PV.STD.ERR,political_stability_se
+GEO,2023,Georgia,0.25449079999999996,PV.STD.ERR,political_stability_se
+GHA,2023,Ghana,0.2329876,PV.STD.ERR,political_stability_se
+GIN,2023,Guinea,0.2398483,PV.STD.ERR,political_stability_se
+GMB,2023,"Gambia, The",0.23821869999999998,PV.STD.ERR,political_stability_se
+GNB,2023,Guinea-Bissau,0.2648591,PV.STD.ERR,political_stability_se
+GNQ,2023,Equatorial Guinea,0.2508293,PV.STD.ERR,political_stability_se
+GRC,2023,Greece,0.2467856,PV.STD.ERR,political_stability_se
+GRD,2023,Grenada,0.3000825,PV.STD.ERR,political_stability_se
+GRL,2023,Greenland,0.3960027,PV.STD.ERR,political_stability_se
+GTM,2023,Guatemala,0.24971359999999998,PV.STD.ERR,political_stability_se
+GUF,2023,French Guiana,0.2985983,PV.STD.ERR,political_stability_se
+GUM,2023,Guam,0.2974658,PV.STD.ERR,political_stability_se
+GUY,2023,Guyana,0.2549835,PV.STD.ERR,political_stability_se
+HKG,2023,"Hong Kong SAR, China",0.24063649999999998,PV.STD.ERR,political_stability_se
+HND,2023,Honduras,0.24971359999999998,PV.STD.ERR,political_stability_se
+HRV,2023,Croatia,0.24199849999999998,PV.STD.ERR,political_stability_se
+HTI,2023,Haiti,0.24971359999999998,PV.STD.ERR,political_stability_se
+HUN,2023,Hungary,0.24199849999999998,PV.STD.ERR,political_stability_se
+IDN,2023,Indonesia,0.24199849999999998,PV.STD.ERR,political_stability_se
+IND,2023,India,0.22567299999999998,PV.STD.ERR,political_stability_se
+IRL,2023,Ireland,0.24859879999999998,PV.STD.ERR,political_stability_se
+IRN,2023,"Iran, Islamic Rep.",0.24971359999999998,PV.STD.ERR,political_stability_se
+IRQ,2023,Iraq,0.2530087,PV.STD.ERR,political_stability_se
+ISL,2023,Iceland,0.2537774,PV.STD.ERR,political_stability_se
+ISR,2023,Israel,0.2537774,PV.STD.ERR,political_stability_se
+ITA,2023,Italy,0.24859879999999998,PV.STD.ERR,political_stability_se
+JAM,2023,Jamaica,0.24971359999999998,PV.STD.ERR,political_stability_se
+JEY,2023,"Jersey, Channel Islands",0.5397873,PV.STD.ERR,political_stability_se
+JOR,2023,Jordan,0.22705699999999998,PV.STD.ERR,political_stability_se
+JPN,2023,Japan,0.24859879999999998,PV.STD.ERR,political_stability_se
+KAZ,2023,Kazakhstan,0.22705699999999998,PV.STD.ERR,political_stability_se
+KEN,2023,Kenya,0.2398483,PV.STD.ERR,political_stability_se
+KGZ,2023,Kyrgyz Republic,0.2357009,PV.STD.ERR,political_stability_se
+KHM,2023,Cambodia,0.25449079999999996,PV.STD.ERR,political_stability_se
+KIR,2023,Kiribati,0.2772299,PV.STD.ERR,political_stability_se
+KNA,2023,St. Kitts and Nevis,0.3000825,PV.STD.ERR,political_stability_se
+KOR,2023,"Korea, Rep.",0.22705699999999998,PV.STD.ERR,political_stability_se
+KWT,2023,Kuwait,0.2437075,PV.STD.ERR,political_stability_se
+LAO,2023,Lao PDR,0.2621791,PV.STD.ERR,political_stability_se
+LBN,2023,Lebanon,0.24971359999999998,PV.STD.ERR,political_stability_se
+LBR,2023,Liberia,0.2239262,PV.STD.ERR,political_stability_se
+LBY,2023,Libya,0.24448899999999998,PV.STD.ERR,political_stability_se
+LCA,2023,St. Lucia,0.3000825,PV.STD.ERR,political_stability_se
+LIE,2023,Liechtenstein,0.278146,PV.STD.ERR,political_stability_se
+LKA,2023,Sri Lanka,0.2318904,PV.STD.ERR,political_stability_se
+LSO,2023,Lesotho,0.2489673,PV.STD.ERR,political_stability_se
+LTU,2023,Lithuania,0.2437075,PV.STD.ERR,political_stability_se
+LUX,2023,Luxembourg,0.24859879999999998,PV.STD.ERR,political_stability_se
+LVA,2023,Latvia,0.2437075,PV.STD.ERR,political_stability_se
+MAC,2023,"Macao SAR, China",0.3477148,PV.STD.ERR,political_stability_se
+MAR,2023,Morocco,0.23821869999999998,PV.STD.ERR,political_stability_se
+MCO,2023,Monaco,0.3093239,PV.STD.ERR,political_stability_se
+MDA,2023,Moldova,0.24971359999999998,PV.STD.ERR,political_stability_se
+MDG,2023,Madagascar,0.23821869999999998,PV.STD.ERR,political_stability_se
+MDV,2023,Maldives,0.2674758,PV.STD.ERR,political_stability_se
+MEX,2023,Mexico,0.22567299999999998,PV.STD.ERR,political_stability_se
+MHL,2023,Marshall Islands,0.2772299,PV.STD.ERR,political_stability_se
+MKD,2023,North Macedonia,0.25449079999999996,PV.STD.ERR,political_stability_se
+MLI,2023,Mali,0.2398483,PV.STD.ERR,political_stability_se
+MLT,2023,Malta,0.2549835,PV.STD.ERR,political_stability_se
+MMR,2023,Myanmar,0.24971359999999998,PV.STD.ERR,political_stability_se
+MNE,2023,Montenegro,0.25449079999999996,PV.STD.ERR,political_stability_se
+MNG,2023,Mongolia,0.2437075,PV.STD.ERR,political_stability_se
+MOZ,2023,Mozambique,0.2239262,PV.STD.ERR,political_stability_se
+MRT,2023,Mauritania,0.24582559999999998,PV.STD.ERR,political_stability_se
+MTQ,2023,Martinique,0.3382293,PV.STD.ERR,political_stability_se
+MUS,2023,Mauritius,0.24407199999999998,PV.STD.ERR,political_stability_se
+MWI,2023,Malawi,0.2398483,PV.STD.ERR,political_stability_se
+MYS,2023,Malaysia,0.22705699999999998,PV.STD.ERR,political_stability_se
+NAM,2023,Namibia,0.2398483,PV.STD.ERR,political_stability_se
+NCL,2023,New Caledonia,0.5331819,PV.STD.ERR,political_stability_se
+NER,2023,Niger,0.2398483,PV.STD.ERR,political_stability_se
+NGA,2023,Nigeria,0.23451149999999998,PV.STD.ERR,political_stability_se
+NIC,2023,Nicaragua,0.24971359999999998,PV.STD.ERR,political_stability_se
+NIU,2023,Niue,0.5331819,PV.STD.ERR,political_stability_se
+NLD,2023,Netherlands,0.24859879999999998,PV.STD.ERR,political_stability_se
+NOR,2023,Norway,0.24859879999999998,PV.STD.ERR,political_stability_se
+NPL,2023,Nepal,0.2357009,PV.STD.ERR,political_stability_se
+NRU,2023,Nauru,0.2772299,PV.STD.ERR,political_stability_se
+NZL,2023,New Zealand,0.2295401,PV.STD.ERR,political_stability_se
+OMN,2023,Oman,0.2549636,PV.STD.ERR,political_stability_se
+PAK,2023,Pakistan,0.2478761,PV.STD.ERR,political_stability_se
+PAN,2023,Panama,0.24971359999999998,PV.STD.ERR,political_stability_se
+PER,2023,Peru,0.24199849999999998,PV.STD.ERR,political_stability_se
+PHL,2023,Philippines,0.24199849999999998,PV.STD.ERR,political_stability_se
+PLW,2023,Palau,0.3093239,PV.STD.ERR,political_stability_se
+PNG,2023,Papua New Guinea,0.2360764,PV.STD.ERR,political_stability_se
+POL,2023,Poland,0.2437075,PV.STD.ERR,political_stability_se
+PRI,2023,Puerto Rico (U.S.),0.2699167,PV.STD.ERR,political_stability_se
+PRK,2023,"Korea, Dem. People's Rep.",0.2549636,PV.STD.ERR,political_stability_se
+PRT,2023,Portugal,0.2467856,PV.STD.ERR,political_stability_se
+PRY,2023,Paraguay,0.2478761,PV.STD.ERR,political_stability_se
+PSE,2023,West Bank and Gaza,0.2756133,PV.STD.ERR,political_stability_se
+PYF,2023,French Polynesia,0.5331819,PV.STD.ERR,political_stability_se
+QAT,2023,Qatar,0.24858039999999998,PV.STD.ERR,political_stability_se
+REU,2023,Réunion,0.41535,PV.STD.ERR,political_stability_se
+ROU,2023,Romania,0.24199849999999998,PV.STD.ERR,political_stability_se
+RUS,2023,Russian Federation,0.2437075,PV.STD.ERR,political_stability_se
+RWA,2023,Rwanda,0.24407199999999998,PV.STD.ERR,political_stability_se
+SAU,2023,Saudi Arabia,0.2356006,PV.STD.ERR,political_stability_se
+SDN,2023,Sudan,0.2398483,PV.STD.ERR,political_stability_se
+SEN,2023,Senegal,0.2398483,PV.STD.ERR,political_stability_se
+SGP,2023,Singapore,0.22567299999999998,PV.STD.ERR,political_stability_se
+SLB,2023,Solomon Islands,0.2674758,PV.STD.ERR,political_stability_se
+SLE,2023,Sierra Leone,0.23821869999999998,PV.STD.ERR,political_stability_se
+SLV,2023,El Salvador,0.2478761,PV.STD.ERR,political_stability_se
+SMR,2023,San Marino,0.3093239,PV.STD.ERR,political_stability_se
+SOM,2023,Federal Republic of Somalia,0.2518711,PV.STD.ERR,political_stability_se
+SRB,2023,Serbia,0.24971359999999998,PV.STD.ERR,political_stability_se
+SSD,2023,South Sudan,0.2833674,PV.STD.ERR,political_stability_se
+STP,2023,São Tomé and Príncipe,0.2561718,PV.STD.ERR,political_stability_se
+SUR,2023,Suriname,0.2549835,PV.STD.ERR,political_stability_se
+SVK,2023,Slovak Republic,0.24199849999999998,PV.STD.ERR,political_stability_se
+SVN,2023,Slovenia,0.2437075,PV.STD.ERR,political_stability_se
+SWE,2023,Sweden,0.24859879999999998,PV.STD.ERR,political_stability_se
+SWZ,2023,Eswatini,0.2508293,PV.STD.ERR,political_stability_se
+SYC,2023,Seychelles,0.2541891,PV.STD.ERR,political_stability_se
+SYR,2023,Syrian Arab Republic,0.2549636,PV.STD.ERR,political_stability_se
+TCD,2023,Chad,0.2489673,PV.STD.ERR,political_stability_se
+TGO,2023,Togo,0.23821869999999998,PV.STD.ERR,political_stability_se
+THA,2023,Thailand,0.22705699999999998,PV.STD.ERR,political_stability_se
+TJK,2023,Tajikistan,0.2621791,PV.STD.ERR,political_stability_se
+TKM,2023,Turkmenistan,0.2621791,PV.STD.ERR,political_stability_se
+TLS,2023,Timor-Leste,0.2600548,PV.STD.ERR,political_stability_se
+TON,2023,Tonga,0.2772299,PV.STD.ERR,political_stability_se
+TTO,2023,Trinidad and Tobago,0.24971359999999998,PV.STD.ERR,political_stability_se
+TUN,2023,Tunisia,0.2398483,PV.STD.ERR,political_stability_se
+TUR,2023,Türkiye,0.2437075,PV.STD.ERR,political_stability_se
+TUV,2023,Tuvalu,0.2772299,PV.STD.ERR,political_stability_se
+TWN,2023,"Taiwan, China",0.2309821,PV.STD.ERR,political_stability_se
+TZA,2023,Tanzania,0.23821869999999998,PV.STD.ERR,political_stability_se
+UGA,2023,Uganda,0.2398483,PV.STD.ERR,political_stability_se
+UKR,2023,Ukraine,0.2437075,PV.STD.ERR,political_stability_se
+URY,2023,Uruguay,0.24971359999999998,PV.STD.ERR,political_stability_se
+USA,2023,United States,0.23099689999999998,PV.STD.ERR,political_stability_se
+UZB,2023,Uzbekistan,0.24971359999999998,PV.STD.ERR,political_stability_se
+VCT,2023,St. Vincent and the Grenadines,0.3000825,PV.STD.ERR,political_stability_se
+VEN,2023,"Venezuela, RB",0.22705699999999998,PV.STD.ERR,political_stability_se
+VIR,2023,Virgin Islands (U.S.),0.3382293,PV.STD.ERR,political_stability_se
+VNM,2023,Viet Nam,0.2304167,PV.STD.ERR,political_stability_se
+VUT,2023,Vanuatu,0.2652213,PV.STD.ERR,political_stability_se
+WSM,2023,Samoa,0.27472199999999997,PV.STD.ERR,political_stability_se
+XKX,2023,Kosovo,0.2564806,PV.STD.ERR,political_stability_se
+YEM,2023,"Yemen, Rep.",0.2633694,PV.STD.ERR,political_stability_se
+ZAF,2023,South Africa,0.23451149999999998,PV.STD.ERR,political_stability_se
+ZMB,2023,Zambia,0.2398483,PV.STD.ERR,political_stability_se
+ZWE,2023,Zimbabwe,0.2398483,PV.STD.ERR,political_stability_se
+ABW,2024,Aruba,0.2985983,PV.STD.ERR,political_stability_se
+ADO,2024,Andorra,0.3093239,PV.STD.ERR,political_stability_se
+AFG,2024,Afghanistan,0.2564806,PV.STD.ERR,political_stability_se
+AGO,2024,Angola,0.2193761,PV.STD.ERR,political_stability_se
+AIA,2024,Anguilla,0.3382293,PV.STD.ERR,political_stability_se
+ALB,2024,Albania,0.24971359999999998,PV.STD.ERR,political_stability_se
+ARE,2024,United Arab Emirates,0.23949689999999998,PV.STD.ERR,political_stability_se
+ARG,2024,Argentina,0.23949689999999998,PV.STD.ERR,political_stability_se
+ARM,2024,Armenia,0.2483067,PV.STD.ERR,political_stability_se
+ASM,2024,American Samoa,0.41535,PV.STD.ERR,political_stability_se
+ATG,2024,Antigua and Barbuda,0.3000825,PV.STD.ERR,political_stability_se
+AUS,2024,Australia,0.227402,PV.STD.ERR,political_stability_se
+AUT,2024,Austria,0.2424163,PV.STD.ERR,political_stability_se
+AZE,2024,Azerbaijan,0.2483067,PV.STD.ERR,political_stability_se
+BDI,2024,Burundi,0.2508293,PV.STD.ERR,political_stability_se
+BEL,2024,Belgium,0.2424163,PV.STD.ERR,political_stability_se
+BEN,2024,Benin,0.24407199999999998,PV.STD.ERR,political_stability_se
+BFA,2024,Burkina Faso,0.23821869999999998,PV.STD.ERR,political_stability_se
+BGD,2024,Bangladesh,0.22684839999999998,PV.STD.ERR,political_stability_se
+BGR,2024,Bulgaria,0.23787439999999999,PV.STD.ERR,political_stability_se
+BHR,2024,Bahrain,0.24239919999999998,PV.STD.ERR,political_stability_se
+BHS,2024,"Bahamas, The",0.2633913,PV.STD.ERR,political_stability_se
+BIH,2024,Bosnia and Herzegovina,0.2497073,PV.STD.ERR,political_stability_se
+BLR,2024,Belarus,0.24971359999999998,PV.STD.ERR,political_stability_se
+BLZ,2024,Belize,0.2713692,PV.STD.ERR,political_stability_se
+BMU,2024,Bermuda,0.3382293,PV.STD.ERR,political_stability_se
+BOL,2024,Bolivia,0.24518969999999998,PV.STD.ERR,political_stability_se
+BRA,2024,Brazil,0.22364009999999998,PV.STD.ERR,political_stability_se
+BRB,2024,Barbados,0.26007589999999997,PV.STD.ERR,political_stability_se
+BRN,2024,Brunei Darussalam,0.2639083,PV.STD.ERR,political_stability_se
+BTN,2024,Bhutan,0.2600548,PV.STD.ERR,political_stability_se
+BWA,2024,Botswana,0.2293004,PV.STD.ERR,political_stability_se
+CAF,2024,Central African Republic,0.2489673,PV.STD.ERR,political_stability_se
+CAN,2024,Canada,0.2424163,PV.STD.ERR,political_stability_se
+CHE,2024,Switzerland,0.24903329999999999,PV.STD.ERR,political_stability_se
+CHL,2024,Chile,0.23949689999999998,PV.STD.ERR,political_stability_se
+CHN,2024,China,0.2314395,PV.STD.ERR,political_stability_se
+CIV,2024,Côte d’Ivoire,0.23428169999999998,PV.STD.ERR,political_stability_se
+CMR,2024,Cameroon,0.23428169999999998,PV.STD.ERR,political_stability_se
+COD,2024,"Congo, Dem. Rep.",0.2193761,PV.STD.ERR,political_stability_se
+COG,2024,"Congo, Rep.",0.23821869999999998,PV.STD.ERR,political_stability_se
+COK,2024,Cook Islands,0.5331819,PV.STD.ERR,political_stability_se
+COL,2024,Colombia,0.23787439999999999,PV.STD.ERR,political_stability_se
+COM,2024,Comoros,0.2799025,PV.STD.ERR,political_stability_se
+CPV,2024,Cabo Verde,0.24942229999999999,PV.STD.ERR,political_stability_se
+CRI,2024,Costa Rica,0.2434496,PV.STD.ERR,political_stability_se
+CUB,2024,Cuba,0.2549636,PV.STD.ERR,political_stability_se
+CYM,2024,Cayman Islands,0.2985983,PV.STD.ERR,political_stability_se
+CYP,2024,Cyprus,0.2467856,PV.STD.ERR,political_stability_se
+CZE,2024,Czechia,0.23787439999999999,PV.STD.ERR,political_stability_se
+DEU,2024,Germany,0.2424163,PV.STD.ERR,political_stability_se
+DJI,2024,Djibouti,0.2508293,PV.STD.ERR,political_stability_se
+DMA,2024,Dominica,0.3000825,PV.STD.ERR,political_stability_se
+DNK,2024,Denmark,0.2441342,PV.STD.ERR,political_stability_se
+DOM,2024,Dominican Republic,0.24518969999999998,PV.STD.ERR,political_stability_se
+DZA,2024,Algeria,0.2358314,PV.STD.ERR,political_stability_se
+ECU,2024,Ecuador,0.2434496,PV.STD.ERR,political_stability_se
+EGY,2024,"Egypt, Arab Rep.",0.2358314,PV.STD.ERR,political_stability_se
+ERI,2024,Eritrea,0.25882,PV.STD.ERR,political_stability_se
+ESP,2024,Spain,0.2424163,PV.STD.ERR,political_stability_se
+EST,2024,Estonia,0.23787439999999999,PV.STD.ERR,political_stability_se
+ETH,2024,Ethiopia,0.2398483,PV.STD.ERR,political_stability_se
+FIN,2024,Finland,0.2441342,PV.STD.ERR,political_stability_se
+FJI,2024,Fiji,0.2674758,PV.STD.ERR,political_stability_se
+FRA,2024,France,0.2424163,PV.STD.ERR,political_stability_se
+FSM,2024,"Micronesia, Fed. Sts.",0.2772299,PV.STD.ERR,political_stability_se
+GAB,2024,Gabon,0.2358314,PV.STD.ERR,political_stability_se
+GBR,2024,United Kingdom,0.22601169999999998,PV.STD.ERR,political_stability_se
+GEO,2024,Georgia,0.2497073,PV.STD.ERR,political_stability_se
+GHA,2024,Ghana,0.2293004,PV.STD.ERR,political_stability_se
+GIN,2024,Guinea,0.2398483,PV.STD.ERR,political_stability_se
+GMB,2024,"Gambia, The",0.23428169999999998,PV.STD.ERR,political_stability_se
+GNB,2024,Guinea-Bissau,0.2648591,PV.STD.ERR,political_stability_se
+GNQ,2024,Equatorial Guinea,0.2489673,PV.STD.ERR,political_stability_se
+GRC,2024,Greece,0.2424163,PV.STD.ERR,political_stability_se
+GRD,2024,Grenada,0.3000825,PV.STD.ERR,political_stability_se
+GRL,2024,Greenland,0.3960027,PV.STD.ERR,political_stability_se
+GTM,2024,Guatemala,0.24518969999999998,PV.STD.ERR,political_stability_se
+GUF,2024,French Guiana,0.2985983,PV.STD.ERR,political_stability_se
+GUM,2024,Guam,0.2974658,PV.STD.ERR,political_stability_se
+GUY,2024,Guyana,0.2549835,PV.STD.ERR,political_stability_se
+HKG,2024,"Hong Kong SAR, China",0.2588741,PV.STD.ERR,political_stability_se
+HND,2024,Honduras,0.24518969999999998,PV.STD.ERR,political_stability_se
+HRV,2024,Croatia,0.23787439999999999,PV.STD.ERR,political_stability_se
+HTI,2024,Haiti,0.24971359999999998,PV.STD.ERR,political_stability_se
+HUN,2024,Hungary,0.23787439999999999,PV.STD.ERR,political_stability_se
+IDN,2024,Indonesia,0.2223173,PV.STD.ERR,political_stability_se
+IND,2024,India,0.2223173,PV.STD.ERR,political_stability_se
+IRL,2024,Ireland,0.2424163,PV.STD.ERR,political_stability_se
+IRN,2024,"Iran, Islamic Rep.",0.24518969999999998,PV.STD.ERR,political_stability_se
+IRQ,2024,Iraq,0.2483067,PV.STD.ERR,political_stability_se
+ISL,2024,Iceland,0.2518494,PV.STD.ERR,political_stability_se
+ISR,2024,Israel,0.2518494,PV.STD.ERR,political_stability_se
+ITA,2024,Italy,0.2424163,PV.STD.ERR,political_stability_se
+JAM,2024,Jamaica,0.2478761,PV.STD.ERR,political_stability_se
+JEY,2024,"Jersey, Channel Islands",0.5397873,PV.STD.ERR,political_stability_se
+JOR,2024,Jordan,0.2223173,PV.STD.ERR,political_stability_se
+JPN,2024,Japan,0.2441342,PV.STD.ERR,political_stability_se
+KAZ,2024,Kazakhstan,0.2223173,PV.STD.ERR,political_stability_se
+KEN,2024,Kenya,0.21647059999999999,PV.STD.ERR,political_stability_se
+KGZ,2024,Kyrgyz Republic,0.2318854,PV.STD.ERR,political_stability_se
+KHM,2024,Cambodia,0.25449079999999996,PV.STD.ERR,political_stability_se
+KIR,2024,Kiribati,0.2772299,PV.STD.ERR,political_stability_se
+KNA,2024,St. Kitts and Nevis,0.3000825,PV.STD.ERR,political_stability_se
+KOR,2024,"Korea, Rep.",0.2223173,PV.STD.ERR,political_stability_se
+KWT,2024,Kuwait,0.23949689999999998,PV.STD.ERR,political_stability_se
+LAO,2024,Lao PDR,0.254957,PV.STD.ERR,political_stability_se
+LBN,2024,Lebanon,0.24971359999999998,PV.STD.ERR,political_stability_se
+LBR,2024,Liberia,0.22064679999999998,PV.STD.ERR,political_stability_se
+LBY,2024,Libya,0.24448899999999998,PV.STD.ERR,political_stability_se
+LCA,2024,St. Lucia,0.3000825,PV.STD.ERR,political_stability_se
+LIE,2024,Liechtenstein,0.278146,PV.STD.ERR,political_stability_se
+LKA,2024,Sri Lanka,0.2282542,PV.STD.ERR,political_stability_se
+LSO,2024,Lesotho,0.24448309999999998,PV.STD.ERR,political_stability_se
+LTU,2024,Lithuania,0.23949689999999998,PV.STD.ERR,political_stability_se
+LUX,2024,Luxembourg,0.2441342,PV.STD.ERR,political_stability_se
+LVA,2024,Latvia,0.23787439999999999,PV.STD.ERR,political_stability_se
+MAC,2024,"Macao SAR, China",0.3477148,PV.STD.ERR,political_stability_se
+MAR,2024,Morocco,0.23428169999999998,PV.STD.ERR,political_stability_se
+MCO,2024,Monaco,0.3093239,PV.STD.ERR,political_stability_se
+MDA,2024,Moldova,0.2478761,PV.STD.ERR,political_stability_se
+MDG,2024,Madagascar,0.23821869999999998,PV.STD.ERR,political_stability_se
+MDV,2024,Maldives,0.2674758,PV.STD.ERR,political_stability_se
+MEX,2024,Mexico,0.2223173,PV.STD.ERR,political_stability_se
+MHL,2024,Marshall Islands,0.2772299,PV.STD.ERR,political_stability_se
+MKD,2024,North Macedonia,0.2497073,PV.STD.ERR,political_stability_se
+MLI,2024,Mali,0.23428169999999998,PV.STD.ERR,political_stability_se
+MLT,2024,Malta,0.2483251,PV.STD.ERR,political_stability_se
+MMR,2024,Myanmar,0.24971359999999998,PV.STD.ERR,political_stability_se
+MNE,2024,Montenegro,0.25449079999999996,PV.STD.ERR,political_stability_se
+MNG,2024,Mongolia,0.23949689999999998,PV.STD.ERR,political_stability_se
+MOZ,2024,Mozambique,0.22064679999999998,PV.STD.ERR,political_stability_se
+MRT,2024,Mauritania,0.24582559999999998,PV.STD.ERR,political_stability_se
+MTQ,2024,Martinique,0.3382293,PV.STD.ERR,political_stability_se
+MUS,2024,Mauritius,0.2398428,PV.STD.ERR,political_stability_se
+MWI,2024,Malawi,0.2358314,PV.STD.ERR,political_stability_se
+MYS,2024,Malaysia,0.2223173,PV.STD.ERR,political_stability_se
+NAM,2024,Namibia,0.2293004,PV.STD.ERR,political_stability_se
+NCL,2024,New Caledonia,0.5331819,PV.STD.ERR,political_stability_se
+NER,2024,Niger,0.2398483,PV.STD.ERR,political_stability_se
+NGA,2024,Nigeria,0.21647059999999999,PV.STD.ERR,political_stability_se
+NIC,2024,Nicaragua,0.24971359999999998,PV.STD.ERR,political_stability_se
+NIU,2024,Niue,0.43736739999999996,PV.STD.ERR,political_stability_se
+NLD,2024,Netherlands,0.2441342,PV.STD.ERR,political_stability_se
+NOR,2024,Norway,0.2441342,PV.STD.ERR,political_stability_se
+NPL,2024,Nepal,0.2318854,PV.STD.ERR,political_stability_se
+NRU,2024,Nauru,0.3093239,PV.STD.ERR,political_stability_se
+NZL,2024,New Zealand,0.22601169999999998,PV.STD.ERR,political_stability_se
+OMN,2024,Oman,0.2441168,PV.STD.ERR,political_stability_se
+PAK,2024,Pakistan,0.2434496,PV.STD.ERR,political_stability_se
+PAN,2024,Panama,0.24518969999999998,PV.STD.ERR,political_stability_se
+PER,2024,Peru,0.23787439999999999,PV.STD.ERR,political_stability_se
+PHL,2024,Philippines,0.23787439999999999,PV.STD.ERR,political_stability_se
+PLW,2024,Palau,0.3093239,PV.STD.ERR,political_stability_se
+PNG,2024,Papua New Guinea,0.23452189999999998,PV.STD.ERR,political_stability_se
+POL,2024,Poland,0.23787439999999999,PV.STD.ERR,political_stability_se
+PRI,2024,Puerto Rico (U.S.),0.2699167,PV.STD.ERR,political_stability_se
+PRK,2024,"Korea, Dem. People's Rep.",0.2549636,PV.STD.ERR,political_stability_se
+PRT,2024,Portugal,0.2424163,PV.STD.ERR,political_stability_se
+PRY,2024,Paraguay,0.2434496,PV.STD.ERR,political_stability_se
+PSE,2024,West Bank and Gaza,0.2756133,PV.STD.ERR,political_stability_se
+PYF,2024,French Polynesia,0.5331819,PV.STD.ERR,political_stability_se
+QAT,2024,Qatar,0.2441168,PV.STD.ERR,political_stability_se
+REU,2024,Réunion,0.41535,PV.STD.ERR,political_stability_se
+ROU,2024,Romania,0.23787439999999999,PV.STD.ERR,political_stability_se
+RUS,2024,Russian Federation,0.2437075,PV.STD.ERR,political_stability_se
+RWA,2024,Rwanda,0.2398428,PV.STD.ERR,political_stability_se
+SAU,2024,Saudi Arabia,0.2317899,PV.STD.ERR,political_stability_se
+SDN,2024,Sudan,0.246806,PV.STD.ERR,political_stability_se
+SEN,2024,Senegal,0.23428169999999998,PV.STD.ERR,political_stability_se
+SGP,2024,Singapore,0.2223173,PV.STD.ERR,political_stability_se
+SLB,2024,Solomon Islands,0.2674758,PV.STD.ERR,political_stability_se
+SLE,2024,Sierra Leone,0.23821869999999998,PV.STD.ERR,political_stability_se
+SLV,2024,El Salvador,0.2434496,PV.STD.ERR,political_stability_se
+SMR,2024,San Marino,0.3093239,PV.STD.ERR,political_stability_se
+SOM,2024,Federal Republic of Somalia,0.2518711,PV.STD.ERR,political_stability_se
+SRB,2024,Serbia,0.2478761,PV.STD.ERR,political_stability_se
+SSD,2024,South Sudan,0.28069079999999996,PV.STD.ERR,political_stability_se
+STP,2024,São Tomé and Príncipe,0.2561718,PV.STD.ERR,political_stability_se
+SUR,2024,Suriname,0.2549835,PV.STD.ERR,political_stability_se
+SVK,2024,Slovak Republic,0.24199849999999998,PV.STD.ERR,political_stability_se
+SVN,2024,Slovenia,0.23787439999999999,PV.STD.ERR,political_stability_se
+SWE,2024,Sweden,0.2424163,PV.STD.ERR,political_stability_se
+SWZ,2024,Eswatini,0.23129239999999998,PV.STD.ERR,political_stability_se
+SYC,2024,Seychelles,0.2541891,PV.STD.ERR,political_stability_se
+SYR,2024,Syrian Arab Republic,0.2549636,PV.STD.ERR,political_stability_se
+TCD,2024,Chad,0.24448309999999998,PV.STD.ERR,political_stability_se
+TGO,2024,Togo,0.23821869999999998,PV.STD.ERR,political_stability_se
+THA,2024,Thailand,0.22364009999999998,PV.STD.ERR,political_stability_se
+TJK,2024,Tajikistan,0.2600548,PV.STD.ERR,political_stability_se
+TKM,2024,Turkmenistan,0.2600548,PV.STD.ERR,political_stability_se
+TLS,2024,Timor-Leste,0.2600548,PV.STD.ERR,political_stability_se
+TON,2024,Tonga,0.27472199999999997,PV.STD.ERR,political_stability_se
+TTO,2024,Trinidad and Tobago,0.2478761,PV.STD.ERR,political_stability_se
+TUN,2024,Tunisia,0.23428169999999998,PV.STD.ERR,political_stability_se
+TUR,2024,Türkiye,0.23787439999999999,PV.STD.ERR,political_stability_se
+TUV,2024,Tuvalu,0.2772299,PV.STD.ERR,political_stability_se
+TWN,2024,"Taiwan, China",0.2259978,PV.STD.ERR,political_stability_se
+TZA,2024,Tanzania,0.23428169999999998,PV.STD.ERR,political_stability_se
+UGA,2024,Uganda,0.2398483,PV.STD.ERR,political_stability_se
+UKR,2024,Ukraine,0.23949689999999998,PV.STD.ERR,political_stability_se
+URY,2024,Uruguay,0.2434496,PV.STD.ERR,political_stability_se
+USA,2024,United States,0.22601169999999998,PV.STD.ERR,political_stability_se
+UZB,2024,Uzbekistan,0.2304167,PV.STD.ERR,political_stability_se
+VCT,2024,St. Vincent and the Grenadines,0.3000825,PV.STD.ERR,political_stability_se
+VEN,2024,"Venezuela, RB",0.22364009999999998,PV.STD.ERR,political_stability_se
+VIR,2024,Virgin Islands (U.S.),0.3382293,PV.STD.ERR,political_stability_se
+VNM,2024,Viet Nam,0.22684839999999998,PV.STD.ERR,political_stability_se
+VUT,2024,Vanuatu,0.2652213,PV.STD.ERR,political_stability_se
+WSM,2024,Samoa,0.27472199999999997,PV.STD.ERR,political_stability_se
+XKX,2024,Kosovo,0.2515862,PV.STD.ERR,political_stability_se
+YEM,2024,"Yemen, Rep.",0.2580781,PV.STD.ERR,political_stability_se
+ZAF,2024,South Africa,0.2307526,PV.STD.ERR,political_stability_se
+ZMB,2024,Zambia,0.2358314,PV.STD.ERR,political_stability_se
+ZWE,2024,Zimbabwe,0.22064679999999998,PV.STD.ERR,political_stability_se

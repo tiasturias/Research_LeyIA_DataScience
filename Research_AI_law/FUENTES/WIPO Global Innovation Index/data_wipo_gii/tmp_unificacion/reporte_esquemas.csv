@@ -1,0 +1,23 @@
+archivo,year,tipo,hoja,filas,n_columnas,columnas
+A: wipo_pub_2000-tech1,2021,legacy,GII Pillars & Indicators,112,9,IndCode|IndNum|IndName|EconomyProfile|IndicatorType_1|IndicatorType_2|Description|Source|Source Reference
+A: wipo_pub_2000-tech1,2021,legacy,Economies in Context,132,12,Economy|ISO3|ISO2|POP|NGDPD|PPPPC|Income|RegionWB|RegionUN|RegionUNcode|SubReg|EU27
+A: wipo_pub_2000-tech1,2021,legacy,GII 2021 Data,14784,13,ISO2|Economy|IndCode|IndNum|IndName|Rank|Score|Value|MinDatCov|Outdated|OverallStreWeak|IncomeStreWeak|DataYear
+B: wipo-pub-2000-2022-tech1,2022,standard,Index Structure,112,8,NUM|NAME|LEVEL|TYPE|PROFILE|DESCRIPTION|SOURCE|WEBSITE
+B: wipo-pub-2000-2022-tech1,2022,standard,Economies,132,8,ISO3|ECONOMY_NAME|INCOME|REG_UN|REG_UN_CODE|POP|PPPGDP|PPPPC
+B: wipo-pub-2000-2022-tech1,2022,standard,Data,14784,12,ISO3|ECONOMY_NAME|NUM|NAME|DATAYR|VALUE_SCREEN|SCORE|RANK|SW_OVERALL|SW_INCGRP|OUTDATED|DMC
+B: wipo-pub-2000-2022-tech1,2022,standard,Metadata,28,5,SHEET|COLUMN|TYPE|NULL|DESCRIPTION
+C: wipo-pub-2000-2022-tech2,2022,clusters,cluster ranks,104,1,"Title: Top 100 S&T clusters, 2022"
+C: wipo-pub-2000-2022-tech2,2022,clusters,intensity ranks,105,1,"Title: Ranking of S&T intensity, 2016–2020"
+C: wipo-pub-2000-2022-tech2,2022,clusters,geocoding results,25,1,Title: Summary of geocoding results
+D: wipo-pub-2000-2023-tech1,2023,standard,Index Structure,111,8,NUM|NAME|LEVEL|TYPE|PROFILE|DESCRIPTION|SOURCE|WEBSITE
+D: wipo-pub-2000-2023-tech1,2023,standard,Economies,132,8,ISO3|ECONOMY_NAME|INCOME|REG_UN|REG_UN_CODE|POP|PPPGDP|PPPPC
+D: wipo-pub-2000-2023-tech1,2023,standard,Data,14652,12,ISO3|ECONOMY_NAME|NUM|NAME|DATAYR|VALUE_SCREEN|SCORE|RANK|SW_OVERALL|SW_INCGRP|OUTDATED|DMC
+D: wipo-pub-2000-2023-tech1,2023,standard,Metadata,29,5,SHEET|COLUMN|TYPE|NULL|DESCRIPTION
+E: wipo-pub-2000-2024-tech1,2024,standard,Index Structure,109,8,NUM|NAME|LEVEL|TYPE|PROFILE|DESCRIPTION|SOURCE|WEBSITE
+E: wipo-pub-2000-2024-tech1,2024,standard,Economies,133,8,ISO3|ECONOMY_NAME|INCOME|REG_UN|REG_UN_CODE|POP|PPPGDP|PPPPC
+E: wipo-pub-2000-2024-tech1,2024,standard,Data,14497,12,ISO3|ECONOMY_NAME|NUM|NAME|DATAYR|VALUE_SCREEN|SCORE|RANK|SW_OVERALL|SW_INCGRP|OUTDATED|DMC
+E: wipo-pub-2000-2024-tech1,2024,standard,Metadata,29,3,SHEET|COLUMN|DESCRIPTION
+F: wipo-pub-2000-2025-tech1,2025,standard,Index Structure,109,8,NUM|NAME|LEVEL|TYPE|PROFILE|DESCRIPTION|SOURCE|WEBSITE
+F: wipo-pub-2000-2025-tech1,2025,standard,Economies,139,8,ISO3|ECONOMY_NAME|INCOME|REG_UN|REG_UN_CODE|POP|PPPGDP|PPPPC
+F: wipo-pub-2000-2025-tech1,2025,standard,Data,15151,12,ISO3|ECONOMY_NAME|NUM|NAME|DATAYR|VALUE_SCREEN|SCORE|RANK|SW_OVERALL|SW_INCGRP|OUTDATED|DMC
+F: wipo-pub-2000-2025-tech1,2025,standard,Metadata,29,3,SHEET|COLUMN|DESCRIPTION

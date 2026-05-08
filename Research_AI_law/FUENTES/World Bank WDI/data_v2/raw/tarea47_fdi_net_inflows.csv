@@ -1,0 +1,1384 @@
+iso3,year,country_name,value,wb_indicator,canonical_name
+AFG,2021,Afghanistan,20600980,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AFG,2020,Afghanistan,12970147.9832,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AFG,2019,Afghanistan,23404553.647249,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AFG,2018,Afghanistan,119435105.715177,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ALB,2024,Albania,1710279512.48091,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ALB,2023,Albania,1620982550.54309,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ALB,2022,Albania,1441381891.41694,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ALB,2021,Albania,1218586452.37157,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ALB,2020,Albania,1069744879.65452,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ALB,2019,Albania,1201022154.46643,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ALB,2018,Albania,1204383363.60476,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DZA,2024,Algeria,1226414841.37248,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DZA,2023,Algeria,1214378660.66465,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DZA,2022,Algeria,241796029.580125,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DZA,2021,Algeria,869194073.014935,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DZA,2020,Algeria,1143918159.62918,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DZA,2019,Algeria,1381200049.59264,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DZA,2018,Algeria,1466116068.03411,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AND,2024,Andorra,268353295.972631,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AND,2023,Andorra,275778939.21399,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AND,2022,Andorra,593981421.298943,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AND,2021,Andorra,484821990.091782,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AND,2020,Andorra,272687591.327234,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AND,2019,Andorra,422216126.281171,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AGO,2024,Angola,-1109663097.06424,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AGO,2023,Angola,-2119632185.51477,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AGO,2022,Angola,-6598652652.09389,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AGO,2021,Angola,-4355116552.71588,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AGO,2020,Angola,-1866468113.07453,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AGO,2019,Angola,-4098478747.63754,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AGO,2018,Angola,-6456076413.12033,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ATG,2024,Antigua and Barbuda,245739889.629629,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ATG,2023,Antigua and Barbuda,293031029.629629,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ATG,2022,Antigua and Barbuda,305804215.555555,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ATG,2021,Antigua and Barbuda,286547591.111111,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ATG,2020,Antigua and Barbuda,96381781.1111111,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ATG,2019,Antigua and Barbuda,133908540.37037,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ATG,2018,Antigua and Barbuda,202333092.274125,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARG,2024,Argentina,11644393816.0627,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARG,2023,Argentina,24756887226.6539,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARG,2022,Argentina,15206087397.3003,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARG,2021,Argentina,6658049679.27727,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARG,2020,Argentina,4884127675.95707,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARG,2019,Argentina,6649187837.98606,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARG,2018,Argentina,11716769818.7543,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARM,2024,Armenia,131561668.096129,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARM,2023,Armenia,580365079.307783,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARM,2022,Armenia,975658909.266107,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARM,2021,Armenia,366423010.763878,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARM,2020,Armenia,58582750.1214803,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARM,2019,Armenia,100285081.566817,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARM,2018,Armenia,266855048.832037,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ABW,2024,Aruba,103250590,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ABW,2023,Aruba,-137459364.921322,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ABW,2022,Aruba,248150282.616618,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ABW,2021,Aruba,133545121.178455,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ABW,2020,Aruba,161066979.086053,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ABW,2019,Aruba,-75226540.6843182,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ABW,2018,Aruba,144146269.421965,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AUS,2024,Australia,53393088476.4107,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AUS,2023,Australia,35315978153.0955,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AUS,2022,Australia,68709419796.6458,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AUS,2021,Australia,31453060427.453,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AUS,2020,Australia,17976843681.3117,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AUS,2019,Australia,38745129661.1195,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AUS,2018,Australia,60686639529.9229,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AUT,2024,Austria,13655965523.2324,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AUT,2023,Austria,2924935668.81844,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AUT,2022,Austria,14301504457.0346,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AUT,2021,Austria,18998114634.0552,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AUT,2020,Austria,-12003798872.8906,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AUT,2019,Austria,-12636357247.4569,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AUT,2018,Austria,-27839206246.3826,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AZE,2024,Azerbaijan,231276000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AZE,2023,Azerbaijan,252836000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AZE,2022,Azerbaijan,-4474481000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AZE,2021,Azerbaijan,-1707666000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AZE,2020,Azerbaijan,507151800,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AZE,2019,Azerbaijan,1503918000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+AZE,2018,Azerbaijan,1402998000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BHS,2024,"Bahamas, The",240551037.3,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BHS,2023,"Bahamas, The",322456455.071094,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BHS,2022,"Bahamas, The",530913950.39875,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BHS,2021,"Bahamas, The",383064779.121094,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BHS,2020,"Bahamas, The",434599799.803594,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BHS,2019,"Bahamas, The",482229306.391,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BHS,2018,"Bahamas, The",491404689.229666,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BHR,2024,Bahrain,2702659574.46808,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BHR,2023,Bahrain,7225797872.34042,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BHR,2022,Bahrain,1951329787.23404,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BHR,2021,Bahrain,1779255319.14893,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BHR,2020,Bahrain,1021276595.74468,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BHR,2019,Bahrain,941755319.148936,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BHR,2018,Bahrain,1654255319.14893,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BGD,2024,Bangladesh,1277757512.81281,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BGD,2023,Bangladesh,1468497340.4175,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BGD,2022,Bangladesh,1601074338.25183,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BGD,2021,Bangladesh,1723856464.12345,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BGD,2020,Bangladesh,1525312160.40492,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BGD,2019,Bangladesh,1908045387.02684,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BGD,2018,Bangladesh,2421626238.43716,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRB,2024,Barbados,303060010,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRB,2023,Barbados,224900000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRB,2022,Barbados,200000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRB,2021,Barbados,238735060,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRB,2020,Barbados,262100000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRB,2019,Barbados,215370130,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRB,2018,Barbados,241596500,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BLR,2024,Belarus,1736476396.56,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BLR,2023,Belarus,1992107728.25,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BLR,2022,Belarus,1606417743.38,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BLR,2021,Belarus,1230721861.86,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BLR,2020,Belarus,1393200000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BLR,2019,Belarus,1273300000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BLR,2018,Belarus,1426500000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BEL,2024,Belgium,-41357732773.2876,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BEL,2023,Belgium,-4247857015.1423,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BEL,2022,Belgium,13136474102.1507,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BEL,2021,Belgium,33980656225.5414,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BEL,2020,Belgium,-30140703656.7745,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BEL,2019,Belgium,-10587088044.237,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BEL,2018,Belgium,-41601387266.7493,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BLZ,2024,Belize,128463236.825598,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BLZ,2023,Belize,16037530.526889,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BLZ,2022,Belize,140907967.620593,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BLZ,2021,Belize,125495493.195585,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BLZ,2020,Belize,76202813.5002132,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BLZ,2019,Belize,93910241.7033733,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BLZ,2018,Belize,122041646.954707,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BEN,2024,Benin,543007400,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BEN,2023,Benin,442960064.385834,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BEN,2022,Benin,375988902.223793,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BEN,2021,Benin,345985235.680029,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BEN,2020,Benin,174019952.06305,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BEN,2019,Benin,218207871.715642,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BEN,2018,Benin,194073683.196865,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BMU,2024,Bermuda,117839990,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BMU,2023,Bermuda,150807854.271384,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BMU,2022,Bermuda,5893778.6383343,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BMU,2021,Bermuda,49675691.8749999,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BMU,2020,Bermuda,476518083.75,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BMU,2019,Bermuda,4389826.5,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BMU,2018,Bermuda,95416371.5,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BTN,2024,Bhutan,2817781.24404488,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BTN,2023,Bhutan,10193821.9383847,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BTN,2022,Bhutan,8402097.14562732,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BTN,2021,Bhutan,6783112.48768632,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BTN,2020,Bhutan,-2786960.89013149,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BTN,2019,Bhutan,13011377.2857267,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BTN,2018,Bhutan,2649454.31118453,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BOL,2024,Bolivia,357888161.773056,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BOL,2023,Bolivia,240143401.66707,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BOL,2022,Bolivia,6236980.0828294,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BOL,2021,Bolivia,583576424.725665,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BOL,2020,Bolivia,-1129487271.3377,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BOL,2019,Bolivia,-216636843.1305,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BOL,2018,Bolivia,302368781.37636,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BIH,2024,Bosnia and Herzegovina,1003973637.87112,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BIH,2023,Bosnia and Herzegovina,1129086797.54319,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BIH,2022,Bosnia and Herzegovina,929439990.796357,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BIH,2021,Bosnia and Herzegovina,767542282.660214,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BIH,2020,Bosnia and Herzegovina,483278992.870742,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BIH,2019,Bosnia and Herzegovina,447875544.610652,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BIH,2018,Bosnia and Herzegovina,601783317.146818,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BWA,2024,Botswana,467266647.291915,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BWA,2023,Botswana,741532368.078646,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BWA,2022,Botswana,709624140.359235,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BWA,2021,Botswana,-319055857.574533,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BWA,2020,Botswana,31792610.4142282,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BWA,2019,Botswana,93607130.032602,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BWA,2018,Botswana,285955061.932014,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRA,2024,Brazil,74090786050.19,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRA,2023,Brazil,62750364285.48,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRA,2022,Brazil,75501038733.31,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRA,2021,Brazil,46440503520.19,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRA,2020,Brazil,38270116307.45,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRA,2019,Brazil,69174411753.45,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRA,2018,Brazil,78183840044.98,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VGB,2024,British Virgin Islands,53598706970,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VGB,2023,British Virgin Islands,39889381820,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VGB,2022,British Virgin Islands,38118551090,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VGB,2021,British Virgin Islands,39361498410,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VGB,2020,British Virgin Islands,39619635210,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VGB,2019,British Virgin Islands,39103361610,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VGB,2018,British Virgin Islands,34389709120,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRN,2024,Brunei Darussalam,29063018.6489884,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRN,2023,Brunei Darussalam,-55927970.3793758,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRN,2022,Brunei Darussalam,-290169984.940837,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRN,2021,Brunei Darussalam,206462739.392454,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRN,2020,Brunei Darussalam,565542275.429332,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRN,2019,Brunei Darussalam,373256767.246304,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BRN,2018,Brunei Darussalam,516202620.629746,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BGR,2024,Bulgaria,3549010000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BGR,2023,Bulgaria,5170140000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BGR,2022,Bulgaria,4748510000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BGR,2021,Bulgaria,2133700000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BGR,2020,Bulgaria,2801390000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BGR,2019,Bulgaria,2221250000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BGR,2018,Bulgaria,1809860000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BFA,2024,Burkina Faso,82944120,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BFA,2023,Burkina Faso,109438755.395966,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BFA,2022,Burkina Faso,669738240.850164,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BFA,2021,Burkina Faso,-79957355.3390048,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BFA,2020,Burkina Faso,-98777856.0144418,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BFA,2019,Burkina Faso,162970140.263612,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BFA,2018,Burkina Faso,268414907.946195,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BDI,2024,Burundi,33322927.9919777,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BDI,2023,Burundi,33999317.765554,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BDI,2022,Burundi,25249488.9899432,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BDI,2021,Burundi,22351623.301476,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BDI,2020,Burundi,21196554.6098288,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BDI,2019,Burundi,30280866.0715354,BX.KLT.DINV.CD.WD,fdi_net_inflows
+BDI,2018,Burundi,6663761.85439284,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CPV,2024,Cabo Verde,109932741.764781,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CPV,2023,Cabo Verde,158735894.913156,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CPV,2022,Cabo Verde,122015528.984869,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CPV,2021,Cabo Verde,91456883.2590195,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CPV,2020,Cabo Verde,67619883.9199237,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CPV,2019,Cabo Verde,122921295.022726,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CPV,2018,Cabo Verde,103550532.589032,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KHM,2024,Cambodia,4394647334.3021,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KHM,2023,Cambodia,3958792378.8864,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KHM,2022,Cambodia,3578831295.87392,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KHM,2021,Cambodia,3483461605.65372,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KHM,2020,Cambodia,3624644990.13295,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KHM,2019,Cambodia,3663032999.47048,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KHM,2018,Cambodia,3212633447.04469,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CMR,2024,Cameroon,888218144.392838,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CMR,2023,Cameroon,821546383.239812,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CMR,2022,Cameroon,925681548.563251,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CMR,2021,Cameroon,963531503.483344,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CMR,2020,Cameroon,675186993.652869,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CMR,2019,Cameroon,1024779237.90888,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CMR,2018,Cameroon,765092012.778526,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CAN,2024,Canada,63052828220.4018,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CAN,2023,Canada,43897082059.7896,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CAN,2022,Canada,50764048301.0469,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CAN,2021,Canada,60189690111.8854,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CAN,2020,Canada,29123011879.2997,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CAN,2019,Canada,48942300762.2452,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CAN,2018,Canada,42603762048.597,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CYM,2024,Cayman Islands,3177367484.18081,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CYM,2023,Cayman Islands,12092614518.9148,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CYM,2022,Cayman Islands,-3144736442.9941,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CYM,2021,Cayman Islands,-807807825.131413,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CYM,2020,Cayman Islands,6973848227.54293,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CYM,2019,Cayman Islands,1080420248.60699,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CYM,2018,Cayman Islands,173644548.798713,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CAF,2024,Central African Republic,40406020,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CAF,2023,Central African Republic,38742450,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CAF,2022,Central African Republic,24047720,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CAF,2021,Central African Republic,5409980,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CAF,2020,Central African Republic,1737360,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CAF,2019,Central African Republic,25601160,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CAF,2018,Central African Republic,18003540,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TCD,2024,Chad,1019486410,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TCD,2023,Chad,913332720,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TCD,2022,Chad,614018510,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TCD,2021,Chad,705100760,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TCD,2020,Chad,557692500,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TCD,2019,Chad,566638950,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TCD,2018,Chad,460890510,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHL,2024,Chile,12521388616.3117,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHL,2023,Chile,18377361861.8,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHL,2022,Chile,18771990469.19,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHL,2021,Chile,15176902318.5544,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHL,2020,Chile,11447397288.6176,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHL,2019,Chile,13579090978.7595,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHL,2018,Chile,7942631935.04913,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHN,2024,China,18556141172.84,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHN,2023,China,51338076801.59,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHN,2022,China,190203789092.51,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHN,2021,China,344074977062.48,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHN,2020,China,253095616058.58,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHN,2019,China,187169822364.755,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHN,2018,China,235365050036.341,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COL,2024,Colombia,13683876155.4127,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COL,2023,Colombia,16793702728.5038,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COL,2022,Colombia,17182225497.9059,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COL,2021,Colombia,9561335276.67571,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COL,2020,Colombia,7458624984.21929,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COL,2019,Colombia,13989154028.3683,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COL,2018,Colombia,11298692773.8485,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COM,2024,Comoros,7100000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COM,2023,Comoros,5352754.89432873,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COM,2022,Comoros,4128667.47538991,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COM,2021,Comoros,4024772.1820532,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COM,2020,Comoros,3875846.08058853,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COM,2019,Comoros,4300803.9663215,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COM,2018,Comoros,5672348.12857999,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COD,2024,"Congo, Dem. Rep.",2915055322.56637,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COD,2023,"Congo, Dem. Rep.",2375258886.51998,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COD,2022,"Congo, Dem. Rep.",1409373841.76263,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COD,2021,"Congo, Dem. Rep.",1677673789.73561,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COD,2020,"Congo, Dem. Rep.",1498084807.8648,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COD,2019,"Congo, Dem. Rep.",1350994226.20535,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COD,2018,"Congo, Dem. Rep.",1407563588.42422,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COG,2024,"Congo, Rep.",603616460,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COG,2023,"Congo, Rep.",626473710,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COG,2022,"Congo, Rep.",532256250,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COG,2021,"Congo, Rep.",-320209517.696022,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COG,2020,"Congo, Rep.",-1983178866.50125,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COG,2019,"Congo, Rep.",-1427679257.05894,BX.KLT.DINV.CD.WD,fdi_net_inflows
+COG,2018,"Congo, Rep.",4315250920,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CRI,2024,Costa Rica,5298432816.49544,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CRI,2023,Costa Rica,4687479757.85749,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CRI,2022,Costa Rica,3751294950.89378,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CRI,2021,Costa Rica,3592802258.09676,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CRI,2020,Costa Rica,2103003648.98359,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CRI,2019,Costa Rica,2719031329.42268,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CRI,2018,Costa Rica,3014543618.02812,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CIV,2024,Cote d'Ivoire,3121671772.60831,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CIV,2023,Cote d'Ivoire,2485137116.69214,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CIV,2022,Cote d'Ivoire,1599115748.83326,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CIV,2021,Cote d'Ivoire,1392435143.38301,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CIV,2020,Cote d'Ivoire,712915894.481616,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CIV,2019,Cote d'Ivoire,848881139.442876,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CIV,2018,Cote d'Ivoire,620330654.359791,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HRV,2024,Croatia,4535565345.95969,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HRV,2023,Croatia,3341914870.689,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HRV,2022,Croatia,3927390914.43453,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HRV,2021,Croatia,5125181839.24963,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HRV,2020,Croatia,1471750500.4312,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HRV,2019,Croatia,3978656307.57573,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HRV,2018,Croatia,1645992913.89195,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CUW,2024,Curacao,154808190,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CUW,2023,Curacao,136602563.648045,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CUW,2022,Curacao,175616794.949721,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CUW,2021,Curacao,170912620.061453,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CUW,2020,Curacao,155743256.268156,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CUW,2019,Curacao,203230453.620112,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CUW,2018,Curacao,126924996.849162,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CYP,2024,Cyprus,-50364142878.0379,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CYP,2023,Cyprus,-22151767932.8125,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CYP,2022,Cyprus,53889706.601886,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CYP,2021,Cyprus,6626435041.50001,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CYP,2020,Cyprus,-75646450885.0054,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CYP,2019,Cyprus,113114188086.775,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CYP,2018,Cyprus,79087120911.1898,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CZE,2024,Czechia,13051379572.6952,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CZE,2023,Czechia,11891578042.9175,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CZE,2022,Czechia,9143600294.9133,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CZE,2021,Czechia,12890950336.4654,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CZE,2020,Czechia,8515481807.56743,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CZE,2019,Czechia,10752120870.7679,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CZE,2018,Czechia,8324668391.46793,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DNK,2024,Denmark,18240080341.0515,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DNK,2023,Denmark,8233198565.59846,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DNK,2022,Denmark,27627359889.4076,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DNK,2021,Denmark,16997286703.2255,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DNK,2020,Denmark,1294050740.46454,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DNK,2019,Denmark,-3801733788.9774,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DNK,2018,Denmark,8764023726.34583,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DJI,2024,Djibouti,67819948.247534,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DJI,2023,Djibouti,137009451,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DJI,2022,Djibouti,187022847.623807,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DJI,2021,Djibouti,166750130.823031,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DJI,2020,Djibouti,158230011,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DJI,2019,Djibouti,174999015.310514,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DJI,2018,Djibouti,170000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DMA,2024,Dominica,59962443.7037037,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DMA,2023,Dominica,48015540.7407407,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DMA,2022,Dominica,16922305.5555555,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DMA,2021,Dominica,28338715.1851851,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DMA,2020,Dominica,22837135.9259259,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DMA,2019,Dominica,63039788.5185185,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DMA,2018,Dominica,78283172.028784,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DOM,2024,Dominican Republic,4475900000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DOM,2023,Dominican Republic,4750500000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DOM,2022,Dominican Republic,4050000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DOM,2021,Dominican Republic,3349700000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DOM,2020,Dominican Republic,2460600000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DOM,2019,Dominican Republic,2829200000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DOM,2018,Dominican Republic,2744500000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ECU,2024,Ecuador,443055171.69482,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ECU,2023,Ecuador,480987348.523188,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ECU,2022,Ecuador,881993803.529517,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ECU,2021,Ecuador,651125150.926888,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ECU,2020,Ecuador,1119274900.76401,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ECU,2019,Ecuador,984564496.243027,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ECU,2018,Ecuador,1390163763.14022,BX.KLT.DINV.CD.WD,fdi_net_inflows
+EGY,2024,"Egypt, Arab Rep.",46578000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+EGY,2023,"Egypt, Arab Rep.",9840600000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+EGY,2022,"Egypt, Arab Rep.",11399900000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+EGY,2021,"Egypt, Arab Rep.",5122300000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+EGY,2020,"Egypt, Arab Rep.",5851800000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+EGY,2019,"Egypt, Arab Rep.",9010100000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+EGY,2018,"Egypt, Arab Rep.",8141300000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLV,2024,El Salvador,923880785.120001,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLV,2023,El Salvador,642983912.959999,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLV,2022,El Salvador,26235086.5900005,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLV,2021,El Salvador,800443454.959999,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLV,2020,El Salvador,386532637.6773,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLV,2019,El Salvador,696287032.758767,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLV,2018,El Salvador,412743968.360673,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GNQ,2024,Equatorial Guinea,188011680,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GNQ,2023,Equatorial Guinea,141780890,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GNQ,2022,Equatorial Guinea,1388191640,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GNQ,2021,Equatorial Guinea,561595620,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GNQ,2020,Equatorial Guinea,-9072490,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GNQ,2019,Equatorial Guinea,821413130,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GNQ,2018,Equatorial Guinea,-144465770,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ERI,2024,Eritrea,-27949590,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ERI,2023,Eritrea,2070380,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ERI,2022,Eritrea,-32045670,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ERI,2021,Eritrea,-31228190,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ERI,2020,Eritrea,-30349590,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ERI,2019,Eritrea,-60671910,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ERI,2018,Eritrea,61015000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+EST,2024,Estonia,-3437916450.37682,BX.KLT.DINV.CD.WD,fdi_net_inflows
+EST,2023,Estonia,5200718270.12106,BX.KLT.DINV.CD.WD,fdi_net_inflows
+EST,2022,Estonia,1731622424.00465,BX.KLT.DINV.CD.WD,fdi_net_inflows
+EST,2021,Estonia,7525452742.65868,BX.KLT.DINV.CD.WD,fdi_net_inflows
+EST,2020,Estonia,3823194189.12658,BX.KLT.DINV.CD.WD,fdi_net_inflows
+EST,2019,Estonia,3113489502.24595,BX.KLT.DINV.CD.WD,fdi_net_inflows
+EST,2018,Estonia,1273932848.01576,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SWZ,2024,Eswatini,75530848.9589358,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SWZ,2023,Eswatini,28132551.483073,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SWZ,2022,Eswatini,13350248.3032889,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SWZ,2021,Eswatini,112865288.268549,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SWZ,2020,Eswatini,38787632.6722704,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SWZ,2019,Eswatini,127970921.965401,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SWZ,2018,Eswatini,31130826.6571527,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ETH,2024,Ethiopia,4021755290,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ETH,2023,Ethiopia,3262966283.51939,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ETH,2022,Ethiopia,3669991332.17485,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ETH,2021,Ethiopia,4259445795.28262,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ETH,2020,Ethiopia,2395799880.65984,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ETH,2019,Ethiopia,2548743427.35753,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ETH,2018,Ethiopia,3360419368.65294,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FJI,2024,Fiji,203609190.995767,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FJI,2023,Fiji,90569882.8356575,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FJI,2022,Fiji,103581591.564162,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FJI,2021,Fiji,409894560.465738,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FJI,2020,Fiji,239380737.90361,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FJI,2019,Fiji,322282826.115833,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FJI,2018,Fiji,468861002.876234,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FIN,2024,Finland,8741865603.01226,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FIN,2023,Finland,-114798799.087339,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FIN,2022,Finland,13079164235.1595,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FIN,2021,Finland,23579233204.9062,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FIN,2020,Finland,-2535610877.45159,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FIN,2019,Finland,16280099519.3449,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FIN,2018,Finland,-10529085853.8372,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FRA,2024,France,52052548617.7634,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FRA,2023,France,18051596853.4685,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FRA,2022,France,112295479269.655,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FRA,2021,France,98012545019.163,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FRA,2020,France,19368829836.4654,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FRA,2019,France,53499337503.7413,BX.KLT.DINV.CD.WD,fdi_net_inflows
+FRA,2018,France,77493098693.2377,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PYF,2024,French Polynesia,-13866940,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PYF,2023,French Polynesia,-6496060,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PYF,2022,French Polynesia,-9480300,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PYF,2021,French Polynesia,-25624450,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PYF,2020,French Polynesia,-15557160,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PYF,2019,French Polynesia,12731150,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PYF,2018,French Polynesia,5937840,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GAB,2024,Gabon,1144562350,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GAB,2023,Gabon,1150733280,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GAB,2022,Gabon,1104592040,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GAB,2021,Gabon,1529221080,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GAB,2020,Gabon,1716511510,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GAB,2019,Gabon,1553136880,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GAB,2018,Gabon,1379070820,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GMB,2024,"Gambia, The",232357063.917134,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GMB,2023,"Gambia, The",205541473.783854,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GMB,2022,"Gambia, The",231488000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GMB,2021,"Gambia, The",251822628.807365,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GMB,2020,"Gambia, The",189576190.794226,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GMB,2019,"Gambia, The",71083305.8667937,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GMB,2018,"Gambia, The",81805006.5959045,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GEO,2024,Georgia,1602929459.4,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GEO,2023,Georgia,2111981302.94,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GEO,2022,Georgia,2257736899.85,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GEO,2021,Georgia,1290232130.97,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GEO,2020,Georgia,557173503.19,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GEO,2019,Georgia,1397879177.29,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GEO,2018,Georgia,1304024907.7,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DEU,2024,Germany,47599143488.7827,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DEU,2023,Germany,77438957875.1405,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DEU,2022,Germany,87215414562.4594,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DEU,2021,Germany,127609826748.268,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DEU,2020,Germany,176781024357.228,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DEU,2019,Germany,75463438450.8916,BX.KLT.DINV.CD.WD,fdi_net_inflows
+DEU,2018,Germany,162250938125.842,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GHA,2024,Ghana,1765552579.5641,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GHA,2023,Ghana,1319315614.67989,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GHA,2022,Ghana,1428411737.133,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GHA,2021,Ghana,2533586462.03873,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GHA,2020,Ghana,1875782953.46905,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GHA,2019,Ghana,3879831469.7,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GHA,2018,Ghana,2989035000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GRC,2024,Greece,6742277267.34835,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GRC,2023,Greece,4722066764.49033,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GRC,2022,Greece,8057970156.10279,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GRC,2021,Greece,6585182436.31199,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GRC,2020,Greece,3303648833.22836,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GRC,2019,Greece,4999635989.53693,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GRC,2018,Greece,4025447788.57702,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GRD,2024,Grenada,163925451.481481,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GRD,2023,Grenada,220251551.111111,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GRD,2022,Grenada,162962004.814814,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GRD,2021,Grenada,152223567.037037,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GRD,2020,Grenada,141277504.814814,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GRD,2019,Grenada,208615795.555555,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GRD,2018,Grenada,185990696.386518,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GTM,2024,Guatemala,1848004120,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GTM,2023,Guatemala,1650310370,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GTM,2022,Guatemala,1450072830,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GTM,2021,Guatemala,3626364530,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GTM,2020,Guatemala,1004371660,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GTM,2019,Guatemala,1170758860,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GTM,2018,Guatemala,922397870,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GIN,2024,Guinea,1401830000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GIN,2023,Guinea,1314930000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GIN,2022,Guinea,658300000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GIN,2021,Guinea,197610000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GIN,2020,Guinea,176350000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GIN,2019,Guinea,44400000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GIN,2018,Guinea,352760000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GNB,2024,Guinea-Bissau,26650161.3251044,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GNB,2023,Guinea-Bissau,25133300.8212657,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GNB,2022,Guinea-Bissau,21658003.8438931,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GNB,2021,Guinea-Bissau,18529723.3545945,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GNB,2020,Guinea-Bissau,20989721.6146961,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GNB,2019,Guinea-Bissau,71658680.3379901,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GNB,2018,Guinea-Bissau,20563818.2174004,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GUY,2024,Guyana,8629500000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GUY,2023,Guyana,-1135036125.52568,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GUY,2022,Guyana,-2996952015.17,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GUY,2021,Guyana,2236503735.22896,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GUY,2020,Guyana,1283062521.17088,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GUY,2019,Guyana,2690327775.794,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GUY,2018,Guyana,1231760000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HTI,2024,Haiti,20001152,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HTI,2023,Haiti,23647920,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HTI,2022,Haiti,39413200,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HTI,2021,Haiti,51299000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HTI,2020,Haiti,25000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HTI,2019,Haiti,75000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HTI,2018,Haiti,105000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HND,2024,Honduras,1309045847.41366,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HND,2023,Honduras,1086111945.15352,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HND,2022,Honduras,758286498.804818,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HND,2021,Honduras,800315953.182342,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HND,2020,Honduras,236016866.159636,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HND,2019,Honduras,955095297.980428,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HND,2018,Honduras,1442587576.20959,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HKG,2024,"Hong Kong SAR, China",125820976919.852,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HKG,2023,"Hong Kong SAR, China",121985594745.393,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HKG,2022,"Hong Kong SAR, China",122407913138.418,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HKG,2021,"Hong Kong SAR, China",137191251277.419,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HKG,2020,"Hong Kong SAR, China",117452284750.967,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HKG,2019,"Hong Kong SAR, China",58299361094.7774,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HKG,2018,"Hong Kong SAR, China",97036255478.9458,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HUN,2024,Hungary,-62190710104.0316,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HUN,2023,Hungary,-70776661338.3662,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HUN,2022,Hungary,-1917371461.47155,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HUN,2021,Hungary,33474586358.8648,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HUN,2020,Hungary,167399384338.449,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HUN,2019,Hungary,98265233190.1349,BX.KLT.DINV.CD.WD,fdi_net_inflows
+HUN,2018,Hungary,-64648352413.5288,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ISL,2024,Iceland,2832973530.45474,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ISL,2023,Iceland,1890181606.88197,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ISL,2022,Iceland,1382537404.59093,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ISL,2021,Iceland,400954509.175135,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ISL,2020,Iceland,-878458464.58691,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ISL,2019,Iceland,-556463720.652853,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ISL,2018,Iceland,-622718386.260032,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IND,2024,India,27139853378.1402,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IND,2023,India,28086193530.3979,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IND,2022,India,49940258404.2659,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IND,2021,India,44727277562.881,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IND,2020,India,64362364994.3754,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IND,2019,India,50610647353.5911,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IND,2018,India,42117450737.2644,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IDN,2024,Indonesia,24275445280.2272,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IDN,2023,Indonesia,21543358781.3828,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IDN,2022,Indonesia,24702029705.0926,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IDN,2021,Indonesia,21213080329.8582,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IDN,2020,Indonesia,19175077747.8077,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IDN,2019,Indonesia,24993551748.0098,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IDN,2018,Indonesia,18909826043.5105,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRN,2024,"Iran, Islamic Rep.",1449111110,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRN,2023,"Iran, Islamic Rep.",1422333330,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRN,2022,"Iran, Islamic Rep.",1500000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRN,2021,"Iran, Islamic Rep.",1425000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRN,2020,"Iran, Islamic Rep.",1342000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRN,2019,"Iran, Islamic Rep.",1508000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRN,2018,"Iran, Islamic Rep.",2373000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRQ,2024,Iraq,-7648900000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRQ,2023,Iraq,-5363500000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRQ,2022,Iraq,-2088200000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRQ,2021,Iraq,-2637300000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRQ,2020,Iraq,-2859100000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRQ,2019,Iraq,-3075600000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRQ,2018,Iraq,-4885100000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRL,2024,Ireland,4818899599.81408,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRL,2023,Ireland,-139972323560.253,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRL,2022,Ireland,-35575910807.5925,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRL,2021,Ireland,77722796051.0396,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRL,2020,Ireland,35288206770.2389,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRL,2019,Ireland,31252184929.3129,BX.KLT.DINV.CD.WD,fdi_net_inflows
+IRL,2018,Ireland,80581468516.7593,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ISR,2024,Israel,14777900000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ISR,2023,Israel,16170300000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ISR,2022,Israel,22883500000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ISR,2021,Israel,18949900000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ISR,2020,Israel,20968700000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ISR,2019,Israel,17362500000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ISR,2018,Israel,21514500000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ITA,2024,Italy,26903748175.4513,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ITA,2023,Italy,42019753074.4716,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ITA,2022,Italy,61897757337.9736,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ITA,2021,Italy,26253856510.1011,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ITA,2020,Italy,-17050399620.8672,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ITA,2019,Italy,35760550299.4852,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ITA,2018,Italy,44249715319.1483,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JAM,2024,Jamaica,305079506.2,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JAM,2023,Jamaica,492412229.3,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JAM,2022,Jamaica,318736000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JAM,2021,Jamaica,320480000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JAM,2020,Jamaica,265100553.561346,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JAM,2019,Jamaica,665415555.002521,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JAM,2018,Jamaica,774620603.114089,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JPN,2024,Japan,16160318365.9944,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JPN,2023,Japan,19982140844.5082,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JPN,2022,Japan,48153832744.0586,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JPN,2021,Japan,35027163875.7213,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JPN,2020,Japan,62584719398.0912,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JPN,2019,Japan,39960544340.0141,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JPN,2018,Japan,25289367857.8518,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JOR,2024,Jordan,1634647887.32394,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JOR,2023,Jordan,2006338028.16901,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JOR,2022,Jordan,962535211.267605,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JOR,2021,Jordan,621830985.915492,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JOR,2020,Jordan,760281690.140845,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JOR,2019,Jordan,729718309.859154,BX.KLT.DINV.CD.WD,fdi_net_inflows
+JOR,2018,Jordan,954929577.464788,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KAZ,2024,Kazakhstan,1978987098.02375,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KAZ,2023,Kazakhstan,5722500090.69169,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KAZ,2022,Kazakhstan,5081682329.11,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KAZ,2021,Kazakhstan,4566615415.48999,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KAZ,2020,Kazakhstan,7205989084.29,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KAZ,2019,Kazakhstan,3730856270.68398,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KAZ,2018,Kazakhstan,353291554.55809,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KEN,2024,Kenya,463439704.196417,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KEN,2023,Kenya,507964511.417799,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KEN,2022,Kenya,791581760.055161,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KEN,2021,Kenya,419719612.932137,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KEN,2020,Kenya,-5403752.28986896,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KEN,2019,Kenya,469940266.776669,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KEN,2018,Kenya,767761506.730644,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KIR,2024,Kiribati,8072777.37604076,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KIR,2023,Kiribati,5110622.6979706,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KIR,2022,Kiribati,4270167.12694067,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KIR,2021,Kiribati,1031375.96193945,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KIR,2020,Kiribati,2624092.83886644,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KIR,2019,Kiribati,-558280.502283039,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KIR,2018,Kiribati,-1144364.71702218,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KOR,2024,"Korea, Rep.",12862500000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KOR,2023,"Korea, Rep.",18599100000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KOR,2022,"Korea, Rep.",25044700000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KOR,2021,"Korea, Rep.",22060400000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KOR,2020,"Korea, Rep.",8764900000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KOR,2019,"Korea, Rep.",9634300000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KOR,2018,"Korea, Rep.",12182600000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+XKX,2024,Kosovo,859811341.965554,BX.KLT.DINV.CD.WD,fdi_net_inflows
+XKX,2023,Kosovo,908658506.572891,BX.KLT.DINV.CD.WD,fdi_net_inflows
+XKX,2022,Kosovo,764162311.373721,BX.KLT.DINV.CD.WD,fdi_net_inflows
+XKX,2021,Kosovo,500927943.330253,BX.KLT.DINV.CD.WD,fdi_net_inflows
+XKX,2020,Kosovo,394625250.470224,BX.KLT.DINV.CD.WD,fdi_net_inflows
+XKX,2019,Kosovo,285081551.307002,BX.KLT.DINV.CD.WD,fdi_net_inflows
+XKX,2018,Kosovo,318542991.552637,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KWT,2024,Kuwait,614580245.831756,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KWT,2023,Kuwait,2114603344.83449,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KWT,2022,Kuwait,752255305.966945,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KWT,2021,Kuwait,-272335307.098366,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KWT,2020,Kuwait,-558055522.567384,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KWT,2019,Kuwait,515617569.386936,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KWT,2018,Kuwait,-21377568.8207292,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KGZ,2024,Kyrgyz Republic,705333330,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KGZ,2023,Kyrgyz Republic,159000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KGZ,2022,Kyrgyz Republic,54849000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KGZ,2021,Kyrgyz Republic,226205400,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KGZ,2020,Kyrgyz Republic,-401518600,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KGZ,2019,Kyrgyz Republic,403865100,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KGZ,2018,Kyrgyz Republic,144222600,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LAO,2024,Lao PDR,988457806.788528,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LAO,2023,Lao PDR,1781176779.47452,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LAO,2022,Lao PDR,726273736.492143,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LAO,2021,Lao PDR,1071913715.60885,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LAO,2020,Lao PDR,967706086.202045,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LAO,2019,Lao PDR,755524124.249368,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LAO,2018,Lao PDR,1358019506.22958,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LVA,2024,Latvia,1514022170.34634,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LVA,2023,Latvia,1689068343.71426,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LVA,2022,Latvia,1217386449.16126,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LVA,2021,Latvia,3734085089.75473,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LVA,2020,Latvia,939356413.88956,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LVA,2019,Latvia,1115785160.98483,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LVA,2018,Latvia,439128427.014647,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBN,2024,Lebanon,1842524610,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBN,2023,Lebanon,655437382.076387,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBN,2022,Lebanon,526838753.906365,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBN,2021,Lebanon,599788270.817044,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBN,2020,Lebanon,1606894721.93483,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBN,2019,Lebanon,1906392482.4039,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBN,2018,Lebanon,2658003844.61444,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LSO,2024,Lesotho,-12572108.0398715,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LSO,2023,Lesotho,-25647817.1357354,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LSO,2022,Lesotho,-7820069.16054049,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LSO,2021,Lesotho,-12372199.9884458,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LSO,2020,Lesotho,28001666.9222279,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LSO,2019,Lesotho,35732595.8160095,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LSO,2018,Lesotho,40874067.2749006,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBR,2024,Liberia,471538316.99677,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBR,2023,Liberia,312281351.862,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBR,2022,Liberia,123765393.588,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBR,2021,Liberia,-39290946.93,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBR,2020,Liberia,-94014462.196,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBR,2019,Liberia,86681700.4596762,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBR,2018,Liberia,129129754.833293,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBY,2023,Libya,794700000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBY,2022,Libya,702000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LBY,2021,Libya,603000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LIE,2018,Liechtenstein,-87212093508.4059,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LTU,2024,Lithuania,4700199442.92396,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LTU,2023,Lithuania,3831114463.91848,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LTU,2022,Lithuania,2419329634.05406,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LTU,2021,Lithuania,2507626415.82615,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LTU,2020,Lithuania,4560496002.83869,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LTU,2019,Lithuania,3434299309.82762,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LTU,2018,Lithuania,1299841764.3737,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LUX,2024,Luxembourg,105986643430,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LUX,2023,Luxembourg,-9279442930,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LUX,2022,Luxembourg,-316383115840,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LUX,2021,Luxembourg,24809164820,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LUX,2020,Luxembourg,-3358058080,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LUX,2019,Luxembourg,163717596800,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LUX,2018,Luxembourg,-83336482550,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MAC,2024,"Macao SAR, China",1891452332.65239,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MAC,2023,"Macao SAR, China",1144351033.57612,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MAC,2022,"Macao SAR, China",3335746381.09815,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MAC,2021,"Macao SAR, China",5628316103.98647,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MAC,2020,"Macao SAR, China",-6213336210.19689,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MAC,2019,"Macao SAR, China",6479147402.60284,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MAC,2018,"Macao SAR, China",1721703376.81634,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDG,2024,Madagascar,606208749.393671,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDG,2023,Madagascar,519515232.451645,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDG,2022,Madagascar,467848664.235501,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDG,2021,Madagascar,357536665.264703,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDG,2020,Madagascar,358467141.414301,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDG,2019,Madagascar,474311425.432436,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDG,2018,Madagascar,612036371.422121,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MWI,2024,Malawi,257972995.435814,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MWI,2023,Malawi,213960519.975336,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MWI,2022,Malawi,198726519.112982,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MWI,2021,Malawi,129497084.504879,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MWI,2020,Malawi,252179040.150445,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MWI,2019,Malawi,55227831.6285934,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MWI,2018,Malawi,77012306.002161,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MYS,2024,Malaysia,15593246086.7664,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MYS,2023,Malaysia,7918601050.23635,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MYS,2022,Malaysia,15027992710.6144,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MYS,2021,Malaysia,20245157326.8023,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MYS,2020,Malaysia,4058769678.64231,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MYS,2019,Malaysia,9154921685.03934,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MYS,2018,Malaysia,8304480741.65266,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDV,2024,Maldives,806204043.653671,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDV,2023,Maldives,766835023.508003,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDV,2022,Maldives,731709063.613552,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDV,2021,Maldives,642830713.618008,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDV,2020,Maldives,440711709.435094,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDV,2019,Maldives,961037565.723003,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDV,2018,Maldives,575658028.152192,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MLI,2024,Mali,921044497.586045,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MLI,2023,Mali,702559730.160354,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MLI,2022,Mali,715469994.852307,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MLI,2021,Mali,639944165.358959,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MLI,2020,Mali,536851812.897275,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MLI,2019,Mali,859091549.188966,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MLI,2018,Mali,467295391.077839,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MLT,2024,Malta,42586013467.362,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MLT,2023,Malta,24601713594.3614,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MLT,2022,Malta,21777714703.2213,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MLT,2021,Malta,85551145633.2069,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MLT,2020,Malta,31484121888.7381,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MLT,2019,Malta,32381439863.0004,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MLT,2018,Malta,73050789630.2723,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MHL,2024,Marshall Islands,13358825.6776178,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MHL,2023,Marshall Islands,9149255.32927748,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MHL,2022,Marshall Islands,-7836134.42196505,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MHL,2021,Marshall Islands,499428.443349172,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MHL,2020,Marshall Islands,3045061.11336896,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MHL,2019,Marshall Islands,5164920.15605116,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MHL,2018,Marshall Islands,9752051.36249508,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MRT,2024,Mauritania,1440291135.43106,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MRT,2023,Mauritania,848351729.722353,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MRT,2022,Mauritania,1401620461.82274,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MRT,2021,Mauritania,1070252545.01957,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MRT,2020,Mauritania,927916265.774285,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MRT,2019,Mauritania,-883561115.825519,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MRT,2018,Mauritania,772890480,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MUS,2024,Mauritius,681276230,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MUS,2023,Mauritius,759847580,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MUS,2022,Mauritius,545909420,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MUS,2021,Mauritius,260543730,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MUS,2020,Mauritius,224668080,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MUS,2019,Mauritius,444077760,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MUS,2018,Mauritius,460511370,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MEX,2024,Mexico,45474733959,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MEX,2023,Mexico,30682691037,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MEX,2022,Mexico,39206366288,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MEX,2021,Mexico,35617195058,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MEX,2020,Mexico,31546860667,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MEX,2019,Mexico,29948988013,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MEX,2018,Mexico,37867130066,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDA,2024,Moldova,458365804.99,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDA,2023,Moldova,360895447.64,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDA,2022,Moldova,586020000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDA,2021,Moldova,386120000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDA,2020,Moldova,155720000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDA,2019,Moldova,521370000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MDA,2018,Moldova,309640000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MNG,2024,Mongolia,2782176220.49007,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MNG,2023,Mongolia,2247573669.88719,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MNG,2022,Mongolia,2504294749.65085,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MNG,2021,Mongolia,2173385309.77255,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MNG,2020,Mongolia,1719115941.52002,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MNG,2019,Mongolia,2443343095.41814,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MNG,2018,Mongolia,1951528195.81852,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MNE,2024,Montenegro,599431454.987814,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MNE,2023,Montenegro,525868956.944273,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MNE,2022,Montenegro,872558550.293814,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MNE,2021,Montenegro,693740795.71383,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MNE,2020,Montenegro,530903011.481089,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MNE,2019,Montenegro,417589860.078767,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MNE,2018,Montenegro,485653127.823428,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MAR,2024,Morocco,1638999697.24143,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MAR,2023,Morocco,1060023610.0797,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MAR,2022,Morocco,2294356059.17333,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MAR,2021,Morocco,2264148625.4107,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MAR,2020,Morocco,1418713118.61153,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MAR,2019,Morocco,1720825003.13095,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MAR,2018,Morocco,3544387229.27821,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MOZ,2024,Mozambique,3508626212.16849,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MOZ,2023,Mozambique,2683506270.92075,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MOZ,2022,Mozambique,3022175565.23802,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MOZ,2021,Mozambique,5295396105.25416,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MOZ,2020,Mozambique,3187942207.14961,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MOZ,2019,Mozambique,3379329136.13929,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MOZ,2018,Mozambique,1678061191.83106,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MMR,2024,Myanmar,1095317000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MMR,2023,Myanmar,1520172000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MMR,2022,Myanmar,1238500000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MMR,2021,Myanmar,2066606470,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MMR,2020,Myanmar,1907154040,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MMR,2019,Myanmar,1735589412.93376,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MMR,2018,Myanmar,1768195522.55912,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NAM,2024,Namibia,1934933629.43032,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NAM,2023,Namibia,2294376188.51043,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NAM,2022,Namibia,1056043502.65037,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NAM,2021,Namibia,840286915.80155,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NAM,2020,Namibia,-150172760.720263,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NAM,2019,Namibia,-176478261.583526,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NAM,2018,Namibia,234372724.533504,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NRU,2024,Nauru,-5846143.13884661,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NRU,2023,Nauru,1446294.792565,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NRU,2022,Nauru,-9015925.94529901,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NRU,2021,Nauru,6730015.57445208,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NRU,2020,Nauru,-3331098.73501151,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NRU,2019,Nauru,2189006.37794522,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NRU,2018,Nauru,7710629.36574571,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NPL,2024,Nepal,56900207.0648416,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NPL,2023,Nepal,74821496.0370769,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NPL,2022,Nepal,66059660.947571,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NPL,2021,Nepal,196326024.034829,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NPL,2020,Nepal,126626337.460302,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NPL,2019,Nepal,185563265.634425,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NPL,2018,Nepal,68261793.9439986,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NLD,2024,Netherlands,-17058018836.8683,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NLD,2023,Netherlands,-343402798888.19,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NLD,2022,Netherlands,15457596582.8886,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NLD,2021,Netherlands,-115702946625.041,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NLD,2020,Netherlands,-220886475395.815,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NLD,2019,Netherlands,-127784845859.2,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NLD,2018,Netherlands,-285034722651.706,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NCL,2024,New Caledonia,725756860,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NCL,2023,New Caledonia,687249680,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NCL,2022,New Caledonia,696307350,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NCL,2021,New Caledonia,793713550,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NCL,2020,New Caledonia,571728130,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NCL,2019,New Caledonia,723480360,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NCL,2018,New Caledonia,342821270,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NZL,2024,New Zealand,1759833655.17084,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NZL,2023,New Zealand,4394895399.0027,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NZL,2022,New Zealand,9806744153.22003,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NZL,2021,New Zealand,5304581495.29245,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NZL,2020,New Zealand,4800458072.43248,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NZL,2019,New Zealand,3074896211.8177,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NZL,2018,New Zealand,2456550920.15587,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NIC,2024,Nicaragua,1352300000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NIC,2023,Nicaragua,1113900000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NIC,2022,Nicaragua,1287100000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NIC,2021,Nicaragua,1047200000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NIC,2020,Nicaragua,746500000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NIC,2019,Nicaragua,503000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NIC,2018,Nicaragua,837600000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NER,2024,Niger,358083456.499382,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NER,2023,Niger,1025552444.43008,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NER,2022,Niger,965975261.178015,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NER,2021,Niger,594829131.824508,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NER,2020,Niger,360653574.571152,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NER,2019,Niger,717147639.398696,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NER,2018,Niger,466042272.996922,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NGA,2024,Nigeria,1080310701.18297,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NGA,2023,Nigeria,1872520530.04694,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NGA,2022,Nigeria,-186792428.930928,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NGA,2021,Nigeria,3313210000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NGA,2020,Nigeria,2385277665.91607,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NGA,2019,Nigeria,2305099811.70357,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NGA,2018,Nigeria,775247400.003029,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MKD,2024,North Macedonia,1056844273.54118,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MKD,2023,North Macedonia,641500343.167691,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MKD,2022,North Macedonia,854152514.519015,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MKD,2021,North Macedonia,696255528.136466,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MKD,2020,North Macedonia,7693779.7036069,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MKD,2019,North Macedonia,549500829.877789,BX.KLT.DINV.CD.WD,fdi_net_inflows
+MKD,2018,North Macedonia,648732424.984646,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NOR,2024,Norway,12134206004.188,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NOR,2023,Norway,13785279525.4261,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NOR,2022,Norway,14278134699.4272,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NOR,2021,Norway,18355008694.1956,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NOR,2020,Norway,-3281320956.65563,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NOR,2019,Norway,16329824317.6769,BX.KLT.DINV.CD.WD,fdi_net_inflows
+NOR,2018,Norway,-5664319361.82195,BX.KLT.DINV.CD.WD,fdi_net_inflows
+OMN,2024,Oman,12465539661.8985,BX.KLT.DINV.CD.WD,fdi_net_inflows
+OMN,2023,Oman,12545383615.0845,BX.KLT.DINV.CD.WD,fdi_net_inflows
+OMN,2022,Oman,6871781534.46033,BX.KLT.DINV.CD.WD,fdi_net_inflows
+OMN,2021,Oman,8745643693.10793,BX.KLT.DINV.CD.WD,fdi_net_inflows
+OMN,2020,Oman,1909492847.85435,BX.KLT.DINV.CD.WD,fdi_net_inflows
+OMN,2019,Oman,1998179453.83615,BX.KLT.DINV.CD.WD,fdi_net_inflows
+OMN,2018,Oman,5600780234.07022,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PAK,2024,Pakistan,2663000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PAK,2023,Pakistan,2048000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PAK,2022,Pakistan,1462000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PAK,2021,Pakistan,2147000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PAK,2020,Pakistan,2057000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PAK,2019,Pakistan,2234000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PAK,2018,Pakistan,1737000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PLW,2024,Palau,69080770,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PLW,2023,Palau,79895000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PLW,2022,Palau,74365000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PLW,2021,Palau,32082000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PLW,2020,Palau,44059000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PLW,2019,Palau,45532000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PLW,2018,Palau,50753000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PAN,2024,Panama,3240411694,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PAN,2023,Panama,2387194713.99,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PAN,2022,Panama,2466522438.3,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PAN,2021,Panama,1833062357.12,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PAN,2020,Panama,-1631797634.11,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PAN,2019,Panama,4684615504.15,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PAN,2018,Panama,4304245890.55,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PNG,2024,Papua New Guinea,-198317385.750346,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PNG,2023,Papua New Guinea,43303090.2099809,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PNG,2022,Papua New Guinea,1193266177.1021,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PNG,2021,Papua New Guinea,-34418191.65,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PNG,2020,Papua New Guinea,112992633.547177,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PNG,2019,Papua New Guinea,335572154.293926,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PNG,2018,Papua New Guinea,306641515.183538,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PRY,2024,Paraguay,1097421000.73062,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PRY,2023,Paraguay,1111730623.98132,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PRY,2022,Paraguay,855187935.971631,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PRY,2021,Paraguay,584062882.351206,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PRY,2020,Paraguay,289383009.978369,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PRY,2019,Paraguay,485530746.257602,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PRY,2018,Paraguay,316757299.336565,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PER,2024,Peru,6799395299.75657,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PER,2023,Peru,4339006806.56427,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PER,2022,Peru,11201435821.3347,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PER,2021,Peru,7142277305.62546,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PER,2020,Peru,663417504.946494,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PER,2019,Peru,4775376809.84597,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PER,2018,Peru,5872657139.17008,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PHL,2024,Philippines,9398326659.59308,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PHL,2023,Philippines,8925128471.59541,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PHL,2022,Philippines,9492234668.1091,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PHL,2021,Philippines,11983363327.4771,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PHL,2020,Philippines,6822133290.81919,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PHL,2019,Philippines,8671365873.65689,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PHL,2018,Philippines,9948598823.96867,BX.KLT.DINV.CD.WD,fdi_net_inflows
+POL,2024,Poland,20606000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+POL,2023,Poland,35660000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+POL,2022,Poland,41780000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+POL,2021,Poland,37512000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+POL,2020,Poland,20086000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+POL,2019,Poland,19012000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+POL,2018,Poland,19908000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PRT,2024,Portugal,13486433394.8596,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PRT,2023,Portugal,11585535574.2868,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PRT,2022,Portugal,13059930355.7495,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PRT,2021,Portugal,9239418034.41564,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PRT,2020,Portugal,4165618741.23914,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PRT,2019,Portugal,10814567640.9901,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PRT,2018,Portugal,8390559335.10071,BX.KLT.DINV.CD.WD,fdi_net_inflows
+QAT,2024,Qatar,460164835.164835,BX.KLT.DINV.CD.WD,fdi_net_inflows
+QAT,2023,Qatar,-474175824.175824,BX.KLT.DINV.CD.WD,fdi_net_inflows
+QAT,2022,Qatar,76098901.0989008,BX.KLT.DINV.CD.WD,fdi_net_inflows
+QAT,2021,Qatar,-1093406593.40659,BX.KLT.DINV.CD.WD,fdi_net_inflows
+QAT,2020,Qatar,-2434065934.06593,BX.KLT.DINV.CD.WD,fdi_net_inflows
+QAT,2019,Qatar,-2812637362.63736,BX.KLT.DINV.CD.WD,fdi_net_inflows
+QAT,2018,Qatar,-2186263736.26373,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ROU,2024,Romania,7159113565.92973,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ROU,2023,Romania,8708794314.55245,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ROU,2022,Romania,11477511658.9305,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ROU,2021,Romania,11768726824.985,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ROU,2020,Romania,3602418172.35715,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ROU,2019,Romania,7365441773.73218,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ROU,2018,Romania,7343560129.25216,BX.KLT.DINV.CD.WD,fdi_net_inflows
+RUS,2024,Russian Federation,-9350250000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+RUS,2023,Russian Federation,-10045120000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+RUS,2022,Russian Federation,-39800944226.9805,BX.KLT.DINV.CD.WD,fdi_net_inflows
+RUS,2021,Russian Federation,40450000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+RUS,2020,Russian Federation,9478810000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+RUS,2019,Russian Federation,31974770000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+RUS,2018,Russian Federation,8784850000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+RWA,2024,Rwanda,572929300.014102,BX.KLT.DINV.CD.WD,fdi_net_inflows
+RWA,2023,Rwanda,457644003.006828,BX.KLT.DINV.CD.WD,fdi_net_inflows
+RWA,2022,Rwanda,305101863.38,BX.KLT.DINV.CD.WD,fdi_net_inflows
+RWA,2021,Rwanda,233384938.77,BX.KLT.DINV.CD.WD,fdi_net_inflows
+RWA,2020,Rwanda,152614120.95,BX.KLT.DINV.CD.WD,fdi_net_inflows
+RWA,2019,Rwanda,263172335.23,BX.KLT.DINV.CD.WD,fdi_net_inflows
+RWA,2018,Rwanda,366192315.50624,BX.KLT.DINV.CD.WD,fdi_net_inflows
+WSM,2024,Samoa,3741016.49935468,BX.KLT.DINV.CD.WD,fdi_net_inflows
+WSM,2023,Samoa,2395914.97600409,BX.KLT.DINV.CD.WD,fdi_net_inflows
+WSM,2022,Samoa,4800455.4647742,BX.KLT.DINV.CD.WD,fdi_net_inflows
+WSM,2021,Samoa,8948924.65459641,BX.KLT.DINV.CD.WD,fdi_net_inflows
+WSM,2020,Samoa,4426082.01552919,BX.KLT.DINV.CD.WD,fdi_net_inflows
+WSM,2019,Samoa,-2178815.55211665,BX.KLT.DINV.CD.WD,fdi_net_inflows
+WSM,2018,Samoa,16713450.8645979,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SMR,2023,San Marino,-18112873.5752826,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SMR,2022,San Marino,71867929.5595936,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SMR,2021,San Marino,125318432.294571,BX.KLT.DINV.CD.WD,fdi_net_inflows
+STP,2024,Sao Tome and Principe,-16681873.0789849,BX.KLT.DINV.CD.WD,fdi_net_inflows
+STP,2023,Sao Tome and Principe,-25799601.0965511,BX.KLT.DINV.CD.WD,fdi_net_inflows
+STP,2022,Sao Tome and Principe,55605987.5124977,BX.KLT.DINV.CD.WD,fdi_net_inflows
+STP,2021,Sao Tome and Principe,59000132.7402932,BX.KLT.DINV.CD.WD,fdi_net_inflows
+STP,2020,Sao Tome and Principe,47112184.7725813,BX.KLT.DINV.CD.WD,fdi_net_inflows
+STP,2019,Sao Tome and Principe,24191799.5128287,BX.KLT.DINV.CD.WD,fdi_net_inflows
+STP,2018,Sao Tome and Principe,23698321.4864449,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SAU,2024,Saudi Arabia,21337562069.6656,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SAU,2023,Saudi Arabia,22803498160.5828,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SAU,2022,Saudi Arabia,26710062133.3333,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SAU,2021,Saudi Arabia,28350373333.3333,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SAU,2020,Saudi Arabia,1621264195.43532,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SAU,2019,Saudi Arabia,3079217251.32355,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SAU,2018,Saudi Arabia,12141122232.9039,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SEN,2024,Senegal,2016428880,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SEN,2023,Senegal,4789996739.26742,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SEN,2022,Senegal,2928675555.20778,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SEN,2021,Senegal,2588127208.45378,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SEN,2020,Senegal,1845665272.73822,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SEN,2019,Senegal,1065461344.07465,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SEN,2018,Senegal,847841574.790215,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SRB,2024,Serbia,5587596147.57206,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SRB,2023,Serbia,4937541972.22336,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SRB,2022,Serbia,4612248811.51068,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SRB,2021,Serbia,4600176721.12403,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SRB,2020,Serbia,3485786682.97844,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SRB,2019,Serbia,4268709249.60984,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SRB,2018,Serbia,4071895067.82105,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SYC,2024,Seychelles,226134114.454496,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SYC,2023,Seychelles,239706294.201897,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SYC,2022,Seychelles,189827389.279515,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SYC,2021,Seychelles,111955764.374216,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SYC,2020,Seychelles,80053481.4058233,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SYC,2019,Seychelles,257086351.804392,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SYC,2018,Seychelles,305172393.791332,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLE,2024,Sierra Leone,121785333.781549,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLE,2023,Sierra Leone,145910237.670517,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLE,2022,Sierra Leone,145000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLE,2021,Sierra Leone,214000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLE,2020,Sierra Leone,51000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLE,2019,Sierra Leone,121782194.444714,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLE,2018,Sierra Leone,185646292.276508,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SGP,2024,Singapore,135077157183.126,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SGP,2023,Singapore,125786783506.69,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SGP,2022,Singapore,144147823984.526,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SGP,2021,Singapore,142313339701.522,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SGP,2020,Singapore,79322385229.1189,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SGP,2019,Singapore,106174185547.865,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SGP,2018,Singapore,86126491248.6639,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SXM,2024,Sint Maarten (Dutch part),37113740,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SXM,2023,Sint Maarten (Dutch part),45267218.4134078,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SXM,2022,Sint Maarten (Dutch part),17081418.575419,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SXM,2021,Sint Maarten (Dutch part),26815119.6089385,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SXM,2020,Sint Maarten (Dutch part),22167460.0446927,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SXM,2019,Sint Maarten (Dutch part),73868338.1005587,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SXM,2018,Sint Maarten (Dutch part),-47915083.4748603,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SVK,2024,Slovak Republic,5010258031.63869,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SVK,2023,Slovak Republic,526114297.449295,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SVK,2022,Slovak Republic,4827084865.74814,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SVK,2021,Slovak Republic,2719672546.6337,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SVK,2020,Slovak Republic,-1141703441.49018,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SVK,2019,Slovak Republic,2279811254.28143,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SVK,2018,Slovak Republic,2252379829.31736,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SVN,2024,Slovenia,1867182324.38168,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SVN,2023,Slovenia,1447634542.25338,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SVN,2022,Slovenia,2180392923.46605,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SVN,2021,Slovenia,2219247755.80674,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SVN,2020,Slovenia,506269486.820005,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SVN,2019,Slovenia,2151537534.12248,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SVN,2018,Slovenia,1538137615.35452,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLB,2024,Solomon Islands,32966760.5535094,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLB,2023,Solomon Islands,78895436.2399953,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLB,2022,Solomon Islands,40718832.6899573,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLB,2021,Solomon Islands,27919072.2390487,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLB,2020,Solomon Islands,8980046.94191946,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLB,2019,Solomon Islands,32787092.7202953,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SLB,2018,Solomon Islands,24992541.5163262,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SOM,2024,"Somalia, Fed. Rep.",765000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SOM,2023,"Somalia, Fed. Rep.",676500000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SOM,2022,"Somalia, Fed. Rep.",636000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SOM,2021,"Somalia, Fed. Rep.",601000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SOM,2020,"Somalia, Fed. Rep.",534000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SOM,2019,"Somalia, Fed. Rep.",447000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SOM,2018,"Somalia, Fed. Rep.",408000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZAF,2024,South Africa,2330218039.32031,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZAF,2023,South Africa,3862994369.64947,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZAF,2022,South Africa,9238990828.45042,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZAF,2021,South Africa,40658789144.9382,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZAF,2020,South Africa,3153552569.39324,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZAF,2019,South Africa,5116098443.48715,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZAF,2018,South Africa,5569462350.15206,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SSD,2024,South Sudan,83417020,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SSD,2023,South Sudan,-6335000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SSD,2022,South Sudan,121500000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SSD,2021,South Sudan,67500000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SSD,2020,South Sudan,17500000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SSD,2019,South Sudan,-2210000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SSD,2018,South Sudan,60140000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ESP,2024,Spain,42778827261.0579,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ESP,2023,Spain,46961991977.1583,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ESP,2022,Spain,67459796903.6798,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ESP,2021,Spain,64626902393.5776,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ESP,2020,Spain,37683095972.4205,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ESP,2019,Spain,30322872791.4496,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ESP,2018,Spain,63958429156.7585,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LKA,2024,Sri Lanka,761144545.734856,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LKA,2023,Sri Lanka,713015364.59864,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LKA,2022,Sri Lanka,884150491.430207,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LKA,2021,Sri Lanka,592289969.90297,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LKA,2020,Sri Lanka,434075668.46642,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LKA,2019,Sri Lanka,743466231.468031,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LKA,2018,Sri Lanka,1614044009.22883,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KNA,2024,St. Kitts and Nevis,42084863.7037037,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KNA,2023,St. Kitts and Nevis,29833142.5925925,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KNA,2022,St. Kitts and Nevis,41091854.4444444,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KNA,2021,St. Kitts and Nevis,19191295.5555555,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KNA,2020,St. Kitts and Nevis,2838722.96296296,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KNA,2019,St. Kitts and Nevis,62459225.9259259,BX.KLT.DINV.CD.WD,fdi_net_inflows
+KNA,2018,St. Kitts and Nevis,40051767.037037,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LCA,2024,St. Lucia,186610180.74074,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LCA,2023,St. Lucia,203075681.111111,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LCA,2022,St. Lucia,58043440.7407407,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LCA,2021,St. Lucia,70224234.4444444,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LCA,2020,St. Lucia,99135484.8148148,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LCA,2019,St. Lucia,75509997.7777777,BX.KLT.DINV.CD.WD,fdi_net_inflows
+LCA,2018,St. Lucia,45522200.8444974,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VCT,2024,St. Vincent and the Grenadines,138934684.814814,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VCT,2023,St. Vincent and the Grenadines,73835578.8888888,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VCT,2022,St. Vincent and the Grenadines,65238462.9629629,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VCT,2021,St. Vincent and the Grenadines,167885445.555555,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VCT,2020,St. Vincent and the Grenadines,65244280.3703703,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VCT,2019,St. Vincent and the Grenadines,68838376.2962963,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VCT,2018,St. Vincent and the Grenadines,40008167.534307,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SDN,2023,Sudan,548200000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SDN,2022,Sudan,573504494.776,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SDN,2021,Sudan,522869616.855921,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SDN,2020,Sudan,716939710.59488,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SDN,2019,Sudan,825354992.310273,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SDN,2018,Sudan,1135787164.04941,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SUR,2024,Suriname,-37555190.3524557,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SUR,2023,Suriname,-53096300.2393143,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SUR,2022,Suriname,-9305315.36959886,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SUR,2021,Suriname,-132705617.4897,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SUR,2020,Suriname,1039899.7054992,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SUR,2019,Suriname,84160363.8257407,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SUR,2018,Suriname,130960766.326423,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SWE,2024,Sweden,27034877940.548,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SWE,2023,Sweden,18673173170.72,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SWE,2022,Sweden,53782285500.4412,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SWE,2021,Sweden,57981119709.6784,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SWE,2020,Sweden,18307766875.476,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SWE,2019,Sweden,15692851350.2202,BX.KLT.DINV.CD.WD,fdi_net_inflows
+SWE,2018,Sweden,-714153381.400277,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHE,2024,Switzerland,-108395568633.839,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHE,2023,Switzerland,-115458607844.803,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHE,2022,Switzerland,-12414047154.6242,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHE,2021,Switzerland,-120778435587.715,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHE,2020,Switzerland,-238563810399.583,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHE,2019,Switzerland,22355117767.168,BX.KLT.DINV.CD.WD,fdi_net_inflows
+CHE,2018,Switzerland,-161796242279.339,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TJK,2024,Tajikistan,291312572.578438,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TJK,2023,Tajikistan,140579836.626079,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TJK,2022,Tajikistan,174022240.52391,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TJK,2021,Tajikistan,84038181.4649617,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TJK,2020,Tajikistan,106534792.807916,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TJK,2019,Tajikistan,212809730.699296,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TJK,2018,Tajikistan,220862232.3377,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TZA,2024,Tanzania,1717575169.471,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TZA,2023,Tanzania,1648913856.30485,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TZA,2022,Tanzania,1437575169.471,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TZA,2021,Tanzania,1190507398.784,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TZA,2020,Tanzania,943765261.692,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TZA,2019,Tanzania,1217235252.41973,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TZA,2018,Tanzania,971576866.042756,BX.KLT.DINV.CD.WD,fdi_net_inflows
+THA,2024,Thailand,14302158846.415,BX.KLT.DINV.CD.WD,fdi_net_inflows
+THA,2023,Thailand,10327587425.687,BX.KLT.DINV.CD.WD,fdi_net_inflows
+THA,2022,Thailand,11854822037.8762,BX.KLT.DINV.CD.WD,fdi_net_inflows
+THA,2021,Thailand,15389597696.242,BX.KLT.DINV.CD.WD,fdi_net_inflows
+THA,2020,Thailand,-4293910676.95961,BX.KLT.DINV.CD.WD,fdi_net_inflows
+THA,2019,Thailand,5534140214.60468,BX.KLT.DINV.CD.WD,fdi_net_inflows
+THA,2018,Thailand,13747219811.1792,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TLS,2024,Timor-Leste,225465667.670416,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TLS,2023,Timor-Leste,122186169.249457,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TLS,2022,Timor-Leste,53663376.0160201,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TLS,2021,Timor-Leste,-239021184.526346,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TLS,2020,Timor-Leste,-350458946.391372,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TLS,2019,Timor-Leste,-158426602.364189,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TLS,2018,Timor-Leste,47925664.570816,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TGO,2024,Togo,83754750,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TGO,2023,Togo,79736910,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TGO,2022,Togo,-173300710,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TGO,2021,Togo,-136221500,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TGO,2020,Togo,-59206820.0004109,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TGO,2019,Togo,345697546.971432,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TGO,2018,Togo,-180972714.795729,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TON,2024,Tonga,-12079633.359431,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TON,2023,Tonga,2622141.7789236,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TON,2022,Tonga,2911551.97014838,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TON,2021,Tonga,258487.567441336,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TON,2020,Tonga,3824444.91119021,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TON,2019,Tonga,-6108376.82484508,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TON,2018,Tonga,23210808.8977196,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TTO,2024,Trinidad and Tobago,-453157051.59894,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TTO,2023,Trinidad and Tobago,-1498430153.06408,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TTO,2022,Trinidad and Tobago,1172466106.04211,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TTO,2021,Trinidad and Tobago,-934781798.364976,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TTO,2020,Trinidad and Tobago,1055969147.72389,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TTO,2019,Trinidad and Tobago,183972765.263861,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TTO,2018,Trinidad and Tobago,-700185701.199984,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUN,2024,Tunisia,759601641.198674,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUN,2023,Tunisia,705491409.559272,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUN,2022,Tunisia,643213141.17869,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUN,2021,Tunisia,547411353.644915,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUN,2020,Tunisia,623075275.921852,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUN,2019,Tunisia,815012991.372017,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUN,2018,Tunisia,991385678.114219,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUR,2024,Turkiye,11698000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUR,2023,Turkiye,10657000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUR,2022,Turkiye,13784000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUR,2021,Turkiye,12674000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUR,2020,Turkiye,7522000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUR,2019,Turkiye,9507000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUR,2018,Turkiye,12450000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TKM,2024,Turkmenistan,1644770160,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TKM,2023,Turkmenistan,1378312080,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TKM,2022,Turkmenistan,936039710,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TKM,2021,Turkmenistan,1287334690,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TKM,2020,Turkmenistan,1436241800,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TKM,2019,Turkmenistan,1853632130,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TKM,2018,Turkmenistan,1606640190,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TCA,2024,Turks and Caicos Islands,43999760,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TCA,2023,Turks and Caicos Islands,32659570,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TCA,2022,Turks and Caicos Islands,35000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TCA,2021,Turks and Caicos Islands,28690280,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TCA,2020,Turks and Caicos Islands,30418890,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TCA,2019,Turks and Caicos Islands,26961670,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TCA,2018,Turks and Caicos Islands,42227000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUV,2024,Tuvalu,258080,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUV,2023,Tuvalu,166290,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUV,2022,Tuvalu,199430,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUV,2021,Tuvalu,199430,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUV,2020,Tuvalu,100000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUV,2019,Tuvalu,298860,BX.KLT.DINV.CD.WD,fdi_net_inflows
+TUV,2018,Tuvalu,298860,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UGA,2024,Uganda,3257198201.79845,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UGA,2023,Uganda,2993518989,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UGA,2022,Uganda,2952941687.83427,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UGA,2021,Uganda,1648240262.6506,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UGA,2020,Uganda,1191485423.71975,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UGA,2019,Uganda,1303005005.33932,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UGA,2018,Uganda,1055353352.63033,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UKR,2024,Ukraine,4018000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UKR,2023,Ukraine,4572000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UKR,2022,Ukraine,221000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UKR,2021,Ukraine,7954000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UKR,2020,Ukraine,304000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UKR,2019,Ukraine,5796000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UKR,2018,Ukraine,4975000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARE,2024,United Arab Emirates,45636487406.3989,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARE,2023,United Arab Emirates,30687542545.9496,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARE,2022,United Arab Emirates,22736555480,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARE,2021,United Arab Emirates,20667120000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARE,2020,United Arab Emirates,19884470000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARE,2019,United Arab Emirates,17874660000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ARE,2018,United Arab Emirates,10385286000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GBR,2024,United Kingdom,-12955141484.5037,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GBR,2023,United Kingdom,13789803776.1608,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GBR,2022,United Kingdom,92776358059.3492,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GBR,2021,United Kingdom,102431564639.492,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GBR,2020,United Kingdom,157185559299.989,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GBR,2019,United Kingdom,19790761929.1276,BX.KLT.DINV.CD.WD,fdi_net_inflows
+GBR,2018,United Kingdom,-25055440306.9073,BX.KLT.DINV.CD.WD,fdi_net_inflows
+USA,2024,United States,297058000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+USA,2023,United States,361944000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+USA,2022,United States,416890000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+USA,2021,United States,477956000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+USA,2020,United States,137066000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+USA,2019,United States,315984000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+USA,2018,United States,214715000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+URY,2024,Uruguay,-3936668278.41077,BX.KLT.DINV.CD.WD,fdi_net_inflows
+URY,2023,Uruguay,-5248090937.05745,BX.KLT.DINV.CD.WD,fdi_net_inflows
+URY,2022,Uruguay,8810431894.6504,BX.KLT.DINV.CD.WD,fdi_net_inflows
+URY,2021,Uruguay,5165277108.36511,BX.KLT.DINV.CD.WD,fdi_net_inflows
+URY,2020,Uruguay,973445343.93392,BX.KLT.DINV.CD.WD,fdi_net_inflows
+URY,2019,Uruguay,1466600721.56301,BX.KLT.DINV.CD.WD,fdi_net_inflows
+URY,2018,Uruguay,1726550037.27184,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UZB,2024,Uzbekistan,2985959445.03231,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UZB,2023,Uzbekistan,2156350918.89039,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UZB,2022,Uzbekistan,2657356365.09623,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UZB,2021,Uzbekistan,2280290469.82797,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UZB,2020,Uzbekistan,1728247827.58199,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UZB,2019,Uzbekistan,2316482962.28621,BX.KLT.DINV.CD.WD,fdi_net_inflows
+UZB,2018,Uzbekistan,624686535.504395,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VUT,2024,Vanuatu,28862040,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VUT,2023,Vanuatu,9268550,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VUT,2022,Vanuatu,10694983.2150241,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VUT,2021,Vanuatu,43055519.3446168,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VUT,2020,Vanuatu,41158955.8450913,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VUT,2019,Vanuatu,52849932.2026135,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VUT,2018,Vanuatu,37583468.4179765,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VEN,2024,"Venezuela, RB",1632583330,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VEN,2023,"Venezuela, RB",13000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VEN,2022,"Venezuela, RB",2349000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VEN,2021,"Venezuela, RB",1213000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VEN,2020,"Venezuela, RB",1504000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VEN,2019,"Venezuela, RB",564000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VEN,2018,"Venezuela, RB",622000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VNM,2024,Viet Nam,20170000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VNM,2023,Viet Nam,18500000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VNM,2022,Viet Nam,17900000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VNM,2021,Viet Nam,15660000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VNM,2020,Viet Nam,15800000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VNM,2019,Viet Nam,16120000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+VNM,2018,Viet Nam,15500000000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PSE,2024,West Bank and Gaza,162176714.137186,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PSE,2023,West Bank and Gaza,103535363.986695,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PSE,2022,West Bank and Gaza,310825494.481581,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PSE,2021,West Bank and Gaza,353477054.949858,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PSE,2020,West Bank and Gaza,79744992.3247409,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PSE,2019,West Bank and Gaza,131879984.168895,BX.KLT.DINV.CD.WD,fdi_net_inflows
+PSE,2018,West Bank and Gaza,210694555.545304,BX.KLT.DINV.CD.WD,fdi_net_inflows
+YEM,2019,"Yemen, Rep.",-370982780,BX.KLT.DINV.CD.WD,fdi_net_inflows
+YEM,2018,"Yemen, Rep.",-282098330,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZMB,2024,Zambia,2359364621.18767,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZMB,2023,Zambia,641091890.665879,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZMB,2022,Zambia,-65118862.8223029,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZMB,2021,Zambia,394217415.177069,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZMB,2020,Zambia,245205491.395466,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZMB,2019,Zambia,547967909.612401,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZMB,2018,Zambia,408438491.702336,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZWE,2024,Zimbabwe,465433000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZWE,2023,Zimbabwe,604196000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZWE,2022,Zimbabwe,336761000,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZWE,2021,Zimbabwe,237480367.76,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZWE,2020,Zimbabwe,150461768.075241,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZWE,2019,Zimbabwe,249673369.8045,BX.KLT.DINV.CD.WD,fdi_net_inflows
+ZWE,2018,Zimbabwe,413857379.43885,BX.KLT.DINV.CD.WD,fdi_net_inflows

@@ -47,7 +47,7 @@ def test_phase6_schema_and_column_groups_contract(phase5_results):
         "iapp_modelo_gobernanza",
     }
     assert len(groups["candidate_numeric_model_features"]) > 0
-    assert "split" in groups["split_cols"]
+    assert "split_cols" not in groups
 
 
 def test_phase6_modeling_contract_is_machine_readable(phase5_results):
@@ -57,7 +57,7 @@ def test_phase6_modeling_contract_is_machine_readable(phase5_results):
     assert contract["contract"]["grain"] == "country_iso3"
     assert contract["contract"]["primary_key"] == "iso3"
     assert contract["contract"]["n_rows"] == 43
-    assert contract["contract"]["n_columns"] >= 138
+    assert contract["contract"]["n_columns"] >= 137
     assert contract["contract"]["n_observed_core_variables"] == 46
     assert contract["contract"]["no_imputation"] is True
     assert "Q1" in contract["questions"]

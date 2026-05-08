@@ -1,102 +1,50 @@
 {
-  "phase6_run_id": "phase6_3fa8e293_20260507T161731",
-  "version": "0.4",
-  "created_at": "2026-05-07T16:17:31.177721+00:00",
-  "git_sha": "3fa8e293fe4e268c7f4a3aca534a9ea40df1e63d",
-  "seed": 42,
-  "n_bootstrap": 2000,
-  "fdr_method": "benjamini_hochberg",
-  "fdr_alpha": 0.05,
-  "n_subpreguntas": 6,
-  "outputs": {
-    "q1_consistency.csv": {
-      "sha256": "d0e556b5c2d51076549859967a230a215650f05eb44be5a08d5153d4d2699a84",
-      "bytes": 320
-    },
-    "q1_psm_balance_diagnostics.csv": {
-      "sha256": "b0687b55bc1ca0be7bdd484ed3905e0e4df3e89b308f6dbb6799545052ecf2f5",
-      "bytes": 1028
-    },
-    "q1_psm_matched_pairs.csv": {
-      "sha256": "22b7362842d1884897e1ceee49fe48bfbfc5e509c20d23c3f212421f301e17d1",
-      "bytes": 68
-    },
-    "q1_results.csv": {
-      "sha256": "4b078d6d816538fbc48f332dcb5a2a5d36b0558c28a305fa822e78648166a324",
-      "bytes": 59915
-    },
-    "q2_predictions_per_country.csv": {
-      "sha256": "49afe1b47827b96eeab157995545476851bdc84f4d5455f4d8f4d455628737c6",
-      "bytes": 17743
-    },
-    "q2_results.csv": {
-      "sha256": "db845a66ac1a1d7efb2f3c15458702bc6f25998f9a9bc7f57f651a92dbab18a4",
-      "bytes": 27480
-    },
-    "q3_consistency.csv": {
-      "sha256": "e384e8a1e0e7b41d4224e9fc18ab491439c76d092dcb37366b7289d956e6949f",
-      "bytes": 461
-    },
-    "q3_results.csv": {
-      "sha256": "a205b2a120ed9db03424e25b415af213e9742d27c9df4e65e66632e0019c5cb6",
-      "bytes": 71519
-    },
-    "q4_centroids.csv": {
-      "sha256": "4dee37c502eed2f41235e62a026e48e77922de86639f6015d783b01d62118927",
-      "bytes": 1638
-    },
-    "q4_clusters.csv": {
-      "sha256": "7bb70cf83c6b6204756ab7d0d82398666480f9353638baafa6473f0745638f34",
-      "bytes": 2154
-    },
-    "q4_distance_matrix_n18.csv": {
-      "sha256": "83bac6bd8f0e24fbd4cd468cadf89acb9ec045a5f410f0b551ba5d95b783ba55",
-      "bytes": 5210
-    },
-    "q4_distance_matrix_n43.csv": {
-      "sha256": "c6d82938f5fd44e183ea67bf81dc4329bc77d624a68cbca4d674532e3ed24ddc",
-      "bytes": 49092
-    },
-    "q4_silhouette_scores.csv": {
-      "sha256": "20cd35c3c6e7a061e0fadadc0b560b959da294ba4869f8c7c1e04693d7646de8",
-      "bytes": 207
-    },
-    "q5_consistency.csv": {
-      "sha256": "cef5115c1868af8a68428c3b0ac85e403838a85a2d3bff688c1c5ef1e1d38cd8",
-      "bytes": 329
-    },
-    "q5_predictions_per_country.csv": {
-      "sha256": "49e0da83ebd2a5537c85633138a92a691a4ee709d06919d72435f65f814da437",
-      "bytes": 7761
-    },
-    "q5_results.csv": {
-      "sha256": "b24a3f9a79c44784df21bbf5fac9c882d95a1df67a9eed9bbabd28e9f588858a",
-      "bytes": 18483
-    },
-    "q6_consistency.csv": {
-      "sha256": "a8bf281837ef911fb0fdbe290428c4b479d0a8bf62d6f0c8660d9acbc3774f22",
-      "bytes": 248
-    },
-    "q6_predictions_per_country.csv": {
-      "sha256": "9091422c910c0d70f44abb1057c719ab1cd1a9ed408da4239936f133d3c6dd31",
-      "bytes": 17707
-    },
-    "q6_results.csv": {
-      "sha256": "71aeb8eacde3ea744686fcd743336bbd81d2e44e8136d0523b7fbe063542a5d2",
-      "bytes": 39350
-    }
+  "fase6_version": "2.1+",
+  "created_at": "2026-05-08T09:32:16.644887+00:00",
+  "methodology_version": "mvp-v0.2-methodology-correction-plus",
+  "methodology": "inferential_comparative_observational",
+  "primary_estimand": "adjusted_association",
+  "analysis_scope": "full_preregistered_sample_available_by_outcome",
+  "validation_scope": "internal_resampling_not_external_test",
+  "analysis_sample_n": 43,
+  "holdout_used": false,
+  "train_test_split_used": false,
+  "external_validation_used": false,
+  "split_column_present": false,
+  "phase6_train_test_split_present": false,
+  "q2_q5_q6_primary_model_policy": "continuous_or_fractional_primary_binary_median_sensitivity_only",
+  "bootstrap_policy": {
+    "n_resamples_default": 2000,
+    "ci_method_preferred": "BCa",
+    "fallback": "percentile_logged"
   },
-  "decisions_log": [
-    "F6-A: Q4 → Q1 → Q3 → Q2 → Q5 → Q6 → manifest",
-    "F6-B: bootstrap-OLS principal, PSM exploratorio caliper 0.20",
-    "F6-C: Q3 dual primary + auxiliary Stanford",
-    "F6-D: 5×10 fold + bootstrap 2000 + LOOCV",
-    "F6-E: separate Y models + consistency table + FDR",
-    "F6-F: hyperparams fixed, no GridSearch",
-    "F6-G: Q4 N=43 oficial Gower + N=18 complementario Jaccard",
-    "F6-I: lenguaje 'asociación' por defecto",
-    "F6-K: Q6 expandida con 6 vars Fase 5",
-    "F6-L: PCA fuera de scope (Fase 4 cubre análisis exploratorio)",
-    "F6-M: Q2/Q5/Q6 reuso Y"
-  ]
+  "loocv_policy": {
+    "auc_loocv_used": false,
+    "r2_loocv_used": false,
+    "reason": "undefined_for_single_observation_test_folds"
+  },
+  "language_policy": {
+    "causal_claim": false,
+    "independent_prediction_claim": false,
+    "external_validation_claim": false
+  },
+  "outputs": {
+    "q1_results.csv": "adjusted_associations",
+    "q2_results.csv": "continuous_or_fractional_adjusted_associations",
+    "q2_scores_per_country.csv": "in_sample_descriptive_positioning",
+    "q3_results.csv": "adjusted_associations",
+    "q4_clusters.csv": "descriptive_typology",
+    "q5_results.csv": "continuous_or_fractional_adjusted_associations",
+    "q5_scores_per_country.csv": "in_sample_descriptive_positioning",
+    "q6_results.csv": "continuous_score_adjusted_associations",
+    "q6_scores_per_country.csv": "in_sample_descriptive_positioning"
+  },
+  "run_metadata": {
+    "q1_rows": 12,
+    "q2_rows": 29,
+    "q3_rows": 6,
+    "q4_countries": 18,
+    "q5_rows": 18,
+    "q6_rows": 36
+  }
 }

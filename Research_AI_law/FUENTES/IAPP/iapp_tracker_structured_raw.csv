@@ -1,0 +1,2226 @@
+jurisdiction_iapp,policy_text,authorities_text,other_laws_text,context_text,pages,page_count,page_start,page_end,source,source_date
+Argentina,"Argentina has developed a National AI Plan to
+help facilitate the use and development of AI in
+the country.
+Under Resolution 2/2023, Argentina released
+recommendations for trustworthy and reliable AI
+directed at the public sector. Argentina's Public
+Information Access Agency released a Guide to
+Responsible AI. This document focuses primarily
+on four points: ""Definition and Characteristics of
+AI,"" ""Problems and Challenges of AI,"" ""Principles
+of Transparency and Personal Data Protection,""
+and ""Recommendations for Transparency and
+Data Protection in the Lifecycle of AI.""
+In August 2024, Argentina’s congress started
+debating legislation (Bill 3003-D-2024) to regulate
+the use of AI. It is modeled in the spirit of the
+EU AI Act, which uses a risk-based approach to
+define obligations for providers and deployers of
+AI-based systems while also heeding Argentina’s
+specific interest in AI innovation.
+In August 2025, the Bill on Personal Data
+Protection in Artificial Intelligence Systems (Bill
+4243-D-2025) was introduced, aimed at regulating
+the processing of personal data within Argentina
+by entities developing or deploying AI systems,
+regardless of the operator’s location.","J National Big Data
+Observatory
+J Secretariat of Innovation,
+Science and Technology
+J Undersecretariat
+of Information and
+Communication
+Technologies
+J Agency of Access to Public
+Information
+J National Securities
+Commission
+J National Cybersecurity
+Directorate","J Federal Plan for the Prevention
+of Cybercrime and Strategic
+Management of Cybersecurity
+(2025-2027) [IN FORCE]
+J Personal Data Protection
+Law [IN FORCE]
+J Law 27699 for the Protection
+of Individuals with respect
+to Automatic Processing of
+Personal Data [IN FORCE]
+J Central Bank Communication
+A 7724 [IN FORCE]
+J Provision 18/2015 Guide to
+Good Privacy Practices for
+Application Development
+[IN FORCE]","• Argentina is a party to the Organization for
+Economic Co-operation and Development's AI
+principles. See OECD AI principles and adherents.
+• Argentina adopted UNESCO's Recommendation
+on the Ethics of AI.
+• See Argentina's Digital Agenda 2030.
+• See Argentina's Fintech Innovation Hub.
+• Argentina's data protection authority, the
+Agency of Access to Public Information,
+published Resolution No. 161/23, which
+created the Transparency and Protection
+of Personal Data Program in the use of AI.
+• The president's chief of staff also issued
+Administrative Decision No. 750/2023, creating
+the Interministerial Roundtable on AI.
+• Argentina was the only G20 nation not to sign
+onto the Statement on Regulation of AI.
+• Argentina aims to position itself as a regional AI
+hub, including plans to expand nuclear power
+generation to meet the energy demands of new
+AI data centers.
+• Argentina endorsed a joint statement on data
+scraping and the protection of privacy with
+Canada..",4,1,4,4,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Australia,"Australia is developing an Australian-first AI
+plan to boost capability with the aim of growing
+investment, strengthening AI capabilities, boosting
+AI skills and securing economic resilience.
+In 2025, the Competition and Consumer
+Commission published a final report in its Digital
+Platforms Services Inquiry, examining generative
+AI impacts on competition and the marketplace.
+Additionally, the Productivity Commission issued a
+report warning against over-regulation of AI.
+In 2024, the Australian Department of Industry,
+Science and Resources released the Voluntary
+AI Safety Standard. This standard builds on the
+2023 discussion paper ""Safe and Responsible AI
+in Australia"" to support and promote consistency
+among best practices when developing AI.
+While not mandatory, the standard consists of
+10 guardrails, including testing, transparency
+and accountability requirements. In addition,
+the department published a proposal paper
+for introducing mandatory guardrails for AI in
+high-risk settings, seeking public feedback on
+guidelines that would address risk and harm
+from AI, build public trust and provide greater
+regulatory certainty.
+Australia's Digital Transformation Agency
+released its policy for the responsible use of AI
+in government in 2024. In this document, the
+government recognizes the potential benefits of AI
+and notes that the public expects the government
+to use AI safely and responsibly. According to
+the policy, government agencies must adopt
+several governance measures, such as naming an
+accountable official.
+Australia released the AI Impact Navigator, a
+framework for companies to assess and measure
+impact and outcomes of their AI systems.
+Moreover, the Information Commissioner
+published guidance on privacy and developing
+generative AI models.
+In November 2024, Australia released a committee
+report, recommending ""new, whole-of-economy,
+dedicated legislation to regulate high-risk uses of
+AI"" that would mandate guardrails and ""establish a
+monitoring and enforcement regime overseen by
+an independent AI regulator.""
+Australia amended its Privacy Act, which now
+requires that organizations disclose when
+automated decisions are made. See the IAPP's
+article on the new privacy reform's top operational
+impacts.","J Department of Industry,
+Science and Resources
+J Commonwealth Scientific
+and Industrial Research
+Organisation
+J Office of the eSafety
+Commissioner
+J Office of the Australian
+Information Commissioner
+J Competition and
+Consumer Commission
+J National AI Centre's
+Responsible AI Network
+J National Science and
+Technology Council","J Patents Act [IN FORCE]
+J Copyright Act [IN FORCE]
+J Privacy Act [IN FORCE]
+J Data Availability and
+Transparency Act [IN FORCE]
+J Consumer Data Right
+[IN FORCE]
+J Competition and
+Consumer Act [IN FORCE]
+J Compliance and Enforcement
+Policy for the Consumer
+Data Right
+Australia was one of the first
+countries in the world to adopt AI
+ethics principles, which include a
+robust ethics framework:
+• Developing the AI Ethics
+Principles
+• AI Ethics Principles","• Australia is a party to the OECD's AI principles.
+See OECD AI principles and adherents.
+• Australia participated in the 2023 U.K. AI
+Summit, which led to the Bletchley Declaration.
+• Australia adopted UNESCO's Recommendation
+on the Ethics of AI.
+• See the Digital Transformation Agency's 2025-
+26 Corporate Plan.
+• The government announced an advisory body of
+industry and academic experts to help it devise
+guardrails for ""high risk"" AI applications.
+• The Human Technology Institute at the
+University of Technology Sydney released The
+State of AI Governance in Australia.
+• See the National Science and Technology
+Council's Rapid Response Information Report
+on Generative AI.
+• In March 2020, the government released the
+AI Standards Roadmap: Making Australia's
+Voice Heard. Developed by Standards Australia
+and commissioned by the Department of
+Industry, Science, Energy and Resources,
+the Roadmap's primary goals include
+ensuring Australia’s influence global AI
+standards, increasing Australia’s international
+competitiveness regarding responsible AI, and
+growing Australia’s capacity for developing AI
+best practices.
+• Australia banned DeepSeek on all federal
+government devices.
+• Australia and Singapore signed a memorandum
+of understanding to deepen cooperation on AI.
+• Australia signed the AI Action Summit joint
+Statement on Inclusive and Sustainable Artificial
+Intelligence for People and the Planet.
+• Australia's Privacy Commissioner signed
+a joint statement on building trustworthy
+data governance frameworks to encourage
+the development of innovative and privacy-
+protective AI.
+• Australia's Information Commissioner gave
+a speech in February 2025, emphasizing
+transparency, regulatory cohesion and
+regulatory effectiveness in governing AI.
+• Australia endorsed a joint statement on data
+scraping and the protection of privacy with
+Canada.
+• The Department of Industry, Science and
+Resources released an AI policy guide and
+template for organizations.",5|6,2,5,6,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Bangladesh,"Bangladesh is looking to advance its AI policies
+and has published a National AI Strategy for
+2019-2024. The strategy includes:
+• Developing a strategy and development
+roadmap.
+• Overcoming challenges to the use of AI.
+• Leveraging AI for social and economic growth,
+and more.
+The Information and Communication Technology
+Division published a National AI Policy 2024, which
+envisions establishing Bangladesh as a pioneer in
+AI innovation and adoption.","J Information and
+Communication
+Technology Division","J Cyber Security Act [IN FORCE]
+J Constitution of the People's
+Republic of Bangladesh
+[IN FORCE]
+J Right to Information Act
+[IN FORCE]
+J Copyright Act [IN FORCE]
+J Telecommunications Act
+[IN FORCE]
+J Information and
+Communications Technology
+Act [IN FORCE]
+J Personal Data Protection
+Ordinance [IN FORCE]","• Bangladesh adopted UNESCO's
+Recommendation on the Ethics of AI.
+• See Digital Bangladesh Concept Note.",7,1,7,7,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Brazil,"Brazil published an AI Strategy, proposing to
+contribute to ethical AI principles, promote AI
+research and innovation, train AI professionals,
+share the country's AI in an international
+environment, and promote cooperation among
+the public and private sectors. Brazil also strives
+to encourage data sharing per its General Data
+Protection Law, the LGPD, create an AI observatory
+for measuring impact and disseminate open-
+source codes for identifying discriminatory trends.
+Brazil's Senate has approved Bill 2338/2023, a
+comprehensive AI bill that emphasizes human
+rights and creates a civil liability regime for AI
+developers. The Chamber of Deputies will review
+the bill next. The proposed AI bill would:
+• Prohibit certain ""excessive risk"" systems.
+• Establish a regulatory body to enforce the law.
+• Create civil liability for AI providers.
+• Require reporting obligations for significant
+security incidents.
+• Guarantee various individual rights, such as
+explanation, nondiscrimination, rectification of
+identified biases and due process mechanisms.
+In July 2023, the country's DPA, the Autoridade
+Nacional de Proteção de Dados, published
+a preliminary analysis of Bill No. 2338/2023.
+Further, the ANPD published its final opinion on
+Bill 2338/2023, seeking to align the bill with the
+LGPD.","J Ministry of Science,
+Technology and Innovation
+J ANPD","J General Data Protection Act
+[IN FORCE]
+J Civil Rights Framework for the
+Internet [IN FORCE]
+J Consumer Protection Code
+[IN FORCE]
+J Copyright Law [IN FORCE]
+J General Telecommunications
+Act [IN FORCE]","• Brazil is a party to the OECD's AI principles. See
+OECD AI principles and adherents. See also this
+article on Brazil's path to responsible AI.
+• Brazil participated in the 2023 U.K. AI Summit,
+which led to the Bletchley Declaration.
+• Brazil adopted UNESCO's Recommendation on
+the Ethics of AI.
+• See Brazil's Digital Transformation Strategy.
+• The ANPD entered into a technical cooperation
+agreement with the Development Bank of Latin
+America ""to develop an experimental regulatory
+tool"" for AI-related innovation.
+• Brazil unveiled a plan to invest USD4 billion in
+domestic AI capabilities.
+• The ANDP and France's DPA, the Commission
+nationale de l’informatique et des libertés, met
+to strengthen international cooperation on
+data protection, artificial intelligence and digital
+education.
+• Brazil and Nigeria signed a memorandum to
+strengthen their technological partnership,
+including collaboration in AI.",8,1,8,8,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Canada,"Canada's AI and Data Act failed to proceed
+through the House of Commons.
+Canada published a code of practice for generative
+AI development and use in anticipation of the AI
+and Data Act.
+The country also issued a Directive on Automated
+Decision-Making, which imposes several
+risk-mitigating requirements on the federal
+government's use of automated decision-making
+systems.
+Canada launched its AI Safety Institute in
+November 2024. CAISI's stated goal is to advance
+the science of AI safety, ensuring that AI is used
+safely and can be trusted by its citizens.
+Canada's Competition Bureau released a report
+in January 2025 containing its public consultation
+findings on how AI will affect competition in
+Canada. The report found that AI's rapid growth
+creates a host of opportunities, but risks and
+concerns over anti-competitive conduct are also
+implicated; moreover, the efficacy of existing
+antitrust laws in this context remains to be seen.","J Ministry of Innovation,
+Science and Economic
+Development
+J Canadian Institute for
+Advanced Research
+J Office of the Privacy
+Commissioner of Canada
+J Standing Committee on
+Industry and Technology
+J Advisory Council on AI
+J AI Safety Institute","J Personal Information
+Protection and Electronic
+Documents Act [IN FORCE]
+J Privacy Act [IN FORCE]
+J Consumer Product Safety Act
+[IN FORCE]
+J Food and Drugs Act [IN FORCE]
+J Motor Vehicle Safety Act
+[IN FORCE]
+J Bank Act [IN FORCE]
+J Human Rights Act [IN FORCE]
+J Criminal Code [IN FORCE]
+J Quebec's Law 25: An Act
+to modernize legislative
+provisions as regards the
+protection of personal
+information [IN FORCE]
+J Genetic Non-Discrimination
+Act [IN FORCE]
+J Copyright Act [IN FORCE]","• Canada is a party to the OECD's AI principles.
+See OECD AI principles and adherents.
+• Canada participated in the 2023 U.K. AI Summit,
+which led to the Bletchley Declaration.
+• As part of the G7, Canada endorsed the 11
+Hiroshima Process International Guiding
+Principles for Advanced AI systems.
+• Canada adopted UNESCO's Recommendation
+on the Ethics of AI.
+• According to its Pan-Canadian AI Strategy,
+Canada plans to achieve an AI ecosystem
+founded on Commercialization, Standards, and
+Talent and Research. In achieving these goals,
+Canada has established three AI institutes: Amii
+in Edmonton, Mila in Montreal and the Vector
+Institute in Toronto.
+• In 2019, the House of Commons' Standing
+Committee on Industry, Science and Technology
+issued a report including recommendations
+regarding copyright protection for AI-generated
+works.
+• In September 2024, a collaborative effort
+between researchers from Canada, the U.K. and
+U.S. explored the risks and benefits of utilizing
+AI in the nuclear industry.
+• Canada joined Australia, Japan, the U.K. and
+U.S. in drafting a set of principles to guide
+adoption of AI in the telecommunications
+industry. These principles focused on AI growth,
+security and overall societal benefits.
+• Canada signed the AI Action Summit joint
+Statement on Inclusive and Sustainable Artificial
+Intelligence for People and the Planet.",9,1,9,9,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Chile,"In October 2021, Chile published its first National
+Policy and Action Plan on AI. The country's former
+Minister of Science, Technology, Knowledge and
+Innovation Andrés Couve explained the policy is
+built on the following:
+• Development of enabling factors
+• Use and development of AI technology
+• Ethics and safety aspects
+In May 2024, Chile introduced draft AI legislation
+that promotes AI while ensuring human rights.
+The risk-based legislation also promotes self-
+regulation.","J Agency for the Protection
+of Personal Data
+J Ministry of Science,
+Technology, Knowledge
+and Innovation
+J Commission on Future
+Challenges, Science,
+Technology and Innovation
+J National Research and
+Development Agency
+J National Center for AI
+Research
+J Chilean Transparency
+Council
+J National Consumers
+Agency","J Law 21,719 on the Protection
+of Personal Data [IN FORCE]
+J Digital Economy Partnership
+Agreement [IN FORCE]
+J Political Constitution of the
+Republic of Chile [IN FORCE]
+J Law No. 19,628 on the
+Protection of Private Life
+[IN FORCE]
+J Law No. 20,285 on the
+Transparency of Public
+Functions and Access to
+Information on Public
+Administration [IN FORCE]
+J Law 21,180 on Digital
+Transformation of the State
+[IN FORCE]
+J Industrial Property Law No.
+19,039 [IN FORCE]
+J Law No. 17,336 on Intellectual
+Property [IN FORCE]
+J Fintech Law [IN FORCE]
+J Bill 17,590-05 that creates the
+National Data Management
+System [DRAFT]","• Chile is a party to the OECD's AI principles. See
+OECD AI principles and adherents.
+• Chile participated in the 2023 U.K. AI Summit,
+which led to the Bletchley Declaration.
+• Chile adopted UNESCO's Recommendation on
+the Ethics of AI.
+• See Chile's 2035 Digital Transformation
+Strategy.
+• In 2023, Chile hosted the first Latin American
+and Caribbean Ministerial and High-Level
+Summit on the Ethics of AI with support from
+UNESCO and CAF.
+• The Inter-American Development Bank
+supported the Chilean government's project to
+develop new transport technology applications,
+specifically focusing on big data and
+autonomous vehicles.
+• On 11 Feb. 2025, Chile endorsed the Paris
+Charter on Artificial Intelligence. The
+charter recognizes principles of openness,
+collaboration, accountability and transparency
+in AI governance.
+• Chile signed the AI Action Summit joint
+Statement on Inclusive and Sustainable Artificial
+Intelligence for People and the Planet.
+• Chile is building data centers and launching
+new AI initiatives; the country also ranks first
+in the 2024 Latin American AI Index. At the
+same time, Chile exemplifies the various policy
+tensions inherent to AI development.",11,1,11,11,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+China,"China has been proactive in adopting legislation
+and regulations around the use of AI, with several
+national laws currently in place. Currently, the
+laws, regulations and policies governing AI in
+China are specific to AI use cases:
+• Algorithmic Recommendation Management
+Provisions [IN FORCE]
+• Interim Measures for the Management of
+Generative AI Services [IN FORCE]
+• ""Administrative Provisions on Deep Synthesis in
+Internet-Based Information Services"" or ""Deep
+Synthesis Provisions"" [IN FORCE]
+• AI guidelines and summary of regulations
+[IN FORCE]
+• Scientific and Technological Ethics Review
+Regulation [IN FORCE]
+• Next Generation AI Development Plan
+[IN FORCE]
+• Measures for Labeling of AI-Generated
+Synthetic Content [IN FORCE]
+• Security Management Measures for the
+Application of Facial Recognition Technology
+[IN FORCE]
+• Measures for Ethical Management Services of
+Artificial Intelligence Science and Technology
+[DRAFT]
+China established an AI standards committee,
+drawing members from industry, such as Baidu,
+Alibaba and Tencent. It also issued a guideline to
+accelerate AI Plus Integration.
+China's State Administration for Market Regulation
+and the Standardization Administration released
+three national standards to improve generative AI
+security:
+• Generative AI data annotation security
+specification
+• Security specification for generative AI
+pre-training and fine-tuning data
+• Basic security requirements for generative AI
+service","J Cyberspace Administration
+of China
+J Ministry of Industry and
+Information Technology
+J Ministry of Public Security
+J State Administration for
+Market Regulation
+J National Development and
+Reform Commission","J Cybersecurity Law [IN FORCE]
+J Data Security Law [IN FORCE]
+J Personal Information
+Protection Law [IN FORCE]
+J Shenzhen Special Economic
+Zone AI Industry Promotion
+Regulation [IN FORCE]
+J Copyright Law [IN FORCE]
+J Patent Law [IN FORCE]
+J Trademark Law [IN FORCE]","• China is a party to the G20 AI Principles, which
+are drawn from the OECD's AI principles. See
+OECD AI principles and adherents.
+• China participated in the 2023 U.K. AI Summit,
+which led to the Bletchley Declaration.
+• China adopted UNESCO's Recommendation on
+the Ethics of AI.
+• See China's AI development plan.
+• See the Ministry of Science and Technology's
+2021 AI governance document on ethical norms
+for AI use.
+• China led a successful UN resolution on AI.
+• In July 2024, China released the Shanghai
+Declaration on Global AI Governance, which
+calls for global cooperation in developing AI
+""while ensuring safety, reliability, controllability
+and fairness in the process, and ... leveraging AI
+technologies to empower the development of
+human society.""
+• In September 2024, China released the AI Safety
+Governance Framework as part of its Global AI
+Governance Initiative. This framework lays out
+China's objectives for international cooperation
+on AI governance as well as its view on the risks
+AI poses to safety.
+• China's AI development depends on imported
+advanced-computing chips, which the U.S.
+has sought to deny access to (though the
+country has relented somewhat), in addition
+to developing its domestic advanced chip
+production capacity. In November 2024, the
+TSMC complied with an export stop order
+from the U.S. Department of Commerce
+after their chips were found in a Huawei
+AI processor. Chinese model DeepSeek,
+nevertheless, developed a cutting-edge model
+that benchmarks with OpenAI's most advanced
+models. Its developer did so with limited access
+to imported chips and at a much lower cost.
+• Relatedly, China launched an investigation into
+Nvidia, finding the chipmaker violated anti-
+monopoly law.
+• Former U.S. President Joe Biden and President
+Xi Jinping met in November 2024 to discuss the
+need to address and mitigate risks around the
+use of AI.
+• China's AI prowess has influenced the Trump
+administration's approach to AI and industrial
+policy.
+• China signed the AI Action Summit joint
+Statement on Inclusive and Sustainable Artificial
+Intelligence for People and the Planet.
+• China endorsed a joint statement on data
+scraping and the protection of privacy with
+Canada.",12|13,2,12,13,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Colombia,"Colombia has various policies addressing AI
+governance, including the following:
+• National AI Policy
+• AI Expert Mission
+• National Policy for Digital Transformation
+and AI
+• Projects on Digital Transformation and the
+Public Sector
+Bill of Law No. 422 promotes AI R&D, classifies
+AI risk and sets out a liability framework. It also
+names the Ministry of Science, Technology and
+Innovation as the primary AI regulator.","J Administrative Department
+of the Presidency of the
+Republic
+J Development Bank of
+Latin America and the
+Caribbean
+J Ministry of Information
+and Communication
+Technologies
+J Ministry of National
+Education
+J Ministry of Science,
+Technology and Innovation
+J National Planning
+Department
+J Superintendence of
+Industry and Commerce
+J AI Task Force","J Personal Data Protection Law
+(Law 1581) [IN FORCE]
+J Decree 1377 [IN FORCE]
+J Habeas Data Law, Law 1266
+amended by Law 2157 [IN
+FORCE]
+J Decree 338 [IN FORCE]
+J Consumer Protection Law
+(Law 1480) [IN FORCE]
+J Copyright Law (Law 23)
+[IN FORCE]","• Colombia is a party to the OECD's AI principles.
+See OECD AI principles and adherents.
+• Colombia also adopted UNESCO's
+Recommendation on the Ethics of AI.
+• Colombia published an Ethical Framework
+that reiterates best practices, suggestions
+and recommendations on how best to
+integrate ethical principles into the use
+of AI, especially for the benefit of public
+sector entities. An AI Task Force was created
+in partnership with the CAF to bolster AI
+implementation.
+• Colombia endorsed a joint statement on data
+scraping and the protection of privacy with
+Canada.",14,1,14,14,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+EU,"On 1 Aug. 2024, the EU AI Act entered into force.
+Various dates for compliance will apply in the
+coming years, with the first applications of the act
+in early 2025 and the last at the end of 2030. On
+2 Feb. 2025, the first set of obligations came into
+force.
+In brief, the act:
+• Creates harmonized rules for placing AI on the
+EU market.
+• Applies to the EU and any third-country
+providers and deployers that place AI systems
+on the EU market.
+• Centers around a risk-based approach.
+• Prohibits use of certain AI systems and provides
+specific requirements for high-risk systems.
+• Creates harmonized transparency rules for
+certain AI systems.
+Currently, the following obligations are in place:
+• Organizations will need to ensure employees
+have access to AI literacy.
+• The prohibition on certain AI systems is in force.
+• Guidance on the definition for AI systems has
+been published.
+• The EU published the third draft of the General-
+Purpose AI Code of Practice in consultation with
+independent experts and stakeholders.
+The EU committed to investing 200 billion euros in
+AI through InvestAI initiative, with 20 billion euros
+earmarked for AI gigafactories. The first wave of
+factories was designated in December 2024 and
+the second wave in March 2025. This initiative
+was later expanded upon in the Commission's AI
+Continent Action Plan, which seeks to strengthen
+the EU's AI capabilities. As part of this plan, the
+Commission will open an AI Act Service Desk to
+ensure smooth implementation of the AI Act.
+The IAPP and its partners have worked diligently
+to analyze the EU AI Act and its implications for
+organizations. For more insight, check out the IAPP
+series on the top 10 operational impacts of the EU
+AI Act and the EU AI Act: 101.","J EU AI Office
+J EU AI Board
+J European Data
+Protection Board
+J Special Committee on AI
+in a Digital Age
+J EDPB's ChatGPT Task Force
+J Member states must
+establish or designate
+a Market Surveillance
+Authority, and a Notifying
+Authority by 2 Aug. 2025,
+though compliance with
+this deadline has been
+inconsistent.
+J Member state AI
+authorities include:
+- Agency for Digital
+Government (Denmark)
+- Innovation Agency
+& Communications
+Regulatory Authority
+(Lithuania)
+- National Commission
+for Data Protection
+(Luxembourg)
+- Digital Innovation
+Authority &
+Information Data
+Protection Commission
+(Malta)
+- AI Supervisory Agency
+(Spain)
+J Member state DPAs
+include:
+- Commission nationale
+de l'informatique et
+des libertés (France)
+- Bundesbeauftragter
+für Datenschutz und
+Informationsfreiheit
+(Germany)
+- Garante Per La
+Protezione Dei Dati
+Personali (Italy)
+- Agencia Española de
+Protección de Datos
+(Spain)
+- Autorité de protection
+des données (Belgium)
+- Urząd Ochrony Danych
+Osobowych (Poland)
+- Datenschutzbehörde
+(Austria)
+- Nemzeti Adatvédelmi
+és Információszabadság
+Hatóság (Hungary)","J General Data Protection
+Regulation [IN FORCE]
+J Digital Services Act [IN FORCE]
+J Digital Markets Act [IN FORCE]
+J AI Liability Directive [DROPPED]
+J Cyber Resilience Act [IN FORCE]
+J Ethics guidelines for
+trustworthy AI [IN FORCE]
+J New Product Liability
+Directive [ENACTED]
+J Data Act [IN FORCE]","• The EU is a party to the OECD's AI principles.
+See OECD AI principles and adherents.
+• The EU participated in the 2023 U.K. AI
+Summit, which led to the Bletchley Declaration.
+• As a nonenumerated member of the G7,
+the EU endorsed the 11 Hiroshima Process
+International Guiding Principles for Advanced
+AI systems.
+• The EU also adopted UNESCO's
+Recommendation on the Ethics of AI.
+• See the EU's approach and timeline for AI
+development.
+• As part of a regulatory simplification agenda,
+EU institutions are considering whether to
+implement a pause on the AI Act and whether
+other changes are appropriate. See the EU
+Commission's Digital Omnibus on AI Regulation
+Proposal.
+• Member states and the European Commission
+worked to create a Coordinated Plan on AI
+in 2018. This plan includes a table showcasing
+how 23 of 27 EU countries, as well as Norway
+and Switzerland, have progressed with their
+national strategies. The coordinated plan was
+updated in 2021.
+• In January 2024, the European Commission
+decided to establish an EU AI Office to play a
+key role in implementing the AI Act, foster the
+development and use of trustworthy AI, and
+promote international cooperation.
+• The EU and several other countries signed onto
+the Council of Europe's Framework Convention
+on AI and human rights, democracy and the
+rule of law.
+• Some EU member states have national
+AI strategies, many of which emphasize
+research, training and labor preparedness,
+as well as multistakeholder and international
+collaboration. For example, France's national AI
+strategy lays out three main objectives:
+- Improve the AI education and training
+ecosystem.
+- Establish an open data policy for
+implementing AI applications and pooling
+assets.
+- Develop an ethical framework for fair and
+transparent use of AI.
+• The EU and Singapore signed an agreement to
+strengthen cooperation between the AI Office
+and Singapore's AI Safety Institute.
+• DeepSeek has been investigated by several
+European authorities.
+• The EU signed the AI Action Summit joint
+Statement on Inclusive and Sustainable Artificial
+Intelligence for People and the Planet.",16|17,2,16,17,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Egypt,"Egypt's National AI Strategy focuses on four pillars:
+• AI for government
+• AI for development
+• Capacity building
+• International activities
+The country's other initiatives include an AI
+roadmap and Charter for Responsible AI.
+In January 2025, Egypt's Ministry of
+Communications and Information Technology
+released the second edition of its National AI
+Strategy, which outlines the nation's projected
+strategic intent for the development and
+implementation of AI over the next five years.","J National Council for AI
+J Ministry of
+Communications and
+Information Technology","J Law No. 151 of 2020 on the
+Protection of Personal Data
+[IN FORCE]
+J Law No. 175 of 2018 Regarding
+Anti-Cyber and Information
+Technology Crimes [IN FORCE]
+J Law No. 10 of 2003
+Telecommunication Regulation
+Law [IN FORCE]
+J Law No. 82 of 2002 on the
+Protection of Intellectual
+Property Rights [IN FORCE]","• Egypt is a party to the OECD's AI principles.
+See OECD AI principles and adherents.
+• Egypt adopted UNESCO's Recommendation on
+the Ethics of AI.
+• Egypt chaired several meetings for the Arab
+AI Working Group, which promotes discussion
+of AI strategies among representatives from
+Arab countries. See the group's chair election,
+second meeting and third meeting.
+• See the Applied Innovation Center.
+• The Senate Education Committee urged the
+issuance of a document to evaluate the ethics
+and controls of AI in Egypt.",15,1,15,15,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Hong Kong,"Hong Kong aims to balance AI innovation with
+responsibility, creating a contextual governance
+framework built for local characteristics. The
+region governs AI through existing sectoral law
+and various governance frameworks. These
+include:
+• The Ethical AI Framework
+• Guidance on the Ethical Development and Use
+of AI
+• AI: Model Personal Data Protection Framework
+• Checklist on Guidelines for the Use of
+Generative AI by Employees
+• Generative AI Technical and Application
+Guideline","J Digital Policy Office
+J Privacy Commissioner for
+Personal Data
+J Hong Kong Monetary
+Authority
+J Financial Services and
+Treasury Bureau
+J Securities and Futures
+Commission
+J Intellectual Property
+Department
+J Equal Opportunities
+Commission
+J Hong Kong Generative AI
+R&D Center
+J Smart Government
+Innovation Lab","J Personal Data Privacy
+Ordinance [IN FORCE]
+J Copyright Ordinance
+[IN FORCE]
+J Sex Discrimination Ordinance
+[IN FORCE]
+J Race Discrimination Ordinance
+[IN FORCE]
+J Family Status Discrimination
+Ordinance [IN FORCE]
+J Protection of Critical
+Infrastructure (Computer
+Systems) Ordinance [IN FORCE]","• Hong Kong's Commerce and Economic
+Development Bureau and its Intellectual
+Property Department began a public
+consultation process to assess potential
+updates to copyright laws in view of AI
+developments.
+• The Financial Services and Treasury Bureau
+released a Policy Statement on Responsible
+Application of AI in the Financial Market,
+and the Securities and Futures Commission
+released a Circular on the Use of Generative AI
+Language Models.
+• Hong Kong Monetary Authority released a
+circular on Consumer Protection in respect
+of Use of Generative AI and the Insurance
+Authority issued Conduct in Focus: Chatting
+About Chatbots and AI.",18,1,18,18,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+India,"A proposed Digital India Act would replace the
+IT Act of 2000 and regulate AI, emphasizing
+accountability, safety and privacy. The Indian
+government has advocated for a robust,
+citizen-centric and inclusive ""AI for all""
+environment. A task force was established to
+make recommendations on ethical, legal and
+societal issues related to AI, and to establish an
+AI regulatory authority.
+According to its National Strategy for AI, India
+hopes to become what it calls an ""AI garage""
+for emerging and developing economies where
+scalable solutions can be easily implemented and
+designed for global deployment.
+MeitY released the India AI Governance Guidelines
+in November 2025, which outlines key principles,
+issues and recommendations, a government
+action plan, and practical guidelines for industry
+actors, all to spur safe and trustworthy AI
+innovation.
+NITI Aayog published two AI policy documents
+in 2021, discussing principles and the
+operationalization of responsible AI.
+India's government is open to new regulation
+for AI, but wants to achieve consensus. To this
+effect, India released a report on AI governance
+guidelines, pointing to recommendations for a
+future regulatory framework. At the same time,
+India is developing standards for organizations
+that lay out benchmarks for reliability,
+explainability, transparency, privacy and security.
+In November 2024, India released the Developer’s
+Playbook for Responsible AI in India, detailing the
+government's unified industry framework for AI
+risk identification and mitigation.
+MeitY released an AI advisory requiring that
+platforms ensure their AI models do not
+disseminate unlawful content or threaten the
+electoral process.","J NITI Aayog
+J Ministry of Electronics and
+Information Technology
+J Ministry of Commerce and
+Industry
+J AI Task Force","J Information Technology Act
+[IN FORCE]
+J The Information Technology
+Rules [IN FORCE]
+J Competition Act [IN FORCE]
+J Motor Vehicles Act [IN FORCE]
+J Digital Personal Data
+Protection Act [IN FORCE]
+J Copyright Act [IN FORCE]
+J National e-Governance Plan
+[IN FORCE]","• India is hosting the AI Impact Summit in
+February 2026, envisioning AI that advances
+humanity, fosters inclusive growth and
+safeguards the planet.
+• India is a party to the G20 AI Principles, which
+are drawn from the OECD's AI principles. See the
+OECD AI principles and adherents.
+• India participated in the 2023 U.K. AI Summit,
+which led to the Bletchley Declaration.
+• India adopted UNESCO's Recommendation on
+the Ethics of AI.
+• Funded by MeitY, the AI Research, Analytics
+and Knowledge Dissemination Platform is a
+supercomputer which empowers academia,
+research labs, the scientific community,
+industry and startups to develop AI-enabled
+solutions tailored to India-specific challenges.
+• India AI, a MeitY initiative, aims to foster AI
+innovation.
+• India signed the AI Action Summit joint
+Statement on Inclusive and Sustainable Artificial
+Intelligence for People and the Planet.
+• India has emphasized development of open-
+source digital public infrastructure, including
+Aadhaar, a digital identification system that
+enables access to banking, health care and
+government benefits.",19|20,2,19,20,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Indonesia,"In 2020, Indonesia released the National Strategy
+on AI as part of the AI Towards Indonesia's Vision
+2045. The following five national priorities were
+outlined as where AI is anticipated to have the
+biggest impact:
+• Health services
+• Bureaucratic reform
+• Education and research
+• Food security
+• Mobility and smart cities
+Indonesia adopted a Circular on AI Ethics.
+While not binding, it provides a reference
+point for formulating and establishing internal
+organizational policies for use of AI in Indonesia's
+public and private sectors. Since issuing the
+circular, the Ministry of Communication and
+Informatics committed to preparing specific
+regulations regarding AI use and development.
+In January 2025, the government announced
+that it was in the process of developing robust AI
+regulation.
+The Ministry of Communication and Digital Affairs
+announced that the government is preparing an
+AI Roadmap to address technological impacts and
+national competitiveness.","J Ministry of
+Communication and
+Digital Affairs
+J Ministry of Research,
+Technology and Higher
+Education
+J National Cyber and
+Crypto Agency","J Law No. 27 of 2022 on
+Personal Data Protection
+[IN FORCE]
+J Law No. 1 of 2024 Electronic
+Information and Transaction
+Law [IN FORCE]
+J Law No. 36 of 1999 regarding
+Telecommunications
+[IN FORCE]
+J Law No. 14 of 2008 on Public
+Information Transparency
+[IN FORCE]
+J Law No. 28 of 2014 on
+Copyright [IN FORCE]","• Indonesia is a party to the G20 AI Principles,
+which are drawn from the OECD's AI principles.
+See OECD AI principles and adherents.
+• Indonesia participated in the 2023 U.K. AI
+Summit, which led to the Bletchley Declaration.
+• Indonesia also adopted UNESCO's
+Recommendation on the Ethics of AI.
+• See Indonesia's roadmap for industry, Making
+Indonesia 4.0.
+• Indonesia’s Ministry of Communications and
+Informatics has partnered with UNESCO and
+completed an AI Readiness Assessment.
+• Indonesia signed the AI Action Summit joint
+Statement on Inclusive and Sustainable Artificial
+Intelligence for People and the Planet.",20,1,20,20,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Israel,"In April 2025, the Ministry of Innovation, Science
+and Technology, the Israel Innovation Authority,
+and others published a National Program
+for AI with objectives including developing AI
+infrastructure, expanding the use of AI in the public
+sector and strengthening Israel’s geotechnological
+position in AI.
+Based on a policy for regulation and ethics in AI,
+Israel wants to form a uniform risk-management
+tool, establish a governmental knowledge and
+coordination center and maintain involvement in
+international regulation and standardization. In
+general, voluntary standardization, sector-based
+self-regulation and modular experimentation
+tools, e.g., sandboxes, will be favored over a lateral
+framework. The following resources are available
+for policy guidance:
+• Israeli AI Regulation and Policy White Paper:
+A First Glance
+• Harnessing Innovation: Israeli Perspectives on
+AI Ethics and Governance
+• Policy on AI Regulations and Ethics
+In September 2024, Israel's Ministry of Innovation,
+Science and Technology called for experts to assist
+in AI policy development.
+In November 2024, the government released a
+report for public comment on the use of AI in the
+private sector. The report advocates development
+of AI in finance.
+In April 2025, Israel's Privacy Protection Authority
+released draft guidance for AI governance and
+privacy. This document summarizes obligations
+when using personal data in the context of AI
+tools.","J Ministry of Innovation,
+Science and Technology
+J Ministry of Justice
+J Privacy Protection
+Authority
+J Israel National Cyber
+Directorate","J Basic Law: Human Dignity
+and Liberty [IN FORCE]
+J Protection of Privacy Law
+amended by Amendment
+No. 13 [IN FORCE]
+J Data Security Regulations
+[IN FORCE]
+J Credit Data Law [IN FORCE]
+J Copyright Act [IN FORCE]","• Israel is a party to the OECD's AI principles.
+See OECD AI principles and adherents.
+• Israel participated in the 2023 U.K. AI Summit,
+which led to the Bletchley Declaration.
+• Israel's Ministry of Justice issued an opinion
+that machine learning will fall under the fair-use
+provision in the country's Copyright Act.
+• Israel and several other countries signed
+onto the Council of Europe's Framework
+Convention on AI and human rights,
+democracy and the rule of law.
+• Israel endorsed a joint statement on data
+scraping and the protection of privacy with
+Canada.",21,1,21,21,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Japan,"In 2022, Japan released a National AI Strategy.
+Japan promotes the notion of ""agile governance,""
+whereby the government provides nonbinding
+guidance and defers to the private sector's
+voluntary efforts to self-regulate. To this effect,
+Japan's government enacted a new AI Promotion
+Act in May 2025. This law presents a light touch
+on regulation and seeks to further AI innovation
+by requiring companies to cooperate with
+government safety measures. Further, when
+a company's use of AI involves the violation of
+human rights, the law permits the government to
+publicly list the name of the company involved.
+The following white papers have been issued for
+policy guidance:
+• AI Governance in Japan Ver. 1.1
+• Governance Guidelines for Implementation of
+AI Principles
+• AI Utilization Guidelines, an initiative for
+implementing the OECD AI Principles
+In 2023, the AI Strategy Council released draft AI
+Operator Guidelines, which clarify how operators
+should develop, provide and use AI.
+In September 2024, Japan's AI Safety Institute
+released two policies governing AI usage and
+development. The Guide to Red Teaming
+Methodology on AI Safety educates developers on
+adversarial techniques they can use to improve
+the safety of their AI models. The Guide to
+Evaluation Perspectives on AI Safety provides basic
+concepts for developers to use when conducting
+AI safety evaluations. These documents were
+drafted as a part of Japan's Hiroshima AI Process
+initiative.
+In October 2024, the Japan Fair Trade Commission
+released a Request for Information about the
+rapidly evolving generative AI market. In its
+subject discussion paper, the JFTC addressed
+businesses involved in three market layers:
+infrastructure, such as computing resources;
+model, i.e., developers of generative AI models;
+and application, i.e., services using generative AI.
+In February 2025, the Office of the Prime
+Minister's AI Strategic Council Released an
+interim report. The council highlighted several
+intervention points: balancing innovation and
+risk, promoting international cooperation,
+strengthening government's strategic capacity,
+improving safety and developing AI procurement
+guidelines.","J Ministry of Economy,
+Trade and Industry
+J Council for Science,
+Technology and Innovation
+J Personal Information
+Protection Commission
+J Fair Trade Commission
+J AI Safety Institute","J Improving Transparency
+and Fairness of Digital
+Platforms Act [IN FORCE]
+J Financial Instruments and
+Exchange Act [IN FORCE]
+J Protection of Personal
+Information Act [IN FORCE]
+J Antimonopoly Act [IN FORCE]
+J Product Liability Act [IN FORCE]
+J Copyright Law [IN FORCE]","• Japan is a party to the OECD's AI principles.
+See OECD AI principles and adherents.
+• Japan participated in the 2023 U.K. AI Summit,
+which led to the Bletchley Declaration.
+• As part of the G7, Japan endorsed the 11
+Hiroshima Process International Guiding
+Principles for Advanced AI systems.
+• Japan also adopted UNESCO's Recommendation
+on the Ethics of AI.
+• The Social Principles of Human-Centric AI,
+drafted by the Council for Social Principles of
+Human-Centric AI, describes AI's role in Japan's
+""Society 5.0"" and advocates that AI should be
+human-centric; promote education/literacy;
+protect privacy; ensure security; maintain fair
+competition; ensure fairness, accountability
+and transparency; and promote collaborative
+innovation.
+• Minister of Education, Culture, Sports, Science
+and Technology Keiko Nagaoka declared the
+country's copyright laws cannot be enforced
+on materials used in AI training datasets. This
+announcement reflects a 2018 amendment to
+Japan's Copyright Act.
+• Japan's Ministry of Economy, Trade and
+Industry introduced the Contract Guidelines for
+AI and Data Use to assist parties involved in AI
+business transactions.
+• See the Draft AI Research and Development
+Guidelines for International Discussions.
+• See the AI Guidelines for Business, which
+call for executive level responsibility of AI
+governance.
+• Japan signed the AI Action Summit joint
+Statement on Inclusive and Sustainable Artificial
+Intelligence for People and the Planet.",22|23,2,22,23,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Kenya,"Kenya released a National AI Strategy in 2025
+centered around digital infrastructure, data, and
+research and innovation.
+In 2024, Kenya's Bureau of Standards released a
+Draft Information Technology AI Code of Practice
+for AI Applications to assist organizations with the
+responsible development and use of AI.
+A draft Robotics and AI Bill has been floated by the
+Robotics Society of Kenya.","J The Ministry of
+Information,
+Communications and the
+Digital Economy
+J Distributed Ledgers
+Technologies and AI
+Taskforce","J Data Protection Act [IN FORCE]
+J Computer Misuse and
+Cybercrimes Act [IN FORCE]
+J Consumer Protection Act
+[IN FORCE]
+J Industrial Property Act
+[IN FORCE]","• Kenya's ICT Action Network published a white
+paper titled AI for Inclusive Development:
+Guiding Kenya’s Policy Landscape,
+which promoted a national AI strategy,
+multistakeholder initiatives, trust building, an
+adaptive regulatory approach, AI-education and
+skill building, among other recommendations.",23,1,23,23,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Mauritius,"Mauritius published an AI Strategy in 2018. The
+strategy describes the benefits and challenges
+of AI, specifically how AI impacts the country's
+various industries, and sets out a clear vision
+for development of AI.
+Other initiatives from the Mauritius
+government include:
+• Innovative Mauritius
+• AI for Agriculture project","J Ministry of Information
+Technology,
+Communication and
+Innovation
+J Ministry of Finance,
+Economic Planning and
+Development
+J Emerging Technologies
+Council
+J Research and Innovation
+Council
+J Data Protection Office","J Financial Services (Robotic and
+AI Enabled Advisory Services)
+Rules [IN FORCE]
+J Data Protection Act [IN FORCE]
+J National Cyber Security
+Strategy [IN FORCE]
+J Cybersecurity and Cybercrime
+Act [IN FORCE]
+J Industrial Property Act
+[IN FORCE]
+J Copyright Act [IN FORCE]
+J Protection against Unfair
+Practices (Industrial Property
+Rights) Act [IN FORCE]","• Mauritius also adopted UNESCO's
+Recommendation on the Ethics of AI.
+• See the Digital Mauritius 2030 strategic plan
+and A Blueprint for Mauritius – A Bridge to the
+Future.
+• In 2019, the Minister of Technology,
+Communication and Innovation officially
+opened the workshop Leading Innovation in
+Business and Government Services through AI,
+which is organized by the Mauritius Research
+and Innovation Council.
+• Members of the government announced plans
+to establish an AI Office to set standards for
+data collection and security and development
+of Digital Public Infrastructure to facilitate
+mobile money solutions.",24,1,24,24,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+New Zealand,"New Zealand released its AI Strategy, Investing
+with Confidence, in July 2025, as well as guidance
+for businesses.
+Many New Zealand government agencies are
+signatories to the Algorithm Charter, which sets
+out a series of ethical commitments around the
+development and use of algorithms. The charter
+provides a risk matrix to assess the likelihood
+and impact of algorithmic applications. The
+New Zealand government generally prioritizes
+trustworthy and human-centric AI development.
+Although there is no comprehensive AI regulation
+in New Zealand, the current Privacy Act 2020
+applies to the use of AI systems in the country.
+The Office of the Privacy Commissioner issued
+guidance on compliance with privacy law when
+using AI tools, as well as a summary. Further, the
+Office of the Privacy Commissioner published
+the Privacy Commissioner's expectations around
+generative AI in June 2023.
+In July 2024, New Zealand's Ministry of Business,
+Innovation and Employment released a cabinet
+paper that outlines its approach to AI regulation.
+In it, the ministry noted, ""we need to state
+our support for increased uptake of AI in New
+Zealand and be clear that we will take a light-
+touch, proportionate and risk-based approach to
+AI regulation.""
+The AI Forum of New Zealand published a set of
+guiding Trustworthy AI in Aotearoa AI principles
+designed to provide direction for AI stakeholders.
+In July 2025, New Zealand’s Privacy Commissioner
+issued the Biometric Processing Privacy Code
+2025, which likely impacts some AI use cases.","J Ministry of Business,
+Innovation and
+Employment
+J Statistics New Zealand
+J Office of the Privacy
+Commissioner
+J Department of
+Internal Affairs","J Privacy Act [IN FORCE]
+J Bill of Rights Act [IN FORCE]
+J Treaty of Waitangi [IN FORCE]
+J Human Rights Act [IN FORCE]
+J Principles of Māori Data
+Sovereignty
+J Māori Data Governance Model","• New Zealand is a party to the OECD's AI
+principles. See OECD AI principles and
+adherents.
+• New Zealand also adopted UNESCO's
+Recommendation on the Ethics of AI.
+• The New Zealand government released AI
+cornerstones, which will inform an eventual
+national AI strategy.
+• See the AI Forum New Zealand.
+• ""An example of governance for AI in health
+services from Aotearoa New Zealand"" has been
+recognized for its approach in the health sector,
+particularly in terms of prioritizing the voice of
+Māori.
+• The Department of Internal Affairs published
+initial advice on generative AI in the
+public service.
+• In February 2025, New Zealand Internal
+Affairs released guidance for the responsible
+use of generative AI for the public service.
+The document focuses on safety, privacy
+and accountability for generative AI
+implementations.
+• New Zealand signed the AI Action Summit
+joint Statement on Inclusive and Sustainable
+Artificial Intelligence for People and the
+Planet.
+• New Zealand endorsed a joint statement on
+data scraping and the protection of privacy with
+Canada.",25,1,25,25,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Nigeria,"In April 2024, Nigeria hosted a workshop to
+devise a national AI strategy where Minister of
+Communications, Innovation and Digital Economy
+Bosun Tijani stated that the country's goal is to
+become a key player in global regulation and
+development of AI.
+In September 2025, the country released its
+national AI strategy, which recognizes the benefits
+and risks of widespread adoption of AI. Nigeria
+plans to address the ethical issues of using AI while
+embracing it as a driver of socioeconomic growth.
+In late 2024, the Nigerian House of
+Representatives introduced a bill to regulate AI
+usage. According to commentators, this is the
+third such bill to descend from the House, causing
+legislators to call for harmonization.
+In early 2026, lawmakers signaled the potential
+passage of a comprehensive AI law, the National
+Digital Economy and E-Governance Bill, which
+would govern high-risk systems by requiring
+impact assessments, creating regulatory
+sandboxes and providing increased enforcement
+authority to regulators.
+Nigeria released a Draft Code of Practice for AI in
+July 2025 to address ethics, bias and transparency.","J Data Protection
+Commission
+J Federal Ministry of
+Communication,
+Innovation and Digital
+Economy
+J National Information
+Technology Development
+Agency
+J Nigerian Communications
+Commission","J Nigeria Data Protection
+Regulation [IN FORCE]
+J Nigeria Data Protection Act
+[IN FORCE]
+J Copyright Act [IN FORCE]
+J Federal Competition and
+Consumer Protection Act
+[IN FORCE]
+J Cybercrimes Act [IN FORCE]
+J Communications Act
+[IN FORCE]
+J SEC Rule on Robo-Advisory
+Services [IN FORCE]","• Nigeria adopted UNESCO’s Recommendation
+on the Ethics of AI.
+• Nigeria participated in the 2023 U.K. AI Summit,
+which led to the Bletchley Declaration.
+• In 2020, the Nigerian Communications
+Commission released a research paper on the
+ethical and societal impacts of AI.
+• The Director General of Nigeria's National
+Information Technology Development Agency
+called for strategic AI leadership through
+business integration and inclusive innovation.
+• Nigeria joined the countries endorsing the Paris
+Charter on Artificial Intelligence in February
+2025.
+• Nigeria signed the AI Action Summit joint
+Statement on Inclusive and Sustainable Artificial
+Intelligence for People and the Planet.",26,1,26,26,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Peru,"Peru has approved legislation around the use
+of AI, including Law No. 31814, which promotes
+innovation while balancing safeguards for
+fundamental rights. The law follows the following
+principles:
+• Nondiscrimination
+• Privacy
+• Human oversight
+• Transparency
+• Sustainability
+• Accountability
+• Respect for IP rights
+In addition, Peru has passed Law No. 32082, which
+seeks to ensure that new technology like AI can
+properly interoperate in consular offices.
+Peru also developed a National AI Strategy that
+aids in the promotion, development and adoption
+of AI in the country.","J Secretariat of Government
+and Digital Transformation
+J Presidency of the Council
+of Ministers
+J National Directorate of
+Intelligence
+J Superintendence of
+Banking, Insurance
+and Pension Fund
+Administration
+J Ministry of Justice and
+Human Rights
+J National Authority for the
+Protection of Personal Data
+J National Authority for
+Transparency, Access
+to Public Information and
+Protection of Personal Data","J Supreme Decree No. 157-
+2021-PCM [IN FORCE]
+J Supreme Decree No. 003-
+2013-JUS [IN FORCE]
+J Supreme Decree No. 016-
+2024-JUS Regulation [IN FORCE]
+J Law No. 29733, Personal Data
+Protection Law [IN FORCE]
+J Law of Transparency and
+Access to Public Information
+[IN FORCE]
+J Finance Regulation for
+Information Security and
+Cybersecurity [IN FORCE]
+J Cyber Defense Act, Law No.
+30999
+[IN FORCE]
+J Computer Crime Act, Law No.
+30096 [IN FORCE]
+J Copyright Law, Legislative
+Decree 822 [IN FORCE]","• Peru is a party to the OECD's AI principles. See
+OECD AI principles and adherents.
+• Peru adopted UNESCO’s Recommendation on
+the Ethics of AI.
+• See the National Digital Transformation Policy
+for 2030.
+• Peru's Financial Regulator released a
+cybersecurity framework white paper in
+conjunction with related regulators.",27,1,27,27,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Saudi Arabia,"Saudi Arabia has a National Strategy on Data
+and AI, which envisions a welcoming, flexible and
+stable regulatory ecosystem, including incentive
+schemes, to attract AI companies, investors and
+talents. According to the strategy, Saudi Arabia
+aspires to be one of the leading economies
+utilizing and exporting data and AI after 2030. The
+Saudi Data and AI Authority published AI Ethics
+Principles in September 2023.
+Moreover, Saudi Arabia is ready to leverage its
+""young and vibrant population"" and ""unique
+centralized ecosystem."" The country hopes to
+attract outside investment by hosting global AI
+events and applying its influence as a tech hub
+within the Middle East.
+In April 2025, the Communications, Space and
+Technology Commission issued a draft law on AI
+aimed at fostering a collaborative environment
+and creating the concept of ""data embassies.""","J Saudi Data and AI
+Authority
+J National Data
+Management Office
+J Ministry of
+Communications and
+Information Technology
+J Communication, Space
+Technology Commission","J Personal Data Protection Law
+[IN FORCE]
+J Data Management and
+Personal Data Protection
+Standards [IN FORCE]
+J Children and Incompetents'
+Data Protection Policy
+[IN FORCE]
+J Data Classification Policy
+[IN FORCE]
+J General Rules for the Transfer
+of Personal Data outside the
+Geographical Borders of the
+Kingdom [IN FORCE]
+J Data Sharing Policy [IN FORCE]
+J Freedom of Information Policy
+[IN FORCE]
+J Open Data Policy [IN FORCE]","• Saudi Arabia is a party to the G20 AI Principles,
+which are drawn from the OECD's AI principles.
+See OECD AI principles and adherents.
+• Saudi Arabia adopted UNESCO’s
+Recommendation on the Ethics of AI.
+• The government, in collaboration with the Saudi
+Data and AI Authority, signed a memorandum of
+understanding to create an AI center dedicated
+to the energy sector.
+• In January 2024, the Saudi Data and AI Authority
+published two guidelines, one for government
+employees, and one for the public. In September
+2024, the SDAIA released for public comment a
+set of deepfakes guidelines.
+• In September 2024, the SDAIA signed a
+memorandum of understanding with the OECD
+to strengthen AI incident monitoring in the
+Middle East by enabling OECD monitoring tools
+to track data in Arabic. This measure ensures
+that Arabic-speaking nations can effectively
+leverage OECD's AI monitoring tools.
+• Later in September, the SDAIA partneredwith
+Microsoft to improve the availability of the
+SDAIA's Arabic LLM on Microsoft Azure and
+improve SDAIA's local talent initiatives.",28,1,28,28,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Singapore,"Singapore updated its National AI Strategy in 2023,
+aiming to drive global innovation. Two key tenets
+to Singapore's AI policy are advancing the field
+and maximizing value creation, and raising up
+individuals, businesses and communities to use AI
+with confidence and trust.
+Singapore has developed numerous voluntary
+governance frameworks and initiatives for ethical
+AI deployment, data management and sectoral
+implementation, including:
+• Model AI Governance Framework for
+Generative AI.
+• Model AI Governance Framework.
+• Veritas Initiative, an implementation framework
+for AI governance in the financial sector.
+• AI Verify, a governance testing toolkit.
+• Project Moonshot, a LLM evaluation toolkit.
+• GenAI Sandbox for SMEs.
+• IPOS International, part of the Intellectual
+Property Office of Singapore that realizes
+customized IP solutions.
+• Proposed Advisory Guidelines on Use of
+Personal Data in AI Recommendation and
+Decision Systems.
+• Principles to Promote Fairness, Ethics,
+Accountability and Transparency in the Use of
+AI and Data Analytics in Singapore's Financial
+Sector.
+• Project MindForge, a framework on the
+responsible use of Gen AI in the Financial
+Sector.
+• Implementation and Self-Assessment Guide for
+Organizations, a companion to the Model AI
+Governance Framework
+• Artificial Intelligence Model Risk Management,
+a review of banks' AI management practices
+• AI In Healthcare Guidelines
+• Guide on the Use of Generative AI Tools by
+Court Users
+• Agentic AI Primer
+• Starter Kit for Safety Testing of LLM-Based
+Applications [DRAFT]","J AI Verify Foundation
+J Smart Nation Digital
+Government Group
+J AI Ethics and Governance
+Steering Committee
+J Personal Data Protection
+Commission
+J Monetary Authority of
+Singapore
+J Infocomm Media
+Development Authority
+J Advisory Council on the
+Ethical Use of AI and Data
+J AI Safety Institute","J Personal Data Protection Act
+[IN FORCE]
+J Computer Misuse Act
+[IN FORCE]
+J Copyright Act [IN FORCE]
+J Patents Act [IN FORCE]
+J Competition Act [IN FORCE]
+J Cybersecurity Act [IN FORCE]
+J Protection from Online
+Falsehoods and Manipulation
+Act [IN FORCE]
+J Road Traffic Act [IN FORCE]
+J The Digital Economy
+Partnership Agreement
+[IN FORCE]","• Singapore is a party to the OECD's AI principles.
+See OECD AI principles and adherents.
+• Singapore participated in the 2023 U.K. AI
+Summit, which led to the Bletchley Declaration.
+• Singapore also adopted UNESCO's
+Recommendation on the Ethics of AI.
+• An initiative to make Singapore and U.S.
+AI governance frameworks interoperable,
+known as the ""crosswalk,"" was unveiled at the
+inaugural U.S.-Singapore Dialogue on Critical
+and Emerging Technologies. The crosswalk links
+IMDA's AI Verify with the U.S. National Institute of
+Standards and Technology's AI Risk Management
+Framework.
+• See the Primer to the Model AI Governance
+Framework.
+• See the Trusted Data Sharing Framework.
+• See the Guide to Job Redesign in the Age of AI.
+• Complementing the Model Framework and
+AI Verify are two volumes of a Compendium
+of Use Cases that show ""how local and
+international organizations across different
+sectors and sizes implemented or aligned their
+AI governance practices with all sections of the
+Model Framework.""
+- Volume 1
+- Volume 2
+• Singapore has signed a variety of agreements
+to cooperate on AI innovation and safety with
+Australia and the EU AI Office.
+• Singapore signed the AI Action Summit joint
+Statement on Inclusive and Sustainable Artificial
+Intelligence for People and the Planet.
+• The AI Assurance Pilot, a global initiative to
+help codify emerging norms and best practices
+around technical testing of Generative AI
+applications, was launched by IMDA and the AI
+Verify Foundation.
+• Singapore hosted the Conference on AI and
+released the Singapore Consensus on Global AI
+Safety Research Priorities.",29|30,2,29,30,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+South Korea,"The South Korean legislature passed the AI Basic
+Act, reinforced by enforcement decrees from
+the MSICT. As the second-enacted national AI
+comprehensive regulatory law, the legislation has
+been analyzed in comparison to the EU AI Act.
+While there are some similarities, such as
+provisions for greater transparency, prior
+notification to users, labeling of generative AI
+outputs and specific measures for high-risk AI
+systems, the law differs in important regards,
+especially in the types of AI systems targeted and
+the blanket obligations regardless of a system's
+place in the AI value chain. Read the IAPP's full
+analysis.
+South Korea has numerous policy initiatives
+regarding AI and technology under its National
+Strategy for AI, including the AI Research and
+Development Strategy, the Data Industry
+Activation Strategy and the System Semiconductor
+Strategy. The nation intends to leverage its high
+education level, widespread acceptance of new
+technology and preeminent IT infrastructure to
+implement these initiatives.
+Additionally, in August 2023, the Personal
+Information Protection Commission published
+guidance for the safe use of personal information
+in the age of AI.","J Ministry of Science and ICT
+J Personal Information
+Protection Commission
+J Media and
+Communications
+Commission
+J Internet and Security
+Agency
+J Financial Services
+Commission
+J Fair Trade Commission
+J National Information
+Society Agency
+J Korea AI Association
+J AI Safety Institute","J Personal Information
+Protection Act [IN FORCE]
+J Monopoly Regulation and Fair
+Trade Act [IN FORCE]
+J Copyright Act [IN FORCE]
+J Protection and Use of Location
+Information Act [IN FORCE]
+J Consumer Protection in
+Electronic Commerce Act
+[IN FORCE]
+J Promotion of Information
+and Communication Network
+Utilization and Information
+Protection Act [IN FORCE]
+J Credit Information Use and
+Protection Act [IN FORCE]
+J Product Liability Act [IN FORCE]","• South Korea adopted UNESCO’s
+Recommendation on the Ethics of AI.
+• The Digital New Deal was created by the
+South Korean government to promote both
+educational and industrial efforts regarding AI
+opportunities.
+• See the AI Open Innovation Hub, a national AI
+development support platform.
+• South Korea published the draft Artificial
+Intelligence Privacy Risk Assessment and
+Management Model to provide guidance for
+companies looking to develop AI and a guide to
+synthetic data.
+• South Korea committed themselves to building
+out their AI infrastructure, including the world’s
+highest-capacity AI data center.
+• South Korea has blocked LLM DeepSeek from
+operating across various ministries.
+• South Korea signed the AI Action Summit joint
+Statement on Inclusive and Sustainable Artificial
+Intelligence for People and the Planet.",31,1,31,31,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Taiwan,"Taiwan has embraced a holistic approach to
+developing an AI environment. The government
+executive passed a draft of its AI Basic Act,
+which prioritizes innovation and technological
+advancement. The act largely follows a risk-
+based approach to regulating AI while also
+emphasizing data protection, consumer rights and
+transparency requirements.
+Taiwan's government has issued the following
+resources for policy guidance:
+• National Science and Technology Council's
+policy discussing AI innovation
+• AI Taiwan Action Plan
+• AI Taiwan Action Plan 2.0
+• 2022 AI-Readiness Assessment Report","J Fair Trade Commission
+J NSTC, previously the
+Ministry of Science
+and Technology
+J Ministry of Health
+and Welfare
+J Executive Yuan of Taiwan
+J Ministry of Digital Affairs
+J Industrial Technology
+Research Institute
+J Taiwan AI Center
+of Excellence","J Personal Data Protection Act
+[IN FORCE]
+J Fair Trade Act [IN FORCE]
+J Cyber Security Management
+Act [IN FORCE]
+J Company Act [IN FORCE]
+J Child and Youth Sexual
+Exploitation Prevention Act
+[IN FORCE]
+J Copyright Act [IN FORCE]
+J Patent Act [IN FORCE]
+J Freedom of Government
+Information Law [IN FORCE]
+J Financial Technology
+Development and Innovative
+Experimentation Act [IN FORCE]
+J FinTech Regulatory
+Sandbox Guidance
+J MoST AI Technology Research
+and Development Guidelines
+J Guidelines on the use of
+Generative AI [DRAFT]","• See the Digital Nation and Innovative Economic
+Development Program.
+• See the 5+2 Innovative Industries Plan.
+• See Taiwan AI Labs.
+• See the country's Forward-looking
+Infrastructure Development Program.
+• See AI Literacy for All, a free education program
+to enhance AI literacy.
+• In November 2024, the U.S. Department of
+Commerce ordered Taiwan Semiconductor
+Manufacturing Company to cease shipping
+advanced microchips used in AI applications to
+Chinese customers after finding one such chip
+in a Huawei AI processor. In September 2025,
+the U.S. revoked TSMC's waiver to ship chip
+supplies to its facility in Nanjing, China.
+• Taiwan restricted the use of LLM DeepSeek by
+public agencies and critical infrastructure based
+on cybersecurity considerations, citing the fact
+that such use could violate Guidelines for the
+use of Generative AI.",32,1,32,32,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Turkey,"Turkey released a National AI Strategy in 2021. An
+AI bill was presented before Turkey's parliament in
+summer 2024.
+Turkey's Personal Data Protection Authority
+released Recommendations on the Protection of
+Personal Data in the Field of AI.","J Personal Data Protection
+Authority
+J AI Commission
+J Information and
+Communications
+Technologies Authority
+J Capital Markets Board
+J Banking Regulation and
+Supervision Agency
+J Competition Authority","J Law on Protection of Personal
+Data [IN FORCE]
+J Law on Consumer Protection
+[IN FORCE]
+J Criminal Code [IN FORCE]
+J Law on Regulating Electronic
+Commerce [IN FORCE]
+J Law on Industrial Property
+[IN FORCE]","• Turkey's Personal Data Protection Authority
+released Guidelines on Good Practices
+regarding the Protection of Personal Data in
+Banking Sector, which speaks to processing
+data through AI-based banking products.
+The DPA also published the Guidelines on
+Protection of Privacy in Mobile Applications,
+noting the importance of transparency and
+fairness in AI-based mobile apps.
+• In September 2023, Turkey's Advertising Board
+fined advertisers that referred to AI-generated
+information to promote their products.",33,1,33,33,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+United Arab Emirates,"In 2017, the UAE became the first country to
+establish an AI ministry. The nation's Council
+for AI and Blockchain will oversee policies that
+promote an AI-friendly ecosystem, advance AI
+research and accelerate collaboration between
+public and private sectors. The UAE is poised
+to become a hub for AI research, collaboration,
+innovation and education per its National
+Strategy for AI. The following resources offer
+further policy guidance:
+• AI Ethics Principles and Guidelines
+• Generative AI guide
+• AI coding license
+• AI System Ethics Self-Assessment Tool
+• AI Adoption Guideline in Government Services
+• The UAE Charter for the Development and Use
+of AI
+• The Dubai International Financial Centre's
+Regulation 10 on Processing Personal Data
+Through Autonomous and Semi-Autonomous
+Systems [IN FORCE]
+In October 2024, the UAE's cabinet approved
+its International Stance on Artificial Intelligence
+Policy. The policy highlights five priorities,
+emphasizing involvement in international AI
+initiatives for the safe and ethical development
+of AI technologies.","J Minister of AI, Digital
+Economy and Remote
+Work Applications Office
+J AI and Blockchain Council
+J Data Office
+J Council for Digital
+Wellbeing
+J Regulations Lab
+J Abu Dhabi Global Market's
+Office of Data Protection
+J Dubai International
+Finance Centre
+J Telecommunications
+and Digital Government
+Regulatory Authority
+J AI and Advanced
+Technology Council","J Personal Data Protection Law
+[IN FORCE]
+J Central Bank Rulebook
+[IN FORCE]
+J Federal Decree Law on
+Countering Rumors and
+Cybercrimes [IN FORCE]
+J Penal Code [IN FORCE]
+J Federal Law concerning the
+Regulation of Competition
+[IN FORCE]
+J Federal Law on Consumer
+Protection [IN FORCE]
+J Federal Decree Law on
+Copyrights and Neighboring
+Rights [IN FORCE]
+J Health Data Law [IN FORCE]
+J Federal Law on the Regulation
+and Protection of Industrial
+Property Rights [IN FORCE]
+J ADGM's Data Protection
+Regulations 2021 [IN FORCE]
+J Federal Law on the Civil
+Transactions Law of the United
+Arab Emirates State [IN FORCE]
+J Minister of State for AI, Digital
+Economy and Remote Work
+Applications Office’s AI Ethics
+Principles and Guidelines","• The UAE participated in the 2023 U.K. AI
+Summit, which led to the Bletchley Declaration.
+• The UAE also adopted UNESCO's
+Recommendation on the Ethics of AI.
+• Abu Dhabi hosts a growing startup community,
+advanced machine-learning facilities and
+educational institutions, like Mohamed bin Zayed
+University, which teamed up with IBM to open
+the AI Center of Excellence, in addition to a new
+supercomputing resource for complex algorithms
+and large datasets. With this infrastructure in
+place, the UAE hopes to deploy AI in priority
+sectors such as energy and transportation.
+• The National Program for AI published a
+Deepfake Guide in 2021.
+• The UAE AI and Robotics Award for Good aims
+to ""encourage research and applications of
+innovative solutions in (AI) and robotics to
+meet existing challenges in the categories of
+health, education and social services.""
+• See the Central Bank of the UAE's Guidelines
+for Financial Institutions Adopting Enabling
+Technologies.
+• As part of a larger agreement of cooperation
+on AI, France and the UAE agreed on a deal to
+invest 30-50 billion euros for the construction
+of a data center in France.
+• In September 2024, the Biden administration
+met with the UAE's National Security advisor to
+develop principles of cooperation between the
+two nations. A statement from the U.S. embassy
+and consulate in the UAE emphasized the
+importance of deepening ties to ""fully realize the
+benefits of AI and technology.""",34,1,34,34,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+United Kingdom,"The U.K. has delayed plans to regulate AI. A draft
+AI bill was reintroduced into the House of Lords,
+though such bills rarely become law. This follows
+a broader trend in Europe of balancing guardrails
+with innovation and competitiveness. Currently,
+the U.K. relies on existing sectoral laws to impose
+guardrails on AI systems. The following resources
+are available for policy guidance:
+• A pro-innovation approach to AI regulation
+• Algorithmic Transparency Recording
+Standard Hub
+• AI Standards Hub, a new U.K. initiative
+dedicated to the evolving and international
+field of standardization for AI technologies
+• Guide to using AI in the public sector
+• Guidance on understanding AI ethics and safety
+• The Centre for Data Ethics and Innovation's
+AI Governance research report.
+• Information Commissioner's Office's draft
+Guidance on the AI auditing framework
+• ICO and Alan Turing Institute's Explaining
+decisions made with AI
+• The AI Playbook for the UK Government,
+offering guidance to departments and public
+sector organizations for the safe and effective
+use of AI
+• The Data (Use and Access) Act, clarifying the use
+of data in models and has specific provisions
+for automated decision-making
+• AI Opportunities Action Plan, signaling the U.K.'s
+intent to support AI development domestically
+• Guidance on AI Cyber Security Code of Practice
+• Ofcom's Open Letter regarding how the Online
+Safety Act applies to Generative AI
+• Harnessing Innovation and Growth
+Opportunities from AI Foundation Models","J Office for AI
+J Information
+Commissioner's Office
+J Digital Regulation
+Cooperation Forum
+J Financial Conduct
+Authority
+J AI Council
+J Department for
+Science, Innovation
+and Technology
+J AI Security Institute
+J Competition and Markets
+Authority
+J Ofcom
+J AI Advisory Panel","J Equality Act [IN FORCE]
+J U.K. General Data Protection
+Regulations and Data
+Protection Act [IN FORCE]
+J Consumer Protection Act
+[IN FORCE]
+J Financial Services and Markets
+Act [IN FORCE]
+J Consumer Rights Act
+[IN FORCE]
+J National Security and
+Investment Act [IN FORCE]
+J Copyright, Designs and
+Patents Act [IN FORCE]
+J Advanced Research and
+Invention Agency Act
+[IN FORCE]
+J National Cyber Security
+Centre's Assessing intelligent
+tools for cyber security
+[IN FORCE]
+J Online Safety Act [IN FORCE]
+J Artificial Intelligence
+(Regulation) Bill [DRAFT]","• The U.K. is a party to the OECD's AI principles.
+See OECD AI principles and adherents.
+• In 2023, the country hosted the AI Summit,
+which led to the Bletchley Declaration.
+• The U.K. adopted UNESCO’s Recommendation
+on the Ethics of AI.
+• As part of the G7, the U.K. endorsed the 11
+Hiroshima Process International Guiding
+Principles for Advanced AI systems.
+• Specific action items include launching a
+national AI research and insights program,
+developing a diverse AI workforce, enabling
+better data availability, creating a national
+strategy for AI in health and social care,
+applying AI systems to climate change
+mitigation, piloting an AI standards hub to
+coordinate with global AI standardization, and
+developing a cross-government standard for
+algorithmic transparency.
+• The Centre for Data Ethics and Innovation
+published a Roadmap to an Effective AI
+Assurance Ecosystem, which is also part of the
+National AI Strategy. Further, the DSIT created a
+Portfolio of AI Assurance techniques to support
+the development of trustworthy AI.
+• See the U.K. AI Safety Institute.
+• Along with the U.S., Israel, the EU, and others,
+the U.K. signed onto the Council of Europe's
+Framework Convention on AI and human rights,
+democracy, and the rule of law.
+• The U.K. assessed DeepSeek for security
+implications.
+• Qatar and the U.K. will increase collaboration
+on AI research.
+• The U.K. seeks to build a frontier model
+champion to compete with foreign companies
+like OpenAI.
+• The U.K. endorsed a joint statement on data
+scraping and the protection of privacy with
+Canada.",36|37,2,36,37,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+United States,"The U.S. has been active in providing guidance to
+government organizations and private businesses
+while introducing legislation to target specific
+issues, such as deepfakes or discrimination.
+President Donald Trump revoked a 2023 executive
+order on AI and signed a new executive order
+detailing his administration's policy on AI. The new
+order seeks to remove barriers to AI development
+and stimulate innovation. Shortly thereafter,
+the new administration unveiled Stargate, a
+USD500 billion endeavor. In July 2025, the Trump
+administration released the AI Action Plan,
+which aims to accelerate AI innovation, build AI
+infrastructure and lead international AI diplomacy
+and security. In December 2025, President Trump
+signed an executive order that seeks to place a
+moratorium on AI laws at the state level.
+Other actions taken by the Trump administration
+include issuing two Office of Management and
+Budget memoranda, replacing earlier Biden
+administration-era memoranda. One affects
+federal use of AI and the other AI procurement.
+President Trump also signed an executive
+order regarding AI education and workforce
+development.
+The U.S. has been active in many of the
+multilateral agreements on AI as well. For
+example, it signed onto the Council of Europe's
+Framework Convention and promoted rulemaking
+at the U.N.
+At the state level, a handful of laws have passed,
+such as the Colorado AI Act (enforcement
+delayed), Utah’s AI Policy Act and California’s
+Transparency in Frontier AI Act, as well as bills that
+regulate AI in specific sectors, such as Illinois’ HB
+3773.
+While not an exhaustive list, the following federal
+laws and policies could place a compliance or
+regulatory burden on private businesses:
+Acts and bills:
+• AI Training Act [IN FORCE]
+• National AI Initiative Act (Division E, Sec. 5001)
+[IN FORCE]
+• AI in Government Act (Division U, Sec. 101)
+[IN FORCE]
+• TAKE IT DOWN Act [IN FORCE]
+• Create AI Act [DRAFT]
+• NO FAKES Act of 2025 [DRAFT]
+Nonbinding frameworks:
+• Blueprint for an AI Bill of Rights
+• National Institute of Standards and Technology
+AI Risk Management Framework
+• Guidance for Regulation of AI Applications
+Government initiatives:
+• Voluntary Commitments from Leading AI
+Companies to Manage the Risks Posed by AI
+• TTC Joint Roadmap on Evaluation and
+Measurement Tools for Trustworthy AI and Risk
+Management
+• Congressional AI effort of the Bipartisan Senate
+AI Working Group
+• National Security Commission on AI
+• Bipartisan legislative framework for AI
+announced by U.S. Sens. Richard Blumenthal,
+D-Conn., and Josh Hawley, R-Mo.
+• Bipartisan House Task Force Report on AI","J Office of Science and
+Technology Policy
+J National AI Initiative Office
+J Federal Trade Commission
+J Consumer Financial
+Protection Bureau
+J Department of Justice
+J Equal Employment
+Opportunity Commission
+J National Institute of
+Standards and Technology
+J Center for AI Standards
+and Innovation","J FTC Act, Section 5 [IN FORCE]
+J Fair Credit Reporting Act
+[IN FORCE]
+J Equal Credit Opportunity Act
+[IN FORCE]
+J Title VII of the Civil Rights Act
+[IN FORCE]
+J Americans with Disabilities Act
+[IN FORCE]
+J Age Discrimination in
+Employment Act [IN FORCE]
+J Fair Housing Act [IN FORCE]
+J Genetic Information
+Nondiscrimination Act
+[IN FORCE]","• The U.S. is a party to the OECD's AI principles.
+See OECD AI principles and adherents.
+• The U.S. participated in the 2023 U.K. AI
+Summit, which led to the Bletchley Declaration.
+• The U.S. also adopted UNESCO's
+Recommendation on the Ethics of AI.
+• As part of the G7, the U.S. endorsed the 11
+Hiroshima Process International Guiding
+Principles for Advanced AI systems.
+• In general, the U.S. approach to AI governance
+has been slow and incremental, seeking to
+preserve civil and human rights for Americans
+throughout AI deployment, as well as mobilize
+international collaboration which upholds
+democratic values and mutual advancement.
+• See the U.S. Center for AI Standards and
+Innovation.
+• U.S. Senate Committee on the Judiciary's
+Subcommittee on Privacy, Technology and the
+Law held a hearing on the legislation of AI.
+• The Bipartisan Senate Working Group on AI
+released a roadmap for AI policy. This document
+highlights the need to ensure enforcement of
+existing rules, tackle current threats not covered
+by legislation, such as the use of deepfakes in
+elections, prepare for long-term threats of AI use,
+and create a federal privacy legal framework.
+• The inaugural U.S.-Singapore CET Dialogue
+unveiled the ""crosswalk"" initiative, linking
+IMDA's AI Verify with NIST's AI Risk Management
+Framework.
+• Along with the U.K., Israel, and others, the
+U.S. signed onto the Council of Europe's
+Framework Convention on AI and human
+rights, democracy and the rule of law.
+• The U.S. has sought to decouple its AI
+efforts from China, while looking to stymie
+China's AI industry by restricting the chips
+available for Chinese import. It surprised U.S.
+stakeholders when DeepSeek, a foundational
+model developer in China, released a model
+that was competitive with those from top
+U.S. developers. This development rasied
+questions about whether export restrictions
+were effective. To answer these questions, the
+U.S. Select Committee on the CCP released a
+report. In May 2025, the Bureau of Industry
+and Security rescinded the AI Diffusion Rule,
+which curbed access to AI chips; nonetheless,
+contemporaneous guidance suggests that
+national security concerns still underpin
+the Trump administration's chip policy. For
+example, in September 2025, the U.S. revoked
+TSMC's waiver to ship chip supplies to its
+facility in Nanjing, China.
+• The U.S District Court for the Northern District
+of California found that training an AI model
+on copyrighted works likely qualifies as fair
+use. However, the court also found that the
+storage of the same works in a central library
+only constitutes fair use if those works were
+obtained legally.
+• State efforts to restrict or regulate AI are in
+full swing, such as Texas Attorney General Ken
+Paxton's investigation into DeepSeek.",38|39,2,38,39,IAPP_Global_AI_Law_Policy_Tracker,2026-02
+Vietnam,"Vietnam published a National AI Strategy in 2021,
+highlighting the nation's aim to become a center
+for innovation and development of AI solutions
+and applications.
+Vietnam places AI at the top of its list of strategic
+technologies. Notably, the Ministry of Science
+and Technology released an draft AI law in
+September 2025. The draft echoes the EU AI Act,
+with foundational principles like human-centrism,
+explainability, risk-based management and
+innovation promotion. The draft also includes
+regulations for general purpose AI and sets out
+distinctions based on an entity's place in the AI
+supply chain. See IAPP's full analysis here.
+Vietnam also adopted the Law on Digital
+Technology Industry, which has many implications
+for AI. For example, the DTI law classifies AI based
+on risk, sets out transparency requirements
+and creates incentives for AI research and
+development.","J Ministry of Science and
+Technology
+J Ministry of Finance
+J National Innovation
+Center","• Personal Data Protection Law
+[IN FORCE]
+• Protection of Consumer Rights
+Law [IN FORCE]
+• Law on Intellectual Property
+[IN FORCE]
+• Labor Code [IN FORCE]","• The AI for Vietnam Foundation is dedicated to
+bridging research, education, and real-world
+AI applications to drive economic growth and
+improve the quality of life in Vietnam.
+• Vietnam's Ministry of Finance partnered with
+Google to equip local startups with the skills to
+build generative AI solutions.",40,1,40,40,IAPP_Global_AI_Law_Policy_Tracker,2026-02

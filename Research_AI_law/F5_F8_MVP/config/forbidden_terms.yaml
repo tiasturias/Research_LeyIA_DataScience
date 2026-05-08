@@ -1,0 +1,12 @@
+forbidden_terms:
+  - "test set independiente"
+  - "external validation"
+  - "validación externa"
+  - "predicción independiente"
+  - "predigo que Chile"
+  - "impacto causal"
+  - "efecto causal"
+  - "la regulación causa"
+  - "train/test split"
+  - "holdout"
+  - "prueba de causalidad"

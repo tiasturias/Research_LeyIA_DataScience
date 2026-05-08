@@ -1,0 +1,92 @@
+======================================================================
+VALIDACION FINAL: Oxford_Insights_Unificado.xlsx
+======================================================================
+
+--- 1. Consolidado ---
+  Filas: 1283 (esperado 1283)
+  Columnas: 126 (esperado 126)
+  2019: 194 filas (esperado 194) [OK]
+  2020: 172 filas (esperado 172) [OK]
+  2021: 160 filas (esperado 160) [OK]
+  2022: 181 filas (esperado 181) [OK]
+  2023: 193 filas (esperado 193) [OK]
+  2024: 188 filas (esperado 188) [OK]
+  2025: 195 filas (esperado 195) [OK]
+  2019 total_score: 0.1677 a 9.1861 (esperado 0-10)
+  2020 total_score: 19.0722 a 85.4792 (esperado ~0-100)
+  2021 total_score: 17.9294 a 88.1596 (esperado ~0-100)
+  2022 total_score: 13.4580 a 85.7213 (esperado ~0-100)
+  2023 total_score: 9.1971 a 84.7962 (esperado ~0-100)
+  2024 total_score: 14.6225 a 87.0322 (esperado ~0-100)
+  2025 total_score: 12.1200 a 88.3600 (esperado ~0-100)
+  iso3 missing: 0 (esperado 0)
+  framework '3_pillars_10_dims': 894 filas
+  framework '6_pillars_14_dims': 195 filas
+  framework '4_clusters': 194 filas
+  government NaN en 2019: True (esperado True)
+  government notna en 2020: True (esperado True)
+  policy_capacity NaN en 2019: True (esperado True)
+  policy_capacity notna en 2025: True (esperado True)
+
+--- 2. Detalle_2019 ---
+  Filas: 194 (esperado 194), Columnas: 34
+  iso3 missing: 0 (esperado 0)
+  ai_startups max: 5053.0 (esperado 5053, USA)
+
+--- 3. Detalle_2020_2024 ---
+  Filas: 894 (esperado 894), Columnas: 23
+  iso3 missing: 0 (esperado 0)
+  2020: 172 (esperado 172)
+  2021: 160 (esperado 160)
+  2022: 181 (esperado 181)
+  2023: 193 (esperado 193)
+  2024: 188 (esperado 188)
+
+--- 4. Detalle_2025 ---
+  Filas: 195 (esperado 195), Columnas: 28
+  iso3 missing: 0 (esperado 0)
+
+--- 5. Indicadores_2023 ---
+  Filas: 193 (esperado 193), Columnas: 42
+  ind_ai_strategy valores unicos: 3 (esperado 3: 0,50,100)
+  iso3 missing: 0 (esperado 0)
+
+--- 6. Rankings_Regionales_2019 ---
+  Filas: 194 (esperado 194), Columnas: 20
+  iso3 missing: 0 (esperado 0)
+  Regiones: ['africa', 'asia_pacific', 'australasia', 'eastern_europe', 'latam', 'north_america', 'western_europe']
+    asia_pacific: 56
+    africa: 54
+    latam: 33
+    western_europe: 24
+    eastern_europe: 23
+    north_america: 2
+    australasia: 2
+
+--- 7. Diccionario_Variables ---
+  Filas: 126 (esperado 126)
+  Primeras 5 variables: ['iso3', 'entity_type', 'pais_original', 'year', 'scale']
+  Ultimas 5: ['rank_australasia', 'score_australasia', 'rank_western_europe', 'score_western_europe', 'region_pertenece']
+
+--- 8. Fuentes_Directas ---
+  Filas: 126 (esperado 126)
+
+--- 9. ISO3_Mapping ---
+  Filas: 229 (esperado ~229)
+  Con ISO3: 229
+  Sin ISO3: 0
+
+======================================================================
+RESUMEN:
+======================================================================
+  Total hojas: 9
+  Consolidado: 1283 x 126
+  Detalle_2019: 194 x 34
+  Detalle_2020_2024: 894 x 23
+  Detalle_2025: 195 x 28
+  Indicadores_2023: 193 x 42
+  Rankings_Regionales_2019: 194 x 20
+  Diccionario_Variables: 126 x 10
+  Fuentes_Directas: 126 x 7
+  ISO3_Mapping: 229 x 11
+  VALIDACION COMPLETADA

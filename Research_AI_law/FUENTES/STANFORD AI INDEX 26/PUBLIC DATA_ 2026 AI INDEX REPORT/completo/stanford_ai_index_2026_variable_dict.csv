@@ -1,0 +1,533 @@
+fig_id,variable,entity_type,chapter
+fig_1.1.10,fig_1.1.10_Number of parameters,category,1
+fig_1.1.11,fig_1.1.11_training_dataset_size_(total),global,1
+fig_1.1.12,fig_1.1.12_Training length (days),global,1
+fig_1.1.13,fig_1.1.13_Training compute (petaFLOP),category,1
+fig_1.1.14,fig_1.1.14_Training compute (petaFLOP – log scale),category,1
+fig_1.1.16,fig_1.1.16_Score,model,1
+fig_1.1.17,fig_1.1.17_% of generated content,category,1
+fig_1.1.1,fig_1.1.1_Number of notable machine learning models in 2025,country,1
+fig_1.1.2,fig_1.1.2_Number of notable AI models,category,1
+fig_1.1.3,fig_1.1.3_Number of notable machine learning models,country,1
+fig_1.1.4,fig_1.1.4_Number of notable AI models,category,1
+fig_1.1.5,fig_1.1.5_Notable AI models (% of total),category,1
+fig_1.1.6,fig_1.1.6_num_models,organization,1
+fig_1.1.7,fig_1.1.7_num_models,organization,1
+fig_1.1.8,fig_1.1.8_num_models,category,1
+fig_1.1.9,fig_1.1.9_num_models,category,1
+fig_1.2.1,fig_1.2.1_Performance (FLOP/s - log scale),category,1
+fig_1.2.2,fig_1.2.2_Cumulative number of notable AI models,category,1
+fig_1.2.3,fig_1.2.3_value,organization,1
+fig_1.2.4,fig_1.2.4_cumulative_chip_power,global,1
+fig_1.2.4,fig_1.2.4_cumulative_other_power,global,1
+fig_1.2.4,fig_1.2.4_total_power,global,1
+fig_1.3.1,fig_1.3.1_iso_code,country,1
+fig_1.3.1,fig_1.3.1_num_datacenters,country,1
+fig_1.3.2,fig_1.3.2_Number of Data Centers,country,1
+fig_1.4.10,fig_1.4.10_2023,category,1
+fig_1.4.10,fig_1.4.10_2024,category,1
+fig_1.4.10,fig_1.4.10_Cumulative,category,1
+fig_1.4.11,fig_1.4.11_Power demand in megawatts (MW),category,1
+fig_1.4.12,fig_1.4.12_GPU cost index (2006=1),global,1
+fig_1.4.1,fig_1.4.1_Energy efficiency (FLOP/s per watt - log scale),category,1
+fig_1.4.2,fig_1.4.2_publication_date,model,1
+fig_1.4.2,fig_1.4.2_training_power_draw_(w),model,1
+fig_1.4.3,fig_1.4.3_C02eq_emissions,model,1
+fig_1.4.4,fig_1.4.4_CO2 equivalent emissions (tons),model,1
+fig_1.4.4,fig_1.4.4_Parameters,model,1
+fig_1.4.5,fig_1.4.5_avg_energy_consumption_wh,model,1
+fig_1.4.6,fig_1.4.6_avg_energy_consumption_wh,model,1
+fig_1.4.7,fig_1.4.7_energy_wh,category,1
+fig_1.4.8,fig_1.4.8_water_consumption_kL,category,1
+fig_1.4.9,fig_1.4.9_2023,category,1
+fig_1.4.9,fig_1.4.9_2024,category,1
+fig_1.4.9,fig_1.4.9_Cumulative,category,1
+fig_1.5.1,fig_1.5.1_Number of AI projects (in millions),global,1
+fig_1.5.2,fig_1.5.2_Number of AI projects (in thousands),global,1
+fig_1.5.3,fig_1.5.3_AI projects (% of total),category,1
+fig_1.5.4,fig_1.5.4_Number of GitHub stars (in millions),global,1
+fig_1.5.5,fig_1.5.5_Number of cumulative GitHub stars (in millions),category,1
+fig_1.5.6,fig_1.5.6_created_datasets,global,1
+fig_1.5.6,fig_1.5.6_created_models,global,1
+fig_1.5.7,fig_1.5.7_AI model downloads (% of total),category,1
+fig_1.5.8,fig_1.5.8_Download share,organization,1
+fig_1.6.10,fig_1.6.10_Number of AI publications (in thousands),category,1
+fig_1.6.1,fig_1.6.1_Number of AI publications in CS (in thousands),global,1
+fig_1.6.2,fig_1.6.2_Number of AI publications in CS (in thousands),category,1
+fig_1.6.3,fig_1.6.3_Number of attendees (in thousands),global,1
+fig_1.6.4,fig_1.6.4_Number of attendees (in thousands),category,1
+fig_1.6.5,fig_1.6.5_Number of attendees (in thousands),category,1
+fig_1.6.6,fig_1.6.6_AI publications in CS (% of total),category,1
+fig_1.6.7,fig_1.6.7_AI publications in CS (% of total),category,1
+fig_1.6.8,fig_1.6.8_AI publications in CS (% of total),category,1
+fig_1.6.9,fig_1.6.9_AI Publications (% of Total),category,1
+fig_1.6.9,fig_1.6.9_Label,category,1
+fig_1.7.1,fig_1.7.1_Number of AI patents granted (in thousands),global,1
+fig_1.7.2,fig_1.7.2_Granted AI patents (% of world total),category,1
+fig_1.7.3,fig_1.7.3_Number of AI patents granted (in thousands),category,1
+fig_1.7.4,"fig_1.7.4_Granted AI patents (per 100,000 inhabitants)",country,1
+fig_1.7.7,fig_1.7.7_Proximity_to_China,country,1
+fig_1.7.7,fig_1.7.7_Proximity_to_United_States,country,1
+fig_1.8.1,fig_1.8.1_Number of top AI authors and inventors (in thousands),country,1
+fig_1.8.2,fig_1.8.2_talent_per_100k,country,1
+fig_1.8.3,fig_1.8.3_country_code,country,1
+fig_1.8.3,fig_1.8.3_education_label,country,1
+fig_1.8.3,fig_1.8.3_pct_share,country,1
+fig_1.8.4,fig_1.8.4_Female,country,1
+fig_1.8.4,fig_1.8.4_Male,country,1
+fig_1.8.4,fig_1.8.4_country_code,country,1
+fig_1.8.5,fig_1.8.5_Australia,category,1
+fig_1.8.5,fig_1.8.5_Brazil,category,1
+fig_1.8.5,fig_1.8.5_Canada,category,1
+fig_1.8.5,fig_1.8.5_Denmark,category,1
+fig_1.8.5,fig_1.8.5_Finland,category,1
+fig_1.8.5,fig_1.8.5_France,category,1
+fig_1.8.5,fig_1.8.5_Germany,category,1
+fig_1.8.5,fig_1.8.5_India,category,1
+fig_1.8.5,fig_1.8.5_Israel,category,1
+fig_1.8.5,fig_1.8.5_Italy,category,1
+fig_1.8.5,fig_1.8.5_Japan,category,1
+fig_1.8.5,fig_1.8.5_Netherlands,category,1
+fig_1.8.5,fig_1.8.5_Saudi Arabia,category,1
+fig_1.8.5,fig_1.8.5_Singapore,category,1
+fig_1.8.5,fig_1.8.5_South Korea,category,1
+fig_1.8.5,fig_1.8.5_Spain,category,1
+fig_1.8.5,fig_1.8.5_Sweden,category,1
+fig_1.8.5,fig_1.8.5_Switzerland,category,1
+fig_1.8.5,fig_1.8.5_United Arab Emirates,category,1
+fig_1.8.5,fig_1.8.5_United Kingdom,category,1
+fig_1.8.5,fig_1.8.5_United States,category,1
+fig_1.8.6,fig_1.8.6_country_code,country,1
+fig_1.8.6,fig_1.8.6_netflow,country,1
+fig_2.1.1,fig_2.1.1_Benchmark,category,2
+fig_2.1.1,fig_2.1.1_Perfomance relative to the human baseline,category,2
+fig_2.1.1,fig_2.1.1_Task,category,2
+fig_2.1.2,fig_2.1.2_Arena score (Elo-like),category,2
+fig_2.1.3,fig_2.1.3_Arena score (Elo-like),category,2
+fig_2.1.4,fig_2.1.4_Arena score (Elo-like),category,2
+fig_2.1.5,fig_2.1.5_Precision@50 (%),category,2
+fig_2.2.1,fig_2.2.1_Overall accuracy (%),model,2
+fig_2.2.2,fig_2.2.2_95_CI_lower,model,2
+fig_2.2.2,fig_2.2.2_95_CI_upper,model,2
+fig_2.2.2,fig_2.2.2_Error Lower,model,2
+fig_2.2.2,fig_2.2.2_Error Upper,model,2
+fig_2.2.2,fig_2.2.2_arena_elo_rating,model,2
+fig_2.2.3,fig_2.2.3_Overall Accuracy,model,2
+fig_2.2.4,fig_2.2.4_Average accuracy,global,2
+fig_2.3.1,fig_2.3.1_Average accuracy,model,2
+fig_2.3.2,fig_2.3.2_Overall,model,2
+fig_2.3.3,fig_2.3.3_∆knowledge,model,2
+fig_2.3.5,fig_2.3.5_95_CI_lower,model,2
+fig_2.3.5,fig_2.3.5_95_CI_upper,model,2
+fig_2.3.5,fig_2.3.5_Error Lower,model,2
+fig_2.3.5,fig_2.3.5_Error Upper,model,2
+fig_2.3.5,fig_2.3.5_arena_elo_rating,model,2
+fig_2.3.6,fig_2.3.6_score,model,2
+fig_2.3.6,fig_2.3.6_type,model,2
+fig_2.3.7,fig_2.3.7_Total Score,model,2
+fig_2.4.10,fig_2.4.10_model_planner,category,2
+fig_2.4.10,fig_2.4.10_solved_tasks,category,2
+fig_2.4.1,fig_2.4.1_Accuracy (%),model,2
+fig_2.4.2,fig_2.4.2_metric,category,2
+fig_2.4.3,fig_2.4.3_ARC-AGI-2 (%),model,2
+fig_2.4.4,fig_2.4.4_accuracy,model,2
+fig_2.4.6(1),fig_2.4.6(1)_Value,model,2
+fig_2.4.6,fig_2.4.6_Value,model,2
+fig_2.4.7,fig_2.4.7_Value,model,2
+fig_2.4.8(1),fig_2.4.8(1)_Average accuracy (%),model,2
+fig_2.4.8,fig_2.4.8_Average accuracy (%),model,2
+fig_2.4.9,fig_2.4.9_model_planner,category,2
+fig_2.4.9,fig_2.4.9_solved_tasks,category,2
+fig_2.5.10,fig_2.5.10_Accuracy,model,2
+fig_2.5.11,fig_2.5.11_Accuracy,model,2
+fig_2.5.12,fig_2.5.12_Accuracy,model,2
+fig_2.5.13,fig_2.5.13_Accuracy,model,2
+fig_2.5.1,fig_2.5.1_Percent resolved,model,2
+fig_2.5.1,fig_2.5.1_Type,model,2
+fig_2.5.2,fig_2.5.2_metric_trend,global,2
+fig_2.5.3,fig_2.5.3_Accuracy,model,2
+fig_2.5.4,fig_2.5.4_metric,category,2
+fig_2.5.5,fig_2.5.5_accuracy,model,2
+fig_2.5.5,fig_2.5.5_release_date,model,2
+fig_2.5.7,fig_2.5.7_Value,model,2
+fig_2.5.8,fig_2.5.8_Accuracy,model,2
+fig_2.5.9,fig_2.5.9_Accuracy,model,2
+fig_2.6.1,fig_2.6.1_accuracy,model,2
+fig_2.6.1,fig_2.6.1_release_date,model,2
+fig_2.6.2,fig_2.6.2_metric,category,2
+fig_2.6.3,fig_2.6.3_Success Rate,model,2
+fig_2.6.4,fig_2.6.4_All (%),model,2
+fig_2.6.4,fig_2.6.4_All (¬± %),model,2
+fig_2.6.4,fig_2.6.4_High (%),model,2
+fig_2.6.4,fig_2.6.4_High (¬± %),model,2
+fig_2.6.4,fig_2.6.4_LLM(s) Used,model,2
+fig_2.6.4,fig_2.6.4_Low==Lite (%),model,2
+fig_2.6.4,fig_2.6.4_Low==Lite (¬± %),model,2
+fig_2.6.4,fig_2.6.4_Medium (%),model,2
+fig_2.6.4,fig_2.6.4_Medium (¬± %),model,2
+fig_2.6.4,fig_2.6.4_Running Time (hours),model,2
+fig_2.6.5,fig_2.6.5_Unguided % Solved,model,2
+fig_2.6.6,fig_2.6.6_Value,model,2
+fig_2.7.11,fig_2.7.11_Count,category,2
+fig_2.7.11,fig_2.7.11_Label,category,2
+fig_2.7.12,fig_2.7.12_Count,category,2
+fig_2.7.12,fig_2.7.12_Label,category,2
+fig_2.7.1,fig_2.7.1_metric,model,2
+fig_2.7.2,fig_2.7.2_Label,organization,2
+fig_2.7.2,fig_2.7.2_Score,organization,2
+fig_2.7.3,fig_2.7.3_Overall SSR↑,model,2
+fig_2.7.5,fig_2.7.5_Number of weekly paid trips (in thousands),global,2
+fig_2.7.7,fig_2.7.7_Number of trips,global,2
+fig_2.7.8,fig_2.7.8_Hours,category,2
+fig_2.7.8,fig_2.7.8_Version (Year),category,2
+fig_3.2.1,fig_3.2.1_Number of AI incidents,global,3
+fig_3.2.2,fig_3.2.2_Number of AI incidents,category,3
+fig_3.2.5,fig_3.2.5_Hallucination Rate,model,3
+fig_3.2.6,fig_3.2.6_Hallucination Rate,model,3
+fig_3.3.10,fig_3.3.10_Main obstacle,category,3
+fig_3.3.11,fig_3.3.11_Regulation,category,3
+fig_3.3.1,fig_3.3.1_Region,category,3
+fig_3.3.3,fig_3.3.3_Number of AI Incidents,category,3
+fig_3.3.4,fig_3.3.4_Organizational Response to Incidents,category,3
+fig_3.3.5,fig_3.3.5_perc_respondents_2024,category,3
+fig_3.3.5,fig_3.3.5_perc_respondents_2025,category,3
+fig_3.3.5,fig_3.3.5_pp_change,category,3
+fig_3.3.5,fig_3.3.5_type,category,3
+fig_3.3.6,fig_3.3.6_Business function,category,3
+fig_3.3.7,fig_3.3.7_Label,category,3
+fig_3.3.7,fig_3.3.7_Revenue in USD,category,3
+fig_3.3.8,fig_3.3.8_Result,category,3
+fig_3.3.9,fig_3.3.9_Obstacle,category,3
+fig_3.4.1,fig_3.4.1_Number of RAI papers,global,3
+fig_3.4.2,fig_3.4.2_count,category,3
+fig_3.4.3,fig_3.4.3_RAI papers (% of total),category,3
+fig_3.4.4,fig_3.4.4_Number of RAI submissions,country,3
+fig_3.4.5,fig_3.4.5_number_of_rai_submissions,country,3
+fig_3.5.1,fig_3.5.1_Country Code,country,3
+fig_3.5.1,fig_3.5.1_Status_Category,country,3
+fig_3.5.2,fig_3.5.2_ai_action_summit_inclusive_2025,country,3
+fig_3.5.2,fig_3.5.2_bletchley_declaration_2023,country,3
+fig_3.5.2,fig_3.5.2_coe_drafters_2022,country,3
+fig_3.5.2,fig_3.5.2_g20_ai_principles_2019,country,3
+fig_3.5.2,fig_3.5.2_g7_hiroshima_ai_process_2023,country,3
+fig_3.5.2,fig_3.5.2_gpai_ministerial_declaration_2022,country,3
+fig_3.5.2,fig_3.5.2_oecd_ai_principles_2019,country,3
+fig_3.5.2,fig_3.5.2_seoul_ministerial_statement_2024,country,3
+fig_3.6.1,fig_3.6.1_Data Protection & Privacy,country,3
+fig_3.6.2,fig_3.6.2_Country Code,country,3
+fig_3.6.2,fig_3.6.2_Status_Category,country,3
+fig_3.7.1,fig_3.7.1_Bias & Unfair Discrimination,country,3
+fig_3.7.2,fig_3.7.2_Gender Equality,country,3
+fig_3.7.3,fig_3.7.3_Cultural & Linguistic Diversity,country,3
+fig_3.7.4,fig_3.7.4_Category,category,3
+fig_3.7.4,fig_3.7.4_Share of countries,category,3
+fig_3.7.5,fig_3.7.5_Mean score,model,3
+fig_3.7.6,fig_3.7.6_Score,model,3
+fig_3.7.7,fig_3.7.7_accuracy,category,3
+fig_3.7.7,fig_3.7.7_model,category,3
+fig_3.8.1,fig_3.8.1_Component,model,3
+fig_3.8.1,fig_3.8.1_Score,model,3
+fig_3.8.3,fig_3.8.3_Status_Category,country,3
+fig_3.9.2,fig_3.9.2_Mean score,model,3
+fig_4.2.10,fig_4.2.10_Total investment (in billions of US dollars),category,4
+fig_4.2.11,fig_4.2.11_Total investment (in billions of US dollars),category,4
+fig_4.2.12,fig_4.2.12_Total Investment (in Billions of U.S. Dollars),country,4
+fig_4.2.13,fig_4.2.13_Number of Companies,country,4
+fig_4.2.14,fig_4.2.14_Number of companies,category,4
+fig_4.2.15,fig_4.2.15_total_funding,us_state,4
+fig_4.2.16,fig_4.2.16_Label,category,4
+fig_4.2.16,fig_4.2.16_Total investment (in billions of U.S. dollars),category,4
+fig_4.2.17,fig_4.2.17_funding_in_billions_USD,category,4
+fig_4.2.18,fig_4.2.18_Annualized revenue (in billions of US dollars - log scale),category,4
+fig_4.2.1,fig_4.2.1_Funding in USD (billions),category,4
+fig_4.2.20,fig_4.2.20_Cost_Billions,organization,4
+fig_4.2.20,fig_4.2.20_Type,organization,4
+fig_4.2.2,fig_4.2.2_Total investment (in billions of US dollars),global,4
+fig_4.2.3,fig_4.2.3_Total investment (in billions of US dollars),global,4
+fig_4.2.4,fig_4.2.4_Number of companies,global,4
+fig_4.2.5,fig_4.2.5_Number of companies,global,4
+fig_4.2.6,fig_4.2.6_Average investment (in millions of US dollars),global,4
+fig_4.2.8,fig_4.2.8_Total Investment (in Billions of U.S. Dollars),country,4
+fig_4.2.9,fig_4.2.9_Number of companies,category,4
+fig_4.3.1(1),fig_4.3.1(1)_Label,category,4
+fig_4.3.10,fig_4.3.10_H2 2025 AI Diffusion (%),country,4
+fig_4.3.12,fig_4.3.12_H1 2025 AI Diffusion,country,4
+fig_4.3.12,fig_4.3.12_H2 2025 AI Diffusion,country,4
+fig_4.3.13,fig_4.3.13_value,organization,4
+fig_4.3.14,fig_4.3.14_value,organization,4
+fig_4.3.1,fig_4.3.1_H2 2025 AI Diffusion,country,4
+fig_4.3.2,fig_4.3.2_Geographic Area,category,4
+fig_4.3.2,fig_4.3.2_Label,category,4
+fig_4.3.3,fig_4.3.3_function,category,4
+fig_4.3.3,fig_4.3.3_respondent_perc,category,4
+fig_4.3.5,fig_4.3.5_Value,category,4
+fig_4.3.5,fig_4.3.5_Variable,category,4
+fig_4.3.6,fig_4.3.6_Label,category,4
+fig_4.3.6,fig_4.3.6_Revenue in US dollars,category,4
+fig_4.3.7,fig_4.3.7_function,category,4
+fig_4.3.7,fig_4.3.7_respondent_perc,category,4
+fig_4.3.8,fig_4.3.8_Label,category,4
+fig_4.3.8,fig_4.3.8_Percent of respondents,category,4
+fig_4.3.9,fig_4.3.9_ai_all_rps,category,4
+fig_4.3.9,fig_4.3.9_internet_all_cps,category,4
+fig_4.3.9,fig_4.3.9_internet_all_itu,category,4
+fig_4.3.9,fig_4.3.9_pc_all_cps,category,4
+fig_4.4.10,fig_4.4.10_ai_state_count,us_state,4
+fig_4.4.11,fig_4.4.11_perc_ai_job_post_on_total_ai_job_us,us_state,4
+fig_4.4.12,fig_4.4.12_Percentage of United States AI job postings,category,4
+fig_4.4.13,fig_4.4.13_ai_state_share,us_state,4
+fig_4.4.14,fig_4.4.14_Percentage of US states’ job postings in AI,category,4
+fig_4.4.15,fig_4.4.15_Relative AI hiring rate year-over-year ratio,country,4
+fig_4.4.16,fig_4.4.16_relative_ai_hiring_index,country,4
+fig_4.4.1,fig_4.4.1_AI job postings (% of all job postings),category,4
+fig_4.4.21,fig_4.4.21_AI talent concentration,country,4
+fig_4.4.22,fig_4.4.22_% change of AI talent concentration,country,4
+fig_4.4.23,"fig_4.4.23_Net AI talent migration (per 10,000 LinkedIn members)",country,4
+fig_4.4.24,fig_4.4.24_netflow_per_10K,country,4
+fig_4.4.25,fig_4.4.25_Gender,country,4
+fig_4.4.25,fig_4.4.25_ai_talent_representation_perc,country,4
+fig_4.4.26,fig_4.4.26_Gender,country,4
+fig_4.4.26,fig_4.4.26_ai_talent_concentration_perc,country,4
+fig_4.4.29,fig_4.4.29_Headcount,category,4
+fig_4.4.29,fig_4.4.29_Jbb Role,category,4
+fig_4.4.2,fig_4.4.2_AI job postings (% of all job postings),category,4
+fig_4.4.30,fig_4.4.30_q5_estimate,global,4
+fig_4.4.33,fig_4.4.33_change,category,4
+fig_4.4.33,fig_4.4.33_perc_respondents,category,4
+fig_4.4.34,fig_4.4.34_Actual Decrease (Past Year),category,4
+fig_4.4.34,fig_4.4.34_Actual Increase (Past Year),category,4
+fig_4.4.34,fig_4.4.34_Expected Decrease (Next Year),category,4
+fig_4.4.34,fig_4.4.34_Expected Increase (Next Year),category,4
+fig_4.4.3,fig_4.4.3_AI job postings (% of all job postings),category,4
+fig_4.4.4,fig_4.4.4_Label,category,4
+fig_4.4.4,fig_4.4.4_Number of AI Job Postings,category,4
+fig_4.4.5,fig_4.4.5_Label,category,4
+fig_4.4.5,fig_4.4.5_Number of AI Job Postings,category,4
+fig_4.4.6,fig_4.4.6_Label,category,4
+fig_4.4.6,fig_4.4.6_Share of AI Job Postings,category,4
+fig_4.4.7,fig_4.4.7_Label,category,4
+fig_4.4.7,fig_4.4.7_Number of AI Job Postings,category,4
+fig_4.4.8,fig_4.4.8_Label,category,4
+fig_4.4.8,fig_4.4.8_Skill share AI Job Postings,category,4
+fig_4.4.9,fig_4.4.9_AI Job Postings (% of All Job Postings),category,4
+fig_4.5.1,fig_4.5.1_Number of industrial robots installed (in thousands),global,4
+fig_4.5.2,fig_4.5.2_Number of industrial robots (in thousands),global,4
+fig_4.5.3,fig_4.5.3_Number of industrial robots installed (in thousands),category,4
+fig_4.5.4,fig_4.5.4_Number of Industrial Robots Installed (in Thousands),country,4
+fig_4.5.5,fig_4.5.5_Number of industrial robots installed (in thousands),country,4
+fig_4.5.6,fig_4.5.6_Annual Growth Rate of Industrial Robots Installed,country,4
+fig_4.5.7,fig_4.5.7_amount,category,4
+fig_5.1.1,fig_5.1.1_Number of AI publications in natural sciences (in thousands),category,5
+fig_5.1.2,fig_5.1.2_AI publications in natural sciences (% of total),category,5
+fig_5.3.1,fig_5.3.1_Models Used,model,5
+fig_5.3.1,fig_5.3.1_Overall Cost,model,5
+fig_5.3.1,fig_5.3.1_Overall Score,model,5
+fig_5.3.1,fig_5.3.1_Submitter,model,5
+fig_5.3.2,fig_5.3.2_Agent Type,model,5
+fig_5.3.2,fig_5.3.2_Avg. Score,model,5
+fig_6.1.10,fig_6.1.10_Succes rate,category,6
+fig_6.1.11,fig_6.1.11_Number of publications,global,6
+fig_6.1.12,fig_6.1.12_Model Performance,model,6
+fig_6.1.12,fig_6.1.12_Model Size,model,6
+fig_6.1.13,fig_6.1.13_Number of publications,global,6
+fig_6.1.1,fig_6.1.1_Number of publications,category,6
+fig_6.1.2,fig_6.1.2_Number of publications,global,6
+fig_6.1.5,fig_6.1.5_Parameters (Billions),model,6
+fig_6.1.6,fig_6.1.6_Average Spearman,model,6
+fig_6.1.6,fig_6.1.6_Parameters,model,6
+fig_6.1.8,fig_6.1.8_Date of Release,model,6
+fig_6.1.8,fig_6.1.8_Model Number of Parameters,model,6
+fig_6.1.9,fig_6.1.9_Date of Release,model,6
+fig_6.1.9,fig_6.1.9_Model Performance,model,6
+fig_6.1.9,fig_6.1.9_Parameters,model,6
+fig_6.2.11,fig_6.2.11_Number of publications,global,6
+fig_6.2.12,fig_6.2.12_Number of patent filings,global,6
+fig_6.2.3,fig_6.2.3_Number of papers reporting prospective clinical trials,global,6
+fig_6.2.4,fig_6.2.4_total_pct,category,6
+fig_6.2.5,fig_6.2.5_num_cleared_devices,category,6
+fig_6.2.6,fig_6.2.6_Number of AI medical devices,global,6
+fig_6.2.7,fig_6.2.7_Number of Devices,category,6
+fig_6.2.8,fig_6.2.8_value,category,6
+fig_6.2.9,fig_6.2.9_Number of Authorized Devices,organization,6
+fig_6.3.1,fig_6.3.1_% with AI Overview,category,6
+fig_6.3.2,fig_6.3.2_Number of publications,global,6
+fig_6.3.4,fig_6.3.4_Volume of Publications,category,6
+fig_6.3.5,fig_6.3.5_Volume of Publications,country,6
+fig_6.4.1,fig_6.4.1_num_pubs,category,6
+fig_6.4.2,fig_6.4.2_num_pubs,category,6
+fig_6.4.3,fig_6.4.3_Number of publications,global,6
+fig_6.4.5(1),fig_6.4.5(1)_num_pubs,category,6
+fig_6.4.5,fig_6.4.5_num_pubs,category,6
+fig_6.4.6,fig_6.4.6_num_pubs,category,6
+fig_7.2.10,fig_7.2.10_2022,country,7
+fig_7.2.10,fig_7.2.10_2023,country,7
+fig_7.2.11,fig_7.2.11_2022,country,7
+fig_7.2.11,fig_7.2.11_2023,country,7
+fig_7.2.12,fig_7.2.12_2022,country,7
+fig_7.2.12,fig_7.2.12_2023,country,7
+fig_7.2.13,fig_7.2.13_Education level abbreviated,country,7
+fig_7.2.13,fig_7.2.13_Group,country,7
+fig_7.2.13,fig_7.2.13_Percent Female,country,7
+fig_7.2.14,"fig_7.2.14_Number of CS, CE, and information faculty",category,7
+fig_7.2.15,fig_7.2.15_Label,category,7
+fig_7.2.15,fig_7.2.15_Race/Ethnicity,category,7
+fig_7.2.16,fig_7.2.16_University students (% of total) who have used GenAI,country,7
+fig_7.2.17,fig_7.2.17_% of Respondents,category,7
+fig_7.2.1_hardware,fig_7.2.1_hardware_value,organization,7
+fig_7.2.1_software,fig_7.2.1_software_value,organization,7
+fig_7.2.2_hardware,fig_7.2.2_hardware_Female,category,7
+fig_7.2.2_hardware,fig_7.2.2_hardware_Male,category,7
+fig_7.2.2_software,fig_7.2.2_software_Female,category,7
+fig_7.2.2_software,fig_7.2.2_software_Male,category,7
+fig_7.2.3,fig_7.2.3_Label,category,7
+fig_7.2.3,fig_7.2.3_Race/Ethnicity,category,7
+fig_7.2.4,fig_7.2.4_Label,category,7
+fig_7.2.4,fig_7.2.4_Race/Ethnicity,category,7
+fig_7.2.5_hardware,fig_7.2.5_hardware_Nonresident,category,7
+fig_7.2.5_hardware,fig_7.2.5_hardware_Resident,category,7
+fig_7.2.5_software,fig_7.2.5_software_Nonresident,category,7
+fig_7.2.5_software,fig_7.2.5_software_Resident,category,7
+fig_7.2.7,fig_7.2.7_Number of new AI PhD graduates,category,7
+fig_7.2.8,fig_7.2.8_New AI PhD graduates (% of total),category,7
+fig_7.2.9,fig_7.2.9_2022,country,7
+fig_7.2.9,fig_7.2.9_2023,country,7
+fig_7.3.10,fig_7.3.10_Percent of HS offering CS,us_state,7
+fig_7.3.10,fig_7.3.10_Percent of students enrolled,us_state,7
+fig_7.3.11,fig_7.3.11_Race/Ethnicity,category,7
+fig_7.3.12,fig_7.3.12_Group,category,7
+fig_7.3.13,fig_7.3.13_Number of AP computer science exams taken (in thousands),global,7
+fig_7.3.14,fig_7.3.14_Number of AP computer science exams taken,category,7
+fig_7.3.15,fig_7.3.15_AP computer science exams taken (% of total responding students),category,7
+fig_7.3.16,fig_7.3.16_Race/Ethnicity,category,7
+fig_7.3.17,fig_7.3.17_% of Respondents,category,7
+fig_7.3.18,fig_7.3.18_Status,us_state,7
+fig_7.3.19,fig_7.3.19_Country Code,country,7
+fig_7.3.19,fig_7.3.19_Status,country,7
+fig_7.3.1,fig_7.3.1_% of schools,global,7
+fig_7.3.2,fig_7.3.2_percent_public_hs_teach_cs,us_state,7
+fig_7.3.3,fig_7.3.3_percent_students,us_state,7
+fig_7.3.4,fig_7.3.4_% of schools,global,7
+fig_7.3.5,fig_7.3.5_Percent,category,7
+fig_7.3.6,fig_7.3.6_Percent,category,7
+fig_7.3.7,fig_7.3.7_Percent,category,7
+fig_7.3.8,fig_7.3.8_name,us_state,7
+fig_7.3.8,fig_7.3.8_percent_students,us_state,7
+fig_7.3.9,fig_7.3.9_percent_students,us_state,7
+fig_7.4.1,fig_7.4.1_Relative AI skill penetration rate,country,7
+fig_7.4.2,fig_7.4.2_Label,country,7
+fig_7.4.2,fig_7.4.2_Relative AI Skill Penetration Rate,country,7
+fig_7.4.3,fig_7.4.3_Skills Diffusion Index (AI Engineering skills),country,7
+fig_7.4.3,fig_7.4.3_Skills Diffusion Index (AI Literacy skills),country,7
+fig_8.2.1,fig_8.2.1_2019,country,8
+fig_8.2.1,fig_8.2.1_2020,country,8
+fig_8.2.1,fig_8.2.1_2021,country,8
+fig_8.2.1,fig_8.2.1_2022,country,8
+fig_8.2.1,fig_8.2.1_2023,country,8
+fig_8.2.1,fig_8.2.1_2024,country,8
+fig_8.2.1,fig_8.2.1_2025,country,8
+fig_8.3.1,fig_8.3.1_Cumulative number of AI supercomputers,category,8
+fig_8.3.2,fig_8.3.2_has_nvidia,country,8
+fig_8.3.2,fig_8.3.2_has_openai,country,8
+fig_8.3.2,fig_8.3.2_initiative_type,country,8
+fig_8.3.3,fig_8.3.3_Cumulative number of data localization measures,category,8
+fig_8.3.4,fig_8.3.4_Cumulative number of AI models released,category,8
+fig_8.3.5,fig_8.3.5_Agriculture and environment,country,8
+fig_8.3.5,fig_8.3.5_Business and enterprise services,country,8
+fig_8.3.5,fig_8.3.5_Consumer and lifestyle,country,8
+fig_8.3.5,fig_8.3.5_Education,country,8
+fig_8.3.5,fig_8.3.5_Financial services,country,8
+fig_8.3.5,fig_8.3.5_General-purpose AI capabilities,country,8
+fig_8.3.5,fig_8.3.5_Healthcare and life sciences,country,8
+fig_8.3.5,"fig_8.3.5_Industry, energy and infrastructure",country,8
+fig_8.3.5,fig_8.3.5_Legal services,country,8
+fig_8.3.5,fig_8.3.5_Public sector and governance,country,8
+fig_8.3.5,fig_8.3.5_Security and defense,country,8
+fig_8.3.6,fig_8.3.6_flow_n,category,8
+fig_8.3.6,fig_8.3.6_flow_type,category,8
+fig_8.4.10,fig_8.4.10_Number of AI-related regulations,global,8
+fig_8.4.11,fig_8.4.11_Number of AI-related regulations,organization,8
+fig_8.4.1,fig_8.4.1_Number of AI-related bills passed,global,8
+fig_8.4.2,fig_8.4.2_Number of AI-related bills passed into law,country,8
+fig_8.4.3,"fig_8.4.3_Number of AI-related bills passed into law, 2016–25 (sum)",country,8
+fig_8.4.4,fig_8.4.4_Number of AI-related bills passed,global,8
+fig_8.4.5,fig_8.4.5_Number of AI-related bills 2016–24 (sum),us_state,8
+fig_8.4.6,fig_8.4.6_Number of AI-related bills passed 2016–25,us_state,8
+fig_8.4.7,fig_8.4.7_Number of witnesses,global,8
+fig_8.4.8,fig_8.4.8_Label,category,8
+fig_8.4.8,fig_8.4.8_Witnesses (% of total),category,8
+fig_8.4.9,fig_8.4.9_Label,category,8
+fig_8.4.9,fig_8.4.9_Number of Witnesses,category,8
+fig_8.5.10,fig_8.5.10_Median Contract Value (M$),country,8
+fig_8.5.11,fig_8.5.11_Public spending on AI-related contracts (% of total),category,8
+fig_8.5.1,fig_8.5.1_cumulative_value,category,8
+fig_8.5.2,fig_8.5.2_Public spending on AI (in billions of US dollars),category,8
+fig_8.5.4,fig_8.5.4_Value,us_state,8
+fig_8.5.5,fig_8.5.5_Value,us_state,8
+fig_8.5.6,fig_8.5.6_Public spending on AI-related contracts and OTAs (% of total),category,8
+fig_8.5.7,fig_8.5.7_Public spending on AI-related grants (% of total),category,8
+fig_8.5.8,fig_8.5.8_cumulative_value,country,8
+fig_8.5.9,fig_8.5.9_N. Contracts,country,8
+fig_9.1.10,fig_9.1.10_trust_ai_at_work,country,9
+fig_9.1.10,fig_9.1.10_using_ai_at_work,country,9
+fig_9.1.11,fig_9.1.11_% of respondents,country,9
+fig_9.1.11,fig_9.1.11_Category,country,9
+fig_9.1.1,fig_9.1.1_Value,category,9
+fig_9.1.2,"fig_9.1.2_% of respondents that ""Agree""",country,9
+fig_9.1.3,fig_9.1.3_Country,category,9
+fig_9.1.3,fig_9.1.3_Response,category,9
+fig_9.1.4,fig_9.1.4_Country,category,9
+fig_9.1.4,fig_9.1.4_Response,category,9
+fig_9.1.5,fig_9.1.5_Country,category,9
+fig_9.1.5,fig_9.1.5_Response,category,9
+fig_9.1.6,fig_9.1.6_Country,category,9
+fig_9.1.6,fig_9.1.6_Response,category,9
+fig_9.1.7,fig_9.1.7_Response,category,9
+fig_9.1.8,fig_9.1.8_Label,country,9
+fig_9.1.8,fig_9.1.8_Percent of respondents,country,9
+fig_9.1.9,fig_9.1.9_Country,category,9
+fig_9.1.9,fig_9.1.9_Response,category,9
+fig_9.2.10,fig_9.2.10_Label,country,9
+fig_9.2.10,fig_9.2.10_Percent of respondents,country,9
+fig_9.2.1,fig_9.2.1_Label,category,9
+fig_9.2.1,fig_9.2.1_Percentage,category,9
+fig_9.2.2,fig_9.2.2_Label,category,9
+fig_9.2.2,fig_9.2.2_Percentage,category,9
+fig_9.2.3,fig_9.2.3_,category,9
+fig_9.2.3,fig_9.2.3_AI companionship adoption,category,9
+fig_9.2.4,fig_9.2.4_Percentage,category,9
+fig_9.2.4,fig_9.2.4_Response,category,9
+fig_9.2.5,fig_9.2.5_,category,9
+fig_9.2.5,fig_9.2.5_mean,category,9
+fig_9.2.5,fig_9.2.5_median,category,9
+fig_9.2.5,fig_9.2.5_question_percentile,category,9
+fig_9.2.5,fig_9.2.5_question_resolution_date,category,9
+fig_9.2.5,fig_9.2.5_question_resolution_year,category,9
+fig_9.2.5,fig_9.2.5_question_set_name,category,9
+fig_9.2.5,fig_9.2.5_unit_name,category,9
+fig_9.2.5,fig_9.2.5_w_mean,category,9
+fig_9.2.5,fig_9.2.5_w_median,category,9
+fig_9.2.6,fig_9.2.6_Label,category,9
+fig_9.2.6,fig_9.2.6_Percentage,category,9
+fig_9.2.7,fig_9.2.7_% of respondents,category,9
+fig_9.2.8,fig_9.2.8_Label,category,9
+fig_9.2.8,fig_9.2.8_Percent of respondents,category,9
+fig_9.2.9,fig_9.2.9_,category,9
+fig_9.2.9,fig_9.2.9_mean,category,9
+fig_9.2.9,fig_9.2.9_median,category,9
+fig_9.2.9,fig_9.2.9_question_percentile,category,9
+fig_9.2.9,fig_9.2.9_question_resolution_date,category,9
+fig_9.2.9,fig_9.2.9_question_resolution_year,category,9
+fig_9.2.9,fig_9.2.9_question_set_name,category,9
+fig_9.2.9,fig_9.2.9_unit_name,category,9
+fig_9.2.9,fig_9.2.9_w_mean,category,9
+fig_9.2.9,fig_9.2.9_w_median,category,9
+fig_9.3.1,fig_9.3.1_% of respondents,country,9
+fig_9.3.2,fig_9.3.2_response_perc,country,9
+fig_9.3.2,fig_9.3.2_trust_in,country,9
+fig_9.3.3,fig_9.3.3_Label,country,9
+fig_9.3.3,fig_9.3.3_Percent of respondents,country,9
+fig_9.3.4,fig_9.3.4_net_concern,us_state,9
+fig_9.3.5,fig_9.3.5_Label,us_state,9
+fig_9.3.5,fig_9.3.5_Percent of respondents,us_state,9
+fig_9.3.6,fig_9.3.6_Label,category,9
+fig_9.3.6,fig_9.3.6_Percent of respondents,category,9

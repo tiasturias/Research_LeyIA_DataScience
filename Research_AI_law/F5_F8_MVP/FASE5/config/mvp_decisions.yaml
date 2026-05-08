@@ -57,3 +57,50 @@ decisiones_v2:
     justificacion: "Fase 4 ya contiene analisis exploratorio de redundancia y estructura de varianza. Ratio N/p ~= 0.4 hace PCA inestable. Ridge/Lasso/Q4 cubren la funcion analitica relevante para sub-preguntas. Riesgo de investigator degrees of freedom y opacidad para audiencia politica supera beneficio diagnostico."
     revisor: "investigador_principal"
     estado: approved
+
+decisiones_v2_1_plus:
+  - id: F5-V2.1-001
+    fecha: "2026-05-08"
+    decision: "Eliminar train/test split de Fase 5"
+    justificacion: "La hipótesis principal es inferencial/comparativa; con N=43 un holdout 34/9 reduce potencia, puede sesgar composición geopolítica y no constituye validación externa real."
+    soporte_metodologico:
+      - "TRIPOD/TRIPOD-Cluster: split aleatorio interno no equivale a validación externa."
+      - "Harrell/Steyerberg: bootstrap/remuestreo es preferible a split-sample con muestras pequeñas."
+      - "Hernán & Robins: estudios observacionales deben reportar asociación ajustada salvo diseño causal explícito."
+    estado: approved
+
+  - id: F5-V2.1-002
+    fecha: "2026-05-08"
+    decision: "Reemplazar split por analysis_sample_membership.csv"
+    justificacion: "Fase 6 requiere muestra primaria completa por outcome y Fase 7 requiere flags de sensibilidad, no particiones train/test."
+    estado: approved
+
+  - id: F5-V2.1-003
+    fecha: "2026-05-08"
+    decision: "El contrato phase6_modeling_contract.yaml declara use_holdout_test_set=false"
+    justificacion: "Evita que scripts, notebooks, tests o informes vuelvan a presentar países como test independiente."
+    estado: approved
+
+  - id: F5-V2.1-004
+    fecha: "2026-05-08"
+    decision: "Mantener 43 países y 46 variables observadas reales"
+    justificacion: "La corrección metodológica no reabre curaduría sustantiva; corrige contrato, semántica y auditabilidad."
+    estado: approved
+
+  - id: F5-V2.1-005
+    fecha: "2026-05-08"
+    decision: "Armonizar nomenclatura 40/46 variables"
+    justificacion: "El material legacy conserva etiquetas 40, pero el output real contiene 46 variables observadas; todo output nuevo debe usar 46 o aclarar explícitamente que 40 es nombre heredado."
+    estado: approved
+
+  - id: F5-V2.1-006
+    fecha: "2026-05-08"
+    decision: "Excluir derivadas no estimables de modelado primario"
+    justificacion: "Transformaciones con MAD=0 o variabilidad insuficiente no deben ingresar como features primarias; se preservan para auditoría y se excluyen de phase6_column_groups primarios."
+    estado: approved
+
+  - id: F5-V2.1-007
+    fecha: "2026-05-08"
+    decision: "Regenerar workbook auditable sin lenguaje de holdout"
+    justificacion: "La deuda metodológica no es solo de código; también está en la narrativa del Excel."
+    estado: approved
