@@ -135,7 +135,7 @@ def build_country_q_profile_wide(profile_long: pd.DataFrame, clusters: pd.DataFr
             wide.at[wide.index[i], "Q4_regulatory_profile"] = Q4_SIN_DATOS_LABEL
 
     wide["Q4_data_source"] = wide["cluster_kmeans"].apply(
-        lambda x: "IAPP_clustering" if pd.notna(x) else "corpus_regulatory_counts"
+        lambda x: "Techieray_clustering" if pd.notna(x) else "corpus_regulatory_counts"
     )
 
     wide["overall_country_profile_score_is_descriptive"] = True

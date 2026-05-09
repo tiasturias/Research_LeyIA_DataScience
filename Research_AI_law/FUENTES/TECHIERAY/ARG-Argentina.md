@@ -169,27 +169,27 @@ Public Sector & Governance
 
 ### Nivel 1 — Todos los países (6 variables)
 
-- [ ] `tr_ley_ia_vigente:` SI / NO
-- [ ] `tr_proyecto_ley_ia:` 
-- [ ] `tr_estrategia_nacional_ia:` 
-- [ ] `tr_tiene_guia_softlaw:` 
-- [ ] `tr_tiene_autoridad_dedicada:` 
-- [ ] `tr_categoria_obligatoriedad:` binding / non-binding / mixed / none
+- [x] `tr_ley_ia_vigente:` 0
+- [x] `tr_proyecto_ley_ia:` 1
+- [x] `tr_estrategia_nacional_ia:` 1
+- [x] `tr_tiene_guia_softlaw:` 1
+- [x] `tr_tiene_autoridad_dedicada:` 1
+- [x] `tr_categoria_obligatoriedad:` non-binding
 
 ### Nivel 2 — Si el RAW tiene suficiente info (7 variables)
 
-- [ ] `tr_n_leyes_relacionadas:` 
-- [ ] `tr_n_autoridades:` 
-- [ ] `tr_sandbox_regulatorio:` 
-- [ ] `tr_marcos_voluntarios:` 
-- [ ] `tr_instituto_seguridad_ia:` 
-- [ ] `tr_herramientas_testing:` 
-- [ ] `tr_modelo_gobernanza:` centralized / sectoral / distributed / none
+- [x] `tr_n_leyes_relacionadas:` 1
+- [x] `tr_n_autoridades:` 1
+- [x] `tr_sandbox_regulatorio:` 0
+- [x] `tr_marcos_voluntarios:` 1
+- [x] `tr_instituto_seguridad_ia:` 0
+- [x] `tr_herramientas_testing:` 1
+- [x] `tr_modelo_gobernanza:` centralized
 
 ### Nivel 3 — Validación (si aplica)
 
-- [ ] `tr_adhiere_oecd:` 
-- [ ] `tr_adopto_unesco:` 
+- [x] `tr_adhiere_oecd:` 0
+- [x] `tr_adopto_unesco:` 1
 
 ---
 > IAPP crosscheck: `iapp_ley_ia_vigente=` / `iapp_proyecto_ley_ia=`

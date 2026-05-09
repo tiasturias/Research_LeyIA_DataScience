@@ -1,7 +1,7 @@
 {
   "version": "2.1",
-  "created_at": "2026-05-08T09:07:40.633877+00:00",
-  "git_sha": "f8178e0da02d681eee3283fcc001b58de0b578e7",
+  "created_at": "2026-05-09T17:09:24.313165+00:00",
+  "git_sha": "fa1c702cf1566616e6667dc9d61044abfac54276",
   "fase3_version": "1.1",
   "fase5_version": "2.1",
   "methodology_version": "mvp-v0.2-methodology-correction-plus",
@@ -22,8 +22,8 @@
   "outliers_preserved": true,
   "inputs_hashed": {
     "FASE3/outputs/Matriz_Madre_Fase3.xlsx": {
-      "sha256": "5183a17e4f65ec6ca1eef4a8c2cdd7bc2284084cd6375da7c090abe3a401749a",
-      "bytes": 28416186
+      "sha256": "2c6f0d3a58fef89aa8be6e4a4a4a37b1e0d8f5d057d0330d3aae48ca0a944d02",
+      "bytes": 28437548
     },
     "FASE3/outputs/README_MATRIZ_MADRE.md": {
       "sha256": "911c0b9e8c290b2ed92301a7ae30260e76d5ad8e45df8df63238273824e6ad56",
@@ -38,16 +38,16 @@
       "bytes": 918
     },
     "FASE3/outputs/fase3_diccionario_variables.csv": {
-      "sha256": "65c041be79455db3c8251bc771a8f0d4eea4acaf54d8657a8a25f5265e393a9d",
-      "bytes": 154571
+      "sha256": "0a14e7dca1219e67275ebff6e1929a6e517e77deb8f8795dd6468983c4544f15",
+      "bytes": 158869
     },
     "FASE3/outputs/fase3_entidades_excluidas_geografia.csv": {
       "sha256": "0e43cd86ee7a2847e6f9efe5fc202697e7b9a5b515aab3c14bd523f3fa7ecdf2",
       "bytes": 6522
     },
     "FASE3/outputs/fase3_fuentes_usadas.csv": {
-      "sha256": "47dbdf5d962ef214a3f8611a0a32eb5d156773c5678f03c69296f44e1505e957",
-      "bytes": 1263
+      "sha256": "411701527d23b9b9ebd8e3578ff76bb79057ccb616d62fb704a56e8ad0a81f3e",
+      "bytes": 1392
     },
     "FASE3/outputs/fase3_geo_crosswalk_manual.csv": {
       "sha256": "f3887557ee80fe393167d124bf7c684f388444cf13eb172674f3fad4e1d9d507",
@@ -86,8 +86,8 @@
       "bytes": 524
     },
     "FASE3/outputs/manifest.json": {
-      "sha256": "5db83f59ec74de21a2abfc5e24ac6f252ee353b9d148a200f7997c71812bb9ea",
-      "bytes": 9831
+      "sha256": "0bfc8f85fc685290940ba7b4b4ce09da62d334734f880a327f2334cd219c6b48",
+      "bytes": 11226
     },
     "FASE3/outputs/matriz_larga_panel.csv": {
       "sha256": "950d505757d778c7eeb1dbc6a734c3e73763a081c2cf103ac85a2649c4c7b06c",
@@ -102,8 +102,8 @@
       "bytes": 18207054
     },
     "FASE3/outputs/matriz_madre_wide.csv": {
-      "sha256": "ce8fe90f069c8c5d8ba4853310220a226ae964e888394e8da24956d003d390c1",
-      "bytes": 1715939
+      "sha256": "accc797de5a343e71884fd97d17b82481cc22a6a2aae8a9c258ff13c0ff41572",
+      "bytes": 1721732
     },
     "FASE4/outputs/eda_principal/EDA_Principal_Fase4.html": {
       "sha256": "7ab7a2f66a51571821cf626041cd9c0d103ac97a75af450471fc3039f4038616",
@@ -324,16 +324,16 @@
       "bytes": 5162
     },
     "FASE5/config/mvp_pipeline.yaml": {
-      "sha256": "6cb9738612dcba358b74ec7bafe4786041f6c74dc38add4ed911b361ebbd93f4",
-      "bytes": 1216
+      "sha256": "9b41bab3d964b96976f0c0c077616c8b5a5761233178ea717e5879f895d8c79b",
+      "bytes": 1212
     },
     "FASE5/config/mvp_sample.yaml": {
       "sha256": "5e12c707438d654a504a36baaec624b17d3a045a8aad9d3d22c3565b1716e089",
       "bytes": 4678
     },
     "FASE5/config/mvp_variables.yaml": {
-      "sha256": "2c16a687c0116be4ffa57d30829729a793bdd8a8d14ddf85584674828b853b3b",
-      "bytes": 9701
+      "sha256": "c3f33a23c780153803707383bcb61d02659f532bf64d7c386e5093974097b485",
+      "bytes": 9303
     },
     "FASE5/src/__init__.py": {
       "sha256": "fbfb8e8eda06b2d3b10f5ddd5dd08f929a94e6e31bffa557f2b04a75f55254cc",
@@ -348,7 +348,7 @@
       "bytes": 51936
     },
     "FASE5/src/build.py": {
-      "sha256": "a4148399078c9a2dbcbbfab6245cc3768192fd6fdd90ea775ef31fe7015a01cb",
+      "sha256": "e53df4e97ebe8a79905a47136cc066d6777983fed6f0e620c5141f11a8bed56f",
       "bytes": 10729
     },
     "FASE5/src/config.py": {
@@ -376,7 +376,7 @@
       "bytes": 9077
     },
     "FASE5/src/variables.py": {
-      "sha256": "3a1eaf632af1f455d01251e41d717c31c390cbf0e53c40a5dde9bac904e1979b",
+      "sha256": "69bac03c506a56c9f1cd62e443cc62b8a1087810c28b47b2857874aaa4776bfd",
       "bytes": 2632
     },
     "FASE5/tests/conftest.py": {
@@ -455,13 +455,13 @@
   "outputs_hashed": {
     "feature_matrix_mvp.csv": {
       "path": "FASE5/outputs/feature_matrix_mvp.csv",
-      "sha256": "a02bc327ba12e26403527d5759994f1b09554032f9a95f8e9f83675f59b1c668",
-      "bytes": 93419
+      "sha256": "feca746d14d43c2a87727e444d719961bd6597e2f496729287e1718471b43522",
+      "bytes": 91032
     },
     "coverage_report_mvp.csv": {
       "path": "FASE5/outputs/coverage_report_mvp.csv",
-      "sha256": "734612962778299cafafc2cebff62a19ffe6cacc4c530081d8db1eb52877a1dd",
-      "bytes": 2259
+      "sha256": "9f242ae7ab644c1a44dfb91e76229432988bb7e4403ba572bfffd6d77c90fa80",
+      "bytes": 2160
     },
     "mvp_countries.csv": {
       "path": "FASE5/outputs/mvp_countries.csv",
@@ -470,13 +470,13 @@
     },
     "mvp_variables_catalog.csv": {
       "path": "FASE5/outputs/mvp_variables_catalog.csv",
-      "sha256": "33b9fe8832cfbe0020d6c3d8062ba17212d97f4bb1ee915b5ab0add9669c44e5",
-      "bytes": 10537
+      "sha256": "bff030f9e638e20f5a5e6b0a5f150045e39a239831b7810807f39bf978fddd3d",
+      "bytes": 9653
     },
     "mvp_transform_params.csv": {
       "path": "FASE5/outputs/mvp_transform_params.csv",
-      "sha256": "8a9fcccb5cd4fddee9fd79b0c6941521bc136393a646ad1386b0d1377b960c98",
-      "bytes": 12298
+      "sha256": "fd91ee5a64e5b9cc46fa8d18ec0c85471cf7acc51f8be05ccad07cd3db3e329c",
+      "bytes": 12031
     },
     "analysis_sample_membership.csv": {
       "path": "FASE5/outputs/analysis_sample_membership.csv",
@@ -485,53 +485,53 @@
     },
     "MVP_AUDITABLE.xlsx": {
       "path": "FASE5/outputs/MVP_AUDITABLE.xlsx",
-      "sha256": "a2731d22e9415e5797f0fb67cb4b6195acdef8620077d112f7603f60ff2235b8",
-      "bytes": 207435
+      "sha256": "db45401ed602952391c7e16ba6a8467940df42cc59fa4e265bd4baed70587e56",
+      "bytes": 195687
     },
     "phase6_ready/phase6_feature_matrix.csv": {
       "path": "FASE5/outputs/phase6_ready/phase6_feature_matrix.csv",
-      "sha256": "a02bc327ba12e26403527d5759994f1b09554032f9a95f8e9f83675f59b1c668",
-      "bytes": 93419
+      "sha256": "feca746d14d43c2a87727e444d719961bd6597e2f496729287e1718471b43522",
+      "bytes": 91032
     },
     "phase6_ready/phase6_schema.csv": {
       "path": "FASE5/outputs/phase6_ready/phase6_schema.csv",
-      "sha256": "e735bf1c82f05f75bafa25fd75aba17f49167e4537c7b71887e7a037ab8ba236",
-      "bytes": 15608
+      "sha256": "82f9464b8b6d621318903e6598e24b874fa593ae4ad325f2d85e0b313b948657",
+      "bytes": 13784
     },
     "phase6_ready/phase6_schema.json": {
       "path": "FASE5/outputs/phase6_ready/phase6_schema.json",
-      "sha256": "62dbd946a36a9b91ac6be2d965196ba471968e1e0e9f4fc5c30e4232d4fc653f",
-      "bytes": 48195
+      "sha256": "590ea897c8207aad00845ffaf6102f971a7c07944c9b167a38435268c68e83d3",
+      "bytes": 43277
     },
     "phase6_ready/phase6_column_groups.yaml": {
       "path": "FASE5/outputs/phase6_ready/phase6_column_groups.yaml",
-      "sha256": "f564133d413152a7c8c3ee6fb8f12f5a6f5c41fc7c12044c5afffaa0124973cb",
-      "bytes": 13459
+      "sha256": "316732d066722ba66b9be5ab492b9b9f68904f60cd74ee445877a03a8bceddba",
+      "bytes": 11947
     },
     "phase6_ready/phase6_modeling_contract.yaml": {
       "path": "FASE5/outputs/phase6_ready/phase6_modeling_contract.yaml",
-      "sha256": "5451a2b5336bddf7c141539dff8d173f57ca15dea72e956d79d3fb623064db61",
-      "bytes": 20882
+      "sha256": "1a3e1958f0890bd13c93913a2d50a8a953955073fba7b970fe772b704e0d6794",
+      "bytes": 19188
     },
     "phase6_ready/phase6_missingness_by_column.csv": {
       "path": "FASE5/outputs/phase6_ready/phase6_missingness_by_column.csv",
-      "sha256": "1742ffece750d12c822d1f44b8124c96644c548c79dc9f533798a72f602bc241",
-      "bytes": 5995
+      "sha256": "03bd34832c0c2de7a2b2ddfc6c1ca75f091e01ad607a5bc0fda49149394bdf27",
+      "bytes": 5112
     },
     "phase6_ready/phase6_missingness_by_country.csv": {
       "path": "FASE5/outputs/phase6_ready/phase6_missingness_by_country.csv",
-      "sha256": "ca3aa2eba8a45224bdb5dae4b544b8c0caa2798e6c21cf278bc107c23cd192ce",
-      "bytes": 1526
+      "sha256": "4008aecc415b43b1b7e16a4f019956e3edd2c63d59a345aae56d4e73ae047319",
+      "bytes": 1417
     },
     "phase6_ready/phase6_variables_catalog.csv": {
       "path": "FASE5/outputs/phase6_ready/phase6_variables_catalog.csv",
-      "sha256": "33b9fe8832cfbe0020d6c3d8062ba17212d97f4bb1ee915b5ab0add9669c44e5",
-      "bytes": 10537
+      "sha256": "bff030f9e638e20f5a5e6b0a5f150045e39a239831b7810807f39bf978fddd3d",
+      "bytes": 9653
     },
     "phase6_ready/phase6_transform_params.csv": {
       "path": "FASE5/outputs/phase6_ready/phase6_transform_params.csv",
-      "sha256": "8a9fcccb5cd4fddee9fd79b0c6941521bc136393a646ad1386b0d1377b960c98",
-      "bytes": 12298
+      "sha256": "fd91ee5a64e5b9cc46fa8d18ec0c85471cf7acc51f8be05ccad07cd3db3e329c",
+      "bytes": 12031
     },
     "phase6_ready/phase6_analysis_sample_membership.csv": {
       "path": "FASE5/outputs/phase6_ready/phase6_analysis_sample_membership.csv",
@@ -545,37 +545,37 @@
     },
     "phase6_ready/phase6_ready_manifest.json": {
       "path": "FASE5/outputs/phase6_ready/phase6_ready_manifest.json",
-      "sha256": "bda6c5f6fc5f91a2ef5358e7ba7c244e09318a8556f4484b9677b5dd0fdc0256",
-      "bytes": 2906
+      "sha256": "79db41ca822da4dec825012f78a35a359db9dca254879fcde1d53bf7c8d5f5f3",
+      "bytes": 2905
     }
   },
   "rules": {
     "phase3_phase4_immutable": true,
     "no_imputation": true,
     "n_mvp_entities": 43,
-    "n_observed_core_variables": 46,
+    "n_observed_core_variables": 44,
     "backwards_compatible_with_v1_0": true,
     "pca_included": false
   },
   "outputs": {
-    "feature_matrix_mvp.csv": "a02bc327ba12e26403527d5759994f1b09554032f9a95f8e9f83675f59b1c668",
-    "coverage_report_mvp.csv": "734612962778299cafafc2cebff62a19ffe6cacc4c530081d8db1eb52877a1dd",
+    "feature_matrix_mvp.csv": "feca746d14d43c2a87727e444d719961bd6597e2f496729287e1718471b43522",
+    "coverage_report_mvp.csv": "9f242ae7ab644c1a44dfb91e76229432988bb7e4403ba572bfffd6d77c90fa80",
     "mvp_countries.csv": "733a39f0ce0ae48800f19e973bf0792ff60bd11f3cf3fea88365d920c4082354",
-    "mvp_variables_catalog.csv": "33b9fe8832cfbe0020d6c3d8062ba17212d97f4bb1ee915b5ab0add9669c44e5",
-    "mvp_transform_params.csv": "8a9fcccb5cd4fddee9fd79b0c6941521bc136393a646ad1386b0d1377b960c98",
+    "mvp_variables_catalog.csv": "bff030f9e638e20f5a5e6b0a5f150045e39a239831b7810807f39bf978fddd3d",
+    "mvp_transform_params.csv": "fd91ee5a64e5b9cc46fa8d18ec0c85471cf7acc51f8be05ccad07cd3db3e329c",
     "analysis_sample_membership.csv": "9f6b1446553ef88ffcdb6806509baf92991da27f8f62fcbde413ae0bf30d2f35",
-    "MVP_AUDITABLE.xlsx": "a2731d22e9415e5797f0fb67cb4b6195acdef8620077d112f7603f60ff2235b8",
-    "phase6_ready/phase6_feature_matrix.csv": "a02bc327ba12e26403527d5759994f1b09554032f9a95f8e9f83675f59b1c668",
-    "phase6_ready/phase6_schema.csv": "e735bf1c82f05f75bafa25fd75aba17f49167e4537c7b71887e7a037ab8ba236",
-    "phase6_ready/phase6_schema.json": "62dbd946a36a9b91ac6be2d965196ba471968e1e0e9f4fc5c30e4232d4fc653f",
-    "phase6_ready/phase6_column_groups.yaml": "f564133d413152a7c8c3ee6fb8f12f5a6f5c41fc7c12044c5afffaa0124973cb",
-    "phase6_ready/phase6_modeling_contract.yaml": "5451a2b5336bddf7c141539dff8d173f57ca15dea72e956d79d3fb623064db61",
-    "phase6_ready/phase6_missingness_by_column.csv": "1742ffece750d12c822d1f44b8124c96644c548c79dc9f533798a72f602bc241",
-    "phase6_ready/phase6_missingness_by_country.csv": "ca3aa2eba8a45224bdb5dae4b544b8c0caa2798e6c21cf278bc107c23cd192ce",
-    "phase6_ready/phase6_variables_catalog.csv": "33b9fe8832cfbe0020d6c3d8062ba17212d97f4bb1ee915b5ab0add9669c44e5",
-    "phase6_ready/phase6_transform_params.csv": "8a9fcccb5cd4fddee9fd79b0c6941521bc136393a646ad1386b0d1377b960c98",
+    "MVP_AUDITABLE.xlsx": "db45401ed602952391c7e16ba6a8467940df42cc59fa4e265bd4baed70587e56",
+    "phase6_ready/phase6_feature_matrix.csv": "feca746d14d43c2a87727e444d719961bd6597e2f496729287e1718471b43522",
+    "phase6_ready/phase6_schema.csv": "82f9464b8b6d621318903e6598e24b874fa593ae4ad325f2d85e0b313b948657",
+    "phase6_ready/phase6_schema.json": "590ea897c8207aad00845ffaf6102f971a7c07944c9b167a38435268c68e83d3",
+    "phase6_ready/phase6_column_groups.yaml": "316732d066722ba66b9be5ab492b9b9f68904f60cd74ee445877a03a8bceddba",
+    "phase6_ready/phase6_modeling_contract.yaml": "1a3e1958f0890bd13c93913a2d50a8a953955073fba7b970fe772b704e0d6794",
+    "phase6_ready/phase6_missingness_by_column.csv": "03bd34832c0c2de7a2b2ddfc6c1ca75f091e01ad607a5bc0fda49149394bdf27",
+    "phase6_ready/phase6_missingness_by_country.csv": "4008aecc415b43b1b7e16a4f019956e3edd2c63d59a345aae56d4e73ae047319",
+    "phase6_ready/phase6_variables_catalog.csv": "bff030f9e638e20f5a5e6b0a5f150045e39a239831b7810807f39bf978fddd3d",
+    "phase6_ready/phase6_transform_params.csv": "fd91ee5a64e5b9cc46fa8d18ec0c85471cf7acc51f8be05ccad07cd3db3e329c",
     "phase6_ready/phase6_analysis_sample_membership.csv": "9f6b1446553ef88ffcdb6806509baf92991da27f8f62fcbde413ae0bf30d2f35",
     "phase6_ready/phase6_llm_context.json": "d467bc7b8e4e108b869524709801efc2ce72a5cde4586e502322faf63ef559ef",
-    "phase6_ready/phase6_ready_manifest.json": "bda6c5f6fc5f91a2ef5358e7ba7c244e09318a8556f4484b9677b5dd0fdc0256"
+    "phase6_ready/phase6_ready_manifest.json": "79db41ca822da4dec825012f78a35a359db9dca254879fcde1d53bf7c8d5f5f3"
   }
 }

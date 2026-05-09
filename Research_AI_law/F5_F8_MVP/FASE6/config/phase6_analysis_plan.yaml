@@ -28,7 +28,7 @@ predictor_sets:
   regulatory_core:
     - n_binding
     - n_non_binding
-    - iapp_ley_ia_vigente
+    - tr_ley_ia_vigente
   controls_minimal:
     - wb_gdp_per_capita_ppp_log
     - wb_internet_penetration

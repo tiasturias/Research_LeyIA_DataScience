@@ -135,12 +135,11 @@ def get_x1_aggregated() -> list[str]:
     return ["n_binding", "n_non_binding", "n_hybrid", "regulatory_intensity", "n_regulatory_mechanisms"]
 
 
-def get_x1_iapp_raw() -> list[str]:
-    """6 variables IAPP raw (cobertura 18/43)."""
+def get_x1_tr_raw() -> list[str]:
+    """6 variables Techieray raw."""
     return [
-        "iapp_ley_ia_vigente", "iapp_categoria_obligatoriedad",
-        "iapp_proyecto_ley_ia", "iapp_modelo_gobernanza",
-        "iapp_n_leyes_relacionadas", "iapp_n_autoridades",
+        "tr_ley_ia_vigente", "tr_categoria_obligatoriedad",
+        "tr_proyecto_ley_ia", "tr_modelo_gobernanza"
     ]
 
 

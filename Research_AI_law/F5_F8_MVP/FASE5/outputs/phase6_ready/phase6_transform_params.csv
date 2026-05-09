@@ -1,8 +1,6 @@
 variable_original,variable_derived,transform_type,method,n_non_missing,median,mad,mean,std,min,max,status,used_in_primary_modeling,exclusion_reason,notes
-iapp_ley_ia_vigente,iapp_ley_ia_vigente_z,robust_zscore,median_mad,18,0.0,0.0,0.3333333333333333,0.48507125007266594,0.0,1.0,zero_mad_or_not_estimable,False,Derived feature is non-estimable or unstable; preserve raw variable and exclude derived column from primary models.,
-iapp_proyecto_ley_ia,iapp_proyecto_ley_ia_z,robust_zscore,median_mad,18,1.0,0.0,0.5555555555555556,0.5113099925649136,0.0,1.0,zero_mad_or_not_estimable,False,Derived feature is non-estimable or unstable; preserve raw variable and exclude derived column from primary models.,
-iapp_n_leyes_relacionadas,iapp_n_leyes_relacionadas_z,robust_zscore,median_mad,18,7.5,1.5,8.0,2.400980191995124,5.0,12.0,ok,True,,
-iapp_n_autoridades,iapp_n_autoridades_z,robust_zscore,median_mad,18,7.0,1.5,6.444444444444445,2.120549934838553,2.0,10.0,ok,True,,
+tr_ley_ia_vigente,tr_ley_ia_vigente_z,robust_zscore,median_mad,43,0.0,0.0,0.023255813953488372,0.15249857033260467,0.0,1.0,zero_mad_or_not_estimable,False,Derived feature is non-estimable or unstable; preserve raw variable and exclude derived column from primary models.,
+tr_proyecto_ley_ia,tr_proyecto_ley_ia_z,robust_zscore,median_mad,43,1.0,0.0,0.7906976744186046,0.41162509149327114,0.0,1.0,zero_mad_or_not_estimable,False,Derived feature is non-estimable or unstable; preserve raw variable and exclude derived column from primary models.,
 oxford_ind_company_investment_emerging_tech,oxford_ind_company_investment_emerging_tech_z,robust_zscore,median_mad,43,64.25,18.0,60.18488372093023,22.032366707284364,23.5,100.0,ok,True,,
 oxford_ind_ai_unicorns_log,oxford_ind_ai_unicorns_log_log,log_transform,log1p,43,0.0,0.0,0.9501524956938672,1.574554893724875,0.0,4.61512051684126,ok,True,,
 oxford_ind_ai_unicorns_log,oxford_ind_ai_unicorns_log_z,robust_zscore,median_mad,43,0.0,0.0,9.801142838604651,20.81395868535224,0.0,100.0,zero_mad_or_not_estimable,False,Derived feature is non-estimable or unstable; preserve raw variable and exclude derived column from primary models.,

@@ -166,7 +166,7 @@ def build_phase5(save: bool = True) -> dict[str, pd.DataFrame | str]:
     wide = load_wide()
     dictionary = load_dictionary()
 
-    if wide.shape != (199, 1203):
+    if wide.shape != (199, 1218):
         raise ValueError(f"Wide shape inesperado: {wide.shape}")
     if not wide["entity_type"].eq("country_iso3").all():
         raise ValueError("Wide contiene entidades no country_iso3")

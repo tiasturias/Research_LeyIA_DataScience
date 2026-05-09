@@ -1,7 +1,7 @@
 version: "0.1"
 fecha: "2026-05-07"
 
-treatment_col: "iapp_ley_ia_vigente"
+treatment_col: "tr_ley_ia_vigente"
 caliper: 0.20
 n_boot: 2000
 seed: 42

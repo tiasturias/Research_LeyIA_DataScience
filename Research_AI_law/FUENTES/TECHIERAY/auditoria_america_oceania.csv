@@ -1,0 +1,13 @@
+ISO3,País,Ley_Vigente,Proy_de_Ley,Estrategia,Guía_Softlaw,Autoridad_Dedicada,Justificación_Notas
+ARG,Argentina,0,1,1,1,1,"Categórico: 'No comprehensive AI-specific law in force'. Existen múltiples 'draft bills' y guías éticas (AAIP)."
+BRA,Brasil,0,1,1,1,1,"PL 2338 sigue en Cámara (no muerto); nuevo PL de gobierno refuerza existencia de proyectos en curso."
+CAN,Canadá,0,0,1,1,1,"AIDA fue cancelado ('terminated in January 2025'). No han reintroducido otro 'bill'. Solo tienen guías voluntarias."
+CHL,Chile,0,1,1,1,0,"Proyecto activo (trámite abierto en congreso.cl). Tiene circular de consumidor."
+COL,Colombia,0,1,1,1,0,"Corregido: Hay draft bills en progreso (Ley 043, MinCiencias)."
+CRI,Costa Rica,0,1,1,0,0,"Evidencia de 'Draft AI bill in progress' y de Estrategia Nacional 2024-2027."
+MEX,México,0,1,0,0,0,"Iniciativas recientes (mar 2026) confirman proyecto de ley en trámite."
+PER,Perú,0,1,0,0,0,"Ley 2023 es promocional, no reguladora. Proyectos regulatorios en trámite."
+URY,Uruguay,0,0,1,1,0,"(Basado en el texto RAW general): Declaración de Montevideo firmada, y guías voluntarias. Sin evidencia de ley."
+USA,Estados Unidos,0,1,1,1,1,"Legislación fragmentada ('fragmented across local and state levels'). Carece de ley federal integral. Tiene bills, EOs y AISI."
+AUS,Australia,0,0,1,1,1,"'No AI-specific regulation yet'. El gobierno decidió no introducir legislación específica y usa el Plan Nacional."
+NZL,Nueva Zelanda,0,0,1,1,0,"'No comprehensive, binding AI-specific regulation'. Abordaje ligero y basado en principios. Consultan estrategia 2025."

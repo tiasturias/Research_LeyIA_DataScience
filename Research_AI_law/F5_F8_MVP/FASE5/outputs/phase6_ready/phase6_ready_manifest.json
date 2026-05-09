@@ -11,7 +11,7 @@
   "contract_file": "phase6_modeling_contract.yaml",
   "membership_file": "phase6_analysis_sample_membership.csv",
   "phase6_must_validate_contract_on_startup": true,
-  "created_at": "2026-05-08T09:07:40.621822+00:00",
+  "created_at": "2026-05-09T17:09:24.300545+00:00",
   "bundle_type": "phase6_ready_technical",
   "rules": {
     "no_imputation": true,
@@ -23,48 +23,48 @@
   "files": {
     "phase6_feature_matrix.csv": {
       "path": "phase6_feature_matrix.csv",
-      "sha256": "a02bc327ba12e26403527d5759994f1b09554032f9a95f8e9f83675f59b1c668",
-      "bytes": 93419
+      "sha256": "feca746d14d43c2a87727e444d719961bd6597e2f496729287e1718471b43522",
+      "bytes": 91032
     },
     "phase6_schema.csv": {
       "path": "phase6_schema.csv",
-      "sha256": "e735bf1c82f05f75bafa25fd75aba17f49167e4537c7b71887e7a037ab8ba236",
-      "bytes": 15608
+      "sha256": "82f9464b8b6d621318903e6598e24b874fa593ae4ad325f2d85e0b313b948657",
+      "bytes": 13784
     },
     "phase6_schema.json": {
       "path": "phase6_schema.json",
-      "sha256": "62dbd946a36a9b91ac6be2d965196ba471968e1e0e9f4fc5c30e4232d4fc653f",
-      "bytes": 48195
+      "sha256": "590ea897c8207aad00845ffaf6102f971a7c07944c9b167a38435268c68e83d3",
+      "bytes": 43277
     },
     "phase6_column_groups.yaml": {
       "path": "phase6_column_groups.yaml",
-      "sha256": "f564133d413152a7c8c3ee6fb8f12f5a6f5c41fc7c12044c5afffaa0124973cb",
-      "bytes": 13459
+      "sha256": "316732d066722ba66b9be5ab492b9b9f68904f60cd74ee445877a03a8bceddba",
+      "bytes": 11947
     },
     "phase6_modeling_contract.yaml": {
       "path": "phase6_modeling_contract.yaml",
-      "sha256": "5451a2b5336bddf7c141539dff8d173f57ca15dea72e956d79d3fb623064db61",
-      "bytes": 20882
+      "sha256": "1a3e1958f0890bd13c93913a2d50a8a953955073fba7b970fe772b704e0d6794",
+      "bytes": 19188
     },
     "phase6_missingness_by_column.csv": {
       "path": "phase6_missingness_by_column.csv",
-      "sha256": "1742ffece750d12c822d1f44b8124c96644c548c79dc9f533798a72f602bc241",
-      "bytes": 5995
+      "sha256": "03bd34832c0c2de7a2b2ddfc6c1ca75f091e01ad607a5bc0fda49149394bdf27",
+      "bytes": 5112
     },
     "phase6_missingness_by_country.csv": {
       "path": "phase6_missingness_by_country.csv",
-      "sha256": "ca3aa2eba8a45224bdb5dae4b544b8c0caa2798e6c21cf278bc107c23cd192ce",
-      "bytes": 1526
+      "sha256": "4008aecc415b43b1b7e16a4f019956e3edd2c63d59a345aae56d4e73ae047319",
+      "bytes": 1417
     },
     "phase6_variables_catalog.csv": {
       "path": "phase6_variables_catalog.csv",
-      "sha256": "33b9fe8832cfbe0020d6c3d8062ba17212d97f4bb1ee915b5ab0add9669c44e5",
-      "bytes": 10537
+      "sha256": "bff030f9e638e20f5a5e6b0a5f150045e39a239831b7810807f39bf978fddd3d",
+      "bytes": 9653
     },
     "phase6_transform_params.csv": {
       "path": "phase6_transform_params.csv",
-      "sha256": "8a9fcccb5cd4fddee9fd79b0c6941521bc136393a646ad1386b0d1377b960c98",
-      "bytes": 12298
+      "sha256": "fd91ee5a64e5b9cc46fa8d18ec0c85471cf7acc51f8be05ccad07cd3db3e329c",
+      "bytes": 12031
     },
     "phase6_analysis_sample_membership.csv": {
       "path": "phase6_analysis_sample_membership.csv",

@@ -11,15 +11,15 @@ def run_q4(fm: pd.DataFrame, config: dict) -> tuple[pd.DataFrame, pd.DataFrame]:
     # We use binding taxonomy or IAPP direct raw variables for clustering
     # Since NLP is out of scope, we use the structured variables.
     
-    # Selecting binary IAPP variables
-    iapp_vars = [
-        "iapp_ley_ia_vigente",
-        "iapp_proyecto_ley_ia",
-        "iapp_firmo_coe_convencion",
-        "iapp_estrategia_nacional_ia",
-        "iapp_adhiere_oecd_ai",
+    # Selecting binary Techieray variables
+    tr_vars = [
+        "tr_ley_ia_vigente",
+        "tr_proyecto_ley_ia",
+        "tr_estrategia_nacional_ia",
+        "tr_tiene_guia_softlaw",
+        "tr_tiene_autoridad_dedicada",
     ]
-    cols = [c for c in iapp_vars if c in fm.columns]
+    cols = [c for c in tr_vars if c in fm.columns]
     
     sub = fm[["iso3", "country_name_canonical"] + cols].dropna().copy()
     

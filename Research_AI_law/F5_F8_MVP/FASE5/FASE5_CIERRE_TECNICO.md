@@ -41,9 +41,9 @@ Todos estos insumos quedan hasheados en `outputs/fase5_manifest.json`.
 ## Resultados principales
 
 - Muestra MVP: 43 paises.
-- Variables observadas core: 40 variables reales verificadas contra Fase 3.
-- Matriz humana principal: `6_Matriz_40_Humana` en el Excel, 43 paises x 40 variables observadas, mas 4 identificadores.
-- Feature matrix tecnica: `outputs/feature_matrix_mvp.csv`, 43 filas x 126 columnas.
+- Variables observadas core: 44 variables reales verificadas contra Fase 3.
+- Matriz humana principal: `6_Matriz_44_Humana` en el Excel, 43 paises x 44 variables observadas, mas 4 identificadores.
+- Feature matrix tecnica: `outputs/feature_matrix_mvp.csv`, 43 filas x 124 columnas.
 - Cobertura minima: 41.86%.
 - Umbral preregistrado de cobertura: 30%.
 - Imputacion: ninguna.
@@ -51,11 +51,11 @@ Todos estos insumos quedan hasheados en `outputs/fase5_manifest.json`.
 - Fase 3/Fase 4 modificadas: no.
 - API publica: `FASE5.src.api`.
 
-## Diferencia entre 40 variables y 126 columnas
+## Diferencia entre 44 variables y 124 columnas
 
-Las 40 variables son el nucleo observado del estudio. Son las variables sustantivas que representan regulacion IA, inversion, adopcion, innovacion y controles.
+Las 44 variables son el nucleo observado del estudio. Son las variables sustantivas que representan regulacion IA (fuente Techieray auditada), inversion, adopcion, innovacion y controles.
 
-Las 126 columnas de `feature_matrix_mvp.csv` incluyen ademas:
+Las 124 columnas de `feature_matrix_mvp.csv` incluyen ademas:
 
 - metadatos de pais;
 - variables observadas originales;
@@ -67,7 +67,7 @@ Las 126 columnas de `feature_matrix_mvp.csv` incluyen ademas:
 
 Por eso el Excel separa:
 
-- `6_Matriz_40_Humana`: lectura humana sustantiva;
+- `6_Matriz_44_Humana`: lectura humana sustantiva;
 - `11_Features_Fase6`: matriz tecnica para modelado;
 - `12_Diccionario_Cols`: explicacion de cada columna tecnica.
 
@@ -80,8 +80,8 @@ Por eso el Excel separa:
 - `2_Como_Auditar`: protocolo human-in-the-loop para auditar variables y celdas.
 - `3_Paises_43`: paises, regiones, grupos de ingreso, motivos de inclusion y notas.
 - `4_Ingreso_Region`: explicacion de `income_group`, conteos por grupo y regiones.
-- `5_Variables_40`: las 40 variables reales, ID V01-V40, codigo exacto y rol analitico.
-- `6_Matriz_40_Humana`: matriz principal 43 x 40 para auditoria sustantiva.
+- `5_Variables_44`: las 44 variables reales, ID V01-V44, codigo exacto y rol analitico.
+- `6_Matriz_44_Humana`: matriz principal 43 x 44 para auditoria sustantiva.
 - `7_Leyenda_Colores`: significado exacto de los colores usados.
 - `8_Casos_Atencion`: casos que requieren cuidado, incluyendo Taiwan.
 - `9_Normalizacion`: explicacion didactica y metodologica de normalizacion, escalado, logs, z-scores, one-hot y no imputacion.
@@ -161,7 +161,18 @@ Resultado:
 
 ---
 
-## Actualizacion v2.0 - 2026-05-07
+## Actualización v3.0 (Techieray Audit) - 2026-05-09
+
+Fase 5 fue reejecutada tras una auditoría estricta de variables (Fase 4.5) que descubrió falsos positivos en los datos regulatorios originales (IAPP). Se decidió reemplazar IAPP por la extracción auditada y manual de Techieray.
+
+Cambios principales:
+- Fuente regulatoria principal: `tr_` (Techieray) en lugar de `iapp_`.
+- Variables observadas core: 46 -> 44 (se eliminaron variables de Nivel 2 de Techieray por falta de rigor numérico auditable).
+- Feature matrix tecnica: `43 x 124`.
+- Cobertura MVP restaurada, eliminando sesgos previos.
+
+Decision F5-V3-001:
+Se abandona IAPP como proxy primario en favor de un levantamiento manual, exhaustivo y auditado con Techieray (N=43). Esto incrementa drásticamente la calidad y validez del posterior estudio observacional.
 
 Fase 5 queda actualizada de forma backwards-compatible para habilitar Fase 6 v0.4 con Q1-Q6. Esta actualizacion no reabre Fase 3 ni Fase 4, no incorpora PCA y no cambia la submuestra de 43 paises.
 

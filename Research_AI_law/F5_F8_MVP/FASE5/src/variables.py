@@ -8,7 +8,7 @@ from _common.load import load_dictionary, load_mvp_variables_config
 from .config import META_COLS
 
 
-EXPECTED_MVP_VARIABLES = 46
+EXPECTED_MVP_VARIABLES = 44
 
 
 def get_mvp_variable_rows() -> list[dict]:

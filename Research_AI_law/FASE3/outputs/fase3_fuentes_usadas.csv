@@ -7,3 +7,4 @@ wipo,WIPO Global Innovation Index/data_wipo_gii/WIPO_GII_2021_2025_UNIFICADO.xls
 stanford,STANFORD AI INDEX 26/PUBLIC DATA_ 2026 AI INDEX REPORT/completo/stanford_ai_index_2026_unificado.csv,True,e081bfde711bae33018b11c1169179eb0ed7e19de859fb25a737da92dcb5d993,real source file
 oecd,OECD/OECD_Data_Central_unificado.xlsx,True,9f14c9c872058631a778c9366e961d470549be3eb9547248f382cc9feb33097f,real source file
 anthropic,ANTROPHIC/data_unificada/antrophic_economic_index.xlsx,True,b0653dbb33ca5429b5d2d34069180d0a82581bf8119c663da4bf052eb90be7e7,real source file
+TECHIERAY,tr_regulatory_metadata.csv,True,,Techieray Tracker. Auditado manual (N=42) para corregir EU AI Act y falsos positivos.

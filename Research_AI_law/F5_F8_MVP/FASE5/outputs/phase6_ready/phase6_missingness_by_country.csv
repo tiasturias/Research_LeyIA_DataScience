@@ -1,44 +1,44 @@
 iso3,country_name_canonical,n_null_all_columns,n_null_observed_core_40,pct_null_observed_core_40,n_null_observed_core_46,pct_null_observed_core_46
-ARE,United Arab Emirates,9,3,7.5,4,8.6957
-SGP,Singapore,7,2,5.0,3,6.5217
-NOR,Norway,11,6,15.0,6,13.0435
-IRL,Ireland,11,6,15.0,6,13.0435
-FRA,France,11,6,15.0,6,13.0435
-ESP,Spain,11,6,15.0,6,13.0435
-NZL,New Zealand,3,1,2.5,1,2.1739
-NLD,Netherlands (Kingdom of the),11,6,15.0,6,13.0435
-GBR,United Kingdom,5,1,2.5,1,2.1739
-QAT,Qatar,19,9,22.5,10,21.7391
-AUS,Australia,5,1,2.5,1,2.1739
-ISR,Israel,5,1,2.5,1,2.1739
-BEL,Belgium,11,6,15.0,6,13.0435
+ARE,United Arab Emirates,9,3,7.5,4,9.0909
+SGP,Singapore,7,2,5.0,3,6.8182
+NOR,Norway,1,0,0.0,0,0.0
+IRL,Ireland,1,0,0.0,0,0.0
+FRA,France,1,0,0.0,0,0.0
+ESP,Spain,1,0,0.0,0,0.0
+NZL,New Zealand,3,1,2.5,1,2.2727
+NLD,Netherlands (Kingdom of the),1,0,0.0,0,0.0
+GBR,United Kingdom,5,1,2.5,1,2.2727
+QAT,Qatar,9,3,7.5,4,9.0909
+AUS,Australia,5,1,2.5,1,2.2727
+ISR,Israel,5,1,2.5,1,2.2727
+BEL,Belgium,1,0,0.0,0,0.0
 CAN,Canada,1,0,0.0,0,0.0
-CHE,Switzerland,13,6,15.0,7,15.2174
-SWE,Sweden,11,6,15.0,6,13.0435
-AUT,Austria,13,7,17.5,7,15.2174
+CHE,Switzerland,3,0,0.0,1,2.2727
+SWE,Sweden,1,0,0.0,0,0.0
+AUT,Austria,3,1,2.5,1,2.2727
 KOR,South Korea,1,0,0.0,0,0.0
-HUN,Hungary,13,7,17.5,7,15.2174
-DNK,Denmark,11,6,15.0,6,13.0435
-DEU,Germany,13,6,15.0,7,15.2174
-POL,Poland,11,6,15.0,6,13.0435
-TWN,Taiwan,56,20,50.0,21,45.6522
-CZE,Czech Republic,13,7,17.5,7,15.2174
-ITA,Italy,11,6,15.0,6,13.0435
-BGR,Bulgaria,15,7,17.5,8,17.3913
-FIN,Finland,11,6,15.0,6,13.0435
-CRI,Costa Rica,19,10,25.0,10,21.7391
-CHL,Chile,7,3,7.5,3,6.5217
-USA,United States,5,1,2.5,2,4.3478
-CHN,China,11,4,10.0,5,10.8696
-IND,India,7,2,5.0,3,6.5217
+HUN,Hungary,3,1,2.5,1,2.2727
+DNK,Denmark,1,0,0.0,0,0.0
+DEU,Germany,3,0,0.0,1,2.2727
+POL,Poland,1,0,0.0,0,0.0
+TWN,Taiwan,56,20,50.0,21,47.7273
+CZE,Czech Republic,3,1,2.5,1,2.2727
+ITA,Italy,1,0,0.0,0,0.0
+BGR,Bulgaria,5,1,2.5,2,4.5455
+FIN,Finland,1,0,0.0,0,0.0
+CRI,Costa Rica,9,4,10.0,4,9.0909
+CHL,Chile,7,3,7.5,3,6.8182
+USA,United States,5,1,2.5,2,4.5455
+CHN,China,11,4,10.0,5,11.3636
+IND,India,7,2,5.0,3,6.8182
 JPN,Japan,1,0,0.0,0,0.0
-EST,Estonia,19,10,25.0,10,21.7391
-ARG,Argentina,7,3,7.5,3,6.5217
-BRA,Brazil,5,1,2.5,1,2.1739
-COL,Colombia,7,2,5.0,2,4.3478
-MEX,Mexico,17,9,22.5,9,19.5652
-PER,Peru,11,4,10.0,4,8.6957
-URY,Uruguay,21,10,25.0,11,23.913
-GRC,Greece,15,7,17.5,8,17.3913
-ROU,Romania,13,7,17.5,7,15.2174
-HRV,Croatia,15,8,20.0,8,17.3913
+EST,Estonia,9,4,10.0,4,9.0909
+ARG,Argentina,7,3,7.5,3,6.8182
+BRA,Brazil,5,1,2.5,1,2.2727
+COL,Colombia,7,2,5.0,2,4.5455
+MEX,Mexico,7,3,7.5,3,6.8182
+PER,Peru,11,4,10.0,4,9.0909
+URY,Uruguay,11,4,10.0,5,11.3636
+GRC,Greece,5,1,2.5,2,4.5455
+ROU,Romania,3,1,2.5,1,2.2727
+HRV,Croatia,5,2,5.0,2,4.5455

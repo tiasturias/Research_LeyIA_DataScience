@@ -1,10 +1,8 @@
 variable_matriz,n_total,n_non_null,n_missing,pct_complete,below_threshold
-iapp_ley_ia_vigente,43,18,25,41.86,False
-iapp_categoria_obligatoriedad,43,18,25,41.86,False
-iapp_proyecto_ley_ia,43,18,25,41.86,False
-iapp_modelo_gobernanza,43,18,25,41.86,False
-iapp_n_leyes_relacionadas,43,18,25,41.86,False
-iapp_n_autoridades,43,18,25,41.86,False
+tr_ley_ia_vigente,43,43,0,100.0,False
+tr_categoria_obligatoriedad,43,43,0,100.0,False
+tr_proyecto_ley_ia,43,43,0,100.0,False
+tr_modelo_gobernanza,43,43,0,100.0,False
 oxford_ind_company_investment_emerging_tech,43,43,0,100.0,False
 oxford_ind_ai_unicorns_log,43,43,0,100.0,False
 oxford_ind_non_ai_unicorns_log,43,43,0,100.0,False

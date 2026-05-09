@@ -1,0 +1,10 @@
+ISO3,País,Ley_Vigente,Proy_de_Ley,Estrategia,Guía_Softlaw,Autoridad_Dedicada,Justificación_Notas
+CHN,China,0,1,1,1,1,"No hay ley nacional única. Regulación fragmentada y sectorial. Existen borradores/drafts en discusión (CAC como autoridad central)."
+IND,India,0,1,1,1,1,"Carece de ley integral, pero existen 'multiple private member bills'. Tienen guías voluntarias y anuncian un AI Safety Institute."
+JPN,Japón,0,1,1,1,1,"Aún no ha promulgado ley general vinculante (Promotion Act en proyecto). AI Basic Plan (dic 2025) y soft law (Hiroshima)."
+KOR,Corea del Sur,0,1,1,1,1,"Basic AI Act aprobada dic 2025, pero en periodo de gracia. Sin vigencia plena aún."
+SGP,Singapur,0,0,1,1,0,"Sin legislación integral ni proyectos (prefieren enfoque no vinculante). Utilizan el Model AI Governance Framework y AI Verify."
+TWN,Taiwán,1,0,1,1,1,"Artificial Intelligence Basic Act aprobada (dic 2025) y vigente estableciendo principios de gobernanza. MoDA encargada."
+ISR,Israel,0,0,1,1,1,"'No AI-specific regulation yet'. Abordaje sectorial con guías y sandboxes. Crearon el 'National AI Directorate'."
+ARE,Emiratos Árabes Unidos,0,0,1,1,1,"'No comprehensive, binding AI-specific regulation yet'. Tienen estrategia nacional, guías y el AI Council/AI Office."
+QAT,Qatar,0,0,1,0,0,"Menciones sobre inversiones en infraestructura de IA (National Vision 2030), pero sin evidencia de leyes, proyectos o guías formales."

@@ -5,9 +5,9 @@ Fase 5 es la etapa de preparacion de datos del MVP end-to-end. Su trabajo no es 
 ## Que hace Fase 5
 
 1. Define la muestra MVP de 43 paises.
-2. Selecciona 46 variables observadas reales, todas verificadas contra el diccionario oficial de Fase 3.
-3. Construye una matriz humana `43 x 46` para auditoria sustantiva.
-4. Construye una matriz tecnica `43 x 138` para modelado en Fase 6.
+2. Selecciona 44 variables observadas reales, todas verificadas contra el diccionario oficial de Fase 3.
+3. Construye una matriz humana `43 x 44` para auditoria sustantiva.
+4. Construye una matriz tecnica `43 x 124` para modelado en Fase 6.
 5. Genera transformaciones auditables: log, signed log, robust z-score, one-hot categorico y agregados regulatorios.
 6. Preserva los valores faltantes. No imputa.
 7. Congela un split `train/test` reproducible para modelado inicial.
@@ -49,7 +49,7 @@ Fase 5 no modifica Fase 4. Sus outputs tambien quedan hasheados en el manifiesto
 
 Fase 6 necesita una matriz lista para modelar, no una coleccion de CSV sueltos. Fase 5 entrega:
 
-- una matriz tecnica con las 46 variables observadas y sus features derivadas;
+- una matriz tecnica con las 44 variables observadas y sus features derivadas;
 - roles analiticos de cada variable: regulacion, inversion, adopcion, innovacion y controles;
 - split train/test congelado;
 - parametros de transformacion;
@@ -69,10 +69,10 @@ Tambien existe un paquete tecnico independiente en `outputs/phase6_ready/`. Esta
 ## Resultados obtenidos
 
 - Muestra MVP: 43 paises.
-- Variables observadas reales: 46.
-- Matriz humana auditable: 43 paises x 46 variables, mas 4 columnas identificadoras.
-- Feature matrix para Fase 6: 43 filas x 138 columnas.
-- Cobertura minima de las 46 variables: 41.86%.
+- Variables observadas reales: 44.
+- Matriz humana auditable: 43 paises x 44 variables, mas 4 columnas identificadoras.
+- Feature matrix para Fase 6: 43 filas x 124 columnas.
+- Cobertura minima de las 44 variables: 41.86%.
 - Umbral preregistrado de cobertura: 30%.
 - Outputs Fase 3/Fase 4 modificados: 0.
 - Imputaciones realizadas: 0.
@@ -88,20 +88,20 @@ El Excel esta disenado para auditoria humana. Las hojas principales son:
 - `2_Como_Auditar`: pasos concretos para auditoria human-in-the-loop.
 - `3_Paises_43`: muestra de paises, region, grupo de ingreso, motivo de inclusion y notas.
 - `4_Ingreso_Region`: definicion de `income_group`, conteos y regiones.
-- `5_Variables_40`: catalogo de variables reales del estudio, con ID V01-V46, codigo exacto, rol, transformacion y forma de auditoria.
-- `5b_Variables_46_Detalle`: detalle de las 6 variables agregadas en v2.0 para Q6.
-- `6_Matriz_40_Humana`: matriz humana principal. Aqui estan los 43 paises y las 46 variables observadas. Esta es la hoja mas importante para lectura sustantiva.
+- `5_Variables_44`: catalogo de variables reales del estudio, con ID V01-V44, codigo exacto, rol, transformacion y forma de auditoria.
+- `5b_Variables_44_Detalle`: detalle de las 6 variables agregadas en v2.0 para Q6.
+- `6_Matriz_44_Humana`: matriz humana principal. Aqui estan los 43 paises y las 44 variables observadas. Esta es la hoja mas importante para lectura sustantiva.
 - `7_Leyenda_Colores`: explica exactamente cada color usado en los encabezados.
 - `8_Casos_Atencion`: paises/casos que requieren cuidado, incluyendo Taiwan.
 - `9_Normalizacion`: explica por que se normaliza, que se hizo, que no corrige y como se audita.
 - `10_Cobertura`: cobertura variable por variable dentro de la muestra MVP.
 - `11_Features_Fase6`: matriz tecnica completa para modelado.
 - `11b_Features_Fase6_v2`: matriz tecnica completa v2.0.
-- `12_Diccionario_Cols`: explica cada una de las 138 columnas de la matriz tecnica.
+- `12_Diccionario_Cols`: explica cada una de las 124 columnas de la matriz tecnica.
 - `13_Trazabilidad`: origen de los datos desde Fase 3.
 - `14_Transformaciones`: parametros y metodos usados para logs y z-scores.
 
-En el Excel, las 46 variables observadas aparecen destacadas con color. Las columnas tecnicas tienen colores distintos para que no se confundan con el nucleo del estudio.
+En el Excel, las 44 variables observadas aparecen destacadas con color. Las columnas tecnicas tienen colores distintos para que no se confundan con el nucleo del estudio.
 
 ## Sobre `income_group`
 

@@ -1,5 +1,5 @@
 version: '0.3'
-created_at: '2026-05-08T09:07:40.591870+00:00'
+created_at: '2026-05-09T17:09:24.190112+00:00'
 fase5_version: '2.1'
 methodology_version: mvp-v0.2-methodology-correction-plus
 methodology: inferential_comparative_observational
@@ -40,8 +40,8 @@ contract:
   grain: country_iso3
   primary_key: iso3
   n_rows: 43
-  n_columns: 137
-  n_observed_core_variables: 46
+  n_columns: 124
+  n_observed_core_variables: 44
   n_observed_core_variables_v1_0: 40
   n_observed_core_variables_v2_added: 6
   no_imputation: true
@@ -96,12 +96,10 @@ questions:
   Q6: public_sector_usage
 variables_by_role:
   X1_regulatory:
-  - iapp_ley_ia_vigente
-  - iapp_categoria_obligatoriedad
-  - iapp_proyecto_ley_ia
-  - iapp_modelo_gobernanza
-  - iapp_n_leyes_relacionadas
-  - iapp_n_autoridades
+  - tr_ley_ia_vigente
+  - tr_categoria_obligatoriedad
+  - tr_proyecto_ley_ia
+  - tr_modelo_gobernanza
   Y_Q1_investment:
   - oxford_ind_company_investment_emerging_tech
   - oxford_ind_ai_unicorns_log
@@ -157,12 +155,10 @@ variables_by_role:
   - oxford_governance_ethics
 variables_by_subpregunta:
   all:
-  - iapp_ley_ia_vigente
-  - iapp_categoria_obligatoriedad
-  - iapp_proyecto_ley_ia
-  - iapp_modelo_gobernanza
-  - iapp_n_leyes_relacionadas
-  - iapp_n_autoridades
+  - tr_ley_ia_vigente
+  - tr_categoria_obligatoriedad
+  - tr_proyecto_ley_ia
+  - tr_modelo_gobernanza
   Q1:
   - oxford_ind_company_investment_emerging_tech
   - oxford_ind_ai_unicorns_log
@@ -242,12 +238,10 @@ column_groups:
   - inclusion_notes
   methodology_cols: []
   observed_core_40:
-  - iapp_ley_ia_vigente
-  - iapp_categoria_obligatoriedad
-  - iapp_proyecto_ley_ia
-  - iapp_modelo_gobernanza
-  - iapp_n_leyes_relacionadas
-  - iapp_n_autoridades
+  - tr_ley_ia_vigente
+  - tr_categoria_obligatoriedad
+  - tr_proyecto_ley_ia
+  - tr_modelo_gobernanza
   - oxford_ind_company_investment_emerging_tech
   - oxford_ind_ai_unicorns_log
   - oxford_ind_non_ai_unicorns_log
@@ -282,13 +276,13 @@ column_groups:
   - wb_mobile_subscriptions_per100
   - wb_secure_servers_per_1m
   - wb_electric_consumption_kwh_pc
+  - oxford_e_government_delivery
+  - oxford_government_digital_policy
   observed_core_46:
-  - iapp_ley_ia_vigente
-  - iapp_categoria_obligatoriedad
-  - iapp_proyecto_ley_ia
-  - iapp_modelo_gobernanza
-  - iapp_n_leyes_relacionadas
-  - iapp_n_autoridades
+  - tr_ley_ia_vigente
+  - tr_categoria_obligatoriedad
+  - tr_proyecto_ley_ia
+  - tr_modelo_gobernanza
   - oxford_ind_company_investment_emerging_tech
   - oxford_ind_ai_unicorns_log
   - oxford_ind_non_ai_unicorns_log
@@ -337,10 +331,8 @@ column_groups:
   - oecd_2_indigo_oecd_indigo_score
   - oecd_4_digital_gov_oecd_digital_gov_overall
   observed_numeric:
-  - iapp_ley_ia_vigente
-  - iapp_proyecto_ley_ia
-  - iapp_n_leyes_relacionadas
-  - iapp_n_autoridades
+  - tr_ley_ia_vigente
+  - tr_proyecto_ley_ia
   - oxford_ind_company_investment_emerging_tech
   - oxford_ind_ai_unicorns_log
   - oxford_ind_non_ai_unicorns_log
@@ -382,8 +374,8 @@ column_groups:
   - oecd_2_indigo_oecd_indigo_score
   - oecd_4_digital_gov_oecd_digital_gov_overall
   observed_categorical:
-  - iapp_categoria_obligatoriedad
-  - iapp_modelo_gobernanza
+  - tr_categoria_obligatoriedad
+  - tr_modelo_gobernanza
   log_transform_cols:
   - oxford_ind_ai_unicorns_log_log
   - oxford_ind_non_ai_unicorns_log_log
@@ -395,10 +387,8 @@ column_groups:
   - wb_secure_servers_per_1m_log
   - wb_electric_consumption_kwh_pc_log
   robust_zscore_cols:
-  - iapp_ley_ia_vigente_z
-  - iapp_proyecto_ley_ia_z
-  - iapp_n_leyes_relacionadas_z
-  - iapp_n_autoridades_z
+  - tr_ley_ia_vigente_z
+  - tr_proyecto_ley_ia_z
   - oxford_ind_company_investment_emerging_tech_z
   - oxford_ind_ai_unicorns_log_z
   - oxford_ind_ai_unicorns_log_log_z
@@ -454,32 +444,21 @@ column_groups:
   - n_hybrid
   - regulatory_intensity
   - n_regulatory_mechanisms
-  one_hot_cols:
-  - iapp_categoria_obligatoriedad_binding_ai_specific_horizontal_law
-  - iapp_categoria_obligatoriedad_binding_ai_specific_horizontal_law_light_touch
-  - iapp_categoria_obligatoriedad_binding_ai_specific_laws_subnational_or_use_case
-  - iapp_categoria_obligatoriedad_binding_ai_specific_laws_use_case
-  - iapp_categoria_obligatoriedad_nonbinding_ai_frameworks_plus_adjacent_binding_laws
-  - iapp_modelo_gobernanza_binding_horizontal_ai_law
-  - iapp_modelo_gobernanza_binding_use_case_specific_ai_laws
-  - iapp_modelo_gobernanza_draft_horizontal_ai_law
-  - iapp_modelo_gobernanza_strategy_voluntary_sectoral
+  one_hot_cols: []
   audit_trace_cols:
   - binding_variables_used
   - non_binding_variables_used
   - hybrid_variables_used
   non_estimable_derived_features:
-  - iapp_ley_ia_vigente_z
-  - iapp_proyecto_ley_ia_z
+  - tr_ley_ia_vigente_z
+  - tr_proyecto_ley_ia_z
   - oxford_ind_ai_unicorns_log_z
   - oxford_ind_ai_unicorns_log_log_z
   - anthropic_collaboration_pct_z
   - oxford_ind_data_governance_z
   candidate_numeric_model_features:
-  - iapp_ley_ia_vigente
-  - iapp_proyecto_ley_ia
-  - iapp_n_leyes_relacionadas
-  - iapp_n_autoridades
+  - tr_ley_ia_vigente
+  - tr_proyecto_ley_ia
   - oxford_ind_company_investment_emerging_tech
   - oxford_ind_ai_unicorns_log
   - oxford_ind_non_ai_unicorns_log
@@ -529,8 +508,6 @@ column_groups:
   - wb_mobile_subscriptions_per100_log
   - wb_secure_servers_per_1m_log
   - wb_electric_consumption_kwh_pc_log
-  - iapp_n_leyes_relacionadas_z
-  - iapp_n_autoridades_z
   - oxford_ind_company_investment_emerging_tech_z
   - oxford_ind_non_ai_unicorns_log_z
   - oxford_ind_non_ai_unicorns_log_log_z
@@ -581,15 +558,6 @@ column_groups:
   - n_hybrid
   - regulatory_intensity
   - n_regulatory_mechanisms
-  - iapp_categoria_obligatoriedad_binding_ai_specific_horizontal_law
-  - iapp_categoria_obligatoriedad_binding_ai_specific_horizontal_law_light_touch
-  - iapp_categoria_obligatoriedad_binding_ai_specific_laws_subnational_or_use_case
-  - iapp_categoria_obligatoriedad_binding_ai_specific_laws_use_case
-  - iapp_categoria_obligatoriedad_nonbinding_ai_frameworks_plus_adjacent_binding_laws
-  - iapp_modelo_gobernanza_binding_horizontal_ai_law
-  - iapp_modelo_gobernanza_binding_use_case_specific_ai_laws
-  - iapp_modelo_gobernanza_draft_horizontal_ai_law
-  - iapp_modelo_gobernanza_strategy_voluntary_sectoral
   model_exclude_cols_default:
   - iso3
   - country_name_canonical
@@ -606,10 +574,10 @@ column_groups:
   - binding_variables_used
   - non_binding_variables_used
   - hybrid_variables_used
-  - iapp_categoria_obligatoriedad
-  - iapp_modelo_gobernanza
-  - iapp_ley_ia_vigente_z
-  - iapp_proyecto_ley_ia_z
+  - tr_categoria_obligatoriedad
+  - tr_modelo_gobernanza
+  - tr_ley_ia_vigente_z
+  - tr_proyecto_ley_ia_z
   - oxford_ind_ai_unicorns_log_z
   - oxford_ind_ai_unicorns_log_log_z
   - anthropic_collaboration_pct_z
@@ -621,12 +589,10 @@ column_groups:
   - region
   - income_group
   X1_regulatory:
-  - iapp_ley_ia_vigente
-  - iapp_categoria_obligatoriedad
-  - iapp_proyecto_ley_ia
-  - iapp_modelo_gobernanza
-  - iapp_n_leyes_relacionadas
-  - iapp_n_autoridades
+  - tr_ley_ia_vigente
+  - tr_categoria_obligatoriedad
+  - tr_proyecto_ley_ia
+  - tr_modelo_gobernanza
   X2_controls:
   - wb_gdp_per_capita_ppp
   - wb_internet_penetration
@@ -667,7 +633,7 @@ column_groups:
   Y_Q5_population_usage: *id001
   Y_Q6_public_sector: *id002
 coverage:
-  min_pct_complete_observed_core_46: 41.86
+  min_pct_complete_observed_core_46: 60.47
   coverage_threshold_pct: 30.0
   all_observed_core_vars_above_threshold: true
 version_notes: 'v0.3 (2026-05-08): No holdout, non estimable policy. Methodology correction

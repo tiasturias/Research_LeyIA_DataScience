@@ -19,8 +19,8 @@ transformaciones:
     aplica_a: "variables numericas observadas y derivadas no binarias"
     metodo: "(value - median) / MAD"
   one_hot:
-    - iapp_categoria_obligatoriedad
-    - iapp_modelo_gobernanza
+    - tr_categoria_obligatoriedad
+    - tr_modelo_gobernanza
   agregadas:
     - n_binding
     - n_non_binding

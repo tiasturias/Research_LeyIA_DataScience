@@ -134,7 +134,7 @@ def main():
     # Consolidate primary results and effective_n
     primary_results = pd.concat([
         df for df in [q1, q2, q3, q5, q6] if not df.empty
-    ], ignore_eval=True) if any(not df.empty for df in [q1, q2, q3, q5, q6]) else pd.DataFrame()
+    ], ignore_index=True) if any(not df.empty for df in [q1, q2, q3, q5, q6]) else pd.DataFrame()
     
     if not primary_results.empty:
         primary_results.to_csv(OUTPUTS / "primary_results_long.csv", index=False)

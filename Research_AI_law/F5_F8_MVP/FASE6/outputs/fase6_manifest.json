@@ -1,6 +1,6 @@
 {
   "fase6_version": "2.1+",
-  "created_at": "2026-05-08T09:32:16.644887+00:00",
+  "created_at": "2026-05-09T17:13:26.556263+00:00",
   "methodology_version": "mvp-v0.2-methodology-correction-plus",
   "methodology": "inferential_comparative_observational",
   "primary_estimand": "adjusted_association",
@@ -41,9 +41,9 @@
   },
   "run_metadata": {
     "q1_rows": 12,
-    "q2_rows": 29,
+    "q2_rows": 30,
     "q3_rows": 6,
-    "q4_countries": 18,
+    "q4_countries": 43,
     "q5_rows": 18,
     "q6_rows": 36
   }

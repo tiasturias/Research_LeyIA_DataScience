@@ -6,12 +6,10 @@ v1_0_count: 40
 v2_0_total: 46
 
 variables:
-  - {variable_matriz: iapp_ley_ia_vigente, bloque: regulatory_treatment, rol_mvp: X1_regulatory, tipo: binary, subpregunta: all, transform: none, razon: "Ley IA vigente; proxy binding principal"}
-  - {variable_matriz: iapp_categoria_obligatoriedad, bloque: regulatory_treatment, rol_mvp: X1_regulatory, tipo: categorical, subpregunta: all, transform: one_hot, razon: "Categoria de obligatoriedad/restrictividad"}
-  - {variable_matriz: iapp_proyecto_ley_ia, bloque: regulatory_treatment, rol_mvp: X1_regulatory, tipo: binary, subpregunta: all, transform: none, razon: "Proyecto de ley IA en tramite"}
-  - {variable_matriz: iapp_modelo_gobernanza, bloque: regulatory_treatment, rol_mvp: X1_regulatory, tipo: categorical, subpregunta: all, transform: one_hot, razon: "Modelo institucional de gobernanza"}
-  - {variable_matriz: iapp_n_leyes_relacionadas, bloque: regulatory_treatment, rol_mvp: X1_regulatory, tipo: numeric, subpregunta: all, transform: zscore, razon: "Densidad normativa relacionada"}
-  - {variable_matriz: iapp_n_autoridades, bloque: regulatory_treatment, rol_mvp: X1_regulatory, tipo: numeric, subpregunta: all, transform: zscore, razon: "Capacidad institucional/enforcement"}
+  - {variable_matriz: tr_ley_ia_vigente, bloque: regulatory_treatment, rol_mvp: X1_regulatory, tipo: binary, subpregunta: all, transform: none, razon: "Ley IA vigente; proxy binding principal"}
+  - {variable_matriz: tr_categoria_obligatoriedad, bloque: regulatory_treatment, rol_mvp: X1_regulatory, tipo: categorical, subpregunta: all, transform: one_hot, razon: "Categoria de obligatoriedad/restrictividad"}
+  - {variable_matriz: tr_proyecto_ley_ia, bloque: regulatory_treatment, rol_mvp: X1_regulatory, tipo: binary, subpregunta: all, transform: none, razon: "Proyecto de ley IA en tramite"}
+  - {variable_matriz: tr_modelo_gobernanza, bloque: regulatory_treatment, rol_mvp: X1_regulatory, tipo: categorical, subpregunta: all, transform: one_hot, razon: "Modelo institucional de gobernanza"}
 
   - {variable_matriz: oxford_ind_company_investment_emerging_tech, bloque: ecosystem_outcome, rol_mvp: Y_Q1_investment, tipo: numeric, subpregunta: Q1, transform: zscore, razon: "Inversion empresarial en tecnologias emergentes"}
   - {variable_matriz: oxford_ind_ai_unicorns_log, bloque: ecosystem_outcome, rol_mvp: Y_Q1_investment, tipo: numeric, subpregunta: Q1, transform: log_zscore, razon: "Unicornios IA, indicador de inversion/escala"}
